@@ -35,19 +35,19 @@
 			<Text>Bermuda Üçgeni</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION">
-			<Text>Üç bölgelik doğa harikası. Komşu bölgelere +5 [ICON_Science] Bilim sağlar. İçine giren birimler uzaktaki bir okyanusa ışınlanır, ancak bunu yapan deniz birimleri 'Gizemli Akıntılar' yeteneği kazanır (+1 [ICON_Movement] Hareket).</Text>
+			<Text>Üç karolık doğa harikası. Komşu karolara +5 [ICON_Science] Bilim sağlar. İçine giren birimler uzaktaki bir okyanusa ışınlanır, ancak bunu yapan deniz birimleri 'Gizemli Akıntılar' yeteneği kazanır (+1 [ICON_Movement] Hareket).</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_NAME">
 			<Text>Gençlik Pınarı</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_DESCRIPTION">
-			<Text>Tek bölgelik doğa harikası. +4 [ICON_Science] Bilim, +4 [ICON_Faith] İnanç ve Tatlı Su sağlar. İçine giren kara muharebe birimleri 'Yaşam Suyu' yeteneği kazanır (herhangi bir bölgede +10 HP iyileşme).</Text>
+			<Text>Tek karolık doğa harikası. +4 [ICON_Science] Bilim, +4 [ICON_Faith] İnanç ve Tatlı Su sağlar. İçine giren kara muharebe birimleri 'Yaşam Suyu' yeteneği kazanır (herhangi bir bölgede +10 HP iyileşme).</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_PAITITI_NAME">
 			<Text>Païtiti</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_PAITITI_DESCRIPTION">
-			<Text>Üç bölgelik geçilmez doğa harikası. Komşu bölgelere +3 [ICON_Gold] Altın ve +2 [ICON_Culture] Kültür sağlar. Bu bölgeye sahip olan şehir, giden uluslararası [ICON_TradeRoute] Ticaret Yollarında +4 [ICON_Gold] Altın kazanır.</Text>
+			<Text>Üç karolık geçilmez doğa harikası. Komşu karolara +3 [ICON_Gold] Altın ve +2 [ICON_Culture] Kültür sağlar. Bu bölgeye sahip olan şehir, giden uluslararası [ICON_TradeRoute] Ticaret Yollarında +4 [ICON_Gold] Altın kazanır.</Text>
 		</Row>
 		<!-- Gran Colombia: Improvement Info -->
 		<Row Tag="LOC_IMPROVEMENT_HACIENDA_NAME">
@@ -136,7 +136,7 @@
 			<Text>Mutal</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Muharebe Gücü, [ICON_Capital] Başkent'e (Ix Mutal Ajaw) 6 bölge mesafesindeki birimlere.</Text>
+			<Text>+5 [ICON_Strength] Muharebe Gücü, [ICON_Capital] Başkent'e (Ix Mutal Ajaw) 6 karo mesafesindeki birimlere.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION">
 			<Text>+{1_Amount} Muharebe Gücü (Mutal özelliğinden)</Text>

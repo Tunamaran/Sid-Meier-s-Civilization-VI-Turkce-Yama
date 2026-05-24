@@ -178,7 +178,7 @@
 			<Text>Pinnacles</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION">
-			<Text>Tek bölgeli, geçilemez bir doğa harikası. Komşu bölgelere +2 [ICON_CULTURE] Kültür ve +2 [ICON_Gold] Altın sağlar. Komşu bölgelere normal +2 yerine +4 Çekicilik sağlar.</Text>
+			<Text>Tek karolu, geçilemez bir doğa harikası. Komşu karolara +2 [ICON_CULTURE] Kültür ve +2 [ICON_Gold] Altın sağlar. Komşu bölgelere normal +2 yerine +4 Çekicilik sağlar.</Text>
 		</Row>
 		<!--Resources-->
 		<Row Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">

@@ -108,10 +108,10 @@
 			<Text>Komutan General Liderliği</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_STRENGTH_DESCRIPTION">
-			<Text>Komutan General'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Komutan General'den +5 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMANDANTE_STRENGTH_AOE_LAND">
-			<Text>2 bölge içindeki kara birimlerine +5 [ICON_Strength] Muharebe Gücü.</Text>
+			<Text>2 karo içindeki kara birimlerine +5 [ICON_Strength] Muharebe Gücü.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_JOSE_DE_SUCRE_SPAWN_UNIT">
 			<Text>İnşa edebileceğin en güçlü kara muharebe birimini 1 terfi seviyesiyle anında oluşturur.</Text>
@@ -126,16 +126,16 @@
 			<Text>1 [ICON_Governor] Vali Unvanı kazandırır.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_CAVALRY_BUFF">
-			<Text>2 bölge içindeki Süvari sınıfı birliklere +4 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+			<Text>2 karo içindeki Süvari sınıfı birliklere +4 [ICON_Strength] Muharebe Gücü sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMANDANTE_CAVALRY_BUFF_DESCRIPTION">
 			<Text>+4 [ICON_Strength] Muharebe Gücü (José Antonio Páez)</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_RESET_UNIT_MOVES">
-			<Text>2 bölge içindeki tüm kara muharebe birimleri [ICON_Movement] Hareket ve saldırı kabiliyetini yeniden kazanır.</Text>
+			<Text>2 karo içindeki tüm kara muharebe birimleri [ICON_Movement] Hareket ve saldırı kabiliyetini yeniden kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MELEE_ANTICAV_BUFF">
-			<Text>2 bölge içindeki Yakın Dövüş ve Süvari Karşıtı sınıfı birliklere +4 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+			<Text>2 karo içindeki Yakın Dövüş ve Süvari Karşıtı sınıfı birliklere +4 [ICON_Strength] Muharebe Gücü sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMANDANTE_MELEE_ANTICAV_BUFF_DESCRIPTION">
 			<Text>+4 [ICON_Strength] Muharebe Gücü (Santiago Mariño)</Text>
@@ -153,13 +153,13 @@
 			<Text>[ICON_TradeRoute] Ticaret Yolu kapasitesini 1 artırır. En yakın şehirde bir Tüccar birimi sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_MONTILLA_UNIT_STR_VS_DISTRICTS">
-			<Text>2 bölge içindeki kara birimleri, bölgelere saldırırken +4 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+			<Text>2 karo içindeki kara birimleri, bölgelere saldırırken +4 [ICON_Strength] Muharebe Gücü kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMANDANTE_UNIT_STR_VS_DISTRICTS_DESCRIPTION">
 			<Text>Bölgelere saldırırken +4 [ICON_Strength] Muharebe Gücü (Mariano Montilla)</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_RIBAS_DAMAGE_NEARBY_UNITS">
-			<Text>2 bölge içindeki düşman birimleri 30 Can kaybeder.</Text>
+			<Text>2 karo içindeki düşman birimleri 30 Can kaybeder.</Text>
 		</Row>
 	</EnglishText>
 </GameData>

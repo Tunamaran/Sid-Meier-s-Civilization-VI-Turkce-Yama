@@ -57,7 +57,7 @@
 			<Text>AIF projesini tamamlamak bu zamanda daha da kritik öneme sahiptir ve size tur başına +20 [ICON_Gold] Altın ödül kazandıracaktır.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_6">
-			<Text>Başkentinizde ücretsiz bir Yerleşimci belirdi. Bu noktadan itibaren, yeni şehirler mevcut şehirlerinizden birine 10 bölge mesafede inşa edilmelidir.</Text>
+			<Text>Başkentinizde ücretsiz bir Yerleşimci belirdi. Bu noktadan itibaren, yeni şehirler mevcut şehirlerinizden birine 10 karo mesafede inşa edilmelidir.</Text>
 		</Row>
 		<!-- Danger Event Gameplay Effects-->
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_1">
@@ -96,7 +96,7 @@
 			<Text>{2_UnitName} biriminizin yanına bir {1_UnitName} ulaştı.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_3">
-			<Text>{1_UnitName} biriminizin yakınındaki keşfedilmemiş bölge açığa çıktı.</Text>
+			<Text>{1_UnitName} biriminizin yakınındaki keşfedilmemiş karo açığa çıktı.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_4">
 			<Text>{1_UnitName} biriminiz kalıcı olarak +1 [ICON_Movement] Hareket puanı kazandı.</Text>

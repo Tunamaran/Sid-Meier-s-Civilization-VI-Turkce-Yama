@@ -600,7 +600,7 @@
 		
 		<!-- Overlays -->
 		<Row Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT">
-			<Text>Edgelord Muharebe Bonus Bölgesi</Text>
+			<Text>Edgelord Muharebe bonus Bölgesi</Text>
 		</Row>
 		
 		<!-- Zombie Combat Unit -->

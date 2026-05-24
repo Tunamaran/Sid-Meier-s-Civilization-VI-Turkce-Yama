@@ -16,7 +16,7 @@
 			<Text>Uluru</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_ULURU_DESCRIPTION">
-			<Text>Tek bölgeli, geçilemez bir doğa harikası. Komşu bölgelere +2 [ICON_CULTURE] Kültür ve +2 [ICON_FAITH] İnanç sağlar. Komşu bölgelere normal +2 yerine +4 Çekicilik sağlar.</Text>
+			<Text>Tek karolu, geçilemez bir doğa harikası. Komşu karolara +2 [ICON_CULTURE] Kültür ve +2 [ICON_FAITH] İnanç sağlar. Komşu bölgelere normal +2 yerine +4 Çekicilik sağlar.</Text>
 		</Row>
 		<!-- Improvement Info-->
 		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
@@ -55,7 +55,7 @@
 			<Text>+{1_Amount} Muharebe Gücü Kıyı bölgelerinde</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
-			<Text>+{1_Amount} Muharebe Gücü Dost Bölge dışında</Text>
+			<Text>+{1_Amount} Muharebe Gücü Dost Karo dışında</Text>
 		</Row>
 		<!-- XP2-->
 		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION">

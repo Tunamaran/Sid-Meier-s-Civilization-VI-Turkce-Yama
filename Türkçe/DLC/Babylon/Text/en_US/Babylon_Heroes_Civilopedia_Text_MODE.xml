@@ -31,7 +31,7 @@
 			<Text>Bu doğal keşif fırsatlarına ek olarak, tekrarlanabilir [COLOR:ProductionDark]Kahramanlık Destanları[ENDCOLOR] Şehir Projesi'ni tamamlayarak rastgele yeni bir Kahraman keşfedebilirsiniz. Bu proje, [COLOR:Civ6Yellow]Anıt[ENDCOLOR] binası inşa etmiş herhangi bir şehirde etkinleştirilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_4">
-			<Text>Keşfettiğiniz tüm Kahramanlar hakkında güçleri, yetenekleri ve durumları dahil tam bilgiyi Kahramanlar ve Büyük Şahsiyetler ekranında bulabilirsiniz.</Text>
+			<Text>Keşfettiğiniz tüm Kahramanlar hakkında güçleri, yetenekleri ve durumları dahil tam bilgiyi Kahramanlar ve Büyük Kişiler ekranında bulabilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_TITLE">
 			<Text>Kahramanları Sahiplenmek</Text>
@@ -55,7 +55,7 @@
 			<Text>Bir Kahramanın gücü ve yetenek kudreti, ortaya çıktığı Çağ'a bağlı olarak artar. Bir Kahramanı oyun boyunca birden çok kez geri çağırdığınızda, sonraki Çağlarda daha güçlü olarak geri dönecektir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_3">
-			<Text>Sahiplendiğiniz veya keşfettiğiniz herhangi bir Kahramanın mevcut yetenekleri hakkındaki tüm ayrıntıları Kahramanlar ve Büyük Şahsiyetler ekranında bulabilirsiniz.</Text>
+			<Text>Sahiplendiğiniz veya keşfettiğiniz herhangi bir Kahramanın mevcut yetenekleri hakkındaki tüm ayrıntıları Kahramanlar ve Büyük Kişiler ekranında bulabilirsiniz.</Text>
 		</Row>		
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_TITLE">
 			<Text>Kahraman Ömür Süresi</Text>

@@ -11,13 +11,13 @@
 	<EnglishText>
 		<!-- REPLACEMENTS -->
 		<Row Tag="LOC_GREAT_PEOPLE_TITLE">
-			<Text>Kahramanlar ve Büyük Şahsiyetler</Text>
+			<Text>Kahramanlar ve Büyük Kişiler</Text>
 		</Row>
 		<Row Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
-			<Text>Kahramanlar ve Büyük Şahsiyetler[NEWLINE][NEWLINE]Mevcut [ICON_GreatPerson] Büyük Şahsiyetleri ve bir [ICON_GreatPerson] Büyük Şahsiyet kazanma yolundaki ilerlemenizi görüntüleyin[NEWLINE]Keşfedilen tüm Kahramanları mevcut durumları ve yetenekleriyle birlikte görüntüleyin</Text>
+			<Text>Kahramanlar ve Büyük Kişiler[NEWLINE][NEWLINE]Mevcut [ICON_GreatPerson] Büyük Kişileri ve bir [ICON_GreatPerson] Büyük Kişi kazanma yolundaki ilerlemenizi görüntüleyin[NEWLINE]Keşfedilen tüm Kahramanları mevcut durumları ve yetenekleriyle birlikte görüntüleyin</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
-			<Text>Kahramanları Geri Çağırma %15 daha az [ICON_Faith] İnanç maliyetlidir ve Büyük Şahsiyetlerin Hamiliği %25 daha az [ICON_Faith] İnanç maliyetlidir. Bu şehirdeki Bölgeler, türlerine göre +2 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar (örneğin, Tiyatro Meydanı bölgesinden [ICON_GreatWriter] Büyük Yazar puanı). Tepelere inşa edilmelidir.</Text>
+			<Text>Kahramanları Geri Çağırma %15 daha az [ICON_Faith] İnanç maliyetlidir ve Büyük Kişilerin Hamiliği %25 daha az [ICON_Faith] İnanç maliyetlidir. Bu şehirdeki Bölgeler, türlerine göre +2 [ICON_GreatPerson] Büyük Kişi puanı sağlar (örneğin, Tiyatro Meydanı bölgesinden [ICON_GreatWriter] Büyük Yazar puanı). Tepelere inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
 			<Text>Bu Şehirde hak iddia edilen veya geri çağrılan Kahraman birimlerinin [ICON_Lifespan] Ömür Süreleri %10 daha uzun olur. Misyoner satın alınmasını sağlar. Misyonerler yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
@@ -120,7 +120,7 @@
 			<Text>2 hücre içindeki tüm birimlere +5 [ICON_Strength] Muharebe Gücü.</Text>
 		</Row>
 		<Row Tag="LOC_HERO_COMBAT_STRENGTH_UNIT_MODIFIER">
-			<Text>Yakındaki bir İlham Verici Kahraman'dan +{1_Amount} [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Yakındaki bir İlham Verici Kahraman'dan +{1_Amount} [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HIPPOLYTA_HEAL_PER_TURN_NAME">
 			<Text>Hippolyta'nın Lütfu</Text>
@@ -221,7 +221,7 @@
 			<Text>Anansi'nin Hileleri</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_HELP">
-			<Text>Bir Bonus veya Lüks Kaynak üzerindeyken kullan. Anansi kaynağı tüketir ve {1_ScienceReward} [ICON_SCIENCE] Bilim ve {2_CultureReward} [ICON_CULTURE] Kültür üretir. Mevcut herhangi bir iyileştirme yok edilir. 1 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
+			<Text>Bir bonus veya Lüks Kaynak üzerindeyken kullan. Anansi kaynağı tüketir ve {1_ScienceReward} [ICON_SCIENCE] Bilim ve {2_CultureReward} [ICON_CULTURE] Kültür üretir. Mevcut herhangi bir iyileştirme yok edilir. 1 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_DESCRIPTION">
 			<Text>Hercules'in Görevi</Text>
@@ -263,7 +263,7 @@
 			<Text>Maui'nin İcatları</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_HELP">
-			<Text>Sahipsiz, boş bir parselde bulunuyorken kullanılır. Maui, parselde rastgele bir Bonus veya Lüks Kaynak oluşturur. 1 Kullanım hakkına mal olur ve turu sonlandırır.</Text>
+			<Text>Sahipsiz, boş bir parselde bulunuyorken kullanılır. Maui, parselde rastgele bir bonus veya Lüks Kaynak oluşturur. 1 Kullanım hakkına mal olur ve turu sonlandırır.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_DESCRIPTION">
 			<Text>Oya'nın Fırtınası</Text>
@@ -524,16 +524,16 @@
 			<Text>{1_CityName} şehrinin Süzereni değilsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_INCOMPLETE_DISTRICT">
-			<Text>İnşaat hâlindeki bir bölge üzerinde kullanılmalıdır.</Text>
+			<Text>İnşaat hâlindeki bir karo üzerinde kullanılmalıdır.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DISTRICT">
-			<Text>Bir bölge üzerinde kullanılmalıdır.</Text>
+			<Text>Bir karo üzerinde kullanılmalıdır.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DEVELOPMENT">
 			<Text>Bir bölge veya iyileştirme üzerinde kullanılmalıdır.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_LUXURY_OR_BONUS_RESOURCE">
-			<Text>Bir Lüks veya Bonus Kaynak üzerinde kullanılmalıdır.</Text>
+			<Text>Bir Lüks veya bonus Kaynak üzerinde kullanılmalıdır.</Text>
 		</Row>
 		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_PILLAGED">
 			<Text>Bu bölge zaten yağmalanmış durumda.</Text>

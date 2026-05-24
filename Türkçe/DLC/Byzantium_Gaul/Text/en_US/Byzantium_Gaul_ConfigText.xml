@@ -44,13 +44,13 @@
 			<Text>Hipodrom</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION">
-			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu bölgedeki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız.</Text>
+			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu karodaki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız.</Text>
 		</Row>
 			<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION">
-			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu bölgedeki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız. Su Parkı olan bir şehirde inşa edilemez.</Text>
+			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu karodaki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız. Su Parkı olan bir şehirde inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION">
-			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu bölgedeki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız. Bu bölgeden sağlanan birimlerin kaynak bakım maliyeti yoktur. Su Parkı olan bir şehirde inşa edilemez.</Text>
+			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu karodaki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız. Bu bölgeden sağlanan birimlerin kaynak bakım maliyeti yoktur. Su Parkı olan bir şehirde inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME">
 			<Text>Hipodrom</Text>
@@ -140,7 +140,7 @@
 			<Text>Hallstatt Kültürü</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION">
-			<Text>Maden Ocakları, tüm bölgelere küçük bir komşuluk bonusu sağlar, sahipsiz topraklarda bir Kültür Bombası oluşturur ve +1 [ICON_CULTURE] Kültür kazandırır. Uzmanlık bölgeleri, başka bir bölgeye bitişik olmaktan küçük bir komşuluk bonusu almaz ve bu bölgeler Şehir Merkezi'ne bitişik olarak inşa edilemez.</Text>
+			<Text>Maden Ocakları, tüm bölgelere küçük bir komşuluk bonusu sağlar, sahipsiz topraklarda bir Kültür Bombası oluşturur ve +1 [ICON_CULTURE] Kültür kazandırır. Uzmanlık bölgeleri, başka bir bölgeye bitişik olmaktan küçük bir komşuluk bonusu almaz ve bu karoler Şehir Merkezi'ne bitişik olarak inşa edilemez.</Text>
 		</Row>
 		<!-- Gaul: District Info -->
 		<Row Tag="LOC_DISTRICT_OPPIDUM_NAME">

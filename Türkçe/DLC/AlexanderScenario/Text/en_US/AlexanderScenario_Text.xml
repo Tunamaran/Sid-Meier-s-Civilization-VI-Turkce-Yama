@@ -87,7 +87,7 @@
 		</Row>
 		<!--Great Person Area of Effect-->
 		<Row Tag="LOC_GREATPERSON_SINGLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>+5 [ICON_Strength] Büyük General'den Muharebe Bonusu.</Text>
+			<Text>+5 [ICON_Strength] Büyük General'den Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SINGLE_COMBAT_STRENGTH_AOE_LAND">
 			<Text>2 kare içindeki tüm birimlere +5 [ICON_Strength] Muharebe Gücü ve +2 [ICON_Movement] Hareket.</Text>
@@ -96,7 +96,7 @@
 			<Text>Tüm birimlere +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOUBLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>+10 [ICON_Strength] Büyük General'den Muharebe Bonusu.</Text>
+			<Text>+10 [ICON_Strength] Büyük General'den Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOUBLE_COMBAT_STRENGTH_AOE_LAND">
 			<Text>2 kare içindeki tüm birimlere +10 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
@@ -105,7 +105,7 @@
 			<Text>Tüm birimlere +2 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_TRIPLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>+15 [ICON_Strength] Büyük General'den Muharebe Bonusu.</Text>
+			<Text>+15 [ICON_Strength] Büyük General'den Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_TRIPLE_COMBAT_STRENGTH_AOE_LAND">
 			<Text>2 kare içindeki tüm birimlere +15 [ICON_Strength] Muharebe Gücü ve +3 [ICON_Movement] Hareket.</Text>
@@ -150,7 +150,7 @@
 			<Text>Puan: {1_Score}. [Her şehir için 5 puan.]</Text>
 		</Row>
 		<Row Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_9">
-			<Text>Bonus Puanlama: {1_Bonus} Bu turda kazanırsan senaryoyu erken bitirmen karşılığında bonus puan.</Text>
+			<Text>bonus Puanlama: {1_Bonus} Bu turda kazanırsan senaryoyu erken bitirmen karşılığında bonus puan.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ALEXANDER_SCENARIO_WALLS_DESCRIPTION">
 			<Text>Şehir Merkezi ve Ordugâh Bölgesi çevresinde Surlar sağlar. Surlar, Şehir Merkezi ve Ordugâh Bölgesi'nden [ICON_Ranged] Menzilli Saldırı yapılmasına olanak tanır ve bir şehre saldırılabilmesi için aşılmaları gerekir. Bu senaryoda inşa edilemez. Surlar yalnızca senaryo başlamadan önce yerleştirilir.</Text>
@@ -174,19 +174,19 @@
 			<Text>Tek Güç</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_SINGLE_STRENGTH_DESCRIPTION">
-			<Text>Büyük General'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük General'den +5 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_NAME">
 			<Text>Çift Güç</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_DESCRIPTION">
-			<Text>Büyük General'den +10 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük General'den +10 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_TRIPLE_STRENGTH_NAME">
 			<Text>Üçlü Güç</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_TRIPLE_STRENGTH_DESCRIPTION">
-			<Text>Büyük General'den +15 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük General'den +15 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_SINGLE_MOVEMENT_NAME">
 			<Text>Tek Hareket</Text>
