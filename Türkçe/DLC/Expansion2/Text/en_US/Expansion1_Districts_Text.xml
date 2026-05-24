@@ -18,7 +18,7 @@
 			<Text>Şehrinizde finans ve ticarette uzmanlaşmış bir bölge.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
-			<Text>Şehrinizde deniz faaliyetleri için bir bölge. Ayrıca bu bölgeye binme ve bölgeden inme sırasındaki [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl Arazisine inşa edilmelidir. Resif üzerine inşa edilemez.</Text>
+			<Text>Şehrinizde deniz faaliyetleri için bir bölgedir. Bu karoya biniş ve iniş sırasında uygulanan [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl Arazisine inşa edilmelidir. Resif üzerine inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
 			<Text>Şehrinizde [ICON_Amenities] Olanakları artırarak halkınızı mutlu etmeye adanmış bir bölge. Su Parkı bulunan bir şehirde inşa edilemez.</Text>
