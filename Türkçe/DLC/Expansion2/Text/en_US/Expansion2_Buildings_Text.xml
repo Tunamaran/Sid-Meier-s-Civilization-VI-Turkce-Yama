@@ -6,10 +6,10 @@
 			<Text>Sel Bariyeri</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_DESCRIPTION">
-			<Text>Bu şehirdeki Kıyı Alçak Arazi bölgelerini sel hasarından korur. İlk inşa maliyeti ve tur başına bakım, bu şehirdeki Kıyı Alçak Arazi sayısına ve mevcut deniz seviyesine göre değişir. Şehrin bazı bölgeleri sular altında kaldıktan sonra inşa edilirse, bu bölgeler tamamen onarılabilir. Ancak tamamen sulara gömülen bölgeler asla geri kazanılamaz.[NEWLINE][NEWLINE]Bir veya daha fazla Kıyı Alçak Arazi bölgesine sahip bir şehirde inşa edilmelidir. Şehir ele geçirilirse yağmalanmaz.</Text>
+			<Text>Bu şehirdeki Kıyı Alçak Arazi bölgelerini sel hasarından korur. İlk inşa maliyeti ve tur başına bakım, bu şehirdeki Kıyı Alçak Arazi sayısına ve mevcut deniz seviyesine göre değişir. Şehrin bazı bölgeleri sular altında kaldıktan sonra inşa edilirse, bu karoler tamamen onarılabilir. Ancak tamamen sulara gömülen bölgeler asla geri kazanılamaz.[NEWLINE][NEWLINE]Bir veya daha fazla Kıyı Alçak Arazi bölgesine sahip bir şehirde inşa edilmelidir. Şehir ele geçirilirse yağmalanmaz.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_ALT_DESCRIPTION">
-			<Text>Bu şehirdeki Kıyı Alçak Arazi bölgelerini sel hasarından korur. İlk inşa maliyeti ve tur başına bakım, bu şehirdeki Kıyı Alçak Arazi sayısına ve mevcut deniz seviyesine göre değişir. Şehrin bazı bölgeleri sular altında kaldıktan sonra inşa edilirse, bu bölgeler tamamen onarılabilir. Ancak tamamen sulara gömülen bölgeler asla geri kazanılamaz.[NEWLINE][NEWLINE]Bir veya daha fazla Kıyı Alçak Arazi bölgesine sahip bir şehirde inşa edilmelidir. Şehir ele geçirilirse yağmalanmaz. Askeri Mühendisler, bir kullanım hakkı harcayarak Sel Bariyeri'nin üretiminin %20'sini tamamlayabilir.</Text>
+			<Text>Bu şehirdeki Kıyı Alçak Arazi bölgelerini sel hasarından korur. İlk inşa maliyeti ve tur başına bakım, bu şehirdeki Kıyı Alçak Arazi sayısına ve mevcut deniz seviyesine göre değişir. Şehrin bazı bölgeleri sular altında kaldıktan sonra inşa edilirse, bu karoler tamamen onarılabilir. Ancak tamamen sulara gömülen bölgeler asla geri kazanılamaz.[NEWLINE][NEWLINE]Bir veya daha fazla Kıyı Alçak Arazi bölgesine sahip bir şehirde inşa edilmelidir. Şehir ele geçirilirse yağmalanmaz. Askeri Mühendisler, bir kullanım hakkı harcayarak Sel Bariyeri'nin üretiminin %20'sini tamamlayabilir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_NAME">
 			<Text>Hidroelektrik Barajı</Text>
@@ -21,13 +21,13 @@
 			<Text>Kömür Santrali</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION">
-			<Text>Her tur, 6 bölge içindeki enerjiye ihtiyaç duyan şehirler için herhangi bir miktardaki [ICON_RESOURCE_COAL] Kömür'ü otomatik olarak [ICON_Power] Enerji'ye dönüştürür. Dönüşüm oranı:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_COAL] Kömür [ICON_PowerRight] 4 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere yoğun CO2 salınımı</Text>
+			<Text>Her tur, 6 karo içindeki enerjiye ihtiyaç duyan şehirler için herhangi bir miktardaki [ICON_RESOURCE_COAL] Kömür'ü otomatik olarak [ICON_Power] Enerji'ye dönüştürür. Dönüşüm oranı:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_COAL] Kömür [ICON_PowerRight] 4 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere yoğun CO2 salınımı</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME">
 			<Text>Petrol Santrali</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION">
-			<Text>Her tur, 6 bölge içindeki enerjiye ihtiyaç duyan şehirler için herhangi bir miktardaki [ICON_RESOURCE_OIL] Petrol'ü otomatik olarak [ICON_Power] Enerji'ye dönüştürür. Dönüşüm oranı:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_OIL] Petrol [ICON_PowerRight] 4 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere orta düzeyde CO2 salınımı[NEWLINE]Bu binanın [ICON_Production] Üretim bonusu, halihazırda bir Santral binasından bonus almayan 6 bölge içindeki tüm Şehir Merkezlerine de uygulanır.</Text>
+			<Text>Her tur, 6 karo içindeki enerjiye ihtiyaç duyan şehirler için herhangi bir miktardaki [ICON_RESOURCE_OIL] Petrol'ü otomatik olarak [ICON_Power] Enerji'ye dönüştürür. Dönüşüm oranı:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_OIL] Petrol [ICON_PowerRight] 4 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere orta düzeyde CO2 salınımı[NEWLINE]Bu binanın [ICON_Production] Üretim bonusu, halihazırda bir Santral binasından bonus almayan 6 karo içindeki tüm Şehir Merkezlerine de uygulanır.</Text>
 		</Row>
 		<!--Wonders-->
 		<Row Tag="LOC_BUILDING_GREAT_BATH_NAME">
@@ -80,7 +80,7 @@
 			<Text>Kara birlikleri, gemiye binmeye gerek kalmadan geçebilir. Modern Yol işlevi görür ve her iki ucundaki kara bölgelerinde (yoksa) Modern Yollar oluşturur. Şehir +3 [ICON_Amenities] Olanak kazanır. Bu şehirdeki tüm bölgeler +4 Çekicilik kazanır. Bu şehirdeki iyileştirmeler ve Millî Parklardan elde edilen [ICON_Tourism] Turizm +%100 artar. [ICON_TradeRoute] Buradan geçen Ticaret Yolları, varış noktalarındaki bölgelerden elde ettikleri [ICON_Gold] Altın miktarını katlayabilir.[NEWLINE][NEWLINE]Bir Kıyı bölgesine inşa edilmelidir. Köprü, birbirine tam karşıt iki kara bölgesi arasındaki altıgen boyunca düz bir hat şeklinde uzanmalıdır. Köprünün hem solunda hem de sağında en az bir su bölgesi bulunmalıdır.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_EXPANSION2_DESCRIPTION">
-			<Text>Tur başına 6 [ICON_RESOURCE_IRON] Demir sağlar. 6 bölge mesafe içindeki tüm şehirlerinize +4 [ICON_Faith] İnanç sağlar.[NEWLINE][NEWLINE]Çöl (Tepelik) arazisine inşa edilmelidir.</Text>
+			<Text>Tur başına 6 [ICON_RESOURCE_IRON] Demir sağlar. 6 karo mesafe içindeki tüm şehirlerinize +4 [ICON_Faith] İnanç sağlar.[NEWLINE][NEWLINE]Çöl (Tepelik) arazisine inşa edilmelidir.</Text>
 		</Row>
 		<!-- Other balance changes -->
 		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
@@ -90,7 +90,7 @@
 			<Text>İnşa edildiğinde +2 Diplomatik Zafer Puanı kazandırır ve 2 Havari verir.[NEWLINE][NEWLINE]Tapınağı olan bir Kutsal Alan bölgesine bitişik Ormanlık alana inşa edilmelidir ve bir Din kurmuş olmanız gerekir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_EXPANSION2_DESCRIPTION">
-			<Text>İnşa edildiğinde +4 Diplomatik Zafer Puanı kazandırır. 6 bölge mesafe içindeki tüm şehirleriniz her zaman %100 Bağlılığa sahiptir. [NEWLINE][NEWLINE]Kıyıya, karaya bitişik ve bir Liman bölgesinin yanına inşa edilmelidir.</Text>
+			<Text>İnşa edildiğinde +4 Diplomatik Zafer Puanı kazandırır. 6 karo mesafe içindeki tüm şehirleriniz her zaman %100 Bağlılığa sahiptir. [NEWLINE][NEWLINE]Kıyıya, karaya bitişik ve bir Liman bölgesinin yanına inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_POTALA_PALACE_EXPANSION2_DESCRIPTION">
 			<Text>+1 Diplomatik politika yuvası. +1 Diplomatik Zafer Puanı.[NEWLINE][NEWLINE]Bir Dağa bitişik Tepeye inşa edilmelidir.</Text>
@@ -105,7 +105,7 @@
 			<Text>Nükleer Santral</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION">
-			<Text>Her tur, 6 bölge mesafe içinde enerjiye ihtiyaç duyan şehirler için mevcut herhangi bir miktardaki [ICON_RESOURCE_URANIUM] Uranyumu şu oranda otomatik olarak [ICON_Power] Enerjiye dönüştürür:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_URANIUM] Uranyum [ICON_PowerRight] 16 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere çok az miktarda CO2 salar[NEWLINE]Bir Nükleer Santral inşa edildikten sonra yaşlandıkça, Nükleer Kaza meydana gelme ihtimali artar. [ICON_Production] Üretim ve [ICON_Science] Bilim bonusu, halihazırda bir Santral binasından bonus almayan 6 bölge mesafe içindeki tüm Şehir Merkezlerine uygulanır.</Text>
+			<Text>Her tur, 6 karo mesafe içinde enerjiye ihtiyaç duyan şehirler için mevcut herhangi bir miktardaki [ICON_RESOURCE_URANIUM] Uranyumu şu oranda otomatik olarak [ICON_Power] Enerjiye dönüştürür:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_URANIUM] Uranyum [ICON_PowerRight] 16 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere çok az miktarda CO2 salar[NEWLINE]Bir Nükleer Santral inşa edildikten sonra yaşlandıkça, Nükleer Kaza meydana gelme ihtimali artar. [ICON_Production] Üretim ve [ICON_Science] Bilim bonusu, halihazırda bir Santral binasından bonus almayan 6 karo mesafe içindeki tüm Şehir Merkezlerine uygulanır.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_BIG_BEN_EXPANSION2_DESCRIPTION">
 			<Text>+1 Ekonomik politika yuvası[NEWLINE][NEWLINE]İnşaatın hemen ardından hazinedeki [ICON_GOLD] Altın %50 artırılır. Bankası olan bir Ticaret Merkezi bölgesine bitişik bir Nehir kıyısına inşa edilmelidir.</Text>
@@ -123,7 +123,7 @@
 			<Text>Bu şehirde eğitilen tüm kara birliklerinin muharebe tecrübesi +%25.[NEWLINE]Stratejik Kaynak Stokları +10 artırılır (Standart Hızda).[NEWLINE]Kolordu ve Orduların doğrudan eğitilmesine olanak tanır. Kolordu ve Ordu eğitim maliyetleri %25 azalır.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FACTORY_EXPANSION2_DESCRIPTION">
-			<Text>[ICON_Production] Üretim bonusu, halihazırda bu bina türünden bonus almayan 6 bölge mesafe içindeki tüm Şehir Merkezlerine uygulanır.</Text>
+			<Text>[ICON_Production] Üretim bonusu, halihazırda bu bina türünden bonus almayan 6 karo mesafe içindeki tüm Şehir Merkezlerine uygulanır.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_CASTLE_EXPANSION2_DESCRIPTION">
 			<Text>Dış savunmalarınızın gücünü artırır. Koruma sosyal politikasına ilerledikten sonra 2 [ICON_TOURISM] Turizm sağlar. Bu şehir Koçbaşlarından etkilenmez.</Text>

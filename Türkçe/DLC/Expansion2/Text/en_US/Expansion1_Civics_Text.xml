@@ -82,7 +82,7 @@
 			<Text>[ICON_Governor] Valiler, şehirlerine her tur +2 Bağlılık sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
-			<Text>Kampüslerdeki binalardan ekstra [ICON_Science] Bilim: Şehir [ICON_CITIZEN] nüfusu 15 veya daha yüksekse +%50, bölgenin en az +4 Komşuluk Bonusu varsa +%50.</Text>
+			<Text>Kampüslerdeki binalardan ekstra [ICON_Science] Bilim: Şehir [ICON_CITIZEN] nüfusu 15 veya daha yüksekse +%50, bölgenin en az +4 Komşuluk bonusu varsa +%50.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
 			<Text>İkinci Vuruş Kabiliyeti</Text>
@@ -91,7 +91,7 @@
 			<Text>Nükleer Cihaz bakım maliyeti Tur Başına [ICON_Gold] Altın olarak %50 azalır.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>Kutsal Alanlardaki binalardan ekstra [ICON_Faith] İnanç: Şehir [ICON_CITIZEN] nüfusu 15 veya daha yüksekse +%50, bölgenin en az +4 Komşuluk Bonusu varsa +%50.</Text>
+			<Text>Kutsal Alanlardaki binalardan ekstra [ICON_Faith] İnanç: Şehir [ICON_CITIZEN] nüfusu 15 veya daha yüksekse +%50, bölgenin en az +4 Komşuluk bonusu varsa +%50.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_WISSELBANKEN_NAME">
 			<Text>Wisselbanken</Text>

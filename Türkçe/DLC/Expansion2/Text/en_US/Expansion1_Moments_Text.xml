@@ -720,7 +720,7 @@
 			<Text>Yönetim sanatı, nihai ifadesini {GovernorName} ({GovernorShortTitle}) önderliğinde bulur.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA">
-			<Text>Büyük Şahsiyet İşe Alındı</Text>
+			<Text>Büyük Kişi İşe Alındı</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_DESCRIPTION">
 			<Text>[ICON_GreatPerson] Büyük Bir Şahsiyet, eşsiz yeteneklerini paylaşmak üzere topraklarımıza yolculuk etti.</Text>
@@ -729,28 +729,28 @@
 			<Text>Müzakerelerin ardından {GreatPersonIndividualName}, yeteneklerini {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tarafına getirmeyi seçer.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA">
-			<Text>Eski Bir Büyük Şahsiyet Hizmete Alındı</Text>
+			<Text>Eski Bir Büyük Kişi Hizmete Alındı</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_DESCRIPTION">
-			<Text>[ICON_GreatPerson] Bir Büyük Şahsiyet topraklarımıza ayak bastı. Geçmiş bir çağa daha uygun olsa da, yine de uygarlığımıza büyük katkılarda bulunacaktır.</Text>
+			<Text>[ICON_GreatPerson] Bir Büyük Kişi topraklarımıza ayak bastı. Geçmiş bir çağa daha uygun olsa da, yine de uygarlığımıza büyük katkılarda bulunacaktır.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_INSTANCE_DESCRIPTION">
 			<Text>Müzakerelerin ardından {GreatPersonIndividualName}, yeteneklerini {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tarafına getirmeyi seçer.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF">
-			<Text>İnançla Cezbedilen Büyük Şahsiyet</Text>
+			<Text>İnançla Cezbedilen Büyük Kişi</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_DESCRIPTION">
-			<Text>[ICON_GreatPerson] Bir Büyük Şahsiyet, işe alım maliyetinin yarısından fazlasını [ICON_Faith] İnanç ile karşılamamız sayesinde, eşsiz yeteneklerini paylaşmak üzere topraklarımıza geldi.</Text>
+			<Text>[ICON_GreatPerson] Bir Büyük Kişi, işe alım maliyetinin yarısından fazlasını [ICON_Faith] İnanç ile karşılamamız sayesinde, eşsiz yeteneklerini paylaşmak üzere topraklarımıza geldi.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_INSTANCE_DESCRIPTION">
 			<Text>Müminlerin duaları kabul oldu! {GreatPersonIndividualName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} uygarlığının kaderini değiştirmek üzere zuhur ediyor.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF">
-			<Text>Altınla Cezbedilen Büyük Şahsiyet</Text>
+			<Text>Altınla Cezbedilen Büyük Kişi</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_DESCRIPTION">
-			<Text>[ICON_GreatPerson] Bir Büyük Şahsiyet, cömert [ICON_Gold] Altın ödeneğimiz sayesinde, eşsiz yeteneklerini paylaşmak üzere topraklarımıza geldi.</Text>
+			<Text>[ICON_GreatPerson] Bir Büyük Kişi, cömert [ICON_Gold] Altın ödeneğimiz sayesinde, eşsiz yeteneklerini paylaşmak üzere topraklarımıza geldi.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_INSTANCE_DESCRIPTION">
 			<Text>{GreatPersonIndividualName}'i {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'na getirmek için hiçbir masraftan kaçınılmadı ve çalışmalarına başladı.</Text>
@@ -759,7 +759,7 @@
 			<Text>Eşsiz Bölge İyileştirmesi İnşa Edildi</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
-			<Text>Bu eşsiz bölge iyileştirmesini ilk kez tamamladınız.</Text>
+			<Text>Bu eşsiz karo iyileştirmesini ilk kez tamamladınız.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
 			<Text>Gerçekten de bu {ImprovementType}, uygarlığımızın ruhunu yansıtıyor ve imparatorluğumuzun manzarasını tanımlıyor.</Text>
@@ -768,7 +768,7 @@
 			<Text>İlk Sahil Tatil Beldesi</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_DESCRIPTION">
-			<Text>İlk Sahil Tatil Beldesi bölge iyileştirmenizi tamamladınız.</Text>
+			<Text>İlk Sahil Tatil Beldesi karo iyileştirmenizi tamamladınız.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_INSTANCE_DESCRIPTION">
 			<Text>İlk Sahil Tatil Beldemiz {CityName}'de açılıyor, halkımızın büyük sevincine vesile oluyor; ta ki bir martı, küçük bir çocuğun atıştırmalığını kapıp kaçana kadar.</Text>
@@ -777,7 +777,7 @@
 			<Text>Dünyanın İlk Sahil Tatil Beldesi</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD_DESCRIPTION">
-			<Text>Dünyanın ilk Sahil Tatil Beldesi bölge iyileştirmesini tamamladınız.</Text>
+			<Text>Dünyanın ilk Sahil Tatil Beldesi karo iyileştirmesini tamamladınız.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
 			<Text>Ailelerin kahkahaları ve aşıkların iç çekişleri havayı doldururken, dünyanın ilk Sahil Tatil Beldesi {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} uygarlığının {CityName} şehrinde kapılarını açıyor.</Text>
@@ -1206,7 +1206,7 @@
 			<Text>Dünya Çevresinde Seyrüsefer</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_DESCRIPTION">
-			<Text>Uygarlığın, haritanın her dikey sütununda bir bölge keşfetti. Bu, başladığı yerde bitmese bile dünyanın etrafında bir yol oluşturur.</Text>
+			<Text>Uygarlığın, haritanın her dikey sütununda bir karo keşfetti. Bu, başladığı yerde bitmese bile dünyanın etrafında bir yol oluşturur.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_INSTANCE_DESCRIPTION">
 			<Text>Daha önce çok az kişinin gittiği yollardan giderek, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} dünyanın etrafını dolaşıyor.</Text>
@@ -1344,10 +1344,10 @@
 			<Text>Semalar ve Yıldızlar Altın Çağı:[NEWLINE][ICON_TechBoosted] Gelişmiş Uçuş, Nükleer Fisyon ve Roket Bilimi Buluşlarının kilidini açar (Atom Çağı'nda ise). Enformasyon Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji Buluşlarının kilidi açılır. Tüm Hava Birlikleri için kazanılan [ICON_TechBoosted] Tecrübe Puanı +%100 artar.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
-			<Text>Semalar ve Yıldızlar Adanma Bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın.</Text>
+			<Text>Semalar ve Yıldızlar Adanma bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_DARK_AGE">
-			<Text>Semalar ve Yıldızlar Adanma Bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın.</Text>
+			<Text>Semalar ve Yıldızlar Adanma bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL">
 			<Text>Kalem, Fırça ve Söz</Text>
@@ -1356,10 +1356,10 @@
 			<Text>Kalem, Fırça ve Söz Altın Çağı:[NEWLINE][ICON_CivicBoosted] İlhamlar, Yönetim Bilimleri maliyetlerine ek %10 katkı sağlar. Her şehir, sahip olduğu her Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür kazanır. </Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_NORMAL_AGE">
-			<Text>Kalem, Fırça ve Söz Adanma Bonusu:[NEWLINE]Bir [ICON_CivicBoosted] İlham tetiklediğiniz her seferde +1 Çağ Puanı kazanın. Büyük Eser Yuvası olan bir bina inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
+			<Text>Kalem, Fırça ve Söz Adanma bonusu:[NEWLINE]Bir [ICON_CivicBoosted] İlham tetiklediğiniz her seferde +1 Çağ Puanı kazanın. Büyük Eser Yuvası olan bir bina inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_DARK_AGE">
-			<Text>Kalem, Fırça ve Söz Adanma Bonusu:[NEWLINE]Bir [ICON_CivicBoosted] İlham tetiklediğiniz her seferde +1 Çağ Puanı kazanın. Büyük Eser Yuvası olan bir bina inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
+			<Text>Kalem, Fırça ve Söz Adanma bonusu:[NEWLINE]Bir [ICON_CivicBoosted] İlham tetiklediğiniz her seferde +1 Çağ Puanı kazanın. Büyük Eser Yuvası olan bir bina inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC">
 			<Text>Sikkeyi Islah</Text>
@@ -1368,10 +1368,10 @@
 			<Text>Sikkeyi Islah Altın Çağı:[NEWLINE]Tüccarlarınız yağmalanamaz. Uluslararası [ICON_TradeRoute] Ticaret Yolları, yabancı şehirdeki her Uzmanlık Bölgesi başına +3 [ICON_Gold] Altın sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_NORMAL_AGE">
-			<Text>Sikkeyi Islah Adanma Bonusu:[NEWLINE]Başarıyla tamamladığınız her [ICON_TradeRoute] Ticaret Yolu için +1 Çağ Puanı kazanın.</Text>
+			<Text>Sikkeyi Islah Adanma bonusu:[NEWLINE]Başarıyla tamamladığınız her [ICON_TradeRoute] Ticaret Yolu için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_DARK_AGE">
-			<Text>Sikkeyi Islah Adanma Bonusu:[NEWLINE]Başarıyla tamamladığınız her [ICON_TradeRoute] Ticaret Yolu için +1 Çağ Puanı kazanın.</Text>
+			<Text>Sikkeyi Islah Adanma bonusu:[NEWLINE]Başarıyla tamamladığınız her [ICON_TradeRoute] Ticaret Yolu için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE">
 			<Text>Yalanların Muhafızı</Text>
@@ -1380,10 +1380,10 @@
 			<Text>Yalanların Muhafızı Altın Çağı:[NEWLINE]Casuslar, başka bir uygarlığın şehrinde varlıklarını göstermek için zaman harcamaz. Tüm saldırı görevlerini tamamlama süresi %25 azalır.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_NORMAL_AGE">
-			<Text>Yalanların Muhafızı Adanma Bonusu:[NEWLINE]Başarılı her saldırı Casus operasyonu için +1 Çağ Puanı kazanın.</Text>
+			<Text>Yalanların Muhafızı Adanma bonusu:[NEWLINE]Başarılı her saldırı Casus operasyonu için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_DARK_AGE">
-			<Text>Yalanların Muhafızı Adanma Bonusu:[NEWLINE]Başarılı her saldırı Casus operasyonu için +1 Çağ Puanı kazanın.</Text>
+			<Text>Yalanların Muhafızı Adanma bonusu:[NEWLINE]Başarılı her saldırı Casus operasyonu için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION">
 			<Text>Hic Sunt Dracones</Text>
@@ -1392,10 +1392,10 @@
 			<Text>Hic Sunt Dracones Altın Çağı:[NEWLINE]İlk şehrinizden farklı bir kıtada kurulan şehirler için +3 başlangıç [ICON_Citizen] Nüfus. Deniz ve gemiye bindirilmiş birlikler için +2 [ICON_Movement] Hareket. Asıl [ICON_Capital] Başkentinizin kıtasında olmayan şehirler için tur başına +2 Bağlılık.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_NORMAL_AGE">
-			<Text>Hic Sunt Dracones Adanma Bonusu:[NEWLINE]Yeni bir Kıta veya doğa harikası keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliği öldürdüğünüzde +1 Çağ Puanı kazanın.</Text>
+			<Text>Hic Sunt Dracones Adanma bonusu:[NEWLINE]Yeni bir Kıta veya doğa harikası keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliği öldürdüğünüzde +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_DARK_AGE">
-			<Text>Hic Sunt Dracones Adanma Bonusu:[NEWLINE]Yeni bir Kıta veya doğa harikası keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliği öldürdüğünüzde +1 Çağ Puanı kazanın.</Text>
+			<Text>Hic Sunt Dracones Adanma bonusu:[NEWLINE]Yeni bir Kıta veya doğa harikası keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliği öldürdüğünüzde +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL">
 			<Text>Buharın Kalp Atışı</Text>
@@ -1404,10 +1404,10 @@
 			<Text>Buharın Kalp Atışı Altın Çağı:[NEWLINE]Sanayi Çağı ve sonraki harikalara %10 [ICON_Production] Üretim bonusu. Kampüs bölgesinin [ICON_SCIENCE] Bilim komşuluk bonusu aynı zamanda [ICON_Production] Üretim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_NORMAL_AGE">
-			<Text>Buharın Kalp Atışı Adanma Bonusu:[NEWLINE]Sanayi Çağı veya sonrasında inşa edilen her bina için +1 Çağ Puanı kazanın.</Text>
+			<Text>Buharın Kalp Atışı Adanma bonusu:[NEWLINE]Sanayi Çağı veya sonrasında inşa edilen her bina için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_DARK_AGE">
-			<Text>Buharın Kalp Atışı Adanma Bonusu:[NEWLINE]Sanayi Çağı veya sonrasında inşa edilen her bina için +1 Çağ Puanı kazanın. </Text>
+			<Text>Buharın Kalp Atışı Adanma bonusu:[NEWLINE]Sanayi Çağı veya sonrasında inşa edilen her bina için +1 Çağ Puanı kazanın. </Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE">
 			<Text>Anıtsallık</Text>
@@ -1416,10 +1416,10 @@
 			<Text>Anıtsallık Altın Çağı:[NEWLINE]Tüm İşçiler için +2 [ICON_Movement] Hareket. [ICON_Faith] İnanç ile sivil birlikler satın alınabilir. İşçiler ve Yerleşimciler [ICON_FAITH] İnanç ve [ICON_GOLD] Altın ile satın alındığında %30 daha ucuz.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_NORMAL_AGE">
-			<Text>Anıtsallık Adanma Bonusu:[NEWLINE]Yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
+			<Text>Anıtsallık Adanma bonusu:[NEWLINE]Yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_DARK_AGE">
-			<Text>Anıtsallık Adanma Bonusu:[NEWLINE]Yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
+			<Text>Anıtsallık Adanma bonusu:[NEWLINE]Yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY">
 			<Text>Silaha Sarılın!</Text>
@@ -1428,10 +1428,10 @@
 			<Text>Silaha Sarılın! Altın Çağı:[NEWLINE]Resmî Savaş'a kıyasla %75 daha az [ICON_STAT_GRIEVANCE] Şikayet oluşturan ve hedef Kınandıktan hemen sonra kullanılabilen özel bir Savaş Gerekçesi açılır. Askeri birliklere +%15 [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_NORMAL_AGE">
-			<Text>Silaha Sarılın! Adanma Bonusu:[NEWLINE]Muharebede Barbar olmayan bir Kolordu öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Ordu öldürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+			<Text>Silaha Sarılın! Adanma bonusu:[NEWLINE]Muharebede Barbar olmayan bir Kolordu öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Ordu öldürdüğünüzde +2 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_DARK_AGE">
-			<Text>Silaha Sarılın! Adanma Bonusu:[NEWLINE]Muharebede Barbar olmayan bir Kolordu öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Ordu öldürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+			<Text>Silaha Sarılın! Adanma bonusu:[NEWLINE]Muharebede Barbar olmayan bir Kolordu öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Ordu öldürdüğünüzde +2 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS">
 			<Text>Müjdecilerin Göçü</Text>
@@ -1440,10 +1440,10 @@
 			<Text>Müjdecilerin Göçü Altın Çağı:[NEWLINE]Tüm Misyonerler, Havariler ve Engizisyoncular için +2 [ICON_Movement] Hareket. Ayrıca yeni eğitilenler +2 Kullanım Hakkı kazanır. Tur başına +4 [ICON_GreatProphet] Büyük Peygamber puanı.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE">
-			<Text>Müjdecilerin Göçü Adanma Bonusu:[NEWLINE]Kurduğunuz Dine bir şehri ilk kez dönüştürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+			<Text>Müjdecilerin Göçü Adanma bonusu:[NEWLINE]Kurduğunuz Dine bir şehri ilk kez dönüştürdüğünüzde +2 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_DARK_AGE">
-			<Text>Müjdecilerin Göçü Adanma Bonusu:[NEWLINE]Kurduğunuz Dine bir şehri ilk kez dönüştürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+			<Text>Müjdecilerin Göçü Adanma bonusu:[NEWLINE]Kurduğunuz Dine bir şehri ilk kez dönüştürdüğünüzde +2 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC">
 			<Text>Özgür Araştırma</Text>
@@ -1452,10 +1452,10 @@
 			<Text>Özgür Araştırma Altın Çağı:[NEWLINE][ICON_TechBoosted] Buluşlar, teknoloji maliyetlerinin ek %10'unu sağlar. Ticaret Merkezi ve Liman bölgesinin [ICON_GOLD] Altın komşuluk bonusu ayrıca [ICON_Science] Bilim de sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE">
-			<Text>Özgür Araştırma Adanma Bonusu:[NEWLINE]Her [ICON_TechBoosted] Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
+			<Text>Özgür Araştırma Adanma bonusu:[NEWLINE]Her [ICON_TechBoosted] Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_DARK_AGE">
-			<Text>Özgür Araştırma Adanma Bonusu:[NEWLINE]Her [ICON_TechBoosted] Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
+			<Text>Özgür Araştırma Adanma bonusu:[NEWLINE]Her [ICON_TechBoosted] Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM">
 			<Text>Keşke Burada Olsaydın</Text>
@@ -1464,10 +1464,10 @@
 			<Text>Keşke Burada Olsaydın Altın Çağı:[NEWLINE][ICON_Governor] Vali bulunan şehirler, Dünya Harikalarından %50 daha fazla [ICON_Tourism] Turizm kazanır. Tüm Milli Parklara %100 [ICON_Tourism] Turizm.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE">
-			<Text>Keşke Burada Olsaydın Adanma Bonusu:[NEWLINE]Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın.</Text>
+			<Text>Keşke Burada Olsaydın Adanma bonusu:[NEWLINE]Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_DARK_AGE">
-			<Text>Keşke Burada Olsaydın Adanma Bonusu:[NEWLINE]Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın.</Text>
+			<Text>Keşke Burada Olsaydın Adanma bonusu:[NEWLINE]Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_NO_MOMENTS_TO_SHOW">
 			<Text>Uygarlığınız henüz hiçbir Tarihi An yaşamadı.</Text>

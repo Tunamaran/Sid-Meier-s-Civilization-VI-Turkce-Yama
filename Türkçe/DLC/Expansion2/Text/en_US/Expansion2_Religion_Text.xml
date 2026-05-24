@@ -12,7 +12,7 @@
 			<Text>Geliştirilmiş Stratejik kaynaklardan +1 [ICON_Production] Üretim ve +1 [ICON_Faith] İnanç.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
-			<Text>Kutsal Alanlardan (Peygamber), Kütüphaneli Kamplüslerden (Bilim İnsanı) ve Amfi Tiyatrolu Tiyatro Meydanlarından (Yazar) +1 [ICON_GreatPerson] Büyük Şahsiyet Puanı.</Text>
+			<Text>Kutsal Alanlardan (Peygamber), Kütüphaneli Kamplüslerden (Bilim İnsanı) ve Amfi Tiyatrolu Tiyatro Meydanlarından (Yazar) +1 [ICON_GreatPerson] Büyük Kişi Puanı.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
 			<Text>Nefes Kesen Çekiciliğe sahip bölgelerden +1 [ICON_Faith] İnanç.</Text>
@@ -43,7 +43,7 @@
 			<Text>Kutsal Sular</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION">
-			<Text>Çoğunluk dininize sahip şehirlerdeki Kutsal Alan bölgelerinde veya bu bölgelere bitişik hücrelerde dinî birimlerinizin iyileşmesini +10 artırır.</Text>
+			<Text>Çoğunluk dininize sahip şehirlerdeki Kutsal Alan bölgelerinde veya bu karolere bitişik hücrelerde dinî birimlerinizin iyileşmesini +10 artırır.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION">
 			<Text>Mabetler ve Tapınaklar her biri için +3 [ICON_FOOD] Besin ve +2 [ICON_HOUSING] Konut sağlar.</Text>

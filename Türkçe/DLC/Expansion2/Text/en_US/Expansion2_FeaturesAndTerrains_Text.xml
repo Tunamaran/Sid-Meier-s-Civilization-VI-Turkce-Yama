@@ -25,13 +25,13 @@
 			<Text>Ova Taşkın Yatağı</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_FLOODPLAINS_DESERT_DESCRIPTION">
-			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve daha önce taşkına uğrayarak sıradan bir Çöl bölgesine kıyasla daha fazla [ICON_Food] Besin üretimi sağlar. Nehir tekrar taşarsa, bu bölge üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
+			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve daha önce taşkına uğrayarak sıradan bir Çöl bölgesine kıyasla daha fazla [ICON_Food] Besin üretimi sağlar. Nehir tekrar taşarsa, bu karo üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_FLOODPLAINS_GRASSLAND_DESCRIPTION">
-			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve henüz taşkına uğramamıştır; bu nedenle oyuna, düz bir Otlak bölgesiyle aynı getirilerle başlar. Nehir tekrar taşarsa, bu bölge üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
+			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve henüz taşkına uğramamıştır; bu nedenle oyuna, düz bir Otlak bölgesiyle aynı getirilerle başlar. Nehir tekrar taşarsa, bu karo üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_FLOODPLAINS_PLAINS_DESCRIPTION">
-			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve henüz taşkına uğramamıştır; bu nedenle oyuna, düz bir Ova bölgesiyle aynı getirilerle başlar. Nehir tekrar taşarsa, bu bölge üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
+			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve henüz taşkına uğramamıştır; bu nedenle oyuna, düz bir Ova bölgesiyle aynı getirilerle başlar. Nehir tekrar taşarsa, bu karo üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
 		</Row>
 		<Row Tag="LOC_FLOOD_WARNING_ICON_TOOLTIP">
 			<Text>Bu konum taşkınlara karşı hassastır.</Text>

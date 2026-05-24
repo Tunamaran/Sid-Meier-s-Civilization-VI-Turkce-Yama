@@ -158,7 +158,7 @@
 			<Text>Bu oyuncunun sınırları [ICON_Culture] Kültür yoluyla genişlemez.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CONGRESS_DISTRICTS_CULTURE_BOMB_DESC">
-			<Text>Bu oyuncu tarafından inşa edilen yeni bölgeler, [ICON_Culture] Kültür Bombası olarak işlev görür.</Text>
+			<Text>Bu oyuncu tarafından inşa edilen yeni karolar, [ICON_Culture] Kültür Bombası olarak işlev görür.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PROJECT_PRODUCTION_DESC">
 			<Text>Bu Projeye yönelik [ICON_Production] Üretim +%100.</Text>
@@ -167,10 +167,10 @@
 			<Text>Bu Projeye yönelik [ICON_Production] Üretim -%50.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CONGRESS_BUFF_GP_POINTS_DESC">
-			<Text>Bu sınıftaki [ICON_GreatPerson] Büyük Şahsiyetlere yönelik iki kat puan kazanılır.</Text>
+			<Text>Bu sınıftaki [ICON_GreatPerson] Büyük Kişilere yönelik iki kat puan kazanılır.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CONGRESS_NO_GP_POINTS_DESC">
-			<Text>Bu sınıftaki [ICON_GreatPerson] Büyük Şahsiyetlere yönelik hiçbir puan kazanılmaz.</Text>
+			<Text>Bu sınıftaki [ICON_GreatPerson] Büyük Kişilere yönelik hiçbir puan kazanılmaz.</Text>
 		</Row>
 		<Row Tag="LOC_WORLD_CONGRESS_DOUBLE_SUZERAIN_FAVOR_DESC">
 			<Text>Bu tür bir Şehir Devletinin Süzereni olmaktan elde edilen [ICON_Favor] Diplomatik Destek iki katına çıkar.</Text>

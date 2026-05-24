@@ -45,7 +45,7 @@
 			<Text>Venedik şehir devleti</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
-			<Text>Venedik Süzeren Bonusu</Text>
+			<Text>Venedik Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
 			<Text>Yabancı şehirlere olan [ICON_TradeRoute] Ticaret Yollarınız, varış noktasındaki her Lüks Kaynak için +1 [ICON_Gold] Altın kazandırır.</Text>
@@ -60,7 +60,7 @@
 			<Text>Anshan şehir devleti</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
-			<Text>Anshan Süzeren Bonusu</Text>
+			<Text>Anshan Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
 			<Text>Her [ICON_GreatWork_WRITING] Yazın Büyük Eseri'nden +2 [ICON_SCIENCE] Bilim. Her [ICON_GreatWork_RELIC] Kutsal Emanet ve [ICON_GreatWork_Artifact] Tarihi Eser'den +1 [ICON_SCIENCE] Bilim.</Text>
@@ -78,7 +78,7 @@
 			<Text>Bina içeren bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve bina içeren Tiyatro Meydanı bölgeleri için [ICON_GreatMusician] Büyük Müzisyen).</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
-			<Text>En yüksek aktif İttifak Seviyesi için tüm Tiyatro Meydanı bölgeleriniz +%50 Komşuluk Bonusu alır.</Text>
+			<Text>En yüksek aktif İttifak Seviyesi için tüm Tiyatro Meydanı bölgeleriniz +%50 Komşuluk bonusu alır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
 			<Text>+{1_Amount} Moğol Sürüsü</Text>

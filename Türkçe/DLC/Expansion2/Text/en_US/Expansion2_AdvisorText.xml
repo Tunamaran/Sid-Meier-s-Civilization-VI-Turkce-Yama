@@ -27,7 +27,7 @@
 			<Text>Halkımız yeni bir enerji kaynağı yarattı. Sevinçleri sürerken, gökyüzüne duman bulutları yükseliyor. Yakıt yakarak atmosfere CO2 ekliyoruz. Bunu sürdürmek sonunda gezegeni ısıtacak.[NEWLINE][NEWLINE]Daha sıcak bir gezegen, deniz seviyelerinin yükselmesine ve kıyı bölgelerinin sular altında kalmasına neden olacak. Bu tehdit gelecekte gerçekleşebilirken, kıyı taşkınlarının şehirlerinizi ve uygarlığınızı nasıl etkileyeceğini düşünmek isteyebilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_STORM_REVEAL">
-			<Text>Rüzgar uğulduyor ve yağmur kamçılıyor—Güçlü bir Fırtına toprakları kasıp kavuruyor! Burada tehlike var, ama aynı zamanda fırsat da.[NEWLINE][NEWLINE]Fırtına, dağılmadan önce bir dizi bölgeden geçecek. Geçtiği herhangi bir bölgedeki İyileştirmeleri yağmalayacak veya yok edecek ve Bölgeleri yağmalayacak, ancak sonuç olarak bölgenin getirilerini de artırabilir.</Text>
+			<Text>Rüzgar uğulduyor ve yağmur kamçılıyor—Güçlü bir Fırtına toprakları kasıp kavuruyor! Burada tehlike var, ama aynı zamanda fırsat da.[NEWLINE][NEWLINE]Fırtına, dağılmadan önce bir dizi karodan geçecek. Geçtiği herhangi bir bölgedeki İyileştirmeleri yağmalayacak veya yok edecek ve Bölgeleri yağmalayacak, ancak sonuç olarak bölgenin getirilerini de artırabilir.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_DAM_TECHNOLOGY_UNLOCK">
 			<Text>Halkımızın keşfi, nehirlerin akışını düzenleyebileceğimiz ve şiddetli bir selde bile önleyebileceğimiz anlamına geliyor. Artık Baraj bölgesini inşa etme yeteneğine sahipsiniz.[NEWLINE][NEWLINE]Her nehirde bir Baraj inşa edebilirsiniz; bu, bu Nehir boyunca Selleri önleyecektir.</Text>
@@ -217,7 +217,7 @@
 			<Text>Diğer uygarlıklarla Malzeme Kaynakları ve Yakıt ticareti yapın.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES">
-			<Text>Kaynak kullanımına dair seçimleriniz dünyanın sıcaklığını doğrudan etkileyecek ve deniz seviyelerinin yükselmesine neden olabilir. Bazı kıyı bölgeleri sular altında kalma veya tamamen batma riskiyle karşı karşıya kalacak. Şehir kurarken bu kıyıdaki alçak arazilerin riskini göz önünde bulundurun, ancak Atom Çağı'nda Sel Bariyerleri'nin bu bölgeleri koruyabileceğini unutmayın.</Text>
+			<Text>Kaynak kullanımına dair seçimleriniz dünyanın sıcaklığını doğrudan etkileyecek ve deniz seviyelerinin yükselmesine neden olabilir. Bazı kıyı bölgeleri sular altında kalma veya tamamen batma riskiyle karşı karşıya kalacak. Şehir kurarken bu kıyıdaki alçak arazilerin riskini göz önünde bulundurun, ancak Atom Çağı'nda Sel Bariyerleri'nin bu karoleri koruyabileceğini unutmayın.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAILS">
 			<Text>{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3}</Text>

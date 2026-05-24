@@ -62,7 +62,7 @@
 			<Text>Tiyatro Meydanı bölgesindeki bölgelerde 2 seviye daha deneyimliymiş gibi performans gösterir.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_GOES_TO_DESCRIPTION">
-			<Text>10 bölge içindeki uygarlıklar, bu konserden sağlanan [ICON_TOURISM] Turizm'in %50'sini alır.</Text>
+			<Text>10 karo içindeki uygarlıklar, bu konserden sağlanan [ICON_TOURISM] Turizm'in %50'sini alır.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_INDIE_DESCRIPTION">
 			<Text>Bir konser vermek, o şehrin 40 Bağlılık kaybetmesine neden olur.</Text>

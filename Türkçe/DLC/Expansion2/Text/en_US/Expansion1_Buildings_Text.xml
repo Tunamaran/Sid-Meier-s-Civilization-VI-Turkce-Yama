@@ -73,13 +73,13 @@
 			<Text>Akvaryum</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanak, 9 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 9 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +1 [ICON_SCIENCE] Bilim, bu şehirdeki her bir kıyı kaynağı, Gemi Batığı ve Resif bölgesine.</Text>
+			<Text>bonus [ICON_Amenities] Olanak, 9 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 9 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +1 [ICON_SCIENCE] Bilim, bu şehirdeki her bir kıyı kaynağı, Gemi Batığı ve Resif bölgesine.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
 			<Text>Su Sporları Merkezi</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanaklar, 9 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 9 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +2 [ICON_Tourism] Turizm, bu şehirde bir Kıyı bölgesinde veya bitişiğinde inşa edilen her Harika için.</Text>
+			<Text>bonus [ICON_Amenities] Olanaklar, 9 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 9 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +2 [ICON_Tourism] Turizm, bu şehirde bir Kıyı bölgesinde veya bitişiğinde inşa edilen her Harika için.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
 			<Text>Koruma Yönetim Bilimi'ne ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
@@ -88,10 +88,10 @@
 			<Text>Koruma Yönetim Bilimi'ne ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanak, 6 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +1 [ICON_SCIENCE] Bilim, bu şehirdeki her bir Yağmur Ormanı ve Bataklık bölgesine.</Text>
+			<Text>bonus [ICON_Amenities] Olanak, 6 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +1 [ICON_SCIENCE] Bilim, bu şehirdeki her bir Yağmur Ormanı ve Bataklık bölgesine.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanaklar, 6 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +2 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse ve +5 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 20 veya daha yüksekse.</Text>
+			<Text>bonus [ICON_Amenities] Olanaklar, 6 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +2 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse ve +5 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 20 veya daha yüksekse.</Text>
 		</Row>
 		<!-- Neighborhood Buildings -->
 		<Row Tag="LOC_BUILDING_FOOD_MARKET_NAME">
@@ -147,7 +147,7 @@
 			<Text>Özgürlük Heykeli</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
-			<Text>2 Yerleşimci kazandırır. 6 bölge mesafesindeki tüm şehirleriniz her zaman %100 Bağlılık içindedir. Kıyıda, karaya ve bir Liman bölgesine bitişik inşa edilmelidir.</Text>
+			<Text>2 Yerleşimci kazandırır. 6 karo mesafesindeki tüm şehirleriniz her zaman %100 Bağlılık içindedir. Kıyıda, karaya ve bir Liman bölgesine bitişik inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
 			<Text>Tac Mahal</Text>
@@ -159,7 +159,7 @@
 			<Text>Artemis Tapınağı</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
-			<Text>Bu harikaya 4 bölge mesafesindeki her Av Kampı, Mera ve Plantasyon geliştirmesi +1 [ICON_AMENITIES] Olanak sağlar. Bir Av Kampı geliştirmesine bitişik yerleştirilmelidir.</Text>
+			<Text>Bu harikaya 4 karo mesafesindeki her Av Kampı, Mera ve Plantasyon geliştirmesi +1 [ICON_AMENITIES] Olanak sağlar. Bir Av Kampı geliştirmesine bitişik yerleştirilmelidir.</Text>
 		</Row>
 		<!-- Trade balance changes -->
 		<Row Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">

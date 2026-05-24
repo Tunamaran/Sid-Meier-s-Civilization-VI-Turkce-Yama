@@ -17,7 +17,7 @@
 			<Text>Tüm deniz birimleri için +3 [ICON_Strength] Muharebe Gücü.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_EXPANSION2_ACTIVE">
-			<Text>Tüm deniz birimleri için +1 görüş menzili. Tüm deniz birimlerinin normal teknoloji gereksinimi olmadan okyanus bölgelerinde hareket etmesini sağlar.</Text>
+			<Text>Tüm deniz birimleri için +1 görüş menzili. Tüm deniz birimlerinin normal teknoloji gereksinimi olmadan okyanus karolarında hareket etmesini sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CHING_SHIH_EXPANSION2_ACTIVE">
 			<Text>500 [ICON_Gold] Altın kazanılır (Standart hızda). Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken %60 daha fazla ödül alır.</Text>

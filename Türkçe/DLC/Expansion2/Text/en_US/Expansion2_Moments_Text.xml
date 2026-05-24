@@ -245,7 +245,7 @@
 			<Text>Gökyüzü ve Yıldızlar Altın Çağı:[NEWLINE]Bilgi Çağı'nda ise Uydular, Nükleer Füzyon ve Nanoteknoloji için [ICON_TechBoosted] Buluşlarının kilidini açar. Gelecek Çağı'nda seçildiğinde Akıllı Malzemeler, Tahmin Sistemleri ve Dünya Dışı Görev için [ICON_TechBoosted] Buluşlarının kilidi açılır. Tüm Hava Birimlerinin kazandığı +%100 Deneyim Puanı. Alüminyum madenleri tur başına 2 fazla kaynak biriktirir.</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNITS_KILLED_BY_GDR">
-			<Text>Adanma Bonusu: Dev Ölüm Robotları tarafından öldürülen Barbar olmayan birlikler (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Dev Ölüm Robotları tarafından öldürülen Barbar olmayan birlikler (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_GDR_KILL_OPPONENT_NOTIFICATION">
 			<Text>Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği yok ettiniz.</Text>
@@ -257,10 +257,10 @@
 			<Text>Otomasyon Savaşı Altın Çağı:[NEWLINE]Başkentinizde bir Dev Ölüm Robotu kazanırsınız. Tur başına 3 [ICON_Resource_Uranium] Uranyum alırsınız. [ICON_Resource_Uranium] Uranyum madenleri tur başına +1 daha fazla kaynak biriktirir.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_NORMAL_AGE">
-			<Text>Otomasyon Savaşı Adanma Bonusu:[NEWLINE]Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği öldürdüğünüzde +1 Çağ Puanı kazanırsınız.</Text>
+			<Text>Otomasyon Savaşı Adanma bonusu:[NEWLINE]Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği öldürdüğünüzde +1 Çağ Puanı kazanırsınız.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_DARK_AGE">
-			<Text>Otomasyon Savaşı Adanma Bonusu:[NEWLINE]Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği öldürdüğünüzde +1 Çağ Puanı kazanırsınız.</Text>
+			<Text>Otomasyon Savaşı Adanma bonusu:[NEWLINE]Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği öldürdüğünüzde +1 Çağ Puanı kazanırsınız.</Text>
 		</Row>
 	</EnglishText>
 </GameData>

@@ -140,13 +140,13 @@
       <Text>Fırtınalar ve Seller artık toprağın verimliliğini artırmamaktadır.</Text>
     </Row>
     <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_LONG_DESCRIPTION">
-      <Text>Bir bölgenin üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliği kaldırmaya başlar.</Text>
+      <Text>Bir karonun üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliği kaldırmaya başlar.</Text>
     </Row>
     <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_LONG_DESCRIPTION">
-      <Text>Bir bölgenin üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliği düzenli olarak kaldırır.</Text>
+      <Text>Bir karonun üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliği düzenli olarak kaldırır.</Text>
     </Row>
     <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_LONG_DESCRIPTION">
-      <Text>Bir bölgenin üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliğini oldukça sık kaldırır.</Text>
+      <Text>Bir karonun üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliğini oldukça sık kaldırır.</Text>
     </Row>
 		<!--Storms-->
 		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_NAME">

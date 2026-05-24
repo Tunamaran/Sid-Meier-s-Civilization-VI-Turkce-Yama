@@ -119,7 +119,7 @@
 			<Text>Akkad</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
-			<Text>Akkad Süzeren Bonusu</Text>
+			<Text>Akkad Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
 			<Text>Yakın Dövüş ve süvari karşıtı birliklerin saldırıları şehrin Surları'na tam hasar verir.</Text>
@@ -131,10 +131,10 @@
 			<Text>Bologna şehir devleti</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
-			<Text>Bologna Süzeren Bonusu</Text>
+			<Text>Bologna Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
-			<Text>Bir binaya sahip bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen; bir binaya sahip Tiyatro Meydanı bölgeleri için geçerlidir).</Text>
+			<Text>Bir binaya sahip bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen; bir binaya sahip Tiyatro Meydanı bölgeleri için geçerlidir).</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
 			<Text>Bolognalı</Text>
@@ -149,7 +149,7 @@
 			<Text>Cahokialı</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
-			<Text>Cahokia Süzeren Bonusu</Text>
+			<Text>Cahokia Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
 			<Text>İşçileriniz artık Cahokia Höyükleri iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]Cahokia Höyükleri +3 [ICON_GOLD] Altın sağlar. Şehirler, ilk Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Doğa Tarihi keşfedildiğinde, şehirler ikinci Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Feodalizm keşfedildiğinde her 2 komşu Bölge için veya Değiştirilebilir Parçalar araştırıldığında her komşu Bölge için +1 [ICON_FOOD] Besin sağlar. +1 [ICON_HOUSING] Konut sağlar. Kültürel Miras keşfedildiğinde ek [ICON_HOUSING] Konut kazanılır. Diğer Cahokia Höyüklerine bitişik inşa edilemez.</Text>
@@ -164,7 +164,7 @@
 			<Text>Cardiffli</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
-			<Text>Cardiff Süzeren Bonusu</Text>
+			<Text>Cardiff Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
 			<Text>Şehirler, her Liman binası için +2 [ICON_Power] Enerji kazanır.</Text>
@@ -179,7 +179,7 @@
 			<Text>Fez</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_FEZ_NAME">
-			<Text>Fez Süzeren Bonusu</Text>
+			<Text>Fez Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
 			<Text>Bir şehri ilk kez bir dinî birlik kullanarak dönüştürdüğünüzde, o şehrin [ICON_Citizen] Nüfusu başına 20 [ICON_SCIENCE] Bilim kazanırsınız (Standart Hızda).</Text>
@@ -197,7 +197,7 @@
 			<Text>Keşfettiğiniz ancak geliştirmediğiniz her bir Stratejik Kaynaktan Tur Başına 2 adet sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
-			<Text>Meksiko Süzeren Bonusu</Text>
+			<Text>Meksiko Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
 			<Text>Sanayi Bölgesi, Su Parkı ve Eğlence Kompleksi bölgelerinizden gelen bölgesel etkiler 3 bölge daha uzağa ulaşır.</Text>
@@ -212,10 +212,10 @@
 			<Text>Nazca</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
-			<Text>Nazca Süzeren Bonusu</Text>
+			<Text>Nazca Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
-			<Text>Artık İşçileriniz Nazca Çizgileri iyileştirmesi yapabilir.[NEWLINE][NEWLINE]Nazca Çizgileri, komşu bölgelere +1 [ICON_Faith] İnanç sağlar. Kaynağa sahip komşu bölgelere +1 [ICON_Faith] İnanç. Sivil Hizmet keşfedildikten sonra komşu Çöl ve Çöl Tepesi bölgelerine +1 [ICON_FOOD] Besin. Seri Üretim araştırıldıktan sonra komşu düz bölgelere +1 [ICON_PRODUCTION] Üretim. Ayrıca +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu bölge çalışılamaz.</Text>
+			<Text>Artık İşçileriniz Nazca Çizgileri iyileştirmesi yapabilir.[NEWLINE][NEWLINE]Nazca Çizgileri, komşu karolara +1 [ICON_Faith] İnanç sağlar. Kaynağa sahip komşu karolara +1 [ICON_Faith] İnanç. Sivil Hizmet keşfedildikten sonra komşu Çöl ve Çöl Tepesi bölgelerine +1 [ICON_FOOD] Besin. Seri Üretim araştırıldıktan sonra komşu düz karolara +1 [ICON_PRODUCTION] Üretim. Ayrıca +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu bölge çalışılamaz.</Text>
 		</Row>
 		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
 			<Text>Ngazargamu</Text>
@@ -227,7 +227,7 @@
 			<Text>Ngazargamu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
-			<Text>Ngazargamu Süzeren Bonusu</Text>
+			<Text>Ngazargamu Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
 			<Text>Kara muharebe veya Destek birimleri, o şehirdeki her Ordugah Bölgesi binası için [ICON_GOLD] Altın ile %20 daha ucuza satın alınabilir.</Text>
@@ -242,7 +242,7 @@
 			<Text>Rapa Nui</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
-			<Text>Rapa Nui Süzeren Bonusu</Text>
+			<Text>Rapa Nui Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
 			<Text>Artık İşçileriniz Moai iyileştirmesi yapabilir.[NEWLINE][NEWLINE]Moai +1 [ICON_Culture] Kültür sağlar. Her 2 komşu Moai için +1 [ICON_Culture] Kültür. Volkanik Toprak bölgesinde veya komşusundaysa +2 [ICON_Culture] Kültür. Kıyı veya Göl bölgesine komşuysa +1 [ICON_Culture] Kültür. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_Culture] Kültür ve [ICON_Tourism] Turizm sağlar. Ova, Ova Tepesi, Çayır, Çayır Tepesi veya Volkanik Toprak üzerine inşa edilebilir. Orman veya Yağmur Ormanı bölgesine komşu olamaz.</Text>

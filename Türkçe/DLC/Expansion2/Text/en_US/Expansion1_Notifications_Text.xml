@@ -266,7 +266,7 @@
 			<Text>Oyun yeni bir çağa girdiğinden, uygarlığınız için arzulanan geleceğe halkınızı yönlendirmek üzere bir Adanma yapabilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
-			<Text>Adanma Bonusu Tetiklendi</Text>
+			<Text>Adanma bonusu Tetiklendi</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
 			<Text>{1_DedicationBonusTriggerSentence} Bu nedenle, Adanma bonusunuzdan Çağ Puanı kazanıyorsunuz!</Text>

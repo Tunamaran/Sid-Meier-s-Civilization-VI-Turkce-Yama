@@ -75,7 +75,7 @@
 			<Text>[COLOR_RED]Hamilik için [ICON_Gold] Altın harcamak, mevcut politikalarınızdan biri tarafından devre dışı bırakıldı.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
-			<Text>Politika seçimi nedeniyle bu bölgede iyileşme yapılamıyor</Text>
+			<Text>Politika seçimi nedeniyle bu karoda iyileşme yapılamıyor</Text>
 		</Row>
 		<!-- Alliance Text -->
 		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
@@ -302,7 +302,7 @@
 			<Text>[ICON_Governor] Valilere sahip şehirlerde [ICON_Citizen] Vatandaş başına +0,6 [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
-			<Text>Bölge başına +1 [ICON_Production] Üretim, +1 [ICON_Housing] Konut.</Text>
+			<Text>Karo başına +1 [ICON_Production] Üretim, +1 [ICON_Housing] Konut.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
 			<Text>Harikalar için Üretim +%10.</Text>
@@ -620,7 +620,7 @@
 			<Text>Bu şehrin bölgelerindeki teolojik muharebede +10 [ICON_Religion] Dinî Güç.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
-			<Text>Şehrin [ICON_FAITH] İnanç ile bölge satın almasını sağlar.</Text>
+			<Text>Şehrin [ICON_FAITH] İnanç ile karo satın almasını sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
 			<Text>Tüm [ICON_Governor] Vali birimleri bu şehrin bölgelerinde bir turda tamamen iyileşir.</Text>
@@ -725,7 +725,7 @@
 			<Text>Hibeler</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
-			<Text>Şehirde tur başına üretilen [ICON_GreatPerson] Büyük Şahsiyet puanlarında +%100.</Text>
+			<Text>Şehirde tur başına üretilen [ICON_GreatPerson] Büyük Kişi puanlarında +%100.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
 			<Text>Silahlanma Yarışı Taraftarı</Text>
@@ -773,7 +773,7 @@
 			<Text>Müteahhit</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
-			<Text>Şehrin [ICON_Gold] Altın karşılığında bölge satın almasına olanak tanır.</Text>
+			<Text>Şehrin [ICON_Gold] Altın karşılığında karo satın almasına olanak tanır.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
 			<Text>Küratör</Text>
@@ -1651,10 +1651,10 @@
 			<Text>{1_PlayerCiv} Tarih Yazıyor</Text>
 		</Row>
 		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS">
-			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}    \|    {3_MomentScore} Çağ Puanı</Text>
+			<Text>{1_MomentDate} \| Tur {2_MomentTurn} \| {3_MomentScore} Çağ Puanı</Text>
 		</Row>
 		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
-			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}</Text>
+			<Text>{1_MomentDate} \| Tur {2_MomentTurn}</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
 			<Text>Bağlılık: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
@@ -1666,10 +1666,10 @@
 			<Text>[ICON_Governor] Buraya bir Vali atandı</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
-			<Text>Sahibinin 9 bölge içindeki [ICON_Citizen] Vatandaşları</Text>
+			<Text>Sahibinin 9 karo içindeki [ICON_Citizen] Vatandaşları</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
-			<Text>Diğer uygarlıkların 9 bölge içindeki [ICON_Citizen] Vatandaşları</Text>
+			<Text>Diğer uygarlıkların 9 karo içindeki [ICON_Citizen] Vatandaşları</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
 			<Text>Bağımsızlık arzusu</Text>
@@ -1690,7 +1690,7 @@
 			<Text>Yakındaki [ICON_Citizen] Vatandaşlardan gelen baskı</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
-			<Text>Değer, şehrin sahibine ait yakındaki [ICON_Citizen] Vatandaşlar ile farklı bir uygarlığa ait yakındaki [ICON_Citizen] Vatandaşlar arasındaki baskı karşılaştırmasına bağlı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Normalde [ICON_Citizen] Vatandaş başına 1 Baskı[NEWLINE][ICON_BULLET][ICON_Capital] Başkentte artar[NEWLINE][ICON_BULLET]Altın Çağlar, Karanlık Çağlar ve Ekmek ve Sirkler şehir projesinden etkilenebilir[NEWLINE][ICON_BULLET]Ayrıca 9 bölge içindeki diğer şehirler için de geçerlidir, ancak bölge başına %10 daha az etkilidir</Text>
+			<Text>Değer, şehrin sahibine ait yakındaki [ICON_Citizen] Vatandaşlar ile farklı bir uygarlığa ait yakındaki [ICON_Citizen] Vatandaşlar arasındaki baskı karşılaştırmasına bağlı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Normalde [ICON_Citizen] Vatandaş başına 1 Baskı[NEWLINE][ICON_BULLET][ICON_Capital] Başkentte artar[NEWLINE][ICON_BULLET]Altın Çağlar, Karanlık Çağlar ve Ekmek ve Sirkler şehir projesinden etkilenebilir[NEWLINE][ICON_BULLET]Ayrıca 9 karo içindeki diğer şehirler için de geçerlidir, ancak karo başına %10 daha az etkilidir</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
 			<Text>Değer, şehrin sahibine ait yakındaki [ICON_Citizen] Vatandaşlar ile farklı bir uygarlığa ait yakındaki [ICON_Citizen] Vatandaşlar arasındaki baskı karşılaştırmasına bağlı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Normalde [ICON_Citizen] Vatandaş başına 1 Baskı[NEWLINE][ICON_BULLET][ICON_Capital] Başkentte artar</Text>
@@ -1742,7 +1742,7 @@
 			<Text>Bir [ICON_GreatWork_Artifact] Tarihi Eser çıkardın.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
-			<Text>Bir [ICON_GreatPerson] Büyük Şahsiyet kazandın.</Text>
+			<Text>Bir [ICON_GreatPerson] Büyük Kişi kazandın.</Text>
 		</Row>
 		<!-- Scoring -->
 		<Row Tag="LOC_CATEGORY_ERA_SCORE_NAME">
@@ -1824,7 +1824,7 @@
 			<Text>Araştırma Müttefikinizle aynı Teknolojiyi aktif olarak araştırarak tur başına [ICON_Science] Bilim artışını sürdürün.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
-			<Text>Seviye 3 Araştırma İttifakı Bilim Bonusu alınıyor.[NEWLINE]Araştırma Müttefikinizle aynı Teknolojiyi araştırmak, tur başına [ICON_Science] Bilim artışı sağlar.</Text>
+			<Text>Seviye 3 Araştırma İttifakı Bilim bonusu alınıyor.[NEWLINE]Araştırma Müttefikinizle aynı Teknolojiyi araştırmak, tur başına [ICON_Science] Bilim artışı sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
 			<Text>Şehir tamamen sadık ve tur başına Sadakat kazanıyor.</Text>

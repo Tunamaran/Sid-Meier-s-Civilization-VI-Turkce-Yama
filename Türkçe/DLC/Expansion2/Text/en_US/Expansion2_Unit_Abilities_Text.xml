@@ -103,7 +103,7 @@
 			<Text>Her bir aktif İttifaktan +3 [ICON_Strength] Muharebe Gücü.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MOUNTIE_DESCRIPTION">
-			<Text>Bir Milli Park oluşturabilir.[NEWLINE][ICON_Bullet]Bir Milli Park'a 2 bölge mesafede savaşırken +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Size ait bir Milli Park'a 2 bölge mesafede savaşırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+			<Text>Bir Milli Park oluşturabilir.[NEWLINE][ICON_Bullet]Bir Milli Park'a 2 karo mesafede savaşırken +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Size ait bir Milli Park'a 2 karo mesafede savaşırken +5 [ICON_Strength] Muharebe Gücü.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MANDEKALU_DESCRIPTION">
 			<Text>Kara bölgelerinde yakındaki Ticaret birliklerini Yağmalamaya karşı korur.[NEWLINE][ICON_Bullet]O birimin temel [ICON_Strength] Muharebe Gücü'nün %100'ü kadar [ICON_GOLD] Altın kazanın.</Text>
@@ -182,7 +182,7 @@
 			<Text>Aktif İttifaklar için +{1_Amount} Muharebe Gücü</Text>
 		</Row>
 		<Row Tag="LOC_ALL_PARK_COMBAT_BONUS_DESCRIPTION">
-			<Text>Bir Milli Park'a 2 bölge mesafedeyken +{1_Amount} Muharebe Gücü</Text>
+			<Text>Bir Milli Park'a 2 karo mesafedeyken +{1_Amount} Muharebe Gücü</Text>
 		</Row>
 		<Row Tag="LOC_OWNER_PARK_COMBAT_BONUS_DESCRIPTION">
 			<Text>+{1_Amount} Muharebe Gücü, bu oyuncuya ait bir Milli Park'ın 2 bölge yakınındayken</Text>

@@ -7,10 +7,10 @@
 			<Text>Bir şehir, birden fazla bölge inşa edebilmeden önce [ICON_Citizen] Nüfus'unu genişletmelidir:[NEWLINE]• 1 Bölge için 1 [ICON_Citizen] Nüfus[NEWLINE]• 2 Bölge için 4 [ICON_Citizen] Nüfus[NEWLINE]• 3 Bölge için 7 [ICON_Citizen] Nüfus[NEWLINE]• Sonraki her bölge +3 [ICON_Citizen] Nüfus gerektirir[NEWLINE]Su Kemeri, Mahalle, Uzay Limanı, Baraj ve Kanal bölgeleri bu [ICON_Citizen] Nüfus şartını yok sayar. Belli bir [ICON_Citizen] Nüfus gerektiren bölgeler, uzmanlık bölgeleridir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Nükleer bir saldırı veya nükleer felaketin ardından, patlama ya da kazadan etkilenen her bölge radyoaktif serpintiyle kirlenir. Kirlenmiş bir bölgede turunu sonlandıran tüm birlikler her tur 50 hasar alır. Kirlilik içeren bölgelerdeki hiçbir şeye (binaları ve bölgeleri onarmak gibi) [ICON_Production] Üretim uygulanamaz. Kirlenmiş bölgeler, kirlilik süresi dolana veya bölge "temizlenene" kadar şehir tarafından çalışılamaz.</Text>
+			<Text>Nükleer bir saldırı veya nükleer felaketin ardından, patlama ya da kazadan etkilenen her karo radyoaktif serpintiyle kirlenir. Kirlenmiş bir bölgede turunu sonlandıran tüm birlikler her tur 50 hasar alır. Kirlilik içeren bölgelerdeki hiçbir şeye (binaları ve bölgeleri onarmak gibi) [ICON_Production] Üretim uygulanamaz. Kirlenmiş bölgeler, kirlilik süresi dolana veya bölge "temizlenene" kadar şehir tarafından çalışılamaz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Nükleer kirlilik, etkilenen bölgelerden İşçi ve Askeri Mühendis birlikleri tarafından "temizlenebilir". Kirlenmiş bir bölgeyi temizlemek 1 inşa hakkı gerektirir. Kirlenmiş bölgeleri temizleyebilen İşçi, Askeri Mühendis ve Roma Lejyonu birlikleri, böyle bir bölgede turlarını sonlandırırlarsa daha az hasar alır. Nükleer kirlilikten doğrudan etkilenmeyen şehir bölgeleri normal şekilde çalışmaya devam eder ve şehrin getirisine katkıda bulunur.</Text>
+			<Text>Nükleer kirlilik, etkilenen karolarden İşçi ve Askeri Mühendis birlikleri tarafından "temizlenebilir". Kirlenmiş bir bölgeyi temizlemek 1 inşa hakkı gerektirir. Kirlenmiş bölgeleri temizleyebilen İşçi, Askeri Mühendis ve Roma Lejyonu birlikleri, böyle bir bölgede turlarını sonlandırırlarsa daha az hasar alır. Nükleer kirlilikten doğrudan etkilenmeyen şehir bölgeleri normal şekilde çalışmaya devam eder ve şehrin getirisine katkıda bulunur.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_1">
 			<Text>Savaş ilan etmenin birkaç yolu vardır. İlki, kontrol ettiğiniz bir askerî birliği başka bir uygarlığın birliğinin üzerine hareket ettirmenizi gerektirir. Bu, bir savaş başlatmak isteyip istemediğinizi soran bir açılır pencere görüntülenmesine yol açar. Alternatif olarak, savaş Diplomasi Penceresi'nden de ilan edilebilir. Bu pencerede, ilan edilmiş müttefikleriniz dışında her zaman sürpriz bir savaş ilanı yapma seçeneğiniz bulunur. Sürpriz bir savaş ilanı yaparsanız uygarlığınız ağır bir [ICON_STAT_GRIEVANCE] Şikayetler cezasına katlanmak zorunda kalır. Bu cezanın bir kısmından (hepsinden değil) kaçınmak için, suçlu uygarlığı kınayın ve kısa süre içinde Diplomasi Penceresi'nde resmî savaş ilan etme seçeneği belirecektir.</Text>
@@ -68,7 +68,7 @@
 			<Text>Sömürge Savaşı: Sizden 2 teknoloji geride olan ve sizin Milliyetçilik Sosyal Politikasını araştırdığınız bir uygarlığa karşı Sömürge Savaşı ilan edebilirsiniz. Hedefinizi kınamalı ve savaş ilan etmeden önce 5 tur beklemelisiniz. Bu Savaş Gerekçesi, hem savaş ilanı hem de şehir ele geçirme eylemleri için çağın Resmî Savaş Şikayet cezasını azaltır. Bir düşman şehrini yerle bir ederseniz, dünya artık hedefinize "aydınlanma götürdüğünüz" bahanelerine inanmayacağından, çağın Resmî Savaşı için tam Şikayet cezası alırsınız.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_11">
-			<Text>Toprak Savaşı: Seferberlik Sosyal Politikasını araştırdıysanız bir uygarlığa karşı Toprak Savaşı ilan edebilirsiniz. Hedefin, sizin 2 şehrinize 10 bölge mesafede 2 şehre sahip olmalıdır. Hedefinizi kınamalı ve 5 tur beklemelisiniz. Bu Savaş Gerekçesi, hem savaş ilanı hem de şehir ele geçirme eylemleri için çağın Resmî Savaş Şikayet cezasını bir miktar azaltır. Bu Savaş Gerekçesi altında şehirleri yerle bir etmenin cezası daha düşüktür; bu da genişlemek istediğiniz bölgelerdeki düşman şehirlerini ortadan kaldırmak istiyorsanız kullanışlıdır.</Text>
+			<Text>Toprak Savaşı: Seferberlik Sosyal Politikasını araştırdıysanız bir uygarlığa karşı Toprak Savaşı ilan edebilirsiniz. Hedefin, sizin 2 şehrinize 10 karo mesafede 2 şehre sahip olmalıdır. Hedefinizi kınamalı ve 5 tur beklemelisiniz. Bu Savaş Gerekçesi, hem savaş ilanı hem de şehir ele geçirme eylemleri için çağın Resmî Savaş Şikayet cezasını bir miktar azaltır. Bu Savaş Gerekçesi altında şehirleri yerle bir etmenin cezası daha düşüktür; bu da genişlemek istediğiniz bölgelerdeki düşman şehirlerini ortadan kaldırmak istiyorsanız kullanışlıdır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_12">
 			<Text>Altın Çağ Savaşı: Silaha Sarılın! Adanmasını seçtiyseniz ve hedefinizi kınadıysanız Altın Çağ Savaşı ilan edebilirsiniz. Bu Savaş Gerekçesine erişmek için kınamanın ardından beklemeniz gerekmez. Bu süre zarfında savaş ilanı ve şehir cezaları için Şikayet cezalarınız büyük ölçüde azalır; bu da onu rakiplerinizden toprak kapmanın diplomatik açıdan en az maliyetli yollarından biri yapar. Ancak bir düşman şehrini yerle bir etmek, Resmî Savaş'takiyle aynı Şikayet maliyetine sahip olacaktır. Altın Çağ'a sahip olmak size diğer ulusların saygısını kazandırır, ancak cezasız hareket etme lisansı vermez.</Text>
@@ -204,7 +204,7 @@
 			<Text>Yanardağlar</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_VOLCANOES_PARA_1">
-			<Text>Yanardağlar genellikle kıta sınırlarının yakınında bulunur. Yanardağların üç hâli vardır: uyuyan, aktif ve püsküren. Uyuyan Yanardağlar, dağ bölgeleriyle aynı özellikleri taşır. Uyuyan bir Yanardağ aktif hâle gelebilir. Aktif hâle geldiklerinde içten parlamaya başlar ve tepesinden yükselen dumanlar olacakları haber verir. Aktif Yanardağlar eninde sonunda püskürerek çevredeki bölgelere ve bu bölgelerdeki tüm özellik veya iyileştirmelere hasar verir.</Text>
+			<Text>Yanardağlar genellikle kıta sınırlarının yakınında bulunur. Yanardağların üç hâli vardır: uyuyan, aktif ve püsküren. Uyuyan Yanardağlar, dağ bölgeleriyle aynı özellikleri taşır. Uyuyan bir Yanardağ aktif hâle gelebilir. Aktif hâle geldiklerinde içten parlamaya başlar ve tepesinden yükselen dumanlar olacakları haber verir. Aktif Yanardağlar eninde sonunda püskürerek çevredeki bölgelere ve bu karolerdeki tüm özellik veya iyileştirmelere hasar verir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_VOLCANOES_PARA_2">
 			<Text>Yanardağ patlamasından etkilenen iyileştirmeler yağmalanabilir veya yok olabilir. Garnizonlar ve tahkimatlar hasar alabilir. Püsküren bir Yanardağ'ın yakınındaki Şehir Merkezleri, o şehirde nüfus kaybına uğrayabilir. Ancak her şey bitmiş değildir. Volkanik patlamalardan etkilenen her bölgenin, patlamanın ardından [ICON_Food] Besin ve [ICON_Production] Üretim getirisinin artma şansı vardır. Harikalar patlamalardan etkilenmez.</Text>
@@ -219,19 +219,19 @@
 			<Text>Fırtınalar</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_STORMS_PARA_1">
-			<Text>Fırtınalar, haritanın herhangi bir yerinde ortaya çıkma potansiyeline sahiptir ve 3 tur boyunca sürer. Fırtınaların aşamaları şunlardır: Giriş, Hareket ve Dağılma. Meydana gelen fırtına türü, çevredeki araziye bağlıdır. Tüm fırtınalar, bölge iyileştirmelerini yağmalama veya yok etme, bölgelerdeki binaları yağmalama, şehir merkezi nüfusunu azaltma ve birimlere hasar verme şansına sahiptir. Fırtına etkileri türlerine göre değişir:</Text>
+			<Text>Fırtınalar, haritanın herhangi bir yerinde ortaya çıkma potansiyeline sahiptir ve 3 tur boyunca sürer. Fırtınaların aşamaları şunlardır: Giriş, Hareket ve Dağılma. Meydana gelen fırtına türü, çevredeki araziye bağlıdır. Tüm fırtınalar, karo iyileştirmelerini yağmalama veya yok etme, bölgelerdeki binaları yağmalama, şehir merkezi nüfusunu azaltma ve birimlere hasar verme şansına sahiptir. Fırtına etkileri türlerine göre değişir:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_STORMS_PARA_2">
-			<Text>Tipiler yalnızca Kar veya Tundra bölgelerinde görülür. Önemli (7 bölge) ile yıkıcı (19 bölge) arasında değişen boyutlara sahiptir. Bir tipi geçtikten sonra, etkilenen bölgelerin [ICON_Food] Besin getirisinin iyileşme şansı vardır.</Text>
+			<Text>Tipiler yalnızca Kar veya Tundra karolarında görülür. Önemli (7 bölge) ile yıkıcı (19 bölge) arasında değişen boyutlara sahiptir. Bir tipi geçtikten sonra, etkilenen karolarin [ICON_Food] Besin getirisinin iyileşme şansı vardır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_STORMS_PARA_3">
-			<Text>Toz Fırtınaları yalnızca Çöl bölgelerinde görülebilir. Gradyan (3 bölge) ile haboob (7 bölge) arasında değişir. Bir Toz Fırtınası geçtikten sonra, etkilenen bölgelerin [ICON_Food] Besin veya [ICON_Production] Üretim getirisinin iyileşme şansı vardır.</Text>
+			<Text>Toz Fırtınaları yalnızca Çöl karolarında görülebilir. Gradyan (3 bölge) ile haboob (7 bölge) arasında değişir. Bir Toz Fırtınası geçtikten sonra, etkilenen karolarin [ICON_Food] Besin veya [ICON_Production] Üretim getirisinin iyileşme şansı vardır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_STORMS_PARA_4">
-			<Text>Hortumlar yalnızca Ova ve Çayır bölgelerinde meydana gelir. Aile (1 bölge) ile salgın (3 bölge) arasında değişen boyutlara sahiptir.</Text>
+			<Text>Hortumlar yalnızca Ova ve Çayır karolarında meydana gelir. Aile (1 bölge) ile salgın (3 bölge) arasında değişen boyutlara sahiptir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_STORMS_PARA_5">
-			<Text>Kasırgalar yalnızca Okyanus bölgelerinde meydana gelir. Kategori 4 (7 bölge) ile Kategori 5 (19 bölge) arasında değişen şiddetlere sahiptir. Bir kasırga geçtikten sonra, etkilenen bölgelerin [ICON_Food] Besin veya [ICON_Production] Üretim getirisinin iyileşme şansı vardır.</Text>
+			<Text>Kasırgalar yalnızca Okyanus karolarında meydana gelir. Kategori 4 (7 bölge) ile Kategori 5 (19 bölge) arasında değişen şiddetlere sahiptir. Bir kasırga geçtikten sonra, etkilenen karolarin [ICON_Food] Besin veya [ICON_Production] Üretim getirisinin iyileşme şansı vardır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_DROUGHTS_TITLE">
 			<Text>Kuraklıklar</Text>
@@ -255,7 +255,7 @@
 			<Text>Seller</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLOODS_PARA_1">
-			<Text>Nehre bitişik herhangi bir bölgede taşkın meydana gelebilir. Seller, bölge iyileştirmelerini yağmalama veya yok etme, bölgelerdeki binaları yağmalama, şehir merkezi nüfusunu azaltma ve birimlere veya tahkimatlara hasar verme şansına sahiptir. Harikalar Sellerden etkilenmez. Seller şiddet açısından farklılık gösterebilir; daha şiddetli seller (1000 yıllık sel gibi) daha geniş alanları etkiler. Nehir boyunca bir Baraj inşa ederek taşkınları önleyebilirsiniz. Bir nehir boyunca yalnızca bir Baraj inşa edilebilir. Büyük Hamam harikası, Sellerin neden olduğu hasarı engeller. Bir Sel geçtikten sonra, etkilenen bölgelerin [ICON_Food] Besin veya [ICON_Production] Üretim getirisinde iyileşme olma ihtimali vardır.</Text>
+			<Text>Nehre bitişik herhangi bir bölgede taşkın meydana gelebilir. Seller, karo iyileştirmelerini yağmalama veya yok etme, bölgelerdeki binaları yağmalama, şehir merkezi nüfusunu azaltma ve birimlere veya tahkimatlara hasar verme şansına sahiptir. Harikalar Sellerden etkilenmez. Seller şiddet açısından farklılık gösterebilir; daha şiddetli seller (1000 yıllık sel gibi) daha geniş alanları etkiler. Nehir boyunca bir Baraj inşa ederek taşkınları önleyebilirsiniz. Bir nehir boyunca yalnızca bir Baraj inşa edilebilir. Büyük Hamam harikası, Sellerin neden olduğu hasarı engeller. Bir Sel geçtikten sonra, etkilenen karolarin [ICON_Food] Besin veya [ICON_Production] Üretim getirisinde iyileşme olma ihtimali vardır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_CLIMATE_CHANGE_TITLE">
 			<Text>İklim Değişikliği</Text>
@@ -617,7 +617,7 @@
 			<Text>Pachacuti, Teras Çiftlikleri ve Qhapaq Ñan inşa ederek dağ şehirlerinin büyümesini sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PACHACUTI_CHAPTER_DETAILED_BODY">
-			<Text>İnka uygarlığının yurdu dağlık arazidir. Vatandaşları bu bölgelerde çalışabilir ve bunu yaparak ek getiriler elde eder. Teras Çiftlikleri, dağ şehirlerinin daha da büyümesine yardımcı olur. Pachacuti, İnkaların lideri olarak Qhapaq Ñan inşa etmelerine olanak tanır. Bu iyileştirme, İnkaların dağları diğer uygarlıklardan çok daha erken aşmasını sağlar. Pachacuti ayrıca dağ şehirlerine daha fazla ticaret geliri sağlar.</Text>
+			<Text>İnka uygarlığının yurdu dağlık arazidir. Vatandaşları bu karolerde çalışabilir ve bunu yaparak ek getiriler elde eder. Teras Çiftlikleri, dağ şehirlerinin daha da büyümesine yardımcı olur. Pachacuti, İnkaların lideri olarak Qhapaq Ñan inşa etmelerine olanak tanır. Bu iyileştirme, İnkaların dağları diğer uygarlıklardan çok daha erken aşmasını sağlar. Pachacuti ayrıca dağ şehirlerine daha fazla ticaret geliri sağlar.</Text>
 		</Row>
 		<!-- Mali -->
 		<Row Tag="LOC_CIVINFO_MALI_LOCATION">
@@ -1242,7 +1242,7 @@
 			<Text>Temel Kaynak Maliyeti: {1_Amount : number} {2_ResourceIcon} {3_Resource} (Standart Hızda)</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_RESOURCE_MAINTENANCE_AMOUNT">
-			<Text>Tüketir: {1_Amount : number}  {2_ResourceIcon}  {3_ResourceName} tur başına</Text>
+			<Text>Tüketir: {1_Amount : number} {2_ResourceIcon} {3_ResourceName} tur başına</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_MAX_PROMOTIONS">
 			<Text>Maksimum Terfi Sayısı: {1_Amount : number}</Text>
@@ -1391,7 +1391,7 @@
 			<Text>“Çarşı” kelimesi Farsçadır ve en eski çarşılar muhtemelen kervansarayların çevresinde ortaya çıkmıştır. Gerçek bir çarşı, bir bina içinde veya kalıcı bir rüzgârlığın altında gerçekleşir. Dünyanın dört bir yanında hâlâ geleneksel çarşılar bulunmaktadır; bunların birçoğu hâlâ canlı, işleyen pazarlardır ve bazıları UNESCO Dünya Mirası alanlarıdır. Çarşılar, tahıl veya kumaş gibi tek bir ürünün alınıp satılması için kurulabileceği gibi, her türlü şeyin alınıp satılabileceği genel pazarlar da olabilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GRAND_BAZAAR_CHAPTER_HISTORY_PARA_3">
-			<Text>Çarşılar, Osmanlı İmparatorluğu ve çevresindeki topraklardaki şehirlerin kentsel yaşamının merkezindeydi. Mal ve bilgi alışverişinin ritüelleri, dünyanın bu bölgesindeki birçok dil ve kültüre işlemiştir.</Text>
+			<Text>Çarşılar, Osmanlı İmparatorluğu ve çevresindeki topraklardaki şehirlerin kentsel yaşamının merkezindeydi. Mal ve bilgi alışverişinin ritüelleri, dünyanın bu karosindeki birçok dil ve kültüre işlemiştir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_THERMAL_BATH_CHAPTER_HISTORY_PARA_1">
 			<Text>Macaristan'da yıkanma kültürünün hem Doğu'dan hem de Batı'dan gelen derin kökleri vardır ve ülke çok sayıda doğal termal kaynakla doludur. En ünlü hamamlardan bazıları Budapeşte yakınlarında inşa edilmiştir; bunlar arasında görkemli Széchenyi, lüks Art Nouveau tarzı Gellért ve büyük ölçüde Osmanlı üslubunu koruyan antik Rudas bulunur. Hamamlar ve binaları görkemli mimari ve sanat eserlerinin yanı sıra devasa yüzme havuzlarına sahiptir. Macaristan, dünyadaki herhangi bir ülkeden daha fazla kişi başına termal hamama sahip olabilir ve bunlar turistler için popüler bir cazibe merkezidir.</Text>
@@ -1562,7 +1562,7 @@
 			<Text>Dünyanın neresinde tavukları, mantarları, anıtları ve dondurmayı bir arada bulabilirsiniz? Bunlar, Mısır'daki Farafra yakınlarındaki Beyaz Çöl'de bulunan kalsiyum yapılarından sadece birkaçıdır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_WHITEDESERT_CHAPTER_HISTORY_PARA_2">
-			<Text>Bir zamanlar uçsuz bucaksız bir denizin altında kalan bu bölge, milyonlarca yıllık su ve rüzgâr erozyonunun sonucunu sergiler; bu büyük beyaz kayaları tuhaf şekillere dönüştürmüştür. Tebeşir kayasının beyazlığı, gün boyunca görünümlerini çarpıcı biçimde değiştirir – gün batımında yumuşak bir pembeden dolunay altında parlayan beyaza kadar.</Text>
+			<Text>Bir zamanlar uçsuz bucaksız bir denizin altında kalan bu karo, milyonlarca yıllık su ve rüzgâr erozyonunun sonucunu sergiler; bu büyük beyaz kayaları tuhaf şekillere dönüştürmüştür. Tebeşir kayasının beyazlığı, gün boyunca görünümlerini çarpıcı biçimde değiştirir – gün batımında yumuşak bir pembeden dolunay altında parlayan beyaza kadar.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_WHITEDESERT_CHAPTER_HISTORY_PARA_3">
 			<Text>Bu oluşumların bulunduğu Milli Park, 2002 yılında koruma altına alınmıştır ve eşsiz yapıların ötesinde, ceylanlara, çöl tilkilerine ve kum kedilerine de ev sahipliği yapmaktadır. Günümüzde turistler Beyaz Çöl'e dört çeker araçlarla veya develerle seyahat etmekte ve burası gece kampçılığı için popüler – ve büyülü – bir mekân haline gelmiştir.</Text>

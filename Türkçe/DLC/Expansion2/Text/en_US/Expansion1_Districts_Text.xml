@@ -64,7 +64,7 @@
 			<Text>Karnaval (Kıyı)</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
-			<Text>Brezilya'ya özgü proje. Aktifken +1 [ICON_Amenities] Olanak sağlar ve tamamlandığında [ICON_GreatPerson] Büyük Şahsiyet Puanı kazandırır: [ICON_GreatEngineer] Büyük Mühendisler, [ICON_GreatMerchant] Büyük Tüccarlar, [ICON_GreatWriter] Büyük Yazarlar, [ICON_GreatArtist] Büyük Sanatçılar ve [ICON_GreatMusician] Büyük Müzisyenler için.</Text>
+			<Text>Brezilya'ya özgü proje. Aktifken +1 [ICON_Amenities] Olanak sağlar ve tamamlandığında [ICON_GreatPerson] Büyük Kişi Puanı kazandırır: [ICON_GreatEngineer] Büyük Mühendisler, [ICON_GreatMerchant] Büyük Tüccarlar, [ICON_GreatWriter] Büyük Yazarlar, [ICON_GreatArtist] Büyük Sanatçılar ve [ICON_GreatMusician] Büyük Müzisyenler için.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
 			<Text>Ekmek ve Sirkler</Text>
@@ -76,17 +76,17 @@
 			<Text>Ekmek ve Sirkler (Kıyı)</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
-			<Text>Şehir projesi, bu şehrin kendisi ve yakınındaki diğer şehirler üzerinde uyguladığı Bağlılık baskısını artırır.[NEWLINE][NEWLINE]Aktifken, buradaki her [ICON_Citizen] Vatandaşınız bu şehre +0,5 Bağlılık baskısı uygular. Bu baskı ayrıca 9 bölge içindeki diğer şehirleri de etkiler, ancak her bölge için %10 daha az etkilidir. Tamamlandığında, bu şehirde anında +20 Bağlılık kazanın.[NEWLINE][NEWLINE]Gerektirir: Eğlence Kompleksi bölgesi.</Text>
+			<Text>Şehir projesi, bu şehrin kendisi ve yakınındaki diğer şehirler üzerinde uyguladığı Bağlılık baskısını artırır.[NEWLINE][NEWLINE]Aktifken, buradaki her [ICON_Citizen] Vatandaşınız bu şehre +0,5 Bağlılık baskısı uygular. Bu baskı ayrıca 9 karo içindeki diğer şehirleri de etkiler, ancak her bölge için %10 daha az etkilidir. Tamamlandığında, bu şehirde anında +20 Bağlılık kazanın.[NEWLINE][NEWLINE]Gerektirir: Eğlence Kompleksi bölgesi.</Text>
 		</Row>
 		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
-			<Text>Şehir projesi, bu şehrin kendisi ve yakınındaki diğer şehirler üzerinde uyguladığı Bağlılık baskısını artırır.[NEWLINE][NEWLINE]Aktifken, buradaki her [ICON_Citizen] Vatandaşınız bu şehre +1 Bağlılık baskısı uygular. Bu baskı ayrıca 9 bölge içindeki diğer şehirleri de etkiler, ancak her bölge için %10 daha az etkilidir. Tamamlandığında, bu şehirde anında +20 Bağlılık kazanın.[NEWLINE][NEWLINE]Gerektirir: Su Parkı bölgesi.</Text>
+			<Text>Şehir projesi, bu şehrin kendisi ve yakınındaki diğer şehirler üzerinde uyguladığı Bağlılık baskısını artırır.[NEWLINE][NEWLINE]Aktifken, buradaki her [ICON_Citizen] Vatandaşınız bu şehre +1 Bağlılık baskısı uygular. Bu baskı ayrıca 9 karo içindeki diğer şehirleri de etkiler, ancak her bölge için %10 daha az etkilidir. Tamamlandığında, bu şehirde anında +20 Bağlılık kazanın.[NEWLINE][NEWLINE]Gerektirir: Su Parkı bölgesi.</Text>
 		</Row>
 		<!-- Updates to base game Districts -->
 		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
 			<Text>Şehrinizde, [ICON_Amenities] Olanakları artırarak halkınızı mutlu etmeye adanmış bir bölge. Su Parkı olan bir şehirde inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
-			<Text>Brezilya'ya özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır ve +2 [ICON_Amenities] Olanak sağlar, ayrıca inşa etmesi daha ucuzdur. Copacabana olan bir şehirde inşa edilemez. Ayrıca Karnaval projesini açar; bu proje devam ederken ek +1 [ICON_Amenities] Olanak ve tamamlandığında çeşitli [ICON_GreatPerson] Büyük Şahsiyet puanı kazandırır.</Text>
+			<Text>Brezilya'ya özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır ve +2 [ICON_Amenities] Olanak sağlar, ayrıca inşa etmesi daha ucuzdur. Copacabana olan bir şehirde inşa edilemez. Ayrıca Karnaval projesini açar; bu proje devam ederken ek +1 [ICON_Amenities] Olanak ve tamamlandığında çeşitli [ICON_GreatPerson] Büyük Kişi puanı kazandırır.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

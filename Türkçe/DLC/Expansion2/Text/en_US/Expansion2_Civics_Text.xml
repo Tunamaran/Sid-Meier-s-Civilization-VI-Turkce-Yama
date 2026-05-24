@@ -256,7 +256,7 @@
 			<Text>Balıkçı Tekneleri iyileştirmesi +1 [ICON_Production] Üretim kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_VETERANCY_DESCRIPTION_XP2">
-			<Text>+%30 [ICON_Production] Üretim, Ordugâh Bölgeleri, Liman Bölgeleri ve bu bölgelere ait binalar için.</Text>
+			<Text>+%30 [ICON_Production] Üretim, Ordugâh Bölgeleri, Liman Bölgeleri ve bu karolere ait binalar için.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_RAJ_DESCRIPTION_XP2">
 			<Text>+2 [ICON_Science] Bilim, [ICON_Culture] Kültür, [ICON_Faith] İnanç ve [ICON_Gold] Altın, Süzereni olduğunuz her Şehir Devleti'nden. [ICON_TradeRoute] Şehir Devletlerine giden Ticaret Yolları +2 [ICON_GOLD] Altın kazanır.</Text>

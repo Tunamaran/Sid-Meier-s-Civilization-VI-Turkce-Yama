@@ -268,7 +268,7 @@
 			<Text>[ICON_Bullet]{1_Amount} Şehir Devletlerinden</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_REPORTS_CITY_STATES">
-			<Text>Şehir Devleti Bonusu</Text>
+			<Text>Şehir Devleti bonusu</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_FROM_BONUS_SOURCES">
 			<Text>[ICON_Bullet]{1_Amount} bonus kaynaklardan</Text>
@@ -732,7 +732,7 @@
 			<Text>%{1_Num} Şans</Text>
 		</Row>
 		<Row Tag="LOC_CLIMATE_STORM_EVENT_DESCRIPTION_TOOLTIP">
-			<Text>FIRTINA OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Dört olası fırtınadan biri (tipi, toz fırtınası, kasırga veya hortum) fırtınanın kaynağındaki araziye bağlı olarak ortaya çıkar.[NEWLINE]- Fırtınalar daha sonra iki tur daha haritada hareket eder, binalara ve iyileştirmelere hasar verir ve etkilenen bölgelere olasılıkla verimlilik katar.[NEWLINE][NEWLINE]Küresel sıcaklık, sera gazı emisyonlarının atmosfere salınması sonucu yükseldikçe, bir fırtınanın meydana gelme olasılığı artar. Daha temiz enerji kaynaklarının kullanılması küresel sıcaklık artışını azaltır ve böylece fırtınaların olasılığını hafifletir.</Text>
+			<Text>FIRTINA OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Dört olası fırtınadan biri (tipi, toz fırtınası, kasırga veya hortum) fırtınanın kaynağındaki araziye bağlı olarak ortaya çıkar.[NEWLINE]- Fırtınalar daha sonra iki tur daha haritada hareket eder, binalara ve iyileştirmelere hasar verir ve etkilenen karolare olasılıkla verimlilik katar.[NEWLINE][NEWLINE]Küresel sıcaklık, sera gazı emisyonlarının atmosfere salınması sonucu yükseldikçe, bir fırtınanın meydana gelme olasılığı artar. Daha temiz enerji kaynaklarının kullanılması küresel sıcaklık artışını azaltır ve böylece fırtınaların olasılığını hafifletir.</Text>
 		</Row>
 		<Row Tag="LOC_CLIMATE_RIVER_FLOOD_EVENT_DESCRIPTION_TOOLTIP">
 			<Text>NEHİR TAŞKINI OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Etkilenen Nehir boyunca Taşkın Yatağı bölgeleri sular altında kalır ve olasılıkla verimlilik katar.[NEWLINE]- Sular altında kalan bölgelerdeki binalar ve iyileştirmeler yağmalanabilir veya yok olabilir.[NEWLINE][NEWLINE]Etkilenen Nehir üzerine bir Baraj veya Büyük Hamam harikası inşa ederek Sel hasarını önleyin.</Text>
@@ -982,7 +982,7 @@
 			<Text>Hedef şehrin topraklarında Dinî birlik bulundurmak</Text>
 		</Row>
 		<Row Tag="LOC_EMERGENCY_SCORE_GPP_DESC">
-			<Text>Tur başına [ICON_GREATPERSON] Büyük Şahsiyet Puanı üretmek</Text>
+			<Text>Tur başına [ICON_GREATPERSON] Büyük Kişi Puanı üretmek</Text>
 		</Row>
 		<Row Tag="LOC_DISCUSSION_EMERGENCY_MILITARY_TARGET_NAME">
 			<Text>Askerî Acil Durum</Text>
@@ -1015,7 +1015,7 @@
 			<Text>"Hangi milletin gerçekten en iyi ve en parlak zihinlere yurt olduğunu ispatlayalım!"</Text>
 		</Row>
 		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SCORE_COMPETITION_CULTURAL">
-			<Text>Parlak [ICON_GREATPERSON] Büyük Şahsiyetlerimize öncülük ediyor. Hangimiz kendi diyarının aydınlarına en büyük desteği gösterebilir?</Text>
+			<Text>Parlak [ICON_GREATPERSON] Büyük Kişilerimize öncülük ediyor. Hangimiz kendi diyarının aydınlarına en büyük desteği gösterebilir?</Text>
 		</Row>
 		<Row Tag="LOC_EMERGENCY_FLAVOR_SPACE_STATION">
 			<Text>"Uzay, yeni büyük serüven. Gelin bu atılımı birlikte yapalım!"</Text>
@@ -1120,7 +1120,7 @@
 			<Text>[ICON_Favor] Diplomatik Destek üretiliyor.</Text>
 		</Row>
 		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_FAVOR">
-			<Text>Kazanan, 2 Ücretsiz [ICON_GreatPerson] Büyük Şahsiyet kazanır.</Text>
+			<Text>Kazanan, 2 Ücretsiz [ICON_GreatPerson] Büyük Kişi kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_EMERGENCY_REWARD_SWEDEN_GAINS_FAVOR_DESCRIPTION">
 			<Text>İsveç +50 [ICON_FAVOR] Diplomatik Destek alır.</Text>
@@ -2128,7 +2128,7 @@
 			<Text>Casus, Gizli Ajan veya daha üst rütbede</Text>
 		</Row>
 		<Row Tag="LOC_VIZSOURCE_ACTION_HIGHLEVEL_SPY">
-			<Text>   (Gizli Ajan veya Usta Casus ise ekstra görünürlük)</Text>
+			<Text> (Gizli Ajan veya Usta Casus ise ekstra görünürlük)</Text>
 		</Row>
 		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
 			<Text>[ICON_VisLimited] Diplomatik Görünürlüğü 1 seviye artırır (Gizli Ajan veya üzeri ise 2 seviye)</Text>
@@ -2159,7 +2159,7 @@
 			<Text>[NEWLINE][COLOR_RED]Bu şehrin detaylarını görüntülemek için Erişim Seviyesini artırın[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
-			<Text>Süzeren Diplomasi Bonusu:[NEWLINE][ICON_Bolt]Her tur temel olarak +1 [ICON_FAVOR] Diplomatik Destek kazanırsınız.[NEWLINE][ICON_Bolt]Şehir devleti, diğer oyuncularla savaş ve barışta sizi takip eder.[NEWLINE][ICON_Bolt]Şehir devleti toprakları dost bölge haline gelir. Birimleriniz orada hareket edebilir, iyileşebilir ve yükseltme yapabilir.[NEWLINE][ICON_Bolt]İşçi birimleriniz şehir devleti bölgelerini geliştirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin etrafındaki 3 bölge görünür.[NEWLINE][ICON_Bolt]Geçici olarak şehir devletinin ordusunun kontrolünü ele geçirmek için [ICON_Gold] Altın ödeyebilirsiniz.[NEWLINE][ICON_Bolt]Şehir devletinin tüm kaynaklarının sahibi olursunuz.</Text>
+			<Text>Süzeren Diplomasi bonusu:[NEWLINE][ICON_Bolt]Her tur temel olarak +1 [ICON_FAVOR] Diplomatik Destek kazanırsınız.[NEWLINE][ICON_Bolt]Şehir devleti, diğer oyuncularla savaş ve barışta sizi takip eder.[NEWLINE][ICON_Bolt]Şehir devleti toprakları dost karo haline gelir. Birimleriniz orada hareket edebilir, iyileşebilir ve yükseltme yapabilir.[NEWLINE][ICON_Bolt]İşçi birimleriniz şehir devleti bölgelerini geliştirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin etrafındaki 3 bölge görünür.[NEWLINE][ICON_Bolt]Geçici olarak şehir devletinin ordusunun kontrolünü ele geçirmek için [ICON_Gold] Altın ödeyebilirsiniz.[NEWLINE][ICON_Bolt]Şehir devletinin tüm kaynaklarının sahibi olursunuz.</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ADDITIONAL_FERTILITY">
 			<Text>Çevresel etkilerden ek getiriler alabilir.</Text>

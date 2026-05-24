@@ -51,7 +51,7 @@
 			<Text>Nazca Çizgisi</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
-			<Text>İşçinin, bir Nazca Çizgisi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Yanındaki bölgelere +1 [ICON_Faith] İnanç. Kaynak bulunan yanındaki bölgelere +1 [ICON_Faith] İnanç. Kamu Hizmeti keşfedildikten sonra yanındaki Çöl ve Çöl Tepe bölgelerine +1 [ICON_FOOD] Besin. Seri Üretim araştırıldıktan sonra yanındaki düz bölgelere +1 [ICON_Production] Üretim. +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu bölge çalışılamaz.</Text>
+			<Text>İşçinin, bir Nazca Çizgisi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Yanındaki karolara +1 [ICON_Faith] İnanç. Kaynak bulunan yanındaki karolara +1 [ICON_Faith] İnanç. Kamu Hizmeti keşfedildikten sonra yanındaki Çöl ve Çöl Tepe bölgelerine +1 [ICON_FOOD] Besin. Seri Üretim araştırıldıktan sonra yanındaki düz karolara +1 [ICON_Production] Üretim. +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu bölge çalışılamaz.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_MOAI_NAME">
 			<Text>Moai</Text>
