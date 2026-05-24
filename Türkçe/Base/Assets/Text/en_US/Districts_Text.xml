@@ -30,7 +30,7 @@
 			<Text>Komşuluk: Her komşu harika için Standart [ICON_Culture] Kültür bonusu. Komşu bölge alanları için Küçük [ICON_Culture] Kültür bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
-			<Text>Şehrinde denizcilik faaliyetleri için bir bölgedir. Ayrıca bu alana çıkarma ve bu alandan denize açılma [ICON_Movement] Hareket cezasını kaldırır. Kıyı veya Göl arazisinde, karaya komşu olacak şekilde inşa edilmelidir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+			<Text>Şehrinde deniz faaliyetleri için bir bölgedir. Bu karoya biniş ve iniş sırasında uygulanan [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
 			<Text>Komşuluk: Her komşu Şehir Merkezi için Büyük [ICON_Gold] Altın bonusu. Her komşu kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Komşu bölge alanları için Küçük [ICON_Gold] Altın bonusu.</Text>

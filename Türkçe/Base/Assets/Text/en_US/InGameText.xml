@@ -1596,7 +1596,7 @@
 			<Text>Gerekli bölge bir düşman birliği tarafından işgal edilmiş.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW_SHORT">
-			<Text>[ICON_Citizen] {1_Population} veya daha fazla Nüfus gerektirir.</Text>
+			<Text>[ICON_Citizen] En az {1_Population} nüfus gerektirir.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
 			<Text>Başka bir bölge eklenebilmesi için şehrin nüfusunun {1_Population}'e ulaşması gerekiyor.</Text>
@@ -3586,7 +3586,7 @@
 			<Text>{1_Amount: number +#,###;-#,###} Dış savunma</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_GREAT_PERSON_POINTS">
-			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_GreatPersonClassName} {1_Amount : plural 1?puan; other?puan;} Tur başına.</Text>
+			<Text>Her tur {1_Amount: number +#,###;-#,###} {2_Icon} {3_GreatPersonClassName} {1_Amount : plural 1?puan; other?puan;}.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_GREAT_WORKS_ART_SLOTS">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_GreatWork_Landscape] {1_Amount : plural 1?Sanat Büyük Eseri; other?Sanat Büyük Eserleri;} {1_Amount : plural 1?yuvası; other?yuvaları;}</Text>
@@ -3622,13 +3622,13 @@
 			<Text>Yanındaki {2_AdjacentObject} bölgesine sahip olmaktan {1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] {1_Amount : plural 1?Olanak; other?Olanaklar;}.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
-			<Text>Yanındaki her {5_AdjacentObject} bölgesinden {1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName}.</Text>
+			<Text>Her komşu {5_AdjacentObject} için {1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName}.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS">
 			<Text>Yanındaki her {2_AdjacentObject} bölgesinden {1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] {1_Amount : plural 1?Olanak; other?Olanaklar;}.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_PER">
-			<Text>Yanındaki her {4_Count} {5_AdjacentObject} bölgesinden {1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName}.</Text>
+			<Text>Her {4_Count} komşu {5_AdjacentObject} için {1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName}.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS_PER">
 			<Text>Yanındaki her {2_Count} {3_AdjacentObject} bölgesinden {1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] {1_Amount : plural 1?Olanak; other?Olanaklar;}.</Text>
@@ -3640,16 +3640,16 @@
 			<Text>{1_TechOrCivicName} ile geçerliliğini yitirir.</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_DISTRICT">
-			<Text>Bölge</Text>
+			<Text>bölge karosu</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE">
 			<Text>Kaynak</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_SEA_RESOURCE">
-			<Text>Kıyı Kaynağı</Text>
+			<Text>kıyı kaynağı karosu</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE_CLASS">
-			<Text>Eşleşen Kaynak Sınıfı</Text>
+			<Text>aynı kaynak sınıfına sahip karo</Text>
 		</Row>
 		<Row Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RIVER">
 			<Text>Nehir</Text>
