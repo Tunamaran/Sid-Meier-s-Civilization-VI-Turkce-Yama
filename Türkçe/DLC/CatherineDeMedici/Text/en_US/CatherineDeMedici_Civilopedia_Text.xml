@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>İhtişamlı Catherine, her zamanki harika ve Şato inşa programını gösterişli Saray Festivalleri ile güçlendirir ve bu festivaller, özellikle geniş bir Lüks Mal koleksiyonu biriktirebildiğinde Fransa'yı hızla Kültür Zaferi'ne yönlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_CHAPTER_DETAILED_BODY">
+			<Text>İhtişamlı Catherine, her türden ve her miktardan Lüks Kaynağı geniş bir koleksiyonda toplamak isteyen tek liderdir. Göz kamaştırıcı bir zengin mal koleksiyonuna sahip olmak, onun Saray Festivallerini tüm liderlerin görünmek ve görülmek isteyeceği kültürel etkinlikler haline getirir. Yeterli sayıda bu tür festival ve geniş bir Şato ile orta oyun Harikaları koleksiyonuyla, Catherine'in bu iyiliksever versiyonu ortaya çıktığında Fransa Kültür Zaferi'nin önde gelen adayı olmalıdır. Oyunda yeterince tehlikelidir ki, onun hızlı bir zafere ulaşmasını engellemek için Fransız İmparatorluk Muhafızları'na karşı bir savaş vermeniz gerekebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_TITLE">
+			<Text>Catherine de Medici (Kara Kraliçe)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CATHERINE_DE_MEDICI_ALT_QUOTE">
+			<Text>Kültürümüzde yaşama dair bir neşe vardır. Onun cazibesine direnmek beyhudedir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI Accepts -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Heyetinizi başkentimizde ağırlamaktan mutluluk duyuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Ticaret heyetiniz başkentime ulaştı ve onları kollarımızı açarak karşıladık. Hediyeleriniz için teşekkür ederiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Heyetinizi sarayda kabul ettik. Teşekkür ederiz. Hediyeleriniz kıymetle saklanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ticaret heyetiniz aracılığıyla Yeni İsis'e sunduğunuz adakları aldım. Nezaketinizi hatırlayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Elçiniz geldi ve onu bizzat karşıladım. İmparatorluğumuz diplomasiden faydalanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Çok naziksiniz dostum. Ticaret heyetinizle birlikte hediyeleriniz de geldi; onlara bizzat teşekkür ettim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gılgamış, haraçlarınızı ve elçinizi kabul etti. Onların Uruk'a girmesine izin verecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Spartalılar maddi şeylerle ilgilenmez, ancak heyetinizin getirdiği hediyeler için teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Heyetiniz geldi. Onları uzun evde bir ziyafetle karşıladık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Heyetiniz geldi ve cömertliğiniz karşısında mahcup olduk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Heyetinizi başkentimizde ağırlamaktan mutluluk duyuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Halk, heyetinizi ve hediyelerinizi memnuniyetle karşıladı. Teşekkür ederiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Ticaret heyetiniz ulaştı. Yabancı ülkelerden gelen ziyaretçileri, hele de hediyeler getirdiklerinde, ağırlamaktan her zaman mutluluk duyarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Kâfirleri, yani ticaret heyetinizi kabul ettik. Kendilerine bizim yolumuzu öğreteceğimden emin olabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Ticaret heyetinizi ağırlamaktan mutluluk duyuyoruz. Hak ettikleri saygıyla karşılanacaklar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Hediyeleriniz için binlerce teşekkür. Heyetiniz en yüksek itinayla ağırlanacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Heyetinizi büyük Amerika Birleşik Devletleri'ne hoş geldiniz diyerek karşılıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Heyetiniz, İmparatoriçe'ye sunduğunuz haraçla birlikte geldi. Bu çok takdir edilmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Ticaret heyetiniz geldi, gördü ve bizi nezaketleriyle fethetti. Hediyeler için teşekkürler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Ticaret heyetinizi kabul ettik ve emin olabilirsiniz ki onlara layık oldukları hürmetle davranılacaktır.</Text>
+		</Row>
+		
+		<!-- AI Rejects -->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_ANY_ANY">
+			<Text>Heyetinizi nezaketle reddediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Evet diyemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Cazip, ama hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Belki başka bir zaman?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Hayır, elbette hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Maalesef hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Sanmıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Bu sefer değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Hayır. Kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Hayır, teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Heyetinizi nezaketle reddediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Atina reddediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Teklifinizi reddediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Hayır, kabul edemeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Reddetmek zorundayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Kabul etmeyeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>İyi bir teklif, ancak kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Parlamentom onaylamıyor.</Text>
+		</Row>
+		<!-- AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Diplomatik heyetimizi başkentinizde kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Ticaret heyetimiz fufu ile birlikte çok yakında varacak. Afiyet olsun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Size her zamanki hediyelerle bir ticaret heyeti gönderdim: otlar, zeytinler, çeşitli peynirler ve tabii ki yanında yemek için baget ekmekler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Diplomatik heyetim size Yeni İsis'ten bir papirüs hediyesi getiriyor. Onları beni karşılar gibi karşılayın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Size bir diplomatik elçi gönderdik. Onlara, Svabyalı Dük, Burgonya Kralı, Almanya Kralı, Romalıların Kralı, İtalya Kralı ve Kutsal Roma İmparatoru olan bana davrandığınız gibi davranın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Size topraklarımızdan hediyelerle bir ticaret heyeti gönderdim: çaylar, sariler ve sitar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Gilgameş'in heyeti size Sümer takıları ve Ur'dan lirler getiriyor. Onları şehrinize kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Bir Sparta heyeti sizi zeytinyağı ve siyah çorba hediyeleriyle onurlandırıyor. Onları onurla kabul edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Size runik taşlarla hediyeler getiren tüccarlar gönderdim. Güçlüdürler - taşlar, tüccarlar değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Size en büyük eserlerimizden olan yosegi-zukuri hediyeleriyle bir heyet gönderdik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Diplomatik heyetimizi başkentinizde kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Size hediyeler taşıyan bir heyet gönderdik. Telaşlanmayın, içinde tahta bir at yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Size en kaliteli havyardan hediyeler taşıyan bir ticaret heyeti gönderdim. Afiyet olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Şehrinize bir heyet gönderdim. Lütfen, churroların tadını çıkarın ve onları nazikçe karşılayın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY">
+			<Text>Ticaret heyetimiz Orta Krallık'ın en iyi baharatları, çayları ve ipeklerinden hediyelerle çok yakında varacak. Lütfen, keyfini çıkarın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Size imparatorluğumuzdan hediyelerle bir heyet gönderdim. En tatlı meyveleri, en sıcak günde bile sizi serinletecek nadir karı ve en mükemmel atları getiriyorlar. Lütfen onları nezaketimizin bir göstergesi olarak kabul edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Sizi görmek ne güzel. Diplomatik heyetim çok yakında taze pişmiş elmalı turtalarla varacak. Onlara sıcak bir karşılama yapacağınızdan eminim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Size hediye olarak süslü bir gorytos taşıyan bir ticaret heyeti gönderdim. Bir yayınız var, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Size bir ticaret heyeti gönderdim. Pecorino Romano'nun tadını çıkarın: şimdiye kadar tadacağınız en kaliteli tuzlu koyun sütü peyniri.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Selamlar. Birleşik Krallık adına bir Kraliyet elçisi gönderdik. İyi karşılanacaklarını umuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_NEGATIVE">
+			<Text>Başkentimiz şu an ziyaretçilere kapalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_CHOICE_POSITIVE">
+			<Text>Heyetinizi en içten duygularla karşılıyoruz.</Text>
+		</Row>
+		
+		<!-- Human Accepts -->		
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Harika!</Text>
+		</Row>
+
+		<!-- Human Rejects -->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_AI_ANY_ANY">
+			<Text>Ne yazık, belki daha sonraki bir tarihte.</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

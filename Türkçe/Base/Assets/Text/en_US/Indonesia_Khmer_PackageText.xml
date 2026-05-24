@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
+			<Text>Kmer ve Endonezya Uygarlık Paketi</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
+			<Text>Yeni Uygarlıklar ve Liderler – Endonezya'dan Dyah Gitarja ve Kmer'den VII. Jayavarman</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
+			<Text>İki yeni uygarlık, iki lider, bir dünya harikası, bir doğa harikası ve iki harita içerir.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
+			<Text>Senaryo: Nirvana'ya Giden Yol</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
+			<Text>İnancını Doğu Asya'ya yay.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>Hint Okyanusu çevresindeki topraklar, onlarca din ve kalabalık halklarla bereketlenmiştir. Gökler, tüm bu diyarlara nur getirmen için seni seçti. Acaba inancın bu meydan okumaya karşı koyabilecek mi? Güneydoğu Asya halklarını kendi dinine inandırabilecek misin?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

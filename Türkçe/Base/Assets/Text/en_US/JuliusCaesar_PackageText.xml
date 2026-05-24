@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_JULIUS_CAESAR_MOD_TITLE">
+			<Text>Jül Sezar Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_JULIUS_CAESAR_MOD_TEASER">
+			<Text>Yeni Alternatif Lider - Jül Sezar</Text>
+		</Row>
+		<Row Tag="LOC_JULIUS_CAESAR_MOD_DESCRIPTION">
+			<Text>Roma için yeni bir alternatif Lider olan Romalı Jül Sezar'ı içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

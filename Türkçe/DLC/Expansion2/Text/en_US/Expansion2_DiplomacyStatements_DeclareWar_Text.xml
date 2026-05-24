@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Human Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DIDO_ANY">
+			<Text>Savaş mı? Ahmak mısın? Şehirlerin Epirus ve Saguntum'un kaderini yaşayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Birbirimizle savaşmak zorunda kaldığımız için üzgünüm—ama yalnızca biraz üzgünüm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Birbirimizle savaşmak zorunda kaldığımız için üzgünüm—ama yalnızca biraz üzgünüm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KRISTINA_ANY">
+			<Text>İsveç, dünyayı tehdit edenleri cezalandıracak. Kendini savaşa hazırla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUPE_ANY">
+			<Text>Şu koca uygarlık liderine bakın, savaş ilanı yapıyormuş! Harika iş, dostum. Gerçekten ne kadar zor adam olduğunu gösteriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAURIER_ANY">
+			<Text>Sizinle barışçıl bir çözüme ulaşamadığımız için Kanada, isteksizce de olsa savaşa başvurmak zorunda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MANSA_MUSA_ANY">
+			<Text>Yeter! Sabrımın sınırı burada bitiyor! Aramızda sahte bir barıştansa savaş olmalı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Elbette bir gün aramızda savaş olacağını biliyordun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PACHACUTI_ANY">
+			<Text>Şimdi savaş zamanı. Savaşçılarımızın ayak seslerini duy—puma yürekli savaşçılar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ANY">
+			<Text>Güzel. Dünya, ordularımın tartışılmaz gücüne ve İmparatorluğumun ihtişamına tanıklık edecek.</Text>
+		</Row>
+		<!-- AI Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DIDO_ANY">
+			<Text>Artık aramızda savaş var. Denizlere bak—ufuk şimdiden filolarımın yelkenleriyle doldu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Zayıf topraklar görüyorum, zayıf bir hükümdarın yönetiminde. Sen ise seni devirmek için toplanan ordularımı görüyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Zayıf topraklar görüyorum, zayıf bir hükümdarın yönetiminde. Sen ise seni devirmek için toplanan ordularımı görüyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KRISTINA_ANY">
+			<Text>İsveç, dünyanın kötülüklerini geri püskürtmek için üzerine düşeni yapacak. Sanat bunu yapmanın bir yoludur—sizinle savaş ise başka bir yol.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUPE_ANY">
+			<Text>Ölümü seçtin! Halkın feryat ediyor! Evlerinin direkleri sallanıyor, bütün toprakların sallanıyor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAURIER_ANY">
+			<Text>Kanada ile arandaki amansız bir düşmanlık tanımı gereği, savaştan başka çaremiz kalmamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MANSA_MUSA_ANY">
+			<Text>Günahların okyanuslar kadar derin. Ey Tanrım, bu kişiyi cezalandırmama izin ver!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Küstahlığın bu savaşı kışkırttı ve Kara Ordu'yu sana karşı zafere taşımaktan mutluluk duyacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PACHACUTI_ANY">
+			<Text>Aramızda savaş olsun! Topraklarını zorla alacak ve tebaanı güçle yöneteceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ANY">
+			<Text>Süregelen küstahlığın ve üstünlüğümü kabul etmeyişin bizi savaşa sürüklüyor.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

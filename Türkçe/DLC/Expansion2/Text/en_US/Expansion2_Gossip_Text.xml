@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GOSSIP_SOURCE_HIGHLEVEL_SPY">
+			<Text>Casusunuz {1_Name}, şu gerçeği ortaya koyan belgeler buldu:</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DAM_BREACHED_DETECTED">
+			<Text>{1_CivName}, {3_SpyPlayer} adlı bir casusun faaliyetleri sonucu {2_CityName} şehrinde baraj ihlaline uğradı.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DAM_BREACHED_UNDETECTED">
+			<Text>{1_CivName}, kimliği belirsiz bir casusun faaliyetleri sonucu {2_CityName} şehrinde baraj ihlaline uğradı.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ROCK_CONCERT">
+			<Text>{1_City_Name} gazetesi, {3_BandName} tarafından verilen konser hakkında "{2_ResultName}" başlıklı bir eleştiri yayımladı.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_POWERED_CITY">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?{2_CityName} şehrine elektriğin büyüsünü getirdi; other?{2_CityName} şehrine elektriğin büyüsünü getirdi;}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RANDOM_EVENT">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?{2_NaturalDisasterName} nedeniyle büyük hasar gördü; other?{2_NaturalDisasterName} nedeniyle büyük hasar gördü;}.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

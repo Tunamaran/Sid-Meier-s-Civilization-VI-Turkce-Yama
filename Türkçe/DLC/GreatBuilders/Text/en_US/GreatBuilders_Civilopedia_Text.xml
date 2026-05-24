@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_TITLE">
+			<Text>Sejong</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_QUOTE">
+			<Text>Tıpkı dengeli bir eskrim duruşu ya da makul bir tartışma gibi, bir âlimin hayatı da ahenkli ve dengeli olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_1">
+			<Text>Kore'nin Joseon Hanedanı, tarihinin en büyük ve en uzun soluklu hanedanlarından biriydi. Sejong da bu imparatorluğun en üretken ve en meşhur hükümdarlarından -hatta en meşhuru- olarak anılır; Joseon'un altyapısını, bilimini ve sanat hayatını inşa etmesiyle tanınır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_2">
+			<Text>Kore'nin Joseon Hanedanı (1392–1897), Ming Hanedanı ile birlikte yükselmiştir. Ming'in Moğol egemenliğindeki Yuan hanedanına karşı verdiği veraset savaşlarının kaosu sırasında Kore'de de benzer savaşlar yaşandı; yükselen Ming, Kore'yi Yuan işgali altındaki bölgeleri kurtarmak için yardıma çağırdı. Bu dönemde her iki Çin pozisyonunun da zayıflığını fark eden bu görevle görevlendirilen general isyan etti ve iktidarı ele geçirerek krallığa Joseon adını verdi ve ölümünden sonra Taejo unvanını aldı. Bekleneceği gibi, bu durum bölgeyi daha da büyük bir huzursuzluğa sürükledi. Bu huzursuzluk ancak Taejong'un oğlu Sejong'un (1418-1450) tahta çıkmasıyla sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_3">
+			<Text>Sejong'un yönetimi derinden Konfüçyüsçülük'ten etkilenmişti - Konfüçyüs'ün istikrarlı ve bilge bir yönetime verdiği önem düşünüldüğünde bu şaşırtıcı değildir. Bu amaçla Sejong, Konfüçyüsçü öğrenciler için burslar uygulamış ve en önemlisi, devlet âlimlerini yeni bir alfabe - hangul - oluşturmaları için desteklemiştir. Daha önce Korece kelimeleri yazmak için Çin karakterleri kullanılıyordu, ancak bu yazı Kore diliyle uyuşmuyordu (Korece, Japonca gibi Çin yazısından etkilenmiştir ancak Çin yazı sisteminin karakter merkezli yapısıyla kolayca ifade edilemeyen ses birimleri ve çekimleri vardır). Bu tartışmalıydı, çünkü daha muhafazakâr âlimler böyle bir yazının benimsenmesinin eğitim ve anlayışta gerilemeye yol açacağını düşünüyorlardı, ancak yazı tutuldu ve bugün hâlâ kullanılmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_4">
+			<Text>Daha az olumlu bir not olarak, Sejong'un saltanatı Kore'de İslam ve Budizm'in bastırılmasına tanıklık etti - ilki 9. yüzyılda Abbasi temasından bu yana küçük sayılarda mevcuttu, ikincisi ise her zaman önemliydi ancak Konfüçyüsçü fikirlerle çatışıyordu - Budizm bağlanmama ve bireysel aydınlanmayı vurgularken, Konfüçyüsçülük ailevi sorumluluk ve devlete hizmeti vurgular.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_5">
+			<Text>Eğitime verdiği önemin bir parçası olarak Sejong ayrıca bilimsel çalışmaları da destekledi - özellikle stratejik düşünenler için barut silahlarının geliştirilmesi ve tarım üzerine metinler. Çiftçilerin vergilerinde kolaylık sağladı ve hatta Kore nobileri - borçtan kurtulmak için kendilerini köle olarak satanlar - için doğum izni uyguladı. Diğer önemli başarılar arasında standart bir para birimi ve Faziletler Salonu - saltanatın bilimsel ve kültürel başarılarının bir koleksiyonu - yer alıyordu. Hangul yazısının yanı sıra bunlar bir matbaa, yağmur ölçer ve diğer pratik ama yenilikçi önlemleri içeriyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_6">
+			<Text>Dış ilişkilerde Joseon, Ming'in bir haraç devletiydi - asi kökenleri göz önüne alındığında şaşırtıcı, ancak erken Ming kin besleyecek durumda değildi. Ming sisteminde bir haraç devleti, dış tehditlerden korunmak karşılığında Pekin'deki tahta ödeme yapan bir devletti. Bunun ek bir etkisi de haraç devletleri arasında barışı teşvik etmekti - Joseon Kore'si ve Aşikaga Japonya'sı karşılıklı statülerini tanıyarak sıcak ilişkiler yaşadılar, ancak bu iki yüzyıl içinde Japonya'nın Ming'den ayrılması ve Sengoku döneminin iç anlaşmazlıklarına sürüklenmesiyle çökecekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_7">
+			<Text>Haraç sisteminin dışında kalanlara karşı Sejong saldırgandı. Joseon, kuzeyde Mançu devletleriyle (daha sonra Çin'in Qing Hanedanı'nın merkezini oluşturacak olan devletler) ve Tsushima adasından faaliyet gösteren Japon korsanlarıyla karşı karşıyaydı; Tsushima, Japonya'nın batı kıyısı açıklarında, bir önceki nesilde başarısız Moğol liderliğindeki işgalin hedefi olan ve o zamanlar kanunsuz bir sınır bölgesi olarak kalan bir adaydı. Sejong'un buradaki etkisi ve yerel So klanıyla yaptığı kurnaz ticaret anlaşmaları, akınların durmasını sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_HISTORY_PARA_8">
+			<Text>Sejong 1450'de doğal nedenlerden öldü ve kraliyet veraseti tartışmalı kalmış olsa da, inşa ettiği altyapı istikrarlı, müreffeh bir Kore toplumunun temelini oluşturdu ve varlığını sürdürmesini sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_CAPSULE_BODY">
+			<Text>Bilim! Kore normalde [ICON_Science] Bilim söz konusu olduğunda her oyunda baskındır, ancak Sejong tarafından yönetildiğinde, [ICON_Science] Biliminiz [ICON_Culture] Kültür'e dönüşür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEJONG_CHAPTER_DETAILED_BODY">
+			<Text>Herhangi bir [ICON_Science] Bilim oyununa başlamak için arayış Yazı ile ve Kampüs ile Kütüphane'nin kilidini açmakla başlar. Sejong için de aynısı geçerlidir, ancak Seowon eşsiz bölgesi Kampüs'ten bile daha güçlüdür. Üç Krallık yeteneği, Seowon bölgesini Madenlerin yanına yerleştirdiğinizde daha fazla [ICON_Science] Bilim sağlar. Bu güçlü [ICON_Science] Bilim bonusları, Sejong ile her yeni Çağ'a geçtiğinizde [ICON_Culture] Kültür'e dönüşür. Kore, Bilim Zaferi için en üstün Uygarlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_TITLE">
+			<Text>II. Ludwig</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_QUOTE">
+			<Text>Kendime ve başkalarına karşı ebedi bir muamma olarak kalmak istiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_1">
+			<Text>Bavyera Katolik krallığının 'Kuğu Kralı' Ludwig, tuhaf bir karakterdi. Saltanatı krallığı için kârlı olmadı - Bavyera'nın bağımsızlığını Almanya'ya kaptırdığı dönem Ludwig'in dönemidir, ancak kendisi politikayla değil, bölgenin masallarını hayata geçirmekle ilgileniyordu. Projeleri ve sarayları hayal gücünün - ya da deliliğin - diyarlarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_2">
+			<Text>Bavyera, Alman devletlerinin en büyüğü ama en güçlüsü değildir. Uzun süre daha büyük bir Protestan bölgedeki Katolik bir kale olan Bavyera, erken dönemlerden itibaren Roma varlığından etkilenmiştir. Daha sonraki yıllarda Bavyera, Kutsal Roma İmparatorluğu'nda güçlü bir seçmendi ve Wittelsbach monarşisine (1214'ten itibaren) ev sahipliği yapıyordu - Avusturya'daki Hapsburglarla İmparatorluk içinde rekabet eden ve birçok kez açık savaşa yol açan bir hanedan. Bavyera ve Avusturya'nın dil, kültür ve din açısından Prusya kuzeyinden daha benzer olduğu belirtilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_3">
+			<Text>Modern dönemde Bavyera, Avusturya'daki rakiplerini yükselen Prusya yıldızına karşı kullanarak oldukça başarılı oldu, ancak sonunda boyun eğmek ve Prusya egemenliği altındaki Alman Federasyonu'na katılmak zorunda kaldılar - Bavyera bugün Almanya'nın bir parçası haline böyle geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_4">
+			<Text>Bugün Bavyera, zengin çiftçilerin ülkesidir, görünüşte biraz muhafazakâr, güçlü bir Katolik eğilime sahiptir. Aynı zamanda Alman halk kültürünün sembolik evidir - Alplerin gölgesinde dururken insan ister istemez biraz hayal kurar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_5">
+			<Text>İşte burada 'Deli' Ludwig'e geliyoruz. Ludwig, Bavyera kraliyet ailesine doğdu (annesinin Prusya Veliaht Prensesi olduğu belirtilmelidir) ve seçkin ama nispeten soğuk bir aileydi. Küçük yaşlardan itibaren mitlerle kuşatıldı; Alpler'de yürüyüşlerden, çocukluk evi Hohenschwangau Şatosu'na kadar - Lohengrin'in, Kuğu Şövalyesi'nin adanmış olduğu Gotik tarzda bir hayal şatosu - ve Wagner'e olan hayranlığı. Şövalyeler, ejderhalar, su perileri ve periler genç Ludwig'in hayatında hüküm sürdü, ta ki 19 yaşında kendisi Bavyera'yı yönetmeye başlayana kadar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_6">
+			<Text>Ludwig'in cinselliği de burada belirtilmeye değerdir. Eşcinseldi ve muhafızlarıyla birkaç ilişkisi oldu - aslında, paylaşılan bir cinsellik Wagner ve Ludwig'in birbirine sempati duymasının bir başka nedeniydi (ancak Ludwig, Wagner'in antisemitizmini paylaşmıyordu).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_7">
+			<Text>Ludwig'in Alpler'e olan bağlılığı ve Avusturya kraliyetiyle dostluğu, sempatilerini bu yöne kaydırdı ki bu diplomatik açıdan akıllıca değildi; Prusya Avusturya'yı yendiğinde, Bavyera birincinin diplomatik yörüngesine çekildi ve nihayetinde Almanya ile birleşmeye zorlandı, ancak Bavyera'nın büyüklüğüne ve gücüne yakışır şekilde kendi ordusuna ve büyük ölçüde bağımsızlığa izin verildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_8">
+			<Text>Ludwig'in siyasi hırslarının bu zoraki terk edilişi, hayallerinin kanatlanmasına olanak tanıdı. 19. yüzyıl, çeşitli ülkelerin kendi ulusal kültürlerini keşfetmeye, süslemeye ve bazen de tamamen icat etmeye yatırım yaptığı bir milliyetçilik çağıydı. Ludwig için kale inşası (Wagner'in hamisi olmanın yanı sıra) bunun kilit bir parçasıydı; Neuschwanstein Şatosu. Bu şato, Ludwig'in erken yaşamının bir parçasını oluşturan Kuğu Şövalyesi efsanelerinden ilham almıştı; masumların onurunu savunmak için kuğu biçimli bir kayıkla gelen ancak adı asla sorulmaması gereken bir şövalyenin hikayesi. Aynı zamanda mutlak monarşinin ve kralların tanrısal hakkının milliyetçilikle birleşimine ait bir anıttır; kralların heybeti toprakların ruhundan gelir. Ancak bu onun tek projesi değildi; Versailles'ın bir kopyasını ve 'vahşi, romantik' Falkenstein'da başka bir Gotik şato planlamış, Linderhof'ta Fransız tarzı bir şato ve Münih'teki Bavyera şatosunda muhteşem bir daire inşa ettirmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_HISTORY_PARA_9">
+			<Text>Şatolar harikadır. Ama bir o kadar da masraflıdır. Ludwig derin bir borca battı, öyle ki yönetimi onun deli olduğuna karar verdi. Yakalandı, ancak ertesi gün, nakledilmeyi beklerken, o ve doktoru, kraliyet arazisindeki bir gölde ölü bulundu. Ölüm intihar olarak hükmedildi (ve doktorunki için cinayet), ancak dönemin adli tıp kanıtları bunu desteklemiyor, daha karanlık bir şeyi ima ediyordu. Son belki de uygundur; Ludwig sık sık 'Kendime ve başkalarına karşı ebedi bir muamma olarak kalmak istiyorum' derdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_CAPSULE_BODY">
+			<Text>Kuğu Kralı II. Ludwig ile sıkıcı bir dünyaya harika ve güzellik getirin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LUDWIG_CHAPTER_DETAILED_BODY">
+			<Text>Ludwig ile bir şehrin sahip olabileceği kadar çok bölge inşa edin; Almanya'nın uygarlık yeteneği sayesinde bu, diğer herkesten bir fazladır. Ardından, bölgenizin etrafına harikalar yerleştirin; onları tamamlamasanız bile size [ICON_Culture] Kültür getireceklerdir. Hansa eşsiz bölgesi, ekstra [ICON_Production] Üretim ile bu harikaların tamamlanmasına yardımcı olacaktır. Modern Çağ'a gelindiğinde, kıskanç rakipler harikalarınızı çalmaya çalışırsa korumanız vardır; çünkü o zaman U-Botlarınız, modern çağın kuğuları, işgallerini kesinlikle engelleyecektir. Kalelerin kilidini açmak, Ludwig'in Kültür Zaferi arayışındaki kilit noktadır; çünkü [ICON_Culture] Kültür sağlayan her bölgeye -tamamlanmamış harikalar dahil- [ICON_Tourism] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_TITLE">
+			<Text>Theodora</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_QUOTE">
+			<Text>Taht, görkemli bir mezardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_1">
+			<Text>Eski bir oyuncu (ve genelev çalışanı) olan Theodora (ykl. 500-548), kocası Bizans İmparatorluğu İmparatoru Justinianus üzerinde güçlü bir nüfuz sahibi olmak için yükseldi. Ortodoks Hristiyanlığı haline gelecek olanı sağlamlaştırmada ve İmparatorluğun başka yerlerinde çöküş yaşanan bir çağda Bizanslıların omurgasını inşa etmede etkili oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_2">
+			<Text>MS ilk binyılın başları Bizanslılar için zorluydu. Batı yüzlerce küçük krallığa bölünmüş, Doğu zengin ama potansiyel düşmanlarla dolu ve Kuzey hâlâ potansiyel olarak tehlikeli barbar kabilelerle dolu iken Konstantinopolis'in ileriye dönük bir vizyona ihtiyacı vardı. Ve Justinianus (h. 527-565) bu yolu sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_3">
+			<Text>Doğu Roma İmparatorluğu birçok açıdan bölünmüştü – dilsel olarak Yunanca ve Latince arasında, dinsel olarak Hristiyanlığın Kalkedon ve Monofizit kolları arasında, şehirlerdeki çeşitli sınıflar arasında ve bölgesel olarak. Justinianus, 'İmparatorluğun restorasyonu' anlamına gelen Renovatio Imperii'ye girişti; bu, Batı Roma İmparatorluğu'nu parçalayan gruplar da dahil olmak üzere her yöndeki düşmanlara karşı genişlemeyi içeren bir yeniden fetih ve sağlamlaştırma seferiydi. Önemlisi, bu, İtalya ve İspanya'nın yanı sıra Kuzey Afrika'daki Vandalların barbar krallıklarının yeniden fethi anlamına geliyordu. İçeride, Justinianus günümüze kadar zamana meydan okuyacak bir yasalar kanunu yazdı ve (Batı'nın yeniden fethinden elde edilen parayı kullanarak) başkentte Ayasofya gibi harikalar inşa etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_4">
+			<Text>Theodora bir Yunan'dı, Konstantinopolis'te bir ayı terbiyecisinin kızıydı. Tarihe, nispeten müstehcen gösteriler yapan bir oyuncu olarak bir genelevde çalışarak girer ve Mavi hizip olarak bilinen bir araba yarışı takımından bir grup dansçıyla yakınlaşır. Esasen amigoluk yapıyorlardı. Oradan Theodora, Justinianus'un gözüne öyle bir girdi ki, yüksek rütbeli kişilerin oyuncularla evlenmesini yasaklayan yasayı değiştirdi ve ardından onunla hemen evlendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_5">
+			<Text>İlk sınavı, Konstantinopolis'i neredeyse yok eden Mavi ve Yeşil araba yarışı taraftarları arasındaki bir çatışma olan Nika ayaklanmasında geldi. Justinianus ve danışmanları, kalabalıklar anarşiye sürüklenirken başkentten kaçmaya hazırlanırken, Theodora onun otorite duygusuna hitap etti; kaçmanın ölümden beter olacağını söyledi ya da daha şiirsel bir ifadeyle 'Kraliyet moru, en soylu kefendir.'</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_6">
+			<Text>Hamle başarılı oldu – Justinianus ayaklanmaları bastırdı ve gücünü yeniden tesis etti. Oradan itibaren Theodora her zaman onun yanındaydı ve etkisi, onun evlilik yasaları reformlarında, kendininkine benzer durumlarda doğan genç kadın ve kızlara yönelik hayır işlerinde ve sürekli saray entrikalarında görülebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_7">
+			<Text>Dinsel açıdan kocasıyla çatıştı ve aktif olarak bastırıldığı bir dönemde Monofizit Hristiyanlığı teşvik etti. İki dal arasındaki fark şimdi belirsiz görünebilir, ancak 500'lerde bir ölüm kalım meselesiydi. Özünde, Kalkedon Konsili'nde rahipler, İsa'nın ayrı insani ve ilahi doğalara sahip tek bir kişi olduğuna hükmetmişken, Monofizitler onun yalnızca tek bir doğası olduğunu, hem tamamen insani hem de tamamen ilahi olan bir doğaya sahip olduğunu savunuyordu. Bugün, Monofizit felsefesi Etiyopya Hristiyanlığının çekirdeğini oluştururken, Kalkedon felsefesi hem Katolikliği (ve Protestanlığı) hem de Doğu Ortodoksluğunu (Yunanistan ve Rusya) şekillendirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_HISTORY_PARA_8">
+			<Text>Muhtemelen 48 yaşında ölümünden önce Theodora, çok dinli, çok etnikli (Justinianus Latince konuşurken Theodora Yunanca konuşuyordu) bir devleti, kontrolden çıkabileceği bir anda sağlam tutmaya yardımcı oldu. Bu, bir anlamda, Bizans'ı kemiren güçlerin güçlenmesi ve giderek daha inatçı tepkilere yol açmasıyla daha geniş olmaktan çıkıp daha dar odaklı hale gelecek olan eski düzenin bir yansımasıdır; tıpkı II. Basileios'un saltanatında olduğu gibi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_CAPSULE_BODY">
+			<Text>İmparatoriçe Theodora, mütevazı başlangıçlarından yükselmek için ihtiyaç duyduğunuz aynı [ICON_Faith] İnanç ve Din bağlılığını getiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THEODORA_CHAPTER_DETAILED_BODY">
+			<Text>Theodora, Kutsal Alanlara ve Astrolojiye odaklanmak ister. Bizans'ın ek [ICON_GreatProphet] Büyük Peygamber puanlarıyla Kutsal Alanların oluşturulması, ona dini muharebelerde güçleri baskın olan bir Din verecektir. Metanoia yeteneği, ona Dini Zafer arayışı için daha fazla [ICON_Faith] İnanç sağlayacaktır. Hipodrom eşsiz bölgesi, halkınızın mutlu olmasını sağlayacaktır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

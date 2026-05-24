@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+	 <Row Tag="LOC_EXPANSION1_MOD_TITLE">
+      <Text>Genişletme Paketi: Yükseliş ve Çöküş</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION1_MOD_TEASER">
+      <Text>Büyük Çağlar, Bağlılık, Valiler, Acil Durumlar, yeni uygarlıklar ve liderler ile çok, çok daha fazlasını içeren bir genişletme paketi!</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+      <Text>Bu, Büyük Çağlar, Bağlılık, Valiler ve Acil Durumlar içeren Yükseliş ve Çöküş Genişletmesini kullanan bir oyundur. Halkınızı bir refah Altın Çağı'na yönlendirebilecek misiniz? Yoksa imparatorluğunuz bir Karanlık Çağ'ın zorluklarıyla mı yüzleşecek?</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

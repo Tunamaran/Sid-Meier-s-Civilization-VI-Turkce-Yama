@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_LIGHTHOUSE_DESCRIPTION">
+			<Text>Bu şehirdeki tüm Kıyı bölgelerinde +1 [ICON_FOOD] Besin sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_TEMPLE_DESCRIPTION">
+			<Text>Burada eğitilen dini birimler ek bir terfi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+			<Text>Liman Bölgesinin komşuluk bonusuna eşit miktarda [ICON_Production] Üretim bonusu sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_MOSQUE_DESCRIPTION">
+			<Text>Burada oluşturulan Misyoner ve Keşiş birimleri +1 Yayma kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_PAGODA_DESCRIPTION">
+			<Text>Burada eğitilen Rahip birimleri +1 Sapkınlığı Temizleme ve burada eğitilen Guru birimleri için +1 İyileştirme Hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>Tamamlandığında rastgele seçilmiş 2 ücretsiz Yönetim Bilimi kazandırır. Yeni eğitilen tüm Misyoner ve Keşiş birimleri +1 Yayma kazanır.[NEWLINE][NEWLINE]Orman veya Yağmur Ormanı üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_ANGKOR_WAT_DESCRIPTION">
+			<Text>Bu harika tamamlandığında +3 [ICON_ENVOY] Elçi ve tüm mevcut şehirlerde +1 [ICON_Citizen] Nüfus kazanılır. Tüm şehirlerde +1 [ICON_Housing] Konut sağlar.[NEWLINE][NEWLINE]Bir Su Kemeri Bölgesine bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 Joker Politika Yuvası[NEWLINE][NEWLINE]Bir Tepe üzerine inşa edilmelidir.</Text>
+		</Row>
+		<!-- China-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KAIFENG">
+			<Text>Kaifeng</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LINAN">
+			<Text>Lin'an</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_QUANZHOU">
+			<Text>Quanzhou</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CHONGQING">
+			<Text>Chongqing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CHANGAN">
+			<Text>Chang'an</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PANYU">
+			<Text>Panyu</Text>
+		</Row>
+		<!-- Chola-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ANURADHAPURA">
+			<Text>Anuradhapura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VENGI">
+			<Text>Vengi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BANAVASI">
+			<Text>Banavasi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KADARAM">
+			<Text>Kadaram</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PEGU">
+			<Text>Pegu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MA_NAKKAVARAM">
+			<Text>Ma-Nakkavaram</Text>
+		</Row>
+		<!-- Ghaznavid-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GHAZNA">
+			<Text>Gazne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LAHORE">
+			<Text>Lahor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BALKH">
+			<Text>Belh</Text>
+		</Row>
+		<!-- Pala-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BIKRAMPUR">
+			<Text>Bikrampur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PATALIPUTRA">
+			<Text>Pataliputra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KANNAUJ">
+			<Text>Kannauj</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DURJAYA">
+			<Text>Durjaya</Text>
+		</Row>
+		<!-- Tufan-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LHASA">
+			<Text>Lhasa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_QAMDO">
+			<Text>Qamdo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BURANG">
+			<Text>Burang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_XINING">
+			<Text>Xining</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NAGQU">
+			<Text>Nagqu</Text>
+		</Row>
+		<!-- City States-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DALI">
+			<Text>Dali</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DALI_DESCRIPTION">
+			<Text>Dali Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DELHI">
+			<Text>Delhi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DELHI_DESCRIPTION">
+			<Text>Delhi Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GAOCHANG">
+			<Text>Gaochang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GAOCHANG_DESCRIPTION">
+			<Text>Gaochang Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GOA">
+			<Text>Goa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GOA_DESCRIPTION">
+			<Text>Goa Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HEIAN">
+			<Text>Heian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_HEIAN_DESCRIPTION">
+			<Text>Heian Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KAESONG">
+			<Text>Kaesong</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAESONG_DESCRIPTION">
+			<Text>Kaesong Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KASHGAR">
+			<Text>Kaşgar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KASHGAR_DESCRIPTION">
+			<Text>Kaşgar Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KHOTAN">
+			<Text>Hotan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KHOTAN_DESCRIPTION">
+			<Text>Hotan Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KUCHA">
+			<Text>Kuça</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KUCHA_DESCRIPTION">
+			<Text>Kuça Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LAMPHUN">
+			<Text>Lamphun</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_LAMPHUN_DESCRIPTION">
+			<Text>Lamphun Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LAMURI">
+			<Text>Lamuri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_LAMURI_DESCRIPTION">
+			<Text>Lamuri Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MALABANG">
+			<Text>Malabang</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_MALABANG_DESCRIPTION">
+			<Text>Malabang Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PAGAN">
+			<Text>Pagan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAGAN_DESCRIPTION">
+			<Text>Pagan Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALEMBANG_DESCRIPTION">
+			<Text>Palembang Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SAMARKAND">
+			<Text>Semerkant</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SAMARKAND_DESCRIPTION">
+			<Text>Semerkant Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SOMNATH">
+			<Text>Somnath</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOMNATH_DESCRIPTION">
+			<Text>Somnath Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_THANG_LONG">
+			<Text>Thăng Long</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THANG_LONG_DESCRIPTION">
+			<Text>Thăng Long Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TEMASEK">
+			<Text>Temasek</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TEMASEK_DESCRIPTION">
+			<Text>Temasek Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TONDO">
+			<Text>Tondo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TONDO_DESCRIPTION">
+			<Text>Tondo Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TURPAN">
+			<Text>Turpan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TURPAN_DESCRIPTION">
+			<Text>Turpan Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_UJJAIN">
+			<Text>Ujjain</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_UJJAIN_DESCRIPTION">
+			<Text>Ujjain Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VIJAYA">
+			<Text>Vijaya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VIJAYA_DESCRIPTION">
+			<Text>Vijaya Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_XINGQING">
+			<Text>Xingqing</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_XINGQING_DESCRIPTION">
+			<Text>Xingqing Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ZHONGJING">
+			<Text>Zhongjing</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ZHONGJING_DESCRIPTION">
+			<Text>Zhongjing Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCENARIO_MARITIME_NAME">
+			<Text>Denizcilik</Text>
+		</Row>
+		<!-- City States Traits-->
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te birim üretirken +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Ticaret Merkezi bölgesinde birim üretirken +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Ticaret Merkezi bölgesinde birim üretirken ek +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te +2 [ICON_CULTURE] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Şehir Merkezi bölgesinde +2 [ICON_CULTURE] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Şehir Merkezi bölgesinde ek +2 [ICON_CULTURE] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_NAME">
+			<Text>Deniz Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te +2 [ICON_FOOD] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Liman bölgesinde +2 [ICON_FOOD] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Liman bölgesinde ek +2 [ICON_FOOD] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te harikalar, binalar ve bölgeler üretirken +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Su Kemeri bölgesinde harikalar, binalar ve bölgeler üretirken +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Su Kemeri bölgesinde harikalar, binalar ve bölgeler üretirken ek +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_NAME">
+			<Text>Dali Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_NAME">
+			<Text>Delhi Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_NAME">
+			<Text>Gaochang Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_NAME">
+			<Text>Goa Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_NAME">
+			<Text>Heian Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_NAME">
+			<Text>Kaesong Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_NAME">
+			<Text>Kashgar Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_NAME">
+			<Text>Khotan Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_NAME">
+			<Text>Kuça Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_NAME">
+			<Text>Lamphun Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_NAME">
+			<Text>Lamuri Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_NAME">
+			<Text>Malabang Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_NAME">
+			<Text>Pagan Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_NAME">
+			<Text>Palembang Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_NAME">
+			<Text>Semerkant Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_NAME">
+			<Text>Somnath Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_NAME">
+			<Text>Thăng Long Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_NAME">
+			<Text>Temasek Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_NAME">
+			<Text>Tondo Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_NAME">
+			<Text>Turfan Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_NAME">
+			<Text>Ujjain Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_NAME">
+			<Text>Vijaya Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_NAME">
+			<Text>Xingqing Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_NAME">
+			<Text>Zhongjing Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_BANDAR_BRUNEI_TRAIT_DESCRIPTION">
+			<Text>Kıyıdaki veya kıyıya bitişik bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_DESCRIPTION">
+			<Text>Ticaret Merkezi bölgesi bulunan şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_DESCRIPTION">
+			<Text>Ticaret Merkezi bölgesi bulunan şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_DESCRIPTION">
+			<Text>Kıyıdaki veya kıyıya bitişik bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_DESCRIPTION">
+			<Text>Kıyıdaki veya kıyıya bitişik bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_DESCRIPTION">
+			<Text>Yabancı şehirlere giden [ICON_TradeRoute] Ticaret Yollarınız, varış noktasındaki her Lüks Kaynak için +1 [ICON_FAITH] İnanç kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_DESCRIPTION">
+			<Text>Ticaret Merkezi bölgesi bulunan şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_DESCRIPTION">
+			<Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, o şehirden geçen veya o şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_CULTURE] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_DESCRIPTION">
+			<Text>Bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi işlev görür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_DESCRIPTION">
+			<Text>Ticaret Merkezi bölgesi bulunan şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_DESCRIPTION">
+			<Text>Ticaret Merkezi bölgesi bulunan şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_DESCRIPTION">
+			<Text>Kıyıdaki veya kıyıya bitişik bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_DESCRIPTION">
+			<Text>Bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi işlev görür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_DESCRIPTION">
+			<Text>Kıyı bölgelerinin üzerinde veya bitişiğinde bulunan bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir Şehir Devleti'ne giden [ICON_TradeRoute] Ticaret Yollarınız, çıkış şehrindeki her Uzmanlık Bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_DESCRIPTION">
+			<Text>Bonus kaynaklarınız, her tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks kaynaklar gibi davranır.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_DESCRIPTION">
+			<Text>Herhangi bir Şehir Devleti'ne giden [ICON_TradeRoute] Ticaret Yollarınız, çıkış şehrindeki her Uzmanlık Bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_DESCRIPTION">
+			<Text>Bonus kaynaklarınız, her tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks kaynaklar gibi davranır.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_DESCRIPTION">
+			<Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, şehirden geçen veya şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_CULTURE] Kültür sağlar.</Text>
+		</Row>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_SCENARIO_PAPERMAKING_NAME">
+			<Text>Kağıt Yapımı</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PRINTING">
+			<Text>Kütüklerden kâğıda. Kâğıttan sayfalara. Sayfalardan kitaplara. Kitaplardan zihinlere. Zihinlerden ruhlara.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_COMPASS_NAME">
+			<Text>Pusula</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Gemiye binmiş birlikler için +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Birden çok kez tamamlanabilir, [ICON_Envoy] Elçilerinizi artırır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_GUILDS">
+			<Text>Şehirlerimiz serpilirken, hemfikir kişiler refah içinde bir araya gelir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>3 Tapınak inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_ENGINEERING">
+			<Text>Standartlaştırılmış bir arşının dünyevi alemde de değeri vardır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
+			<Text>3 Misyoner sahibi ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_THEOLOGY">
+			<Text>Misyonerler gönderdikçe, ortodoks inanca olan ihtiyacı fark ederiz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
+			<Text>2 Su Kemeri inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_MACHINERY">
+			<Text>"Bir su çarkı düşünün," der Mühendislerimiz, "ama neredeyse her şeyi çalıştırıyor!"</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
+			<Text>Bir şehri 14 nüfusa büyüt.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_FEUDALISM">
+			<Text>Şehirlerimiz çeşitli kitleleri barındırır. Krallardan halka dek yükümlülükleri kanunlaştıralım.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PAPERMAKING">
+			<Text>3 adet [ICON_TradeRoute] Ticaret Yolu'nu etkin tut.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PAPERMAKING">
+			<Text>Kervan kayıtlarını çömlek parçalarına kazımaktan daha iyi bir yol olmalı değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CIVIL_SERVICE">
+			<Text>Aynı anda 3 Şehir Devleti'nin Süzeren'i ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_CIVIL_SERVICE">
+			<Text>Ya diplomatik heyetleri bir sekreterler lejyonuna devredebilseydin?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+			<Text>3 Pazar inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_BANKING">
+			<Text>Cennete giden yol altından daha kıymetli olabilir, ama altın da neredeyse o kadar ödüllendiricidir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMPASS">
+			<Text>3 Deniz Feneri inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_COMPASS">
+			<Text>Bir denizci, gökteki görünmez bir deniz fenerinin rehberliğinde yelken açmayı hayal eder.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
+			<Text>Dinini takip eden 15 şehrin olsun.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_DIVINE_RIGHT">
+			<Text>İnancının doğruluğunun, bu kadar çok gözün üzerinde olmasından daha iyi bir kanıtı olabilir mi?</Text>
+		</Row>
+		<!-- Districts-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu Nehir'den.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_HARBOR_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu Liman Bölgesi'nden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_CITY_CENTER_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu Şehir Merkezi Bölgesi'nden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_DISTRICT_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu {1_Num : plural 1?bölgeden; other?bölgelerden;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_SEARESOURCE_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu deniz {1_Num : plural 1?kaynağından; other?kaynaklarından;}.</Text>
+		</Row>
+		<!-- Governments-->
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_MONARCHY_DESCRIPTION">
+			<Text>Başkent +3 [ICON_FAITH] İnanç, +1 [ICON_CULTURE] Kültür, +1 [ICON_PRODUCTION] Üretim ve +1 [ICON_FOOD] Besin Getirisi alır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_SCENARIO_THALASSOCRACY_NAME">
+			<Text>Talassokrasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THALASSOCRACY_DESCRIPTION">
+			<Text>Her Balıkçı Teknesi için +1 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THEOCRACY_DESCRIPTION">
+			<Text>Tüm Dinî Birlikler, Teolojik Muharebede ölmeleri durumunda bir [ICON_GreatWork_Relic] Kutsal Emanet kazandıran Şehit yeteneğine sahip olur.</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_CAMP_DESCRIPTION">
+			<Text>İşçi'nin Kamp inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Besin. Yalnızca geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Kaynakların üzerine inşa edilirse şehir o kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+			<Text>İşçinin Maden Ocağı inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. -1 Çekicilik. Tepelerde veya geçerli kaynaklara inşa edilebilir.[NEWLINE][NEWLINE]Lüks Kaynaklar üzerine inşa edilirse şehir o kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+			<Text>İşçinin Mera inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. Yalnızca geçerli kaynaklara inşa edilebilir.[NEWLINE][NEWLINE]Lüks Kaynaklar üzerine inşa edilirse şehir o kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+			<Text>İşçinin Plantasyon inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Besin. Yalnızca geçerli kaynaklara inşa edilebilir.[NEWLINE][NEWLINE]Lüks Kaynaklar üzerine inşa edilirse şehir o kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_KAMPUNG_DESCRIPTION">
+			<Text>İşçinin Kampung inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Üretim ve +1 [ICON_Housing] Konut. Her bir komşu Balıkçı Teknesi için +1 [ICON_FOOD] Besin. Bir deniz kaynağına komşu olan Kıyı veya Göl bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="LOC_POLICY_SCENARIO_URBAN_PLANNING_DESCRIPTION">
+			<Text>Tüm şehirlerde +1 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSARIES_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yollarından +1 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_NAME">
+			<Text>Soylu Yol</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_DESCRIPTION">
+			<Text>Yurtiçi [ICON_TradeRoute] Ticaret Yollarından +1 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CORVEE_DESCRIPTION">
+			<Text>Harikalara +15% [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_DEVOTION_NAME">
+			<Text>Adanmışlık</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_DEVOTION_DESCRIPTION">
+			<Text>Dinî Birliklere +25% [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_RAJ_DESCRIPTION">
+			<Text>Süzereni olduğunuz her şehir devletinden +6 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
+			<Text>Her şehir inşa ettiği her Uzmanlık Bölgesi için +1 [ICON_FAITH] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MERCHANT_CONFEDERATION_DESCRIPTION">
+			<Text>Şehir devletlerindeki her bir [ICON_Envoy] Elçinizden +1 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CHARITY_NAME">
+			<Text>Hayırseverlik</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_QUECHANG_NAME">
+			<Text>Quechang</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_QUECHANG_DESCRIPTION">
+			<Text>Ticaret Merkezi bölge binalarından +100% [ICON_PRODUCTION] Üretim getirisi.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>Tüm [ICON_TradeRoute] Ticaret Yollarından +3 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_JUNK_NAME">
+			<Text>Junk</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_JUNK_DESCRIPTION">
+			<Text>Liman Bölgesi binalarından elde edilen [ICON_FOOD] Besin ve [ICON_PRODUCTION] Üretim getirilerini ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_FESTIVALS_NAME">
+			<Text>Festivaller</Text>
+		</Row>
+		<!-- Projects-->
+		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Her tur [ICON_CULTURE] Kültür sağlayan bölge tabanlı proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Her tur [ICON_CULTURE] Kültür sağlayan bölge tabanlı proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Her tur büyük miktarda [ICON_FAITH] İnanç sağlayan bölge tabanlı proje.</Text>
+		</Row>
+		<!-- Religion-->
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM1_NAME">
+			<Text>Şaivizm</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM2_NAME">
+			<Text>Hindu Dharma</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM3_NAME">
+			<Text>Theravada Budizmi</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM4_NAME">
+			<Text>Mahayana Budizmi</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM5_NAME">
+			<Text>Vajrayana Budizmi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+			<Text>Meralardan +2 [ICON_FOOD] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_STONE_CIRCLES_DESCRIPTION">
+			<Text>Taş Ocaklarından +2 [ICON_Faith] İnanç ve +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_DANA_NAME">
+			<Text>Dana</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_DANA_DESCRIPTION">
+			<Text>Tahıl ambarları her biri +3 [ICON_FAITH] İnanç sağlar. Her şehre +1 [ICON_Amenities] Olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_NUSANTARA_DESCRIPTION">
+			<Text>Kıyı ve Göl bölgeleri Kutsal Alan bölgelerine küçük bir komşuluk bonusu sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_LINGA_NAME">
+			<Text>Linga</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_LINGA_DESCRIPTION">
+			<Text>Ticaret Merkezi ve Liman bölgesi binaları [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_NAME">
+			<Text>Vajrayana Stupası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_DESCRIPTION">
+			<Text>Stupaların inşa edilmesine izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Amenities] Olanak). Matbaa ile açılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_NAME">
+			<Text>Mahayana Stupası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_DESCRIPTION">
+			<Text>Stupaların inşa edilmesine izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Amenities] Olanak). Matbaa ile açılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_STEWARDSHIP_DESCRIPTION">
+			<Text>Bu Dini takip eden bir şehirdeki her Ticaret Merkezi veya Liman Bölgesi, +1 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_KAMPUNG_DESCRIPTION">
+			<Text>İşçileriniz artık Kampung iyileştirmeleri inşa edebilir. Loncalar ile kilidi açılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
+			<Text>Cami inşasına izin verir (+3 [ICON_Faith] İnanç). Misyoner ve Keşiş birimlerine +1 Yayma. Matbaa ile kilidi açılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_PAGODA_DESCRIPTION">
+			<Text>Pagoda inşasına izin verir (+3 [ICON_Faith] İnanç). Rahip birimlerine +1 Sapkınlığı Temizleme ve Guru +1 İyileştirme Hakkı. Matbaa ile kilidi açılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_WAT_DESCRIPTION">
+			<Text>Wat inşasına izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Housing] Konut). Matbaa ile kilidi açılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_HOLY_ORDER_DESCRIPTION">
+			<Text>Misyonerler ve Keşişler %30 daha ucuza satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_YOGA_NAME">
+			<Text>Yoga</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_YOGA_DESCRIPTION">
+			<Text>Sivil birimler [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<!-- Route-->
+		<Row Tag="LOC_ROUTE_SCENARIO_ANCIENT_ROAD_DESCRIPTION">
+			<Text>Senaryonun başında yer alır. Bir yol bölgesinden diğerine hareket eden herhangi bir birimin [ICON_Movement] Hareket hızını artırır.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTE_SCENARIO_MEDIEVAL_ROAD_DESCRIPTION">
+			<Text>Senaryonun başında yer alır. Bir yol bölgesinden diğerine hareket eden herhangi bir birimin [ICON_Movement] Hareket hızını artırır.</Text>
+		</Row>
+		<!-- Scoring-->
+		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOLLOWERS_NAME">
+			<Text>Dini Takip Edenler</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOREIGN_CITIES_NAME">
+			<Text>Dini Takip Eden Yabancı Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FAITH_NAME">
+			<Text>Tur Başına İnanç</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_1">
+			<Text>Özel Senaryo Kuralları:</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_2">
+			<Text>Teknoloji Ağacı, Altın, Diplomasi, Turizm veya Bilim yoktur. Kültür sınırları sabittir. Özellikler kaldırılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_3">
+			<Text>Tüm Dinî birlikler 1 terfi ile başlar ve eğitilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_4">
+			<Text>Her Şehir Devleti türü için yalnızca bir Şehir Devleti Süzeren Bonusu ek Getiri veya [ICON_Amenities] Olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_5">
+			<Text>Tüccarlar yol oluşturmaz.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_6">
+			<Text>Puanlar şunlardan alınır:</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_7">
+			<Text>Dininin Takipçileri: {1_Followers} {1_Followers: plural 1?Puan; other?Puan;} bu Dinin her takipçisi için.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_8">
+			<Text>Yabancı Şehirler: {2_Cities} bu Dini takip eden tüm yabancı şehirler için {2_Cities : plural 1?Puan; other?Puanlar;}.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_9">
+			<Text>İnanç: {1_Faith} {2_Faith : plural 1?Puan; other?Puanlar;} her [ICON_TURN] Tur başına [ICON_FAITH] İnanç için.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_10">
+			<Text>Bir Şehir Devletine bir [ICON_ENVOY] Elçi gönderdiğinizde, o Şehir Devletine 300 Dinî Baskı ekler.</Text>
+		</Row>
+		<!-- Slots-->
+		<Row Tag="LOC_SLOT_SCENARIO_RELIGIOUS_NAME">
+			<Text>Dinî</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_UNIT_SCENARIO_BUILDER_DESCRIPTION">
+			<Text>Arazi iyileştirmeleri inşa edebilir veya bazı kaynakları Toplayabilir. İşçiler 3 kez kullanılabilir. Bu sayı politikalar aracılığıyla artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_TRADER_DESCRIPTION">
+			<Text>Tek bir [ICON_TradeRoute] Ticaret Yolu kurabilir ve sürdürebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_PRIEST_NAME">
+			<Text>Rahip</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_MONK_NAME">
+			<Text>Keşiş</Text>
+		</Row>
+		<Row Tag="LOC_UI_RELIGION_PRIEST_TT">
+			<Text>Rahipler, kendi topraklarındaki diğer Dinlerin varlığını ortadan kaldırabilir ve diğer Dinlerin birimleriyle teolojik muharebeye girişebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UI_RELIGION_MONK_TT">
+			<Text>Keşişler, [ICON_Citizen] Vatandaşları kendi Dinlerine döndürebilir ve diğer Dinlerin birimleriyle teolojik muharebeye girişebilir.</Text>
+		</Row>
+		<!-- Unit Promotion Classes-->
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_MISSIONARY_NAME">
+			<Text>Dinî Misyoner</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_PRIEST_NAME">
+			<Text>Dinî Rahip</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_MONK_NAME">
+			<Text>Dinî Keşiş</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_GURU_NAME">
+			<Text>Dinî Guru</Text>
+		</Row>
+		<!-- Unit Promotions-->
+		<Row Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_NAME">
+			<Text>Su Üstünde Yürüme</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_DESCRIPTION">
+			<Text>Deniz veya nehir üzerinde hareket ederken [ICON_Movement] Hareket cezası yok.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TRAVELER_NAME">
+			<Text>Gezgin</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TRAVELER_DESCRIPTION">
+			<Text>Orman, Yağmur Ormanı, Tepe veya Bataklıkta daha hızlı [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_NAME">
+			<Text>Yayıcı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_NAME">
+			<Text>Uygulayıcı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_DESCRIPTION">
+			<Text>Yabancı topraklardayken Teolojik Muharebede +10 [ICON_Religion] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_GARRISON_DESCRIPTION">
+			<Text>Bir bölgeyi işgal ederken Teolojik Muharebede +10 [ICON_Religion] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_ORATOR_DESCRIPTION">
+			<Text>Sapkınlığı Temizleme yeteneğini 2 kez daha kullanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_NAME">
+			<Text>Simyacı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_DESCRIPTION">
+			<Text>Orman, Yağmur Ormanı, Tepe veya Bataklıkta savunurken Teolojik Muharebede +7 [ICON_Religion] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_NAME">
+			<Text>Tercüman</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_DESCRIPTION">
+			<Text>Bu birim bir şehri ilk kez dininize dönüştürdüğünde 75 [ICON_FAITH] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_NAME">
+			<Text>Sangha</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_DESCRIPTION">
+			<Text>2x Kanatlama Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_NAME">
+			<Text>Rehber</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_DESCRIPTION">
+			<Text>Tur başında 2 kare içindeki Dinî birliklere +1 [ICON_Movement] Hareket sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SAGE_NAME">
+			<Text>Bilge</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_SAGE_DESCRIPTION">
+			<Text>2 kare içindeki Dinî birliklere Teolojik Muharebede +10 [ICON_Religion] Dinî Güç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TEACHER_NAME">
+			<Text>Öğretmen</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_TEACHER_DESCRIPTION">
+			<Text>Bu birim Sıhhiyeci olarak çalışır ve 1 kare içindeki birliklere ek iyileştirme sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_MASTER_NAME">
+			<Text>Üstat</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCENARIO_MASTER_DESCRIPTION">
+			<Text>+1 İyileştirme Hakkı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS_MODIFIER">
+			<Text>Guru biriminin Bilge Terfisinden kaynaklanan Teolojik Muharebede +10 [ICON_Religion] Dinî Güç</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS">
+			<Text>2 kare içindeki Dinî birliklere Teolojik Muharebede +10 [ICON_Religion] Dinî Güç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_GUIDE_MOVEMENT_AOE_RELIGIOUS">
+			<Text>+1 [ICON_Movement] Hareket, tur başlangıcında 2 kare mesafedeki Dini Birliklere eklenir.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_SCENARIO_TYPE_MARITIME">
+			<Text>Denizci</Text>
+		</Row>
+		<!--Citizen Names-->
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_1">
+			<Text>Norbu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_2">
+			<Text>Phuntsok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_3">
+			<Text>Rabten</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_4">
+			<Text>Tashi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_5">
+			<Text>Wangchuk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_1">
+			<Text>Dawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_2">
+			<Text>Jungney</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_3">
+			<Text>Pema</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_4">
+			<Text>Rinchen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_5">
+			<Text>Tsering</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_NO_MILITARY_SLOTS">
+			<Text>Bu hükümet, herhangi bir Dini Politika yuvası sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FILTER_MILITARY">
+			<Text>Dini</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_POLICY_TYPE_MILITARY">
+			<Text>Dini Politikalar</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Arahant</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Anāgāmi</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Sakadagami</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Sotāpanna</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Puthujjana</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Aydınlanma Elde Edildi</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Fiziksel Dünyaya Dönmeyen</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Fiziksel Dünyaya Bir Kez Dönücü</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Aydınlanma Yoluna Giren</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Sıradan Bir Kişi</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- civs -->
+		<Row Tag="LOC_CIVINFO_PORTUGAL_LOCATION">
+			<Text>Güneybatı Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PORTUGAL_SIZE">
+			<Text>92.090 km² (57.222 mi²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PORTUGAL_POPULATION">
+			<Text>10.302.674 (2020)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PORTUGAL_CAPITAL">
+			<Text>Lizbon (Lisboa)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Portekiz, İber Yarımadası'nın Atlas Okyanusu kıyısındaki küçük bir Orta Çağ krallığından devasa bir denizaşırı imparatorluğa dönüştü. 1500'lerdeki zirve döneminde Portekiz, Güney Amerika, Afrika, Asya ve Okyanusya'nın bir bölümünü kontrol ediyordu. Sömürgeciliğe adım atan ilk Avrupa ülkelerinden biri olan Portekiz, ilk büyük küreselleşme dalgasına öncülük etti: insanların, fikirlerin ve baharatların daha önce hiç görülmemiş bir ölçekte dünya çapında hareketi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_2">
+			<Text>Bir gün Portekiz olacak bölge, tıpkı Avrupa'nın çoğu gibi, bölgesel anlaşmazlıklar ve fetihlerle sarsıldı. Başlangıçta Roma Lusitania'sının bir parçası olan Portekiz, Roma İmparatorluğu'nun ardından Emevi Halifeliği'nin Endülüs bölgesinin bir parçası hâline geldi. Ancak 'fetih' sözcüğünün fazla karanlık bir tablo çizmesine izin vermeyelim: Birinci binyılın dönümünde Endülüs'teki yaşam, Batı Avrupa'nın birçok bölgesine kıyasla oldukça aydınlıktı; çünkü Avrupa Karanlık Çağ'ı yaşarken, yarımada genelinde Kurtuba gibi merkezler aracılığıyla sanat ve bilgi gelişiyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_3">
+			<Text>Emevi hâkimiyeti, Dom Afonso Henriques'in başarılı bir isyana öncülük ettiği 1100'lü yıllara kadar sürdü. Bu nedenle I. Afonso, ilk bağımsız Portekiz devletini kurduğu için 'Kurucu' unvanını aldı. Afonso, bölgedeki diğer Hristiyan krallarla birlikte, İberya'daki Mağribi (Müslüman) hâkimiyetini devirme seferi olan Reconquista'yı sürdürdü. Afonso'nun 1147'de Lizbon'u ele geçirmesi, fırtınalı Atlas Okyanusu'ndan kaçarak Portekiz'e sığınan bir grup İngiliz Haçlı'nın (istemeden de olsa) yardımıyla gerçekleşti. Haçlı Seferleri'nin kendi versiyonunu evlerine daha yakın bir yerde yapabileceklerini fark eden bu kişiler, bölgede kalarak Emevilerin bu topraklardan atılmasına yardımcı oldu (ödemeleri, ele geçirilen şehirleri yağmalamalarına ve esirler için fidye almalarına izin verilerek yapıldı). 1249'da III. Afonso güneydeki Faro şehrini ele geçirerek Portekiz'in bölgedeki hâkimiyetini pekiştirdi. 13. yüzyıla gelindiğinde Portekiz'in sınırları bugünküne benzer bir hâl almıştı ve İngilizlerle yüzyıllar sürecek bir ittifak kurulmuştu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_4">
+			<Text>Portekiz'in yeni kazandığı bağımsızlıkla birlikte bir denizcilik keşif çağı başladı. Portekizliler artık güçlü liman kentlerini ve Emevi astronomi ile matematiğinin nimetlerini ellerinde bulunduruyor, böylece kıyı şeritlerini kullanarak bilinen (ve nihayetinde bilinmeyen) okyanuslarda seyahat edebiliyorlardı. Bu iki özellik, Portekiz'in büyük bir kumara girişmesine olanak sağladı: İpek Yolu'nu oluşturan ve çoğu Emevilerin kaybından hâlâ rahatsız olan aracı tüccarlara bel bağlamak yerine, tehlikeli suları göze alarak Asya'yla ticaret yapmak. Bu doğrultuda I. João ve üç oğlu Prens Duarte, Prens Pedro ile 'Denizci Kral' Prens Henry, Keşif Çağı'nı başlattılar. Tabii bu keşif, Portekizliler içindi; Malakka, Goa ve Angola sakinlerinin bunun için başka bir sözcüğü olabilirdi. Bu fetih, bir anlamda Reconquista'nın bir sonraki adımıydı: Portekiz'in ilk gerçek denizaşırı kolonisi, Kuzey Afrika'da Portekiz kıyılarına çok yakın olan Ceuta'nın fethiydi. Portekizliler, denizleri 'keşfetmeye' ve Afrika kıyılarından başlayarak Hindistan ve Doğu Asya'ya kadar uzanan koloniler kurmaya devam ettiler. 1500'lerin başlarında, Angola, Mozambik, Somali, Goa (Hindistan), Malakka (günümüz Malezya'sında), Timor ve Japonya'da bir ticaret merkezi de dâhil olmak üzere neredeyse tüm dünyaya yayılmış bir dizi Portekiz kolonisi vardı. Bu koloniler ve ticaret yolları, Portekizli tüccarların altın, baharat ve aynı zamanda köle ticaretini kontrol etmesiyle Portekiz'i kısa sürede çok güçlü ve zengin bir ülke hâline getirdi. Bu durum, artan zenginliğin yanı sıra yeni fetihlere, yeni ticaret mallarına ve Katolikliğe yeni din değiştirenlere duyulan susuzluğu da körükledi. Bu vurgu, Portekiz kolonilerinin birçok yerde sonunu hazırlayacaktı; Malay sultanları ve Japon daimyo'ları ticarete itiraz etmezken, din değiştirme teşviki siyasi düzenlerini parçalamakla tehdit ediyordu (ki daha kurnaz olan Hollandalılar bunu fark etmişti).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_5">
+			<Text>Portekiz, bu keşifler konusunda komşusu İspanya ile dostane bir rekabet içindeydi. Kristof Kolomb 1492'de Amerika'yı 'keşfedip' İspanya'nın bu topraklar üzerindeki iddiasını pekiştirdikten sonra Portekiz, komşusuna üstünlük sağlamanın bir yolunu bulması gerektiğini biliyordu. Portekizli kâşifler Brezilya kıyılarına rastlamıştı ve İspanya ile yaşanan sert bir anlaşmazlığın ardından Papa, Tordesillas Antlaşması ile bu sorunu çözmek için devreye girmek zorunda kaldı. Antlaşma, Yeni Dünya'nın 'keşiflerini' ikiye ayırıyordu: çizginin doğusundakiler Portekiz'e, batısındakiler İspanya'ya ait olacaktı. Her iki taraf da bunu yeterince makul buldu (Papa'yla tartışacak değillerdi) ve fetih işlerine devam ettiler. Ancak Avrupalı kâşifler haritayı doldurmaya başladıkça, İspanya'nın altın zengini Meksika, Peru ve Kuzey Amerika'nın çoğunu miras aldığı, Portekiz'in ise yalnızca Brezilya kıyılarını aldığı kısa sürede ortaya çıktı. (Öyle görünüyor ki, kimse önce yerli halklara danışmamıştı.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_6">
+			<Text>Ancak komşuyla barış uzun sürmez. Portekiz'deki bir dizi talihsiz olayın tahtı varissiz bırakmasının ardından Portekiz, kendisini bir İspanyol kralıyla tahtta otururken buldu. İspanya Kralı II. Felipe, annesinin soyundan tahtta hak iddia ederek Portekiz'e yürüdü. Kesin zaferlerinin ardından Portekiz Kralı I. Filipe olarak taç giydi (daha önce I. Filipe olmadığı için orada II. Felipe olamazdı). Portekiz, ancak 1640'taki Portekiz Restorasyon Savaşı'ndan sonra yeniden bağımsız olacak ve bu bağımsızlığın İspanya tarafından tanınması için 28 yıl daha beklemek zorunda kalacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_7">
+			<Text>Brezilya'da altının bulunmasıyla talih yeniden gülümsedi. Yeni zenginlik akışı Portekiz ekonomisini canlandırdı ve mali bir yastık sağladı; bu, 1755'te Lizbon'u 9 büyüklüğünde bir depremin vurmasıyla çok ihtiyaç duyulan bir şeydi. Sebastião José de Carvalho e Melo, kısaca Pombal Markisi, yıkımdan sağ kurtuldu ve hiç duraksamadan şehri yeniden inşa etmeye koyuldu. Hızlı hareketi sayesinde şehir bir yıl içinde yeniden inşa edildi ve dâhiyane bir hamleyle binalar depreme dayanıklı olacak şekilde tasarlandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_8">
+			<Text>Napolyon, 1800'lerde Avrupa'yı fethetme planının bir parçası olarak Portekiz'i işgal etti ve Lizbon'u ele geçirdiğinde Portekiz'in başkenti Rio de Janeiro'daki Brezilya'ya taşındı. Portekiz, İngiliz müttefiklerinin yardımıyla Napolyon'u geri püskürttü; böylece başlangıçtan beri var olan bağ daha da güçlendi. Ancak bu hamle, Portekiz'in Brezilya üzerindeki iddiasının sonu oldu: Savaşın sonunda Brezilya bağımsızlığını ilan edince Lizbon yeniden başkent oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PORTUGAL_CHAPTER_HISTORY_PARA_9">
+			<Text>Günümüzde Portekiz, güçlü bir Katolik ulus olmayı sürdürmekte ve Avrupa Birliği'nin temel üyelerinden biridir. Yemekleri ve içecekleri (yeşil şarap dâhil!), melankolik fado müziği ve kozmopolit bakış açısıyla ünlüdür. Portekiz ve Britanya arasındaki yakın ilişkiler devam etmektedir; ancak yoğun turizm sezonunda Portekizliler bazen iki kez düşünebilir...</Text>
+		</Row>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_TITLE">
+			<Text>III. João</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_QUOTE">
+			<Text>Ben Tanrı'nın inayetiyle Portekiz ve Algarve Kralı, denizaşırı toprakların, Afrika'da Gine'nin efendisi, Etiyopya, Arabistan, İran ve Hindistan'la fetih, keşif ve ticaretin hâkimi Dom João'yum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_1">
+			<Text>'Kolonicil' ya da daha yumuşak bir ifadeyle 'Dindar' olarak anılan III. João, 1521'den 1556'ya kadar Portekiz ve Algarve Kralıydı. Kral I. Manuel ile Aragonlu Maria'nın en büyük oğluydu. Doğduğu andan itibaren ailesi onu mükemmelliğe yönlendirmeye çalıştı: kendisine astronomi, astroloji, ilahiyat, hukuk ve beşeri bilimler öğreten âlimler verildi ve on iki yaşında yönetmesi için kendi evi tahsis edildi. Birkaç yıllık pratik deneyimin ardından babasına gerçek kraliyet görevlerinde yardım etmeye başladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_2">
+			<Text>João, on altı yaşında evlenecekti ve kuzeni Avusturyalı Eleanor ile evlenmesi planlanmıştı. Ancak babası Manuel devreye girerek Eleanor'u kendisinin istediğine karar verdi. João'nun bu durumdan anlayışla karşılanacak şekilde gücenmesi ve tüm bu olaydan oldukça rahatsız olması doğaldı. Ancak 1521'de João'nun tahta çıkmasının ardından, tesadüfen eski nişanlısı Eleanor'un küçük kız kardeşi olan Avusturyalı Catherine ile stratejik bir evlilik yaptı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_3">
+			<Text>Aşkta yanmış olan João, kendini dinine adadı. Önemli bir hamleyle, İsa Cemiyeti'ni – Cizvitleri – yani dine hümanist yaklaşımları destekledi. Daha az asilce olmakla birlikte, Engizisyon nihayet Portekiz'e João döneminde geldi ve bu, hem özgür düşünceyi bastırdı (ancak Portekiz'de bir Protestan hareketinin olmamasını da sağladı). Engizisyon, kilisenin sorunlu veya küfürlü saydığı her şeyi cezalandırmak için tasarlanmıştı: büyücülük, çok eşlilik (João'nun çağdaşı İngiltere Kralı VIII. Henry'nin karmaşık aşk hayatı yüzünden kiliseyle yaşadığı mücadeleler hatırlanabilir), kiliseye aykırı yayınlar ve cinsel sapkınlıklar gibi. João (Papa'nın izniyle) kardeşi Kardinal Henry'yi Baş Engizisyoncu olarak atadı ve Portekiz topraklarında şubeler kurdu. Engizisyon'un etkisi Portekiz kültürünün ve günlük yaşamının diğer alanlarına da sızdı. Bu adımlar João'ya 'Dindar' unvanını kazandırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_4">
+			<Text>João, savaş yoluyla fetih yerine sıklıkla diplomasiyi ve avantajlı evlilikler düzenlemeyi tercih etti. Kız kardeşi Isabella, İspanya Kralı ve Kutsal Roma İmparatoru V. Karl ile evlendi ve kızı Maria Manuela'yı İspanya Kralı II. Felipe ile evlendirdi. Oğlu Prens João Manuel, İspanyalı Joan ile evlendi ve onların oğlu Kral I. Sebastião oldu. Buradaki ortak eğilim – Portekiz'in İberya'da bağımsız ama yakın müttefik bir konum güvence altına alması – açıkça görülmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_5">
+			<Text>João, Portekiz'in geniş imparatorluğunun verimsiz olduğunu, borç ve yolsuzlukla boğuştuğunu fark etti. Başlangıçta, daha iyi adamların daha iyi sonuçlar vereceğini düşünerek yeni valiler atayarak sorunları gidermeye çalıştı, ancak sorun sistemikti. Ayrıca, 'görevden alınan' valiler bazen gitmeyi reddediyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_6">
+			<Text>João'nun hükümdarlığının asıl etkisi, ticaret ağlarının genişlemesinde kendini gösterdi. Mombasa, Mozambik ve Afrika'nın diğer bölgelerinde müstahkem Portekiz ticaret kampları – feitorialar – kuruldu; Portekiz, Güneydoğu Asya'da Timor ve Maluku Adaları'nı, Güney Asya'da Goa ve Sri Lanka'yı, Doğu Asya'da ise Nagazaki ve Makao'da birer ticaret karakolu elde etti. Dahası, Portekiz Brezilyası, João döneminde önemli bir sömürge haline geldi. Bu ağlar, baharat, şeker, altın, kokular ve ipeği dünyanın dört bir yanına taşıyacaktı. Daha az asil bir şekilde, João aynı zamanda köleleştirilmiş insan ticareti de yaparak, Kongo kralı Mvemba a Nzinga'nın, Portekizli köle tacirlerinin faaliyetleri hakkında João'ya sert bir mektup yazmasına yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_HISTORY_PARA_7">
+			<Text>João'nun hükümdarlığının sonlarına doğru bir vâris belirleme konusunda sıkıntı yaşadı. Dokuz çocuğundan (Catherine'ten doğan) yalnızca ikisi çocukluk dönemini atlatabildi ve ikisi de babalarından önce öldü. Taht, 1557'deki ölümünün ardından nihayetinde torunu Sebastian'a kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_CAPSULE_BODY">
+			<Text>Portekiz, kıyı kaynaklarındaki ve deniz keşfindeki avantajlarından yararlanarak deniz temelli bir ticaret imparatorluğunun temellerini atmak için haritayı keşfetmeyi hedefler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JOAO_III_CHAPTER_DETAILED_BODY">
+			<Text>Başarılı bir Portekiz zaferi, geniş ticaret ağları kurmaya ve kıyı bölgelerini kullanmaya bağlı olacaktır. Unutmayın ki Portekiz için uluslararası [ICON_TradeRoute] Ticaret Yolları yalnızca su üzerinden geçenlerle sınırlıdır; bu nedenle João, potansiyel ticaret noktalarını en üst düzeye çıkarmak için şehirlerini kıyı boyunca inşa etmek isteyecektir. Ayrıca, kıyı şehirleri Seyrüsefer Okulu'ndan tam anlamıyla yararlanarak deniz birimlerine ek [ICON_Production] Üretim, kıyı ve göl bölgelerine ek [ICON_Science] Bilim ve ek [ICON_GreatAdmiral] Büyük Amiral puanı kazanabilir. Portekiz, Portekiz'in Eşsiz Birimi Nau tarafından inşa edilen Eşsiz Altyapısı Feitoria için gelecekteki alanları bulmak amacıyla haritayı erken keşfetmek isteyecektir. Portekiz, her türlü zaferi finanse etmek için ticaret kârlarını kullanabilir – ancak savaşlardan uzak durun; o limanların iş yapmaya devam etmesi gerekiyor!</Text>
+		</Row>
+		<!-- buildings and districts -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NAVIGATION_SCHOOL_CHAPTER_HISTORY_PARA_1">
+		<Text>Sagres, Portekiz'in en güney noktasıdır; gemilerin fırtınalarla boğuşan Atlas Okyanusu'na açılmadan önceki son güvenli sığınağıdır. Güneye bakan Portekizli denizciler, azgın denizler ve bugün Fas'ın bulunduğu, Sahra'nın başladığı Atlas kıyısındaki zorlu “Cabo de Não” – “Hayır Burnu” ile karşı karşıya kaldılar. Uzun süre Avrupalı ve Arap denizciler tarafından denizciliğe elverişli dünyanın sonu olarak kabul edilen (adı da buradan gelir) Cabo de Não (şimdiki adıyla Chaunar Burnu), Portekizlilerin gemi temelli bir imparatorluk hayalini gerçekleştirebilmeleri için aşılması gereken bir engeldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NAVIGATION_SCHOOL_CHAPTER_HISTORY_PARA_2">
+		<Text>Portekizlilerin Burun çevresindeki ve diğer daha uzak, daha zorlu burunların etrafındaki seferlerinin planlanması ve nihai başarısı, seyrüsefer okullarında gerçekleşti. Bazı akademisyenler bu “okul” terimini gevşek bir şekilde yorumlayıp çoğu Portekizli denizcinin eğitimini fiilen gemilerde yapmış olabileceğini belirtirken, diğerleri en romantik eğilimli akademisyenler tarafından tam da Sagres Burnu'na yerleştirilen merkezi bir seyrüsefer okulunun varlığını öne sürmektedir. Denizciler buradan Atlas Okyanusu'nun tehlikelerini ilk elden görebilecek ve bunların üstesinden gelmenin yollarını planlayabileceklerdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ETEMENANKI_CHAPTER_HISTORY_PARA_1">
+		<Text>Etemenanki, Babil'e ait bir ziggurat ya da basamaklı bir kuledir. Bazıları, Etemenanki'nin Babil Kulesi hikâyesine ilham kaynağı olabileceğine inanmaktadır. İlk olarak Hammurabi döneminde inşa edilmiş ve MÖ 689'da Babil'in yıkılmasının ardından II. Nebukadnezar tarafından restore edilmiştir. MÖ 331'de Büyük İskender Babil'i ele geçirmiş ve bir kez daha Etemenanki'nin onarılmasını emretmiştir. Babil'e döndüğünde binanın değişmediğini gören İskender, tüm yapıyı yıkıp yeniden başlamanın daha kolay olacağına karar vermiştir. Ancak Büyük İskender emirleri yerine getirilmeden ölmüştür. Bir başka prensin zigguratı yeniden inşa etmek istediği, ancak tökezleyerek kendini rezil etmesinin ardından öfke nöbeti geçirerek fillerine geri kalanını yıktırdığı rivayet edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TORRE_DE_BELEM_CHAPTER_HISTORY_PARA_1">
+		<Text>Torre de Belém, Portekiz'in en tanınmış yapılarından biridir ve Keşifler Çağı'na bir anıt olarak hizmet eder. Kule, Lizbon limanında savunma amaçlı olarak yükselir ve Atlas Okyanusu'na açılan birçok kâşif için başlangıç noktası olmuştur. Kral I. Manuel, 16. yüzyılda Francisco de Arruda'yı yapıyı tasarlaması ve inşa etmesi için görevlendirmiştir. Kule kireç taşından yapılmıştır ve süslü Manuelin tarzında tasarlanmıştır. Görkemli taş işçiliği uzaktan görülebilir. Kuleye daha yakından bakan biri, heykelleri ve en ilginci, taşa oyulmuş bir gergedan başı görecektir. Dış görkemi ve güzelliğine rağmen işlevseldi ve bölge için aktif bir savunma olarak hizmet ediyordu.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_FEITORIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Feitoria – kelime anlamıyla "fabrika" – ticareti kolaylaştırmak için denizaşırı kurulan bir ticaret deposuydu ve bu haliyle erken merkantilist projelerin, özellikle de erken modern dönem (1300'ler-1600'ler) Portekiz ağlarının kilit bir kurumuydu. Burada Avrupalı tüccarlar, Avrupa silahlarıyla korunan bir alanda, yerel hükümdardan ve yerel korsanlardan bir ölçüde bağımsız olarak mal alışverişi yapabiliyorlardı. Ancak feitoria'nın karanlık bir yönü de vardı: Avrupalı olmayanların bu alanlarda toprak sahibi olmasına izin verilmiyordu ve daha sonra bunlar Avrupa sömürgeciliğinin kilit ileri karakolları haline geldi. Daha da kötüsü, feitorialar köleleştirilmiş insan ticaretinde kilit ileri karakollardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_FEITORIA_CHAPTER_HISTORY_PARA_2">
+			<Text>İlk Portekiz feitoriası Kuzey Afrika ülkesi Moritanya'daydı, ancak daha sonraki karakollar Goa (Hindistan), Malakka (günümüz Malezyası), Ternate (günümüz Endonezyası), Makao (Çin) ve Nagazaki'deydi (Japonya). Portekizliler her noktada izlerini bıraktılar: Malakka ve Goa'da önemli Katolik nüfuslar var, Makao'da Portekiz döneminden kalma etkileyici mimari var ve Nagazaki'deki fırıncılar hâlâ Portekiz usulü castella (Japoncası kasutera) kekleri yapıyor.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PORTUGUESE_NAU_CHAPTER_HISTORY_PARA_1">
+			<Text>1300'lerden 1500'lere kadar Portekizliler denizlere hükmetti. Ticaret ağları Lizbon'u Asya, Afrika ve Yeni Dünya'daki limanlara bağladı ve bugün dünyayı görme biçimimizi yeniden şekillendirdi. Örneğin, Portekizlilerin Yeni Dünya acı biberlerini Asya'ya tanıtması olmasaydı, acı Tay yemeklerine sahip olamazdık; Portekiz'in Japonya'daki varlığı olmasaydı, tempuraya (Latince quatuor anni tempora – et yememe zamanı) sahip olamazdık. Ama her şey baharattan ibaret değildi: nau, altın, Katolik misyonerler… ve köleleştirilmiş insanlar taşıdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PORTUGUESE_NAU_CHAPTER_HISTORY_PARA_2">
+			<Text>Nau, karavelin daha büyük bir versiyonuydu; ön tarafta kare yelkenler, mizana direğinde ise üçgen yelkenler bulunurdu. Ağır yapıları sayesinde özellikle Afrika ve Güney Amerika'nın güney uçları çevresinde daha fırtınalı denizlerde seyretmelerine ve karavel veya kogdan daha uzağa ulaşmalarına olanak tanıdı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

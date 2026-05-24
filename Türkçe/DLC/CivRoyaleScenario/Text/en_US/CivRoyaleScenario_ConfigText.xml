@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_CIV_ROYALE_RULESET_TITLE">
+			<Text>Kızıl Ölüm (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION">
+			<Text>Kızıl Ölüm (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_RULESET_TEASER">
+			<Text>Kızıl Ölüm, Civilization VI'nın Battle Royale moduna getirdiği özgün bir yorumdur. Ölmekte olan bir gezegenden kaçış biletine sahip olmak için mücadele eden hayatta kalanlar olarak oynayın.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_TITLE">
+			<Text>Royale'in Sınavına Diren</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_DESC">
+			<Text>Ayakta kalan son hizip olun.</Text>
+		</Row>
+		<!-- Aliens Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_ALIENS_NAME">
+			<Text>Uzaylılar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_NAME">
+			<Text>Uzaylılar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_DESCRIPTION">
+			<Text>Gizli Uzaylılar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ALIENS_ADJECTIVE">
+			<Text>Uzaylı</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_NAME">
+			<Text>Uzaylımsı Yenilenme</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_REGENERATION_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler, su, Kızıl Ölüm veya Kitle İmha Silahı serpintisi dışında, hareket veya eylemlerinden bağımsız olarak her tur iyileşir. Uzaylılar %50 daha yavaş iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_NAME">
+			<Text>Uzaylı Kamuflajı</Text>
+		</Row>
+		<Row Tag="LOC_ALIENS_XENO_STEALTH_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler, çoğu birime görünmez olmak için Uzaylı Kamuflajı kullanabilir. Bitişik düşman birimleri Kamuflajlı birimleri görebilir. Saldırmak, Uzaylı Kamuflajını devre dışı bırakır. Uzaylı Kamuflajı 6 tur sürer ve yeniden şarj olması 6 tur alır.</Text>
+		</Row>
+
+		<!-- Cultist Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Müritler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Müritler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION">
+			<Text>Derinden Bağlı Müritler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE">
+			<Text>Mürit</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_SIGHT_ABILITY_NAME">
+			<Text>Sonu Gözlemlemek</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_SIGHT_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler +3 Görüş Menzili kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_NAME">
+			<Text>Ölümsüz Göz</Text>
+		</Row>
+		<Row Tag="LOC_CULTISTS_UNDYING_EYE_ABILITY_DESCRIPTION">
+			<Text>Müritler oyuna, taptıkları sakat bir GDR (Dev Ölüm Robotu) ile başlar. GDR ağır hasarla başlar, normal şekilde iyileşmez veya deneyim kazanmaz. GDR, yanındaki Mürit birimlerinin gönüllü fedakârlığıyla terfi kazanır.</Text>
+		</Row>
+
+		<!-- Edgelord Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Sınır Lordları</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Sınır Lordları</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION">
+			<Text>Oldukça Gotik Sınır Lordları</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE">
+			<Text>Sınır Lordları</Text>
+		</Row>
+		<Row Tag="LOC_EDGELORDS_EDGENESS_ABILITY_NAME">
+			<Text>Sınırda Yaşamak</Text>
+		</Row>
+		<Row Tag="LOC_EDGENESS_ABILITY_DESCRIPTION">
+			<Text>Güvenli Bölge sınırına 3 hücre veya daha yakın mesafedeyken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_NAME">
+			<Text>Keder Hediyesi</Text>
+		</Row>
+		<Row Tag="LOC_EDGELORDS_GRIEVING_GIFT_ABILITY_DESCRIPTION">
+			<Text>Serbest eylem olarak, herhangi bir Sınır Lordları birimi, bir sonraki tur için tuzaklı bir Keder Hediyesi'nin bırakılacağı bir hücre belirleyebilir. Keder Hediyesi, diğer tüm oyunculara normal bir İkmal İndirmesi gibi görünür. Sınır Lordları en fazla iki Keder Hediyesi depolayabilir ve bunların yeniden dolması 5 tur alır.</Text>
+		</Row>
+
+		<!-- Jocks Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>Atletler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>Atletler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION">
+			<Text>En Acımasız Atletler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE">
+			<Text>Atletler</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_NAME">
+			<Text>Mükemmelliğe Tanıklık</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_COMBAT_BONUS_ABILITY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_HAIL_MARY_ABILITY_NAME">
+			<Text>Son Çare Pası</Text>
+		</Row>
+		<Row Tag="LOC_JOCK_HAIL_MARY_ABILITY_DESCRIPTION">
+			<Text>Her 6 turda bir, herhangi bir muharebe biriminden küçük bir taktik nükleer bomba olan "Son Çare" atışı yap.</Text>
+		</Row>
+		
+
+		<!-- Mutants Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutantlar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutantlar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION">
+			<Text>Korkunç Yara İzli Mutantlar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE">
+			<Text>Mutant</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME">
+			<Text>Parlak Kişilikler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION">
+			<Text>Kızıl Ölüm hasarında -50%.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME">
+			<Text>Radyoaktif Hareket</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION">
+			<Text>Kızıl Ölüm'deki tüm birimler için +3 [ICON_Movement] Hareket. Kızıl Ölüm hasarında -50%.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME">
+			<Text>Parlak Kişilikler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION">
+			<Text>Mutant birimler, Kızıl Ölüm veya Kitle İmha Silahı serpintisi içinde başlayarak her tur 8 Radyasyon Yükü emer. Mutant birimler, her Radyasyon Yükü başına bir kez, kirlenmemiş hücrelere Kızıl Ölüm yayar. Mutant birimler, Mutantların yaydığı Kızıl Ölüm'den hasar almaz.</Text>
+		</Row>		
+
+		<!-- Preppers Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Kıyamet Hazırlıkçıları</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Hazırlıkçılar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION">
+			<Text>Çılgın Kıyamet Hazırlıkçıları</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE">
+			<Text>Hazırlıkçı</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_NAME">
+			<Text>Daima En Kötüye Hazırlan</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_EXPERIENCE_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler +100% tecrübe bonusuna sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_NAME">
+			<Text>Derme Çatma Tuzaklar</Text>
+		</Row>
+		<Row Tag="LOC_PREPPERS_IMPROVISED_TRAPS_ABILITY_DESCRIPTION">
+			<Text>Tüm Hazırlıkçı birimleri sınırlı sayıda Derme Çatma Tuzak geliştirmesi inşa edebilir. Derme Çatma Tuzaklar, herhangi bir birim hücreye girdiğinde patlar ve 25 hasar verir. Hazırlıkçılar, Şehir Kalıntılarını, Akıncı Kamplarını veya İkmal İndirmelerini keşfederek daha fazla Derme Çatma Tuzak bulur. Derme Çatma Tuzaklar, Hazırlıkçı olmayan tüm hiziplere görünmez.</Text>
+		</Row>
+
+		<!-- Pirates Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Korsanlar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Korsanlar</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION">
+			<Text>Radyoaktif Korsanlar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE">
+			<Text>Korsan</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_NAME">
+			<Text>Suya Doygun</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_WATER_LOGGED_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler %50 daha az su hasarı alır ve gemiye binme ile inme sırasındaki ek hareket maliyetini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_NAME">
+			<Text>Gömülü Hazine</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_BURIED_TREASURE_ABILITY_DESCRIPTION">
+			<Text>Korsanlar oyuna, haritadaki ek bir ikmal noktasıyla temsil edilen bir gömülü hazine haritasıyla başlar. Korsanlar, o konumu ziyaret ederek özel bir ödül ve yeni bir gömülü hazine haritası kazanır. Serbest eylem olarak, Korsanlar hazine haritalarını yakabilir ve her 6 turda bir yeni bir harita alabilir.</Text>
+		</Row>
+
+		<!-- Scientists Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Çılgın Bilim İnsanları</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Çılgın Bilim İnsanları</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION">
+			<Text>Etik Değerleri Muğlak Bilim İnsanları</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE">
+			<Text>Çılgın Bilim İnsanları</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_NAME">
+			<Text>Biraz Canınız Yanabilir</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_HEAL_FASTER_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler 2 kat daha hızlı iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_NAME">
+			<Text>Savunma Amaçlı Eylemsizlik Kalkanı</Text>
+		</Row>
+		<Row Tag="LOC_SCIENTISTS_UNIT_SHIELDS_ABILITY_DESCRIPTION">
+			<Text>Tüm birimler, savunurken +10 [ICON_Strength] Muharebe Gücü sağlayan Savunma Amaçlı Eylemsizlik Kalkanı kullanabilir. Kalkan ayrıca su, Kızıl Ölüm ve Kitle İmha Silahı patlama hasarlarına karşı tam bağışıklık sağlar. Savunma Amaçlı Eylemsizlik Kalkanı 4 tur sürer ve yeniden şarj olması 6 tur alır.</Text>
+		</Row>
+
+		<!-- Wanderers Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Gezginler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Gezginler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION">
+			<Text>Özgür İradeli Gezginler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE">
+			<Text>Gezginler</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_NAME">
+			<Text>Görüşmek Üzere</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_DESCRIPTION">
+			<Text>Piyade ve Makineli Tüfekçiler, onlarla birlikte düzende olan Sivil birimler de dahil olmak üzere, Ormanlık, Yağmur Ormanı ve Tepe arazilerinde daha hızlı [ICON_Movement] Hareket eder.</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_MOVE_BONUS_ABILITY_DESCRIPTION_V2">
+			<Text>Piyade, Tank Savar Ekipleri ve Makineli Tüfekçiler, onlarla birlikte düzende olan Sivil birimler de dahil olmak üzere, Ormanlık, Yağmur Ormanı ve Tepe arazilerinde daha hızlı [ICON_Movement] Hareket eder.</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_NAME">
+			<Text>Yol Görüşü</Text>
+		</Row>
+		<Row Tag="LOC_WANDERERS_ROAD_VISION_ABILITY_DESCRIPTION">
+			<Text>Serbest eylem olarak, herhangi bir birim daha önce keşfedilmiş tüm altıgenleri 1 tur boyunca görünür hale getirebilir. Yeniden şarj olması 3 tur alır.</Text>
+		</Row>
+
+		<!-- Zombies Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_ZOMBIES_NAME">
+			<Text>Zombiler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_NAME">
+			<Text>Zombiler</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_DESCRIPTION">
+			<Text>Zombi Canavar Efendileri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_ADJECTIVE">
+			<Text>Zombi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_NAME">
+			<Text>Zoraki Silahlandırılmış Zombiler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_WEAPONIZED_ZOMBIES_ABILITY_DESCRIPTION">
+			<Text>Zombi Canavar Efendileri tüm muharebe birimlerinin yerine zoraki kontrol altına alınmış Zombi Sürüleri koymuştur. Şehir Kalıntıları, Akıncı Kampları ve İkmal İndirmeleri, geleneksel birimler yerine ilave Zombi Sürüleri bahşeder. Zombi Sürüleri, zombi olmayan bir düşman birimini muharebede öldürdüklerinde yeni bir Zombi Sürüsü oluşturur. Zombi Sürüleri hasar aldıklarında muharebe cezasına maruz kalmaz.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_NAME">
+			<Text>Beyinler!</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_ZOMBIES_BRAINS_ABILITY_DESCRIPTION">
+			<Text>Zombi Sürüleri normal şekilde iyileşmez ve zamanla yavaşça hasar alır. Zombi Sürüleri, birim öldürdüklerinde veya terfi aldıklarında iyileşir. Şehir Kalıntıları, Akıncı Kampları ve İkmal İndirmeleri de Zombi Sürülerini iyileştirir. Zombi Sürüleri, 8 hücre mesafeye kadar en yakın görünmeyen düşman birimini hissedebilir. Zombi Sürüleri, menzilli saldırılara karşı savunurken +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		
+		<!-- Hall of Fame Text -->
+		<Row Tag="LOC_HOF_STAT_PLAYER_CITY_RUINS">
+			<Text>Keşfedilen Şehir Kalıntıları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RAIDERS_KILLED">
+			<Text>Öldürülen Akıncılar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RAIDER_CAMPS">
+			<Text>Temizlenen Akıncı Kampları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_KILLS">
+			<Text>Öldürülen Akıncılar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_RAIDER_CAMPS">
+			<Text>Temizlenen Akıncı Kampları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITY_RUINS">
+			<Text>Keşfedilen Şehir Kalıntıları</Text>
+		</Row>
+	</EnglishText>
+</GameData>

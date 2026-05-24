@@ -1,0 +1,70 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_SKIRMISHER_NAME">
+			<Text>Çarpışmacı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
+			<Text>Orta Çağ keşif birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_NAME">
+			<Text>Akıncı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_DESCRIPTION">
+			<Text>Orta Çağ hafif süvari birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CUIRASSIER_NAME">
+			<Text>Zırhlı Süvari</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+			<Text>Sanayi Çağı ağır süvari birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_DEATH_ROBOT_NAME">
+			<Text>Dev Ölüm Robotu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
+			<Text>Bilgi Çağı Süper Birimi. Suda hareket edebilir ve savaşabilir. Kitle İmha Silahlarına karşı dirençlidir. Muharebe yetenekleri, gelecek teknolojileri araştırılarak yükseltilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Orta Çağ destek birimi. Üretilmek için Cephanelik gerektirir. Yollar, Demiryolları, Kaleler, Hava Pistleri, Füze Silosu ve Dağ Tüneli iyileştirmeleri inşa edebilir. Ayrıca inşa haklarından biri, bir Kanal veya Baraj bölgesinin %20'sini tamamlamak için kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
+			<Text>Orta Çağ destek birimi. Üretilmek için Cephanelik gerektirir. Yollar, Demiryolları, Kaleler, Hava Pistleri, Füze Silosu ve Dağ Tüneli iyileştirmeleri inşa edebilir. Ayrıca inşa haklarından biri, bir Kanal, Baraj ya da Su Kemeri bölgesinin veya bir Sel Bariyeri binasının %20'sini tamamlamak için kullanılabilir.</Text>
+		</Row>
+		<!--Rock Band Text-->
+		<Row Tag="LOC_UNIT_ROCK_BAND_NAME">
+			<Text>Rock Grubu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCK_BAND_DESCRIPTION">
+			<Text>Harikalar dahil olmak üzere uygun mekânlarda, gerekli binalardan birine sahip bir Bölgede veya grubun terfilerinden birinin izin verdiği özel bir hedefte rock konseri verebilir. Albüm Satışları istatistiği, bir sonraki konserlerinde beklenen [ICON_TOURISM] Turizm gücüdür. Konser verdikten sonra Albüm Satışları ve Rock Grubu Seviyeleri artabilir. [ICON_Faith] İnanç ile satın alınmalıdır. Aynı bölgede iki kez konser veremezler.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_NAME">
+			<Text>Rock Efsaneleri</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_NAME">
+			<Text>Baş Gruplar</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_NAME">
+			<Text>Yükselen Yıldızlar</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_NAME">
+			<Text>Açılış Grubu</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_NAME">
+			<Text>Yaratıcı Farklılıklar</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_NAME">
+			<Text>Yaşlanan Rockçılar</Text>
+		</Row>
+		<!--Updated Text-->
+		<Row Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
+			<Text>Kendi topraklarındaki diğer Dinlerin varlığını %75 azaltabilir ve diğer Dinlerin birimleriyle teolojik muharebeye girişebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTERING_RAM_EXPANSION2_DESCRIPTION">
+			<Text>Antik Çağ destek birimi. Bir şehre bitişikken, saldıran yakın dövüş ve süvari karşıtı birimler şehrin Surlarına tam hasar verir. Orta Çağ veya Rönesans Surlarına sahip şehirleri etkilemez. Kentsel Savunmalara karşı etkisizdir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_EXPANSION2_DESCRIPTION">
+			<Text>Orta Çağ destek birimi. Bir şehre bitişik olduğunda, saldıran yakın dövüş ve süvari karşıtı birlikler Surları yok sayar ve şehre doğrudan saldırır. Rönesans Surlarına sahip şehirleri etkilemez. Kentsel Savunmaya karşı etkisizdir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

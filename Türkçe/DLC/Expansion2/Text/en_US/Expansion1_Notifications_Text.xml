@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
+			<Text>Tarihi An</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
+			<Text>Halkınız bir Tarihi An'ı kutluyor! {1_MomentDescription} (+{2_EraScoreAmount} Çağ Puanı)</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
+			<Text>{1_CityName} şehrine Vali atanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
+			<Text>Vali {1_GovernorName}, {2_CityName} şehrine atanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
+			<Text>Yeni Vali Atama Fırsatı Mevcut</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
+			<Text>Yeni bir Vali atayın veya mevcut bir Valiyi terfi ettirin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
+			<Text>Yeni Vali Unvanı Mevcut</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
+			<Text>Mevcut bir [ICON_Governor] Valiyi terfi ettirin veya uygarlığınıza yeni bir Vali atayın.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
+			<Text>Vali Unvanı</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
+			<Text>Mevcut bir Valiyi terfi ettirin veya uygarlığınıza yeni bir Vali atayın.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
+			<Text>Vali Terfisi</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
+			<Text>Valilerinizden birini terfi ettirmek için bir Unvan mevcut.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_IDLE">
+			<Text>Boşta Vali</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_IDLE_TOOLTIP">
+			<Text>Atanmayı bekleyen bir Vali mevcut.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
+			<Text>Vali Ataması</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
+			<Text>Uygarlığınıza yeni bir Vali atayın.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
+			<Text>Sahiplen veya Özgür Şehir Yap</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
+			<Text>Yabancı bir şehir, Bağlılığı 0'a düştüğü için eski sahibine isyan etti. Sizin Bağlılığınız bölgedeki en güçlü Bağlılık olduğundan, şehir alçakgönüllülükle Uygarlığınıza katılmak istiyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Vali Terfisi Mevcut</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>Valilerinizden biri için bir terfi mevcut.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_IDLE_MESSAGE">
+			<Text>Vali Boşta</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_IDLE_SUMMARY">
+			<Text>{1_GovernorName} görevlendirilmeye hazırdır.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
+			<Text>Vali {1_CityName} şehrinden alındı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
+			<Text>Vali {1_GovernorName} artık {2_CityName} şehrine atanmış değildir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
+			<Text>Vali {1_GovernorName}, {2_CityName} şehrine taşındı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
+			<Text>Vali {1_GovernorName}, {2_CityName} şehrinden {3_CityName} şehrine taşındı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
+			<Text>Vali {1_GovernorName} göreve döndü.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
+			<Text>Vali {1_GovernorName} göreve döndü. {2_GovernorTitle} artık bir şehre atanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
+			<Text>Şehir Bağlılık Kaybediyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
+			<Text>{1_CityName} şehri bağlılık kaybediyor. Bağlılık 0'a ulaşırsa şehir kontrolümüzden çıkabilir. Şehre bir Vali atayarak durumu istikrara kavuşturun ve vatandaşların bağlılığını kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
+			<Text>Şehir Bağlılık Kaybetti</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
+			<Text>Bağlılık 0'a düştüğü için {1_CityName} şehri isyan ederek bir Özgür Şehir haline geldi. Şehri yeniden kontrol altına almak için burada tekrar bağlılık göstermeli veya askeri güç kullanmalısınız.</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
+      <Text>Bağlılık 0'a düştüğü için {1_CityName} şehri isyan ederek {2_CivName}'ye katıldı. Şehri yeniden kontrol altına almak için burada tekrar bağlılık göstermeli veya askeri güç kullanmalısınız.</Text>
+    </Row>
+		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
+			<Text>Yabancı Şehir Bağımsızlık Kazandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
+			<Text>{1_CivName} artık {2_CityName} şehrini imparatorluklarında tutmaya yetecek bağlılığa sahip değil. Yakınlardaki uygarlıklar bağlılık göstererek veya askeri güç kullanarak bu Özgür Şehir'in kontrolünü ele geçirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
+			<Text>Özgür Şehir Uygarlığa Katılma Talebinde Bulunuyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
+			<Text>{2_CityName} Özgür Şehri, yabancı baskıya boyun eğerek {1_CivName}'ye katılmayı talep ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
+			<Text>Altın Çağ Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
+			<Text>İntikam Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
+			<Text>İdeolojik Savaş</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
+			<Text>[ICON_TradeRoute] Ticaret Yolu'nu başlatmanız, {1_CityName} şehrinde sizin için bir [ICON_TradingPost] Ticaret Karakolu oluşturdu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
+			<Text>Koru veya Özgür Şehir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
+			<Text>Bir Özgür Şehir, bağımsız kalma arzusunu kaybetti. Bağlılığınız orada en güçlü olduğundan, alçakgönüllülükle Uygarlığınıza katılmak istiyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
+			<Text>{2_CityName} şehrindeki ajanınız {1_unitName}, düşman Elçilerini uzaklaştırmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
+			<Text>Skandal Uydurma Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
+			<Text>{1_CityName} şehrindeki bir düşman Casusu, bazı Elçilerimizi uzaklaştırmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
+			<Text>Düşman Skandal Uydurdu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_cityName} şehrinde sahibinin Bağlılığını azaltmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
+			<Text>Kargaşa Çıkarma Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
+			<Text>Bir düşman Casusu, {1_cityName} şehrinde vatandaşlarınızın Bağlılığını azalttı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
+			<Text>Düşman Kargaşa Çıkardı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_cityName} şehrindeki düşman valiyi etkisiz hale getirerek {3_turns} tur boyunca görevden uzaklaştırmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
+			<Text>Valiyi Etkisiz Hale Getirme Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
+			<Text>Bir düşman Casusu, {2_cityName} şehrindeki valiniz {1_governorName}'i etkisiz hale getirerek {3_turns} tur boyunca görevden uzaklaştırmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
+			<Text>Düşman Casusu Valiyi Etkisiz Hale Getirdi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>İttifak Sona Erdi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>{1_CivName} ile olan İttifakınız sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
+			<Text>İttifak Seviyesi Arttı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
+			<Text>{1_CivName} ile olan İttifak Seviyeniz arttı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
+			<Text>Acil Durum İlan Edildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
+			<Text>{1_CivName} bir Acil Durum tarafından hedef alındı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Bilinmeyen bir oyuncu bir Acil Durum tarafından hedef alındı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
+			<Text>Acil Durum Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
+			<Text>Sizi hedef alan Acil Durum başarısız oldu. Ödüllendirildiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
+			<Text>{1_CivName}'i hedef alan Acil Durum başarısız oldu. {1_CivName} ödüllendirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Bilinmeyen bir oyuncuyu hedef alan Acil Durum başarısız oldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
+			<Text>Acil Durum Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
+			<Text>Sizi hedef alan Acil Durum başarılı oldu. Size karşı savaşanlar ödüllendirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
+			<Text>{1_CivName}'i hedef alan Acil Durum başarılı oldu. {1_CivName}'e karşı savaşanlar ödüllendirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
+			<Text>Bilinmeyen bir oyuncuyu hedef alan Acil Durum başarılı oldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
+			<Text>Acil Durum Önlendi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
+			<Text>{2_CivName}'i hedef alan {1_EmergencyType} Acil Durumu, {3_CityName} şehri yok edildiği için sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
+			<Text>{2_CivName}'i hedef alan {1_EmergencyType} Acil Durumu, {3_CityName} şehri asıl sahibine geri verildiği için sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
+			<Text>{2_CivName}'i hedef alan {1_EmergencyType} Acil Durumu, {3_CityName} şehri önceki sahibine geri verildiği için sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
+			<Text>{2_CivName}'i hedef alan {1_EmergencyType} Acil Durumu, {3_CityName} şehri artık {2_CivName}'e ait olmadığı için sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
+			<Text>{2_CivName}'i hedef alan {1_EmergencyType} Acil Durumu, {2_CivName} yenilgiye uğratıldığı için sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
+			<Text>ACİL DURUM!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
+			<Text>Bir Acil Durum dikkatinizi gerektiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
+			<Text>Size Verilen Söz Tutuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
+			<Text>{1_CivName} tarafından size verilen {2_PledgeType} sözü yerine getirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
+			<Text>Taahhüdünüz Yerine Getirildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
+			<Text>{1_CivName} uygarlığına, {2_PledgeType} konusunda verdiğiniz taahhüt yerine getirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
+			<Text>Size Verilen Taahhüt Bozuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
+			<Text>{1_CivName} uygarlığı tarafından size {2_PledgeType} konusunda yapılan taahhüt bozuldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
+			<Text>Taahhüdünüz Bozuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
+			<Text>{1_CivName} uygarlığına, {2_PledgeType} konusunda verdiğiniz taahhüt bozuldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
+			<Text>Adanma Yapın</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
+			<Text>Oyun yeni bir çağa girdiğinden, uygarlığınız için arzulanan geleceğe halkınızı yönlendirmek üzere bir Adanma yapabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
+			<Text>Adanma Bonusu Tetiklendi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
+			<Text>{1_DedicationBonusTriggerSentence} Bu nedenle, Adanma bonusunuzdan Çağ Puanı kazanıyorsunuz!</Text>
+		</Row>
+		<!--TUTORIAL EVENTS TEXT-->
+	</EnglishText>
+</GameData>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Dawn of Man text -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_CHINA">
+			<Text>Kubilay Han, Cengiz Han'ın torunu, onunkine rakip bir imparatorluk kuracaksın. Avantaj elde etmek için ne zaman eğilip ne zaman vuruşacağını bilirsin. Zekân ve siyasi hünerin sana hizmet edecek, tıpkı fetihlerindeki savaş becerin gibi.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUBLAI_KHAN_MONGOLIA">
+			<Text>Kubilay Han, Cengiz Han'ın torunu, onunkine rakip bir imparatorluk kuracaksın. Avantaj elde etmek için ne zaman eğilip ne zaman vuruşacağını bilirsin. Zekân ve siyasi hünerin sana hizmet edecek, tıpkı fetihlerindeki savaş becerin gibi.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_TRIEU">
+			<Text>Bà Triệu, halkın seni bir tanrıça olarak hatırlayacak. Fırtınanı dizginlemeye çalışanlara karşı dur ve meydan okurcasına kılıcını kaldır. Ne ailen ne de düşmanın seni durdurabilir.</Text>
+		</Row>
+		<!-- Kublai Khan: Leader Info -->
+		<Row Tag="LOC_LEADER_KUBLAI_KHAN_C_NAME">
+			<Text>Kubilay Han (Çin)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_KUBLAI_KHAN_NAME">
+			<Text>Kubilay Han (Moğolistan)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KUBLAI_NAME">
+			<Text>Gerege</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KUBLAI_DESCRIPTION">
+			<Text>Herhangi bir hükümette fazladan bir Ekonomi politika yuvası. Başka bir uygarlığın şehrinde ilk kez [ICON_TradingPost] Ticaret Karakolu kurduğunda rastgele bir [ICON_TechBoosted] Buluş ve [ICON_CivicBoosted] İlham kazan.</Text>
+		</Row>
+		<!-- Vietnam: District Info -->
+		<Row Tag="LOC_DISTRICT_THANH_NAME">
+			<Text>Thành</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THANH_DESCRIPTION">
+			<Text>Vietnam'a özgü bir bölge olup Ordugâh'ın yerini alır. Her komşu bölge için +2 [ICON_CULTURE] Kültür. Uçuş araştırıldıktan sonra [ICON_CULTURE] Kültür çıktısına eşit miktarda [ICON_TOURISM] Turizm elde edilir. Bu bölge nüfus gerektirmez, inşaası daha ucuzdur, şehir merkezine bitişik inşa edilemez, [ICON_GreatPerson] Büyük Kişi puanı sağlamaz ve bir uzmanlık bölgesi değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_MAJOR">
+			<Text>Komşu {1_Num : plural 1?bölgeden; other?bölgelerden;} +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<!-- Vietnam: Civilization Info -->
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_NAME">
+			<Text>Vietnam</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>Vietnam İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIETNAM_ADJECTIVE">
+			<Text>Vietnam</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_NAME">
+			<Text>Dokuz Ejderha Nehri Deltası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_VIETNAM_DESCRIPTION">
+			<Text>Tüm kara uzmanlık bölgeleri yalnızca Yağmur Ormanı, Bataklık veya Orman üzerine inşa edilebilir. Bu arazi özelliklerindeki her bina için şu getirileri al: Orman'da +1 [ICON_CULTURE] Kültür, Yağmur Ormanı'nda +1 [ICON_SCIENCE] Bilim ve Bataklık'ta +1 [ICON_PRODUCTION] Üretim. Orman, Ortaçağ Fuarları sosyal politikası ile dikilebilir.</Text>
+		</Row>
+		<!-- Vietnam: Leader Info -->
+		<Row Tag="LOC_LEADER_LADY_TRIEU_NAME">
+			<Text>Bà Triệu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRIEU_NAME">
+			<Text>Saldırganları Defet</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRIEU_DESCRIPTION">
+			<Text>Yağmur Ormanı, Bataklık veya Orman bölgelerinde savaşan birlikler için +5 [ICON_Strength] Muharebe Gücü. Tura burada başlarlarsa +1 [ICON_Movement] Hareket. Her iki bonus da bölge sizin toprağınızsa iki katına çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FEATURES_NAME">
+			<Text>Saldırganları Defet</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FEATURES_DESCRIPTION">
+			<Text>Yağmur Ormanı, Bataklık veya Orman bölgelerinde savaşan birlikler için +5 [ICON_Strength] Muharebe Gücü. Tura burada başlarlarsa +1 [ICON_Movement] Hareket. Her iki bonus da bölge sizin toprağınızsa iki katına çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_FRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, Saldırganları Defet özelliğinden</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRIEU_UNFRIENDLY_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, Saldırganları Defet özelliğinden</Text>
+		</Row>
+		<!-- Vietnam: Unit Info -->
+		<Row Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_VIETNAMESE_VOI_CHIEN_DESCRIPTION">
+			<Text>Vietnam'a özgü Orta Çağ menzilli birliği. Arbaletçi'nin yerini alır. Bu birimler ek hareket kabiliyetine sahiptir ve saldırdıktan sonra hareket edebilir. Ayrıca savunmada daha güçlüdür, daha pahalıdır ve daha geniş görüşe sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VOI_CHIEN_NAME">
+			<Text>Voi Chiến</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VOI_CHIEN_DESCRIPTION">
+			<Text>Saldırdıktan sonra hareket edebilir.</Text>
+		</Row>
+		<!-- Preserve text-->
+		<Row Tag="LOC_DISTRICT_PRESERVE_NAME">
+			<Text>Koruma Bölgesi</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PRESERVE_DESCRIPTION">
+			<Text>Çekiciliğe bağlı olarak 3 [ICON_Housing] Konut sağlar. Yanındaki tarafsız bölgelere Kültür Bombası uygular ve bu bölgelerin Çekiciliğini 1 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GROVE_NAME">
+			<Text>Koru</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GROVE_DESCRIPTION">
+			<Text>Yanındaki geliştirilmemiş Keyifli bölgelere +1 [ICON_FOOD] Besin ve +1 [ICON_FAITH] İnanç sağlar. Yanındaki geliştirilmemiş Nefes Kesen bölgelere ise +2 [ICON_FOOD] Besin, +2 [ICON_FAITH] İnanç, +2 [ICON_CULTURE] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SANCTUARY_NAME">
+			<Text>Sığınak</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SANCTUARY_DESCRIPTION">
+			<Text>Yanındaki geliştirilmemiş Keyifli bölgelere +1 [ICON_SCIENCE] Bilim ve +1 [ICON_GOLD] Altın sağlar. Yanındaki geliştirilmemiş Nefes Kesen bölgelere ise +2 [ICON_SCIENCE] Bilim, +2 [ICON_GOLD] Altın, +2 [ICON_PRODUCTION] Üretim sağlar.</Text>
+		</Row>
+		<!--Monopolies-->
+		<Row Tag="LOC_GAMEMODE_MONOPOLIES_NAME">
+			<Text>Tekeller ve Şirketler Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_MONOPOLIES_DESCRIPTION">
+			<Text>Lüks Kaynaklarınızı kontrol edin, geliştirin ve genişletin! Tekeller ve Şirketler modu, Lüks Kaynaklarınızın etrafında kârlı Endüstriler kurmanıza, bu endüstrileri daha da ilerletmek için Şirketler kurmanıza ve kapitalist tarihte yerinizi sağlamlaştırmak için eşsiz Ürünler üretmenize olanak tanır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

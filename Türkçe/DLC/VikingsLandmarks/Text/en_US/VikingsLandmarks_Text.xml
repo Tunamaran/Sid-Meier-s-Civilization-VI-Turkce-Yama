@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_QUOTE">
+			<Text>“Holt halkı, geceleyin dahi olağanüstü büyüklükte ve yükseklikteki bir ateş sütunu sayesinde gün ışığındaymış gibi rahatça okuyabildi.”[NEWLINE]– Liverpool Mercury</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_QUOTE">
+			<Text>“Burada koyu kahverengi amorf bazalt, orada kırmızı aşı boyası ve onun da altında yine odun kömürünün ince ama belirgin çizgileri.”[NEWLINE]– Dublin Penny Journal</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_QUOTE">
+			<Text>“Bu denizde, bu yalnızlığın ortasında, büyük, kasvetli bir cadde yükselir—insan ayağı değmemiş bir cadde. Oradan hiç kimse geçmez; hiçbir gemi cesaret edip girmez.”[NEWLINE]– Victor Hugo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_NAME">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_NAME">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_NAME">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_NAME">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_NAME">
+			<Text>Muskat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MITLA_NAME">
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_NAME">
+			<!--Kept for backwards compatibility with saves with outdated configurations that still reference Palenque-->
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_DESCRIPTION">
+			<Text>Auckland Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_DESCRIPTION">
+			<Text>Antananarivo Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_DESCRIPTION">
+			<Text>Armagh Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_DESCRIPTION">
+			<Text>Granada Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_DESCRIPTION">
+			<Text>Muskat Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MITLA_DESCRIPTION">
+			<Text>Mitla Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_DESCRIPTION">
+			<!--Kept for backwards compatibility with saves with outdated configurations that still reference Palenque-->
+			<Text>Mitla Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUCKLAND_ADJECTIVE">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTANANARIVO_ADJECTIVE">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARMAGH_ADJECTIVE">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRANADA_ADJECTIVE">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MUSCAT_ADJECTIVE">
+			<Text>Muscat</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MITLA_ADJECTIVE">
+			<Text>Mitla</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PALENQUE_ADJECTIVE">
+			<!--Kept for backwards compatibility with saves with outdated configurations that still reference Palenque-->
+			<Text>Palenque</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AUCKLAND">
+			<Text>Auckland</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTANANARIVO">
+			<Text>Antananarivo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARMAGH">
+			<Text>Armagh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRANADA">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUSCAT">
+			<Text>Muscat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PALENQUE">
+			<Text>Palenque</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_NAME">
+			<Text>Auckland Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_NAME">
+			<Text>Antananarivo Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_NAME">
+			<Text>Armagh Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_NAME">
+			<Text>Granada Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_NAME">
+			<Text>Muscat Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MITLA_NAME">
+			<Text>Mitla Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION">
+			<Text>Size ait sığ su bölgeleri +1 [ICON_Production] Üretim sağlar. Sanayi Çağı'na ulaştığınızda ek +1 [ICON_Production] Üretim kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_DESCRIPTION">
+			<Text>Uygarlığınız, elde ettiği her Büyük Kişi başına +%2 [ICON_Culture] Kültür kazanır; toplamda en fazla +%30.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_DESCRIPTION">
+			<Text>İşçileriniz artık Manastır geliştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] İnanç sağlar. Bu bölgede, bu tur saldırmamış olan dost dinî birlikler +15 HP iyileştirme kazanır. Başka bir Manastır'ın yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_DESCRIPTION">
+			<Text>İşçileriniz artık Alkazar geliştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Alkazarlar +2 [ICON_Culture] Kültür sağlar. İşgal eden birlik +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 tur tahkimat edinir. Başka bir Alkazar'ın yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Olanak. Ticaret Merkezi bölgesine sahip şehirlerde.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MITLA_DESCRIPTION">
+			<Text>Kampüs bölgesine sahip şehirlerde şehir büyüme hızı %15 daha yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPEAR_OF_FIONN_NAME">
+			<Text>Fionn'un Mızrağı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SPEAR_OF_FIONN_DESCRIPTION">
+			<Text>Fionn'un Mızrağı: +5 Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ALCAZAR_NAME">
+			<Text>Alkazar</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MONASTERY_NAME">
+			<Text>Manastır</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION">
+			<Text>İşçi birimine Alkazar inşa etme yeteneği kazandırır.[NEWLINE][NEWLINE]+2 [ICON_Culture] Kültür. Bölgedeki birim +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 tur tahkimat kazanır. Başka bir Alkazar'ın yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MONASTERY_DESCRIPTION">
+			<Text>İşçi birimine Manastır inşa etme yeteneği kazandırır.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. Bu bölgedeki, bu turda saldırmamış dost dinî birliğe +15 HP iyileştirme sağlar. Başka bir Manastır'ın yanına inşa edilemez.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_TITLE">
+			<Text>Vietnam ve Kubilay Han Paketi</Text>
+		</Row>
+		<Row Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_TEASER">
+			<Text>Yeni Uygarlık ve Liderler - Vietnam ve Kubilay Han: Çin ve Moğolistan için alternatif bir lider</Text>
+		</Row>
+		<Row Tag="LOC_KUBLAIKHAN_VIETNAM_MOD_DESCRIPTION">
+			<Text>Yeni bir uygarlık, iki yeni lider, yeni bir bölge, iki yeni bina ve Tekeller ve Şirketler oyun modunu içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

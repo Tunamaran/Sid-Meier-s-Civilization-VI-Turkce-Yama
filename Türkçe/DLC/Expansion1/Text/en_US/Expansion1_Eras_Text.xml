@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_ERAS_TURNS_TILL_NEXT_ERA">
+			<Text>BİR SONRAKİ ÇAĞA KALAN TUR:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_CURRENT_SCORE">
+			<Text>GÜNCEL PUAN:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_CURRENT_AGE">
+			<Text>MEVCUT ÇAĞ:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_HEROIC">
+			<Text>KAHRAMANLIK</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_GOLDEN">
+			<Text>ALTIN</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_NORMAL">
+			<Text>NORMAL</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_DARK">
+			<Text>KARANLIK</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_CURRENT_AGE_BY_CIV">
+			<Text>UYGARLIĞA GÖRE MEVCUT ÇAĞ:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_TO_EARN_AGE_NEXT_ERA">
+			<Text>BİR SONRAKİ ÇAĞA YENİ ÇAĞ KAZANMAK İÇİN:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_ERA_REQUIREMENTS_REDUCED">
+			<Text>Çağ Puanı gereklilikleri azaltıldı</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_ERA_REQUIREMENTS_INCREASED">
+			<Text>Çağ Puanı gereklilikleri artırıldı</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_TITLE">
+			<Text>Çağ İlerlemesi</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_NEW_ERA_THRESHOLD">
+			<Text>BİR SONRAKİ ÇAĞ İÇİN EŞİK DEĞERLER</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_ERA_TYPE_EFFECTS">
+			<Text>{1_EraName} Etkileri</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_THE_ERA">
+			<Text>{1_EraName : upper}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA">
+			<Text>Bir Sonraki Çağa Kalan Süre:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA_VALUE">
+			<Text>{1_MinTurns} - {2_MaxTurns} Tur</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_SPECIFIC_TURNS_TO_NEXT_ERA">
+			<Text>{1_Turns} {1_Turns : plural 1?Tur; other?Tur;}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_CHANGE_TITLE">
+			<Text>DÜNYA YENİ ÇAĞA GİRİYOR:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_HEROIC_AGE">
+			<Text>Kahramanlık Çağı</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_GOLDEN_AGE">
+			<Text>Altın Çağ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_DARK_AGE">
+			<Text>Karanlık Çağ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_NORMAL_AGE">
+			<Text>Normal Çağ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_ACTIVE_BONUSES">
+			<Text>Aktif Bonuslar:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_ERA_SCORE">
+			<Text>Çağ Puanı:</Text>
+		</Row>
+		<Row Tag="LOC_PARTIALSCREEN_ERA_PROGRESS_TOOLTIP">
+			<Text>Çağ İlerlemesi[NEWLINE][NEWLINE]Mevcut Çağ Puanı ve Adanmaları görüntüleyin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_GOLDEN_THRESHOLD">
+			<Text>Altın Çağ Eşiği:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_DARK_THRESHOLD">
+			<Text>Karanlık Çağ Eşiği:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_TITLE">
+			<Text>Çağ Tamamlandı: {1_EraName}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_DESCRIPTION">
+			<Text>Büyük lider, pek çok başarıya imza attınız! Kâtiplerimiz hangi zaferlerinizi tarihe kaydetsin?</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION">
+			<Text>Adanma</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION_SUBHEADER">
+			<Text>{1_EraName} için Adanmanı belirle</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_CONFIRM">
+			<Text>Onayla {1_NumSelected}/{2_NeededSelected}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_TITLE">
+			<Text>DÜNYA GİRMİŞ BULUNUYOR[NEWLINE]{1_EraName} ÇAĞI</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE">
+			<Text>Bir Kahramanlık Çağındasınız!</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE">
+			<Text>Bir Altın Çağdasınız!</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE">
+			<Text>Bir Karanlık Çağdasınız!</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE">
+			<Text>Normal Bir Çağdasınız.</Text>
+		</Row>
+    <Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_LABEL">
+      <Text>[ICON_GLORY_SUPER_GOLDEN_AGE] KAHRAMANLIK ÇAĞI</Text>
+    </Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_LABEL">
+			<Text>[ICON_GLORY_GOLDEN_AGE] ALTIN ÇAĞ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_LABEL">
+			<Text>[ICON_GLORY_DARK_AGE] KARANLIK ÇAĞ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_LABEL">
+			<Text>[ICON_GLORY_NORMAL_AGE] NORMAL ÇAĞ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]3 Adanma yapabilirsiniz, her biri Çağ boyunca güçlü bir oyun bonusu sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bir Adanma yapabilirsiniz, bu adanma Çağ boyunca güçlü bir oyun bonusu sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bir Adanma yapabilirsiniz, bu adanma Çağ boyunca ek bir Çağ Puanı kaynağı sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]Bir Adanma yapabilirsiniz, bu adanma Çağ boyunca ek bir Çağ Puanı kaynağı sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_SUPER_GOLDEN_AGE] Kahramanlık Çağı'ndasınız![NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde 1,5 oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır. Şehirlerinizde Bağlılığı korumak kolaylaşır ve yakındaki yabancı şehirlerin Bağlılığını sarsmak mümkün hale gelir.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ'ındasınız![NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde 1,5 oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır. Şehirlerinizde Bağlılığı korumak kolaylaşır ve yakındaki yabancı şehirlerin Bağlılığını sarsmak mümkün hale gelir.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_DARK_AGE] Karanlık Çağ'ındasınız.[NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde 0,5 oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır. Şehirlerinizde Bağlılığı korumak zorlaşır ve yakındaki yabancı şehirlerin Bağlılığını etkilemek daha güç hale gelir.[NEWLINE][NEWLINE][ICON_BULLET]Hükümetinizde güçlü Karanlık Çağ Politikaları benimseyebilirsiniz, ancak bunlar ağır bir bedel taşıyabilir.[NEWLINE][NEWLINE][ICON_BULLET]Son Çağ'da değilseniz ve bir sonraki oyun döneminde Altın Çağ için yeterli Çağ Puanı kazanırsanız, bunun yerine birden çok Adanma ve birden çok güçlü bonus için bir Kahramanlık Çağı elde edersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_NORMAL_AGE] Normal Çağ'ındasınız.[NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde normal miktar olan 1 oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]3 Adanma yapabilirsiniz, her biri Çağ boyunca güçlü bir oyun bonusu sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Bir Adanma yapabilirsiniz, bu adanma Çağ boyunca güçlü bir oyun bonusu sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Bir Adanma yapabilirsiniz, bu adanma Çağ boyunca ek bir Çağ Puanı kaynağı sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Bir Adanma yapabilirsiniz, bu adanma Çağ boyunca ek bir Çağ Puanı kaynağı sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT_PARAM">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_SUPER_GOLDEN_AGE] Kahramanlık Çağı'ndasınız![NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde {Amount} oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır. Şehirlerinizde Bağlılığı korumak kolaylaşır ve yakındaki yabancı şehirlerin Bağlılığını sarsmak mümkün hale gelir.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ'ındasınız![NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde {Amount} oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır. Şehirlerinizde Bağlılığı korumak kolaylaşır ve yakındaki yabancı şehirlerin Bağlılığını sarsmak mümkün hale gelir.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_DARK_AGE] Karanlık Çağ'ındasınız.[NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde {Amount} oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır. Şehirlerinizde Bağlılığı korumak zorlaşır ve yakındaki yabancı şehirlerin Bağlılığını etkilemek daha güç hale gelir.[NEWLINE][NEWLINE][ICON_BULLET]Hükümetinizde güçlü Karanlık Çağ Politikaları benimseyebilirsiniz, ancak bunlar ağır bir bedel taşıyabilir.[NEWLINE][NEWLINE][ICON_BULLET]Son Çağ'da değilseniz ve bir sonraki oyun döneminde Altın Çağ için yeterli Çağ Puanı kazanırsanız, bunun yerine birden çok Adanma ve birden çok güçlü bonus için bir Kahramanlık Çağı elde edersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT_PARAM">
+			<Text>Bu oyun döneminde bir [ICON_GLORY_NORMAL_AGE] Normal Çağ'ındasınız.[NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde {Amount} oranında Bağlılık baskısı uygular. Bu baskı ayrıca 9 birim mesafedeki diğer şehirleri de etkiler, ancak her birim başına etkisi %10 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_PRIDE_MOMENTS">
+			<Text>Tarihi Anlar (her biri +1 ila +6)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_NEW_ERA_THRESHOLDS">
+			<Text>YENİ ÇAĞ EŞİKLERİ</Text>
+		</Row>
+		<Row Tag="LOC_GLORY_HUD_ERA_ENDS_IN">
+			<Text>Çağın Sona Ermesine Kalan Tur: {1_Turns}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_AGE_EFFECTS">
+			<Text>ÇAĞ ETKİLERİ</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TECH_BOOSTS">
+			<Text>Adanma Bonusu: Buluşlar tetiklendi (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CIVIC_BOOSTS">
+			<Text>Adanma Bonusu: İlhamlar tetiklendi (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CITY_RELIGION_CONVERSIONS">
+			<Text>Adanma Bonusu: Dininize dönüştürülen şehirler (her dönüşüm için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_DISTRICT_CONSTRUCTIONS">
+			<Text>Adanma Bonusu: İnşa edilen bölgeler (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CORPS_KILLS">
+			<Text>Adanma Bonusu: Öldürülen Kolordular (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARMY_KILLS">
+			<Text>Adanma Bonusu: Öldürülen Ordular (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TRADE_ROUTE_COMPLETIONS">
+			<Text>Adanma Bonusu: Tamamlanan Ticaret Yolları (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_MAP_DISCOVERIES">
+			<Text>Adanma Bonusu: Keşfedilen yeni simge yapılar (Kıtalar için +{1_ContinentScoreIncrement}, Doğa Harikaları için +{2_NaturalWonderScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNIT_SEA_KILLS">
+			<Text>Adanma Bonusu: Öldürülen Barbar olmayan deniz birlikleri (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SCIENCE_BUILDING_CONSTRUCTIONS">
+			<Text>Adanma Bonusu: Temel getiri olarak Bilim sağlayan binalar inşa edildi (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CULTURE_BUILDING_CONSTRUCTIONS">
+			<Text>Adanma Bonusu: Büyük Eser yuvasına sahip binalar inşa edildi (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_AERODROME_BUILDING_CONSTRUCTIONS">
+			<Text>Adanma Bonusu: Hava Meydanı bölgesinden inşa edilen binalar (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_INDUSTRIAL_BUILDING_CONSTRUCTIONS">
+			<Text>Adanma Bonusu: Sanayi veya daha sonraki dönem binaları inşa edildi (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SPY_MISSIONS">
+			<Text>Adanma Bonusu: Her başarılı saldırgan Casus operasyonu (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARTIFACT_EXTRACTIONS">
+			<Text>Adanma Bonusu: Çıkarılan her tarihi eser (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_GREAT_PEOPLE_EARNED">
+			<Text>Adanma Bonusu: Elde edilen her Büyük Kişi (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CURRENT_TECH_COMPLETIONS">
+			<Text>Mevcut çağdan veya daha sonraki bir çağdan tamamlanan teknolojiler (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CURRENT_CIVIC_COMPLETIONS">
+			<Text>Mevcut çağdan veya daha sonraki bir çağdan tamamlanan yönetim bilimleri (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNIT_PROMOTIONS_EARNED">
+			<Text>İlk terfiden sonra kazanılan birim terfileri (her biri +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNKNOWN_SOURCE">
+			<Text>Diğer Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_BASELINE">
+			<Text>Çağ başladığında sahip olunan puan</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_GOLDEN_AGE">
+			<Text>Temel Altın Çağ eşiği</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_DARK_AGE">
+			<Text>Temel Karanlık Çağ eşiği</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_CITIES">
+			<Text>Çağ başladığında sahip olunan şehirler (şehir başına {1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNHAPPY_CITIES">
+			<Text>Mutsuz Şehirler (eksik her [ICON_Amenities] Olanak başına {1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_GOVERNMENT">
+			<Text>Hükümet (ETKİN DEĞİL)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_TECH">
+			<Text>Bu Çağa ait tamamlanmamış Teknolojiler (ETKİN DEĞİL)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_CIVIC">
+			<Text>Bu Çağa ait tamamlanmamış Yönetim Bilimleri (ETKİN DEĞİL)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_TECH">
+			<Text>Eski Çağlardan kalan tamamlanmamış Teknolojiler (ETKİN DEĞİL)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_CIVIC">
+			<Text>Eski Çağlardan kalan tamamlanmamış Yönetim Bilimleri (ETKİN DEĞİL)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_GOLDEN_AGES">
+			<Text>Şimdiye kadar kazanılan Altın Çağlar (Çağ başına {1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_DARK_AGES">
+			<Text>Şimdiye kadar kazanılan Karanlık Çağlar (Çağ başına {1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_ANARCHY">
+			<Text>Bu Çağdaki Hükümet Anarşisi (her Anarşi için {1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNKNOWN_SOURCE">
+			<Text>Diğer Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_ERA_SCORE_HEADER">
+			<Text>Çağ Puanınız:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_SCORE_SOURCE">
+			<Text>{2_EraScoreSourceType} kaynağından {1_EraScoreNumber}</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Gelecek çağda [ICON_GLORY_GOLDEN_AGE] Altın Çağ kazanma eşiği: {1_thresh} veya üzeri</Text>
+		</Row>
+		<Row Tag="LOC_DARK_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Gelecek çağda [ICON_GLORY_DARK_AGE] Karanlık Çağ'dan kaçınma eşiği: {1_thresh} veya üzeri</Text>
+		</Row>
+		<Row Tag="LOC_ERA_STABILITY_HEADER">
+			<Text>İstikrar Puanınız:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_SCORE_LEADERBOARD_TITLE">
+			<Text>Çağ Puanı</Text>
+		</Row>
+		<Row Tag="LOC_ERA_STABILITY_LEADERBOARD_TITLE">
+			<Text>İstikrar Puanı</Text>
+		</Row>
+		<!-- Golden/Dark Ages -->
+		<Row Tag="LOC_NEW_TURN_PANEL_NEXT_ERA_COUNTDOWN">
+			<Text>{2_EraName} {1_TurnsRemaining} {1_TurnsRemaining : plural 1?Tur; other?Tur;} içinde sona eriyor</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_ENTERED_NEW_ERA">
+			<Text>Dünya {1_EraName} çağına giriyor.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_GOLDEN_AGE">
+			<Text>Uygarlığınız geçen çağda büyük bir refaha erişti ve bu çağ için sizi bir Altın Çağ'a taşıdı!</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_DARK_AGE">
+			<Text>Uygarlığınız geçen çağda sarsıldı ve bu çağ için bir Karanlık Çağ'a yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_GOLDEN_AGE_DESCRIPTION">
+			<Text>Altın Çağlar, Tarihi Anları tetikleyerek kazanılır ve güçlü bonuslar sağlar.[NEWLINE]Şu oyuncular bu çağ için bir Altın Çağ kazanmıştır:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_DARK_AGE_DESCRIPTION">
+			<Text>Karanlık Çağlar, Orta Çağ'dan itibaren mümkün hale gelir ve büyük veya az gelişmiş uygarlıklara zorluklar çıkarır. Tüm şehirlerde -1 [ICON_Amenities] Olanak ve -%50 Büyüme. Bir oyuncu sonraki çağda tekrar Karanlık Çağ'a girerse, şehirlerinin yarısı harabeye dönüşerek barbar kampları haline gelir.[NEWLINE]Şu oyuncular bu çağ için bir Karanlık Çağ'a girmiştir:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_NO_MET_PLAYERS">
+			<Text>(Tanıştığınız oyuncu bulunmamaktadır)</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_HEROIC_AGE_ACHIEVED">
+			<Text>Bir Kahramanlık Çağı kazandığınız için üç Adanma yapabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_GOLDEN_AGE_ACHIEVED">
+			<Text>Bir Altın Çağ kazandığınız için bir Adanma yapabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_DARK_AGE_ACHIEVED">
+			<Text>Bir Karanlık Çağ kazandığınız için bir Adanma yapabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_NORMAL_AGE_ACHIEVED">
+			<Text>Normal bir Çağ kazandığınız için bir Adanma yapabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_PREVIOUS_ERA_TOTAL_SCORE">
+			<Text>Önceki çağlardan toplam puan</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_EFFECTS_ACTIVE_THIS_AGE">
+			<Text>BU ÇAĞDA AKTİF OLAN ETKİLER:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_YOU_WILL_EARN_BLANK_AGE_NEXT_ERA">
+			<Text>Gelecek çağda bir {1_AgeName} kazanacaksınız.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

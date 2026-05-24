@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_WAR">
+			<Text>[SIZE_16]Savaş İlanı[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_NAME">
+			<Text>Savaş İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_DESCRIPTION">
+			<Text>Anında savaş başlatmak için kullanılır.</Text>
+		</Row>
+		<Row Tag="DIPLOACTION_KEEP_DONT_ATTACK_CITY_STATE">
+			<Text>Şehir Devletlerine Saldırmamaya Söz Ver</Text>
+		</Row>
+		<Row Tag="DIPLOACTION_KEEP_DONT_ATTACK_ALLY">
+			<Text>Müttefiklerime Saldırmamaya Söz Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO">
+			<Text>[COLOR_Civ6DarkRed]{1_WarmongerLevel}[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet üretir</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO_SUZERAIN">
+      <Text>[COLOR_Civ6DarkRed]{1_WarmongerLevel}[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet üretir (Süzeren)</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO_ENVOYS_PRESENT">
+      <Text>[COLOR_Civ6DarkRed]{1_WarmongerLevel}[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet üretir (Elçiler Mevcut)</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOACTION_WORLD_CONGRESS_TAB_TOOLTIP">
+			<Text>[ICON_STAT_GRIEVANCE] Şikayet kaydını görüntüleyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_REPORT_GRIEVANCES">
+			<Text>İstihbarat Raporu: Şikayet Kaydı</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_COMING_SOON">
+			<Text>Şikayet kaydı, çok yakında...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_GRIEVANCES">
+			<Text>Şikayetler</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_AMOUNT">
+			<Text>Miktar</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_TURN">
+			<Text>Tur</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_REASON">
+			<Text>Neden</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INTEL_NO_GRIEVANCES">
+			<Text>Bu liderle ilgili [ICON_STAT_GRIEVANCE] Şikayet geçmişi bulunmamaktadır.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+      <Text>Anında savaş başlatmak için kullanılır. [ICON_STAT_GRIEVANCE] Şikayet üretimi normalin %50 üzerinde artar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Şehirlerinizden birini dinî olarak dönüştürmüş bir güce savaş ilan etmek için kullanılır. Normal [ICON_STAT_GRIEVANCE] Şikayetin yarısı üretilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Dostlarınızdan veya müttefiklerinizden bir şehri ele geçirmiş bir güce savaş ilan etmek için kullanılır. Bu şehirlerden herhangi birini kurtarmak için [ICON_STAT_GRIEVANCE] Şikayet üretilmez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Şehirlerinizden birini ele geçirmiş bir güce savaş ilan etmek için kullanılır. [ICON_STAT_GRIEVANCE] Şikayet üretilmez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Müttefik şehir devletlerinizden birine saldıran bir güce karşı savaş ilan etmek için kullanılır. O şehir devletini kurtarmak için [ICON_STAT_GRIEVANCE] Şikayet oluşmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Sizden iki teknoloji çağı geride olan bir güce karşı savaş ilan etmek için kullanılır. Normal [ICON_STAT_GRIEVANCE] Şikayet'in yarısı kadar oluşur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>İmparatorluğunuzla sınırı olan bir güce karşı savaş ilan etmek için kullanılır. Şehirlerinizden en az 2'si, rakiplerinizin 2 şehrine 10 kare mesafede olmalıdır. [ICON_STAT_GRIEVANCE] Şikayet oluşumunda %25 azalma sağlanır.</Text>
+		</Row>	
+		<Row Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>Bir Altın Çağ'da "Silah Başına!" Adanması ile birlikte bir oyuncuya savaş ilan etmek için kullanılır. Bir uygarlığı Kınadıktan hemen sonra, normal tur bekleme süresi olmadan kullanılabilir. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur. [ICON_STAT_GRIEVANCE] Şikayet oluşumunda %75 azalma sağlanır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Son 30 tur içinde size verdiği sözü bozan bir oyuncuya savaş ilan etmek için kullanılır. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur. Normal [ICON_STAT_GRIEVANCE] Şikayet'in yarısı kadar oluşur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Farklı bir 3. Kademe hükümete sahip bir oyuncuya savaş ilan etmek için kullanılır. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur. Normal [ICON_STAT_GRIEVANCE] Şikayet'in yarısı kadar oluşur.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_PLAYER_HAS_NO_CAP_ROOM">
+			<Text>Bu öğenin azami miktarına zaten sahipsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_AI_HAS_NO_CAP_ROOM">
+			<Text>Onlar bu öğenin azami miktarına zaten sahipler.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

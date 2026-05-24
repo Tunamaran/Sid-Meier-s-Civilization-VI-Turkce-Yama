@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Portugal: Building Info -->
+		<Row Tag="LOC_BUILDING_NAVIGATION_SCHOOL_NAME">
+			<Text>Seyrüsefer Okulu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NAVIGATION_SCHOOL_DESCRIPTION">
+			<Text>Portekiz'e özgü bir bina. Bu şehirdeki deniz birimlerine yönelik [ICON_PRODUCTION] Üretim +%25. Bu şehirdeki her iki kıyı veya göl bölgesi için +1 [ICON_SCiENCE] Bilim. Tur başına +1 [ICON_GreatAdmiral] Büyük Amiral ve +1 [ICON_GreatScientist] Büyük Bilim İnsanı puanı.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_TERRAIN_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} Araziden</Text>
+		</Row>
+		<!-- Portugal: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_NAME">
+			<Text>Portekiz</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_DESCRIPTION">
+			<Text>Portekiz İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PORTUGAL_ADJECTIVE">
+			<Text>Portekiz</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PORTUGAL_NAME">
+			<Text>Casa da Índia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PORTUGAL_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları bir kıyı şehrinden başlamalı ve yalnızca kıyıda veya Limanı olan şehirlere ulaşabilir, ancak tüm getirilerde +%50 kazanır. Tüccar birimleri su üzerinde +%50 menzile sahiptir ve kullanıma açılır açılmaz denize açılabilir.</Text>
+		</Row>
+		<!-- Portugal: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_FEITORIA_NAME">
+			<Text>Feitoria</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FEITORIA_DESCRIPTION">
+			<Text>Portekiz'e özgü olan Nau'nun Feitoria inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+4 [ICON_Gold] Altın ve +1 [ICON_Production] Üretim sağlar. Portekiz'den bu şehre gönderilen ticaret yolları +4 [ICON_GOLD] Altın ve +1 [ICON_PRODUCTION] Üretim kazanır. Yalnızca Açık Sınırlara sahip olduğunuz diğer Uygarlıkların veya Şehir Devletlerinin topraklarındaki Lüks veya Bonus kaynaklarının yanına inşa edilebilir. Karaya bitişik bir Kıyı veya Göl bölgesine inşa edilmeli ve başka bir Feitoria'ya bitişik olmamalıdır. Feitorialar kaldırılamaz.</Text>
+		</Row>
+		<!-- Portugal: Leader Info -->
+		<Row Tag="LOC_LEADER_JOAO_III_NAME">
+			<Text>João III</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JOAO_III">
+			<Text>João III, inançlarına sımsıkı sarılıyor ve başkalarını bu inançlara yönlendiriyorsun. Dinini ve ticaret ağlarını kıyılarının ötesine yayarken, halkına refah getir ki onlar daha önce görülmemiş yeni varoluş biçimleri deneyimleyebilsin.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JOAO_III_NAME">
+			<Text>Porta do Cerco</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JOAO_III_DESCRIPTION">
+			<Text>Tüm birimler +1 görüş kazanır. Bir uygarlıkla karşılaşıldığında +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi. Tüm şehir devletleriyle Açık Sınırlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_NAME">
+			<Text>Porta do Cerco</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PORTA_DO_CERCO_EXTRA_SIGHT_DESCRIPTION">
+			<Text>Porta do Cerco özelliğinden +1 Görüş.</Text>
+		</Row>
+		<!-- Portugal: Unit Info -->
+		<Row Tag="LOC_UNIT_PORTUGUESE_NAU_NAME">
+			<Text>Nau</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PORTUGUESE_NAU_DESCRIPTION">
+			<Text>Karavel'in yerini alan Portekiz'e özgü deniz yakın dövüş birimi. 1 ücretsiz Terfi ile başlar ve bakım maliyeti daha düşüktür. Feitoria inşa etmek için iki kullanım hakkına sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAU_NAME">
+			<Text>Nau</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAU_DESCRIPTION">
+			<Text>1 ücretsiz terfi ile başlar.</Text>
+		</Row>
+		<!-- Portugal: Game mode info -->
+		<Row Tag="LOC_GAMEMODE_TOWERDEFENSE_NAME">
+			<Text>Zombi Savunma Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_TOWERDEFENSE_DESCRIPTION">
+			<Text>Bu oyun modunda ölüler dirilir ve yaşayanların arasında dehşet saçar! Yeni savunma yapıları kullanarak topraklarınızı koruyun, zombileri yönlendirerek rakiplerinizi yavaşlatın.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_ZOMBIES_KILLED">
+			<Text>Öldürülen Zombiler</Text>
+		</Row>
+		<!-- Highlands-->
+		<Row Tag="LOC_MAP_WETLANDS_NAME">
+			<Text>Sulak Alanlar</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WETLANDS_DESCRIPTION">
+			<Text>Kıtaların nehirler ve bataklıklarla örüldüğü bir harita. Ayrıca fazladan Ormanlar, Taşkın Ovaları ve Yağmur Ormanları bulunur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tree Randomizer -->
+		<Row Tag="LOC_GAMEMODE_TREE_RANDOMIZER_NAME">
+			<Text>Teknoloji ve Yönetim Biçimi Karıştırma Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_TREE_RANDOMIZER_DESCRIPTION">
+			<Text>Bu oyun modu, teknolojileri ve yönetim biçimlerini kendi tarihsel çağları içinde karıştırarak normalden farklı maliyetlere ve ön koşullara yol açar. Ortaya çıkan ağaçlar tüm oyuncular için aynıdır. Ayrıca bir ön koşul elde edilene kadar teknolojiler ve yönetim biçimleri gizli kalır; böylece keşfetmenin gizemi oyunun sonuna kadar korunur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

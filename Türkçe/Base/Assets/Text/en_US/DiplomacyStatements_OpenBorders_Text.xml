@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ah, pekâlâ. Geçebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Mısır'a girebilirsiniz, ancak kadim mirasımıza saygı göstermek şartıyla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>İzin vereceğim, umarım Almanya'nın iyiliği içindir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Sümer'den geçebilirsin dostum. Ama halkımı rahatsız etme.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sınırlarımı açıyorum, ama Sparta'da fazla oyalanma.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Evet, keşfedin. Dünya tek bir yerde kalmak için fazla büyük.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Halkınız sınırlarımızdan geçebilir, ancak geleneklerimizi onurlandırmalılar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Evet, Demokrasi'den geçmenize izin vereceğiz. Belki bizden bir şeyler öğrenir, belki biz de sizden bir şeyler öğrenebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Pekâlâ, işbu vesileyle topraklarımdan geçme iznini veriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Evet, topraklarımdan geçebilirsiniz. Bu kadar büyük bir krallığın geçişine izin vermemek adil olmazdı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Elbette geçebilirsiniz. Orta Krallık'a ne gibi bir tehdit oluşturabilirsiniz ki?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Evet, topraklarımızdan geçebilirsiniz, tabii topraklarımız bizim olduğu sürece. Bu pazarlığı her zaman savaşa tercih ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Topraklarımızı birliklerinize açmaktan mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Ortak barış arzumuzu minnetle kabul ederek, birliklerinizi kendi topraklarımızda ağırlıyoruz.</Text>
+		</Row>
+		
+		<!-- AI rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_ANY_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ne yazık ki buna izin veremem. Güvenlik açısından, elbette.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Mısır'a giremezsiniz. Bu topraklara yalnızca layık olanlar ayak basabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Düşmanlarıma topraklarımdan geçit vermek için bir budala olarak doğmadım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Hayır, Sümer'den geçemezsiniz. Topraklarıma yalnızca gerçek müttefiklerim girebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sen, Eurotas'ta yıkanmamış, agoge nedir bilmeyen biri olarak Sparta'dan geçemezsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Bir zamanlar krallığımı böyle bir ihanet yüzünden kaybettim… Aynı hatayı tekrar yapmayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Arzıpak Topraklar sana yasaklanmıştır. Kendine sor: 'Neden?'</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Ne yazık ki, Demokrasi şu an geçişinize izin verilmemesi yönünde oy kullandı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Anavatan'a potansiyel bir tehdidi sokamam. Anlayışını umarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Tebaanızı zehirli yollarınızla yozlaştırmanıza izin vermeyeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Hayır, yabancıların muhteşem imparatorluğumuzu kirletmesine izin vermem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Tek gerçek Tanrı'nın lütfu ve merhameti adına, yabancıların O'nun kutsal topraklarını kirletmesine izin veremem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Şu an ilgimizi çekmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Tebaanın güvenliği için, maalesef talebinizi reddetmek zorundayım. Anlayış göstereceğinizi umarım.</Text>
+		</Row>
+		
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ordum, topraklarınızdan geçmek için izin istiyor. Tabii ki barışçıl bir şekilde.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Halkımın topraklarınızdan geçmesine izin verin. Bunu karşılıksız bırakmam…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Ordumu topraklarınızdan geçirmek zorundayım. Buna izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Gilgameş düşmanlarını ezmek için topraklarınızdan geçer, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Spartalılarım topraklarınızdan geçmek istiyor, onları bu cesaret fırsatından mahrum mu bırakacaksınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Vikinglerimin geçmesine izin verir misiniz? Yerlerinde duramaz olduklarında zapt edilmeleri güç olur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Alçakgönüllülükle sınırlarınızdan geçmek için izin talep ediyorum. Barışı koruyacağız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Atina, topraklarınızdan geçmek istiyor. Buna izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Halkım bu dünyada daha fazlasını görmek için topraklarınızdan geçmek istiyor. İzin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>İspanya Krallığı, topraklarınızdan geçmek için müsaadenizi istirham eder. Size bir zarar vermek niyetinde değiliz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY">
+			<Text>Topraklarınızdan geçmek zorundayız ve diyarınıza girmek için mütevazı bir şekilde izin istiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Halkımın topraklarınızdan geçmesine izin verir misiniz? Size temin ederim ki barışçıl olacaklardır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Birimlerimizin topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Askerlerimizin diyarınızdan geçmesi için alçakgönüllülükle erişim talep ediyoruz. Siz ne dersiniz?</Text>
+		</Row>
+		
+		<!-- Human accepts AI, AI respones -->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Harika!</Text>
+		</Row>
+
+		<!-- Human rejects AI, AI respones -->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_AI_ANY_ANY">
+			<Text>Bu talihsiz bir durum.</Text>
+		</Row>
+
+		<!-- Selections -->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_NEGATIVE">
+			<Text>Şu an için ordularınızın sınırlarımız içinde dolaşmasına izin vermeyeceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_CHOICE_POSITIVE">
+			<Text>Birimleriniz topraklarımızdan geçmekte özgürdür.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

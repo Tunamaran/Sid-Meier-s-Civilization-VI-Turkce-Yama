@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MONTEZUMA">
+			<Text>Tlatoani Montezuma, kartal savaşçılarını mutlu ve tok tut ki, daima senin davan için savaşsınlar. Aztek imparatorluğun topraklara yayılırken, surlarını yükseltecek insan asla eksik olmasın; zira etrafındakileri fethettikçe yeni, sadık işçilerle kutsanacaksın. İleri atıl; Huitzilopochtli çağırıyor.</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_1">
+			<Text>Acamapichtli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_2">
+			<Text>Chimalli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_3">
+			<Text>Cuauhtemoc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_4">
+			<Text>Huitzilli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_5">
+			<Text>Itzcoatl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_6">
+			<Text>Nochehuatl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_7">
+			<Text>Tlaloc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_8">
+			<Text>Xiuhpilli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_9">
+			<Text>Yaotl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MALE_10">
+			<Text>Zolin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_1">
+			<Text>Centehua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_2">
+			<Text>Chalchiuitl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_3">
+			<Text>Chicomecoatl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_4">
+			<Text>Chimalma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_5">
+			<Text>Citlalli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_6">
+			<Text>Cozamalotl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_7">
+			<Text>Tlacotl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_8">
+			<Text>Xilonen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_9">
+			<Text>Xochitl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_FEMALE_10">
+			<Text>Yaretzi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_1">
+			<Text>Carlos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_2">
+			<Text>Estévan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_3">
+			<Text>Ignacio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_4">
+			<Text>José</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_5">
+			<Text>Montago</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_6">
+			<Text>Niguel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_7">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_8">
+			<Text>Richardo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_9">
+			<Text>Teyo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_MALE_10">
+			<Text>Tino</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_1">
+			<Text>Amorita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_2">
+			<Text>Bellona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_3">
+			<Text>Eldora</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_4">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_5">
+			<Text>Luminosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_6">
+			<Text>Orlena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_7">
+			<Text>Perdita</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_8">
+			<Text>Pilar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_9">
+			<Text>Senalda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AZTEC_MODERN_FEMALE_10">
+			<Text>Zola</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TENOCHTITLAN">
+			<Text>Tenochtitlan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEXCOCO">
+			<Text>Texcoco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ATZCAPOTZALCO">
+			<Text>Atzcapotzalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEOTIHUACAN">
+			<Text>Teotihuacán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TLACOPAN">
+			<Text>Tlacopán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XOCHICALCO">
+			<Text>Xochicalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALINALCO">
+			<Text>Malinalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEAYO">
+			<Text>Teayo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CEMPOALA">
+			<Text>Cempoala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHALCO">
+			<Text>Chalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IXTAPALUCA">
+			<Text>Ixtapaluca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TENAYUCA">
+			<Text>Tenayuca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUEXOTLA">
+			<Text>Huexotla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHAPULTEPEC">
+			<Text>Chapultepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEPEXPAN">
+			<Text>Tepexpan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZITLALTEPEC">
+			<Text>Zitlaltepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XALAPA">
+			<Text>Xalapa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAMUIN">
+			<Text>Tamuín</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELOLOAPAN">
+			<Text>Teloloapan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MITLA">
+			<Text>Mixquic</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TLATELOLCO">
+			<Text>Tlatelolco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COYOTEPEC">
+			<Text>Coyotepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZACATULA">
+			<Text>Zacatula</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YUCUNUDAHUI">
+			<Text>Yucuñudahui</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ECATEPEC">
+			<Text>Ecatepec</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAZATAN">
+			<Text>Mazatán</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IZTAPALAPA">
+			<Text>Iztapalapa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TLALMANALCO">
+			<Text>Tlalmanalco</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUAXYACAC">
+			<Text>Huaxyacac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ACATITLAN">
+			<Text>Acatitlan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AZTEC_DESCRIPTION">
+			<Text>Aztek İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AZTEC_ADJECTIVE">
+			<Text>Aztek</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_LOCATION">
+			<Text>Kuzey Amerika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_SIZE">
+			<Text>Yaklaşık 117,5 bin mil kare (304 bin km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_POPULATION">
+			<Text>En geniş sınırlarında yaklaşık 5,1 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AZTEC_CAPITAL">
+			<Text>Tenochtitlan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_TLACHTLI_NAME">
+			<Text>Aztek eşsiz binası: Tlachtli</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+			<Text>Aztek eşsiz birimi: Kartal Savaşçısı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_1">
+			<Text>Hernando Cortes ve haylazlardan oluşan çetesi geldiğinde Aztek İmparatorluğu henüz çocukluk çağındaydı; zira (aşağı yukarı) MS 1428'de kurulmuştu. Ne var ki Excan Tlahtoloyan (Aztek İmparatorluğu) yalnızca yüz yıl hüküm sürmüş olsa da, bu yüz yıl olaylarla dolu bir dönemdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_2">
+			<Text>Başlangıçta... Meksika Vadisi'nde, Zumpango, Xaltocan, Texcoco, Xochimilco ve Chalco adlı birleşik göllerin kıyılarına dağılmış birçok küçük altepetl (şehir devleti) bulunuyordu. Bölge bol yağışlı ve ılıman bir iklime sahipti; toprakları da verimliydi. Bu nedenle Nahualar (Mexihcatiler olarak da bilinir) halkları, 1250 civarında Aztlan'dan (“Beyaz Diyar” – dolayısıyla “Aztekler”) güneye göç ederek buraya yerleşmeye çalıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_3">
+			<Text>Ne yazık ki, bölgede başka kabileler de vardı; özellikle Azcapotzalco ve Culhuacan. Güçlü Azcapotzalco, 1325 yılında göçebe Azteklere Texcoco Gölü'ndeki küçük bir adaya yerleşme izni verdi ve Aztekler burada Tenochtitlan şehrini kurdular. Efsaneye göre yer, bir rahibin bir nopal kaktüsünde yuva yapan bir kartal görmesi üzerine seçilmişti – bu, buranın seçilmiş yer olduğuna işaretti. Tenochtitlan büyümek için mükemmel bir konumdaydı: bir ada olduğu için kolay savunulabilir, bol su ve balık kaynağına sahip ve yakınlarda inşaat malzemeleri mevcuttu. Aztekler, şimdilik kendi hallerine bırakılmak için Azcapotzalkolara haraç ödemeye razı görünüyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_4">
+			<Text>Aztekler bir yüzyıl boyunca Azcapotzalkolara tabi kaldı. Bu sırada başka bir altepetl huzursuzlanmaya başladı. Göl havzasının güney ucunda yer alan Alcohua şehir devleti Texcoco, ticaretle zenginleşerek Azcapotzalkolara üstünlük kurma noktasına geldi. Çıkan savaşta Tenochtitlan, Azcapotzalkolara sadık kaldı ve Texcoco'nun fethinde hayati bir rol oynadı. Sonuç olarak Aztekler, sadakatlerinin ödülü olarak mağlup şehri haraç veren bir eyalet olarak aldılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_5">
+			<Text>İşler, Azcapotzalco kralı Tezozomoc'un 1426'da ansızın ölümüne dek oldukça hoş gidiyordu. Ardından gelen kısa iç savaşta Tenochtitlan Aztekleri, yaşlı kralın tercih ettiği varisi Tayahuah'ı destekledi – ki bu pek de iyi bir seçim olmadı. Kardeşi Maxtla kazandı ve derhal Tayahuah'ı destekleyenleri cezalandırmaya girişti. Bu karışıklığın ortasında Aztek kralı şüpheli koşullar altında öldü; muhtemelen Maxtla'nın emriyle öldürüldü. Ancak yeni kral Itzcoatl meydan okumaya devam etti; bunun üzerine Maxtla şehri kuşattı, adayı ablukaya aldı ve kayıtsız şartsız teslimiyet talep etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_6">
+			<Text>Eş zamanlı olarak Maxtla, pek sevmediği Texcoco'daki Alcohualara da yöneldi. Texcoco hükümdarı Nezahualcoyotl sürgüne kaçtı ve Itzcoatl'a katılmak üzere yola çıktı. Muhalif Azcapotzalco şehri Tlacopan da Itzcoatl'a desteğini sundu. Böylece meşhur Üçlü İttifak kuruldu: ortak bir amaç etrafında birleşen üç şehir devleti, Maxtla'yı devirmek. Bu hedef 1427'nin sonunda gerçekleştirildi. Azcapotzalco'yu tamamen ezip geçen üç kral, 'uyum içinde' yaşamayı kabul etti. İlk işleri mağlup edilenlerin topraklarını paylaşmak oldu; Tenochtitlan aslan payını kaptı. Bu başarıdan öylesine memnun kaldılar ki üç şehir ittifaklarını resmileştirdi. Anlaşma hükümlerine göre tüm haraç paylaşılacak ve üçü de gelecekteki fetih savaşlarına katılarak ganimetleri ortaklaşa bölüşecekti. Kralların her biri, sırayla huetlatoani (“kıdemli konuşmacı”) unvanını alarak fiilen ittifakın imparatoru olarak hizmet ediyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_7">
+			<Text>Sonraki yüzyıl boyunca, bir dizi yetenekli kıdemli konuşmacının yönetiminde Aztek İttifakı, komşularını ezerek Mezoamerika boyunca Atlantik'ten Pasifik'e uzanana dek gelişti. Aslında bu 'imparatorluk', ister toplumsal ister belki dinsel bir zorunluluk olsun, neredeyse sürekli bir savaş halinde varlığını sürdürdü. Aztek Weltanschaung'unda (dünya görüşünde) ölüm, yaşamın devamı için araçsaldı ve doğal düzen içinde hem tanrılar hem de insanlar, yaratılışı dengede tutmak için fedakarlık yapmak zorundaydı. Ve kan – hayvan kanı işe yaramadığı için insan kanı – güneşin düşmesini engelliyordu. Vatandaşlar kan akıtacak kişiler olmaya pek istekli olmadığından, daha alt tabakadaki insanları – mahkumları (bu nedenle çok sayıda çarpışma ihtiyacı), köleleri, hizmetkarları ve yoksulları kullanmak doğaldı. Kurbanların boyutları akıl almazdı; örneğin 1487'de Tenochtitlan'daki Templo Mayor'un (Büyük Piramit) adanmasında tarihçiler 10 ila 80 bin kişinin, genellikle başları kesilerek öldürüldüğünü tahmin etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_8">
+			<Text>Aztekler kanlı ritüellerle kutlama yapmadıkları zamanlarda, Amerika kıtasında eşi benzeri olmayan bir kültür ve bilim geliştirdiler. Örneğin, karmaşık Aztek takvimi, Avrupa veya Asya'da geliştirilen herhangi bir takvimle eş değerdi. Tonalpohualli (“gün sayımı”) 260 günlük bir döngüden oluşuyordu; her gün bir ila on üç arası bir sayı ve yirmi gün işaretinden biriyle temsil ediliyordu. Xiuhpohualli veya “yıl sayımı” ise yılı her biri yirmi günlük on sekiz döneme ayırıyordu. Bu şekilde bir yıl, 360 adlandırılmış gün ve beş adlandırılmamış günden oluşuyordu; bu adlandırılmamış günler uğursuz kabul edilirdi (ki kötü karmayı dengelemek için o günlerde kurban edilenler için kesinlikle öyleydi). Bu takvimin, gökyüzünü yoğun bir şekilde incelemelerinden doğduğu düşünülüyor; çünkü astronomiyi bir sanat formuna dönüştürmüşlerdi. Aztekler tüm bunları amate adı verilen bir ağaç kabuğu kağıdına, kendilerine özgü ideografik sistemleriyle yazıya döktüler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_9">
+			<Text>Itzcoatl 1440'ta vefat ettiğinde yerine yeğeni Montezuma (birinci; daha az yetenekli olan ikincisiyle karıştırılmamalıdır) geçti. Montezuma'nın büyük üvey kardeşi Tlacaelel ise Cihuacoatl, yani kabaca bir Avrupa başbakanının eşdeğeri olarak atandı. Ardından ikili, Tenochtitlan'ı ittifakın baskın ortağı haline getirerek fiilen bir Aztek İmparatorluğu'nun kurulmasını sağladı. Montezuma fetih kısmını üstlendi – Huastekleri, Totonakları, Mikstekleri, Cosamaloapanları, Orizabaları ve Cotaxtlaları ezip geçti. Tlacaelel ise Aztek uygarlığını kendi vizyonuna göre yeniden şekillendirmekle meşguldü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_10">
+			<Text>Montezuma savaşla meşgulken, Tlacaelel kelimenin tam anlamıyla Aztek geçmişini ve geleceğini yeniden yazdı; bazı kaynaklara göre 'tarihsel yanlışlıklar' nedeniyle yüzlerce metnin yakılmasını emretti. Tlacaelel'in yönetiminde yeniden yapılandırılan Aztek dini, Azteklerin seçilmiş bir halk olduğunu ve diğerlerinin üzerinde olmaya mahkum olduğunu savunuyordu. Tlacaelel ayrıca 'yeni' Aztek teolojisinde militarizmin ve ritüel kurbanın önemini vurguladı. Onun nezaretinde, Tenochtitlan'daki Templo Mayor da dahil olmak üzere bir dizi tapınak ve dini yapı inşa edildi; bu yapı, yeni yüce tanrı Huitzilopochtli'ye adanmıştı (birçok kurbanla birlikte).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_11">
+			<Text>Aztekler, iki kardeşin yönetiminde otuz yıl boyunca gelişti. Montezuma ile imparatorluk yüz bin mil kareye yayıldı ve yaklaşık beş milyon tebaa onun egemenliği altına girdi. Tlacaelel ile birlikte, tabi kabileler, talep edildiğinde gerekli haraç (elbette kurbanlık bağışları da dahil) ve askeri güç sağlandığı sürece büyük ölçüde kendi hallerine bırakıldı. Tenochtitlan büyük bir ticaret ağının merkezi haline geldi ve Aztek tüccarları dost ve düşman ayrımı yapmaksızın iş yapmaktan mutluluk duyuyordu. Herhangi bir para birimi olmadığından ticaret takasa dayanıyordu. Yük hayvanları veya tekerlekli taşıtlar bulunmadığından, her şeyin insanlar tarafından bir yerden bir yere taşınması gerekiyordu; Tlacaelel, yaya trafiği için tasarlanmış geniş bir yol sisteminin inşasını denetledi. Yollar sürekli kullanımdaydı ve Aztek ordusu tarafından korunuyordu; bu sayede kadınlar bile tek başına seyahat edebiliyordu. Ayrıca her mahallede, erkek çocukların dini eğitim ve askeri talim aldığı devlet destekli telpochcalli (okullar) yaptırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_12">
+			<Text>I. Montezuma 1468'de vefat etti ve yerine oğlu Axayacatl geçti; o da 13 yılını babasının fetihlerini pekiştirerek, çeşitli isyanları bastırarak ve kendini beğenmiş Tarasken İmparatorluğu'na karşı koyarak geçirdi. (Tlacaelel 1487'de öldü – kuşkusuz birçokları için büyük bir rahatlama.) Axayacatl öldüğünde yerine, son derece beceriksiz kardeşi Tizoc geçti; Tizoc, beş yıl sonra soyluları tarafından öldürüldü. Ardından 1486'da bir başka kardeş – Ahuitzotl – tahta çıktı ve daha başarılı olduğunu kanıtladı; nüfusu (öldürülen veya topluca kurban edilen) tamamen yok olan Otzoma şehir devletini fethetti ve birkaç tartışmalı sınır bölgesinde bir dizi kale inşa etmeye başladı. Ahuitzotl, Yıl 10 Tavşan'da (karmaşık Aztek takvimine atıfla) öldü. Yeğeni II. Montezuma tahta çıkarıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_13">
+			<Text>Yeni Montezuma'nın saltanatı uğursuz başladı... ve sonra daha da kötüye gitti. Ahuitzotl'un daha yetenekli danışmanlarını görevden aldı ve çoğunu idam ettirdi. Ardından Aztek toplumundaki quauhpilli sınıfını – bir tür yarı-soylu tabakayı – kaldırarak sıradan insanların ailelerini ilerletme şansını yok etti. Böylece alt tabakaların imparatorluğa askeri ya da başka bir şekilde hizmet etme motivasyonu kalmadı. En güçlü soylu aileleri kızdırıp halkı küstüren Montezuma, Şubat 1519'da Aztek kapısına dayanan açgözlü İspanyolların meydan okumasıyla başa çıkmak için söylemeye gerek yok ki yeterince hazırlıklı değildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_14">
+			<Text>O yılın başlarında, Hernando Cortes komutasındaki bir sefer – yaklaşık 11 gemi, 630 adam, 13 at ve birkaç küçük toptan oluşan – Maya İmparatorluğu'nun bir parçası olan Yucatan'a çıktı. Gerçekte, Cortes'in seferinin izni, limandan ayrılmadan önce Küba'nın İspanyol valisi tarafından iptal edilmişti; ancak Cortes, açık bir isyan hareketiyle emirleri hiçe sayarak yine de denize açıldı (sanırım talih gerçekten de 'cüretkar ve budalayı kayırıyor'). Birkaç maceranın ardından konkwistadorlar, Veracruz'daki küçük yerli yerleşimine giderek onu ele geçirdiler; burada, vasal devletlerin birkaç Aztek valisiyle karşılaştılar. Bu ikisi, Cortes ile II. Montezuma arasında bir görüşme ayarlamayı kabul etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_15">
+			<Text>Ancak Montezuma, İspanyol 'elçisini' kabul etmeyi inatla reddetti; bunun üzerine Cortes, davetsiz bir şekilde Tenochtitlan'a doğru yola çıktı. Çoğu davetsiz misafir gibi İspanyollar da arkalarında kaos bıraktı. Başkente doğru ilerlerken, macera, yağma veya intikam peşindeki bir grup yerli savaşçı da kafilesine katıldı. Cortes, büyük Cholula şehrine vardı. Orada neşeli tayfası, dünyanın hacim bakımından en büyük piramidinin önündeki meydanda toplanmış silahsız yerel Aztek soylularından binlercesini katletti. Ardından, üstüne üstlük İspanyollar şehri yaktı. Ezilen Aztek vasalları tüm bu kan dökülmesinden öylesine etkilendiler ki daha fazlası sefere katıldı. Cortes Tenochtitlan'a ulaştığında oldukça büyük bir takipçi kitlesine sahipti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_16">
+			<Text>Kaçınılmaz olana boyun eğen II. Montezuma, İspanyolları barışçıl bir şekilde şehre kabul etti, görüşmek ve konuşmak üzere. Cortes tam da bu sırada onu esir aldı. Uzun lafın kısası, sonunda Aztekler Montezuma'yı taşlayarak öldürdü ve İspanyolları başkentlerinden kovdu. Ancak Cortes takviye kuvvetlerle geri döndü ve Tenochtitlan'ı kuşatmaya başladı. Tüm o ateşli silahlar, toplar ve atlar (Azteklerin en çok etkilendiği şey) karşısında şehir kısa sürede düştü ve yerle bir edildi... Ağustos 1521'de Azteklerin son hükümdarı Cuauhtémoc yakalandı ve daha sonra idam edildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AZTEC_CHAPTER_HISTORY_PARA_17">
+			<Text>Kanlı Aztek efendileri gitmişti ve imparatorluk, şimdi İspanyol süzerenliği altında, yeniden ayrı şehir devletlerine bölündü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_TITLE">
+			<Text>I. Montezuma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_SUBTITLE">
+			<Text>Tenochtitlan Huetlatoanisi, Azteklerin Beşinci Tlatoanisi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_QUOTE">
+			<Text>Güneş doğduğu anda sıcak değildir; yolunda bir süre ilerledikten sonra kızar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_1">
+			<Text>Motecuhzoma Ilhuicamina (her dilde ağzı dolduracak bir isim), Azteklerin beşinci tlatoanisiydi ('seçilmiş imparator'). 29 yıllık saltanatı boyunca, yakındaki Tlacopan ve Texcoco ile olan elverişli ittifakı sürdürerek şehri Tenochtitlan'ı bölgenin baskın gücü haline getirdi. Üçü birlikte, tüm komşularını – belirli bir sıra olmaksızın: Huastekleri, Totonakları, Mikstekleri, Cosamaloapanları, Orizabaları ve Cotaxtlaları – ezmeye giriştiler. Üçlü ittifakın şartlarına göre Tenochtitlan, fethedilen toprakların yaklaşık %40'ını alıyordu; Montezuma'nın hayatının sonunda Aztek imparatorluğu, Meksika Vadisi'nin çok ötesine, Körfez Kıyısı'na kadar genişlemişti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_2">
+			<Text>Montezuma (adı kabaca 'bir lord gibi kaş çatan' anlamına gelir) soylu bir aileden geliyordu. Babası Huitzilihuitl, Tenochtitlan kralıydı, annesi Miahuaxihuitl ise Cuauhnahuac şehrinin hükümdarının kızıydı. Kendisi, ağabeyi Tlacaelel I'in de aralarında bulunduğu dört kardeşten biriydi. Babasının MS 1417'de ölümünün ardından Montezuma'nın amcası Itzcoatl tlatoani seçildi; Tlacaelel I, Itzcoatl'ın danışmanlarından biri (daha doğrusu Nahuatl dilinde 'İlk Danışman' anlamına gelen Nahuati) olurken, Montezuma da Aztek ordusunda general olarak hizmet verdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_3">
+			<Text>Itzcoatl'ın MS 1440'ta ölümünün ardından Montezuma imparator seçildi. Tlacaelel I, kendisinin atlanmasından hiç de mutsuz görünmüyordu (belki de tacı takmazsa daha uzun yaşayacağını düşünüyordu) ve rivayetlere göre kardeşine sadakatle hizmet etti. Üstelik Tlacaelel I'in dini işlerle başı fazlasıyla meşguldü. Bunlar arasında, Aztekleri seçilmiş bir halk olarak tasvir eden efsaneleri yeniden yorumlamak, küçük bir tanrı olan Huitzilopochtli'yi (savaş ve güneş tanrısı, kısa süre sonra da Tenochtitlan'ın hamisi) yüceltmek ve militarizmi inançla birleştirmek vardı. Ayrıca tanrılara yapılan insan kurban etme uygulamalarının kapsamını ve sıklığını artırdı – özellikle de sıkıntılı zamanlarda (ki bu çoğu zaman böyleydi).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_4">
+			<Text>Bu arada Montezuma, bir imparator olmasına rağmen nispeten sade bir hayat sürüyordu. İspanyolların Aztekleri fethinden sadece 14 yıl sonra hazırlanan Codex Mendoza'ya göre, 'sadece birkaç eşi' olan 'sade' bir sarayda yaşıyordu. Aslında kayıtlara göre, üçü kardeşi Huehue Zaca'dan miras kalan on haremi vardı. En azından rütbe ve itibar bakımından ilk eşi, aynı zamanda kuzeni olan ve muhtemelen iki prens de dahil olmak üzere üç çocuğunun annesi olan güzel Chichimecacihuatzin'di; ancak hangi çocuğun hangi Montezuma soyundan geldiği biraz muğlâktır. Dini görevler, neslin devamı veya devlet işleriyle meşgul olmadığı zamanlarda arkadaşları ve danışmanlarıyla uzun sohbetler etmekten hoşlandığı söylenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_5">
+			<Text>Bu konuşmaların çoğu, Aztek kentini ve yeni fethedilen toprakları nasıl iyileştirecekleri üzerineydi. Bunlardan biri, Tenochtitlan'a bol miktarda tatlı su sağlamak için inşa edilen çift su kemeriydi ve Aztek İmparatorluğu'nun en büyük mühendislik başarısı olarak kabul edilir. Elbette genişleyen şehir büyüdükçe, aç nüfusunu beslemek için giderek daha fazla gıdaya ihtiyaç duyuyordu. Orta Amerika'da evcilleştirilmiş yük hayvanları bulunmadığından, her bir lokma birinin sırtında şehre taşınmak zorundaydı (ritüel olarak kurban edilmeyen kölelerin yükü). Montezuma'nın hükümeti, yürüme mesafesindeki her bir karış ekilebilir arazinin verimli bir şekilde işlenmesini sağlamak için devlet denetçileri görevlendirdi. İmparator ayrıca sel baskınlarını hafifletmek ve bataklık alanlardan daha fazla tarım arazisi kazanmak için setlerin inşasını emretti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_6">
+			<Text>Kardeşi Tlacaelel I'in teşvikiyle Montezuma, geleneksel olarak mal tüketiminde, özellikle de lüks mallarda aşırılığı sınırlamayı amaçlayan savurganlık karşıtı yasalar çıkardı; bu yasalar, zaten katmanlaşmış olan Aztek sınıf sistemini yasalaştırdı ve güçlendirdi. Bir Aztek'in hayattaki konumu, ne giyebileceğini ve nasıl konuşabileceğini belirliyordu. Örneğin, Montezuma'nın yeni yasalarına göre yoksulların pamuklu kumaş, sandalet veya diz altına kadar uzanan herhangi bir giysi giymesi yasaktı. Soylular dışında kimse birden fazla katlı evlerde yaşayamazdı. Suçlar kölelik veya kurban edilmeyle cezalandırıldığından, yasalara uyma oranı neredeyse evrenseldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_7">
+			<Text>Montezuma ve dindar ağabeyi, Huitzilopochtli'ye adanan yeni bir tapınak da dahil olmak üzere, kırsal kesimde pek çok tapınak inşa etmeye koyuldular. Huitzilopochtli tapınağı, MS 1455'te yüzlerce Huastek savaş esirinin kurban edilmesiyle 'kutsandı' (bazı tarihçiler, kurban edilecek esir ihtiyacının Aztek dış politikasının ana unsurlarından biri haline geldiğini öne sürmüştür). Tlacaelel ayrıca, tarih ve inançla ilgili kendi yorumlarıyla çelişen önceki dini metinlerin yok edilmesini emrederek Aztek dini risalelerini yeniden yazmakla meşguldü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_8">
+			<Text>Ancak Montezuma'nın büyüyen imparatorluğu, öncelikle neredeyse kesintisiz ve başarılı savaş haliyle tanınır. Bazı tarihçiler, en iyi çabalarına rağmen periyodik kıtlıklardan mustarip olmaya devam eden Tenochtitlan'a sürekli bir gıda tedariki sağlamak umuduyla, yakın kabileleri haraç için fethettiğini öne sürüyor. Daha kötümser bir başka teori ise imparatorluğun, kanlı devlet dininin bol miktardaki sunaklarda kurban edilecek birine duyduğu kronik ihtiyacı beslemek için sık sık savaşlar yürüttüğüdür. Bir diğer teoriye göre ise Montezuma'nın çok savaşmasının nedeni, Azteklerin tam da bunu yapmasıydı... toprak fethetmek. Tarihin büyük bölümünde olduğu gibi, hiç kimse olayların neden olduğunu gerçekten bilmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_HISTORY_PARA_9">
+			<Text>I. Montezuma, MS 1469'da, bilinmeyen bir nedenle tarihin tozlu sayfalarına gömüldü. Yerine, 19 yaşındaki oğlu Axayacatl geçti. Axayacatl, daha sonra talihsiz II. Montezuma'nın babası oldu; II. Montezuma, Cortes ve bir avuç derme çatma konkistador karşısında sadece iki yıl içinde her şeyini kaybetmeyi başardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_CAPSULE_BODY">
+			<Text>Montezuma, ele geçirebileceği tüm Lüks Malları toplamak için imparatorluğunu genişleten saldırgan bir yayılmacıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MONTEZUMA_CHAPTER_DETAILED_BODY">
+			<Text>Aztekler oyun boyunca bir savaş kışkırtıcısı olacaktır, ancak gelişen herhangi bir savaş yorgunluğuyla başa çıkmak için bol miktarda [ICON_Amenities] Olanak'a sahip olmalıdırlar. İlk hamleleri, Kartal Savaşçılarıyla düşmanları yenerek bu düşman birliklerinin Aztek İşçilerine dönüşmesini sağlamak olacaktır. Bu İşçiler daha sonra, bölge inşasında İşçi kullanım haklarını kullanma gibi benzersiz yeteneklerinden yararlanarak Aztek şehirlerinin hızla genişlemesi için yakıt görevi görür. Nihayetinde mümkün olduğunca geniş bir imparatorluk isterler çünkü ele geçirebilecekleri her ek Lüks Mal, [ICON_Amenities] Olanaklarını daha da artıracak ve daha güçlü saldırı bonusları sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_AZTEC_EAGLE_WARRIOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Aztek ordusundaki iki seçkin piyade sınıfından biri olan (diğeri Jaguar Savaşçılarıdır) Kartal Savaşçıları, soylu doğumlu ve/veya savaşta en çok esir alan en cesur genç adamlardı. Jaguarlar gibi Kartallar da atlatl, yay, mızrak ve macuahuitl (obsidiyen yongalarıyla kaplı tahta kılıçlar) kullanırdı; Jaguarlardan farklı olarak Kartallar, zırhlarını kartal tüyleriyle süsler ve gagası ardına kadar açık bir kartal başı şeklinde bir başlık takarlardı. Ayrıca Malinalco'da bir tepe tapınakları vardı. Yirmi esir alan – insan kurbanı olarak hizmet edecek kadar sağlam – genç bir savaşçı, şüphesiz ailesini çok gururlandıracak şekilde, Kartal Savaşçısı olmaya hak kazanırdı. İspanyollar topları, tüfekleri ve atlarıyla gelene kadar, Kartal ve Jaguar savaşçıları Mezoamerika bölgesinin en korkulan kabadayılarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Sen Aztecatl'ın dostu değilsin. Bu onuru kazanmalısın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_DESIRED_LUXURY">
+			<Text>Montezuma, sahip olmadığı lüks mallarınızı saldırı için olgun bir hedef olarak görüyor</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_TLATOANI_HAS_NO_DESIRED_LUXURY">
+			<Text>Montezuma, kendisiyle aynı lüks malları kontrol etmenizden memnun</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Teklifinizle kalbim bembeyaz oluyor. Dostluğumuzu kutlayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Bu dünyanın kötülüklerine karşı dostlukla birleşelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Sabrımı sınıyorsunuz...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Askerleriniz savaş alanında ya da bir sunakta ölecek. Huitzilopochtli için bunun bir farkı yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Şimdi göreceğiz bakalım korkak mısınız yoksa savaşçı mı!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli zayıflığımızı bağışlasın… benim zayıflığımı. Sana hizmet edecek kadar güçlü değildim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Heyetinizi onurla ağırlayacağız. Armağanlarınız nazik bir övgüdür.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Bugün değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Heyetim size mısır ve çikolata armağanları getirdi. Bunları size sunuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Korkanlar en yüksek sesle konuşur. Bizden korkuyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Bu dünyaya bir zehirsiniz. Kötüsünüz! (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MONTEZUMA_ANY">
+			<Text>Ben Tenochtitlan'ın asık suratlı efendisiyim. Tlatoani. Huzuruma kim çıkıyor? Bir savaşçı mı, yoksa bir korkak mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MONTEZUMA_ANY">
+			<Text>Sizinle tanışmak bir onur. Sizi yakınımızdaki şehre davet ediyorum; Ollamaliztli'de becerinizi sınayabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MONTEZUMA_ANY">
+			<Text>Anlaşıldı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MONTEZUMA_ANY">
+			<Text>Tenochtitlan, Huitzilopochtli'ye en yakın olandır; şimdi bana başkentinden bahset!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MONTEZUMA_ANY">
+			<Text>Ne istiyorsun???</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MONTEZUMA_ANY">
+			<Text>Ortak yönlerimiz ayrılan yönlerimizden fazla. Tlacaelel'in sözlerini benimsiyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_ANY">
+			<Text>(Onun istediği Lüks Malınız yok)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MONTEZUMA_ANY">
+			<Text>Bende olmayan birçok şeye sahipsiniz! Halkınızın köle olarak alınmasını mı istiyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_ANY">
+			<Text>(Onun istediği bir Lüks Malınız var.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Bir ittifak kurmak ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MONTEZUMA_ANY">
+			<Text>Bu savaş tanrıları ziyadesiyle memnun etti. Şimdi kutlayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MONTEZUMA_ANY">
+			<Text>Kabul etmiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Gelin, evlerimize dönüp bir sonraki çatışma için gücümüzü toplayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Ordunuzdan korkacak hiçbir şeyimiz yok. Geçebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli İmparatorluğu'nun topraklarından geçemezsin. Bu diyarlar sana yasaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MONTEZUMA_ANY">
+			<Text>Topraklarından geçişimize müsaade et! Huitzilopochtli'nin buyruğudur bu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MONTEZUMA_ANY">
+			<Text>İmparatorluğu gafil avlayamazsın. Saldırı hazırlığını görüyoruz. Onları buradan çekmezsen, ilk darbeyi biz indiririz!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TLACHTLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Mesoamerikalılar, yaklaşık 2700 yıl boyunca geleneksel 'top oyunları'nı – Nahuatl dilinde Ollamaliztli – (şaşırtıcı olmayan bir şekilde) 'top sahaları'nda oynadılar. Takım duvar tenisine benzer yönleri bulunan bu 'spor etkinlikleri', önemli ritüel yan anlamlar taşıyordu; zira maçtan sonra kaybedenler (ve bazen kazananlar) sıklıkla, genellikle kafa kesilerek kurban edilirdi. Maç sonrası insan kurbanını betimleyen açık tasvirler, El Tajin ve Chichen Itza'dakiler gibi birçok Maya top sahasında bulunabilir. Sporun kuralları farklı yer ve zamanlarda bir miktar değişiklik gösterse de, tüm Mesoamerika'ya, güneyde Nikaragua'ya ve kuzeyde Arizona'ya kadar yayıldı. İki buçuk bin yıl boyunca çok az değişen bir düzende inşa edilen top sahaları, yüksek eğimli duvarlar arasında uzanan dar ve uzun bir oyun alanı ile açık uçlu (sonradan kapatılan) daha geniş kale bölgelerinden oluşan taş yapılardı. Boyalı ve süslü olan bu stadyumlar, Mesoamerikan uygarlığının zirvesini temsil ediyordu... ta ki İspanyollar gelip yerlilere başka oyunlar öğretinceye kadar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

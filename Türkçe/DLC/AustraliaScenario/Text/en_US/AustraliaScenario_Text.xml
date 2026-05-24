@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_PALACE_NAME">
+			<Text>Hükümet Konağı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+			<Text>Liman Bölgesinin komşuluk bonusuna eşit [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<!-- City-Names-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WARWICK">
+			<Text>Warwick</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GYMPIE">
+			<Text>Gympie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TOODYAY">
+			<Text>Toodyay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ALBANY">
+			<Text>Albany</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GERALDTON">
+			<Text>Geraldton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BUNBURY">
+			<Text>Bunbury</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GUILDFORD">
+			<Text>Guildford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CASTLEMAINE">
+			<Text>Castlemaine</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BEECHWORTH">
+			<Text>Beechworth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PORT_FAIRY">
+			<Text>Port Fairy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MOUNT_GAMBIER">
+			<Text>Mount Gambier</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MOONTA">
+			<Text>Moonta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WALLAROO">
+			<Text>Wallaroo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PORT_AUGUSTA">
+			<Text>Port Augusta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NARACOORTE">
+			<Text>Naracoorte</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GAWLER">
+			<Text>Gawler</Text>
+		</Row>
+		<!-- City State-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_NAME">
+			<Text>Yeni Güney Galler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SYDNEY_DESCRIPTION">
+			<Text>Yeni Güney Galler Eyaleti</Text>
+		</Row>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_NAME">
+			<Text>Ceza Kolonisi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_NAME">
+			<Text>Altına Hücum</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_NAME">
+			<Text>Kraliyet Kolonisi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_SHEEP_REARING_NAME">
+			<Text>Koyun Yetiştiriciliği</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_NAME">
+			<Text>Mera Kiralama</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_NAME">
+			<Text>Federasyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_NAME">
+			<Text>Büyük Savaş</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_NAME">
+			<Text>Hava Hizmetleri</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_NAME">
+			<Text>İkinci Dünya Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CRUISE_LINES_NAME">
+			<Text>Yolcu Gemileri</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PENAL_COLONY_DESCRIPTION">
+			<Text>Tamamlandığında başkentinde ücretsiz bir Yerleşimci alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GOLD_RUSH_DESCRIPTION">
+			<Text>Tamamlandığında başkentinde 2 ücretsiz Yerleşimci alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CROWN_COLONY_DESCRIPTION">
+			<Text>Tamamlandığında başkentinde ücretsiz bir Yerleşimci alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_PASTORAL_LEASES_DESCRIPTION">
+			<Text>Tamamlandığında başkentinde ücretsiz bir Yerleşimci alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEDERATION_DESCRIPTION">
+			<Text>Tamamlandığında başkentinde ücretsiz bir Yerleşimci alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_CONSERVATION_DESCRIPTION">
+			<Text>Milli Parklar inşa edilmesine olanak sağlar. Birimlerin (yeniden büyüyen) Orman dikmesine izin verir. Bölgende hiç kesilmemiş (bakir) Ormanlar +1 Çekicilik kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_GREAT_WAR_DESCRIPTION">
+			<Text>Tamamlandığında başkentinde ücretsiz bir Yerleşimci alırsın.</Text>
+		</Row>
+    <Row Tag="LOC_CIVIC_SCENARIO_WORLD_WAR_II_DESCRIPTION">
+      <Text>AIF Projesini tamamlama ödülü, tur başına +10'dan +20 [ICON_Gold] Altın'a yükseltildi.</Text>
+    </Row>
+    <Row Tag="LOC_CIVIC_SCENARIO_AERIAL_SERVICES_DESCRIPTION">
+			<Text>Taşra İstasyonları, her iki komşu Taşra İstasyonu için +1 [ICON_Food] Besin alır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Birden çok kez tamamlanabilir, ancak bu senaryoda Puan Zaferi'ne yönelik puanlarınızı artırmaz.</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_NAME">
+			<Text>Taşra İlhakı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_DISTRICTS_CULTURE_BOMB_DESCRIPTION">
+			<Text>Herhangi bir bölgenin tamamlanması, Kültür Bombası etkisi yaratır.</Text>
+		</Row>
+		<!-- Continent Names -->
+		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_HOLLAND_DESCRIPTION">
+			<Text>Yeni Hollanda</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_NEW_SOUTH_WALES_DESCRIPTION">
+			<Text>Yeni Güney Galler</Text>
+		</Row>
+		<!-- Government Names -->
+		<Row Tag="LOC_GOVERNMENT_PENAL_SETTLEMENT_NAME">
+			<Text>Ceza Kolonisi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_COLONIAL_GOVERNMENT_NAME">
+			<Text>Sömürge Yönetimi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_STATE_GOVERNMENT_NAME">
+			<Text>Eyalet Yönetimi</Text>
+		</Row>
+		<!-- Districts-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_AERODROME_DESCRIPTION">
+			<Text>Tepelere inşa edilemez.</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+			<Text>Altın Arayıcısının Maden Ocağı inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. +2 [ICON_Gold] Altın. -1 Çekicilik. Yalnızca Tepelere veya belirli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks veya Stratejik kaynakların üzerine inşa edilirse, şehir o kaynağın kullanımını kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+			<Text>Otlakçının Mera inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. +1 [ICON_Gold] Altın. Yalnızca [ICON_RESOURCE_CATTLE] Sığır, [ICON_RESOURCE_SHEEP] Koyun veya [ICON_RESOURCE_HORSES] At kaynaklarının üzerine inşa edilebilir.[NEWLINE][NEWLINE][ICON_RESOURCE_HORSES] At kaynağının üzerine inşa edilirse, şehir o kaynağın kullanımını kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_OUTBACK_STATION_DESCRIPTION">
+			<Text>Otlakçının Taşra İstasyonu inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Besin, +1 [ICON_Gold] Altın ve +1 [ICON_PRODUCTION] Üretim. Her bir komşu Mera için +1 [ICON_FOOD] Besin. Teknoloji ve Yönetim Bilimleri Ağacında ilerledikçe komşu Taşra İstasyonları ve Merâlardan ek [ICON_FOOD] Besin ve [ICON_PRODUCTION] Üretim sağlar. Yalnızca Çöl, Çöl Tepesi, Otlak ve Düzlük bölgelerine inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_BEACH_RESORT_DESCRIPTION">
+			<Text>Doğa Bilimcinin Sahil Tatil Beldesi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Bölgenin Çekiciliği kadar [ICON_Gold] Altın sağlar. Yalnızca Kıyı Çölü, Kıyı Düzlüğü veya Kıyı Otlağı bölgelerine inşa edilebilir. En az Nefes Kesen düzeyinde Çekicilik gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+			<Text>Çiftçinin Plantasyon inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Gold] Altın. Yalnızca [ICON_RESOURCE_BANANAS] Muz, [ICON_RESOURCE_CITRUS] Narenciye, [ICON_RESOURCE_COTTON] Pamuk, [ICON_RESOURCE_SUGAR] Şeker, [ICON_RESOURCE_TEA] Çay veya [ICON_RESOURCE_WINE] Şarap kaynaklarının üzerine inşa edilebilir.[NEWLINE][NEWLINE]Bir Lüks kaynağın üzerine inşa edilirse, şehir o kaynağın kullanımını kazanır.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_KAKADU_NAME">
+			<Text>Kakadu</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PINNACLES_NAME">
+			<Text>Pinnacles</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SCENARIO_ULURU_DESCRIPTION">
+			<Text>Tek bölgeli, geçilemez bir doğa harikası. Komşu bölgelere +2 [ICON_CULTURE] Kültür ve +2 [ICON_Gold] Altın sağlar. Komşu bölgelere normal +2 yerine +4 Çekicilik sağlar.</Text>
+		</Row>
+		<!--Resources-->
+		<Row Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">
+			<Text>Altın Cevheri</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_LAND_GRANTS_NAME">
+			<Text>Toprak Hibeleri</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIRST_FLEET_NAME">
+			<Text>İlk Filo</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REWARDS_OFFERED_NAME">
+			<Text>Sunulan Ödüller</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TERRA_NULLIUS_NAME">
+			<Text>Sahipsiz Toprak</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_NAME">
+			<Text>Sömürge Mimarları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_NAME">
+			<Text>Parramatta Yolu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_NAME">
+			<Text>Tahliye İzni</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_NAME">
+			<Text>Atlı Sığırtmaç</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_NAME">
+			<Text>Trans-Avustralya Demiryolu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_NAME">
+			<Text>Sert Peksimet</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GALLIPOLLI_NAME">
+			<Text>Gelibolu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_NAME">
+			<Text>Hava Okulu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLYING_DOCTORS_NAME">
+			<Text>Uçan Doktorlar</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_NAME">
+			<Text>Askeri Malzeme</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVASION_THREAT_NAME">
+			<Text>İstila Tehdidi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_NAME">
+			<Text>Karides Tüccarlığı</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARK_RANGERS_NAME">
+			<Text>Park Korucuları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAND_GRANTS_DESCRIPTION">
+			<Text>Çiftçilere yönelik [ICON_Production] Üretim +%30.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FIRST_FLEET_DESCRIPTION">
+			<Text>Balıkçılara yönelik [ICON_Production] Üretim +%30.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REWARDS_OFFERED_DESCRIPTION">
+			<Text>Altın arayıcılarına yönelik [ICON_Production] Üretim +%30.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TERRA_NULLIUS_DESCRIPTION">
+			<Text>Yeni eğitilen Çiftçiler 2 ek inşa eylemi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_ARCHITECTS_DESCRIPTION">
+			<Text>Tüm şehirlerde +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARRAMATTA_ROAD_DESCRIPTION">
+			<Text>Yurt içi [ICON_TradeRoute] Ticaret Yollarından +1 [ICON_Food] Besin ve +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TICKET_OF_LEAVE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Otlakçı Birimleri için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MOUNTED_STOCKMEN_DESCRIPTION">
+			<Text>Yeni eğitilen Otlakçılar 2 ek inşa eylemi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRANS_AUSTRALIAN_RAILWAY_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yollarından +6 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEED_THE_TROOPS_DESCRIPTION">
+			<Text>Çiftlik ve Plantasyon iyileştirmelerinden +1 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GALLIPOLLI_DESCRIPTION">
+			<Text>+50% [ICON_Production] AIF projelerine yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCHOOL_OF_THE_AIR_DESCRIPTION">
+			<Text>Lüks Kaynaklar üzerindeki tüm Taş Ocağı ve Maden Ocağı iyileştirmelerinden +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLYING_DOCTORS_DESCRIPTION">
+			<Text>Mera ve Taşra İstasyonu iyileştirmelerinden +1 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_MATERIEL_DESCRIPTION">
+			<Text>Stratejik Kaynaklar üzerindeki Maden Ocağı iyileştirmelerinden +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVASION_THREAT_DESCRIPTION">
+			<Text>+100% [ICON_Production] AIF projelerine yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SEAFOOD_PRESERVATION_DESCRIPTION">
+			<Text>Balıkçı Teknesi iyileştirmelerinden +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PARK_RANGERS_DESCRIPTION">
+			<Text>Uygarlığınızdaki tüm bölgeler +2 Çekicilik kazanır. Maden Ocağı iyileştirmelerinden -1 [ICON_GOLD] Altın.</Text>
+		</Row>
+		<!-- Technologies-->
+		<Row Tag="LOC_TECH_IRRIGATION_SCENARIO_DESCRIPTION">
+			<Text>Üç veya daha fazla Çiftlik iyileştirmesi birbirine bitişik olduğunda, her bir Çiftlik iyileştirmesi bitişik olduğu her Çiftlik için +1 [ICON_Food] Besin kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_DESCRIPTION">
+			<Text>Orman ve Yağmur Ormanlarının kesilmesine olanak sağlar. Birimleriniz Taşra'da hayatta kalma şansı kazanır ve Taşra'da faydalı olaylar yaşarsa daha fazla bölgenin haritasını çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_SCENARIO_ABILITY_DESCRIPTION">
+			<Text>Birimleriniz Taşra'da hayatta kalma şansı kazanır ve Taşra'da faydalı olaylar yaşarsa daha fazla bölgenin haritasını çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_SCENARIO_DESCRIPTION">
+			<Text>[ICON_RESOURCE_STONE] Taş'ın toplanmasına olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_SCENARIO_DESCRIPTION">
+			<Text>Çiftlik iyileştirmelerini Mekanize Tarıma yükseltir. Bitişik oldukları her Çiftlik iyileştirmesi için +1 [ICON_Food] Besin Komşuluk bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_SCENARIO_DESCRIPTION">
+			<Text>Taşra İstasyonları, her iki bitişik Taşra İstasyonu için +1 [ICON_Production] Üretim kazanır. Meralar, bitişik oldukları her Taşra İstasyonu için +1 [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_UNIT_EXPLORER_NAME">
+			<Text>Kâşif</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PROSPECTOR_NAME">
+			<Text>Altın Arayıcısı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRAZIER_NAME">
+			<Text>Otlakçı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FARMER_NAME">
+			<Text>Çiftçi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FISHER_NAME">
+			<Text>Balıkçı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EXPLORER_DESCRIPTION">
+			<Text>Süratle hareket eden keşif birimi. Bu senaryoda saldıramayan sivil bir birliktir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PROSPECTOR_DESCRIPTION">
+			<Text>Maden Ocağı, Taş Ocağı, Petrol Kuyusu ve Hava Pisti arazi iyileştirmeleri oluşturabilir. Altın Arayıcıları 3 kez kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GRAZIER_DESCRIPTION">
+			<Text>Mera ve Taşra İstasyonu arazi iyileştirmeleri oluşturabilir. Otlakçılar 3 kez kullanılabilir. Bu sayı, Atlı Sığırtmaç politikası sayesinde artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FARMER_DESCRIPTION">
+			<Text>Çiftlik, Plantasyon ve Kereste Fabrikası arazi iyileştirmeleri oluşturabilir. Çiftçiler 3 kez kullanılabilir. Bu sayı, Sahipsiz Toprak politikası sayesinde artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FISHER_DESCRIPTION">
+			<Text>Balıkçı Teknesi arazi iyileştirmeleri oluşturabilir. Balıkçılar 3 kez kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>Yeni şehirler kurabilir. Yerleşimciler bu senaryoda yalnızca Yönetim Bilimleri tamamlanarak elde edilir. Asla inşa edilemezler.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_NATURALIST_DESCRIPTION">
+			<Text>Oyunun geç safhasında ortaya çıkan sivil bir birliktir. [ICON_Gold] Tur başına [ICON_Gold] Altın getirisini artırmak için tek bir Sahil Tatil Beldesi ya da tek bir Milli Park oluşturabilir. Sahil Tatil Beldesi veya Milli Park inşa edildikten sonra oyundan kaldırılır.</Text>
+		</Row>
+		<!-- Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GOLD_RUSH">
+			<Text>1 [ICON_RESOURCE_GOLD] Altın Cevheri kaynağı keşfedin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CROWN_COLONY">
+			<Text>Tur başına 15 [ICON_Gold] Altın getiriniz olsun.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHEEP_REARING">
+			<Text>3 [ICON_RESOURCE_SHEEP] Koyun kaynağı keşfedin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DRAMA_POETRY">
+			<Text>Uygarlığınızı en az 12 [ICON_Citizen] Nüfus'a ulaştırın.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PASTORAL_LEASES">
+			<Text>3 Mera inşa edin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEDERATION">
+			<Text>Tur başına 30 [ICON_Gold] Altın getiriniz olsun.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_URBANIZATION">
+			<Text>Bir şehri 10 [ICON_Citizen] Nüfus'a ulaştırın.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CONSERVATION">
+			<Text>Bir doğa harikası keşfedin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_WAR">
+			<Text>[ICON_Turn] 45. Tura ilerleyin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_AERIAL_SERVICES">
+			<Text>Bir Hava Pisti inşa edin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_WORLD_WAR_II">
+			<Text>[ICON_Turn] 53. Tura ilerleyin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CRUISE_LINES">
+			<Text>Bir Milli Park inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GOLD_RUSH">
+			<Text>Altına hücum başladı! Her kıtadan servet avcıları, zengin olma hayaliyle Avustralya'ya akın ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CROWN_COLONY">
+			<Text>Kârlar birikmeye başlıyor. Kraliçe, topraklarınızı yakında resmî bir kraliyet kolonisi olarak tesis edecek.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHEEP_REARING">
+			<Text>Bu topraklardaki uçsuz bucaksız açık alanlar sayesinde koyun yetiştiriciliği kazançlı bir fırsat gibi görünüyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_DRAMA_POETRY">
+			<Text>Bu kadar çok vatandaş varken, bazıları sanatı keşfetmeye vakit buluyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PASTORAL_LEASES">
+			<Text>Meralardan elde ettiğiniz düzenli kâr, hükümetin ilgisini çekiyor. Yakında kraliyet arazilerini kiraya verebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FEDERATION">
+			<Text>Refaha kavuştukça, Avustralya doğumlular Britanya'dan bağımsız kendi ulusları için haykırıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_URBANIZATION">
+			<Text>Büyük şehriniz aşırı kalabalıklaşıyor. Artık banliyöler için planlama yapma zamanı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CONSERVATION">
+			<Text>Bu toprakların doğal güzelliği eşsizdir ve gelecek nesiller için korunmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_WAR">
+			<Text>Büyük Güçler kanlı bir çatışmaya sürüklenmiş durumda. Anavatan'ın etrafında toplanma zamanı!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_AERIAL_SERVICES">
+			<Text>Uçaklar Avustralya'ya geldi. Şüphesiz bu uçaklar, uçsuz bucaksız Taşra'ya hizmet vermek için biçilmiş kaftan, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_WORLD_WAR_II">
+			<Text>Faşizmin güçleri Almanya ve Japonya'da yükseldi. Acaba Avustralya bile tehlike altında olabilir mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_CRUISE_LINES">
+			<Text>Yeni Milli Parkınız, okyanus aşırı yolcu gemileri için önemli bir varış noktası haline gelebilir.</Text>
+		</Row>
+		<!-- Tech Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EDUCATION">
+			<Text>Bir şehri 6 [ICON_Citizen] Nüfus'a ulaştır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+			<Text>2 [ICON_TradeRoute] Ticaret Yolu'nu sürdür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_INDUSTRIALIZATION">
+			<Text>3 Maden Ocağı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>2 Taş Ocağı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>2 Kütüphane inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ECONOMICS">
+			<Text>2 Pazar inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ELECTRICITY">
+			<Text>2 Atölye inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FLIGHT">
+			<Text>Büyük Savaş yönetim bilimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMBUSTION">
+			<Text>İkinci Dünya Savaşı yönetim bilimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RADIO">
+			<Text>Bir Araştırma Laboratuvarı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Bir Hangar inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EDUCATION">
+			<Text>Yeni kentsel merkeziniz, bir kütüphane ve üniversite barındıran bir öğrenim merkezi için biçilmiş kaftan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_BANKING">
+			<Text>Kârlı ticaret ağınız sayesinde elimizde fazladan sermaye birikti. Bankalar kurmak, daha büyük yatırımların önünü açabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_INDUSTRIALIZATION">
+			<Text>Birçok maden faaliyette olduğundan, ilerleme için gereken malzemeler hazır. Acaba bir Sanayi Devrimi mi başlamak üzere?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
+			<Text>Taş ocaklarınızdan çıkan taşlar, artık büyük mühendislik eserlerinin temelini oluşturuyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SCIENTIFIC_THEORY">
+			<Text>İki kütüphane faaliyetteyken, bilim camianız hızla yol alıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ECONOMICS">
+			<Text>Ticari başarılarınız, pek çok kişiyi ekonominize yatırım yapmaya teşvik etti.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ELECTRICITY">
+			<Text>Endüstriyel üretiminiz etkileyici olsa da, elektrik enerjisinin devreye girmesiyle daha da ileriye gidebilir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_FLIGHT">
+			<Text>Avustralyalı havacılar, Avrupa siperleri üzerindeki uçuşlarının hikâyeleriyle savaştan döndüler.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_COMBUSTION">
+			<Text>Japon İmparatorluğu genişledikçe, Pasifik petrol kaynakları için rekabet giderek kızışıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RADIO">
+			<Text>Modern bir araştırma tesisi inşa etmek, iletişim alanındaki en son gelişmelere ayak uydurmanızı sağlayacak.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ADVANCED_FLIGHT">
+			<Text>Bir hava meydanı ve hangar hazır olduğuna göre, modern bir havaalanı inşa etmeye başlayabilirsiniz.</Text>
+		</Row>
+		<!-- Projects-->
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_DESCRIPTION">
+			<Text>Avustralya İmparatorluk Kuvvetleri (AIF) projesi, Dünya Savaşları sırasında denizaşırı görevler için asker toplar. Bir şehirde tamamlanması, o şehrin [ICON_Gold] Tur Başına Altın üretimine +10 bonus sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_NAME">
+			<Text>AIF Eğitimi</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AIF_SCENARIO_SHORT_NAME">
+			<Text>AIF Eğitimi</Text>
+		</Row>
+		<!-- Scoring-->
+		<Row Tag="LOC_CATEGORY_INCOME_NAME">
+			<Text>Gelir ([ICON_Gold] Tur Başına Altın)</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_DIFFICULTY">
+			<Text>Zorluk: {1_DifficultyName}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_CURRENT_GAME_DIFFICULTY">
+			<Text>Mevcut oyun: {1_Difficulty}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_SINGLE_PLAYER_SCORE">
+			<Text>Zafer için Gereken Puan: {1_Score}</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TITLE">
+			<Text>TAŞRA</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_EFFECTS">
+			<Text>Hiçbir oyuncunun kontrolünde olmayan tüm kara birimleri, Avustralya Taşrası'nın bir parçası sayılır. Burası, zehirli nebatat ve vahşi hayvanlarla dolu, gezegendeki en sert iklimlerden birine ev sahipliği yapan tehlikeli bir diyardır. Bir birim, Taşra bölgesinde bir turu tamamlarsa özel bir Taşra karşılaşması yaşayabilir. Bu olayların çoğu hasar veya gecikmeye yol açsa da, keşif biriminizin eşsiz bonuslar kazanmasını sağlayacak birkaç seçkin olay da mevcuttur. Yine de genel olarak birimlerinizin böylesine ehilleştirilmemiş bir vahşi doğada geçirdiği zamanı sınırlamak isteyeceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_OUTBACK_TOOLTIP">
+			<Text>Taşra</Text>
+		</Row>
+	</EnglishText>
+</GameData>

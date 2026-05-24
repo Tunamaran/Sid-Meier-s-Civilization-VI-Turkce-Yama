@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Babylon: Building Info -->
+		<Row Tag="LOC_BUILDING_PALGUM_NAME">
+			<Text>Palgum</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PALGUM_DESCRIPTION">
+			<Text>Babil'e özgü bir bina. +1 [ICON_HOUSING] Konut ve +2 [ICON_PRODUCTION] Üretim sağlar. Tatlı su bölgeleri +1 [ICON_FOOD] Besin kazanır. Şehir bir Nehir'e komşu olmalıdır.</Text>
+		</Row>
+		<!-- Babylon: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_NAME">
+			<Text>Babil</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_DESCRIPTION">
+			<Text>Babil İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_STK_ADJECTIVE">
+			<Text>Babil</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BABYLON_NAME">
+			<Text>Enuma Anu Enlil</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Buluşlar, teknolojiler için gereken [ICON_SCIENCE] Bilimin tamamını sağlar. Tur başına -%50 [ICON_SCIENCE] Bilim.</Text>
+		</Row>
+		<!-- Babylon: Leader Info -->
+		<Row Tag="LOC_LEADER_HAMMURABI_NAME">
+			<Text>Hammurabi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_NAME">
+			<Text>Ninu Ilu Sirum</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_DESCRIPTION">
+			<Text>Her uzmanlık bölgesi ilk kez inşa edildiğinde, o bölgede inşa edilebilecek en düşük [ICON_PRODUCTION] Üretim maliyetli binayı alın. Diğer bölgeler ilk kez inşa edildiğinde ise bir [ICON_ENVOY] Elçi alın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HAMMURABI_XP1_DESCRIPTION">
+			<Text>Hükümet Meydanı dışındaki her uzmanlık bölgesi türü ilk kez inşa edildiğinde, o bölgede inşa edilebilecek en düşük [ICON_PRODUCTION] Üretim maliyetli binayı alın. Diğer bölgeler ilk kez inşa edildiğinde ise bir [ICON_ENVOY] Elçi alın.</Text>
+		</Row>
+		<!-- Babylon: Unit Info -->
+		<Row Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_NAME">
+			<Text>Sabum Kibittum</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BABYLONIAN_SABUM_KIBITTUM_DESCRIPTION">
+			<Text>Babil'e özgü Antik Çağ yakın dövüş birimi. Ağır ve Hafif Süvari terfi sınıfı birimlerine karşı +17 [ICON_Strength] Muharebe Gücü. Bu birim 3 [ICON_Movement] Hareket ve görüşe sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_NAME">
+			<Text>Sabum Kibittum</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SABUM_KIBITTUM_ANTI_CAVALRY_DESCRIPTION">
+			<Text>+17 [ICON_Strength] Ağır ve Hafif Süvari terfi sınıfı birimlerine karşı Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABUM_KIBITTUM_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} Ağır ve Hafif Süvari terfi sınıfı birimlerine karşı Muharebe Gücü</Text>
+		</Row>
+		<!-- Heroes & Legends Mode -->
+		<Row Tag="LOC_GAMEMODE_HEROES_NAME">
+			<Text>Kahramanlar ve Efsaneler Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_HEROES_DESCRIPTION">
+			<Text>Bu oyun modu, dünyanın dört bir yanındaki mit ve efsanelerden on iki güçlü Kahraman birimi ekler.[NEWLINE][NEWLINE]Kahramanları dünyayı keşfederek ve Şehir Devletlerini etkileyerek bulun, ardından onları şehirlerinizde sahiplenin. Her Kahraman dünyada benzersizdir ve yalnızca bir uygarlık tarafından sahiplenilebilir.[NEWLINE][NEWLINE]Kahramanlar büyük güce ve eşsiz yeteneklere sahiptir, ancak sınırlı bir ömürleri vardır. Bir Kahraman ortaya çıktığında, belirli bir tur sayısı boyunca kalır, ardından zamanı dolar ve doğal olarak yok olur. Ancak bir Kahraman gittikten sonra, onu sahiplenen uygarlık, İnanç harcayarak onu geri çağırabilir.[NEWLINE][NEWLINE]On iki Kahramanın her biri kendi özel güçlerine ve belirgin rollerine sahiptir. Akıllı bir oyuncunun elinde, doğru Kahraman gerçekten oyunun seyrini değiştirecek bir güç olabilir!</Text>
+		</Row>
+		<!--Heroes & Legends Descriptions-->
+		<Row Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_NAME">
+			<Text>Enkidu'nun Mirası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GILGAMESH_HEROES_DESCRIPTION">
+			<Text>Kahramanları sahiplenirken %25 [ICON_Production] Üretim artışı ve Kahramanlar %20 daha uzun [ICON_Lifespan] Ömür Süresine sahip olur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_HEROES_DESCRIPTION">
+			<Text>Her bir [ICON_GreatWork_Relic] Kutsal Emanet, [ICON_GreatWork_HeroRelic] Kahraman Yadigârı, [ICON_GreatWork_Artifact] Tarihi Eser ve [ICON_GreatWork_Sculpture] Heykel türündeki Sanat Büyük Eseri, olağan [ICON_Culture] Kültür getirisine ek olarak +2 [ICON_Food] Besin, +2 [ICON_Production] Üretim, +1 [ICON_FAITH] İnanç ve +4 [ICON_Gold] Altın sağlar. [ICON_GreatArtist] Büyük Sanatçı, [ICON_GreatMusician] Büyük Müzisyen ve [ICON_GreatMerchant] Büyük Tüccar puanlarında %50 daha fazla kazanç elde edilir. Sarayda 5 Büyük Eser yuvası bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_HEROES_DESCRIPTION">
+			<Text>Polonya tarafından kurulan din, bir Polonya Kültür Bombası nedeniyle bir bölge kaybeden komşu şehirde çoğunluk haline gelir. Kutsal Alanlar, komşu bölgelerden standart İnanç komşuluk bonusu kazanır. [ICON_GreatWork_Relic] Kutsal Emanetler ve [ICON_GreatWork_HeroRelic] Kahraman Yadigârları +2 [ICON_Faith] İnanç, +2 [ICON_Culture] Kültür ve +4 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_HEROES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Kutsal Emanetler ve [ICON_GreatWork_HeroRelic] Kahraman Yadigârları, hem [ICON_Faith] İnanç hem de [ICON_Tourism] Turizm getirisinin üç katını sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_DESCRIPTION">
+			<Text>Khmer'e özgü bir bina. Tapınağın yerini alır. [ICON_Faith] İnanç karşılığında Havari ve Engizisyoncu satın almak için gereklidir. Bu şehirde satın alınan Misyonerler, Teolojik Muharebede ölmeleri halinde bir [ICON_GreatWork_Relic] Kutsal Emanet kazandıran Şehit yeteneğine sahip olur. Bu şehirde Kahramanları Geri Çağırma maliyeti %15 daha az [ICON_Faith] İnanç gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_XP1_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] İnanç. Khmer'e özgü bir bina. Tapınağın yerini alır. [ICON_Faith] İnanç karşılığında Havari ve Engizisyoncu satın almak için gereklidir. Bu şehirdeki her [ICON_CITIZEN] nüfus için +0.5 [ICON_Culture] Kültür. Uçuş araştırıldığında, şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazlaysa +10 [ICON_Tourism] Turizm, 20 veya daha fazlaysa +20 [ICON_Tourism] Turizm kazanılır. Bu şehirde Kahramanları Geri Çağırma maliyeti %15 daha az [ICON_Faith] İnanç gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_HEROES_XP2_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] İnanç. Khmer'e özgü bir bina. Tapınağın yerini alır. [ICON_Faith] İnanç karşılığında Havari ve Engizisyoncu satın almak için gereklidir. Bu şehirdeki her [ICON_CITIZEN] nüfus için +0.5 [ICON_Culture] Kültür. Uçuş araştırıldığında, şehrin [ICON_CITIZEN] nüfusu 10 veya daha fazlaysa +10 [ICON_Tourism] Turizm, 20 veya daha fazlaysa +20 [ICON_Tourism] Turizm kazanılır. Bu şehirde Kahramanları Geri Çağırma maliyeti %15 daha az [ICON_Faith] İnanç gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_HEROES_DESCRIPTION">
+			<Text>Norveç'e özgü bir bina. [ICON_Faith] İnanç karşılığında Havari ve Engizisyoncu satın almak için gereklidir. Kutsal Alan bölgeleri, Ormanlardan ek bir standart komşuluk bonusu kazanır. Bu şehirdeki her bir kıyı kaynak bölgesine +1 [ICON_PRODUCTION] Üretim sağlar. Bu şehirde Kahramanları Geri Çağırma maliyeti %15 daha az [ICON_Faith] İnanç gerektirir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

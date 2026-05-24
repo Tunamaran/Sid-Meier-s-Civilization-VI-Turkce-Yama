@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
+			<Text>Pers ve Makedonya Uygarlık Paketi</Text>
+		</Row>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
+			<Text>Yeni Uygarlıklar ve Liderler – Makedonya Kralı Büyük İskender ile Pers Kralı Kiros</Text>
+		</Row>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
+			<Text>İki yeni uygarlık, iki yeni lider ve iki yeni dünya harikası içerir.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
+			<Text>Senaryo: İskender'in Fetihleri</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
+			<Text>Büyük İskender'e layık bir imparatorluk fethetmeyi başarabilecek misin? En fazla 60 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>Bu süreli tek oyunculu senaryoda, "Büyük İskender" unvanını gerçekten hak etmek için imparatorluğunuzu hızla genişletmelisiniz. Senarist muharebe, toprak genişletme ve yanınızda savaşacak Büyük Generallerin hesaplı kullanımını vurgulamaktadır.[NEWLINE][NEWLINE]Zafere ulaşmak için, haritadaki her şehri, zorluk seviyenize bağlı olarak belirlenen tur sayısı içinde fethedin:[NEWLINE][NEWLINE]Yerleşimci: 60 tur[NEWLINE]Savaş Lordu veya Kabile Reisi: 55 tur[NEWLINE]Kral veya Prens: 50 tur[NEWLINE]Ölümsüz veya İmparator: 45 tur[NEWLINE]Tanrısal: 37 tur</Text>
+		</Row>
+	</EnglishText>
+</GameData>
+

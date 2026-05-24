@@ -1,0 +1,9 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--UI-->
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_HERO_ACTION_TERRITORY">
+			<Text>{1_HeroName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroName} bölgeye karşı kullanıldı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- civs -->
+		<Row Tag="LOC_CIVINFO_VIETNAM_LOCATION">
+			<Text>Güneydoğu Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_VIETNAM_SIZE">
+			<Text>331.210 km² (205.804 mil²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_VIETNAM_POPULATION">
+			<Text>98.721.275 (2020 yılı itibarıyla)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_VIETNAM_CAPITAL">
+			<Text>Hanoi (Hà Nội)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_1">
+			<Text>Vietnam, Güneydoğu Asya'nın en eski tarihi kayıtlarından birine sahiptir. Bu kayıtlar, bağımsızlık için verilen amansız mücadeleyi ve yabancı işgaline karşı gösterilen direnişi yansıtır – Çin imparatorlarına, Avrupalı sömürgecilere ve hatta Amerika Birleşik Devletleri'ne karşı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_2">
+			<Text>Erken dönem Vietnamlılar – 'Kinh'ler – MÖ 1200 gibi erken bir tarihte, Hồng Bàng hanedanı döneminde Kızıl Irmak deltasına yerleşmiş ve toprağı sulamalı pirinç tarlalarıyla işlemeye başlamıştı. Efsaneye göre Lạc Long Quân, ilk Vietnamlı çiftçilere pirinç ekimini öğretti ve MÖ 6. yüzyıla gelindiğinde çevrelerindeki su yollarını kontrol altına alarak sulama sistemleri, kanallar ve bentler inşa etmişlerdi. Tahıl tarımı insanları bir araya getirir ve kentleşme, zanaatkârların ve ustaların gelişimi anlamına gelir. Vietnam'da bu, karmaşık ipekler, bakır ve bronz aletler ve silahlar anlamına geliyordu. Bu dönemde özellikle etkileyici olan Đông Sơn bronz davullarıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_3">
+			<Text>Ancak refahın olduğu yerde savaş da vardır. Vietnam, en başından beri kuzey komşusu – çeşitli Çin hanedanları – ile girift bir tarihe sahip olmuştur. Vietnam halkı, Doğu Asya Konfüçyüsçülüğü ile Mahayana Budizmi'ni (komşu Laos ve Kamboçya'daki Theravada Budizmi'nin aksine), Çin karakterlerini, Çin toprak yönetimi kavramlarını ve – tarihçilerin minnettarlığına – Çin'in kayıt tutma geleneklerini benimsedi. Ancak tüm bunlar sadece kültürel alışveriş değildi. Ordular da işin içine girdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_4">
+			<Text>Triệu Đà veya Zhao Tuo, Kuzey Vietnam'ı fetheden Çinli bir generaldi. Ancak Çin'in Qin Hanedanı çöktükten sonra kendisinin imparator olabileceğine karar verdi. Şu anda güney Çin ve kuzey Vietnam olan topraklarda Nan Yue veya Nam Việt krallığını kurdu. Bu da şu soruyu gündeme getirir: Triệu Đà bir Vietnam imparatoru muydu yoksa Çinli mi? Bu iyi bir soru – ve son derece politik yüklü bir soru. Ancak bu tarihçilerin çözmesi gereken bir meseledir, zira Zhao Tuo'nun imparatorluk hırsları, Han Hanedanı'nın Nan Yue'yi yenmesi ve Vietnam'ı Çin'e dahil etmesiyle yerle bir oldu. Triệu Đà her ne idiyse, artık o değildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_5">
+			<Text>Bu, Vietnamlıların bir işgale direndiği ilk dönemdi – ama kesinlikle son değildi. Özellikle kadınların gücünü kısıtlayan Çin yasaları, uzun süredir Güneydoğu Asya'nın anaerkil geleneklerini benimsemiş olan Vietnamlıları rahatsız ediyordu. Bu nedenle ayaklananların kadınlar olması şaşırtıcı değildi. MS 40 yılında Trưng Kızkardeşler, Han valisi Su Dung'a karşı ayaklandı. Başarılı bir isyan başlatarak altmış beş devleti bağımsız bir Vietnam devleti adına ele geçirdiler. Büyük kız kardeş Trưng Trắc kraliçe ilan edildi ve kızkardeşler, İmparator Guangwu'nun sabrı taşana kadar iki yıl boyunca iktidarı ellerinde tuttular. Guangwu, toprakları geri almak ve kızkardeşlerin kafalarını getirmek üzere bir ordu gönderdi. Ancak bu asla gerçekleşmedi: Yenilginin ardından kızkardeşler, canlı yakalanıp düşman tarafından aşağılanmaktansa intihar etmeyi tercih ettiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_6">
+			<Text>Ancak isyancılar direnmeye devam etti. MS 225'te Triệu Thị Trinh, diğer adıyla Lady Triệu veya Bà Triệu, yeni bir isyan başlattı. Yenilgiye uğramasına rağmen, Trưng Kızkardeşler gibi onun da etkisi kalıcı oldu. Lý Bôn gibi liderlerin önderliğinde isyanlar devam etti, ancak Vietnam MS 938 yılına kadar bağımsızlığına kavuşamadı. Yine de ilk milenyum MS'de, işgal altında bile Vietnam gelişti ve arkeologlar Vietnam bölgelerinde Roma'ya kadar uzanan ticaret malları keşfettiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_7">
+			<Text>MS 938'deki belirleyici Bạch Đằng Muharebesi'nin ardından Vietnam bağımsızdı ancak istikrarsızdı. Ülke yaklaşık yirmi yıl boyunca iç savaşla kaynadı; ta ki Đinh Bộ Lĩnh, Đinh hanedanını kurana kadar. Đinh yönetimi altında ülke, Đại Cồ Việt yani 'Büyük Viet Diyarı' olarak yeniden adlandırıldı. Đinh, katı yasalar koydu ve önde gelen ailelerle ittifaklar kurmaya çalıştı, ancak saltanatı yalnızca sekiz yıl sürdü; hem kendisi hem de veliaht prens suikasta kurban gitti. Gelişmeleri izleyen Çin'in Song Hanedanı, durumdan faydalanmaya karar vererek işgal etti. Öldürülen kralın altı yaşındaki oğlunun tahta çıkması yerine Lê Đại Hành, çocuğun annesiyle evlenerek yönetimi devraldı ve böylece Erken Lê Hanedanı başladı. Çin saldırısını akıllı taktiklerle püskürttü (Çin kaynakları bunu belirtmez, ancak bu yenilgiye karışan tüm komutan ve generallerin idamına yol açtı). Bunun ardından Çin bölgeyi (geçici olarak) terk etti, ancak bu muhtemelen Vietnam'ın ödediği haraç düzenlemesi sayesindeydi, gerçek korkudan değil. Düzenli maaş alırken neden işgal zahmetine girilsin ki?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_8">
+			<Text>Vietnam yaklaşık beş yüz yıl boyunca bağımsız kalacaktı. Vietnam ayrıca Kızıl Irmak vadisi (Hanoi bölgesi) kıyılarından aşağı doğru Mekong Deltası'na doğru yayıldı. Bu, Çam ve Khmer (Kamboçyalılar) gibi diğer etnik gruplara karşı bir dizi savaş ve fetih anlamına geliyordu; nitekim Mekong Deltası'nda bugün kendi Budizm yorumlarını uygulayan ve Kamboçyaca konuşan birçok etnik Khmer bulunmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_9">
+			<Text>Güneye doğru genişlemenin ardından gelen Lý hanedanı, Vietnam'ın bugünkü halinin temellerini attı. Bu, dört yüz yıl süren ve içe odaklanmayı gerektiren bir refah dönemiydi. Lý hanedanı, ekonominin gelişmesini istiyordu ve bunun için nüfuslarına yatırım yaparak başladılar – örneğin Quốc Tử Giám'ı yani 'Edebiyat Tapınağı'nı kurdular. Eğitim soylularla sınırlı değildi ve Vietnam'dan Çin'e, Kore'den Japonya'ya kadar tanıdık gelen Konfüçyüsçü liyakat sisteminde halk da sınavlara girerek hükümette mevkilere yükselmeye çalışabiliyordu. Bu sadece erkek egemen bir sistem de değildi: Vergi sistemi, tahsilattan kadınlar sorumlu olacak şekilde yeniden düzenlendi. Lý hanedanı döneminde din, özellikle Budizm, Konfüçyüsçülük ve Taoizm, toplumda daha büyük bir rol üstlendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_10">
+			<Text>Ancak bu dönem çatışmasız değildi. Lý hanedanı yerini Trần hanedanına bıraktığında Vietnam, hem Moğol hem de (daha fazla) Çin istilasıyla ve daha önce fethedilmiş Çam halkının isyanıyla karşı karşıya kaldı. Bu savaşlar, Trần hükümdarlarının azalan itibarıyla birleşince Vietnam'ın savunması ihanete açık hale geldi. 1400'lerde General Hồ Quý Ly tahtı ele geçirdi ve feodal toprak sahipleri arasında popüler olmayan cesur ve ilerici bir dizi reform ilan etti. Bu soylular, Trần hanedanını geri getirmek için Çin'in Ming hanedanından yardım istedi ve Çin, 1407'de Vietnam'ı bir kez daha ele geçirdi. Çin yasaları altında Vietnam, bir kez daha Çin kültürünü benimsemeye zorlandı ve daha önce olduğu gibi Vietnam direndi. Varlıklı bir çiftçi olan Lê Lợi isyanı yönetti, sonunda başarılı oldu ve yeni Lê hanedanını başlattı (daha sonra Tây Sơn ve Nguyễn hanedanları tarafından devam ettirildi – ikinci hanedanın adı o kadar popülerdi ki binlerce aile soyadlarını Nguyễn olarak değiştirdi: şu anda açık ara en yaygın Vietnam soyadı!). Lê hanedanı Konfüçyüsçü ideolojilerden etkilendi ve bu da yeni, daha ilerici yasaların getirilmesine yol açtı. Eğitim ve genişleme bir kez daha öncelik kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_11">
+			<Text>Nihayet, 1700'lerde Avrupalılar görünmeye başladığında, Hristiyanlığı yayma çabaları birçok kişi tarafından Vietnam uygarlığının temellerine doğrudan bir saldırı olarak görüldü. Ve bir bakıma yanılmıyorlardı – din gerçekten de Vietnam'ın sömürge işgali için bir bahaneydi. Fransız misyonerlerinin idam edilmesi nedeniyle Fransızlar (İspanyol müttefikleriyle birlikte) güney Vietnam'ı işgal etti, ele geçirdi ve elinde tuttu. Fransız ilerleyişi devam etti ve 1887'ye gelindiğinde Fransa, tüm Vietnam, Kamboçya ve Laos'u kontrol ediyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_12">
+			<Text>Fransız Çinhindi sürekli savaş halinde gibiydi. Fransa, Laos üzerindeki iddialar nedeniyle Siyam ile savaştı ve Siyam'la savaşmıyorlarsa Vietnamlı isyancılarla savaşıyorlardı. Son isyan dalgası durduktan hemen sonra II. Dünya Savaşı başladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_13">
+			<Text>Bu noktada Vietnam sahnesine başka bir figür girer: Hồ Chí Minh. Hồ, Fransa'da eğitim görmüş, ilk gençlik yıllarında ABD ve İngiltere'de beden işçiliği yapmış ve keskin zekalı bir siyaset bilimciydi. Hồ, Fransız, Amerikan ve Rus olmak üzere her türden devrimciyle sempati kurmaya başladı ve II. Dünya Savaşı'nda Vietnam'a dönerek işgalci Japon ve Vichy Fransız kuvvetlerine karşı savaştı. Savaşın ardından Hồ, tuhaf bir şekilde tanıdık gelen şu sözle başlayan Vietnam Bağımsızlık Bildirgesi'ni okudu: 'Bütün insanlar eşit yaratılmıştır; Yaratıcıları tarafından devredilemez bazı haklarla donatılmışlardır; bunlar arasında Yaşam, Özgürlük ve mutluluğu arama hakkı vardır.' Gerçekten de II. Dünya Savaşı'nda Mihver devletlerine karşı mücadelesinde Amerikalılar tarafından desteklenen Hồ, kısaca ABD'nin Vietnam'ın Fransa'dan bağımsızlığını destekleyeceğini düşünmüştü. Bu konuda yanılıyordu ve ABD'nin Fransız sömürge işgaline desteği, Hồ'nun merkezi Hanoi'de bulunan Việt Minh hareketini giderek Sovyetler Birliği'ne yaklaştırdı. Vietnam kuvvetleri nihayetinde Diên Biên Phu Muharebesi'nde Fransızları yenerek 1954'te Fransız işgalini sona erdirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VIETNAM_CHAPTER_HISTORY_PARA_14">
+			<Text>Ancak savaşın sonunda Vietnam, Sovyet destekli Kuzey ile ABD destekli Güney arasında bölünmüştü. Bu bölünme, bağımsızlıktan hemen sonra açık savaşa dönüştü ve ABD'nin Vietnam Savaşı, Vietnamlıların ise Amerikan Savaşı dediği bir çatışmaya yol açtı. Hồ ve kuzey Vietnam kuvvetleri bu savaşta galip geldi ve bugün hala varlığını sürdüren Vietnam Sosyalist Cumhuriyeti'ni kurdu. Ancak savaşın hemen ardından bir başkası geldi – Vietnam, katil Khmer Rouge rejimini devirmek amacıyla Kamboçya'yı işgal etti. Khmer Rouge, Çin'in müttefikiydi ve bu savaş, 1979'da (bir kez daha) Çin istilasına yol açtı. Neredeyse bir asır süren sürekli savaşın ardından Vietnamlılar, bir başka direniş eylemi olarak Çin kuvvetlerini püskürttü.</Text>
+		</Row>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_TITLE">
+			<Text>Kubilay Han (Çin)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_QUOTE">
+			<Text>Bundan böyle birbirinizle dostça ilişkiler kurun. Tüm ülkelerin tek bir aileye ait olduğunu düşünüyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_1">
+			<Text>Moğol İmparatorluğu'nu genişletip birleştirebilecek biri varsa, o da Cengiz Han'ın torunuydu. Kubilay Han, MS 1260'tan 1294'e kadar hüküm sürdü ve Kore Yarımadası'ndan günümüz Bağdat'ının sınırlarına kadar uzanan bir imparatorluk kurdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_2">
+			<Text>Kubilay, MS 1215'te doğdu ve Tuluy'un dördüncü oğluydu. Daha çocukken yetenekli bir binici ve savaşçı olduğunu kanıtladı. Babasının seferlerine katıldı ve henüz ergenlik çağındayken saygın bir dövüşçü olarak ün kazandı. Kubilay ayrıca kendini eğitmeye, özellikle Çin sanatı ve edebiyatına zaman ayırdı; bu bilgi birikimi, daha sonra Yuan İmparatoru olduğunda işine yarayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_3">
+			<Text>Babasının ölümünden sonra Kubilay, veraset çizgisini izledi. Sonunda Büyük Han unvanı, Kubilay'ın ağabeyi Möngke'ye geçti. Başlangıçta ağabeyinin yönetimini destekledi ve sadakati ona ilhan yani genel vali makamını kazandırdı. Bu süreyi ağabeyinden öğrenmek, müttefikler edinmek, danışmanlarını toplamak ve gerektiğinde sahada bir savaşçı olarak hizmet etmek için kullandı. Ancak ağabeyinin MS 1259'da ölümünün ardından, Büyük Han unvanı için küçük kardeşi Arık Böke'ye (Kubilay'dan çok daha sabırsız olan) karşı savaşmak zorunda kaldı. Arık Böke'nin popülaritesine rağmen Kubilay, daha fazla kaynağa ve Orta Asya'nın dört bir yanından gelen birçok prensin desteğine sahipti; bu da ona unvanı güvence altına almak için gereken avantajı sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_4">
+			<Text>Ancak 'Büyük Han' olmak yeterli değildi. Kubilay daha fazlasını istiyordu. Büyük resme baktığında bölünmüş bir imparatorluk gördü; dedesinin mirasının kalıntılarıydı bunlar. Bu mirası yeniden birleştirmeyi ve daha da ileriye taşımayı amaçladı. Gözünü Çin'e dikti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_5">
+			<Text>Çin'e yapılan ilk akın beş yıl sürdü, ancak Kubilay istikrarlı bir şekilde Çin şehirlerini ele geçirdi; önce Hsiang-yang ve Fan-ch'eng'i aldı, ardından MS 1276'da Song'un başkenti Lin-an'ı fethetti. Merhametli davranarak Çinli çocuk-imparatoru ve annesini bağışladı; ikisini de sarayında siyasi tutsak olarak alıkoydu. MS 1278'de, önünde duran son prensi kesin bir deniz savaşıyla mağlup ederek imparator ilan edilme hedefine ulaştı. Bu zaferle tüm Çin'e hükmeden ilk Moğol oldu. Yuan Hanedanı'nı kurdu ve ilk hükümdarı olarak görev yaptı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_6">
+			<Text>Kubilay, stratejik bir hamleyle kendini geleneksel Çin imparatorları kılığına soktu. Yeni tebaasına kendisini ve Moğol geleneklerini zorla kabul ettirmek yerine, onları bir kıymık gibi yavaşça soktu; fark edilir ama pek de rahatsızlık vermeyen bir tarzda. Elbette Kubilay, Moğolların özellikle hükümetin üst kademelerinde gücü ellerinde tutmasını sağladı, ancak yeni tebaasını baskı altına almadı. Tüccarlar, zanaatkârlar, Orta Asyalılar ve Moğol aristokrasisi yeni imparatorlukta yüksek mevkilerde yer aldı. Han Çinlileri ise orta ve alt sınıf vatandaşlar konumuna indirildi ve devlet memurluğu yapamadılar. Ancak özellikle iyi eğitimli olanların bazı idari görevler almasına izin verildi. Diğer dinlere hoşgörü gösterdi ve Konfüçyüsçü idealleri destekledi; yönetim tarzı, geleneksel Moğol krallığından ziyade Han Çinlilerinin alışık olduğu tarza daha yakındı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_7">
+			<Text>Kubilay, imparator olarak hükümdarlığı sırasında birçok ekonomik ve sınıfsal değişiklik yaptı. İşlemlerde kâğıt paranın kullanımını teşvik etti ve Batı ile ticareti özendirdi; şaşırtıcı bir şekilde Batılı misyonerleri kabul etti ve Papa X. Gregorius ile doğrudan temas kurdu. Kubilay ayrıca Niccolo Polo'nun oğlu Marco'yu da tanırdı. Marco Polo, günlüklerinde Kubilay'dan övgüyle bahsetti ve ikili en az on yedi yıl boyunca yakın bir ilişki sürdürdü. Yeni rejim altında tüccarlar ve zanaatkârlar, kısmen Kubilay'ın Çin'de üretilen ince porselene olan hayranlığı sayesinde vergi indiriminden yararlandı. Kubilay'ın yönetimi altında ekonomi, Moğolların değerli ticaret yollarını kontrol etme ve koruma kabiliyeti sayesinde büyüdü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_8">
+			<Text>Kubilay genellikle iyi karşılanıp hayırsever bir imparator olarak görülse de, herkes onunla veya politikalarıyla aynı fikirde değildi. Han Çinlisi vatandaşlar, yeni sınıf yapısı ve beraberinde gelen yüksek vergilerden pek memnun değildi. Kuzeni Kaydu, Kubilay'ın hükümdarlığı boyunca sürekli bir tehdit olarak varlığını sürdürdü. Ancak Kaydu, Büyük Han'ı ve İmparatoru tahttan indirme girişimlerinde hiçbir zaman başarılı olamadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_9">
+			<Text>Kubilay, imparator olduğu süre boyunca zaten devasa olan imparatorluğunu daha da genişletmek için savaştı. Bazı bölgeler hızla teslim olurken, diğerleri direndi; kimi zaman görünüşe göre savaş becerisinden çok şansla. Japonya'yı iki kez istila etmeye kalkıştı, ancak her iki istila da Japonların üstün donanma gücü veya zamanlaması mükemmel fırtınalar yüzünden başarısız oldu – kamikaze yani 'kutsal rüzgar'.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_HISTORY_PARA_10">
+			<Text>Kubilay'ın verimli hükümdarlığı, MS 1294'te öldüğünde otuz dört yıl sonra sona erdi. En sevdiği eşinin ve en büyük oğlunun kaybı onu depresyona sürükledi. Yetmiş dokuz yaşına kadar yaşamıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_CAPSULE_BODY">
+			<Text>Kubilay Han, büyükbabasının aksine, [ICON_TradeRoute] Ticaret Yolları kurmaya ve beraberindeki [ICON_TechBoosted] Buluşlar ile [ICON_CivicBoosted] İlhamları kullanarak bir Bilim zaferine odaklanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_CHINA_CHAPTER_DETAILED_BODY">
+			<Text>Fazladan bir Ekonomik Politika yuvasına sahip olan Kubilay Han, çeşitli zaferler için elverişli bir konumdadır. Ancak [ICON_TradeRoute] Ticaret Yolları işlemeye devam etmelidir, bu yüzden yeni savaşlar planlarken dikkatli olmalıdır. Kubilay her zaman yeni dostlar arar; zira yabancı bir Uygarlıktaki ilk başarılı [ICON_TradingPost] Ticaret Karakolu'ndan [ICON_TechBoosted] Buluşlar ve [ICON_CivicBoosted] İlhamlar alır; bu ilerlemeler bir Bilim veya Kültür Zaferine yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_TITLE">
+			<Text>Kubilay Han (Moğolistan)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_CAPSULE_BODY">
+			<Text>Kubilay Han, büyükbabasının aksine, [ICON_TradeRoute] Ticaret Yolları kurmaya ve beraberindeki [ICON_TechBoosted] Buluşlar ile [ICON_CivicBoosted] İlhamları kullanarak bir Bilim zaferine odaklanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_DETAILED_BODY">
+			<Text>Fazladan bir Ekonomik Politika yuvasına sahip olan Kubilay Han, çeşitli zaferler için elverişli bir konumdadır. Ancak [ICON_TradeRoute] Ticaret Yolları işlemeye devam etmelidir, bu yüzden yeni savaşlar planlarken dikkatli olmalıdır. Kubilay her zaman yeni dostlar arar; zira yabancı bir Uygarlıktaki ilk başarılı [ICON_TradingPost] Ticaret Karakolu'ndan [ICON_TechBoosted] Buluşlar ve [ICON_CivicBoosted] İlhamlar alır; bu ilerlemeler bir Bilim veya Kültür Zaferine yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Moğol İmparatorluğu'nu genişletip birleştirebilecek biri varsa, o da Cengiz Han'ın torunuydu. Kubilay Han, MS 1260'tan 1294'e kadar hüküm sürdü ve Kore Yarımadası'ndan günümüz Bağdat'ının sınırlarına kadar uzanan bir imparatorluk kurdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Kubilay, MS 1215'te doğdu ve Tuluy'un dördüncü oğluydu. Daha çocukken yetenekli bir binici ve savaşçı olduğunu kanıtladı. Babasının seferlerine katıldı ve henüz ergenlik çağındayken saygın bir dövüşçü olarak ün kazandı. Kubilay ayrıca kendini eğitmeye, özellikle Çin sanatı ve edebiyatına zaman ayırdı; bu bilgi birikimi, daha sonra Yuan İmparatoru olduğunda işine yarayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Babasının ölümünden sonra Kubilay, veraset çizgisini izledi. Sonunda Büyük Han unvanı, Kubilay'ın ağabeyi Möngke'ye geçti. Başlangıçta ağabeyinin yönetimini destekledi ve sadakati ona ilhan yani genel vali makamını kazandırdı. Bu süreyi ağabeyinden öğrenmek, müttefikler edinmek, danışmanlarını toplamak ve gerektiğinde sahada bir savaşçı olarak hizmet etmek için kullandı. Ancak ağabeyinin MS 1259'da ölümünün ardından, Büyük Han unvanı için küçük kardeşi Arık Böke'ye (Kubilay'dan çok daha sabırsız olan) karşı savaşmak zorunda kaldı. Arık Böke'nin popülaritesine rağmen Kubilay, daha fazla kaynağa ve Orta Asya'nın dört bir yanından gelen birçok prensin desteğine sahipti; bu da ona unvanı güvence altına almak için gereken avantajı sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_4">
+			<Text>Ancak 'Büyük Han' olmak yeterli değildi. Kubilay daha fazlasını istiyordu. Büyük resme baktığında bölünmüş bir imparatorluk gördü; dedesinin mirasının kalıntılarıydı bunlar. Bu mirası yeniden birleştirmeyi ve daha da ileriye taşımayı amaçladı. Gözünü Çin'e dikti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_5">
+			<Text>Çin'e yapılan ilk akın beş yıl sürdü, ancak Kubilay istikrarlı bir şekilde Çin şehirlerini ele geçirdi; önce Hsiang-yang ve Fan-ch'eng'i aldı, ardından MS 1276'da Song'un başkenti Lin-an'ı fethetti. Merhametli davranarak Çinli çocuk-imparatoru ve annesini bağışladı; ikisini de sarayında siyasi tutsak olarak alıkoydu. MS 1278'de, önünde duran son prensi kesin bir deniz savaşıyla mağlup ederek imparator ilan edilme hedefine ulaştı. Bu zaferle tüm Çin'e hükmeden ilk Moğol oldu. Yuan Hanedanı'nı kurdu ve ilk hükümdarı olarak görev yaptı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_6">
+			<Text>Kubilay, stratejik bir hamleyle kendisini geleneksel Çin imparatorları kılığında takdim etti. Yeni tebaasına kendisini ve Moğol âdetlerini zorla kabul ettirmek yerine, bunları bir kıymık misali yavaşça nüfuz ettirdi; fark edilir, ancak fazla rahatsız etmezdi. Kubilay, elbette Moğolların, özellikle hükümetin üst kademelerinde gücü elinde tutmasını sağladı; ancak yeni tebaasını baskı altına almadı. Tüccarlar, zanaatkârlar, Orta Asyalılar ve Moğol aristokrasisi yeni imparatorlukta yüksek mevkilerde yer aldı. Han Çinlileri ise orta ve alt sınıf vatandaşlar konumuna indirgenmişti ve devlet memurluğu yapmaları yasaktı. Yine de iyi eğitimli olanların bir kısmının idari görevlerde bulunmasına izin verildi. Kubilay, diğer dinlere hoşgörü gösterdi, Konfüçyüsçü idealleri teşvik etti ve yönetim tarzıyla geleneksel Moğol krallık anlayışından ziyade Han Çinlilerinin alışkın olduğu düzene daha yakın bir çizgi izledi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_7">
+			<Text>Kubilay, imparatorluğu boyunca ekonomik ve sınıfsal birçok değişiklik yaptı. Kâğıt paranın ticarette kullanımını teşvik etti ve Batı ile ticareti geliştirmeye çalıştı; şaşırtıcı bir şekilde, Batılı misyonerleri kabul ederek Papa X. Gregorius ile doğrudan temas kurdu. Kubilay ayrıca Niccolò Polo'nun oğlu Marco'yu da tanırdı. Marco Polo, seyahat günlüklerinde Kubilay hakkında olumlu ifadeler kullandı ve ikili en az on yedi yıl boyunca yakın bir ilişki sürdürdü. Tüccarlar ve zanaatkârlar, yeni rejim altında vergi indirimi elde etti; bu durum kısmen Kubilay'ın Çin'de üretilen ince porselenlere olan takdirinden kaynaklanıyordu. Moğolların değerli ticaret yollarını kontrol etme ve koruma becerisi sayesinde, Kubilay'ın yönetiminde ekonomi büyüdü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Kubilay genellikle iyi karşılanmış ve hayırsever bir imparator olarak görülmüş olsa da, herkes onu veya politikalarını onaylamıyordu. Han Çinlisi vatandaşlar, yeni sınıf yapısı ve beraberinde gelen yüksek vergiler karşısında pek memnun değildi. Kuzeni Kaydu, Kubilay'ın hükümdarlığı boyunca sürekli bir tehdit oluşturdu. Ancak Kaydu, Büyük Han ve İmparator'u tahttan indirme girişimlerinde hiçbir zaman başarılı olamadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_9">
+			<Text>Kubilay, imparator olarak geçirdiği süre boyunca zaten devasa olan imparatorluğunu daha da genişletmek için savaştı. Bazı bölgeler hızla teslim olurken, diğerleri direndi; bazen de görünüşe göre savaş becerisinden çok şansın yardımıyla karşı koyuldu. Japonya'yı iki kez istila etmeye kalkıştı, ancak her iki istila da Japonların üstün donanma kuvvetleri ya da zamanlaması mükemmel fırtınalar – yani 'kamikaze' veya 'kutsal rüzgâr' – yüzünden başarısız oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KUBLAI_KHAN_MONGOLIA_CHAPTER_HISTORY_PARA_10">
+			<Text>Kubilay'ın verimli hükümdarlığı, 1294 yılında ölümüyle otuz dört yıl sonra sona erdi. En sevdiği eşinin ve en büyük oğlunun kaybı onu depresyona sürükledi; ancak yetmiş dokuz yaşına kadar yaşadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_TITLE">
+			<Text>Bà Triệu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_QUOTE">
+			<Text>Tek isteğim rüzgâra binmek, dalgaların üzerinde yürümek, doğu denizinin koca balinalarını öldürmek, sınırları temizlemek ve halkı boğulmaktan kurtarmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_1">
+			<Text>Vietnam'ın kendisini fethetmek isteyenlerle uzun bir savaş geçmişi vardır. Bu mücadelelerin bazı liderleri kahraman, hatta yerel tanrılar olarak kabul edilir. Bunların en eskilerinden birinin adı Triệu idi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_2">
+			<Text>Milattan sonra 200'lü yılların başında kuzey Vietnam, kıta genelinde iktidar mücadelesi veren üç Çin krallığından biri olan Wu Krallığı tarafından işgal edilmişti. Bu gergin bir durum yaratıyordu – Wu, 'barbar güney' olarak nitelendirdikleri toprakları işgal etmekten tedirgin ve gergindi; Vietnamlılar ise sürekli bağımsızlık için ayaklanıyordu. Çinliler, Han Hanedanı'nın yüz yılı aşkın bir süre önce yaşadığı Trưng Kızkardeşler ayaklanmasını hatırlıyor olabilirdi – Vietnamlılar kesinlikle hatırlıyordu. Ve bu ortamda, o zamanlar Cửu Chân olarak adlandırılan, günümüz Hanoi'si yakınlarındaki bir eyalette dikkat çekici bir kadın ortaya çıktı. Bà Triệu ('Hanım Triệu', ayrıca Triệu Thị Trinh olarak da bilinir, ancak asıl adı bilinmemektedir) yalnızca işgalci Çinlilere karşı değil, aynı zamanda kendi toplumunun kendisinden beklediklerine karşı da savaştı. Rivayete göre şöyle demiştir: 'Fırtınalara binmek, açık denizlerdeki katil balinaları öldürmek, yabancı saldırganları kovmak, ülkeyi yeniden fethetmek, kölelik bağlarını çözmek ve herhangi bir erkeğin cariyesi olmak için belimi asla bükmemek isterim.'</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_3">
+			<Text>Erken yaşamı kayıp, baskı ve suiistimalle doluydu. Öksüz kaldı ve ağabeyi ile onun karısı tarafından büyütüldü; ancak yengesi, beslenecek fazladan bir ağız konusunda pek istekli değildi. O zamanlar Vietnam'da hayat zordu, ama Triệu bir şeyler yapmaya karar verdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_4">
+			<Text>Triệu on dokuz yaşına geldiğinde şiddet dolu evini terk etti ve çıkarken yengesini öldürdü. Yakındaki bir dağa kaçtı ve aylar boyunca gece gündüz savaşa hazırlanmaya başladı. Geçmişine, halkının maruz kaldığı baskıya ve kadınların o dönemde nasıl yaşaması beklendiğine öfkeliydi; bu adaletsizliklere son vermenin bir yolunu arıyordu. Dağın tepesinde Çinlilere karşı bir isyan hazırlayan güçlü bir savaşçı olduğu yönünde söylentiler yayılmaya başladı ve savaşçılar Triệu'ya akın etti. Bu söylentiler, ağabeyini (karısının ölmesine pek aldırış etmemiş gibiydi – belki bu Triệu'nun yengesi hakkında bir şeyler anlatıyordur...) dağa yöneltti ve ona savaştan vazgeçmesi için yalvardı. Triệu caydırılamadı ve sonunda ağabeyini kendisine ve bin savaşçılı ordusuna katılmaya ikna etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_5">
+			<Text>248 yılında Bà Triệu saldırıya geçti. Asimetrik olarak güçlü bir işgal gücüne karşı gerilla taktikleri kullanarak otuzun üzerinde savaşa katıldı – bu, Vietnam tarihinde tekrarlanan bir temaydı. Çinliler önceleri onu bir kadın olduğu için hafife aldı, ancak zaman geçtikçe neredeyse efsanevi, korkunç bir figür haline geldi. Rivayete göre yaklaşık üç metre boyundaydı ve savaşa bir filin sırtında çıkıyor, bir tapınak çanı gibi yankılanan bir sesle haykırıyordu. Parlak altın zırh ya da diğer zamanlarda altın bir cüppe giyiyordu (bir hesaba göre, bir yarda uzunluğundaki göğüslerini sürerken omuzlarının üzerine atarak) ve her iki elinde birer kılıç taşıyordu. En korkutucu olanı ise güzelliği ve ateşli öfkesiydi. Savaş alanındaki hüneri ve üniforması ona 'Altın Cüppeli Kadın General' unvanını kazandırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_6">
+			<Text>Triệu'nun ayaklanmasını bastırmakla görevlendirilen askeri general Lu Yin, yalnızca genç bir rakip tarafından değil, aynı zamanda bir kadın tarafından da aşağılanmaktan bıkmıştı. Wu Hanedanı çatışmayı tırmandırarak Vietnam'a giderek daha fazla asker yığdı; sonunda Triệu'nun yerel direnişi buna ayak uyduramaz hale geldi. Orduları tükendi ve aylar süren yoğun çarpışmaların ardından nihayetinde yenilgiye uğratıldı. Ancak düşmanı tarafından ele geçirilmektense kendi ölümünü seçti ve rivayete göre bir nehirde kendini boğdu. Öldüğünde henüz yirmili yaşlarının başındaydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_HISTORY_PARA_7">
+			<Text>Sonraki Vietnam imparatorları, Bà Triệu'yu yalnızca ulusal bir kahraman olarak değil, bir tanrıça olarak da onurlandırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_CAPSULE_BODY">
+			<Text>Bà Triệu, [ICON_Culture] Kültür elde ederken etkili bir savunma için birimlerinin hareket bonuslarından ve daha ucuz Thành bölgelerinden yararlanır – ya da bir Hakimiyet Zaferi başlatmak için bir üs olarak kullanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_TRIEU_CHAPTER_DETAILED_BODY">
+			<Text>Vietnam, fethedilmesi zor bir uygarlıktır. Diğer uygarlıkların birimleri zorlu arazilerde yavaşlarken, Bà Triệu'nun askeri birimleri Bataklıklar, Koruluklar veya Yağmur Ormanları'nda ek hareket ve savunma kazanır; bu ona bu tür bölgelerde savaşırken net bir avantaj sağlar. Ayrıca, Thành bölgelerini tipik nüfus gereksinimleri olmadan inşa edebilir, bu da anavatanına ek bir savunma katmanı ve ek [ICON_Culture] Kültür sağlar. Bà Triệu'nun Uzmanlık Bölgeleri – Ordugâh'ın aksine Uzmanlık Bölgesi olmayan Thành hariç – Koruluk, Yağmur Ormanı veya Bataklıklar ile sınırlı olsa da, İşçileri ormanları daha erken dikebilir ve yeni bölgeler için arazileri serbest bırakabilir. Vietnam, askeri veya kültürel zaferler arayışında son derece etkili bir savunma uygarlığıdır.</Text>
+		</Row>
+		<!-- buildings and districts -->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_THANH_CHAPTER_HISTORY_PARA_1">
+			<Text>Thành sözcüğü bir hisar veya kaleyi ifade eder, ancak klasik Vietnam mimarisi askeri korumayı mimari sanatla birleştirmiştir. Vietnam'daki en eski thành, günümüz Hà Nội'sinin bir semtinde bulunan Thành Cổ Loa'dır. Yerel efsaneye göre kral, sürekli olarak bir kaplumbağanın sırtında thành inşa etmeye çalışarak büyülü bir kaplumbağayı kızdırmış. Bu büyülü, konuşan ve son derece öfkeli kaplumbağanın farkına varan kral, thành için yeni bir yer bulmayı kabul etmiş. Teşekkür olarak kaplumbağa, krala sıradan bir tüfekten bin kat daha güçlü büyülü bir tatar yayı vermiş. Tatar yayı zamanla kaybolmuş olsa da, hisar hâlâ sarmal dış duvarları ve dikdörtgen iç kalesiyle ayakta durmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_THANH_CHAPTER_HISTORY_PARA_2">
+			<Text>Thành genellikle bir hendekle çevrili dikdörtgen bir iç kaleye sahipti. Hisarın duvarları kalın ve dayanıklı olabilirdi, ancak en azından Huế'deki muhteşem thành örneğinde, üst kat sıklıkla ejderhalar ve kraliyetin diğer uğurlu sembolleriyle güzelce boyanmış ve oyulmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_THANH_CHAPTER_HISTORY_PARA_3">
+			<Text>Hà Nội'nin merkezinde, Thăng Long thành'ı, bodur merkez kulesi ve kalın duvarlarıyla şehrin en belirgin sembolü olmaya devam ediyor. 1010 yılında inşa edilen bu merkezi kale o kadar etkileyiciydi ki, kraliyet ailesinden sömürge dönemindeki Fransız ordusuna, Japon imparatorluk ordusu (hapishane olarak) ve komünist Vietnam Halk Ordusu'na kadar farklı gruplar tarafından üs olarak kullanıldı. Ancak sadece bir askeri karakol değildi; oymalı taş ejderhalar, gösterişli saraylarla (şimdi yıkılmış durumda) süslenmişti ve günümüzde müze olarak hizmet vermektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_PRESERVE_CHAPTER_HISTORY_PARA_1">
+			<Text>1862'de Amerikalı yazar Henry David Thoreau, 'dünyanın korunması, vahşi doğadadır' diye yazmıştı. Thoreau, elbette belirli bir kültürel ve tarihsel arka plandan yazıyor, doğayı insan ruhunu onaran bir şey olarak gören Romantik bir bakış açısını savunuyordu; ancak söyledikleri birçok zaman ve mekânda uygarlıklar için geçerli olmuştur. Uygarlıklar, doğal dünyayı değiştirirken hatta bazen tamamen yok ederken bile, kaybettiklerinin bir kısmını korumaya çalışır, belki de erişimlerinin dışında kalan bir şey olduğunu görerek. Japonya'daki Şinto tapınakları, doğa ruhlarını onurlandırmak için korunmuş ağaç koruları, şelaleler ve hatta geyik sürüleri barındırır. Ortaçağ ve erken modern Avrupa sarayları, soylular için av koruma alanlarına sahipti; bu yerler çoğu zaman kitlelerin dinlenmesi ve yenilenmesi için halk parklarına dönüştürülmüştür. Bunlar Thoreau'nun kastettiği anlamda tam olarak vahşi alanlar değil, daha çok şehrin güzellik, dinlenme, avcılık, spor, tefekkür, meditasyon veya sadece biraz temiz hava amaçlarına hizmet etmek için yetiştirilmiş ve budanmış bir vahşiliktir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GROVE_CHAPTER_HISTORY_PARA_1">
+			<Text>Yarı vahşi korular, birçok halkın dini ve hayal dünyasında derin izler bırakmıştır. 11. yüzyıl Alman tarihçisi Bremenli Adam, günümüz İsveç'inde bulunan Uppsala'daki koruyu anlatır; Odin, Thor ve Frey'e adanan insan kurbanlarının burada asıldığı söylenir. Baltık ve Kelt halkları da yaşlı ağaç kümelerini – özellikle Keltler için meşeyi – kutsal saymışlardır. Kyoto şehrinde, Arashiyama'daki bambu koru, tapınaklarıyla ünlü bu kentin en huzurlu ve kutsal mekânlarından biri olmaya devam etmektedir. Ancak belki de en ünlü koru, Buda'nın doğduğu orman bahçesi olan Lumbini'dir. Korunup bakılan kadim ağaçlardan oluşan bir koru, bir koruma alanına canlı, kutsal ve kültürel bir kalp kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SANCTUARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Sanayi Çağı ve sonrasında, doğal arazilerin soyluların eğlencesi veya rahiplerin tefekkürü için korunması fikri, çoğu zaman imparatorluk ihtiyaçlarına yenik düştü. Britanya İmparatorluğu, biri 1840'ta bugünkü haliyle açılan Kew Bahçeleri ve diğeri 1859'da Singapur'da olmak üzere iki botanik araştırma tesisi kurdu. Bunlar yalnızca halkın gezinti yapabileceği yerler değil, aynı zamanda imparatorluk genelinde kullanılmak üzere yeni mahsul türlerinin geliştirilebildiği bilimsel araştırma merkezleriydi. Berlin'deki Grunewald gibi av köşkleri, Berlin fabrikalarında çalışan işçiler için halka açık parklara dönüştürüldü; tapınak sığınakları ise yalnızca rahiplerin ve keşişlerin değil, herkesin meditasyon yapabileceği mekânlar haline geldi. Ekologlar da burada, hızla gerileyen (ve hâlâ gerilemekte olan) doğal dünyaya bir pencere açma fırsatı buldular. 'Sığınak' sözcüğü burada çifte anlam taşır: hem bilim, sanat ve din için 'vahşi'nin korunması, hem de mesai saatinin, fabrika düdüğünün veya akıllı telefonun taleplerinden kaçış yeri.</Text>
+		</Row>
+	<!-- units -->
+	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VIETNAMESE_VOI_CHIEN_CHAPTER_HISTORY_PARA_1">
+	<Text>Burma'dan Siyam'a ve Kamboçya'ya kadar Güneydoğu Asya uygarlıklarında fil, kraliyet gücünün en belirgin simgesidir. Savaş filine binmiş, uzun bir mızrak kuşanmış bir Güneydoğu Asya şövalyesi, korkulan bir düşman olurdu; sırtında bir tatar yayı taşıyan fil ise ölümcül ve hareketli bir kuşatma silahına dönüşebilirdi. Barutun ortaya çıkışıyla bile, bir filin sırtının sağladığı yüksek mevzi, keskin nişancıya etkileyici bir taktik avantaj sağlıyordu. Vietnam'da savaş filleri – voi chiến – 13. yüzyılda Moğol ilerleyişini durdurmak için kullanıldı. Ancak fil, Vietnam'da bundan çok daha önce, hem bir silah hem de bir güç sembolü olarak önemliydi. MS 1. yüzyılda Trưng kız kardeşler, Çin Han hanedanına karşı verdikleri isyan savaşında fillere binerek savaştılar. Daha sonra, Çin'le olan bir başka çatışmada Bà Triệu da bir savaş filinin üzerinde tasvir edilmiştir.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VIETNAMESE_VOI_CHIEN_CHAPTER_HISTORY_PARA_2">
+	<Text>Filler tüfek ateşine karşı koyabilse de, toplar bambaşka bir hikâyeydi. Yirminci yüzyıla gelindiğinde savaş filleri büyük ölçüde kullanımdan kalktı; ancak Vietnamlılar, Fransa, Amerika Birleşik Devletleri ve Çin'e karşı savaşlarda orman içinde erzak ve askerleri hızlıca ve sessizce taşımak için hâlâ fillerden yararlanıyordu. Bu tür destek filleri günümüzde hâlâ Myanmar'daki (eski Burma) Kaçinli isyancı gruplar tarafından kullanılmaktadır.</Text>
+	</Row>
+	</EnglishText>
+</GameData>

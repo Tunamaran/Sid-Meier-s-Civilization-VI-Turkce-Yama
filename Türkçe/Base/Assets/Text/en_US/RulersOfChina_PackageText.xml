@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_RULERS_OF_CHINA_MOD_TITLE">
+			<Text>Çin Hükümdarları Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_RULERS_OF_CHINA_MOD_TEASER">
+			<Text>Yeni Alternatif Liderler - Çin'den Yongle, Çin'den Wu Zetian ve Çin'den Qin (Birleştirici)</Text>
+		</Row>
+		<Row Tag="LOC_RULERS_OF_CHINA_MOD_DESCRIPTION">
+			<Text>Mevcut Uygarlıklar için 3 yeni alternatif Lider içerir. Yongle, Wu Zetian ve Qin (Birleştirici)'yi kapsar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

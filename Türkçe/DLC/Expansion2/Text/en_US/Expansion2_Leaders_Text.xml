@@ -1,0 +1,260 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
+			<Text>Angevin İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
+			<Text>Kanada Seferi Kuvveti</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KAITIAKITANGA_NAME">
+			<Text>Kaitiakitanga</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAWGIVER_NAME">
+			<Text>Kanun Koyucu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LORD_OF_MINES_NAME">
+			<Text>Madenlerin Efendisi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAVEN_BANNER_NAME">
+			<Text>Kuzgun Sancağı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PATRON_OF_ARTS_NAME">
+			<Text>Kitapsever</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAPA_INCA_NAME">
+			<Text>Sapa İnka</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SICILIAN_WARS_NAME">
+			<Text>Sicilya Savaşları</Text>
+		</Row>
+		<!--Random Agenda Names-->
+		<Row Tag="LOC_AGENDA_DEMAGOGUE_NAME">
+			<Text>Demagog</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DESTINATION_CIV_NAME">
+			<Text>Hedef Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPANSIONIST_NAME">
+			<Text>Yayılmacı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLAT_EARTHER_NAME">
+			<Text>Düz Dünyacı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
+			<Text>Büyük Beyaz Filo</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INTOLERANT_NAME">
+			<Text>Hoşgörüsüz</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIBERTARIAN_NAME">
+			<Text>Liberteryen</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PILLAGER_NAME">
+			<Text>Yağmacı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TURTLER_NAME">
+			<Text>Kaplumbağa</Text>
+		</Row>
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
+			<Text>Kalabalık şehirler inşa eder. Yakınlarındaki şehirlerde yüksek [ICON_Citizen] Nüfus bulunan uygarlıkları sever. Kolayca bağlılığını kaybedebilecek küçük şehirlere sahip uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
+			<Text>Mümkün olduğunca çok Acil Durum ve Puanlı Yarışmaya yanıt verir. Bu tür etkinliklere katılanları sever; katılmayanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
+			<Text>İmparatorluğunda doğal özellikleri korur ve Milli Parklar inşa eder. Çevreye saygı duyan uygarlıkları sever; gezegene kötü davrananlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAWGIVER_DESCRIPTION">
+			<Text>Vatandaşlarını mutlu ve sadık tutar. Benzer önceliklere sahip olanlardan etkilenir, özellikle de şehirleri birçok oyuncu tarafından kurulmuşsa. Mutluluk/sadakat sorunları olan veya az sayıda ele geçirilmiş şehri bulunanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
+			<Text>Şehirlerden ve [ICON_TradeRoute] Ticaret Yolları'ndan [ICON_Gold] Altın çıktısını en üst düzeye çıkarmaya çalışır. Benzer şekilde davranan uygarlıklara saygı duyar, böyle davranmayanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
+			<Text>Şehir devletlerinden asker toplar. Ayrıca şehir devleti askerlerini kullanan uygarlıkları sever, bu tür paralı askerleri reddedenlerden hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
+			<Text>Herkesden daha fazla Büyük Eser'e sahip olmak ister. Büyük Eserleri ona bırakanları sever, aynı zamanda birçok Büyük Eser'e sahip olanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAPA_INCA_DESCRIPTION">
+			<Text>Dağların yakınına yerleşmek ister. Dağların yakınındaki alanları ona bırakanları sever, ayrıca Dağların yakınına yerleşenlerden hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
+			<Text>Kıyı şehirleri kurmak ister. İç kesimlere yerleşenleri sever. Çoğunlukla kıyı şehirleri olanlardan hoşlanmaz.</Text>
+		</Row>
+		<!--Updated Base Game Agenda Descriptions-->
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Bir barış anlaşmasında asla ödün vermez ve bu yaklaşımı benimseyen uygarlıkları sever. Teslim olmuş veya hiç savaşa girmemiş uygarlıklardan hoşlanmaz. Bu lidere karşı oluşan Şikayetler, normal hızın iki katı oranında azalır.</Text>
+		</Row>
+		<!--Random Agenda Descriptions-->
+		<Row Tag="LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
+			<Text>En fazla [ICON_FAVOR] Diplomatik Destek kazanan uygarlık olmak ister, [ICON_FAVOR] Diplomatik Destek konusunda rekabet edenlerden hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
+			<Text>En fazla [ICON_Tourism] Turizm'e sahip uygarlık olmak ister, [ICON_Tourism] Turizm konusunda rekabet edenlerden hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
+			<Text>İnsanlığın dünyayı dolaşmasını veya uzaya gitmesini engellemek ister.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
+			<Text>Diplomatik Zafer kazanmak için güçlü bir girişimde bulunan herhangi bir uygarlıktan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PILLAGER_DESCRIPTION">
+			<Text>Mümkün olduğunca çok bölgeyi yağmalamaya çalışır. Yağmalayan diğer uygarlıklara saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TURTLER_DESCRIPTION">
+			<Text>Fetihten uzak durup güvende kalmak ister. Diğer oyuncuların orijinal başkentlerini fethedenlerden hoşlanmaz.</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_AKKAD_NAME">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AKKAD_DESCRIPTION">
+			<Text>Akkad şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AKKAD_ADJECTIVE">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
+			<Text>Akkad Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
+			<Text>Yakın Dövüş ve süvari karşıtı birliklerin saldırıları şehrin Surları'na tam hasar verir.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_NAME">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
+			<Text>Bologna şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
+			<Text>Bologna Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
+			<Text>Bir binaya sahip bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen; bir binaya sahip Tiyatro Meydanı bölgeleri için geçerlidir).</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
+			<Text>Bolognalı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_NAME">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
+			<Text>Cahokia şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
+			<Text>Cahokialı</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
+			<Text>Cahokia Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
+			<Text>İşçileriniz artık Cahokia Höyükleri iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]Cahokia Höyükleri +3 [ICON_GOLD] Altın sağlar. Şehirler, ilk Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Doğa Tarihi keşfedildiğinde, şehirler ikinci Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Feodalizm keşfedildiğinde her 2 komşu Bölge için veya Değiştirilebilir Parçalar araştırıldığında her komşu Bölge için +1 [ICON_FOOD] Besin sağlar. +1 [ICON_HOUSING] Konut sağlar. Kültürel Miras keşfedildiğinde ek [ICON_HOUSING] Konut kazanılır. Diğer Cahokia Höyüklerine bitişik inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_NAME">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
+			<Text>Cardiff şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
+			<Text>Cardiffli</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
+			<Text>Cardiff Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
+			<Text>Şehirler, her Liman binası için +2 [ICON_Power] Enerji kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_NAME">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_DESCRIPTION">
+			<Text>Fez şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_ADJECTIVE">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_FEZ_NAME">
+			<Text>Fez Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
+			<Text>Bir şehri ilk kez bir dinî birlik kullanarak dönüştürdüğünüzde, o şehrin [ICON_Citizen] Nüfusu başına 20 [ICON_SCIENCE] Bilim kazanırsınız (Standart Hızda).</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
+			<Text>Mexico City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
+			<Text>Meksiko Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
+			<Text>Meksiko</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
+			<Text>Keşfettiğiniz ancak geliştirmediğiniz her bir Stratejik Kaynaktan Tur Başına 2 adet sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
+			<Text>Meksiko Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
+			<Text>Sanayi Bölgesi, Su Parkı ve Eğlence Kompleksi bölgelerinizden gelen bölgesel etkiler 3 bölge daha uzağa ulaşır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_NAME">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_DESCRIPTION">
+			<Text>Nazca Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_ADJECTIVE">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
+			<Text>Nazca Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
+			<Text>Artık İşçileriniz Nazca Çizgileri iyileştirmesi yapabilir.[NEWLINE][NEWLINE]Nazca Çizgileri, komşu bölgelere +1 [ICON_Faith] İnanç sağlar. Kaynağa sahip komşu bölgelere +1 [ICON_Faith] İnanç. Sivil Hizmet keşfedildikten sonra komşu Çöl ve Çöl Tepesi bölgelerine +1 [ICON_FOOD] Besin. Seri Üretim araştırıldıktan sonra komşu düz bölgelere +1 [ICON_PRODUCTION] Üretim. Ayrıca +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu bölge çalışılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
+			<Text>Ngazargamu Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
+			<Text>Ngazargamu Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
+			<Text>Kara muharebe veya Destek birimleri, o şehirdeki her Ordugah Bölgesi binası için [ICON_GOLD] Altın ile %20 daha ucuza satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_NAME">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
+			<Text>Rapa Nui Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
+			<Text>Rapa Nui Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
+			<Text>Artık İşçileriniz Moai iyileştirmesi yapabilir.[NEWLINE][NEWLINE]Moai +1 [ICON_Culture] Kültür sağlar. Her 2 komşu Moai için +1 [ICON_Culture] Kültür. Volkanik Toprak bölgesinde veya komşusundaysa +2 [ICON_Culture] Kültür. Kıyı veya Göl bölgesine komşuysa +1 [ICON_Culture] Kültür. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_Culture] Kültür ve [ICON_Tourism] Turizm sağlar. Ova, Ova Tepesi, Çayır, Çayır Tepesi veya Volkanik Toprak üzerine inşa edilebilir. Orman veya Yağmur Ormanı bölgesine komşu olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
+			<Text>Artık İşçilerin Manastır iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] İnanç sağlar. Bu bölgedeki saldırmamış dost dini birliklere +15 HP iyileştirme sağlar. Her 2 komşu Bölge için +1 [ICON_FAITH] İnanç. +1 [ICON_HOUSING] Konut sağlar. Sömürgecilik keşfedildiğinde ilave bir [ICON_HOUSING] Konut daha elde edilir. Başka bir Manastırın yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
+			<Text>Artık İşçilerin Devasa Kafa iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Devasa Kafalar +2 [ICON_Faith] İnanç sağlar. Her 2 komşu Yağmur Ormanı için +1 [ICON_Faith] İnanç veya Hümanizm keşfedildikten sonra her komşu Yağmur Ormanı için +1 [ICON_Faith] İnanç. Her 2 komşu Orman için +1 [ICON_Faith] İnanç veya Hümanizm keşfedildikten sonra her komşu Orman için +1 [ICON_Faith] İnanç. Uçuş keşfedildiğinde [ICON_FAITH] İnançtan [ICON_TOURISM] Turizm elde edilir. Kar veya Karlı Tepelere inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
+			<Text>Artık İşçilerin Alkazar iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Alkazarlar +2 [ICON_Culture] Kültür sağlar. Bölgenin Çekicilik değerinin %50'si kadar [ICON_SCIENCE] Bilim sağlar. Bölgedeki birlik +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 turluk tahkimat elde eder. Uçuş araştırıldıktan sonra [ICON_TOURISM] Turizm sağlar. Başka bir Alkazarın yanına inşa edilemez.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

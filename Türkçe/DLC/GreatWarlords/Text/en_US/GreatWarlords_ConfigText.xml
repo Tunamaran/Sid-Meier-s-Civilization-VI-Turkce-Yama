@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tokugawa-->
+		<Row Tag="LOC_LEADER_TOKUGAWA_NAME">
+			<Text>Tokugawa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_NAME">
+			<Text>Bakuhan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları -%25 Getiri ve [ICON_Tourism] Turizm alır, ancak Yurt İçi [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her bir Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür, +1 [ICON_Science] Bilim ve +2 [ICON_Gold] Altın sağlar. Japonya'nın [ICON_Capital] Başkenti'ne 6 bölge mesafedeki şehirler +4 [ICON_Amenities] Olanak kazanır ve Flight teknolojisi araştırıldıktan sonra her Bölge için +1 [ICON_Tourism] Turizm kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_XP_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları -%25 Getiri ve [ICON_Tourism] Turizm alır, ancak Yurt İçi [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her bir Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür, +1 [ICON_Science] Bilim ve +2 [ICON_Gold] Altın sağlar. Japonya'nın [ICON_Capital] Başkenti'ne 6 bölge mesafedeki şehirler %100 bağlıdır ve Flight teknolojisi araştırıldıktan sonra her Bölge için +1 [ICON_Tourism] Turizm kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOKUGAWA">
+			<Text>Büyük Şogun Tokugawa Ieyasu, bilirsin ki sabrın kılıcı hedefi tam on ikiden vurur. Topraklarını içten ve dıştan gelen gasıplara karşı dikkatle koru; halkının becerisine ve gayretine güven, çünkü güvenilebilecek yegâne güç onlardır. Hükmetmek uzun bir yoldur, yükü ağırdır; ancak kılıcın elinde olduğu sürece ne hoşnutsuzluğa ne de umutsuzluğa yer vardır.</Text>
+		</Row>
+		<!-- Nzinga Mbande-->
+		<Row Tag="LOC_LEADER_NADER_SHAH_NAME">
+			<Text>Nadir Şah</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NADER_SHAH_NAME">
+			<Text>Pers Kılıcı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NADER_SHAH_DESCRIPTION">
+			<Text>Tam Sağlığa sahip Birimlere saldırırken +5 [ICON_Strength] Muharebe Gücü. Nadir Şah tarafından kurulmamış şehirler, Yurt İçi [ICON_TradeRoute] Ticaret Yollarında +2 [Icon_Faith] İnanç ve +3 [Icon_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_NADER_SHAH">
+			<Text>Ey Şahların Şahı, esaretten kalkıp dünyanın en zengin kralı olan, sana sesleniyoruz! Ordularını topraklara sal ve ateşle çelikle dünyayı bir kez daha aydınlat ki alevlerin ışığında altının parıltısını daha iyi görebilelim.</Text>
+		</Row>
+		<!-- Suleiman Alt-->
+		<Row Tag="LOC_LEADER_SULEIMAN_ORIGINAL_NAME">
+			<Text>Kanuni Sultan Süleyman</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SULEIMAN_ALT_NAME">
+			<Text>Muhteşem Süleyman</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SULEIMAN_ALT_NAME">
+			<Text>Muhteşem</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SULEIMAN_ALT_DESCRIPTION">
+			<Text>[ICON_GLORY_GOLDEN_AGE] Altın Çağ veya Kahramanlık Çağındayken +%15 [Icon_Science] Bilim ve [Icon_Culture] Kültür. [ICON_GLORY_GOLDEN_AGE] Altın Çağ veya Kahramanlık Çağında olmayan uygarlıklara karşı, siz de bu çağlarda değilseniz +4 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PROJECT_COURT_FESTIVAL_NAME">
+			<Text>Saray Şenliği</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_COURT_FESTIVAL_SHORT_NAME">
+			<Text>Saray Şenliği</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ECOURT_FESTIVAL_DESCRIPTION">
+			<Text>Tamamlandığında, bu proje Fransa'nın sahip olduğu Lüks Kaynakların fazla kopya sayısına bağlı olarak 50 [ICON_CULTURE] Kültür ve 50 [ICON_TOURISM] Turizm kazandırır (Standart hızda).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_NAME">
+			<Text>Gösterişli Lüks</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_AGENDA_MAGNIFICENCES_DESCRIPTION">
+			<Text>Kendisine Lüks Kaynaklar ticareti yapan uygarlıkları sever. Bu tür bir ticaret yapmamış uygarlıkları sevmez. Olabildiğince çok Lüks Kaynak kopyası toplamaya çalışır.</Text>
+		</Row>
+		<!-- Diplo text-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Özür dilerim, ancak bu çok ani bir değişiklik olur. Belki başka bir zaman?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Teşekkürler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Ne talihsizlik!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Dostluk teklifinizi kabul ediyorum. Elbette bir sonraki kraliyet düğününe de davet edileceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Size dostluk için kraliyet elimi uzatıyorum. Kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Dost gibi davranmak eğlenceliydi, değil mi? Ne yazık ki artık bu oyunu bırakıp asıl işe koyulma zamanı geldi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Egemen topraklarıma saldırmaya cüret mi ediyorsunuz? Nostradamus'un bile bunu tahmin edebileceğini sanmıyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Yenildiğimi bilecek kadar uzun yaşadım. Devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Cazip bir teklif ama hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Size tüm geleneksel hediyelerle bir ticaret heyeti gönderdim: otlar, zeytinler, çeşitli peynirler ve tabii ki onlarla yemek için baget ekmekler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Heyetinizi sarayda kabul ettik. Teşekkürler. Hediyeler özenle saklanacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Ne yapmakta olduğunuzun görüntüsü hoşuma gitmiyor. Arkadaşlarınız bu bilgi hakkında ne düşünür? (Sizi kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Fransa'nın ihtişamı ve gücü bu kadar bariz yalanlarla lekelenecek değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Yiyecek ve içecek lezzetlerimizi tatmadan gerçekten yaşamış sayılmazsınız. Dilerseniz size bir çatalın nasıl kullanılacağını gösterebilirim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Elbette. Gelişen şehrinizi yakından görmek büyük bir zevk olacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Mimariye tutkunum. Söyleyin bakalım, başkentinizde zafer takları ya da devasa metal kuleler var mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Ben Catherine, Fransa'nın Kraliçe Anası. Sizi krallığıma hoş geldiniz diye karşılıyorum. Sizin hakkınızda öğrenebileceğim her şeyi öğrenmeyi dört gözle bekliyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Her zamanki gibi bir zevk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bir ittifak kurmak ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Savaş kışkırtıcısı olarak anılmak istemiyorum. Haydi, anlaşmazlıklarımızı bir kenara bırakalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Kesinlikle hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Sevdiklerimizin hatırına yalvarıyorum, aramızda barış olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Maalesef, buna izin vermem mümkün değil. Tabii ki güvenlik sebebiyle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Ordum, topraklarınızdan geçmek için izin istiyor. Tabii ki barışçıl bir şekilde.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Ah, pekâlâ. Devam edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bizi güçle yıldıracağınızı mı sanıyorsunuz? Bu sizin için hiç iyi sonuçlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_POSITIVE_TRADE">
+			<Text>Catherine, ona lüks kaynaklar ticaretini yapmanızdan memnuniyet duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_MAGNIFICENCES_NEGATIVE_TRADE">
+			<Text>Catherine, kendisinin sahip olmayı tercih edeceği lüks kaynakları biriktirmenizden rahatsızlık duyuyor.</Text>
+		</Row>
+		<!-- Kudos and warnings -->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Bütün âşıklarım mallarınızdan biraz alabilmek için birbirlerini resmen öldürüyor. Ne eğlence!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CATHERINE_DE_MEDICI_ALT_ANY">
+			<Text>Uçan Filom, bana hiç göndermezseniz sözde lüks mallarınızı nasıl eleştirebilir?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

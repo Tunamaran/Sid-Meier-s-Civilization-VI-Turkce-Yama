@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GAMESUMMARY_TITLE">
+			<Text>Şöhretler Müzesi</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_OVERVIEW">
+			<Text>Genel Bakış</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY">
+			<Text>Geçmiş</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_MAP">
+			<Text>Harita</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_GRAPHS">
+			<Text>Grafikler</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_REPORTS">
+			<Text>Raporlar</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORY">
+			<Text>ZAFER!</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DEFEAT">
+			<Text>[COLOR_RED]YENİLGİ[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_YOU">
+			<Text>Sen</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_NOBODY_WON">
+			<Text>Kazanan Olmadı</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_TURNS">
+			<Text>[ICON_TURN] {1_Turns} tur</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_ERA_STARTED">
+			<Text>{1_EraName} Çağı'nda başlandı</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LAST_PLAYED">
+			<Text>Son Oynanma {1_Time: datetime short}</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT">
+			<Text>{1_PlayerName}</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_GLOBAL">
+			<Text>Genel</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_LOCAL">
+			<Text>{1_PlayerName} (Sen)</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_LOCAL_WINNER">
+			<Text>{1_PlayerName} (Sen - Kazanan)</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_WINNER">
+			<Text>{1_PlayerName} (Kazanan)</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORYPROGRESS_COUNT">
+			<Text>{1_Count} kez elde edildi.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORYPROGRESS_LEADER">
+			<Text>En son {1_LeaderName} olarak elde edildi.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS_PLAYCOUNT">
+			<Text>Oynanan {1_Num} oyun.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS_WINCOUNT">
+			<Text>Oynanan {2_NumPlayed} oyundan {1_NumVictories} galibiyet.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS_VICTORY">
+			<Text>En son kazanılan zafer: {1_Victory}.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_UNKNOWN">
+			<Text>Bilinmiyor</Text>
+		</Row>	
+		<Row Tag="LOC_GAMESUMMARY_HIGHLIGHTS">
+			<Text>Öne Çıkanlar</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_PLAYERS">
+			<Text>Oyuncular</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORYPROGRESS">
+			<Text>Zafer İlerlemesi</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS">
+			<Text>Lider İlerlemesi</Text>
+		</Row>	
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_SCORE">
+			<Text>Puan</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_YOU">
+			<Text>Sen</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_RESULTS">
+			<Text>Sonuçlar</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_VICTORY">
+			<Text>Zafer</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_SETTINGS">
+			<Text>Ayarlar</Text>
+		</Row>
+	
+		<Row Tag="LOC_GAMESUMMARY_VIEWDETAILS">
+			<Text>Oyun Detayları</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DELETE_GAME">
+			<Text>Oyunu Sil</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DELETE_GAME_PROMPT">
+			<Text>Bu oyunu silmek istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DELETE_GAME_TOOLTIP">
+			<Text>Bu işlem oyunu Şöhretler Müzesi'nden kaldıracak ve ilgili istatistikler ile lider/zafer ilerlemesini düzenleyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LOADCONFIGURATION">
+			<Text>Yapılandırmayı Yükle</Text>
+		</Row>	
+		
+		<Row Tag="LOC_GAMESUMMARY_NOREPORTDATA">
+			<Text>Rapor Verisi Yok</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_NOGRAPHDATA">
+			<Text>Grafik Verisi Yok</Text>
+		</Row>
+		
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_GENERAL">
+			<Text>Genel</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_COMBAT">
+			<Text>Muharebe</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_PROSPERITY">
+			<Text>Refah</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_DIPLOMACY">
+			<Text>Diplomasi</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_DISCOVERY">
+			<Text>Keşif</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_RELIGION">
+			<Text>Din</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_EXTRA">
+			<Text>Ekstra</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_ENABLED_GAMEMODES">
+			<Text>Etkin Oyun Modları</Text>
+		</Row>
+
+	</EnglishText>
+</GameData>

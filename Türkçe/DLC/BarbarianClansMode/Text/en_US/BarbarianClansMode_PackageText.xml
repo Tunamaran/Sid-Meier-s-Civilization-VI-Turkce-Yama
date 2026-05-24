@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BARBARIAN_CLANS_MODE_TITLE">
+			<Text>Barbar Klanları Oyun Modu</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLANS_MODE_TEASER">
+			<Text>Barbar gruplarına ve stratejilere çeşitlilik katan bir oyun modu.</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CLANS_MODE_DESCRIPTION">
+			<Text>Barbar gruplarına ve stratejilerine çeşitlilik katan Barbar Klanları oyun modunu içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

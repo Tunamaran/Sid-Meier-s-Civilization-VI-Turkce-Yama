@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Leader Text-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DIDO_ANY">
+			<Text>Şehirlerinize refah gelsin—özellikle sahilden uzak olanlara.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DIDO_ANY">
+			<Text>Topraklarla ilgimiz yok—onları siz talep edin—ama denizler ve kıyılar Fenikelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Bana, ortak sınırımızın yakınına muhteşem güllerle dolu bir bahçe gibi büyük şehirler kurduğunuz söylendi. Ne hoş!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Eğer sınırımıza yakın şehirler kurma zahmetine girecekseniz, en azından onları güzel, müreffeh şehirler yapın ki manzaranın tadını çıkarabileyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Bana, ortak sınırımızın yakınına muhteşem güllerle dolu bir bahçe gibi büyük şehirler kurduğunuz söylendi. Ne hoş!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Eğer sınırımıza yakın şehirler kurma zahmetine girecekseniz, en azından onları güzel, müreffeh şehirler yapın ki manzaranın tadını çıkarabileyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KRISTINA_ANY">
+			<Text>Az önce yeni bir eser edindim ve yakında bir sergi düzenleyeceğim. Elçileriniz davetlidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KRISTINA_ANY">
+			<Text>Herhalde sanatın, bir odayı toparladığında güzel olduğunu düşünen bir kültür düşmanısınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUPE_ANY">
+			<Text>Topraklarınız yemyeşil, sularınız temiz ve berrak. Ne güzel!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUPE_ANY">
+			<Text>Toprağa pislik yığıyor, denize döküyorsunuz! Dünyayı israf edip mahvediyorsunuz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAURIER_ANY">
+			<Text>Uluslararası çatışmaların çözümünde güvenilir bir ortak olduğunuzu kanıtladınız. Kanada sizi takdir ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAURIER_ANY">
+			<Text>Neden dünyayı etkileyen krizleri çözmeye yardımcı olmuyorsunuz? Başkalarının sıkıntıları sizi hiç etkilemiyor mu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MANSA_MUSA_ANY">
+			<Text>Benimle birlikte sevinin, dostum, çünkü her türlü ihtiyaçtan kurtulduk ve vaktimizi Tanrı'nın iradesine adayabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MANSA_MUSA_ANY">
+			<Text>Ne yaptın da Tanrı sana olan lütfunu geri çekti? Doğruluk yoluna dönmeni gör!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Başarıya giden en kısa yol, küçük müttefiklerinizin gücünden yararlanmaktır, katılmaz mısınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Yardımcı birliklerinize vatanseverlikle ödeme yaptığınızı söylüyorlar. Bununla ve iki kuruşla kendilerine bir bira alabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PACHACUTI_ANY">
+			<Text>İnkaların yükseklerin efendisi olduğunu kabul ediyorsunuz. Bu, sizin adınıza bir bilgelik göstergesidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PACHACUTI_ANY">
+			<Text>İnkalar dağların efendisidir. Bu alanda bana meydan okumayın. Ovalarla yetinin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ANY">
+			<Text>Siz de Süleyman'ın bilgeliğine sahip olmalısınız, çünkü ulusunuz uyum içinde yaşayan birçok insandan oluşuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULEIMAN_ANY">
+			<Text>Eğer dünyanın efendisi olmak istiyorsanız, önce kendi halkınızın efendisi olmalısınız—ve bu konuda herhangi bir ustalık belirtisi göstermiyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+			<Text>Toprak talep etme hırsından yoksun olman daha iyi; zira ele geçireceğin toprakları yönetecek maharete sahip olmadığına inanıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+			<Text>Halkın zayıfken ve bu denli kötü yönetilirken, bu toprakları kendine mal etmeye nasıl cüret edersin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_EXPANSIONIST">
+			<Text>Bir barbar halkı olarak kalmayı seçtiğin için memnunum; krallığın yalnızca benim ihtişamımı vurguluyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_EXPANSIONIST">
+			<Text>Ben cennet altındaki her şeyin imparatoruyum. Bu, senin kendine mal etmeye çalıştığın topraklar da dahil olmak üzere tüm toprakların haklı olarak benim olduğu anlamına gelir. Benimle eşit olmaya çabalama.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Sana katılıyorum; umutlarımızı uzaya bağlamak için dünyada çok fazla acil sorun var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Dünyadaki mevcut durum tüm dikkatini hak ederken, uzayda bir gelecek düşünmeye nasıl cüret edersin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Ne mutlu o kişiye ki gökleri tanrılara bırakır ve onların arasında yürümeye heves etmez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+			<Text>Güneş tanrısı Amun-Ra'ya ve gök tanrıçası Nut'a yaklaşma! Saygısızlığın onları gücendiriyor! Dünyanın yıkımına sebep olacaksın!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Büyük donanmalara sahip olan bizler, irademizi dünyanın dört bir yanında hissettirebiliriz ve denizlerin gerçek efendileriyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Gemi inşa etmek ve gücünü denizlerin ötesine yansıtmak için çaba göstermelisin, yoksa hiçbir ulus sana saygı duymaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Demek denizlerdeki üstünlüğümüze meydan okumaya niyetlisin? Ne güzel! Rekabetten zevk alırım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+			<Text>Denizler arenasındaki rekabeti bu kadar kolay mı kabulleniyorsun? Neden egemenliğini kasten kısıtlıyorsun? Korkuyor musun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_FAVOR">
+			<Text>Beni bu gezegenin yüce lideri olarak kabul etmeye hazır olduğun için memnunum. Diğerleri şimdiden benim zamanımın geldiğini fısıldıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
+			<Text>Ballı sözlerini ve yağcılığını görüyorum. Kendin için nihai gücü arıyorsun ve ulusların bunu sana kendi özgür iradeleriyle vermesini istiyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_LOW_FAVOR">
+			<Text>İyi bir söyleve karşılık veren bir kalabalığın sevincini asla bilemeyeceksin, çünkü siyaset sanatını hiç icra etmiyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_AGENDA_HIGH_FAVOR">
+			<Text>Yaptıkların yüzünden seni sürgüne göndereceğim! Kalabalığın duygularıyla oynamak benim güce giden yolum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_TOURISM">
+			<Text>Dünya standartlarında bir tatil isteyen vatandaşların için bir tur paketi başlattık. Görünüşe göre senin uygarlığında buna benzer bir şey yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
+			<Text>Dünyanın turistik yerlerine akın ettiğini biliyorum ama dikkatli ol! Halkımız kot pantolona ve rock müziğine sahip ve bunları kullanmaktan korkmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_LOW_TOURISM">
+			<Text>Halkının basit bir kültürü var. Bu eğlenceli ve bir bakıma trajik. Dünyanın geri kalanından öğrenebilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_AGENDA_HIGH_TOURISM">
+			<Text>Canlı ve eşsiz kültürler, popüler kültürünün yükselen dalgası tarafından tehdit ediliyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+			<Text>Hükümdarı tek hak dine inanan ve halkının ruhlarını muhafaza eden diyar ne mutludur!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+			<Text>Tebaanızın dudaklarından küfür ve sapkınlık akıyor! Hak dini geri getirerek halkınızın ruhlarını kurtarmalısınız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+			<Text>İyi bir hükümdarın halkının ruhlarını doğru yola sevk ettiğini ve böylece onlara göklerin lütfunu getirdiğini bilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+			<Text>Korkarım ki dini sadakatsizliği yaymayı canlı bir fikir karnavalı sanmışsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_DIPLOVP">
+			<Text>Azami özgürlük ancak kendi çıkarlarını izleyen uygarlıklardan doğar, öyle değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
+			<Text>Hangi hakla siyasi gündeminizi benim egemen uygarlığıma dayatıyorsunuz? İradem dışında yönetilmeye razı değilim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_AGENDA_LOW_DIPLOVP">
+			<Text>Bu siyasi jestlerin gerçek güçten yoksun ve yönetme hakkını saymayan sıradan oyunlar olduğunu fark etmenizden memnuniyet duyuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_AGENDA_HIGH_DIPLOVP">
+			<Text>Bu büyük siyasi birliği kurma girişimleriniz tacımın otoritesini çalmaya yaklaşıyor. Bu taca saygı duymayanlara hoşgörülü davranmam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PILLAGE">
+			<Text>Düşmanlarınız sizi alev ve korkuyla tanır. Gazabınızdan kurtulmak için dua ederler, fakat gökler sessizdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
+			<Text>Düşmanlarınız size savaş açıyor, ama siz intikam olarak topraklarını yağmalamıyorsunuz. Korkaklıktan mı? Yoksa aşırı nezaketten mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_AGENDA_HIGH_PILLAGE">
+			<Text>Güzel! Düşmanlarınızı ateş ve kılıçla cezalandırıyorsunuz, ta ki adınızın sesiyle titreyene dek. Yazık ki bir Viking doğmamışsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_AGENDA_LOW_PILLAGE">
+			<Text>Düşmanlarınızı cezalandırma cesaretiniz yok ve topraklarını küllenmiş bir çoraklığa çevirme tahammülünüz de yok. Acınası.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_TURTLER">
+			<Text>İyi çitler iyi komşuluklar getirir, iyi savunmalar da barışçıl bir krallık. Topraklarınızı korumaktan memnun olmanız hoşuma gidiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_TURTLER">
+			<Text>Savaş ve fetih telaşınızda, akışını öngöremeyeceğiniz olayları harekete geçiriyorsunuz. Dışarı çıkıp fethetmektense evde kalıp korumak daha iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_AGENDA_TURTLER">
+			<Text>Toprak hırsı hanedanları mahveden tohumdur. Yalnızca topraklarınızı savunmayı amaçlamanızdan memnuniyet duyuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_AGENDA_TURTLER">
+			<Text>Fetihlerinizi endişeyle, ama korkuyla değil, izliyorum. Bilin ki Japonya'yı işgal ederseniz, rüzgâr ve denizler bile yardımımıza koşacak.</Text>
+		</Row>
+		 <Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+			<Text>Hazineniz oldukça güzel doluyor. Bu kadar güçlü bir gelire sahip olmak her zaman güzel, öyle değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+			<Text>İmparatorluğunuz iflasa doğru gidiyor. Biriken borçlarla nasıl hayatta kalabilirsiniz?</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

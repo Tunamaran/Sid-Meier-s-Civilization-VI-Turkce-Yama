@@ -1,0 +1,2195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Edward Beach (Firaxis Games) -->
+<GameData>
+	<FrontEndText>
+		<!-- Generic -->
+		<Row Tag="LOC_GENERIC_TEST">
+			<Text>Tomáš</Text>
+		</Row>
+		<Row Tag="LOC_GENERIC_DOT_DOT_DOT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_YES_BUTTON">
+			<Text>Evet</Text>
+		</Row>
+		<Row Tag="LOC_NO_BUTTON">
+			<Text>Hayır</Text>
+		</Row>
+		<Row Tag="LOC_OK_BUTTON">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="LOC_DEFAULT_BUTTON">
+			<Text>Varsayılan</Text>
+		</Row>
+		<Row Tag="LOC_GENERIC_CONFIRM_BUTTON">
+			<Text>Onayla</Text>
+		</Row>
+		<Row Tag="LOC_SELECTION_NOTHING">
+			<Text>Hiçbiri</Text>
+		</Row>
+		<Row Tag="LOC_SELECTION_EVERYTHING">
+			<Text>Tümü</Text>
+		</Row>
+		<Row Tag="LOC_SELECTION_CUSTOM">
+			<Text>Özel ({1_Count})</Text>
+		</Row>
+		<Row Tag="LOC_SELECT_ALL">
+			<Text>Tümünü Seç</Text>
+		</Row>
+		<Row Tag="LOC_SELECT_NONE">
+			<Text>Hiçbirini Seç</Text>
+		</Row>
+		
+		<!-- Front End Popups -->
+		<Row Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
+			<Text>Grafik aygıtı yetenekleri belirlenemedi.[NEWLINE][NEWLINE]Lütfen grafik seçeneklerinizi elle ayarlayın.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
+			<Text>Grafik sürücünüz önerilen minimum sürümden daha eski.[NEWLINE][NEWLINE]Lütfen sürücünüzü en son sürüme güncelleyin.</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
+			<Text>Bir Daha Beni Rahatsız Etme</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
+			<Text>Bir Sonrakinde Hatırlat</Text>
+		</Row>
+		<Row Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
+			<Text>Grafik ayarları düzenlendi. Bu ayarları Seçenekler menüsünde inceleyebilir veya değiştirebilirsiniz.</Text>
+		</Row>
+		<!-- Main Menu-->
+		<Row Tag="LOC_MAIN_MENU_RESUME_GAME">
+			<Text>Oyuna Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_CIVILIZATION_6">
+			<Text>Hemen Oyna</Text>
+		</Row>
+		<Row Tag="LOC_SINGLE_PLAYER">
+			<Text>Tek Oyunculu</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER">
+			<Text>Çok Oyunculu</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_GAME">
+			<Text>Oyun Yükle</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_CONFIG">
+			<Text>Yapılandırma Yükle</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MAP">
+			<Text>Harita Yükle</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_TILED">
+			<Text>Düzenleyiciden Harita İçe Aktar</Text>
+		</Row>
+		<Row Tag="LOC_OPEN_DIRECTORY">
+			<Text>Aç</Text>
+		</Row>
+		<Row Tag="LOC_NO_FILE_SELECTED">
+			<Text>Henüz bir dosya seçilmedi</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_OPTIONS">
+			<Text>Oyun Ayarları</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MODS">
+			<Text>Modlar</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MODS_AND_DLC">
+			<Text>Modlar ve DLC</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MODS_AND_DLC_TT">
+			<Text>Civilization VI'yı genişletmek ve zenginleştirmek için yapılan değişiklikler ve indirilebilir içerik.</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_MY2K_LOGIN">
+			<Text>My2K Girişi</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
+			<Text>Masaüstüne Çık</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_BENCH">
+			<Text>Performans Testi</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_CREDITS">
+			<Text>Jenerik</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_TUTORIAL">
+			<Text>Eğitim</Text>
+		</Row>
+		<!-- Load / Save Menus -->
+		<Row Tag="LOC_DELETE_BUTTON">
+			<Text>Sil</Text>
+		</Row>
+		<Row Tag="LOC_BACK_BUTTON">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_AUTOSAVES">
+			<Text>Otomatik Kayıtlar</Text>
+		</Row>
+		<Row Tag="LOC_STEAMCLOUD">
+			<Text>Bulut</Text>
+		</Row>
+		<Row Tag="LOC_2K_CLOUD">
+			<Text>Çok Platformlu Bulut</Text>
+		</Row>
+		<Row Tag="LOC_STANDARD_CLOUD_SAVES_HELP">
+			<Text>Standart Bulut Kayıtları - Civilization VI'nın PC, Mac ve Linux sürümleriyle uyumludur</Text>
+		</Row>
+		<Row Tag="LOC_2K_CLOUD_SAVES_HELP">
+			<Text>Çok Platformlu Bulut Kayıtları - desteklenen platformlarla uyumludur (Ana Menü'de bir 2K hesabının etkinleştirilmesini gerektirir)</Text>
+		</Row>
+		<Row Tag="LOC_NO_SAVED_GAMES">
+			<Text>Kayıtlı oyun yok</Text>
+		</Row>
+		<Row Tag="LOC_NO_SAVED_CONFIGS">
+			<Text>Kayıtlı yapılandırma yok</Text>
+		</Row>
+		<Row Tag="LOC_NO_SAVED_MAPS">
+			<Text>Kayıtlı harita yok</Text>
+		</Row>
+		<Row Tag="LOC_SORTBY_NAME">
+			<Text>İsme Göre Sırala</Text>
+		</Row>
+		<Row Tag="LOC_SORTBY_LASTMODIFIED">
+			<Text>Son Değiştirilme Tarihine Göre Sırala</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MENU_MODS">
+			<Text>MODLAR</Text>
+		</Row>
+		<Row Tag="LOC_LOAD_MENU_DLC">
+			<Text>DLC</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_GAME">
+			<Text>Oyunu Kaydet</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_MAP_BUTTON">
+			<Text>Haritayı Kaydet</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_CONFIG">
+			<Text>Yapılandırmayı Kaydet</Text>
+		</Row>
+    <Row Tag="LOC_SAVE_OBSERVER_MODE_TT">
+      <Text>Gözlemci modundayken kaydetme mümkün değildir.</Text>
+    </Row>
+		<Row Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
+			<Text>Bulut kayıtları için maksimum sayıya ulaştınız. Bir kaydın üzerine yazın veya silin.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
+			<Text>Geçersiz dosya adı.</Text>
+		</Row>
+		<Row Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
+			<Text>Bulut kayıt listesi bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_TITLE_TXT">
+			<Text>Üzerine Yazmayı Onayla</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+			<Text>Silmeyi Onayla</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_CHOICE">
+			<Text>Emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_EXIT_TXT">
+			<Text>Oyundan çıkmak istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_TXT">
+			<Text>Bu işlem kayıt dosyanızı kalıcı olarak silecektir. Bunu yapmak istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
+			<Text>Dosyayı Yüklemeyi Onayla</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_LOAD_TXT">
+			<Text>Kaydedilmemiş ilerlemeler kaybolacaktır. Bunu yapmak istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_OVERWRITE_TXT">
+			<Text>Bu işlem mevcut kayıt dosyanızın üzerine yazacaktır. Bunu yapmak istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DELETE_MOD_TXT">
+			<Text>Bu işlem bu Modu kalıcı olarak silecektir. Bunu yapmak istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_DISABLE_MOD">
+			<Text>Bu modu devre dışı bırakmak istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_WILL_ALSO_DISABLE_MODS">
+			<Text>Bu işlem ayrıca aşağıdaki modları da devre dışı bırakacaktır:</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_ENABLE_MOD">
+			<Text>Bu modu etkinleştirmek istediğinize emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_WILL_ALSO_ENABLE_MODS">
+			<Text>Bu işlem ayrıca aşağıdaki modları da etkinleştirecektir:</Text>
+		</Row>
+		<Row Tag="LOC_EFFECTED_MODS_TXT">
+			<Text>Etkilenen Modlar:</Text>
+		</Row>
+		<Row Tag="LOC_MOD_VERSION_AVAILABLE">
+			<Text>{1_VersionNumber} sürümü mevcut.</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_CURRENT_TURN">
+			<Text>TUR[ICON_Turn] {1}</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
+			<Text>Senaryo Açıklaması</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
+			<Text>Oyun Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_RULESET_TYPE_TITLE">
+			<Text>Kural Seti:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
+			<Text>Harita Türü:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
+			<Text>Harita Boyutu:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
+			<Text>Dünya Yaşı:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
+			<Text>Kayıt Sürümü:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
+			<Text>Gelişmiş Seçenekler:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_NO_MAP_DATA">
+			<Text>HARİTA VERİSİ YOK</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
+			<Text>Tuner Etkin:</Text>
+		</Row>
+		<Row Tag="LOC_LOADSAVE_QUICK_SAVE">
+			<Text>(Hızlı Kaydetme)</Text>
+		</Row>
+		<!-- Advanced Game Setup -->
+		<Row Tag="LOC_NETWORK_NAME_TT">
+			<Text>Ağ Adı[NEWLINE]Adınız diğer oyunculara bu şekilde görünecektir.</Text>
+		</Row>
+		<Row Tag="LOC_NUMBER_OF_CIVILIZATIONS">
+			<Text>Uygarlık Sayısı</Text>
+		</Row>
+		<Row Tag="LOC_PLAYERS">
+			<Text>Oyuncular</Text>
+		</Row>
+		<Row Tag="LOC_TEAM">
+			<Text>Takım|Takımlar</Text>
+			<Plurality>1|2</Plurality>
+		</Row>
+		<Row Tag="LOC_TEAM_GENERIC_NAME">
+			<Text>Takım {1_Number}</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_UNKNOWN_NAME">
+			<Text>Bilinmeyen Takım</Text>
+		</Row>
+		<Row Tag="LOC_BACK">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_GAME_HANDICAP">
+			<Text>Oyun Zorluğu</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS">
+			<Text>Seçenekler</Text>
+		</Row>
+		<Row Tag="LOC_MAP_OPTIONS">
+			<Text>Harita Seçenekleri</Text>
+		</Row>
+		<!-- Multiplayer Game Abandoned Popup -->
+		<Row Tag="LOC_GAME_ABANDONED_KICKED">
+			<Text>Ev sahibi tarafından oyundan atıldınız.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
+			<Text>Atıldınız!</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
+			<Text>Ev sahibine ağ bağlantısı kesildi.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
+			<Text>Ev Sahibi Bağlantısı Kesildi</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_ROOM_FULL">
+			<Text>Oyun, maksimum oyuncu sayısına ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
+			<Text>Dolu Oyun</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
+			<Text>Ev sahibi ile sürüm uyuşmazlığı.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
+			<Text>Sürüm Uyuşmazlığı</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR">
+			<Text>Ek içerik uygulanamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
+			<Text>Mod Hatası</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING">
+			<Text>Ek içerik gereklidir ancak satın alınmamış veya yüklenmemiş.[NEWLINE]İçerik:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE">
+			<Text>Eksik Mod</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
+			<Text>Steam Atölyesi gerekli ek içeriğe erişimi reddetti.[NEWLINE]İçerik:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED">
+			<Text>Bu oyun için yüklenmemiş ek içerik gereklidir. Ek içeriğin otomatik indirilmesi şu anda devre dışıdır. Otomatik indirmeler Oyun Seçenekleri'nden etkinleştirilebilir.[NEWLINE]İçerik:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
+			<Text>Ağ bağlantısı kesildi.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
+			<Text>Bağlantı Kesildi</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
+			<Text>Çok oyunculu oturuma bağlanırken hata oluştu.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
+			<Text>Katılım Başarısız</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED">
+			<Text>Ev sahibi oyunu sildi.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ABANDONED_MATCH_DELETED_TITLE">
+			<Text>Oyun Silindi</Text>
+		</Row>
+		<!-- Multiplayer PlayByCloud End Turn Error Popup -->
+		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED">
+			<Text>Oyun, turunuzu bir hata nedeniyle işleyemedi. İnternet bağlantınızı kontrol edip tekrar deneyin.[NEWLINE]Hata Kodu: {1_ErrorCode}</Text>
+		</Row>
+		<Row Tag="LOC_GAME_CLOUD_END_TURN_FAILED_TITLE">
+			<Text>Tur Bitirilemedi</Text>
+		</Row>
+		<!-- Multiplayer Select Screen-->
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
+			<Text>{1_PlayerName}'in Oyunu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
+			<Text>Oyuncuların sürekli olarak sırayla hamle yaptığı bir çok oyunculu oyun oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME">
+			<Text>İnternet</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+			<Text>[ICON_CheckFail] İnternet</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
+			<Text>İnternet üzerinden çok oyunculu bir oyun oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>Steam çevrimdışıyken internet oyunları kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_AGE_TT">
+			<Text>Bu bağlı 2K Hesabıyla ilişkili yaş, oyunun belirli bölümlerine erişmek için yasal yaş gereksinimlerini karşılamamaktadır. Lütfen yardım için müşteri desteğiyle iletişime geçin.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_GAME">
+			<Text>Yerel Ağ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
+			<Text>Yerel ağ üzerinden çok oyunculu bir oyun oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
+			<Text>Sıcak Koltuk</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
+			<Text>Oyuncuların bu makinede dönüşümlü turlar aldığı çok oyunculu bir oyun oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MENU_BACK">
+			<Text>Geri</Text>
+		</Row>
+		<!-- Multiplayer Chat Commands -->
+		<Row Tag="LOC_CHAT_HELP_COMMAND_HINT">
+			<Text>[COLOR:ChatMessage_Help]Sohbet komutu yardımı için /help yazın.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CHAT_HELP_COMMAND_TEXT">
+			<Text>[COLOR:ChatMessage_Help]SOHBET KOMUTLARI[NEWLINE]/t Bir takım kanalına mesaj gönder[NEWLINE]/g Bir genel kanala mesaj gönder[NEWLINE]/w [PlayerName] Bir oyuncuya fısılda[NEWLINE]/r Bir fısıltıya yanıt ver[NEWLINE]/help Bu yardım mesajını görüntüler[ENDCOLOR]</Text>
+		</Row>
+		<!-- Multiplayer Lobby Screen -->
+		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
+			<Text>YENİLE</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
+			<Text>En son oyun listesi bilgilerini alın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
+			<Text>YENİLEMEYİ DURDUR</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
+			<Text>Oyun listesi bilgisi alımını durdurun.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_BACK">
+			<Text>GERİ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_END_GAME">
+			<Text>SİL</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_TITLE">
+			<Text>Oyunu Sil</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
+			<Text>Oyun Sonlandırılıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_TITLE">
+			<Text>Silme Hatası</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
+			<Text>Oyun sonlandırılırken hata oluştu.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_TITLE">
+			<Text>Başlatma Hatası</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
+			<Text>Oyun başlatılamadı.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME">
+			<Text>Oyuna Katıl</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOIN_GAME_TT">
+			<Text>Mevcut bir çok oyunculu oyuna katılın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOIN_CODE">
+			<Text>Katılım Kodu Kullan</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOIN_CODE_TT">
+			<Text>Bir Katılım Kodu kullanarak mevcut bir çok oyunculu oyuna katılın.</Text>
+		</Row>
+		<Row Tag="LOC_MISC_BACK">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
+			<Text>IP Adresine Bağlan</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
+			<Text>Belirtilen bir genel IP adresindeki pitboss oyununa bağlanın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CREATE_GAME">
+			<Text>Oyun Oluştur</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
+			<Text>Ayarları Onayla</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOST_GAME">
+			<Text>ÇOK OYUNCULU OYUN KURULUMU</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
+			<Text>Yeni bir çok oyunculu oyun başlatın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
+			<Text>Mevcut bir kayıttan çok oyunculu oyun oluşturun.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_FRIENDS">
+			<Text>Arkadaşlar</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
+			<Text>Arkadaş Listesini Göster</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_SETUP">
+			<Text>OYUN KURULUMU</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
+			<Text>OYUN ÖZETİ</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_NAME">
+			<Text>Oyun Adı</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_GAME_RULESET">
+			<Text>Kural Seti</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_MAP_TYPE">
+			<Text>Harita Türü</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_GAME_SPEED">
+			<Text>Oyun Hızı</Text>
+		</Row>
+		<Row Tag="LOC_AD_SETUP_MAP_SIZE">
+			<Text>Harita Boyutu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PLAYERS">
+			<Text>Oyuncular</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DLCHOSTED">
+			<Text>DLC</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MODSHOSTED">
+			<Text>Modlar</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_LOADING_SAVE">
+			<Text>Kayıtlı Oyun Yükleniyor</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_GAME_IN_PROGRESS">
+			<Text>Devam Eden Oyun</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
+			<Text>İNTERNET OYUNLARI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LAN_LOBBY">
+			<Text>YEREL AĞ OYUNLARI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS">
+			<Text>Ek İçerik</Text>
+		</Row>
+    <Row Tag="LOC_MULTIPLAYER_LOBBY_GAMEMODES_OFFICIAL">
+      <Text>Resmî Oyun Modları:</Text>
+    </Row>
+		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
+			<Text>Resmî İçerik:</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY">
+			<Text>Topluluk İçeriği:</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_UNKNOWN">
+			<Text>Bilinmiyor</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE">
+			<Text>Bilinmeyen Harita Boyutu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TRUE">
+			<Text>Doğru</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_FALSE">
+			<Text>Yanlış</Text>
+		</Row>
+		<!-- Options -->
+		<Row Tag="LOC_CONFIRM_KEY_BINDING">
+			<Text>Tuş Atamasını Onayla</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM">
+			<Text>Onayla</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_GAME">
+			<Text>Oyun</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_GRAPHICS">
+			<Text>Grafikler</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AUDIO">
+			<Text>Ses</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LANGUAGE">
+			<Text>Dil</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE">
+			<Text>Arayüz</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_BINDINGS">
+			<Text>Tuş Atamaları</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_APPLICATION">
+			<Text>Uygulama</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_GAME_OPTIONS">
+			<Text>Oyun Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+			<Text>Grafik Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+			<Text>Ses Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+			<Text>Dil Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+			<Text>Arayüz Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+			<Text>Tuş Atamaları</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_QUICK_COMBAT">
+			<Text>Hızlı Savaş:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+			<Text>Hızlı Hareket:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AUTO_END_TURN">
+			<Text>Otomatik Tur Bitir:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+			<Text>Şehir Menzilli Saldırısı Tur Engelleme:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+			<Text>Etkinleştirildiğinde, şehir menzilli saldırıları turu bloke eder.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TIME_OF_DAY">
+			<Text>Günün Vakti:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUNER">
+			<Text>Düzenleyici (başarımları devre dışı bırakır):</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL">
+			<Text>Danışman:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+			<Text>Otomatik kayıtlar arasındaki tur sayısı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+			<Text>Saklanacak otomatik kayıt sayısı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+			<Text>Yerel Ağ Oyuncu Adı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+			<Text>Ek İçeriği Otomatik İndir:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+			<Text>Çok oyunculu bir oyuna katılmak için gerekli olduğunda, topluluk tarafından oluşturulan ek içeriği otomatik olarak indir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+			<Text>Steam Controller yapılandırması, Steam istemcisi içinde yapılır, bu kullanıcı arayüzünde değil. Escape, sol fare düğmesi ve sağ fare düğmesi ayrılmıştır ve bağlanamaz.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+			<Text>Birincil Bağlama</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+			<Text>Alternatif Bağlama</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+			<Text>Uygulama Seçenekleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+			<Text>Konuşulan Dil:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+			<Text>Stratejik Görünüm ile Başlat:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+			<Text>Görüntüleme Dili:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MASTER_VOLUME">
+			<Text>Ana Ses:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MUSIC_VOLUME">
+			<Text>Müzik Sesi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+			<Text>Ses Efektleri Sesi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+			<Text>Ortam Sesleri Sesi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SPEECH_VOLUME">
+			<Text>Ses Seviyesi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MUTE_FOCUS">
+			<Text>Oyun penceresi etkin değilken sesi kapat:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CLEAR">
+			<Text>Temizle</Text>
+		</Row>
+		<!-- Front End Popop -->
+		<Row Tag="LOC_CLOSE">
+			<Text>Kapat</Text>
+		</Row>
+		<!-- Multiplayer Joining Room Screen -->
+		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
+			<Text>LÜTFEN BEKLEYİN</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOINING_ROOM">
+			<Text>Odaya Katılıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_JOINING_HOST">
+			<Text>Ev Sahibi Bilgisi Alınıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
+			<Text>Oyun İçeriği Yapılandırılıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
+			<Text>Oyunculara Bağlanılıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKING">
+			<Text>Oyun Aranıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_FULL">
+			<Text>Oyuna katılamazsınız. Oyun en fazla oyuncu sayısına ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_FULL_TITLE">
+			<Text>Dolu Oyun</Text>
+		</Row>
+		<Row Tag="LOC_MP_JOIN_FAILED">
+			<Text>Çok oyunculu oturuma katılma hatası.</Text>
+		</Row>
+		<Row Tag="LOC_MP_JOIN_FAILED_TITLE">
+			<Text>Katılım Başarısız</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_GAME_STARTED">
+			<Text>Oyuna katılamazsınız. Oyun zaten başlatıldı.</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
+			<Text>Katılım Başarısız</Text>
+		</Row>
+		<!-- Multiplayer Staging Room Screen -->
+		<Row Tag="LOC_MP_SWAP_PLAYER">
+			<Text>Değiştir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
+			<Text>Bu oyuncu yuvasına geç.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
+			<Text>Bu oyuncu yuvasına ancak diğer oyuncu da değiştirmeyi seçerse geç.</Text>
+		</Row>
+		<Row Tag="LOC_MP_KICK_PLAYER">
+			<Text>Oyuncuyu At</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_STAGING_ROOM">
+			<Text>Hazırlık Odası</Text>
+		</Row>
+		<Row Tag="LOC_READY_BUTTON">
+			<Text>Hazır</Text>
+		</Row>
+		<Row Tag="LOC_ARE_YOU_READY">
+			<Text>Hazır mısın?</Text>
+		</Row>
+		<Row Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
+			<Text>Oyun Ayarları</Text>
+		</Row>
+		<Row Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
+			<Text>Ek İçerik</Text>
+		</Row>
+		<!-- Multiplayer Status Strings -->
+		<Row Tag="LOC_READY_LABEL">
+			<Text>Hazır!</Text>
+		</Row>
+		<Row Tag="LOC_NOT_READY">
+			<Text>Hazır Değil</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE">
+			<Text>[COLOR:StagingStatus_Invalid]Harita Boyutu için Geçersiz[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
+			<Text>Bu oyuncu yuvası mevcut harita boyutu için kullanılamaz. Ev sahibinden harita boyutunu büyütmesini veya mevcut bir oyuncu yuvasına geçmesini isteyin.</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED">
+			<Text>[COLOR:StagingStatus_Invalid]Oyuncu Gerekli[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED_TT">
+			<Text>Oyunu başlatmak için bu oyuncu yuvasının bir insan oyuncu tarafından doldurulması gerekir.</Text>
+		</Row>
+		<!-- Multiplayer Status Strings END -->
+		<Row Tag="LOC_JOIN">
+			<Text>Katıl!</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OPEN">
+			<Text>Açık</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OPEN_TT">
+			<Text>Açık yuvalar, katılan oyuncular tarafından doldurulabilir.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMANREQ">
+			<Text>Açık</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMANREQ_TT">
+			<Text>Açık yuvalar, oyun başlamadan önce bir insan oyuncu gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OBSERVER">
+			<Text>Gözlemci</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_OBSERVER_TT">
+			<Text>Oyuna doğrudan katılmak yerine izleyin.</Text>
+		</Row>		
+		<Row Tag="LOC_SLOTLABEL_HOST">
+			<Text>[ICON_Host] Ev Sahibi</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_PLAYER">
+			<Text>Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_COMPUTER">
+			<Text>Bilgisayar</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_OPEN">
+			<Text>Açık</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_OBSERVER">
+			<Text>Gözlemci</Text>
+		</Row>
+		<Row Tag="LOC_SLOTLABEL_OBSERVER_HOST">
+			<Text>[ICON_Host] Gözlemci</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_AI">
+			<Text>YZ</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_AI_TT">
+			<Text>Yapay Zeka Oyuncusu</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_CLOSED">
+			<Text>Kapalı</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_CLOSED_TT">
+			<Text>Kapalı koltuklar oyuncular tarafından kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMAN">
+			<Text>İnsan</Text>
+		</Row>
+		<Row Tag="LOC_SLOTTYPE_HUMAN_TT">
+			<Text>İnsan Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
+			<Text>Yok</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
+			<Text>{1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CREATE_NEW_TEAM">
+			<Text>Yeni</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+			<Text>Takım</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+			<Text>Zorluk</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_READY_HEADER">
+			<Text>Hazır mı?</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+			<Text>Uygarlık ve Lider</Text>
+		</Row>
+		<Row Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
+			<Text>Oyun Başlıyor</Text>
+		</Row>
+		<Row Tag="LOC_READY_COUNTDOWN_FORMAT">
+			<Text>Hazırlanın</Text>
+		</Row>
+		<Row Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_FORMAT">
+			<Text>Oyuncular Bekleniyor</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
+			<Text>Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
+			<Text>Parola</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
+			<Text>Yeniden Yazın</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
+			<Text>Eşleşiyor</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
+			<Text>Parolalar Eşleşmiyor.</Text>
+		</Row>
+		<!-- Staging Room Ready Button-->
+		<Row Tag="LOC_READY_UNSUPPORTED">
+			<Text>Desteklenmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_UNSUPPORTED_TT">
+			<Text>Desteklenmeyen oyuncu sayısı.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
+			<Text>Geçersiz Takımlar</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
+			<Text>Oyun başlatılamıyor. Tüm uygarlıklar aynı takımda.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
+			<Text>Oyun başlatılamıyor. Oyuncular oyuna katılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
+			<Text>Harita Boyutu Sorunu</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
+			<Text>Oyun başlatılamıyor. Bir oyuncu, mevcut harita boyutu için geçersiz bir oyuncu yuvasında. Mevcut harita yalnızca {1_number} oyuncuyu desteklemektedir.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
+			<Text>Yeterli Oyuncu Yok</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
+			<Text>Oyun başlatılamıyor. Başlatmak için iki oyuncu gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
+			<Text>Oyuncular Oyuna Katılıyor</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
+			<Text>Oyuna katılan oyuncular bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
+			<Text>Oyuncuda Eksik Modlar</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
+			<Text>Bu oyun için gerekli modlara sahip olmayan oyuncular bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
+			<Text>Parola Uyuşmazlığı</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
+			<Text>Tüm parolalar eşleşmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
+			<Text>İnsan Oyuncu Yok</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
+			<Text>En az 1 insan oyuncu gerekli</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
+			<Text>Geçersiz Takımlar</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
+			<Text>En az 2 oyuncu farklı takımlarda olmalı</Text>
+		</Row>
+		<!-- Staging Room Invite Button -->
+		<Row Tag="LOC_INVITE_BUTTON">
+			<Text>Arkadaşları Davet Et</Text>
+		</Row>
+		<Row Tag="LOC_INVITE_BUTTON_TT">
+			<Text>Steam arkadaş listenizdeki arkadaşlarınızı bu oyuna davet edin.</Text>
+		</Row>
+		<!-- Confirm Kick Popup -->
+		<Row Tag="LOC_CANCEL_BUTTON">
+			<Text>İptal</Text>
+		</Row>
+		<Row Tag="LOC_ACCEPT_BUTTON">
+			<Text>Kabul Et</Text>
+		</Row>
+		<Row Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
+			<Text>{1_player} oyuncusunu oyundan atmak istediğinizden emin misiniz?</Text>
+		</Row>
+		<!-- Edit Hotseat Player Popup -->
+		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
+			<Text>Sıcak Koltuk Oyuncusunu Düzenle.</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_EDIT_PLAYER">
+			<Text>Sıcak Koltuk Oyuncusunu Düzenle</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_PLAYER_NAME">
+			<Text>Oyuncu Adı:</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_PASSWORD">
+			<Text>Parola:</Text>
+		</Row>
+		<Row Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
+			<Text>Parolayı Yeniden Yazın:</Text>
+		</Row>
+		<!-- Network Connection Status -->
+		<Row Tag="LOC_MP_PLAYER_CONNECTED">
+			<Text>Oyuncu şu anda oyunda.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connected]Bağlı[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED">
+			<Text>Oyuncu bağlı değil.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Offline]Çevrimdışı[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTING">
+			<Text>Oyuncu oyuna katılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Connecting]Katılıyor[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY">
+			<Text>Oyuncu, bu oyunda oynamak için gerekli modlara sahip değil.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_NOT_MOD_READY_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_NotModReady]Eksik Modlar[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_RESYNCING">
+			<Text>Oyuncu, bir desenkronizasyonu düzeltmek için yeniden yükleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_RESYNCING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Resyncing]Yeniden Eşzamanlanıyor[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_TIME_MILLISECONDS">
+			<Text>ms</Text>
+		</Row>
+		<Row Tag="LOC_TIME_SECONDS">
+			<Text>s</Text>
+		</Row>
+		<!-- Friend Actions  -->
+		<Row Tag="LOC_FRIEND_ACTION_PROFILE">
+			<Text>Steam Profili</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_PROFILE_TT">
+			<Text>Bu arkadaşın profil sayfasını görüntüle.</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_CHAT">
+			<Text>Mesaj Gönder</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_CHAT_TT">
+			<Text>Bu arkadaşa bir mesaj gönder.</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_INVITE">
+			<Text>Oyuna Davet Et</Text>
+		</Row>
+		<Row Tag="LOC_FRIEND_ACTION_INVITE_TT">
+			<Text>Bu arkadaşı oynamaya davet et.</Text>
+		</Row>
+		<!-- Friend Status  -->
+		<Row Tag="LOC_PRESENCE_ONLINE">
+			<Text>[COLOR:ButtonCS]Çevrimiçi[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_SHELL">
+			<Text>[COLOR:ConnectionStatus_Connected]Ana Menü[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_HOSTING_GAME">
+			<Text>[COLOR:ConnectionStatus_Connected]Oyun Barındırıyor[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_STAGING_ROOM">
+			<Text>[COLOR:ConnectionStatus_Connected]Hazırlık Odası[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_SP">
+			<Text>[COLOR:ConnectionStatus_Connected]Tek Oyunculu[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Çok Oyunculu (Çevrimiçi)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_LAN">
+			<Text>[COLOR:ConnectionStatus_Connected]Çok Oyunculu (LAN)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
+			<Text>[COLOR:ConnectionStatus_Connected]Çok Oyunculu (Sıcak Koltuk)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_IN_GAME_PLAYBYCLOUD">
+			<Text>[COLOR:ConnectionStatus_Connected]Çok Oyunculu (Bulut Üzerinden Oyun)[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_INVITED_ONLINE">
+			<Text>[COLOR:ConnectionStatus_Connected]Davet Edildi[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_PRESENCE_INVITED_OFFLINE">
+			<Text>[COLOR:ButtonCS]Davet Edildi[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_PRESENCE_WORLD_BUILDER">
+      <Text>[COLOR:ConnectionStatus_Connected]Dünya Oluşturucu[ENDCOLOR]</Text>
+    </Row>
+		<!-- Player Connection EVents -->
+		<Row Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
+			<Text>Bağlandı</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
+			<Text>Bağlantı Koptu</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
+			<Text>Artık Ev Sahibi</Text>
+		</Row>
+		<Row Tag="LOC_MP_PLAYER_KICKED_CHAT">
+			<Text>Atıldı</Text>
+		</Row>
+		<!-- Multiplayer Chat -->
+		<Row Tag="LOC_MULTIPLAYER_CHAT">
+			<Text>SOHBET</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_TO_ALL">
+			<Text>Herkese:</Text>
+		</Row>
+		<!-- Multiplayer Mod Downloads -->
+		<Row Tag="LOC_BYTES">
+			<Text>b</Text>
+		</Row>
+		<Row Tag="LOC_KILOBYTES">
+			<Text>Kb</Text>
+		</Row>
+		<Row Tag="LOC_MEGABYTES">
+			<Text>Mb</Text>
+		</Row>
+		<!-- Setup -->
+		<Row Tag="LOC_SETUP_CREATE_GAME">
+			<Text>Oyun Oluştur</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_CHOOSE_RULESET">
+			<Text>Kural Seti Seç</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_CHOOSE_SCENARIO">
+			<Text>Senaryo Seç</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SCENARIOS">
+			<Text>Senaryolar</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SCENARIO">
+			<Text>Senaryo</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_CIVILIZATION">
+			<Text>Uygarlık Seç</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_DIFFICULTY">
+			<Text>Oyun Zorluğu Seç</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_SPEED">
+			<Text>Oyun Hızını Seçin</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_TYPE">
+			<Text>Harita Türünü Seçin</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_SIZE">
+			<Text>Harita Boyutunu Seçin</Text>
+		</Row>
+    <Row Tag="LOC_SETUP_MODE_SELECT">
+      <Text>Oyun Modları</Text>
+    </Row>
+    <Row Tag="LOC_SETUP_NO_GAME_MODES">
+      <Text>Kullanılabilir Oyun Modu Yok.</Text>
+    </Row>
+		<Row Tag="LOC_DELETE_AI">
+			<Text>Sil</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADVANCED_OPTIONS">
+			<Text>Gelişmiş Kurulum</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_VICTORY_CONDITIONS">
+			<Text>Zafer Koşulları</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_GAME_MODES">
+			<Text>Oyun Modları</Text>
+		</Row>
+		<Row Tag="LOC_ADVANCED_OPTIONS">
+			<Text>Gelişmiş Seçenekler</Text>
+		</Row>
+		<Row Tag="LOC_EDIT_BUTTON">
+			<Text>Düzenle</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADD_PLAYER">
+			<Text>Oyuncu Ekle</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADD_PLAYER_TT">
+			<Text>Oyuna bir oyuncu ekleyin.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADD_AI_PLAYER">
+			<Text>Yapay Zeka Oyuncusu Ekle</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
+			<Text>Oyuna bir yapay zeka oyuncusu ekleyin.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_RESTORE_DEFAULT">
+			<Text>Varsayılanlara Dön</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
+			<Text>Tüm parametreleri varsayılan değerlerine döndürün.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_MAP_SELECT">
+			<Text>Harita Seçimi</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
+			<Text>Harita Seç</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_SELECT_MAP">
+			<Text>Harita Seç</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_OFFICIAL_MAPS">
+			<Text>Resmi Haritalar</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_FIRAXIS_MAPS">
+			<Text>Firaxis Haritaları</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_FIRAXIS_MAPS_TOOLTIP">
+			<Text>Yalnızca Firaxis tarafından yapılan resmi haritaları göster.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS">
+			<Text>Dünya Oluşturucu Haritaları</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS_TOOLTIP">
+			<Text>Yalnızca Dünya Oluşturucu haritalarını göster.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_ALL_MAPS">
+			<Text>Tüm Haritalar</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_ALL_MAPS_TOOLTIP">
+			<Text>Tüm haritaları göster.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_MAP_INFO">
+			<Text>Harita Bilgisi</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_MAP_SELECTED_MAP">
+			<Text>Seçili Harita</Text>
+		</Row>
+		<Row Tag="LOC_START_GAME">
+			<Text>Oyuna Başla</Text>
+		</Row>
+		<Row Tag="LOC_START_WORLD_BUILDER">
+			<Text>Dünya Oluşturucuyu Başlat</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_START_NEW">
+			<Text>Yeni Harita</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_LOAD">
+			<Text>Harita Yükle</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_IMPORT">
+			<Text>Editörden Harita İçe Aktar</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">
+			<Text>Düzenlemek için boş veya oluşturulmuş yeni bir Dünya Oluşturucu haritası yaratır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_LOAD_TOOLTIP">
+			<Text>Daha önce kaydedilmiş bir Dünya Oluşturucu haritasını yükler.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_IMPORT_TOOLTIP">
+			<Text>Doğru yapılandırılmış bir .TMX harita dosyasını Dünya Oluşturucu haritasına dönüştürür.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_LEADER">
+			<Text>Rastgele Lider</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_CIVILIZATION">
+			<Text>Rastgele Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
+			<Text>Mükerrer Lider Yok</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_NO_DUPLICATE_CIVILIZATIONS">
+			<Text>Mükerrer Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
+			<Text>Ek Oyuncu Bekleniyor</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED_TT">
+			<Text>Oyun başlatılamaz. Oyunun başlayabilmesi için tüm açık oyuncu yuvaları doldurulmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
+			<Text>Oyun başlatılamaz. Hazır geri sayımı veya hazır oyuncularla dolu oyun bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_COUNTDOWN_TT">
+			<Text>Geri sayım sonunda hazır olarak ayarlanacaksınız. Şimdi hazır durumunu değiştirmek için tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
+			<Text>Ek oyuncular bekleniyor. Oyun, geri sayımın sonunda veya tüm oyuncular hazır olduğunda başlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_INVALID_OPTION">
+			<Text>Geçersiz Seçenek</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
+			<Text>Sahip Olunmamış</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PARAMETER_ERROR">
+			<Text>Bir veya daha fazla seçenek geçersiz.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
+			<Text>Bir veya daha fazla oyuncu seçeneği geçersiz.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR_POPUP">
+			<Text>Bu genellikle, oyun seçenekleri mükerrer uygarlıklara izin vermezken mükerrer lider veya uygarlık seçilmesinden kaynaklanır.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_PLAYER_COLOR_COLLISION">
+			<Text>Bu uygarlığın renkleri başka bir uygarlığınkilerle çakışabilir. İsterseniz açılır listeden alternatif bir renk düzeni seçebilirsiniz.</Text>
+		</Row>
+		<!-- Configuration Parameters.  Move these to a better location -->
+		<Row Tag="LOC_RULESET">
+			<Text>Kural Seti</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NAME">
+			<Text>Oyun Adı</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NAME_DESC">
+			<Text>Bu oyunun çok oyunculu sunucu listesinde görünen adı.</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATE_GAME">
+			<Text>Özel Oyun</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATE_GAME_DESC">
+			<Text>Özel oyunlar çok oyunculu lobide gösterilmez. Özel bir oyuna yalnızca oyun daveti veya Steam arkadaş listesi aracılığıyla erişilebilir. Bu ayar Yerel Ağ oyunları için geçerli değildir.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_VICTORY_TIME">
+			<Text>Zaman</Text>
+		</Row>
+		<Row Tag="LOC_GAME_VICTORY_SCIENCE">
+			<Text>Bilim</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NO_GOODY_HUTS">
+			<Text>Kabile Köyü Yok</Text>
+		</Row>
+		<Row Tag="LOC_GAME_NO_BARBARIANS">
+			<Text>Barbar Yok</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY">
+			<Text>Takımlar Görünürlüğü Paylaşır</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION">
+			<Text>Aynı takımdaki oyuncular, harita görünürlüklerini paylaşır.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNTIMER_TYPE">
+			<Text>Tur Zamanlayıcısı</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURN_TIMER_TIME">
+			<Text>Tur Süresi</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
+			<Text>Standart Tur Zamanlayıcısı modunda kullanılan tur süresi (saniye cinsinden).</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNPHASE_TYPE">
+			<Text>Tur Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAME_TURNPHASE_DESC">
+			<Text>Çok oyunculuda insan kontrollü oyuncular tarafından kullanılan tur modu.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_SYNC_RANDOM_SEED">
+			<Text>Oyun Rastgele Tohumu</Text>
+		</Row>
+		<Row Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
+			<Text>Oyun kuralları için rastgele tohum.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RANDOM_SEED">
+			<Text>Harita Rastgele Tohumu</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
+			<Text>Harita oluşturma için rastgele tohum.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NAME">
+			<Text>Dünya Yaşı</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
+			<Text>Yeni</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
+			<Text>Yaşlı</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_NAME">
+			<Text>Sıcaklık</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
+			<Text>Sıcak</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
+			<Text>Soğuk</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_NAME">
+			<Text>Yağış</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_ARID_NAME">
+			<Text>Kurak</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_WET_NAME">
+			<Text>Nemli</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_NAME">
+			<Text>Deniz Seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
+			<Text>Düşük</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
+			<Text>Yüksek</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_NAME">
+			<Text>Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
+			<Text>Seyrek</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
+			<Text>Bol</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_NAME">
+			<Text>Başlangıç Konumu</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
+			<Text>Dengeli</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
+			<Text>Standart</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
+			<Text>Efsanevi</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
+			<Text>Önceden Belirlenmiş Başlangıç Konumları</Text>
+		</Row>
+    <Row Tag="LOC_MAP_START_POSITION_MIRRORED_NAME">
+      <Text>Yansıtılmış</Text>
+    </Row>
+    <Row Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
+			<Text>Haritada önceden belirlenmiş başlangıç konumlarını kullanın.</Text>
+		</Row>
+		<!--Game Speed Descriptions -->
+		<Row Tag="LOC_GAMESPEED_MARATHON_HELP">
+			<Text>Çok uzun süreli oyun (%200 daha yavaş).</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_EPIC_HELP">
+			<Text>Uzun süreli oyun (%50 daha yavaş).</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_STANDARD_HELP">
+			<Text>Normal hızda oyun.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_QUICK_HELP">
+			<Text>Hızlı oyun (%33 daha hızlı).</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_ONLINE_HELP">
+			<Text>Çevrimiçi çok oyunculu için kullanılan iki kat hızlı oyun.</Text>
+		</Row>
+		<!-- Map Type Descriptions -->
+		<Row Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+			<Text>Çok sayıda küçük ada ve birkaç büyük ada.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+			<Text>Birkaç büyük kara parçası.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+			<Text>Tek veya çok sayıda kara parçası oluşturabilen öngörülemez harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+			<Text>Haritanın merkezinde büyük bir okyanus.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
+			<Text>Karayla çevrili birkaç büyük su kütlesi. Bu sularda adalar bulunabilir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
+			<Text>Dünya, birkaç orta boy kara parçası ve bazı küçük adalardan oluşacak.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+			<Text>Küçükten büyüğe değişen boyutlarda adalar.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_LAKES_DESCRIPTION">
+			<Text>Okyanusları olmayan, yalnızca göller ve iç denizlerden oluşan bir dünya.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_MIRROR_DESCRIPTION">
+			<Text>Rekabetçi çok oyunculu maçlar için ideal, rastgele oluşturulmuş dengeli dört oyunculu harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+			<Text>Etrafında adalar bulunan devasa bir kara parçası.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+			<Text>Bu harita hangi sırları ortaya çıkaracak?</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TERRA_DESCRIPTION">
+			<Text>Tüm büyük uygarlıkların en büyük kıtada başladığı bir kıtalar haritası.</Text>
+		</Row>
+		<!-- Map Size Descriptions -->
+		<Row Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
+			<Text>2 oyuncu için çok küçük harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
+			<Text>4 oyuncu için biraz daha küçük harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
+			<Text>6 oyuncu için küçük harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
+			<Text>8 oyuncu için orta boy harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
+			<Text>10 oyuncu için büyük harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
+			<Text>12 oyuncu için devasa harita.</Text>
+		</Row>
+
+    <!-- City-State Exclusion -->
+    <Row Tag="LOC_EXCLUDE_CITY_STATES_NAME">
+      <Text>Şehir Devletlerini Seç</Text>
+    </Row>
+    <Row Tag="LOC_EXCLUDE_CITY_STATES_DESC">
+      <Text>Oyunda hangi Şehir Devletlerinin görünebileceğini seçin.</Text>
+    </Row>
+    <Row Tag="LOC_CITY_STATE_PICKER_SORT_BY">
+      <Text>Sırala:</Text>
+    </Row>
+    <Row Tag="LOC_CITY_STATE_PICKER_SORT_NAME">
+      <Text>Ad</Text>
+    </Row>
+    <Row Tag="LOC_CITY_STATE_PICKER_SORT_TYPE">
+      <Text>Tür</Text>
+    </Row>
+    <Row Tag="LOC_CITY_STATE_PICKER_COUNT_WARNING">
+      <Text>[COLOR_RED]Devam edebilmek için en az {1_Min} Şehir Devleti seçilmelidir. {2_Remaining} tane daha seçin.[ENDCOLOR]</Text>
+    </Row>
+    
+		<!-- Natural Wonder Exclusion -->
+		<Row Tag="LOC_EXCLUDE_NATURAL_WONDER_NAME">
+			<Text>Doğa Harikalarını Seç</Text>
+		</Row>
+		<Row Tag="LOC_EXCLUDE_NATURAL_WONDER_DESC">
+			<Text>Haritada hangi Doğa Harikalarının görünebileceğini seçin.</Text>
+		</Row>
+		
+		<!-- Turn Timer Settings -->
+		<Row Tag="LOC_TURNTIMER_NONE">
+			<Text>Tur Zamanlayıcısı Yok</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_NONE_DESC">
+			<Text>Oyuncular, zaman kısıtlaması olmaksızın sıralarını kullanır.</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_DYNAMIC">
+			<Text>Dinamik Tur Zamanlayıcısı</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_DYNAMIC_DESC">
+			<Text>Tur süresi, oyundaki şehir ve birim sayısına göre dinamik olarak ayarlanır.</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_STANDARD">
+			<Text>Standart Tur Zamanlayıcısı</Text>
+		</Row>
+		<Row Tag="LOC_TURNTIMER_STANDARD_DESC">
+			<Text>Tur süresi, Tur Süresi seçeneğine (saniye cinsinden) göre belirlenir.</Text>
+		</Row>
+		<!-- Turn Mode Settings -->
+		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS">
+			<Text>Eş Zamanlı Turlar</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
+			<Text>Oyuncular turlarını aynı anda alır.</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_DYNAMIC">
+			<Text>Dinamik Turlar</Text>
+		</Row>
+		<Row Tag="LOC_TURNPHASE_DYNAMIC_DESC">
+			<Text>Barış halindeki oyuncular turlarını aynı anda alırken, savaş halindeki oyuncular sırayla alır.</Text>
+		</Row>
+		<!-- Map Config Descriptions -->
+		<Row Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
+			<Text>Haritanın yükseltisini (Tepeler ve Dağlar) değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
+			<Text>Daha fazla tepe, dağ ve yanardağ içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
+			<Text>Standart miktarda tepe, dağ ve yanardağ içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
+			<Text>Daha az tepe, dağ ve yanardağ içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
+			<Text>Rastgele tepe, dağ ve yanardağ içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
+			<Text>Haritanın arazi yapısını ayarlar.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
+			<Text>Daha fazla Çöl ve daha az Tundra ve Kar içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
+			<Text>Dünya'nın arazi desenlerine benzer, ortalama arazi yapısına sahip bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
+			<Text>Daha fazla Tundra ve Kar, daha az Çöl içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
+			<Text>Rastgele arazi sıcaklık bölgelerine sahip bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_DESCRIPTION">
+			<Text>Haritada bulunan özelliklerin miktarını değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
+			<Text>Daha az orman, yağmur ormanı ve bataklık içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
+			<Text>Ortalama miktarda orman, yağmur ormanı ve bataklık içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
+			<Text>Daha fazla orman, yağmur ormanı ve bataklık içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
+			<Text>Rastgele miktarda özellik içeren bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
+			<Text>Haritadaki su miktarını değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
+			<Text>Daha az su bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
+			<Text>Normal miktarda su bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
+			<Text>Daha fazla su bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
+			<Text>Rastgele miktarda su bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_DESCRIPTION">
+			<Text>Kaynakların miktarını değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
+			<Text>Daha az kaynak bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
+			<Text>Standart kaynaklara sahip bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
+			<Text>Daha fazla kaynak bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
+			<Text>Rastgele miktarda kaynak bulunan bir harita.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_DESCRIPTION">
+			<Text>Başlangıç konumunuzun değerini değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
+			<Text>Tüm oyuncular eşit derecede iyi başlangıç noktalarına sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
+			<Text>Standart başlangıç konumları.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
+			<Text>Tüm oyuncular harika, ancak mutlaka eşit olmayan başlangıç noktalarına sahiptir.</Text>
+		</Row>
+    <Row Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
+      <Text>Tüm oyuncular, harita kadranları içinde aynı konumda başlar.</Text>
+    </Row>
+    <Row Tag="LOC_GAME_START_ERA">
+			<Text>Başlangıç Çağı</Text>
+		</Row>
+    <Row Tag="LOC_KICK_VOTE">
+      <Text>Atma Oylaması</Text>
+    </Row>
+    <Row Tag="LOC_KICK_VOTE_TT">
+      <Text>Atma Oylaması, bir oyuncuyu oyundan başarıyla atmak için çoğunluk oyu gerektirir.</Text>
+    </Row>
+		<Row Tag="LOC_MAP_SCRIPT">
+			<Text>Harita</Text>
+		</Row>
+		<!-- Tutorial Select Screen-->
+		<Row Tag="LOC_SETUP_TUTORIAL_TITLE">
+			<Text>Civilization'a Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
+			<Text>İşte burada, mütevazı başlangıçlardan yüceliklere uzanan bir imparatorluk inşa etme yolculuğumuz başlıyor; kendi tarih anlatınızı siz yazacaksınız.[NEWLINE][NEWLINE]Büyük savaşlarla dünyayı zapt mı edecek, yoksa halkınızı yıldızlara gönderen ilk uygarlık mı olacaksınız? Kültürünüzün gücüyle dünyayı etkileyecek misiniz, yoksa inancınız yeryüzünün dört bir yanına mı yayılacak?[NEWLINE][NEWLINE]Vakit gösterecek...[NEWLINE][NEWLINE]Tüm büyük uygarlıklar büyük bir liderle başlar. Aşağıda bu öğretici oyun turunda oynamak istediğiniz uygarlığı seçin.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_1">
+			<Text>Mısır İmparatorluğu'nun Kleopatra'sı, güçlü müttefiklerden ve büyük şehir kurucularından oluşan bir uygarlığı yönetir.</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_TUTORIAL_LEADER_2">
+			<Text>Sümer İmparatorluğu'nun Gılgamış'ı, engin toprakları yönetir ve saygın bir fatih olarak bilinir.</Text>
+		</Row>
+		<!-- Loading Screen / Dawn of man -->
+		<Row Tag="LOC_LOADING_DOMAIN_LAND">
+			<Text>Eşsiz bir kara birliği</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DOMAIN_SEA">
+			<Text>Eşsiz bir deniz birliği</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DOMAIN_AIR">
+			<Text>Eşsiz bir hava birliği</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_PLEASE_WAIT">
+			<Text>Yükleniyor, lütfen bekleyin...</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_DISTRICT_BUILDING">
+			<Text>{1_DistrictName} Bölgesi Binası</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_BUILDING">
+			<Text>Eşsiz bir bina</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_DISTRICT">
+			<Text>Eşsiz bir bölge</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
+			<Text>Eşsiz bir iyileştirme</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
+			<Text>Dünya Sahnesine Katılıyor</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_FEATURES_ABILITIES">
+			<Text>Özellikler &amp; Yetenekler</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_START_GAME">
+			<Text>Oyuna Başla</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_CONTINUE_GAME">
+			<Text>Oyuna Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
+			<Text>Zamana meydan okuyacak bir uygarlık inşa ederek halkınızı zafere taşımak size kalmış.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
+			<Text>Kahraman Frederick, Almanların Kralı, görevin etrafındaki bağımsız devletleri bir imparatorluk haline getirmektir. Büyük bir askeri lider olmakla kutsanmışsın – bu becerilerini kullanarak şehirleri hükmün altına al ki ticari ve sınai devlere dönüşebilsinler. O zaman kuşkusuz ozanlar kızıl sakallı kudretli Frederick'i, büyük Kutsal Roma İmparatoru'nu anlatacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
+			<Text>Sana düşen, Catherine de Medici, halkını birleştirmek için bilgi ve sanat alanındaki yeteneklerini kullanmaktır. Fransa'nın Kraliçe Anası, bu çalkantılı zamanlarda dikkatlice yol al. Yerin dört bir yanından ziyaretçi çeken büyük harikalar inşa edeceksin. Her şeyin – görünenin ve gölgelerde saklananın – keskin bir farkındalığına sahip olarak imparatorluğun kesinlikle zamana meydan okuyacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
+			<Text>Seni küçümseyecekler olacak, ama sen kurnaz ve oyunbazsın, Kraliçe Kleopatra. Caziben, dünyanın en güçlü liderleriyle yıkılmaz ittifaklar kuracak. Dostlarını yanında tut, böylece dokunulmaz olacaksın; Mısır'ın zaferi dünyayı fethetmeye hazır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GANDHI">
+			<Text>Nazik ol, Gandhi Bapu, ve kendini gerçek dostlarla çevrili bulacaksın. Hint halkını güvende tut, onları görkemli savaş fillerinle koru. İnancın sana barış ve uyum yolunda rehberlik edecek. Zihnini açık tut ve dünyada görmek istediğin değişimin ta kendisi ol.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
+			<Text>Ey Kral Gılgamış, omuzlarında büyük bir yük var. Kendi halkın ve dünyanın dört bir yanındaki insanlar sana lider olarak bakıyor. Ama sen sıradan bir ölümlüden farksız değilsin ve dünyanın ağırlığı asla seni sarsmayacak. Sümer halkını nehirler boyunca uzanan bereketli topraklara yerleşmeye teşvik et ve müttefiklerini dikkatle seç; zira pek çok kişi gücünden pay kapmaya çalışacak. İleri atıl, çünkü destansı hikâyene başlama vaktin geldi.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GORGO">
+			<Text>Ey Sparta Kraliçesi Gorgo, sana ve sadık hoplit ordularına şan olsun! Yunanistan, her zaferin getirdiği Ares'in lütfunu tatmaktadır. Halkın, tedbirli yönetimini ve kültürel harikalarını alkışlıyor. Gururla dikil; çünkü Yunanistan'ın mirası ve senin başarıların nesiller boyu tekrar tekrar anlatılacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
+			<Text>Ey Norveç Kralı Harald, Kuzeyin Yıldırımı, gemilerinin yaklaşmasından herkes korkar. Uzun gemilerin dalgalara hükmeder, her an habersiz bir kıyıya berserker ordularını salmaya hazırdır. Odin krallığını kutsasın ve skaldlar, güçlü savaşçılarının zaferlerinin destanlarını söylesin.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HOJO">
+			<Text>Ey Japonya'nın Şikkeni Hōjō Tokimune, Budizm'in büyük dalgası seni takip ediyor. Halkın dengeyi uygulamanın ne demek olduğunu gerçekten anlıyor ve en seçkin samurayların bile bilgili ve ruhani açıdan donanımlı olacak. Güçlü ol, ilahi rüzgârı kucakla ve aydınlanmaya ulaşacaksın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
+			<Text>Ey Kral Mvemba a Nzinga, Toprak Ana'nın sana pek çok armağanı var. Halkın sık ormanları ve yağmur ormanlarını evleri olarak bilir ve içlerinde rahatça süzülür. Uzak diyarlardan gelen yolcuların armağanları da büyüktür. Açık fikirli ol; zira açık dünyanın ilhamı, halkımızın güç ve ihtişamla sanat yaratmasını sağlayacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PEDRO">
+			<Text>Ey İmparator II. Pedro, halkın Brezilya'yı dünya sahnesine taşıman için sana bakıyor. Sanatçıların, bilim insanlarının ve mühendislerin hamisi olarak ününü kullan ve en büyük zekâları bereketli yurdumuza çek. Çünkü halkın, hayatla dolu yemyeşil yağmur ormanlarında gelişir. Onları Karnaval'da, büyük başarılarının şerefine samba dansı yaparken izle, ey Cömert Pedro.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PERICLES">
+			<Text>Ey güzel konuşan Perikles, Yunanların lideri, söz ustalığın büyük bir değere sahip bir armağandır. Bu sayede bir devletler birliğinin bağlılığını çekebilir ve kendini onların ihtişamıyla kuşatabilirsin. Yunanistan'ın kayalık kıyıları boyunca kültürel alanlar inşa et ve halkını güçlü yönetimin etrafında birleştir. Her şey yolunda giderse Sirenler Perikles Çağı'nı söyleyecek!</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
+			<Text>Ey Çar Petro, Anavatan'ın soğuk rüzgârlarını kucakla. Bilime ve kültüre olan hayranlığın bir armağandır ve yabancı diyarlara yapacağın Büyük Elçiliklerden çok şey öğreneceksin. Senin yönetimin altında Rusya kesinlikle gelişip yayılacak, çevresindeki her şeyi özümseyecek ve belki de bu dünyada görülmüş en büyük kara imparatorluğunu yaratacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
+			<Text>Ey dindar Kral II. Felipe, tüm İspanya dualarına cevap vermeye hazırdır. El Escorial'deki sarayından takipçilerini gönderebilirsin: misyonerler, havariler ve denizleri aşarak en kutsal imparatorluğun hakkındaki iyi haberi yaymaya hazır konkistadorlar. Keşfedecekleri hazineler, dünyayı tek bir inanç ve tek bir imparatorluk altında birleştirme arayışını beslesin ve seni gerçek anlamda En Katolik kral yapsın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_QIN">
+			<Text>Ey İmparator Qin Shi Huang, en büyük gücün halkında yatar. Dünyanın dört bir yanından insanlar, birleşik Çin'inin büyük duvarlarını ve yükselen harikalarını görmek için gelecek. Adamlarının elleri, dünyanın göreceği en etkileyici yapıları hızla ve sıkı çalışarak yükseltirken asla su toplamasın. Onları iyi koru ve sonsuza dek ölümsüzleşeceksin.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SALADIN">
+			<Text>Ey Selahaddin, bilim ve dinin evliliği hassas bir denge oyunudur, ama senin ustalaştığın bir iştir. Bilgi arayışın asildir ve halkın sana derin bir saygı duyar. Ancak bilinmeze acele etmene gerek yok. Zamanla, hayatın en şaşırtıcı sorularının cevapları Arabistan'a geri dönecektir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
+			<Text>Ey büyük savaşçı Kraliçe Tomris, tüm insanlar sana korku ve saygıyla titreyecek. Çünkü aygırının sırtından İskit halkına bakacak ve onlara liderlik edeceksin. Bozkırdan dörtnala çıkan atlı savaşçıların büyük destanları anlatılacak ve her savaşın ön saflarında seni bulacaklar. Sürmeye devam et, yiğit kraliçe; düşmanların tökezlerken dostların sadık kalsın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
+			<Text>Ey yüce Roma'nın imparatoru Trajan, ağını geniş at. Lejyonların, dünyanın gördüğü en büyük imparatorluğu kurmak için yürümeye hazır bekliyor. Eğer gerçekten tüm yolları Roma'ya çıkarabilirsen, senin imparatorluğun büyük zenginliklerin ve lükslerin imparatorluğu olacak. O zaman halkımız seni en iyi hükümdarları, Optimus Princeps ilan edecek.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
+			<Text>Ve böylece geniş omuzlarına düşüyor, Theodore Roosevelt, halkını büyük maceralarına doğru ileri atılmak ve liderlik etmek. Askeri gücünü kullanarak anavatanının halkına çaresizce hak ettikleri adil düzeni ver. Amerika'yı kesinlikle ilgi odağı haline getirecek ve sırf topraklarını görmek için okyanuslar ötesinden ziyaretçiler çekeceksin. Aferin sana, Sayın Başkan.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
+			<Text>Ey İngiltere Kraliçesi Majesteleri Victoria, nüfuzunu sınırlarının ötesine ve dünyanın dört bir yanına yay. Yenilgi olasılığı için endişelenme; sadık kızıl ceketlilerin ve ezici donanman kesinlikle zaferi getirecek. Sakin ve istikrarlı dokunuşunla tüm toprakları İngiltere'nin hâkimiyeti altına alabilir ve gerçek bir Pax Britannica kurabilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ANCIENT_DESCRIPTION">
+			<Text>Suyun altındaki ilk can kıpırtılarından… Taş Devri'nin büyük canavarlarına… insanın ilk dik adımlarını atışına kadar uzun bir yol kat ettin. Şimdi en büyük arayışın başlıyor: bu ilk uygarlık beşiğinden yıldızlara doğru.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
+			<Text>Mütevazı başlangıçlardan olağanüstü bir büyüme gösterdin. Bronzunu demire bırak ve at ile kılıçla hükmet. Yukarıdaki gökyüzü sırlarını açığa çıkarmaya başlıyor; kalplerimizi yükselten ve bizi yabancı kıyılara yönlendiren bir cennet birikintisi.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
+			<Text>Taştan büyük şehirler inşa ettin ve ilk imparatorlukların yükselişine ve çöküşüne tanık oldun. Yakında yiğit şövalyelerinle birlikte kalelerin yükselen zirvelerinin altında duracaksın. Halkının hikâyesi işte orada yazılacak. Tıpkı genç çırağın bir kılıç taşımayı öğrenmesi gibi, sen de bu dünyadaki yerini anlamayı öğreneceksin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
+			<Text>Yeni güçler çağırıyor: tüfek namlularından gökyüzündeki ateş çiçeklerine kadar. Yeni basılmış sayfalardaki sessiz sözler bile büyük değişimler barındırıyor. Eskiden bu kadar engin ve gizemli olan dünya, daha küçük ve daha tanıdık hale geldi. Yine de cevaplanması gereken sorular, sınanması gereken inançlar ve oluşturulması gereken ulusal kimlikler her zaman vardır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
+			<Text>Makinelerin düzenli uğultusu, keskin duman kokusu, kül ve isle bulanmış görüş – bunlar değişen zamanların işaretleridir. Bilimsel ve kültürel ilerlemenin cazibesi, krallığını ileriye taşıyan motordur. Şimdi meydan okuman, toprak ile insan, barış ile savaş arasındaki hassas dengeyi korumaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_MODERN_DESCRIPTION">
+			<Text>Başlangıçta, uçan insanlara dair efsaneler yükseliyordu. Ve bugün, bu efsaneleri gerçeğe dönüştürmenin eşiğindesin. Uçuş ve yeni iletişim biçimleriyle küçük ve samimi bir dünya yaratabilirsin. Ama bunun bedeli ne olacak? Nasıl yönetileceği ve nasıl yaşanacağına dair çatışan fikirlerimiz, küresel ölçekte çatışmayı getirme tehdidi taşıyor. Bu yükselen ideolojik nutuk gürültüsünde kendi yolunu seçmelisin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_ATOMIC_DESCRIPTION">
+			<Text>Keşfin yeni sınırları, minik atomdan uzayın ihtişamına kadar anlayışımızı genişletiyor. Uzun süredir katlanılan gizemler, en derin sırlarını açığa çıkarmaya her zamankinden daha yakın; kolayca görebildiklerimizin ötesinde. Bu bilgiyi nasıl kullanacağını sen seçeceksin ve şimdiye kadar karşılaştığımız en büyük karanlığı geri püskürteceksin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_INFORMATION_DESCRIPTION">
+			<Text>Bir bilgi dünyası avucunuzun içinde duruyor ve anlık iletişim ağları küreyi sarıyor. Ancak geleceğimize dair birleşik bir vizyon hiçbir zaman inşa edilmedi. Teknoloji, kültür ve siyasette rekabet ediyoruz. Gezegenimizi yok edebilecek ölümcül silahlara sahibiz. Bizi dikkatle ama cesurca yönet ve yıllarca ayakta kalabilecek bir küresel topluluk inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DISABLE">
+			<Text>Danışmanı devre dışı bırak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
+			<Text>Sıra tabanlı stratejide yeniyim.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV">
+			<Text>Civilization'da yeniyim.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
+			<Text>Civilization VI'da yeniyim.</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_NAME">
+			<Text>Tekrarlanan Uygarlık Yok</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
+			<Text>Tekrarlanan Lider Yok</Text>
+		</Row>
+		<Row Tag="LOC_NO_TEAMS_NAME">
+			<Text>Takım Yok</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_DESCRIPTION">
+			<Text>Bu seçeneğin etkinleştirilmesi, iki veya daha fazla oyuncunun aynı uygarlığı seçmesini engeller.</Text>
+		</Row>
+		<Row Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
+			<Text>Bu seçeneğin etkinleştirilmesi, iki veya daha fazla oyuncunun aynı lideri seçmesini engeller.</Text>
+		</Row>
+		<Row Tag="LOC_NO_TEAMS_DESCRIPTION">
+			<Text>Bu seçeneğin etkinleştirilmesi, takım oyununu devre dışı bırakır.</Text>
+		</Row>
+		<Row Tag="LOC_LIMIT_TURNS_NAME">
+			<Text>Tur Sınırı</Text>
+		</Row>
+		<Row Tag="LOC_LIMIT_TURNS_DESCRIPTION">
+			<Text>Maksimum tur sayısını sınırla</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_NONE_NAME">
+			<Text>Tur Sınırı Yok</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
+			<Text>Tur sayısında herhangi bir sınır yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
+			<Text>Oyun Hızına Göre</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
+			<Text>Oyun MS 2050 yılında sona erecek.</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_CUSTOM_NAME">
+			<Text>Özel</Text>
+		</Row>
+		<Row Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
+			<Text>Oyun, belirtilen tur sayısında sona erecek.</Text>
+		</Row>
+		<Row Tag="LOC_CITYSTATE_COUNT_NAME">
+			<Text>Şehir Devletleri</Text>
+		</Row>
+		<Row Tag="LOC_CITYSTATE_COUNT_DESCRIPTION">
+			<Text>Oyuna dahil edilecek şehir devletlerinin sayısı.</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_NAME">
+			<Text>Maksimum Tur:</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_DESCRIPTION">
+			<Text>Oyun, belirtilen tur sayısı geçtikten sonra sona erecek.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_RESUME_GAME_TT">
+			<Text>Oynadığınız son oyuna devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_LOAD_GAME_TT">
+			<Text>Daha önce kaydedilmiş bir oyunu yükleyin.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_PLAY_NOW_TT">
+			<Text>Küçük bir Kıtalar haritasında rastgele liderlerle oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_CREATE_GAME_TT">
+			<Text>Kendi ayarlarınızla yeni bir oyun oluşturun.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_SCENARIOS_TT">
+			<Text>Bir senaryo oynayın: özel kurallar, liderler ve hedeflerle benzersiz bir deneyim.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
+			<Text>Hemen oynayın, yeni bir oyun oluşturun veya var olan bir oyuna devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_TT">
+			<Text>İnternet, ağ ve sıcak koltuk maçları burada kurulabilir veya katılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
+			<Text>Grafik, ses, tuş atamaları ve daha fazlası için ayarlar.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MODS_TT">
+			<Text>Hayranların Civilization VI'yı genişletmek ve zenginleştirmek için oluşturduğu özel yapımlar.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_TUTORIAL_TT">
+			<Text>Seriye tamamen yeni misiniz yoksa tazelemeye mi ihtiyacınız var? Yardım etmek için buradayız!</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_BENCHMARK_TT">
+			<Text>Donanımınız ne kadar iyi?</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_WORLDBUILDER_TT">
+			<Text>Dünya Oluşturucu harita düzenleyicisi.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_CREDITS_TT">
+			<Text>Civilization VI'ya katkıda bulunan herkes.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_EXIT_GAME_TT">
+			<Text>Oyundan tamamen çıkın.</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_HALL_OF_FAME">
+			<Text>Şöhretler Müzesi</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_HALL_OF_FAME_TT">
+			<Text>Oyun tarzın zamanın sınavına dayanıyor mu?</Text>
+		</Row>
+		<!-- Copyright screen -->
+		<Row Tag="LOC_COPYRIGHT_TEXT">
+			<Text>© 1991 – 2023 Take-Two Interactive Software, Inc. Firaxis Games tarafından geliştirilmiştir. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ ve ilgili logoları Take-Two Interactive Software, Inc.'in ticari markalarıdır. Bink Video kullanır. Telif Hakkı © 1997 – 2020 RAD Game Tools, Inc. Granny Animation kullanır. Telif Hakkı © 1999 – 2020 RAD Game Tools Inc. WWise ile güçlendirilmiştir © 2006-2020 Audiokinetic Inc. Tüm hakları saklıdır. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI, Havok® kullanır. © 1999 – 2020 Havok.com, Inc. (ve Lisans Verenleri). Tüm Hakları Saklıdır. Detaylar için www.havok.com adresini ziyaret edin. Microsoft, DirectX, Visual Studio ve Windows, Microsoft Corporation'ın Amerika Birleşik Devletleri'nde ve/veya diğer ülkelerde tescilli ticari markaları veya ticari markalarıdır. Lua Telif Hakkı © 1994 – 2020 Lua.org, PUC-Rio. Diğer tüm işaretler ve ticari markalar ilgili sahiplerinin mülkiyetindedir. Tüm hakları saklıdır. Bu video oyununun içeriği kurgusaldır ve oyunun tarihi ortamındaki olay, kişi veya kuruluşların gerçek kayıtlarını temsil etme veya tasvir etme amacı taşımaz.</Text>
+		</Row>
+		<Row Tag="LOC_COPYRIGHT_ACCEPT">
+			<Text>Devam</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DEFAULT_NAME">
+			<Text>Zafer</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_HEADER">
+			<Text>ZAFER!</Text>
+		</Row>
+		<Row Tag="LOC_DEFEATED_SUBHEADER">
+			<Text>YENİLGİ</Text>
+		</Row>
+		<Row Tag="LOC_ELIMINATED_SUBHEADER">
+			<Text>ELENDİ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCORE_SUBHEADER">
+			<Text>PUAN ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
+			<Text>BİLİM ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_SUBHEADER">
+			<Text>KÜLTÜR ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_SUBHEADER">
+			<Text>HAKİMİYET ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_SUBHEADER">
+			<Text>DİNİ ZAFER</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
+			<Text>ZAFER: {1_ScenarioName}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
+			<Text>{1_ScenarioVictoryType}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
+			<Text>OYUN KAZANANI</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCORE_NAME">
+			<Text>Puan Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_NAME">
+			<Text>Bilim Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_NAME">
+			<Text>Kültür Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_NAME">
+			<Text>Hakimiyet Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_NAME">
+			<Text>Dini Zafer</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCORE_TT">
+			<Text>Büyük bir zafere ulaşamadıysan da, eline geçeni kabullenirsin. Bu zafer, süre dolduğunda ve başka bir galip olmadığında tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_SCIENCE_TT">
+			<Text>Bilim Zaferi kazanmak için Mars'ı sömürgeleştiren ilk kişi ol. Bu zafer doğrudan bir hedef olsa da, süre dolmadan ulaşması zor olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_CULTURE_TT">
+			<Text>Kültürel büyüklüğün, dünyanın tüm halklarını imparatorluğuna çekecek. Bu, elde edilmesi en zor zaferdir.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DOMINATION_TT">
+			<Text>Askeri güç ve hünerin sayesinde dünyayı diz çöktürürsün. Bu, elde edilmesi en temel zaferdir.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_TT">
+			<Text>Dinini dünyanın dört bir yanına yay, karanlık bir dünyaya ışık getir. Dünyayı tek gerçek dine döndürmeyi umuyorsan, diplomatik ilişkilerde usta olman gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_RULESET_NAME">
+			<Text>Standart Kurallar</Text>
+		</Row>
+		<Row Tag="LOC_RULESET_DESCRIPTION">
+			<Text>Bu, standart bir Civilization VI oyunudur.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
+			<Text>Kleopatra Olarak Oyna</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
+			<Text>Gılgamış Olarak Oyna</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
+			<Text>Ek İçerik</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
+			<Text>Civilization VI için ek içerik.</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO">
+			<Text>Demo</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
+			<Text>Hemen Satın Al</Text>
+		</Row>
+		<Row Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
+			<Text>Sid Meier's Civilization VI satın almak için Steam Mağazası'nı aç</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_CONTENT">
+			<Text>Tebrikler! Zamanın sınavına dayanacak bir Uygarlık inşa etmeye yönelik ilk adımları attın. Tarihin en büyük liderlerine karşı kendini sınamaya devam edecek misin? Halkının kültürü serpilebilecek mi? Bilimin aydınlatacak mı? İnancın ilham verecek mi? Ordun hükmedecek mi?[NEWLINE][NEWLINE]Sid Meier's Civilization VI'da nasıl liderlik edeceksin? Yolculuğa şimdi devam et.[NEWLINE][NEWLINE]İnşa et. Fethet. İlham ver.</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
+			<Text>Tarihe Karış</Text>
+		</Row>
+		<Row Tag="LOC_DEMO_COMPLETE_BUY">
+			<Text>Büyüklüğe Ulaş</Text>
+		</Row>
+		<Row Tag="LOC_ARX_VICTORY_PROGRESS">
+			<Text>{1_CivName} Zafer İlerlemesi</Text>
+		</Row>
+		<Row Tag="LOC_ARX_TOP_5">
+			<Text>İlk 5</Text>
+		</Row>
+		<Row Tag="LOC_ARX_GOSSIP_LOG">
+			<Text>Dedikodu Kaydı</Text>
+		</Row>
+		<!-- File Errors -->
+		<Row Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
+			<Text>Bu oyun sürümünde kayıt dosyası yüklenemiyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
+			<Text>Kayıt açılamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
+			<Text>Kayıt yazılamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
+			<Text>Kayıt okunamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
+			<Text>Kayıt silinemiyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
+			<Text>Dosya bir oyun kaydı değil.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
+			<Text>Kayıt dosyası bozuk.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
+			<Text>Kayıt yükleme beklenmedik şekilde sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
+			<Text>Oyun durumu geri yüklenemiyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
+			<Text>Kayıt dosyasının yolu bulunamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
+			<Text>Kayıt cihazı geçersiz.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
+			<Text>Cihazdan kayıt listesi alınamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
+			<Text>Kayıt için gerekli bir veya daha fazla Mod yüklü değil.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
+			<Text>Kayıt için gerekli bir veya daha fazla DLC paketi yüklü değil.</Text>
+		</Row>
+		<Row Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
+			<Text>Kayıt için gerekli bir veya daha fazla Genişletme paketi yüklü değil.</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_NAME_SELECT_TITLE">
+			<Text>Takım Adı</Text>
+		</Row>
+		<Row Tag="LOC_TEAM_NAME_ENTRY_TITLE">
+			<Text>Takım Adını Girin</Text>
+		</Row>
+		<Row Tag="LOC_CHOOSE_TEAM_ICON">
+			<Text>Takım Simgesi Seçin</Text>
+		</Row>
+		<Row Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
+			<Text>Günün Mesajı:</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="LOC_GAME_START_ERROR_DESC">
+			<Text>Oyun başlatılırken bir hata oluştu.[NEWLINE][NEWLINE]Herhangi bir modu devre dışı bırakıp tekrar denemenizi öneririz.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_CODE">
+			<Text>Hata - {1_ErrorCode}</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_VIEW_MODS">
+			<Text>Modları Yönet</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_TITLE">
+			<Text>Oyun Başlatma Hatası</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
+			<Text>Kayıt dosyası sürümü uyumsuz.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
+			<Text>Bir veya daha fazla Mod içerik yükleyemedi.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
+			<Text>Bir veya daha fazla Mod, içerik veya veritabanı girişlerini yapılandıramadı.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_MOD_OWNERSHIP">
+			<Text>Bir veya daha fazla Mod satın alınmamış.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
+			<Text>Başlangıç betiklerinden bir veya daha fazlasında hata var. lua.log dosyasına bakın.</Text>
+		</Row>
+		<Row Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
+			<Text>Bulut kayıtları için bağlı bir 2K Hesabı gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
+			<Text>Bulut kayıt hizmetleri kullanılamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
+			<Text>Bu oyun hakkında teknik bilgiler:</Text>
+		</Row>
+		<Row Tag="LOC_PAUSEMENU_INFO_VERSION_TOOLTIP">
+			<Text>Sürüm: {1_Version}</Text>
+		</Row>
+		<Row Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
+			<Text>Harita Tohumu: {1_MapSeed}</Text>
+		</Row>
+		<Row Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
+			<Text>Oyun Tohumu: {1_GameSeed}</Text>
+		</Row>
+		<Row Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
+			<Text>Bilgileri kopyalamak için sağ tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
+			<Text>Bilgileri kopyalamak için 5 saniye basılı tutun.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_SCOUT_CAT_TITLE">
+			<Text>İzci Kedi</Text>
+		</Row>
+		<Row Tag="LOC_MOD_SCOUT_CAT_TEASER">
+			<Text>İzci'nin köpeğini bir kedi sürüsüyle değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
+			<Text>Bazen bir oyuncu 'Scout' adlı köpeği o kadar çok sever ki, onu vahşi doğada bu kadar sıkı çalışırken görmeye dayanamaz. Bu yüzden en bariz çözüm, bir kedi sürüsünü göndermektir ki Scout köyde rahatça dinlensin. Ya da büyük bir kedi hayranıysanız, bu DLC gayet basit bir şekilde bir yanlışı düzeltiyor.</Text>
+		</Row>
+    <!-- Leader Pools -->
+    <Row Tag="LOC_LEADER_POOL_1_NAME">
+      <Text>Lider Havuzu 1</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_POOL_1_DESC">
+      <Text>Bu lider seçkisi, Rastgele Lider (Havuz 1) seçeneğinden lider seçilirken kullanılacaktır.</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_POOL_2_NAME">
+      <Text>Lider Havuzu 2</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_POOL_2_DESC">
+      <Text>Bu lider seçkisi, Rastgele Lider (Havuz 2) seçeneğinden lider seçilirken kullanılacaktır.</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_POOL_COUNTER_WARNING">
+      <Text>[COLOR_RED]En az {1_Min} lider seçilmelidir.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_POOL_PRESETS">
+      <Text>Hazır Ayarlar:</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_PICK_PRESET_ALL">
+      <Text>Tümü</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_PICK_PRESET_NONE">
+      <Text>Hiçbiri</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_PICK_PRESET_NO_WINS">
+      <Text>Hiç zaferi olmayan liderler</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_LEADER_POOL_1">
+      <Text>Rastgele Lider (Havuz 1)</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_LEADER_POOL_2">
+      <Text>Rastgele Lider (Havuz 2)</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_POOL_TOO_FEW_WARNING">
+      <Text>Lider Havuzlarından biri, o havuzu seçen her oyuncu için yeterli lidere sahip değil. Devam ederseniz, bu oyunculardan bazılarına o havuzun dışından lider atanacaktır. Bu durum kabul edilebilir mi?</Text>
+    </Row>
+    <Row Tag="LOC_CHALLENGE_GAME_START_ERROR">
+	  <Text>Oyuna başlarken bir hata oluştu. Bu kayıt dosyası için Ayın Mücadelesi artık mevcut değil.</Text>
+    </Row>
+    <Row Tag="LOC_CHALLENGE_MP_SAVEGAME_START_ERROR">
+	  <Text>Bu kayıt, bir Ayın Mücadelesi içindir ve çok oyunculu oyunlarda yüklenemez.</Text>
+    </Row>
+	<Row Tag="LOC_NEW_PACKAGE_ON_SERVER">
+		<Text>Bir güncelleme mevcut! Lütfen oyununuzu yeniden başlatın.</Text>
+	</Row>
+	</FrontEndText>
+</GameData>

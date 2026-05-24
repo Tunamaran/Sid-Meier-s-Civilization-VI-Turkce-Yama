@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE">
+			<Text>ARAŞTIRMA TAMAMLANDI</Text>
+		</Row>
+		<Row Tag="LOC_UI_TECHNOLOGY_RESEARCH_COMPLETE_BLURB">
+			<Text>Tebrikler! {1_TechnologyName} teknolojisini araştırdınız!</Text>
+		</Row>
+		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE">
+			<Text>YÖNETİM BİLİMİ TAMAMLANDI</Text>
+		</Row>
+		<Row Tag="LOC_UI_CIVIC_PROGRESS_COMPLETE_BLURB">
+			<Text>Halkınız {1_CivicName} sosyal politikasını denemeye hevesliyken, bu turda hükümet ve sosyal politika değişiklikleri ÜCRETSİZDİR.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BABYLON_MOD_TITLE">
+			<Text>Babil Paketi</Text>
+		</Row>
+		<Row Tag="LOC_BABYLON_MOD_TEASER">
+			<Text>Yeni Uygarlık ve Lider - Babilli Hammurabi</Text>
+		</Row>
+		<Row Tag="LOC_BABYLON_MOD_DESCRIPTION">
+			<Text>Yeni bir uygarlık ve lider, 6 yeni şehir devleti, 24 yeni büyük şahsiyet ile Kahramanlar ve Efsaneler oyun modunu içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

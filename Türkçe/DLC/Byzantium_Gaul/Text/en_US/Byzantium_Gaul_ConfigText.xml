@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Dramatic Ages Civ Ability Override -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DRAMATIC_AGE_QUESTS_DESCRIPTION">
+			<Text>Altın Çağ'dayken fazladan bir Joker Politika Yuvası kazandırır ve Karanlık Çağ Politikalarını kullanmanıza olanak tanır. Savunma binalarına +%50 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<!-- Byzantium: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_NAME">
+			<Text>Bizans</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_DESCRIPTION">
+			<Text>Bizans İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BYZANTIUM_ADJECTIVE">
+			<Text>Bizans</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_NAME">
+			<Text>Vergi Sistemi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BYZANTIUM_DESCRIPTION">
+			<Text>Birimler, Bizans'ın dinine dönüştürülen her Kutsal Şehir (Bizans'ın Kutsal Şehri dahil) için +3 [ICON_Strength] Muharebe Gücü veya [ICON_RELIGION] Dinî Güç kazanır. Bir düşman uygarlığına veya şehir devletine ait bir birim yenilgiye uğratıldığında Bizans'ın dini yakındaki şehirlere yayılır. Kutsal Alan bölgesine sahip şehirlerden +1 [ICON_GreatProphet] Büyük Peygamber puanı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_NAME">
+			<Text>Kutsal Şehir Muharebesi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_COMBAT_UNITS_DESCRIPTION">
+			<Text>Dininize dönüştürülen her Kutsal Şehir için +3 [ICON_Strength] Muharebe Gücü kazanırsınız ve büyük bir uygarlığın birimi yenildiğinde Bizans'ın dini yakındaki şehirlere yayılır (Vergi Sistemi).</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_BONUS_DESC">
+			<Text>+{1_Amount} Muharebe Gücü (Vergi Sistemi özelliğinden)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_NAME">
+			<Text>Kutsal Şehir Dinî Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYZANTIUM_RELIGIOUS_UNITS_DESCRIPTION">
+			<Text>Dininize dönüştürülen her Kutsal Şehir için +3 [ICON_RELIGION] Dinî Güç kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_HOLY_CITIES_CONVERTED_RELIGIOUS_BONUS_DESC">
+			<Text>+{1_Amount} Dinî Güç (Vergi Sistemi özelliğinden)</Text>
+		</Row>
+		<!-- Byzantium: District Info -->
+		<Row Tag="LOC_DISTRICT_HIPPODROME_NAME">
+			<Text>Hipodrom</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_DESCRIPTION">
+			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu bölgedeki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız.</Text>
+		</Row>
+			<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION1_DESCRIPTION">
+			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu bölgedeki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız. Su Parkı olan bir şehirde inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_EXPANSION2_DESCRIPTION">
+			<Text>Bizans'a özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +3 [ICON_Amenities] Olanak sağlar ve inşaası daha ucuzdur. Hipodrom ve bu bölgedeki binalar inşa edildiğinde bir Ağır Süvari birimi kazanırsınız. Bu bölgeden sağlanan birimlerin kaynak bakım maliyeti yoktur. Su Parkı olan bir şehirde inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_NAME">
+			<Text>Hipodrom</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FREE_RESOURCE_MAITENANCE_HIPPODROME_DESCRIPTION">
+			<Text>Bu birim, Hipodrom bölgesinden Tur başına Stratejik Kaynak harcamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HIPPODROME_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür (bitişik Hipodrom bölgesinden).</Text>
+		</Row>
+		<!-- Byzantium: Leader Info -->
+		<Row Tag="LOC_LEADER_BASIL_NAME">
+			<Text>II. Basileios</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BASIL_NAME">
+			<Text>Porphyrogénnētos</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BASIL_DESCRIPTION">
+			<Text>Ağır ve Hafif Süvari birlikleri, Bizans ile aynı dini takip eden şehirlere tam hasar verir. Kutsal Hak yönetim bilimi keşfedildiğinde Tagma eşsiz birimi kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_BASIL">
+			<Text>Düşmanların senden korkacak, Kral II. Basileios, çünkü sen ateşte dövüldün. Zekân ve hırsın kılıcını bilesin. Gururunu koru ve düşmanlarına karşı dur; hem surlarının içinde, hem ötesinde.</Text>
+		</Row>
+		<!-- Byzantium: Unit Info -->
+		<Row Tag="LOC_UNIT_BYZANTINE_DROMON_NAME">
+			<Text>Dromon</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_DROMON_DESCRIPTION">
+			<Text>Bizans'a özgü Klasik Çağ birimi olan Dromon, Dört Kürekli'nin yerini alır; ek menzile sahiptir ve birimlere karşı +10 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_NAME">
+			<Text>Yunan Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_DESCRIPTION">
+			<Text>Birimlere karşı +10 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DROMON_COMBAT_STRENGTH_AGAINST_UNITS_DESCRIPTION">
+			<Text>Birimlere karşı +{1_Amount} Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_TAGMA_NAME">
+			<Text>Tagma</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BYZANTINE_TAGMA_DESCRIPTION">
+			<Text>II. Basileios'a özgü Orta Çağ birimi olan Tagma, Şövalye'nin yerini alır. Tagma'nın 1 kare yakınındaki kara birlikleri +4 [ICON_Strength] Muharebe Gücü veya [ICON_RELIGION] Dinî Güç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NAME">
+			<Text>Tagma</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_DESCRIPTION">
+			<Text>Tagma'nın 1 kare yakınındaki kara birlikleri +4 [ICON_Strength] Muharebe Gücü veya [ICON_RELIGION] Dinî Güç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_NAME">
+			<Text>Tagma Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_NONRELIGIOUS_COMBAT_DESCRIPTION">
+			<Text>Tagma'nın 1 kare yakınındayken +4 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>Tagma'nın 1 kare yakınındayken +{1_Amount} Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_NAME">
+			<Text>Tagma Dinî Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_COMBAT_DESCRIPTION">
+			<Text>Tagma'nın 1 kare yakınındayken +4 [ICON_RELIGION] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TAGMA_RELIGIOUS_DESCRIPTION">
+			<Text>Tagma'nın 1 kare yakınındayken +{1_Amount} Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_NAME">
+			<Text>Porphyrogénnētos</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_SAME_RELIGION_DESCRIPTION">
+			<Text>Bizans ile aynı dini takip eden şehirlere tam hasar verir (Porphyrogénnētos).</Text>
+		</Row>
+		<!-- Gaul: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_GAUL_NAME">
+			<Text>Galya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GAUL_DESCRIPTION">
+			<Text>Galya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GAUL_ADJECTIVE">
+			<Text>Galya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_NAME">
+			<Text>Hallstatt Kültürü</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GAUL_DESCRIPTION">
+			<Text>Maden Ocakları, tüm bölgelere küçük bir komşuluk bonusu sağlar, sahipsiz topraklarda bir Kültür Bombası oluşturur ve +1 [ICON_CULTURE] Kültür kazandırır. Uzmanlık bölgeleri, başka bir bölgeye bitişik olmaktan küçük bir komşuluk bonusu almaz ve bu bölgeler Şehir Merkezi'ne bitişik olarak inşa edilemez.</Text>
+		</Row>
+		<!-- Gaul: District Info -->
+		<Row Tag="LOC_DISTRICT_OPPIDUM_NAME">
+			<Text>Oppidum</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION">
+			<Text>Galya'ya özgü bir bölge olup, yerini aldığı Sanayi Bölgesi'nden daha ucuz ve daha erken kullanılabilir. Oppidum bölgesi, menzilli bir saldırı ile savunulabilir. İlk Oppidum inşa edildiğinde Çıraklık teknolojisinin kilidi açılır.[NEWLINE][NEWLINE]+2 [ICON_Production] Üretim komşuluk bonusu (Taş Ocakları ve stratejik kaynaklardan).</Text>
+		</Row>
+		<!-- Gaul: Leader Info -->
+		<Row Tag="LOC_LEADER_AMBIORIX_NAME">
+			<Text>Ambiorix</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMBIORIX_NAME">
+			<Text>Eburonların Kralı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMBIORIX_DESCRIPTION">
+			<Text>Uygarlığınız, sivil olmayan bir birim eğitildiğinde birimin maliyetinin %20'si kadar [ICON_CULTURE] Kültür kazanır. Yakın Dövüş, Süvari Karşıtı ve Menzilli Birlikler, bitişikteki her birim için +2 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_NAME">
+			<Text>Ambiorix</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AMBIORIX_NEIGHBOR_COMBAT_BONUS_DESCRIPTION">
+			<Text>Bitişikteki her birim için +2 [ICON_Strength] Muharebe Gücü kazanır (Eburonların Kralı)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NEIGHBOR_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Muharebe Gücü (Eburonların Kralı özelliğinden)</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMBIORIX">
+			<Text>Zekân sana iyi hizmet edecek, Ambiorix. Ordularının büyüklüğünün yetersiz kaldığı yerde, topraklarını geri almak için aklını ve altın dilini kullan. Müttefiklerin senin liderliğini izleyecek ve güçlü mızrak kolun düşmanlarının direnişini paramparça edecek. Savaş, büyük savaşçı-kral!</Text>
+		</Row>
+		<!-- Gaul: Unit Info -->
+		<Row Tag="LOC_UNIT_GAUL_GAESATAE_NAME">
+			<Text>Gaesatae</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GAUL_GAESATAE_DESCRIPTION">
+			<Text>Galya'ya özgü Antik Çağ birimi olup Savaşçı'nın yerini alır. Bu birim daha yüksek maliyete sahiptir ve temel Muharebe Gücü daha yüksek olan birliklere karşı savaşırken +10 [ICON_Strength] Muharebe Gücü kazanır. Bölge savunmalarına karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_NAME">
+			<Text>Gaesatae</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_DESCRIPTION">
+			<Text>Temel Muharebe Gücü daha yüksek olan birliklere karşı +10 [ICON_Strength] Muharebe Gücü kazanır. Bölge savunmalarına karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü: Temel Muharebe Gücü daha yüksek olan birliklere karşı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GAESATAE_COMBAT_DISTRICTS_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü: Bölge savunmalarına karşı.</Text>
+		</Row>
+		<!-- Highlands-->
+		<Row Tag="LOC_MAP_HIGHLANDS_NAME">
+			<Text>Yaylalar</Text>
+		</Row>
+		<Row Tag="LOC_MAP_HIGHLANDS_DESCRIPTION">
+			<Text>Tepeler ve dağ sıralarının hakim olduğu geniş bir bölge.</Text>
+		</Row>
+		<!-- Dramatic Ages Mode -->
+		<Row Tag="LOC_GAMEMODE_DRAMATICAGES_NAME">
+			<Text>Dramatik Çağlar Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_DRAMATICAGES_DESCRIPTION">
+			<Text>Bu oyun modu, Karanlık Çağlar ve Altın Çağlar'ı her zamankinden daha güçlü kılar. Kahramanlık Çağları kaldırılmıştır ve oyuncular yalnızca ilk çağda Normal Çağ'da olabilir. Sonrasında ya Karanlık ya da Altın Çağ kazanırlar.[NEWLINE][NEWLINE]Adanmalar yapmak yerine oyuncular, içinde bulundukları Çağ'a bağlı olarak güçlü yeni Sosyal Politikalar'a erişirler. Karanlık Çağ Politikaları, yenilenmiş güçlü etkileriyle geri döner. Altın Çağ'a ulaşanlar için ise yepyeni Altın Çağ Politikaları mevcuttur. Çağ Puanı kazanmaya devam etmek için Teknolojiler ve Sosyal Politikalar tamamlayın, askeri birlik terfileri kazanın.[NEWLINE][NEWLINE]Karanlık Çağlar özellikle tehlikelidir. Karanlık Çağ'daki oyuncuların imparatorluklarının bir kısmı anında Özgür Şehirler'e dönüşür ve Özgür Şehirler diğer şehirler üzerinde baskı kurabilir. Daha kolay zorluk seviyelerinde yapay zeka oyuncuları birçok şehir kaybeder. Daha zor seviyelerde ise insan oyuncular bunu yaşar. Prens seviyesinde eşit miktarda kayıp olur.[NEWLINE][NEWLINE]Gürcistan'ın uygarlığa özgü yeteneği, modun benzersiz kurallarına uyacak şekilde yepyenidir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

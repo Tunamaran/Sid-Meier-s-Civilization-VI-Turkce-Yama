@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Standard modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_LOW_MOUNTAIN_CITIES">
+			<Text>Pachacuti, dağlara yakın az sayıda şehriniz olmasından memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
+			<Text>Pachacuti, dağlara yakın çok sayıda şehriniz olmasından rahatsızlık duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_LOW_COASTAL_CITES">
+			<Text>Dido, az sayıda kıyı şehriniz olmasından memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_HIGH_COASTAL_CITIES">
+			<Text>Dido, çok sayıda kıyı şehriniz olmasından memnun değil.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPANSIONIST">
+      <Text>Geniş topraklar talep eden imparatorlukları sever, etmeyenlerden hoşlanmazlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_WHITE_FLEET">
+      <Text>Önemli donanmalara sahip imparatorlukları severler.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_FLAT_EARTHER">
+      <Text>Dünya'yı terk etmeye çalışanlardan hoşlanmazlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAVOR">
+      <Text>İtibar için bu kadar aktif rekabet etmenizden hoşlanmazlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAVOR">
+      <Text>Çok fazla İtibar kazanmamanızdan memnunlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_TOURISM">
+      <Text>Turizminizin bu kadar güçlü olmasından mutsuzlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_TOURISM">
+      <Text>Turizmde rekabet etmemenizden memnunlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_INTOLERANT_SAME">
+      <Text>Aynı dini paylaşmanızdan memnunlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_INTOLERANT_ENCROACHING">
+      <Text>İmparatorluklarında dininizin bulunmasına öfkeleniyorlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_DIPLOVP">
+      <Text>Diplomatik bir Zafere yaklaşmanıza öfkeleniyorlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_DIPLOVP">
+      <Text>Diplomatik Zafer için bir tehdit olmamanızdan memnunlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_PILLAGE">
+      <Text>Yağmalamaktan zevk alan başka bir uygarlık görmekten memnunlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_PILLAGE">
+      <Text>Rakiplerinizi daha sık yağmalamanızı görmek isterler.</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PORTUGAL_MOD_TITLE">
+			<Text>Portekiz Paketi</Text>
+		</Row>
+		<Row Tag="LOC_PORTUGAL_MOD_TEASER">
+			<Text>Yeni Uygarlık ve Lider - Portekiz Kralı III. João</Text>
+		</Row>
+		<Row Tag="LOC_PORTUGAL_MOD_DESCRIPTION">
+			<Text>Yeni bir Uygarlık ve Lider ile iki yeni Dünya Harikası ve Zombi Savunma Modu'nu içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

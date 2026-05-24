@@ -1,0 +1,1771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TUTORIAL_MAP_NAME">
+			<Text>Eğitim Haritası</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_MAP_DESCRIPTION">
+			<Text>Yalnızca eğitim amaçlı kullanılan harita.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_NAME">
+			<Text>Uygarlığın Şafağı</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_DESCRIPTION">
+			<Text>Uygarlığın şafağı için gerekli ön bilgi.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_DAWN_OF_CIVILIZATION_QUOTE_1">
+			<Text>Başlangıçta, yeryüzü biçimsizdi. Ve boştu. Ardından güneş, uyuyan toprakların üzerine doğdu. Ateş, hava ve sudan oluşan bu dönen kasırganın içinde, yaşamın ilk kıpırtıları belirdi.</Text>
+		</Row>
+		<!---->
+		<!-- BUTTON TEXT -->
+		<!---->
+		<Row Tag="LOC_ADVISOR_BUTTON_OK">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_SHOW_ME">
+			<Text>Nasıl yapıldığını göster</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_DISMISS">
+			<Text>Göreviniz sona erdi</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_ASSISTANCE_APPRECIATED">
+			<Text>Yardımınız için teşekkür ederim</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_CONTINUE">
+			<Text>Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_GET_STARTED">
+			<Text>Başlayalım</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_AGREED">
+			<Text>Kabul</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_VERY_GOOD">
+			<Text>Pekâlâ</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_TELL_ME_MORE">
+			<Text>Daha fazla anlat</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_BUTTON_TAKE_ME_THERE">
+			<Text>Beni oraya götür</Text>
+		</Row>
+		<!---->
+		<!-- ADVISOR TEXT -->
+		<!---->
+		<Row Tag="LOC_ADVISOR_HEAD">
+			<Text>DANIŞMAN</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_INTRO">
+			<Text>Danışmanınız olarak, uygarlığımızı yönetmekle ilgili her konuda size yardımcı olmaya yetkiliyim.[NEWLINE]Hizmetime ihtiyaç duymuyorsanız, başka işlerinizle ilgilenmek üzere beni görevden alabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_1">
+			<Text>Selamlar, Efendim! Kişisel danışmanınız olarak, uygarlığımızı yönetmekle ilgili her konuda size yardımcı olmaya yetkiliyim. Hizmetinizdeyim.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_2">
+			<Text>Tüm büyük uygarlıklar büyük bir şehirle başlar ve yerleşimcilerimiz ideal bir konum buldu. Onlara burada yeni bir şehir kurmalarını emredin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_3">
+			<Text>Tebrikler! İlk şehrinizi kurdunuz. Bu köklerden uygarlığınız zamanın sınavına dayanacak şekilde büyüyecek. Şimdi yarattığınız şeyi beslemeli ve korumalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_4">
+			<Text>Güvenlik büyük önem arz ediyor. Yakınlarımızda, tek gayesi bizim olanı yağmalayıp talan etmek olan barbar kabileler mevcut.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_5">
+			<Text>Bu şehrin üretim gayretini, yaklaşan bu tehdide karşı Savaşçılar yetiştirmek üzere yönlendirin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_6">
+			<Text>Eğitim başladı ancak yeni Savaşçılarımızın hazır olması biraz zaman alacak. Şu an için ilgilenilmesi gereken başka bir mesele yok.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_7">
+			<Text>Şehriniz savunması için Savaşçılar yetiştirmekle meşgul, ancak büyük bir medeniyet yalnızca askeri güçle ayakta kalamaz. Bilim ve keşif yollarında yetenekli insanlarımız var. Onları, medeniyetimizi ileriye taşıyacak yeni teknolojiler araştırmak üzere görevlendirmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_8">
+			<Text>Akıllıca bir karar, Majesteleri. Bu teknoloji, toprağın bağrındaki zenginlikleri daha iyi çıkarmamızı ve şehirlerimizdeki [ICON_Production] Üretimi artırmamızı sağlayacak. Araştırmamız tamamlandığında size haber vereceğim.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_9">
+			<Text>Majesteleri, [ICON_Capital] Başkentimizin yakınlarında düşmanca Barbarlar görüldü. Kendi hallerine bırakılırlarsa halkımıza saldıracak ve topraklarımızı yağmalayacaklardır. Yeni yetişmiş Savaşçılarınız saldırı emrinizi bekliyor!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_10">
+			<Text>Savaşçılarımız zafer kazandı! Halkımızı bu tehdide karşı savunmak için cesurca savaştılar. Ancak Barbarlar medeniyetimize hala göz dikmiş durumda. Daha büyük bir güçle geri dönmeleri ihtimaline karşı hazırlıklı olmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_11">
+			<Text>Başka meseleler de var, Ekselansları.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_12">
+			<Text>Savaşçı eğitimi tamamlandığına göre, şehre yeni bir üretim görevi atamanın zamanı geldi.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_13">
+			<Text>Şehrimizi çevreleyen topraklar, eğer işlersek bereketli olabilir. Sınırlarımız dahilindeki arazilere iyileştirmeler yapmak için İşçiler yetiştirmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_14">
+			<Text>Sınırlarımızın ötesinde, keşfedilmemiş diyarlarda bizi bekleyen gizemler var. Bunları öğrenmenin tek yolu keşfetmektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_14_BODY">
+			<Text>Oyunun başında, şehriniz ve çevresindeki topraklar size görünür, ancak boş parşömenle temsil edilen daha uzak bölgeler, henüz keşfetmediğiniz dünya parçalarını işaret eder.</Text>
+		</Row>
+		<Row Tag="LOC_META_16_BODY">
+			<Text>Savaşçı birimlerinin [ICON_Movement] Hareket menzili 2'dir.[NEWLINE][NEWLINE]Birimin çevresindeki topraklarda gösterilen mavi renkli gösterge, seçilen birimin tek bir turda gidebileceği en uzak mesafeyi belirtir.</Text>
+		</Row>
+		<Row Tag="LOC_META_17_BODY">
+			<Text>Düzlükler ve Otlaklar gibi açık araziler yalnızca 1 [ICON_Movement] Hareket puanı tüketirken, Ormanlık alanlar ve Tepeler gibi daha zorlu araziler 2 veya daha fazla [ICON_Movement] Hareket puanı tüketir. Sağ tıklayarak Savaşçı birimini vurgulanan konuma taşıyın.</Text>
+		</Row>
+		<Row Tag="LOC_META_17b_HEAD">
+			<Text>SAVAŞÇIYI HAREKET ETTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_17b_BODY">
+			<Text>Savaşçınızı hareket ettirmek için vurgulanan konuma SAĞ TIKLAYIN.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_15">
+			<Text>Majesteleri, Savaşçılarımız halkı misafirperver ve dost canlısı olan küçük bir Kabile Köyü keşfetti. Araştırıp Savaşçıları onlarla konuşmaya gönderelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_META_18_BODY">
+			<Text>Kabile Köylerini keşfetmek, medeniyetinize şehrinizde ek bir [ICON_Citizen] Nüfus kazandırmak veya [ICON_Gold] Altın vermek gibi birçok anlık faydadan birini sağlayabilir. Mümkün olduğunca çok Kabile Köyü keşfetmek iyi bir stratejidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_20_HEAD">
+			<Text>SAVAŞÇIYI HAREKET ETTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_20_BODY">
+			<Text>Bir Kabile Köyünü keşfetmek için birimlerinizden birini Kabile Köyü hücresine taşıyın. Şimdi Savaşçı biriminizi oraya taşımayı deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_16">
+			<Text>Görünüşe göre Kabile Köylüleri de Barbarlar tarafından rahatsız ediliyor. Kültürümüzden etkilenmişler ve savaşa katılmaya karar vermişler!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_17">
+			<Text>Gerçekten de iyi haber! Bunlar maharetli İzciler ve kurnaz gezginlerdir. Savaşçılarımızdan daha hızlı hareket edebilirler, bu da onları çevre toprakları keşfetmek için ideal kılar; ancak savaşta o kadar güçlü değillerdir. Emirlerinizi sabırsızlıkla beklemekteler.</Text>
+		</Row>
+		<Row Tag="LOC_META_21_BODY">
+			<Text>İzci birliğinin [ICON_Movement] Hareket puanının 3 olduğunu fark edin, bu sayede diğer birliklerden daha uzağa hareket edebilir. İzci birliğini haritanın keşfedilmemiş bir bölgesine doğru hareket ettirin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_18">
+			<Text>İzciler keşifte üstündür, ancak savaşta Savaşçılarımız kadar güçlü değillerdir. Onların düşmanlarımızla savaşmaktansa keşif ve hayatta kalmaya odaklanmaları daha iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_19">
+			<Text>Bir grup İşçi şehrimizdeki eğitimini tamamladı. Çevredeki toprakları iyileştirmek için çalışmaya hazırlar. Halkımızı beslemek için [ICON_Food] Besin yetiştirmeye uygun ideal yerler var. Orada bir Çiftlik inşa etmek, bu topraklardan elde ettiğimiz getiriyi artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_22_BODY">
+			<Text>İşçiler arazinize pek çok farklı iyileştirme inşa edebilir. Bir parselde inşa edebilecekleri iyileştirme türü genellikle arazi türüne göre belirlenir. Ovalar ve Otlak parseller, [ICON_Citizen] Nüfusu artırmaya yardımcı olan Çiftlikler için idealdir.</Text>
+		</Row>
+		<Row Tag="LOC_META_23_HEAD">
+			<Text>İŞÇİYİ HAREKET ETTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_23_BODY">
+			<Text>İşçinizi şehrinizin yanındaki vurgulanmış Ova bölgesine hareket ettirin.</Text>
+		</Row>
+		<Row Tag="LOC_META_24_HEAD">
+			<Text>ÇİFTLİK İNŞA ET</Text>
+		</Row>
+		<Row Tag="LOC_META_24_BODY">
+			<Text>Birim Paneli'nin yanındaki "İyileştirme İnşa Et: Çiftlik" düğmesine tıklayarak buraya bir Çiftlik iyileştirmesi inşa edin.</Text>
+		</Row>
+		<Row Tag="LOC_META_25_BODY">
+			<Text>Buraya bir Çiftlik inşa etmek, bu parselden elde edilen [ICON_Food] Besin getirisini tur başına 1 [ICON_Food] Besin'den 2'ye çıkardı. Şehrinizin ürettiği [ICON_Food] Besin miktarı, o şehrin Nüfusunun ne kadar hızlı büyüyeceğini belirler; size daha fazla bölge işlemek için yeni [ICON_Citizen] Vatandaşlar kazandırır. Daha fazla [ICON_Food] Besin, daha hızlı büyüme demektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_26_BODY">
+			<Text>İşçiler, iş güçlerini tüketmeden önce en fazla 3 iyileştirme inşa edebilir. Bu sayı Birim Paneli'nde belirtilir. Bu İşçi birliği, Çiftlik inşa ederek iş gücünden birini tüketti ve şimdi 2 kullanım hakkı kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_20">
+			<Text>Haşmetmeab, şehrimizin üretim çabalarını nereye yönlendireceğimizi seçme zamanı yine geldi. Liderliğiniz eşsiz ve uygarlığımız gelişmeye devam ediyor. Uygarlığımızın artan büyüklüğünü onurlandırmak için bir Anıt inşa edelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_SELECT_END_TURN">
+			<Text>Şu an için acil bir mesele kalmadı. Görevlerimize devam edelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_2">
+			<Text>Sınırdaki kâşiflerimiz bir Barbar kampı keşfetti. Bu, bölgemizi tehdit eden Barbarların kaynağı. Bu kaleyi yok etmeliyiz, yoksa bize bela olmaya devam edecekler.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_3">
+			<Text>Dikkatli olmanızı tavsiye ederim. Barbar kampı, en iyi birlikleri tarafından ağır bir şekilde savunuluyor ve ele geçirilmesi zor olacak. Zaferi garantilemek için birden fazla askeri birlikten oluşan bir saldırı gücü göndermeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_BARBARIAN_CAMP_DISCOVERED_C">
+			<Text>Askeri gücünüzü geliştirirken çeşitlendirmek her zaman iyi bir stratejidir. Tüm birlikler aynı yaratılmamıştır; bazıları diğerlerine karşı daha iyidir ve onları diğerlerinden ayıran yeteneklere sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_META_124_BODY">
+			<Text>Askeri gücünüzü geliştirirken çeşitlendirmek her zaman iyi bir stratejidir. Tüm birlikler aynı yaratılmamıştır; bazıları diğerlerine karşı daha iyidir ve onları diğerlerinden ayıran yeteneklere sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_7">
+			<Text>Kâşiflerimiz başka bir dost Kabile Köyü tespit etti. İzcilerimizi keşfe göndermemizi öneriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_8">
+			<Text>İyi bir şehir, dikkatli planlamayla büyük bir şehre dönüşebilir. Bir şehir bölgesinin nereye yerleştirileceğine karar vermek önemli bir karardır. En fazla faydayı elde etmek için en uygun konumu seçtiğinizden emin olun.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_4">
+			<Text>Ekselansları, şehrimizin refahı sayesinde [ICON_Citizen] Nüfusumuzun arttığını duyurmaktan mutluluk duyuyorum!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_B">
+			<Text>İlk şehrinizin [ICON_Citizen] Nüfusu 1'den 2'ye yükseldi. Bir şehir iyi beslenip halkı mutlu olduğu sürece büyümeye devam edecektir. Şehrin [ICON_Citizen] Vatandaşları, çevredeki arazilerde çalışır ve iyileştirmeler yaparak daha yüksek getiriler elde edilmesini sağlar. Daha yüksek [ICON_Citizen] Nüfus, daha hızlı [ICON_Science] Bilim araştırmasına, daha hızlı şehir [ICON_Production] Üretimine ve daha hızlı [ICON_Culture] Kültür gelişimine katkıda bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_META_125_BODY">
+			<Text>İlk şehrinizin [ICON_Citizen] Nüfusu 1'den 2'ye yükseldi. Bir şehir iyi beslenip halkı mutlu olduğu sürece büyümeye devam edecektir. Şehrin [ICON_Citizen] Vatandaşları, çevredeki arazilerde çalışır ve iyileştirmeler yaparak daha yüksek getiriler elde edilmesini sağlar. Daha yüksek [ICON_Citizen] Nüfus, daha hızlı [ICON_Science] Bilim araştırmasına, daha hızlı şehir [ICON_Production] Üretimine ve daha hızlı [ICON_Culture] Kültür gelişimine katkıda bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_CITY_POPULATION_CHANGED_C">
+			<Text>Yalnızca yeni şehirler kurarak topraklarınızı genişletmek değil, aynı zamanda o şehirleri büyütmek de her zaman akıllıca bir stratejidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_126_BODY">
+			<Text>Yalnızca yeni şehirler kurarak topraklarınızı genişletmek değil, aynı zamanda o şehirleri büyütmek de her zaman akıllıca bir stratejidir.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_MESSAGE_NATURAL_WONDER_REVEALED">
+			<Text>Civilization VI'da, oyun içi başarılar sayesinde teknoloji araştırmalarınızı hızlandıran Buluş Anları elde edebilirsiniz. Bu Buluş Anı, bir doğa harikası keşfedilerek kazanıldı. Diğer başarılar, belirli bir birimle savaş kazanmak veya bir bina inşa etmek olabilir. Bunları başarmak, teknolojik ilerlemenizi büyük ölçüde hızlandırır.</Text>
+		</Row>
+		
+		
+		<!-- Listener lines -->
+		<Row Tag="ADVISOR_LINE_LISTENER_1">
+			<Text>Keşiflerimiz sayesinde dünyanın bir doğa harikasını bulduk. Kuşkusuz, etrafındaki topraklara yerleşen kişiye büyük faydalar sağlayabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_2">
+			<Text>İzci gibi keşif birlikleri, dünyayı keşfederek ve yeni bölgeler bularak deneyim kazanabilmeleri açısından benzersizdir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_3">
+			<Text>İşçi birliğimizin iş gücü tükendi. Şehirlerimizin etrafındaki arazilerde iyileştirmeler yapmaya devam etmek için daha fazla İşçi yetiştirmemiz gerekecek.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_4">
+			<Text>Hükümetimizde yeni politikalar yürürlüğe koymak büyük fayda sağlayabilir. Halkınız sizin kararınızı bekliyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_5">
+			<Text>Daha yeni ve daha güçlü bir yönetim sistemine geçiş fırsatı doğdu. Kimliğimizi güçlendirelim ve halkımızı yönetmek için daha fazla politika uygulayalım.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_6">
+			<Text>İki şehir arasında resmî bir Ticaret Yolu geliştirme fırsatımız var. Böyle bir güzergâh kurmak için bir Tüccar birliğine ihtiyaç vardır ve bu, ekonomimiz için oldukça faydalı olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_7">
+			<Text>Bu Ticaret Yolu, uygarlığımıza zenginlik getirmenin yanı sıra, şehirlerimiz arasında zamanla Yollar inşa edecektir. Yollar sayesinde birliklerimiz, geçtikleri zorlu arazilerden artık etkilenmeyecektir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_9">
+			<Text>Bu askerî birlik kendini kanıtladı. Muharebede kazandıkları deneyim sayesinde terfi almaya hak kazandılar. Bu cesur ruhları nasıl ödüllendireceksiniz?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_10">
+			<Text>Bu birliğin muharebe başarıları efsanevi hale geldi ve onlara özgü bir ismi hak ediyor. Onları hangi unvanla onurlandıralım?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_11">
+			<Text>Bu birliğin sağlığı çok düşük ve kaybedilme tehlikesiyle karşı karşıya. Birliğin muharebeden çekilip dinlenmesine izin vermek, zamanla iyileşmesini sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_12">
+			<Text>Düşman birliklerine yaklaşırken dikkatli olmak en iyisidir. Bunu yapmak, birliğin düşmanın 'kontrol bölgesi' içine girmesine neden olur ve hareket kabiliyetini kısıtlar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_13">
+			<Text>Hükümdarım, şehrimize birkaç çiftlik veya başka iyileştirmeler iyi gelecektir. Yakında bir İşçi yetiştirmemizi öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_14">
+			<Text>İşçilerimiz boşta bekliyor. Belki de çabalarını şehrin etrafındaki toprakları iyileştirmeye yönlendirmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_15">
+			<Text>Başkentimiz serpiliyor! Ama başka yerlere de kök salmaya başlamamızın zamanı geldi. Belki de bir Yerleşimci yetiştirmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_16">
+			<Text>Hükümdarım, kullanabileceğimiz bir Elçi var. Bu Elçiyi bir şehir devletinin gözüne girmek için kullanabiliriz. Bir şehir devleti komşusuyla dostane ilişkiler kurmak, uygarlığımıza büyük fayda sağlayabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_17">
+			<Text>Şehir Devleti komşularımızdan bir talep aldık. Eğer onları etkilemeyi başarabilirsek, cömert bir ödülle karşılaşacağımıza inanıyorum.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_18">
+			<Text>Hükümdarım, korkarım ki iflasımızı bildirmek zorundayım. Bu borç yükünden kurtulmak için elimizden geleni yapmamız elzemdir. Askeri birliklerimizin bir kısmını dağıtmamızı önerebilir miyim?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_19">
+			<Text>Hükümdarım, sizi uyarmalıyım ki şehrimizin etrafındaki iyileştirilmiş arazilerin bir kısmı yağmalanmış durumda. Bundan sorumlu olanları bulmalı ve daha fazla hasara izin vermemeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_20">
+			<Text>Şehir planlaması konusunda ileri düzeyde bilgi edindik. Şehirlerimizde bölgeler oluşturmak, Çiftlik ve Maden gibi basit iyileştirmelerden çok daha güçlü ve kazançlı olabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_21">
+			<Text>Ordumuz, iki askeri birliği birleştirerek daha büyük ölçekli Kolordular oluşturmanın yolunu öğrendi. Bu Kolordu birlikleri, tekil muadillerine kıyasla çok daha güçlüdür.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_22">
+			<Text>Ordumuz artık üç askeri birliği tek bir Ordu'da birleştirme yönteminde ustalaştı. Bu birlikler, bir Kolordu'dan çok daha büyük ve güçlüdür.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_23">
+			<Text>Hükümdarım, statik tahkimat inşa etme sanatında daha fazla bilgi edindik. Şehirlerimizin etrafına Surlar inşa etmek, onları yabancı işgalcilere karşı güçlendirmekle kalmayacak, aynı zamanda yakındaki düşmanları bombalamalarına da olanak tanıyacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_24">
+			<Text>Hükümdarım! Düşman kapılarımıza dayandı, bu şehir kuşatıldı ve abluka altında. İkmal ve erzak ulaşamıyor, şehrimiz yaralarını saramıyor. Bu çemberi yarmak hayati önem taşımaktadır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_25">
+			<Text>Bir düşman şehrimizin menziline girdi. Şehir garnizonuna, işgalcilere karşı menzilli bir saldırı düzenlemesini emredin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_26">
+			<Text>Komşularımızı yakından takip etmek önemlidir ve halkımız bu konuda bize yardımcı olabilir. Kulak kesilin, zira bazen bize kıyasla daha fazla bilgiye sahip olurlar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_27">
+			<Text>Hükümdarım, dünyadaki Büyük Şahsiyetlerin dikkatini çekmeye başlıyoruz. Elbette, başka liderler de onların ilgisi için yarışıyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_28">
+			<Text>Ne kadar çok uzmanlık bölgesi inşa edersek, o kadar fazla uzmanlaşmış Büyük Şahsiyeti uygarlığımıza çekip yeteneklerini paylaşmalarını sağlarız. Bunları inşa etmeye devam etmemizi tavsiye ederim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_29">
+			<Text>Ünlü bir sanatçı uygarlığımızdan ilham aldı ve büyük sanat eserleri yaratmak için topraklarımıza geldi. Bu şaheserleri derhal sergileyebileceğimiz bir yer bulmamızı öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_30">
+			<Text>Bu yazar uygarlığımızdan ilham aldı ve büyük yazınsal eserler yaratmak için topraklarımıza geliyor. Bu şaheserleri derhal sergileyebileceğimiz bir yer bulmamızı öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_31">
+			<Text>Halkımız, topraklarımıza bir Büyük Peygamber çekti! Bu en kutsal kişiyi Kutsal Alan'ımıza gönderin ve sevinin, çünkü kendimize bir din kurma zamanı geldi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_32">
+			<Text>Bu müzisyen uygarlığımızdan ilham aldı ve büyük müzikal eserler yaratmak için topraklarımıza geldi. Bu şaheserleri derhal sergileyebileceğimiz bir yer bulmamızı öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_33">
+			<Text>Uygarlığımızın donanma koluna verdiği önem, saflarımızda bir Büyük Amiral'in yükselmesine yol açtı. Gemilerimiz arasında akıllıca konuşlandırıldığında, savaşta açık bir avantaj elde edeceğimiz kesindir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_34">
+			<Text>Uygarlığımızın askeri meselelere olan bağlılığı, birliklerimiz arasında bir Büyük General'in ortaya çıkmasını sağladı. Savaş alanında akıllıca kullanıldığında generaller savaşın gidişatını lehimize çevirebilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_35">
+			<Text>Uygarlığımıza büyük bir tüccar geldi! Her birinin ekonomimizin gelişmesine yardımcı olacak eşsiz bir yeteneği var.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_36">
+			<Text>Bilim yöntemlerine olan bağlılığımız, uygarlığımıza büyük bir bilim insanı çekti! Gelecekteki bilimsel gelişmelere fayda sağlamak için onu kullanabileceğimize eminim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_37">
+			<Text>Dünya harikalarını inşa etmek yalnızca imparatorluğumuzun büyüklüğünün olağanüstü bir göstergesi değil, aynı zamanda başka faydaları da vardır. Unutmayın, diğer uygarlıklar da bu gayrette yarışıyor olabilir ve her harikadan dünyada yalnızca bir tane bulunabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_38">
+			<Text>Tıpkı vatandaşlarımızın liderliğinize duyduğu inanç gibi, şimdi de daha yüce bir güce inanmaya başlıyorlar. Bu yeni düşünce biçimini beslemek akıllıca olacaktır - belki de bundan kazanç sağlanabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_39">
+			<Text>İnananların sayısı arttı ve inançlarımızı tanımlama zamanı geldi. Tapınmak için bir panteon seçelim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_40">
+			<Text>Efendim, yüce dinimizi yabancı topraklara yaymaya başlamak için dinî misyonerler yetiştirebiliyoruz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_41">
+			<Text>Majesteleri, dinimizi yaymak için bir havari yetiştirmenin faydalı olacağına inanıyorum. Bu kutsal insanlar din değiştirme konusunda oldukça güçlüler.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_42">
+			<Text>Dünyadaki diğer tüm dinler inancımıza bir tehdittir. Şehirlerimizdeki sapkınları temizlemek için Engizisyoncular yetiştirebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_43">
+			<Text>Ekselansları, artan nüfusumuz için bazı Mahalleler inşa etme zamanı geldiğini düşünüyorum. Bunları en güzel topraklarımıza - doğa harikalarının yakınına veya belki de kıyıya - inşa etmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_44">
+			<Text>Efendim, tüm askerî gücümüz yok edildi ve tamamen savunmasız durumdayız. Hayatta kalacaksak askerî birlikler yetiştirmek son derece önemlidir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_45">
+			<Text>Kâşiflerimiz başka bir dost kabile köyü keşfetti. İncelemesi için bir İzci göndermemizi öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_46">
+			<Text>Majesteleri, dostlarınızı yakınınızda, düşmanlarınızı ise daha da yakınınızda tutun. Artık bir Casus yetiştirebiliyoruz; komşularımızın tam olarak ne yaptığını daha iyi anlamamıza yardımcı olabilir... Daha gizli bir düzeyde.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_50">
+			<Text>Bazı kaynaklar, tıpkı bu gibi, hasat edilebilir. Bu işlem, anında kazanç karşılığında kaynağı ortadan kaldıracaktır. Ancak bir kez kaldırıldığında, bir daha geri gelmez.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_51">
+			<Text>Bir Şehir Devleti keşfettik! Onlarla diplomatik ilişkiler kurmak imparatorluğumuz için kesinlikle faydalı olacaktır. Belki de onlara bir Elçi göndermeliyiz...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_52">
+			<Text>Birçok farklı Şehir Devleti türü vardır ve her biri dostluğumuz karşılığında farklı faydalar sağlayabilir. Hükümetimiz, zamanla, bu ilişkileri geliştirmek için Elçiler kazanmamızı sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_53">
+			<Text>İlk menzilli birliğimizi yetiştirdik; yakın dövüş menzilinin dışında, uzaktan düşmanları vurabilecek kabiliyette.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_54">
+			<Text>Bir kuşatma birliği! Bir şehir saldırısına girişmeyi seçersek bu kesinlikle işe yarayacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_55">
+			<Text>Artık şehirlerimizi korumak için surlar inşa etme becerisine sahibiz. İstilacılara karşı koruma sağlamanın yanı sıra, düşmanları menzilli saldırılarla bombalamak için mükemmel gözetleme noktalarıdır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_56">
+			<Text>Düşman şehri kuşattı ve kuşatma altındayız. Bu ablukayı kırmalıyız, aksi takdirde garnizonu takviye edemez ve savunmamızı onaramayız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_57">
+			<Text>Efendim, bu şehrin sağlam savunmaları var. Yeterli güç ve doğru askerî birliklerle, onu ele geçirebileceğimizi düşünüyorum.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_58">
+			<Text>Majesteleri, barışın daha iyi bir seçenek olmadığı zamanlar vardır. Sanırım şimdi askerî gücümüzü göstermek için iyi bir nedenimiz var, ancak bu tek başınıza vermeniz gereken dikkatli bir karardır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_59">
+			<Text>Bu dünyayla tek başına yüzleşmek zor, ama izin verirseniz, komşularımızdan birinin buna layık olduğunu kanıtladığına inanıyorum. Onlara dostluk elimizi uzatalım mı?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_60">
+			<Text>Ekselansları, çevremizdeki devletlere birer Diplomatik Heyet göndermenin zamanı geldiğini düşünüyorum. Bu sayede dostluk tohumları ekebilir ve belki de diğer halkların neler çevirdiğine dair daha iyi bir fikir edinebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_61">
+			<Text>Müjde! İstersek komşularımızdan birini müttefik edinebileceğimizi düşünüyorum. Bu, kendimizi yardıma muhtaç bulduğumuzda işe yarayabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_62">
+			<Text>Üzülmeyin, hükümdarım. Ne yaparsanız yapın memnun edemeyeceğiniz insanlar her zaman olacaktır. Neyi savunduğunuzu hatırlamanız ve gerektiğinde bunun için savaşmanız önemlidir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_63">
+			<Text>Hükümdarım, sizi uyarmalıyım ki diğer uygarlıkları kınamak uzun vadeli ve kalıcı sonuçlar doğuracaktır. Bu konuları dikkatlice düşünmek önemlidir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_64">
+			<Text>Görünüşe göre birini gücendirmiş olabiliriz, ama telaşlanmayın. Bizimkinden farklı fikirlere sahip başka liderler de her zaman olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_65">
+			<Text>Görünüşe göre seçimlerimiz komşularımızdan birinin beğenisini kazanmış. Ancak herkesin kendi gündemi vardır ve eminim ki başka biri bizi ihtiyatla izliyordur.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_66">
+			<Text>Efendim, müsaadenizle, artık kıyılarımızın ötesini keşfetmeye başlamamızın zamanı geldiğini düşünüyorum. Belki kara birliklerimiz bu fırsat için uygun olabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_67">
+			<Text>Sadece topraklarımız değil, su yollarımız da geliştirilebilir. Kıyı şeridindeki kaynakları değerlendirme fırsatları aramamızı öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_68">
+			<Text>Sanırım başka bir dinin takipçilerini yanlış yolda olduklarına ikna etme fırsatımız doğdu. Bu fırsatı değerlendirelim mi?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_69">
+			<Text>Yabancı misyonerler vatandaşlarımızla görüşme peşinde. Kutsal topraklarımıza yönelik bu tehdide karşı bir şeyler yapmamız gerektiğini tavsiye ediyorum. Belki bir engizisyon başlatmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_70">
+			<Text>Çekiciliği yüksek Mahalleler daha fazla vatandaş barındırabilir. Buna karşılık bataklık, havaalanı veya yağmur ormanı yakınına inşa edilen mahalleler pek nüfuslu olmayacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_71">
+			<Text>Hazinemiz altınla doldu ve bence akıllıca bir yatırım yapmanın tam zamanı. Belki ordumuzu genişletebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_72">
+			<Text>Henüz bir Kutsal Alan inşa etmedik ve şehrimize çektiğimiz Büyük Peygamber'in gidecek yeri yok. Haydi bir tane inşa edelim!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_73">
+			<Text>Halkımız topraklarımıza bir Büyük Peygamber çekti! Bu kutsal kişiyi Stonehenge'e gönderin ve sevinin, çünkü kendimize bir din kurma zamanı geldi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_74">
+			<Text>Uygarlığımıza bir Büyük Mühendis geldi ve altyapımızı ilerletmek için çalışmaya hazır. Her birinin farklı bir yeteneği vardır, ama hepsi şehirlerimizi bir şekilde geliştirebilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_75">
+			<Text>Artık bir Uzay Limanı inşa edebilecek duruma geldik. Araştırmalarımızı derinleştirirsek yıldızların gizemlerini çözebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_76">
+			<Text>Çiftlik verimimizi artırmanın bir yolunu keşfettik. Bu potansiyeli kullanmak için, her tarlanın yanına iki bitişik çiftlik kurmamızı öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_77">
+			<Text>Tarım teknolojimizi bir kez daha ilerlettik! Birbirine bitişik inşa ettiğimiz her çiftlik her ikisinin de verimini artıracaktır; bunu mümkün olduğunca sık yapmamızı öneririm.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_78">
+			<Text>Zaman değişti ve Diplomatik Heyetler dönemi geride kaldı. Artık dostlarımız ve müttefiklerimizle Büyükelçilikler kurmamız önemlidir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_79">
+			<Text>Bu dünya bir armağandır ve onu korumak önemlidir. Bir Milli Park kurmamızı tavsiye ediyorum. Hatta turist bile çekebilir!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_80">
+			<Text>Artık sahillerimize yalnızca martılar uğramıyor. Bir Sahil Tatil Beldesi inşa edersek, okyanusun bu yeni cazibesinden faydalanabiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_81">
+			<Text>Kendi halkımız oldukça yetenekli olsa da başkalarından öğrenerek her zaman fayda sağlayabiliriz. Belki de komşularımızdan biriyle bir Araştırma Anlaşması yapmayı değerlendirmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_82">
+			<Text>Bir Kutsal Emanet! Bunu halkımızın görmesi için sergileyebilirsek, inançlıların daha fazlasını topraklarımıza çekeceğinden eminim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_83">
+			<Text>Anlaşılan dünya halkı için oldukça popüler bir cazibe merkezi haline geldik. Acaba daha kaç turist sınırlarımızdan geçecek…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_84">
+			<Text>Cesur ve kudretli bir fatihsiniz! Önümüzdeki tüm topraklara yakında hükmedeceğinize olan inancım tam.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_85">
+			<Text>Dinimiz dört bir yana yayılıyor. Pek çok insanın bizim doğru bildiğimizi benimsediğini görmek büyük bir sevinç. Ne var ki, henüz ışığı görmemiş olanlar da var.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_86">
+			<Text>Nüfusumuz artsa da en yeni vatandaşlarımıza yer kalmadı. Bu şehre daha fazla Konut eklemenin bir yolunu bulmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_87">
+			<Text>Yüce efendimiz, vatandaşlarımızın mutluluğu konusunda endişeleniyorum. Hoşnutluklarını artırmanın bir yolunu araştırmamızı tavsiye ederim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_88">
+			<Text>Halkımız, keşfetmemiz gerektiğini düşündüğüm özel ve faydalı bir beceriye sahip olduğunu ortaya çıkardı. Bu yeni Bölge'nin inşasına hemen başlarsak, hiç vakit kaybetmeden tamamlayacağımıza inanıyorum.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_89">
+			<Text>Ne yazık ki savaşta geçirdiğimiz bunca zaman halkımızı yıpratıyor. Gözlerinde acı görüyorum ve üretkenliğimiz tarihin en düşük seviyesine indi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_90">
+			<Text>Bir Arkeoloji Müzesi inşa etmek, Arkeolog yetiştirmemize olanak sağlayacak. Dünyadan öğrenilecek çok şey var ve onlar bu bilgiyi edinmemize yardımcı olacak.</Text>
+		</Row>
+		
+		
+		<!---->
+		<!-- META TEXT -->
+		<!---->
+		<Row Tag="LOC_META_1_HEAD">
+			<Text>YERLEŞİMCİ SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_META_1_BODY">
+			<Text>Yerleşimci birimini seçmek için üzerine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_8_HEAD">
+			<Text>TURU BİTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_8_BODY">
+			<Text>Bu turda alınacak başka karar kalmadığından devam etmek için Sonraki Tur düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_11a_BODY">
+			<Text>Turunuzu bitirmeden önce tamamlanması gereken görevler, ekranın sağ alt köşesindeki bildirim panelinde görünecektir.[NEWLINE][NEWLINE]Bu şehirde üretim tamamlandığından, turu bitirmeden önce üretilecek bir sonraki şeyi seçmeniz gerektiğine dair bir hatırlatma alırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_11_HEAD">
+			<Text>GEREKLİ İŞLEMLER</Text>
+		</Row>
+		<Row Tag="LOC_META_11_BODY">
+			<Text>Bir sonraki üretim görevinizi seçmek için Üretim Seç bildirimine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_33b_HEAD">
+			<Text>GEREKLİ İŞLEMLER</Text>
+		</Row>
+		<Row Tag="LOC_META_33b_BODY">
+			<Text>Tur tamamlanmadan önce bir araştırma seçilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_13a_BODY">
+			<Text>Şehrin Üretim Kuyruğu'na bir İşçi birimi eklendi. Eğitiminin tamamlanması birkaç tur sürecek. Bu turda alınması gereken başka bir karar kalmadığı için Sonraki Tur düğmesi görüntülenir.</Text>
+		</Row>
+		<Row Tag="LOC_META_13_HEAD">
+			<Text>TURU BİTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_13_BODY">
+			<Text>Devam etmek için Sonraki Tur düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_19_HEAD">
+			<Text>TURU BİTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_19_BODY">
+			<Text>Savaşçı biriminiz tüm [ICON_Movement] Hareket puanını kullandığı için bu turdaki eylemleri sona ermiştir.[NEWLINE][NEWLINE]Üretim ve araştırma görevleri halen devam ettiğinden alınması gereken başka bir karar bulunmamaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_META_19b_BODY">
+			<Text>Devam etmek için bir kez daha Sonraki Tur düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_9_HEAD">
+			<Text>SAVAŞÇI'YI SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_META_9_BODY">
+			<Text>Savaşçı birimini seçmek için üzerine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_2_HEAD">
+			<Text>BİR ŞEHİR KUR</Text>
+		</Row>
+		<Row Tag="LOC_META_2_BODY">
+			<Text>Yerleşimci'nize bu konumda yeni bir şehir kurması talimatı vermek için Şehir Kur düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_3_HEAD">
+			<Text>ÜRETİM SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_META_3_BODY">
+			<Text>Bu şehrin Üretim Seçimi'ni açmak için Şehir Üretimini Değiştir düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_4a_HEAD">
+			<Text>ÜRETİM SEÇİCİ</Text>
+		</Row>
+		<Row Tag="LOC_META_4a_BODY">
+			<Text>Burası şehrin Üretim Seçici'sidir. Buradan binalar inşa edebilir, dünya harikaları yaratabilir, askeri ve sivil birimler yetiştirebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_4b_BODY">
+			<Text>Şehrinizde bir Savaşçı birimi yetiştirmeye başlamak için Savaşçı düğmesini seçin.</Text>
+		</Row>
+		<Row Tag="LOC_META_5a_BODY">
+			<Text>Civilization, arkadaşlarınızla bir masa oyunu oynar gibi kararlar alıp eylemler gerçekleştirdiğiniz sıra tabanlı bir oyundur. Diğer tüm oyuncular hamlelerini yaptıktan sonra yeni bir tur başlar.</Text>
+		</Row>
+		<Row Tag="LOC_META_5b_BODY">
+			<Text>Şehrinizde bir şey inşa etmek zaman alır. Menüdeki her öğenin yanında kaç tur süreceği belirtilir.[NEWLINE][NEWLINE]Bu süre, öğenin [ICON_Production] Üretim maliyeti ile şehrin [ICON_Production] Üretim getirisine göre hesaplanır. Getiri ne kadar yüksekse inşa etmek o kadar az tur alır.</Text>
+		</Row>
+		<Row Tag="LOC_META_5_HEAD">
+			<Text>TURU BİTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_5_BODY">
+			<Text>Turunuzu bitirmek için Sonraki Tur düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_7a_BODY">
+			<Text>Araştırma Paneli, uygarlığınızın üzerinde çalıştığı teknolojiyi gösterir. Henüz araştırılacak bir teknoloji seçmediğiniz için panel boştur.</Text>
+		</Row>
+		<Row Tag="LOC_META_7_HEAD">
+			<Text>ARAŞTIRMA SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_META_7_BODY">
+			<Text>Menüden Madencilik teknolojisini seçerek araştırmaya başlayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_10_HEAD">
+			<Text>SAVAŞÇIYI HAREKET ETTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_10_BODY">
+			<Text>Askeri birlikler, düşman birimlerinin üzerine giderek onlara saldırabilir. Barbar birliğine saldırmak için sağ tıklayın. Şimdi bunu deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_META_27_HEAD">
+			<Text>ANIT İNŞA ET</Text>
+		</Row>
+		<Row Tag="LOC_META_27_BODY">
+			<Text>Birimler eğitmenin yanı sıra, şehriniz üretimini Anıt gibi binalar inşa etmeye odaklayabilir.[NEWLINE][NEWLINE]Bunu şimdi, şehrin Üretim Sırası'ndan seçerek inşa etmeyi deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_21">
+			<Text>Aramızda Barbarlar varken, Savaşçılarımızın şehre daha yakın olması halkımızı rahatlatacaktır. Onlara geri dönüp savunma yapmalarını emredin.</Text>
+		</Row>
+		<Row Tag="LOC_META_28a_BODY">
+			<Text>Birimlere, çok turlu emir vererek daha uzun mesafeler kat etmeleri emredilebilir. Bu, bir hedefe ulaşmak için her tur ayrı bir hareket emri verme gereksinimini ortadan kaldıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_28_HEAD">
+			<Text>SAVAŞÇIYI HAREKET ETTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_28_BODY">
+			<Text>Savaşçıya şehre dönmesini emretmek için Taşı düğmesine, ardından şehre tıklayarak deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_META_29_BODY">
+			<Text>Çok turlu bir emir kullanıldığında, birimin izleyeceği yol haritada görüntülenecek ve hedefe ulaşana kadar geçecek tur sayısı belirtilecektir.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_22">
+			<Text>Majesteleri, İzcilerimiz çevredeki toprakları keşfetmek ve kıtanın yeni bölgelerini ortaya çıkarmak için can atıyor. Onları yola çıkarın!</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_23">
+			<Text>Şimdilik ele alınacak başka bir mesele kalmamıştır, Hükümdarım.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_24">
+			<Text>En parlak zihinlerimiz, değerli taşları ve metalleri topraktan çıkarmak için yeni ve dahiyane yöntemler keşfetti. Yakınlarda bol miktarda değerli Taş var; İşçilerimizi orada bir Taş Ocağı inşa etmeye göndermek akıllıca olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_30_BODY">
+			<Text>Haritaya dağılmış çeşitli kaynaklar bulunur. 3 kaynak kategorisi vardır:[NEWLINE][NEWLINE]Lüks: Vatandaşlarınızın genel mutluluğuna katkıda bulunur.[NEWLINE][NEWLINE]Stratejik: Çok güçlü askeri birimler oluşturmak için gereklidir.[NEWLINE][NEWLINE]Bonus: [ICON_Food] Besin, [ICON_Production] Üretim veya [ICON_Gold] Altın şeklinde ek getiri sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_META_31a_HEAD">
+			<Text>TAŞ OCAĞI İNŞA ET</Text>
+		</Row>
+		<Row Tag="LOC_META_31a_BODY">
+			<Text>Bu Taş bir Bonus kaynağıdır. Şehrinize ek +1 [ICON_Production]Üretim sağlar.[NEWLINE][NEWLINE]Buraya bir Taş Ocağı geliştirmesi inşa ederseniz, getiriyi +2 [ICON_Production]Üretim'e yükseltecektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_31b_BODY">
+			<Text>İşçi birliğinizi Taş kaynağına taşıyın ve orada bir Taş Ocağı geliştirmesi inşa etmelerini sağlayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_32_BODY">
+			<Text>Taş Ocağı geliştirmeleri, bulundukları şehrin [ICON_Production]Üretim'ini artırır. Daha yüksek Üretim, birimlerin ve binaların daha hızlı inşa edilmesini sağlar. Kısacası, bir şehrin Üretimi ne kadar yüksekse, orada bir şey inşa etmek için gereken tur sayısı o kadar azalır.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_26">
+			<Text>Vatandaşlarımız, Savaşçılarımızın şehre dönüşüyle rahatladı. Şimdilik daha savunmacı bir duruş benimsemelerini önerebilir miyim? Barbar tehdidine karşı tetikte olacaklardır.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_27">
+			<Text>Müjde! Zanaatkarlarımız şehrimizdeki Anıt'ı tamamladı! Bu eser, uygarlığımızın başarılarının ve azminin bir sembolüdür ve halkımıza ötesindeki topraklara doğru ilerleme cesareti veriyor.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_28">
+			<Text>Haşmetmeap, topraklarımızı genişletmeliyiz. Halkımızın şanı için yeni topraklar fethetmeye hazır maceraperest ailelerimiz var. Eğer sınırlarımızı genişletmezsek, zamanla kendimizi düşmanlarımızla çevrilmiş buluruz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_29">
+			<Text>Yerleşimcilerin eğitimlerini tamamlamaları biraz zaman alacak. İzcimiz keşfedilmemiş toprakları keşfetmeye devam etmeli. Savaşçılarımızı [ICON_Capital] Başkent'te savunmak için tutmamızı tavsiye ederim.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_30">
+			<Text>Yerleşimciler, yeni bir şehir kurmak ve uygarlığımızı genişletmek üzere yolculuğa çıkmaya hazır. Ötesindeki topraklar tehlikeli; onları askeri bir eskortla göndererek korunmalarını sağlamak akıllıca olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_31">
+			<Text>Yerleşimcilerimiz, Savaşçılarımızın koruması altında yolculuklarında güvende olmalı. Ancak onlar gidince [ICON_Capital] Başkent'te korumasız kalacağız. Şehri savunmak için hemen bir Sapancı birliği eğitmeye başlamamızı öneriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_32">
+			<Text>Muvaffak oldunuz, Haşmetmeap. Büyük zihinlerimiz yiyeceklerimizi depolamak ve muhafaza etmek için yeni yollar üzerinde çalışmaya başladı bile.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_33">
+			<Text>Büyük uygarlığımızın zaferleri sınırsız olsun! İkinci büyük şehrimiz yönlendirmenizi bekliyor. Bilge liderliğinizle o da büyüyecek ve gelişecek.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_34">
+			<Text>Tıpkı [ICON_Capital] Başkent'imiz gibi bu şehir de binalar ve birimler üretebilir, nüfusunu artırabilir ve sınırlarını genişletebilir. Daha fazla şehir, daha fazla yönetim demek, ancak Haşmetmeap'ınıza büyük güvenim var.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_36">
+			<Text>Haşmetmeap, bir uygarlığı yönetmenin temellerinde bilgelik ve anlayış gösterdiniz. Dilediğiniz her an size yardımcı olmak için hazır olacağım, ancak şimdilik müsaadenizi istiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_37">
+			<Text>Çiftçilerimiz halkımıza [ICON_Food] Besin sağlama konusunda çok becerikli, ancak bunu depolamanın daha iyi yollarını bulmalıyız. Bilim insanlarımızın çabalarını bu sorunu çözmeye yönlendirmemizi öneriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_39">
+			<Text>Tutarlı bir yazı dili geliştirmeye olan bağlılığımız, bilgimizi gelecek nesiller için kaydetmemize olanak sağladı. Şehrimizde bilim insanlarımızın bu bilgiyi paylaşabilecekleri ortak bir yer sağlarsak, çalışmalarının çok daha verimli olacağına eminim.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_40">
+			<Text>Mükemmel! Bir Kampüs'ün inşası başladı. Bilim insanlarımız tamamlanmasını dört gözle bekliyor.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_41">
+			<Text>Kampüs tamamlandı ve faydalarını görmeye başladık bile. Böyle bir konumda bir Kütüphane inşası ideal olurdu, eğer yüce hükümdarım kabul ederse.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_42">
+			<Text>Görünüşe göre bu toprakların kontrolü için rekabet eden yalnızca biz değiliz. Tedbirle ilerlememizi öneriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_43">
+			<Text>Yüce Hükümdarım, savaştayız. Krallığın güvenliği en büyük öneme sahiptir. Derhal bir ordu seferber etmeye başlamalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_44">
+			<Text>Yönetiminizi katı bir kanunlar bütünüyle birleştirmek bizim için son derece faydalı olabilir. Daha gelişmiş bir uygarlığa doğru ilerleyişimizi güçlendirmek için bir dizi politika yürürlüğe koyma zamanı geldi.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_45">
+			<Text>Askeri saflarımızdaki sıkı disiplin, düzensiz Barbar sürüsüne karşı bize avantaj sağlar. Daha yapılandırılmış Şehir Planlaması, şehirlerimizi daha düzenli ve verimli kılacak. Bu politikaları yürürlüğe koymamızı öneriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_46">
+			<Text>Halkımızın refahı önemlidir, ancak onları korumalıyız da. Yakınımızdaki barbar kabileler, bizim olanı yağmalamaktan ve talan etmekten başka bir şey istemiyor.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_47">
+			<Text>Bir İşçi ekibi eğitmekte ilerleme kaydediyoruz ve araştırmalar planlandığı gibi devam ediyor.[NEWLINE]Savaşçılarımız Kabile Köyü'ne çok yaklaştı ve kısa sürede varmalı.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_48">
+			<Text>Halkımız gökyüzüne baktı ve kaderimizin daha büyük bir gücün ellerince yönlendirilip yönlendirilmediğini merak etmeye başladı. Bu büyük tanrılar kim ve bize ne tür lütuflar bahşedebilirler?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_49">
+			<Text>Evrenin gizemlerinde rehberlik arayışına adanmış bir ömürde, öyle bir aydınlanma yaşandı ki, bu, müminlerimize gelecek bin yıllar boyunca yol gösterecek. Bu Büyük Peygamber'in öğretileri, dünyanın dört bir yanındaki tüm kültürlerden insanlara yayılsın. Dinimizi yayarak rakiplerimize karşı zafere ulaşabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_50">
+			<Text>Tebrikler, Hükümdarım! Liderliğiniz halkımızı büyüklüğe teşvik etti ve şimdi aralarından biri gerçek bir dehaya ulaştı. Onların katkısı tarihin derinliklerinde yankılanacak.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_51">
+			<Text>Hazretleri, komşularımızla ticaret yoluyla temas kurmalıyız. Onlar sayesinde ekonomimizi güçlendirebilir ve dünyanın gizemlerine dair yeni kavrayışlar kazanabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_52">
+			<Text>Hükümdarım, bazı yabancılarla temas kurduk. Bu insanlar, geçmişte bize yardım eden Kabile Köylülerinden daha ileri düzeydeler. Onlara dostluk eli mi uzatalım, yoksa fethetmeye mi çalışalım?</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_FTUE_53">
+			<Text>Dikkat, Hazretleri. Bu şehir bize düşmanca davranıyor ve halkı, onu elimizden korumak için son nefesine kadar savaşacaktır. İyi hazırlanmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_META_33_HEAD">
+			<Text>ARAŞTIRMA SEÇ</Text>
+		</Row>
+    <Row Tag="LOC_META_332_HEAD">
+      <Text>ARAŞTIRMA SEÇ</Text>
+    </Row>
+    <Row Tag="LOC_META_332_BODY">
+      <Text>Araştırma Seç düğmesine tıklayarak araştırma seçiciyi görüntüleyin.</Text>
+    </Row>
+    <Row Tag="LOC_META_331_HEAD">
+      <Text>ARAŞTIRMAYI DEĞİŞTİR</Text>
+    </Row>
+		<Row Tag="LOC_META_33_BODY">
+			<Text>Araştırma Menüsünden Çömlekçilik teknolojisini seçin.</Text>
+		</Row>
+		<Row Tag="LOC_META_34_HEAD">
+			<Text>BİLDİRİMLER</Text>
+		</Row>
+		<Row Tag="LOC_META_34_BODY">
+			<Text>Bu tur hareket etmemiş ve emir bekleyen birlikler varsa, 'Birim Emir Bekliyor' bildirimine tıklayarak onlarla ilgilenebilirsiniz. Şimdi bildirime tıklayarak İzci birliğinize gidin ve yeni emirler verin.</Text>
+		</Row>
+		<Row Tag="LOC_META_35_HEAD">
+			<Text>İZCİYİ HAREKET ETTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_35_BODY">
+			<Text>İzci birliğinizle dünyayı keşfetmeye devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_META_36a_BODY">
+			<Text>Askeri bir birliği ilerletmiyorken, birliği tahkim etmek genellikle iyi bir fikirdir. Tahkim etme emri verildiğinde, birlik siper kazmak için en fazla 2 tur harcar. Bu, saldırıya uğrarlarsa [ICON_Strength] Muharebe Güçlerini artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_36_HEAD">
+			<Text>SAVAŞÇIYI TAHKİM ET</Text>
+		</Row>
+		<Row Tag="LOC_META_36_BODY">
+			<Text>Savaşçı birliğine bunu yapmasını, Tahkim Et düğmesine tıklayarak emretmeyi deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_META_37_HEAD">
+			<Text>TAHKİMAT BONUSU</Text>
+		</Row>
+		<Row Tag="LOC_META_37_BODY">
+			<Text>Bu birlik artık savunma yaparken muharebede avantaj elde edecektir. Ancak birim hareket ettirilirse tahkimli durumunu kaybedecek ve bonusu tekrar alabilmek için yeniden tahkim etme emri verilmesi gerekecektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_38_HEAD">
+			<Text>İŞÇİ İŞ GÜCÜ</Text>
+		</Row>
+		<Row Tag="LOC_META_38a_BODY">
+			<Text>İşçinizin hâlâ bir iş gücü kaldı.[NEWLINE][NEWLINE]Bunu kullanarak Tepe bölgesine bir Maden Ocağı (+[ICON_Production] Üretim) ya da Ova bölgesine bir Çiftlik (+[ICON_Food] Besin) inşa edebilirsiniz.[NEWLINE][NEWLINE]Bu, birden fazla tur sürebilir; bir tur İşçi birimini hareket ettirmek, diğer tur ise iyileştirmeyi inşa etmek için gerekebilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_38b_BODY">
+			<Text>Unutmayın: İşçiler yalnızca şehrinizin sınırları içinde iyileştirmeler inşa edebilir.[NEWLINE][NEWLINE][ICON_Culture] Kültür üreterek şehrinizin sınırları genişleyecek ve daha fazla kaynağa erişim sağlayacaksınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_39_HEAD">
+			<Text>KEŞİF</Text>
+		</Row>
+		<Row Tag="LOC_META_39_BODY">
+			<Text>İzci biriminizle haritayı keşfetmeye devam edebilirsiniz. İşçinize ve İzcinize emirlerinizi verdikten sonra turunuzu sonlandırın.</Text>
+		</Row>
+		<Row Tag="LOC_META_40_BODY">
+			<Text>Şehriniz Anıt binasının üretimini tamamladı. Tüm binalar bir şehrin gelişimine belirli şekillerde katkıda bulunur. Anıt, şehrin ürettiği [ICON_Culture] Kültürü artıracak ve bu da şehrin etki alanını ek bölgelere doğru genişletecektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_41_HEAD">
+			<Text>YERLEŞİMCİ YETİŞTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_41_BODY">
+			<Text>Bir Yerleşimci birliği yetiştirmeye başlayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_41b_BODY">
+			<Text>Üretim Seçici'yi açın ve bir Yerleşimci birliği yetiştirmeye başlayın. Unutmayın, Üretim Seçici'ye şehrin Bilgi Paneli'nden veya oyun görünümünün sağ tarafındaki Bildirim Paneli'ndeki Üretim Seçin hatırlatıcısından erişilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_42_BODY">
+			<Text>Yerleşimciler ve İşçiler gibi birimler savaşçı olmayan sivil birimlerdir ve bu nedenle kendilerini savunamazlar. Bu, onları düşman birimleri tarafından ele geçirilmeye veya öldürülmeye karşı oldukça savunmasız bırakır. Ancak askerî birimleriniz, aynı bölgeyi işgal ederlerse sivil birime koruma sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_43a_BODY">
+			<Text>İki birimi birlikte hareket ettirmenin kolay bir yolu, varış noktalarına ulaşana kadar onları birbirine bağlamaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_43_HEAD">
+			<Text>YERLEŞİMCİYE EŞLİK ET</Text>
+		</Row>
+		<Row Tag="LOC_META_43_BODY">
+			<Text>Yerleşimciyi veya Savaşçıyı seçin ve birim panelindeki Eşlik Et düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_44_HEAD">
+			<Text>DÜZEN HALİNDE HAREKET</Text>
+		</Row>
+		<Row Tag="LOC_META_44_BODY">
+			<Text>Birimleri güneydoğuya, belirtilen harita işaretçisine doğru hareket ettirmeye başlayın. Haritanın o bölümünü henüz keşfetmediyseniz, İzcinizi de oraya göndermek yolculuğunuzu kolaylaştırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_45a_BODY">
+			<Text>Bir Civilization oyununda, bir oyuncu tüm şehirlerini kaybettiğinde oyun biter. Şehirlerinizi, özellikle de [ICON_Capital] Başkentinizi, herhangi bir dış tehdide karşı korumanız çok önemlidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_45_HEAD">
+			<Text>SAPANCILAR YETİŞTİR</Text>
+		</Row>
+		<Row Tag="LOC_META_45_BODY">
+			<Text>Şehrin Üretim Kuyruğuna bir Sapancı birliği ekleyin ve işiniz bittiğinde turunuzu sonlandırın.</Text>
+		</Row>
+		<Row Tag="LOC_META_46_BODY">
+			<Text>Tarihte sıkça olduğu gibi, teknolojik keşifler geçmişte kazanılan bilgilerin üzerine inşa edilerek yeni teknolojilere ilham verir. Bir Civilization oyununda bu, Teknoloji Ağacı ile simüle edilir. Görüntülemek için Araştırma Paneli'ndeki Teknoloji Ağacını Aç düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_46a_HEAD">
+			<Text>Teknoloji Ağacını Aç</Text>
+		</Row>
+		<Row Tag="LOC_META_46a_BODY">
+			<Text>Teknoloji Ağacını açmak için tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_META_47_BODY">
+			<Text>Teknoloji Ağacı, bir Civilization oyununda mevcut olan Antik Çağ'dan Bilgi Çağı'na ve ötesine kadar tüm araştırılabilir teknolojileri gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_META_48_BODY">
+			<Text>Altın rengindeki düğümler, araştırmasını tamamlamış olduğunuz teknolojileri temsil eder. Çömlekçilik araştırmasını henüz bitirdiniz, bu nedenle tamamlanmış olarak işaretlenmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_META_49_BODY">
+			<Text>Koyu gri düğümler, araştırılmaya başlanabilecek ancak henüz tamamlanmamış teknolojileri temsil eder.</Text>
+		</Row>
+		<Row Tag="LOC_META_50_BODY">
+			<Text>Açık gri düğümler, araştırılmaya henüz hazır olmayan teknolojileri temsil eder. Bu teknolojilerin kilitlenebilmesi için önce bir veya daha fazla ön koşul teknolojisinin araştırılması gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_META_51a_BODY">
+			<Text>Çömlekçilik zaten araştırıldığı için artık Yazı teknolojisinin araştırmasına başlayabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_META_51_HEAD">
+			<Text>ARAŞTIRMA SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_META_51_BODY">
+			<Text>Teknoloji Ağacı'ndaki Yazı düğümüne tıklayarak Yazı araştırmasına başlayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_52_BODY">
+			<Text>Yazı teknolojisi düğümünün durumunun değiştiğine dikkat edin; bu, o an için araştırılmakta olduğunu belirtir. Bir teknolojinin araştırmasını tamamlamak için gereken tur sayısı, düğümün sağ üst köşesinde gösterilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_53A_BODY">
+			<Text>Teknoloji düğümünün içinde gösterilen semboller, teknoloji tamamlandığında kullanıma açılan yeni birimleri, binaları, harikaları ve yetenekleri temsil eder.</Text>
+		</Row>
+		<Row Tag="LOC_META_53B_BODY">
+			<Text>Örneğin, Yazı teknolojisinin araştırmasını tamamladığınızda tüm şehirlerinizde Kampüs bölgesini ve Kütüphane binasını inşa edebileceksiniz. Kampüs ve Kütüphane, her tur ürettiğiniz [ICON_Science] Bilim miktarını artırmanızı sağlayarak teknolojileri daha hızlı araştırmanıza olanak tanır!</Text>
+		</Row>
+		<Row Tag="LOC_META_54_BODY">
+			<Text>Yeni bir araştırma belirleme işlemini tamamladığınıza göre, sağ üst köşedeki X düğmesine tıklayarak Teknoloji Ağacı'nı kapatabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_META_54a_HEAD">
+			<Text>Ağacı Kapat</Text>
+		</Row>
+		<Row Tag="LOC_META_54a_BODY">
+			<Text>Teknoloji Ağacı'nı kapatmak için tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_META_55_BODY">
+			<Text>Yerleşimci biriminizi belirtilen konuma doğru hareket ettirmeye devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_META_56_BODY">
+			<Text>Yeni bir şehir kurmak için bir konum seçerken çevredeki toprağın verimliliğine bakmak önemlidir. [ICON_Food] Besin, kaynak ve tatlı su kaynaklarına yakınlık çok önemlidir. Bu eğitim için sizin için zaten ideal bir konum belirledik.</Text>
+		</Row>
+		<Row Tag="LOC_META_57_BODY">
+			<Text>Yerleşimci biriminiz hazır olduğunda, burada yeni bir şehir kurmak için Şehir Kur düğmesine tıklayın. Yerleşimcinizin [ICON_Movement] Hareket puanı kalmamışsa bu, bir sonraki tura geçmeyi gerektirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_58_BODY">
+			<Text>Bir Civilization oyununu kazanmak için dünyadaki diğer tüm uygarlıkları alt etmeniz gerekir. Bunu başarmanın birden fazla yolu vardır. Şehirlerini askerî yollarla fethederek onları kendi uygarlığınıza katabilirsiniz. Ayrıca teknolojik üstünlükle ya da kültürel veya dinî hâkimiyetle de zafere ulaşabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_59_BODY">
+			<Text>Zafere giden yolda, uygarlığınızı inşa etmenize yardımcı olacak temel stratejiler vardır.[NEWLINE]---[NEWLINE]Bu eğitim için başarmanız gereken dört hedef belirledik. Dördünü de tamamlayarak eğitimi bitirebilirsiniz. Ancak eğitimi KAZANMAK için beşinci hedefi de tamamlamanız gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_META_61_BODY">
+			<Text>Tebrikler![NEWLINE]---[NEWLINE]Zamana meydan okuyacak bir uygarlığı büyütme ve sürdürmenin temellerini tamamladınız. Eğitimi burada bitirebilir ya da oynamaya devam edip rakip uygarlığı saf dışı bırakarak bu oyunu kazanabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_63_BODY">
+			<Text>Bu eğitimde, tek bir rakip uygarlığın bulunduğu küçük bir haritada oynuyorsunuz. Standart bir Civilization oyunu, kazanmak için yarışan birkaç rakip uygarlıkla birlikte daha büyük bir dünya haritası sunar. Görev daha büyüktür ancak hedefler aynı kalır.</Text>
+		</Row>
+		<Row Tag="LOC_META_62_BODY">
+			<Text>Bu oyunu kazanmak için rakip uygarlığın tüm şehirlerini ordunuzla fethetmelisiniz.[NEWLINE]---[NEWLINE]İyi şanslar!</Text>
+		</Row>
+		<Row Tag="LOC_META_76_BODY">
+			<Text>Şehir Afişindeki üretim düğmesine tıklayarak ilk şehrinizin Üretim Seçicisini açın.</Text>
+		</Row>
+		<Row Tag="LOC_META_77_BODY">
+			<Text>Civilization VI'da, her biri belirli bir amaca hizmet eden birçok farklı bölge türü bulunur ve bunlar şehirlerinizde inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_78_BODY">
+			<Text>Yazı teknolojisi araştırmasını tamamlayarak şehrinizde bir Kampüs bölgesi inşa edebilir hale geldiniz.[NEWLINE][NEWLINE]Kampüs bölgesi, onu barındıran şehirde üretilen [ICON_Science] Bilim miktarını artırmaya adanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_META_79_BODY">
+			<Text>Oyundaki birçok bölge, şehir içinde nereye yerleştirildiklerine bağlı olarak bonus alır. Kampüs, Dağlar veya Cangıl yanına inşa edildiğinde bonus kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_META_80_HEAD">
+			<Text>KAMPÜS İNŞA ET</Text>
+		</Row>
+		<Row Tag="LOC_META_80_BODY">
+			<Text>Bu şehirde bir tane inşa etmeye başlamak için Üretim Seçicisi'ndeki Kampüs düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_81_BODY">
+			<Text>Bir bölge yerleştirirken, harita inşa edilebilecek ideal konumları göstermek için hafifçe değişir.</Text>
+		</Row>
+		<Row Tag="LOC_META_82_BODY">
+			<Text>Bu parselin iki kenarında Dağlar bulunur ve her biri tur başına +1 [ICON_Science] Bilim sağlar. Kampüs'ü buraya yerleştirmek ideal olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_83_BODY">
+			<Text>Buraya bir Kampüs inşa etmeye başlamak için bu altıgeni tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_84_BODY">
+			<Text>Yazı teknolojisini tamamladığınız için şimdi sıradaki araştırmanızı seçmelisiniz. Bir öneri isterseniz, Hayvancılık ve Bronz İşleme iyi seçeneklerdir.</Text>
+		</Row>
+		<Row Tag="LOC_META_85_BODY">
+			<Text>Hayvancılık, şehirlerinizde Mera ve Kamp iyileştirmeleri inşa etmenize olanak tanır.[NEWLINE][NEWLINE]Bronz İşleme, Ordugâh bölgesinin kilidini açarak ve Kargıcı eğitmenize izin vererek askeri açıdan size yardımcı olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_86_BODY">
+			<Text>Bazı binalar yalnızca bölgelerde inşa edilebilir. Kütüphane, Kampüs bölgesine özel bir binadır. Kampüs inşasını tamamladığımız için artık üzerine bir Kütüphane inşa edebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_META_87_HEAD">
+			<Text>KÜTÜPHANE İNŞA ET</Text>
+		</Row>
+		<Row Tag="LOC_META_87_BODY">
+			<Text>Bir Kütüphane inşa etmeye başlamak için sağ alttaki Üretim Seç düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_88_BODY">
+			<Text>Tebrikler!![NEWLINE]İlk Civilization oyununuzu kazandınız.[NEWLINE][NEWLINE]Artık çok daha büyük zorlukların ve hedeflerin üstesinden gelmeye, yeni dünyalar keşfetmeye, ilk kez yeni uygarlıklarla tanışmaya ve kendi koşullarınızda zafer elde etmeye hazırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_89_BODY">
+			<Text>Başka bir uygarlıkla savaşa girdiğinizde, hem şehirlerinizi savunmak hem de dışarıda savaşmak için yeterli sayıda muharebe birliğine sahip olmak en iyisidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_90_BODY">
+			<Text>Bazen savaşmak için birlikler eğitmek amacıyla bir bina veya bölge üzerindeki üretimi durdurmak gerekir. Bunu yapmak için, şehrin mevcut üretim görevini oluşturmak istediğiniz muharebe birliğine değiştirmeniz yeterlidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_91_BODY">
+			<Text>Ordunuzun büyüklüğünden memnun olduğunuzda, daha önce inşa edilmekte olan şeyin üretimine, üzerinde yaptığınız ilerlemeyi kaybetmeden devam edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_92_BODY">
+			<Text>Diğer uygarlıklarla diplomatik ilişkiler kurmak çok kazançlı olabilir. Elbette ilişkiler bozulabilir de. Diğer liderlerle nasıl etkileşime gireceğiniz sizin seçiminizdir. Sadece unutmayın, zafere giden yolda herkesin dostu olamazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_93a_BODY">
+			<Text>[ICON_Culture] Kültür biriktirerek az önce Kanunlar'ın kilidini açtınız; bu da ilk hükümetiniz olan Kabile Devleti'ni içerir.</Text>
+		</Row>
+		<Row Tag="LOC_META_93b_HEAD">
+			<Text>HÜKÜMET</Text>
+		</Row>
+		<Row Tag="LOC_META_93b_BODY">
+			<Text>Erişmek için Hükümet düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_94_BODY">
+			<Text>Civilization VI'da birçok hükümet türü vardır. Çeşitli avantajların yanı sıra, her hükümetin içinde politikalar uygulayabileceğiniz belirli sayıda yuvası bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_META_95a_BODY">
+			<Text>Kullanabileceğiniz ilk hükümet Kabile Devleti'dir. Politikalar için 2 adet kullanılabilir yuvası vardır. Kabile Devleti'ndeki ilk yuva Askeri politikalar içindir. İkinci yuva ise Ekonomik politikalar içindir.</Text>
+		</Row>
+		<Row Tag="LOC_META_95b_HEAD">
+			<Text>HÜKÜMET POLİTİKALARI</Text>
+		</Row>
+		<Row Tag="LOC_META_95b_BODY">
+			<Text>Politikaları Değiştir düğmesine tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_META_96_BODY">
+			<Text>Bir politikayı yuvaya yerleştirmek için, sağdaki politikayı tıklayıp soldaki hükümetinizdeki uygun yuvaya sürükleyin.[NEWLINE][NEWLINE]Şimdi bunu deneyin: Askeri yuvaya Disiplin politikasını, ardından Ekonomik yuvaya Şehir Planlaması politikasını ekleyin. İşiniz bittiğinde Politikaları Onayla düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_97_BODY">
+			<Text>Bu politikaları uygulayarak, askeri birimleriniz artık Barbarlara karşı savaşırken +5 [ICON_Strength] Muharebe Gücü bonusu alacaktır. Ayrıca şehirleriniz tur başına +1 [ICON_Production] Üretim kazanarak, birimleri eğitme ve binaları daha hızlı inşa etme olanağı bulacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_98_BODY">
+			<Text>Şehirlerinizde [ICON_Science] Bilim üreterek yeni teknolojiler araştırdığınız gibi, [ICON_Culture] Kültür üreterek de yönetim bilimlerinin kilidini açarsınız.[NEWLINE][NEWLINE]İlk hükümetinizi kurmanızı sağlayan Kanunlar yönetim bilgisinin kilidini zaten açtınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_99a_BODY">
+			<Text>Şimdi ilerlemek için yeni bir yönetim bilgisi seçmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_99b_HEAD">
+			<Text>YÖNETİM BİLİMLERİ AĞACI</Text>
+		</Row>
+		<Row Tag="LOC_META_99b_BODY">
+			<Text>Ekranın sol üst köşesindeki Yönetim Bilimleri Ağacı düğmesine tıklayarak Yönetim Bilimleri Ağacı'nı açın.</Text>
+		</Row>
+		<Row Tag="LOC_META_100_BODY">
+			<Text>Teknoloji Ağacı'na benzer şekilde, Yönetim Bilimleri Ağacı da oyunda ilerledikçe farklı seçenekler ve yollar sunar.[NEWLINE]Bu eğitim için, sıradaki ilerlemeye başlamak üzere Zanaatkârlık yönetim bilgisine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_100b_HEAD">
+			<Text>YÖNETİM BİLGİSİ SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_META_100b_BODY">
+			<Text>Zanaatkârlık yönetim bilgisini seçin</Text>
+		</Row>
+    		<Row Tag="LOC_META_100c_HEAD">
+			<Text>Ağacı Kapat</Text>
+		</Row>
+		<Row Tag="LOC_META_100c_BODY">
+			<Text>Yönetim Bilimleri Ağacı'nı kapatmak için tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_META_101_BODY">
+			<Text>Devam etmek için Sonraki Tur'a tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_102_HEAD">
+			<Text>İŞÇİ EĞİT</Text>
+		</Row>
+		<Row Tag="LOC_META_102_BODY">
+			<Text>Bir İşçi birimi eğitmeye başlamak için İşçi'ye tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_103_BODY">
+			<Text>Şehir, her büyük uygarlığın temel taşıdır. Bir şehrin büyüklüğü, isim plakasının solunda gösterilen [ICON_Citizen] Nüfusu ile temsil edilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_103_OTHER_BODY">
+			<Text>Başkentinizde bir Sapançı birliğinin eğitimi tamamlandı. Sapançılar, menzilli sınıf birlikleridir; yakın dövüşe girmeden uzaktan saldırabilirler. Bu sayede saldırı sırasında karşılıklı hasar almazlar.</Text>
+		</Row>
+		<Row Tag="LOC_META_104_BODY">
+			<Text>Her şehir, çevresindeki toprakları da münhasır kontrolünüz altına alır. Bu topraklar, şehri çevreleyen renkli sınırla belirtilir. Sınırlarınız içindeki eşsiz özellikler, her şehrin potansiyel güçleri üzerinde derin bir etkiye sahip olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_104_OTHER_BODY">
+			<Text>Menzilli birlikler ayrıca yakın dövüş muadillerine kıyasla daha düşük savunma gücüne sahip olma eğilimindedir; bu nedenle korunmaları için onları diğer türlerden dost birliklerin yakınında tutmak en iyisidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_105_BODY">
+			<Text>Uygarlığınızdaki her şehrin zaman içinde nasıl büyüyeceğine ve genişleyeceğine siz karar vermelisiniz; kontrol ettiğiniz toprakları iyileştirerek ve sınırlarınız içinde yeni binalar ve bölgeler inşa ederek.</Text>
+		</Row>
+		<Row Tag="LOC_META_105_OTHER_BODY">
+			<Text>Oyunda ilerledikçe ve yeni teknolojiler araştırdıkça daha iyi, daha güçlü ve daha gelişmiş birliklerin kilidini açacaksınız. Diğer uygarlıklarla rekabet etmek ve halkınızın güvenliğini sağlamak için güçlü ve çeşitli bir savaş gücü oluşturmak elzemdir.</Text>
+		</Row>
+		<Row Tag="LOC_META_WRITING_COMPLETE">
+			<Text>Yazı araştırmasını tamamladık.</Text>
+		</Row>
+		<Row Tag="LOC_META_POTTERY_COMPLETE">
+			<Text>[ICON_Food] Besinin yanı sıra, halkınız şehirlerinde [ICON_Amenities] Olanaklara da ihtiyaç duyar. [ICON_Amenities] Olanakların bir kaynağı, [ICON_Capital] Başkentinizin yanındaki bu [ICON_Resource_Coffee] Kahve gibi Lüks Kaynaklardır. Çömlekçilik teknolojisi tamamlandığına göre, İşçilerinizin [ICON_Capital] Başkentimizin yanındaki [ICON_Resource_Coffee] Kahve gibi Lüks Kaynakları geliştirmesini sağlamak için Sulama araştırması yapmak iyi bir fikir olacaktır. Bu, şehrimize [ICON_Amenities] Olanak sağlayarak mutluluğunu artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_6_COMPLETE">
+			<Text>İkinci şehrin menzili içinde bir bölgeyi iyileştirme hedefini tamamladınız!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_8_COMPLETE">
+			<Text>Başka bir kabile köyünü keşfetme hedefini tamamladınız!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_9_COMPLETE">
+			<Text>Bir şehri altı nüfusa büyütme hedefini tamamladınız!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_10_COMPLETE">
+			<Text>Beş iyileştirme inşa etme hedefini tamamladınız!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_14_COMPLETE">
+			<Text>[ICON_Capital] Başkent şehrinizde Surlar inşa etme hedefini tamamladınız!</Text>
+		</Row>
+		<Row Tag="LOC_META_GOAL_15_COMPLETE">
+			<Text>Bir Kışla inşa etme hedefini tamamladınız!</Text>
+		</Row>
+		<Row Tag="LOC_META_106_BODY">
+			<Text>Her şehir, her turun başında çeşitli getiriler üretir. Bu getiriler, şehrin kontrol ettiği altıgenlerden elde edilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_107_BODY">
+			<Text>Şehir sınırlarınız içindeki her altıgen, uygarlığınızı ilerletmenize yardımcı olacak çeşitli getiriler sağlayabilir. [ICON_Food] Besin ve [ICON_Production] Üretim bu getirilerden ikisidir.[NEWLINE][NEWLINE][ICON_Food] Besin şehir büyümesini besler, [ICON_Citizen] Nüfusunu artırır. Ne kadar çok [ICON_Food] Besin, o kadar hızlı büyüme.[NEWLINE][NEWLINE][ICON_Production] Üretim, askeri birlikler ve şehir yükseltmeleri gibi yeni öğeler inşa etmek için kullanılır. Şehrinizin ne kadar çok [ICON_Production] Üretimi varsa, bir şeyleri o kadar hızlı inşa edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_108_BODY">
+			<Text>Ancak, bu getiriyi elde etmek için her altıgenin [ICON_Citizen] Nüfusunuz tarafından işlenmesi gerekir.[NEWLINE][NEWLINE]Her [ICON_Citizen] Vatandaş, sınırlarınız içinde 1 altıgeni işleyebilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_109_BODY">
+			<Text>Çevredeki toprakların tüm getirilerinden yararlanmak için şehrinizin [ICON_Citizen] Nüfusunu büyütmek çok önemlidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_110_BODY">
+			<Text>Artık bu şehirde ne üretmek istediğinize karar vermek size kalmış.[NEWLINE][NEWLINE]Öneriler:[NEWLINE][NEWLINE]- Sınırlarınız içindeki çevredeki toprakları daha fazla iyileştirmek için bir İşçi eğitin.[NEWLINE][NEWLINE]- Ordunuzun boyutunu ve gücünü genişletmek için bir muharebe birliği eğitin.[NEWLINE][NEWLINE]- Şehrinize ek [ICON_Food] Besin ve [ICON_Citizen] Nüfusunuz için daha fazla [ICON_Housing] Konut sağlamak için bir Tahıl Ambarı inşa edin.</Text>
+		</Row>
+		<!---->
+		<!--TUTORIAL GOALS TEXT-->
+		<!---->
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_1">
+			<Text>Hedefler:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_2">
+			<Text>Öğreticiyi TAMAMLAMAK için:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_GENERAL_3">
+			<Text>Öğreticiyi KAZANMAK için:</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_1">
+			<Text>KEŞFET: Bölgenin keşfedilmemiş alanlarını keşfet.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_1">
+			<Text>İzci'ni kullanarak bölgedeki tüm Kabile Köylerini bul ve keşfet.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_2">
+			<Text>SAVUNMA: Savaşçıları şehre geri getir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_2">
+			<Text>Savaşçılarını savunma için şehre geri getir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_3">
+			<Text>SAVUN: Savaşçıları şehir içinde tut.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_3">
+			<Text>Savaşçılarını şehri savunmaları için şehir içinde tut.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_4">
+			<Text>YERLEŞİMCİ YETİŞTİR: Bir Yerleşimci birliğinin eğitimini tamamla.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_4">
+			<Text>Uygarlığını genişletmek için bir Yerleşimci birliğinin eğitimini tamamla.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_5">
+			<Text>YENİ ŞEHİR KUR: Yerleşimciyi belirtilen konuma refakat et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_5">
+			<Text>Yerleşimciye Savaşçınla belirtilen konuma kadar refakat et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_6">
+			<Text>GELİŞTİR: Yeni şehri çevreleyen arazileri iyileştirmek için İşçi kullan.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_6">
+			<Text>Yeni şehri çevreleyen arazileri iyileştirmek için bir İşçi kullan.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_7">
+			<Text>BİLİM: Başkentinde bir Kampüs inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_TOOLTIP_7">
+			<Text>Başkentinde bir Kampüs'ün inşasını tamamla.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_8">
+			<Text>Başka bir Kabile Köyü bul ve keşfet.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_9">
+			<Text>Şehirlerinden birinde 6 Nüfus'a ulaş.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_10">
+			<Text>SÖMÜR: 5 iyileştirme inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_11">
+			<Text>İMHA ET: Bölgenden Barbar tehdidini yok et ve Barbar kampını ortadan kaldır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_12">
+			<Text>Diğer uygarlığı yok et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_13">
+			<Text>İYİLEŞTİRME İNŞA ET: Şehrinde üçüncü bir iyileştirme inşa etmek için İşçi birliğini kullan.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_14">
+			<Text>Başkent şehrinde Antik Surlar inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_15">
+			<Text>Bir Ordugâh Bölgesi inşa et ve onu bir Kışla ile yükselt.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_16">
+			<Text>En az bir Okçu veya Koçbaşı dahil olmak üzere beş Askeri birim eğit. [UYGULANMADI].</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOAL_17">
+			<Text>KAZANMAK İÇİN: Diğer uygarlığın Başkentini ele geçirerek onu yok et.</Text>
+		</Row>
+		<!---->
+		<!--CITY PANEL BUILT-IN ADVISOR MESSAGES-->
+		<!---->
+		<Row Tag="LOC_ADVISOR_CITYPANEL_HOUSING_INTRO">
+			<Text>KONUT EDİNMEK İÇİN:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_AMENITY_INTRO">
+			<Text>OLANAKLAR KAZANMAK İÇİN:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CONSTRUCT">
+			<Text>[NEWLINE][NEWLINE]Binalar İnşa Et: {1_Buildings}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_ZONE">
+			<Text>[NEWLINE][NEWLINE]Bölgeler Ekle: {1_Districts}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_BUILD">
+			<Text>[NEWLINE][NEWLINE]İyileştirmeler Yerleştir: {1_Improvements}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_IMPROVE_LUXURIES">
+			<Text>[NEWLINE][NEWLINE]Lüks kaynakları geliştir.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_RESEARCH">
+			<Text>[NEWLINE][NEWLINE]Teknoloji Araştır: {1_Techs}</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTUREVATE">
+			<Text>[NEWLINE][NEWLINE]Yönetim Bilimlerinin Kilidini Aç: {1_Civics}</Text>
+		</Row>
+		<Row Tag="LOC_META_53_BODY">
+			<Text>Teknoloji düğümlerinin içinde gösterilen semboller, teknoloji tamamlandığında kullanıma açılan yeni birimleri, binaları, harikaları ve yetenekleri temsil eder. Örneğin, Çömlekçilik teknolojisini araştırmayı tamamladığınızda tüm şehirlerinizde Tahıl Ambarı binasını inşa edebileceksiniz. İşçileriniz ayrıca şehriniz yakınındaki Buğday kaynaklarını hasat etme yeteneği kazanacaktır. Bir Buğday kaynağını hasat etmek size yüksek miktarda [ICON_Food] Besin sağlasa da, bu kaynak haritadan kaldırılır. Çoğu durumda, bir Buğday kaynağının üzerine Çiftlik iyileştirmesi inşa ederek onu beslemek daha iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_167_BODY">
+			<Text>Halkınızın teknolojik ilerlemesi araştırma yoluyla elde edilir.[NEWLINE][NEWLINE]Teknolojiler üzerinde araştırma yaparak toprakları işlemenin yeni yollarını, yeni askeri birimleri, yeni şehir yükseltmelerini ve çok daha fazlasını kullanıma açarsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_111_BODY">
+			<Text>Tıpkı yeni birimler inşa etmenin [ICON_Production] Üretim ile beslenmesi gibi, yeni teknolojiler araştırmak da [ICON_Science] Bilim ile beslenir.</Text>
+		</Row>
+		<Row Tag="LOC_META_112_BODY">
+			<Text>İmparatorluğunuzdaki her şehir, tur başına küçük bir miktar [ICON_Science] Bilim üretir. Araştırma projelerinizin ne kadar hızlı tamamlandığı, şehirleriniz tarafından üretilen toplam [ICON_Science] Bilim miktarına bağlıdır.[NEWLINE][NEWLINE]Ne kadar çok [ICON_Science] Bilim üretirseniz, yeni teknolojileri o kadar hızlı araştırırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_SELECT_IRRIGATION">
+			<Text>Araştırma seçme panelinden Sulama'yı seç.</Text>
+		</Row>
+    <Row Tag="LOC_META_6_HEAD">
+      <Text>ARAŞTIRMA SEÇ</Text>
+    </Row>
+		<Row Tag="LOC_META_6_BODY">
+			<Text>Araştırma Seç düğmesine tıklayarak Araştırma Paneli'ni açın.</Text>
+		</Row>
+		<Row Tag="LOC_META_113_BODY">
+			<Text>Bu eğitim amaçları doğrultusunda, bu birimin üretimini 'hızlandırdık'. Normal şartlarda üretimin tamamlanması birkaç tur daha sürerdi.</Text>
+		</Row>
+		<Row Tag="LOC_META_12_BODY">
+			<Text>Üretim Seç bildirimine tıklayarak şehrin Üretim Menüsü'nü açın.</Text>
+		</Row>
+		<Row Tag="LOC_META_15_BODY">
+			<Text>Savaşçı birimine tıklayarak onu seçin.</Text>
+		</Row>
+		<Row Tag="LOC_META_114_BODY">
+			<Text>Tüm Kabile Köyleri, bir oyuncu tarafından keşfedildiğinde bir ödül verir. Bu Kabile Köyü size yeni bir İzci birimi kazandırdı ve şehrinizde belirdi.</Text>
+		</Row>
+		<Row Tag="LOC_META_115_BODY">
+			<Text>İzci'nizle dünyayı keşfetmeye devam edin. Eylemi tamamlandığında turu sonlandırın.</Text>
+		</Row>
+		<Row Tag="LOC_META_116_BODY">
+			<Text>Uygarlığınız her zaman bir teknoloji araştıracaktır. Madencilik'i yeni tamamladığınız için, bir sonraki tura geçmeden önce sırada neyi araştıracağınızı seçmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_117_BODY">
+			<Text>Çömlekçilik teknolojisi üzerinde araştırma başladı. İzci biriminizi hareket ettirdikten sonra turunuzu sonlandırın.</Text>
+		</Row>
+		<Row Tag="LOC_META_118_BODY">
+			<Text>Bir Civilization oyununu kazanmak için dünyadaki diğer tüm uygarlıkları yenmeniz gerekir. Bunu başarmanın birden çok yolu vardır. Çoğu oyun ayrıca 2050 yılında veya belirlenen bir tur sayısından sonra sona erer. O zamana kadar hiçbir oyuncu bu Zaferleri elde etmemişse, kazananı puan belirler. Puan, her oyuncunun tüm alanlardaki başarılarının genel bir ölçüsü olarak hesaplanır.</Text>
+		</Row>
+		<Row Tag="LOC_META_119_BODY">
+			<Text>Her Zaferin koşullarının durumu Dünya Sıralamaları panelinde takip edilir. [NEWLINE][NEWLINE]Şimdi açın.</Text>
+		</Row>
+		<Row Tag="LOC_META_119a_HEAD">
+			<Text>Dünya Sıralamaları</Text>
+		</Row>
+		<Row Tag="LOC_META_119a_BODY">
+			<Text>Dünya Sıralamaları panelini açmak için tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_META_120_BODY">
+			<Text>Genel sekmesi, tüm Zafer türlerine ve diğer oyunculara karşı sıralamanıza genel bir bakış sunar.</Text>
+		</Row>
+		<Row Tag="LOC_META_121_BODY">
+			<Text>Diğer sekmeler, her bir sıralama kümesi hakkında daha spesifik ayrıntılar verir. [NEWLINE][NEWLINE]Devam etmeye hazır olduğunuzda paneli kapatın.</Text>
+		</Row>
+		<Row Tag="LOC_META_122_BODY">
+			<Text>Bu eğitimin geri kalanı ilk Hakimiyet Zaferi'ni elde etmenize yardımcı olacak.[NEWLINE][NEWLINE]Hakimiyet Zaferi'nin amacı, uygarlığınızın kendi [ICON_Capital] Başkent şehrini işgal eden son uygarlık olmasıdır.[NEWLINE][NEWLINE]Bu eğitim için bu, rakibinizin [ICON_Capital] Başkent şehrini askeri gücünüzle ele geçirmeniz ve onların sizinkini almasını engellemeniz gerektiği anlamına gelir.[NEWLINE][NEWLINE]Bunu nihai olarak nasıl başaracağınız size kalmış. Ancak, tamamlandığında bu hedefe ulaşmanızda size büyük ölçüde yardımcı olacak üç isteğe bağlı hedef sunduk.</Text>
+		</Row>
+		<Row Tag="LOC_META_123_BODY">
+			<Text>Bir şeyden emin değilseniz ya da bu eğitimde gördüğünüz herhangi bir şey hakkında daha fazla bilgi arıyorsanız, bunu Civilopedia'da bulma ihtimaliniz yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_64_BODY">
+			<Text>Bölgeler, şehrinizin belirli bir getiri sağlamaya adanmış belirli alanlarıdır. Bölgelere binalar inşa edilerek bu getiri artırılabilir ve şehrinize başka faydalar da sağlanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_65_BODY">
+			<Text>Örneğin, uygarlığınıza {YIELD_TYPE} sağlamaya adanmış {DISTRICT_TYPE} bölgesinin kilidini açtınız. Bu bölgede bir {DISTRICT_BUILDING} binası inşa etmek, uygarlığınız için {YIELD_TYPE} getirisini artırır.</Text>
+		</Row>
+		<Row Tag="LOC_META_66_BODY">
+			<Text>Bir bölge imar etmek için, onu bir bina veya birim gibi şehrinizin üretim menüsünden seçin. Bazı bölgelerin nereye yerleştirilebileceğine dair kuralları vardır, ancak daha da önemlisi, bölgelerin optimal bir konuma yerleştirildiğinde daha da büyük bir fayda sağlayabilmesidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_67_BODY">
+			<Text>Bir bölge imar etmeye hazır olduğunuzda, oyun size en iyi konumu seçmede yardımcı olacaktır. Bazen şehrinizde hemen yeni bir bölge yerleştirmek için geçerli bir nokta olmayabilir. Arazinin engellerden temizlenmesi gerekebilir veya mevcut tüm şehir arazilerinizde zaten iyileştirmeler bulunuyor olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_68_BODY">
+			<Text>Şehrinizin boyutunu genişletmek, bölgeler ve iyileştirmeler için daha fazla alan elde etmenin bir yoludur.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_LINE_5">
+			<Text>Majesteleri, izninizle... Bilim insanlarımız başka araştırma konularını keşfetmeye istekli olsa da, kesinlikle gerekli olmadıkça mevcut projelerini tamamlayana kadar dikkatlerini dağıtmamanın en iyisi olduğunu düşünüyorum.</Text>
+		</Row>
+		<Row Tag="LOC_META_69_BODY">
+			<Text>Bir teknoloji üzerindeki araştırma ilerlemesi kaybolmaz, bu nedenle araştırma odağınızı değiştirmenin stratejik olarak geçerli olduğu durumlar vardır. Ancak, tamamlanmamış birçok teknoloji yerine tamamlanmış bir teknolojiye sahip olmak her zaman daha iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_73_BODY">
+			<Text>Civilization VI'da, oyun içi başarılar aracılığıyla teknoloji araştırmanızı hızlandıran Buluş Anları elde edebilirsiniz. Bu Buluş Anı, bir doğa harikası keşfedilerek kazanıldı. Diğer başarılar, belirli bir birimle bir savaş kazanmak veya bir bina inşa etmek olabilir. Bunları başarmak, teknolojik ilerlemenizi büyük ölçüde hızlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_META_127_BODY">
+			<Text>İzciler, Kabile Köylerini araştırmak için idealdir çünkü bundan tecrübe kazanırlar.</Text>
+		</Row>
+		<Row Tag="LOC_META_72_BODY">
+			<Text>Sıradaki bir öğe üzerindeki üretim ilerlemesi kaybolmaz, bu nedenle şehrinizin üretim odağını değiştirmenin stratejik olarak geçerli olduğu durumlar vardır. Ancak, yeni bir şeye başlamadan önce başladığınız işi bitirmek genellikle en iyisidir.</Text>
+		</Row>
+		<Row Tag="LOC_META_74_BODY">
+			<Text>İşçi biriminizin son inşa 'hakkını' kullandıktan sonra kaybolduğunu fark etmiş olabilirsiniz. Bunun nedeni, tüm iş gücünün tükenmiş olmasıdır. Oyunda ilerledikçe şehirlerinizin etrafındaki arazileri iyileştirmek için daha fazla İşçi eğitmeniz gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_META_75_BODY">
+			<Text>İzciler, diğer askeri birliklerin aksine, Kabile Köylerini keşfetmekten tecrübe kazanır. Ayrıca dünyadaki doğa harikalarını keşfetmekten de tecrübe kazanabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_META_128_BODY">
+			<Text>Şehirlerinizin her turda az miktarda [ICON_Faith] İnanç ürettiğini fark etmiş olabilirsiniz.[NEWLINE][NEWLINE][ICON_Faith] İnanç, zamanla belirli binalar, bölgeler ve politikalar tarafından kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_META_129_BODY">
+			<Text>Artık yeterli [ICON_Faith] İnanç kazandığınıza göre, size bir dizi stratejik fayda sağlayacak bir Panteon oluşturarak bir Din kurma yolunda ilk adımı atabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_129b_HEAD">
+			<Text>Panteon Seçin</Text>
+		</Row>
+		<Row Tag="LOC_META_129b_BODY">
+			<Text>Din ekranını açmak ve bir Panteon seçmek için Din düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_129c">
+			<Text>Seçilebilecek farklı oyun etkilerine sahip birçok Panteon vardır. Bir oyuncu tarafından seçildiğinde, mevcut Panteonlar listesinden kaldırılır ve oyun süresince yalnızca o oyuncunun dinine özel kalır. Akıllıca seçin!</Text>
+		</Row>
+		<Row Tag="LOC_META_129d">
+			<Text>Bir Panteon seçin, ardından işiniz bittiğinde 'Bu Panteonu Kur' düğmesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_130_BODY">
+			<Text>Aferin! Bir sonraki adım, bir Din kurabilecek bir Büyük Peygamber çekmektir. Ancak önce, size Büyük Peygamber Puanı kazandıracak bir Kutsal Alan bölgesi inşa etmeniz veya uygun bir hükümet politikası uygulamanız gerekecektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_131_BODY">
+			<Text>Bir Din kurma fırsatları sınırlıdır. Bunu yapmak isteğe bağlıdır, ancak unutmayın ki yapmazsanız, [ICON_Citizen] Vatandaşlarınızı dönüştürerek Dini Zafer arayan bir oyuncuya karşı etkili bir karşı önleminiz olmayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_131b_HEAD">
+			<Text>Dini Kapat</Text>
+		</Row>
+		<Row Tag="LOC_META_132_BODY">
+			<Text>[ICON_GreatProphet] Büyük Peygamberiniz yeni bir Din kurdu ve bunu bir isim, sembol ve daha önce seçtiğiniz Panteon inancını tamamlayacak iki ek dini inanç seçerek özelleştirmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_133_BODY">
+			<Text>Yeni Dininiz şehirler arasında yayılabilir ve [ICON_Citizen] Vatandaşlarını takipçilere dönüştürebilir. Bir şehirde birden fazla Dinin karışımı olabilir. Bir şehirde çoğunluk takipçiye sahip olan Din, bonuslarını sağlayan din olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_134_BODY">
+			<Text>Din şehirden şehire organik olarak yavaşça yayılırken, Misyoner ve Havari birlikleri eğitip halkınızın Dinini yaymaları için göndererek ani değişimlere yol açabilirsiniz. Bu birlikler, bir şehrin Üretim Menüsünün Satın Alma sekmesinde [ICON_Faith] İnanç harcayarak satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_135_BODY">
+			<Text>Dini Zafer hedefliyorsan dinini saldırgan bir şekilde yaymak şarttır. Hedeflemesen bile, dinin dünyada nasıl yayıldığını izlemek akıllıca olur. Mümkün olduğu yerlerde buna karşı koyarak başka bir oyuncunun bu şekilde zafer kazanma şansını azalt.</Text>
+		</Row>
+		<Row Tag="LOC_META_136_BODY">
+			<Text>Uygarlığın için bir [ICON_GreatPerson] Büyük Kişiyi talep etme fırsatı elde ettin. [ICON_GreatPerson] Büyük Kişiler, uzmanlık alanlarına bağlı olarak uygarlığına büyük faydalar sağlar. Sanatçılar, mühendisler ve askeri liderler gibi pek çok [ICON_GreatPerson] Büyük Kişi türü vardır.</Text>
+		</Row>
+		<Row Tag="LOC_META_136b_HEAD">
+			<Text>Büyük Kişiler</Text>
+		</Row>
+		<Row Tag="LOC_META_136b_BODY">
+			<Text>[ICON_GreatPerson] Büyük Kişiler panelini açarak [ICON_GreatPerson] Büyük Kişini talep et.</Text>
+		</Row>
+		<Row Tag="LOC_META_137_BODY">
+			<Text>Bu, [ICON_GreatPerson] Büyük Kişiler panelidir. Uygarlıkların talep edebileceği tüm [ICON_GreatPerson] Büyük Kişileri, faydalarını ve maliyetlerini gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_META_138_BODY">
+			<Text>Her [ICON_GreatPerson] Büyük Kişi, özel bir bonusu etkinleştirmek için bir veya daha fazla fırsata sahiptir. Şehirlerinden birinde bir birim olarak belirir ve haritadaki özel bir konumda bonusunu etkinleştirmelisin. Tüm bonuslarını kullandıktan sonra [ICON_GreatPerson] Büyük Kişi kaybolur.</Text>
+		</Row>
+		<Row Tag="LOC_META_139_BODY">
+			<Text>Bir [ICON_GreatPerson] Büyük Kişi, türüne ait yeterli [ICON_GreatPerson] Büyük Kişi Puanı biriktirilerek ve ardından bu puanları harcayarak [ICON_GreatPerson] Büyük Kişiyi uygarlığına kazandırmakla elde edilir. Bu puanlar temel olarak bölgelerden ve binalardan gelir, ancak politikalar ve diğer etkilerden de gelebilir. Acelen varsa, istediğin [ICON_GreatPerson] Büyük Kişiyi anında kazanmak için [ICON_Gold] Altın veya [ICON_Faith] İnanç harcayabilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_META_140_BODY">
+			<Text>İstemediğin bir [ICON_GreatPerson] Büyük Kişiyi pas geçmeyi seçebilirsin. Bunu yaparsan, diğer oyuncular onu talep etme fırsatı yakalar ve pas geçme kararın geri alınamaz. Ancak [ICON_GreatPerson] Büyük Kişi Puanların gelecekteki bir fırsat için saklanır.</Text>
+		</Row>
+		<Row Tag="LOC_META_141_BODY">
+			<Text>Az önce bir Tüccar birimini tamamladın. Tüccarlar iki şehir arasında seyahat eder ve köken şehirleri için gelir üretir.</Text>
+		</Row>
+		<Row Tag="LOC_META_142_BODY">
+			<Text>Uygarlığın sınırlı sayıda [ICON_TradeRoute] Ticaret Yolu kurabilir. Bu kapasiteyi Ticaret Merkezi veya Liman bölgeleriyle genişletebilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_META_142b_HEAD">
+			<Text>Ticaret Yolu Ata</Text>
+		</Row>
+		<Row Tag="LOC_META_142b_BODY">
+			<Text>'Ticaret Yolu Ata' birim eylemine tıkla.</Text>
+		</Row>
+		<Row Tag="LOC_META_143_BODY">
+			<Text>Şu anda ticaret yapılabilecek başka şehir yok. Haritayı keşfetmeye devam et veya bir Yerleşimci inşa edip kendi yeni şehrini kur.</Text>
+		</Row>
+		<Row Tag="LOC_META_144_BODY">
+			<Text>Bu, şu anda ticaret yapabileceğin şehirleri gösteren Ticaret Paneli'dir. Tüccarların sınırlı bir menzili vardır, ancak yakındaki şehirleri ziyaret etmek orada bir Ticaret Karakolu kurar ve bu karakollar daha uzak hedeflere köprü olarak kullanılmalarına olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_META_145_BODY">
+			<Text>Yabancı bir hedefteki binalara ve bölgelere bağlı olarak, belirli sayıda tur boyunca her tur [ICON_Science] Bilim, [ICON_Faith] İnanç, [ICON_Culture] Kültür veya [ICON_Gold] Altın getirisi elde edersin. Yurt içi hedefler içinse [ICON_Food] Besin ve [ICON_Production] Üretim kazanabilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_META_145b_BODY">
+			<Text>Mevcut şehirler listesinden istediğin hedefi seç.</Text>
+		</Row>
+		<Row Tag="LOC_META_145c_BODY">
+			<Text>Bu Tüccarı hedefe göndermek için 'Rotayı Başlat'a tıkla.</Text>
+		</Row>
+		<Row Tag="LOC_META_146_BODY">
+			<Text>Bu Tüccar artık hedefe gidip gelecek ve her tur ilgili getirileri üretecek. Geri döndüğünde yeni bir rota seçebilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_META_147_BODY">
+			<Text>Tüccar ayrıca giderken şehirler arasında bir Yol inşa edecek. Yolda seyahat eden birimler genellikle arazi [ICON_Movement] Hareket cezalarına maruz kalmaz.</Text>
+		</Row>
+		<Row Tag="LOC_META_148_BODY">
+			<Text>Yakınlardaki bir şehir devletini keşfettin. Bunlar, bazı yönlerden başka bir oyuncuya benzeyen mini-uygarlıklardır, ancak yalnızca tek bir şehre sahip olabilirler ve oyunu kazanamazlar. Şehir devleti komşularınla çalışarak kârlı ilişkiler kurabilir ve hatta savaşta onların desteğini kazanabilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_META_149_BODY">
+			<Text>Ayrıca şehirlerini zorla imparatorluğunuza katmayı ya da yerle bir etmeyi seçebilirsiniz – ancak bunlar Barbarlardan çok daha zorlu rakiplerdir ve diğer müttefiklerini yabancılaştırma riskini alırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_150_BODY">
+			<Text>Şehir devleti düğmesine tıklayın veya şehir devletine tıklayarak şehir devleti panelini açın.</Text>
+		</Row>
+		<Row Tag="LOC_META_151_BODY">
+			<Text>Bu, şehir devleti panelidir. Elçiler kazanarak onları bir şehir devletine gönderebilirsiniz. Bunu yapmak size giderek daha iyi güçlendirmeler kazandırabilir: [ICON_Science] Bilim, [ICON_Culture] Kültür, [ICON_Production] Üretim, [ICON_Gold] Altın veya [ICON_Faith] İnanç. Listeden bir şehir devletinin adına tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_152_BODY">
+			<Text>Bunlar bu şehir devleti için tamamlayabileceğiniz Görevlerdir. Bu, Elçi kazanmanın ve onunla dostluğunuzu geliştirmenin bir yoludur. Ayrıca Yönetim Bilimleri Ağacı'ndaki belirli maddeleri tamamlayarak ve zamanla hükümetler ve politikalar yoluyla da Elçi kazanabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_153_BODY">
+			<Text>Biriminiz düşman şehrine yaklaşıyor. Şehirlere saldırmak genellikle zorlu ve potansiyel olarak maliyetli bir girişimdir; farklı birim türlerinin bir karışımını ve taktiksel bir yaklaşım gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_META_154_BODY">
+			<Text>Şehrin savunma derecesi ve can çubuğu, isim plakasında gösterilir. Bu şehrin Surları var. 2 altıgen uzaklıktan menzilli saldırı başlatabilecek ve yakın dövüş birimlerine karşı oldukça dirençli olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_155_BODY">
+			<Text>Bazı kuşatma birimleri şansınızı artırabilir. Mancınıklar menzilden saldırabilir ve Surlara önemli hasar verebilirken, Koçbaşı veya Kuşatma Kulesi yakın dövüş birimlerinin Surlara saldırmasına veya onları aşmasına olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_META_156_BODY">
+			<Text>Başka bir uygarlığın lideriyle tanıştınız. Civilization VI'da, genellikle dünya haritasını sizinle paylaşan birkaç başka uygarlık olacaktır. Bunlar oyun yapay zekası tarafından kontrol edilir ve sizinle aynı yeteneklere – ve hırslara – sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_META_157_BODY">
+			<Text>Oynadıkça, komşularınızla nasıl başa çıkacağınızı düşünmeniz ve stratejilerini daha iyi anlamak için onları dikkatlice izlemeniz gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_META_158_BODY">
+			<Text>Oyunda tanıştığınız uygarlıkların liderleri burada görünecektir. En sağdaki lider simgesi sizin uygarlığınızı temsil eder. Diğer tüm liderler sizinkinin yanında listelenecektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_158b_HEAD">
+			<Text>Lider Diplomasisi</Text>
+		</Row>
+		<Row Tag="LOC_META_158b_BODY">
+			<Text>Diplomasi görünümüne erişmek için diğer uygarlık liderinin simgesine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_META_159_BODY">
+			<Text>Başka bir liderle iletişime geçtiğinizde, mal alışverişi yapmak, siyasi antlaşmalar müzakere etmek, taleplerde bulunmak veya savaş ilan etmek gibi çeşitli eylemler gerçekleştirebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_160_BODY">
+			<Text>Bağlarınızı geliştirmek ve [ICON_Capital] Başkent şehirleri hakkında daha fazla bilgi edinmek için bir Heyet gönderebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_META_161_BODY">
+			<Text>Bir rakibi Kınamak, diğer tüm uygarlıklara onunla bir hesabınız olduğunu bildirir. Bu, savaşa zemin hazırlar. Duygularınızı belli etmezseniz, ilan edeceğiniz savaş bir Sürpriz Savaş olacak ve üzerinize diğer liderlerle gelecekteki ilişkilerinizi etkileyebilecek kalıcı bir "Savaş Kışkırtıcısı" itibarı yükleyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_META_162_BODY">
+			<Text>Ayrıca bir lidere anlaşmalar teklif edebilirsiniz. Bu, mal ticareti veya Açık Sınırlar ya da Ortak Savaş gibi siyasi anlaşmaları içerebilir. Alternatif olarak, sizinle anlaşma yapmalarını talep edebilirsiniz. Bu, ilişkinizi zedeleyecektir, ancak zayıflarsa veya savaştan kaçınmak isterlerse boyun eğebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_META_163_BODY">
+			<Text>Bu lider hakkında bildikleriniz burada özetlenmiştir. Gündemlerine dikkat edin. Gündemlerine aykırı hareket ederseniz, onlarla ilişkiniz bozulabilir ve potansiyel olarak çatışmaya yol açabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_164_BODY">
+			<Text>Bu uygarlığa Erişim Seviyenizi yükseltmek, onlar hakkında daha ayrıntılı bilgiler ortaya çıkaracak ve belirli eylemlerde bulunduklarında size bildirim gönderilecektir. Karşılaştığınız liderlerle bunu mümkün olduğunca geliştirmek iyi bir fikirdir, aksi takdirde stratejileri hakkında karanlıkta kalırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_META_165_BODY">
+			<Text>Bu bölüm, liderin sizin hakkınızda ne düşündüğünü ve nedenini açıklar. İlişkinizi geliştirmek (veya bozmak) isterseniz, burada bazı öneriler bulacaksınız. Zaman zaman onları rahatsız eden bir şey yapmaktan kaçınmak mümkün olmayabilir, bu nedenle dengeyi nasıl sağlayacağınızı bilmek faydalı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_META_166_BODY">
+			<Text>Tarihte ilerledikçe Diplomasi giderek daha önemli hale gelecektir. Komşularınızın kim olduğu ve ne istedikleri, uygarlığınızın gelişimi üzerinde kalıcı bir etkiye sahip olacak – ve neredeyse kesinlikle zafer yolunuzda engeller çıkaracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_META_168_BODY">
+			<Text>Bir Şehir Devleti, oyunu kazanamayacak küçük bir uygarlıktır. Onlarla iyi diplomatik ilişkiler kurmak oldukça kârlı olabilir. Bu da Şehir Devletine Elçi göndererek yapılır.</Text>
+		</Row>
+		<Row Tag="LOC_META_169_BODY">
+			<Text>Tüccar birlikleri, şehirlerinizden birinde eğitilebilir. Uygarlığınıza ek [ICON_Gold] Altın ve diğer faydalar sağlamanın yanı sıra, [ICON_TradeRoute] Ticaret Yolları şehirler arasında yollar inşa etmek için hayati öneme sahiptir.</Text>
+		</Row>
+		<!---->
+		<!--ROCCO LINES-->
+		<!---->		
+		<Row Tag="ADVISOR_LINE_FTUE_1ALT_1">
+			<Text>Hoş geldin Kleopatra. Halkımızın kaderi senin ellerinde. Sana yüklenen sorumluluk büyüktür. Belki ben de sana yardımcı olabilirim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_1ALT_2">
+			<Text>Hoş geldin Gılgamış. Halkımızın kaderi senin ellerinde. Sana yüklenen sorumluluk büyüktür. Belki ben de sana yardımcı olabilirim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2_ALT">
+			<Text>Çok uzun zamandır bu dünyada kendimize ait bir toprak parçası olmadan dolaşıp durduk. Artık kök salma vaktimiz geldi.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_22a">
+		   <Text>Cesur Yerleşimcilerimiz emrini bekliyor. İlk şehrimizi burada kurmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_3_ALTV2">
+		   <Text>Bu küçük şehrin tohumlarından kocaman bir imparatorluk yetiştireceksin. Ancak gerçek anlamda gelişmek için önce halkımızın ihtiyaçlarını karşılamalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_23">
+		   <Text>Önümüzdeki topraklar anlatılmamış zenginlikler ve tehlikeler barındırıyor. Nihai durak noktalarını seçerken bunu dikkatlice değerlendirmelisin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_36">
+			<Text>Şimdilik küçük olsa da, izin verirsen şehrimiz büyümeye devam edecek. Onun ve halkımızın kaderi sana bağlı.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_37a">
+			<Text>Şehrimizi çevreleyen toprakların kaynaklar bakımından zengin olması büyük bir şans. Bunları geliştirmek hayatta kalmamızın anahtarı olacak...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_38">
+			<Text>Sınırlarımız içinde bu kadar bereketli topraklara sahip olduğumuz için bahtiyarız. Yine de bir uygarlık yalnızca topraktan değil, insanlardan oluşur.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_46_ALT">
+		   <Text>Böylesi topraklar, bu bölgeyi bela eden Barbar akıncılarının dikkatini mutlaka çekecektir. Hayatta kalacaksak karşı koymaya hazırlanmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_5_ALT_2">
+			<Text>Şehrimizin Savaşçılara ihtiyacı var.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_51a">
+			<Text>Halkımız bu topraklarda hayatta kalacaksa çabalarını yoğunlaştırmalıyız. Ancak o zaman bu dünyaya hükmedebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_6ALTV_1">
+			<Text>Halkımızın korunması en büyük önceliğimizdir. Şehrini bir Savaşçı yetiştirmeye yönlendir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_61">
+		   <Text>Eğitim başladı. Halkımız şimdiden kendini daha güvende hissediyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_62">
+			<Text>İmparatorluğumuz bir gecede inşa edilmez. Bugün yapabileceğimiz her şeyi başardık...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_63">
+			<Text>İlgilenmen gereken başka bir konu kalmadı.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_7ALT">
+			<Text>Savaşçılarımız eğitimlerine devam ediyor. Ancak savunduğumuz Barbar kabilelerinden daha fazlası olacaksak, gelişimin başka alanlarını da keşfetmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_71">
+			<Text>Aramızda dünyanın sırlarını çözmeye kabiliyetli zihinler var. Onlara sadece rehberlik etmemiz yeterli.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_8ALT">
+		   <Text>Harika. Halkımızın yeryüzüne dair anlayışı derinleştikçe, onun hazinelerinden istifade etme ve üretim gücümüzü artırma yeteneğimiz de aynı oranda gelişecektir. Onlara çalışmaları için vakit vermeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_81">
+			<Text>Bugün dikkatinizi gerektiren başka bir husus kalmamıştır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_9ALT">
+			<Text>Barbar akıncılar şehrimize yaklaşıyor! Onların görmezden gelemeyeceği kadar değerli bir av olduğumuz muhakkak.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_92">
+			<Text>Bu vahşilerin emeğimizi yağmalamasına ve yok etmesine asla müsaade edemeyiz. Savaşçılarımız talimlerini bitirdi. Haydi onları muharebeye yönlendirelim!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_94">
+			<Text>Savaşçılar, düşmanımızı alt edeceğimiz kılıçtır. Onlara yol gösterecek olan yalnızca sizin elinizdir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_10ALT">
+			<Text>Zafer! Barbarlar, bizimle uğraşılmaz bir millet olduğumuzu anladı. Ne var ki yeniden gelecekler ve korkarım ki bir dahaki sefere bizi bu kadar kolay lokma görmeyecekler.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_12ALT">
+			<Text>Bu sükûnet anından istifade etmeliyiz. Savaşçılarımız artık hazır olduğuna göre, üretim gücümüzü şehrin kendisine yönlendirebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_121">
+			<Text>Harika. Bu İşçilerin kazanacağı beceriler, uygarlığımızı büyük ölçüde ilerletecek.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_13ALT">
+			<Text>Şehrimizi çevreleyen topraklar bereketli. Ancak şu an için işlenmemiş durumdalar. Sınırlarımızdaki kaynaklardan azami şekilde faydalanabilmek için bir iş gücü oluşturmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_131">
+			<Text>Bugün dikkatinizi gerektiren başka bir konu kalmamıştır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_14_ALT">
+			<Text>İşçilerimiz sınırlarımız içindeki hayatı iyileştirmek için eğitim alırken, sınırların ötesindeki toprakları da ihmal etmemeliyiz. Bu dünyaya tam anlamıyla hâkim olmanın tek yolu, onu anlamaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_15ALT">
+			<Text>Muharebe dışında, Savaşçılarımız bu belirsiz ve düşmanca dünyada ideal kâşiflerdir. Yalnızca emrinizi vermeniz yeterli, bilinmeze doğru yola çıkacaklardır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_151">
+			<Text>Tek başlarına ve yaya olarak vahşi arazide ilerlemek askerlerimize ağır kayıplar verdiriyor. Belki daha kolay bir geçit vardır…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_153">
+			<Text>Savaşçılarımızın çabaları şimdiden meyvesini verdi. Küçük bir Kabile Köyü'ne rastladılar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_154">
+			<Text>Bu halk, karşılaştığımız Barbar kabilelerinden farklı görünüyor. Belki de muharebe yerine temas kurmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_155">
+			<Text>Bugün gerekli tüm işlerle ilgilendik.</Text>
+		</Row>
+		<Row Tag="ADVISOR_FTUE_47_ALT">
+			<Text>Savaşçılarımız köyün kapılarının önünde duruyor. İçeri girmek için emrinizi bekliyorlar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_16_ALT">
+			<Text>Görünüşe göre dostluğun ödülleri var. Barbarlara karşı kazandığımız başarı bu köye ulaştı. Kültürümüzden etkilenerek, zalimlerine karşı ayaklanıp sürüye karşı savaşımıza katılmak istiyorlar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_17_ALT">
+			<Text>Muharebe konusunda yetenekli olmasalar da bu kabile, topraklar hakkında büyük bir bilgiye sahip. Arazide hızla hareket etme yetenekleri onları ideal İzciler yapıyor. Onları iyi değerlendirmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_171">
+			<Text>İlerideki topraklarda başka dostane yerleşimler de bulunabilir. İleride onları keşfetmek bizim için hayırlı olacaktır…</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_18_ALT">
+			<Text>Bu İzcilerimizi ihtiyatla kullanmalıyız. Keşifte mahirdirler ancak savaşta zayıf kalırlar. Mümkün olduğunca çarpışmadan kaçınmaları akıllıca olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_181">
+			<Text>Bugün için dikkatinizi gerektiren başka bir mesele bulunmamaktadır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_21_ALT">
+			<Text>Keşifler nice ödüller getirebilir, ancak Başkentimizin güvenliğini asla ihmal etmemeliyiz. Savaşçılarımızı koruma amacıyla eve yönlendirmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_22_ALT">
+			<Text>İzcilerimiz emir bekliyor. Keşfe çıkmalı ve henüz keşfedilmemiş diyarlar hakkında bize bilgi getirmelidirler.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_23_ALT">
+			<Text>Bugün ele alınması gereken başka bir husus kalmamıştır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_231">
+			<Text>Halkımız, emirlerinizi yerine getirmek için büyük bir özveriyle çalışıyor. Bu fırsatı değerlendirip İzcilerimizi daha da ilerletelim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_232">
+			<Text>Bugün için başka bir konu dikkatinizi gerektirmemektedir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_26_ALT">
+			<Text>Vatandaşlarımız, yiğit Savaşçılarımızın dönüşünü sevinçle karşılıyor. Belki de Barbar tehdidine karşı koymak için mevzilerini tahkim etmelidirler.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_261">
+			<Text>Mükemmel. Savaşçılarımız mevzilerinde tahkimliyken halkımız güvende. Bu avantajı mümkün olduğunca uzun süre korumak akıllıca olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_24_ALT">
+			<Text>Ordularımız şehrimizin savunmasını hazırlarken, en zeki kafalarımız yer kabuğundan kıymetli kaynaklar çıkarmanın yolunu keşfetti. Yakınlarda bol miktarda bulunan değerli Taş sayesinde, İşçilerimiz eğitimlerini tamamladıklarında bu bilgiyi kullanabilecekler.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_241">
+			<Text>Halkımız bilgi peşinde koşmaktan büyük keyif alıyor. Çabalarını yalnızca yönlendirmemiz yeterli; onlar da bu dünyanın bir başka gizemini daha çözeceklerdir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_242">
+			<Text>Bilgece bir karar. Halkımız artık Maden Ocaklarımızda ve Taş Ocaklarımızda çıkardığımız malzemeler için yeni kullanım alanları keşfedebilecek.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_243">
+			<Text>Ancak İzcilerimizin keşif çabalarını da unutmayalım. Önümüzde keşfedilmeyi bekleyen koca bir dünya var.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_19_ALT">
+			<Text>İzcilerimiz ilerlemeye devam ederken, biz de kendi Başkentimize yönelip içimize dönelim. Şehrimiz büyüdükçe halkımızın iştahı da kabarıyor...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_191">
+			<Text>İşçilerimiz artık hazır. Şehrimiz sınırları içinde verimli topraklara bir Çiftlik inşa etmek, getirimizi artıracak ve halkımızı daha iyi besleyecektir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_192">
+			<Text>Bu Ovalar zengin topraklara sahip. İlk ekinlerimizi ekmek için ideal bir yer...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_193">
+			<Text>Mükemmel. Karınları doyan halkımız refaha erişiyor ve nüfusumuz giderek artacak...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_194">
+			<Text>Ancak unutmayın, İşçilerimizin gücü sınırsız değildir. Onları tüketmeden önce yeteneklerinden en iyi şekilde yararlanmak akıllıca olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_20_ALT">
+			<Text>Temel ihtiyaçları karşılanan halkımız artık daha gösterişli yapılar inşa etme kabiliyetine sahip. Belki de başardıkları her şeyin anısına bir Anıt dikmek, onları daha da ileriye taşımak için ilham verebilir...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_201">
+			<Text>Mükemmel. Kendi kültürlerine olan gururları arttıkça halkımız, uygarlığımızı kendi sınırlarının ötesine yaymak için harekete geçecektir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_202">
+			<Text>Ve cesur İzcilerimizin izinden gidelim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_204">
+			<Text>Halkımız doyduğuna göre, şimdi İşçimizin dikkatini başka yöne çevirelim. Şehrimizin çevresinde henüz işletilmemiş kıymetli kaynaklar bulunuyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_205">
+			<Text>İşçilerimizin gayretlerini bu değerli malzemeleri işlemeye yönlendirin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_206">
+			<Text>Harika. Bu Taş Ocağından çıkardığımız taş, üretim yeteneklerimizi daha da artıracak.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_207">
+			<Text>Görünen o ki, halkımızdan bazıları hâlâ yol göstermenizi bekliyor...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_209">
+			<Text>Taş Ocağımız tamamlandığına göre, İşçilerimizin dikkatini başka iyileştirmelere yöneltmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2091">
+			<Text>Sınırlarımız içinde hâlâ değerli topraklar var; ellerini dikkatle yönlendirmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_2092">
+			<Text>Halkımız hâlâ emrinizi bekliyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_27_ALT">
+			<Text>Ne mutlu bize. Bu Anıt, halkımızın başarılarının ve kararlılığının bir sembolü olarak yükseliyor. Gerçekten de artık ötelerdeki topraklara doğru daha da ilerlemek için ilham bulacaklardır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_28_ALT">
+			<Text>Belki de artık uygarlığımızı Başkent şehrimizin ötesine yaymaya hazırız. Çevredeki toprakları biz sahiplenmezsek, başkaları mutlaka sahiplenecektir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_29_ALT">
+			<Text>Mükemmel, bu cesur Yerleşimciler kültürümüzü bilinmeze taşımaya hazır. Ancak, onları bekleyen yolculuğa hazır hale gelmeleri biraz zaman alacak.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_292">
+			<Text>Yakınlardaki topraklarda tehlikeli akıncıların dolaştığına dair raporlar var. Bu Savaşçıları burada tutup Başkentimizin güvenliğini sağlamak en uygunu olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_30_ALT">
+			<Text>Yerleşimcilerimiz hazırlıklarını tamamladı ve emrinizi bekliyor. Ancak önlerindeki topraklar anlatılmamış tehlikeler barındırıyor. Onları korumasız yola çıkarmamalıyız...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_301">
+			<Text>Mükemmel, halkımız hazır olduğuna göre şimdi varacağımız yeri seçmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_302">
+			<Text>Başkentten uzak olmayan, kaynaklar bakımından zengin bir bölge var. Yerleşimcilerimizi oraya gönderelim.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_31_ALT">
+			<Text>Yerleşimcilerimiz Savaşçılarımızın koruması altında güvende olsa da, Başkentimiz artık savunmasız. Askeri koruma olmadan düşmanlarımız tarafından kesinlikle istila ediliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_311">
+			<Text>Savaşçılarımız cesur olsa da, uygun bir savaş gücü çeşitlendirilmelidir. Sapancılar farklı bir savaş tarzı sunar.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_312">
+			<Text>Bilgiyle birlikte fırsat da gelir. Halkımızın bu dünyaya dair anlayışı arttıkça, önümüze yeni yollar çıkar...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_33_ALT">
+			<Text>Yeni bir yerleşim kurarken konum hayati önem taşır. Böyle ideal bir yer keşfettiğimiz için şanslıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_331">
+			<Text>Halkımıza buraya kök salmalarını emredin.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_332">
+			<Text>Aferin. Uygarlığımız beklenenin ötesine yayılmaya devam ediyor. Zamanla kendi Başkentimizle bile boy ölçüşebilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_34_ALT">
+			<Text>Bu yeni şehir daha şimdiden büyümeyi arzuluyor. Halkı rehberliğinizi bekliyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_35_ALT">
+			<Text>Bu kıtada büyüyen başka bir uygarlık olduğuna dair raporlar aldık. Görünüşe göre bu toprakların denetimi için yarışan tek halk biz değiliz.</Text>
+		</Row>
+		<!---->
+		<!--EDIT BELOW-->
+		<!---->		
+		<Row Tag="ADVISOR_LINE_2_ALT">
+			<Text>Görünüşe göre bu toprakları kasıp kavuran Barbar akıncılarının kaynağını nihayet bulduk. Bu kaleyi yok etmeliyiz, aksi takdirde gelecekteki saldırıları göze alırız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_3_ALT">
+			<Text>Yine de ihtiyatı elden bırakmamanızı tavsiye ederim. İlkel ve vahşi olsalar da bu Barbarlar, yaman savaşçılardır ve kampları ağır biçimde savunulmaktadır. Zaferi garantilemek için ezici bir güçle saldırmalıyız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_4_ALT">
+			<Text>Şehrimiz gelişmeye devam ediyor. Halkımız şimdiden refaha kavuşuyor ve nüfusumuz artıyor!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_5_ALT">
+			<Text>Bilim insanlarımız başka araştırma konularını keşfetmeye istekli olsalar da, onları mevcut çalışmalarından kesinlikle gerekmedikçe uzaklaştırmak akıllıca olmayabilir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_6_ALT">
+			<Text>Eldeki görev hayati önem taşımaktadır. Bu konuda sabırlı olmanızı tavsiye ederim. Mümkünse halkımızın çalışmalarına devam etmesine izin vermeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_7_ALT">
+			<Text>Yakınlarda başka bir dost köy tespit ettik. Belki de araştırması için bir İzci göndermeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_8_ALT2">
+			<Text>İyi bir şehir, titiz planlamayla büyük bir şehre dönüşebilir. Bir şehir bölgesinin nereye inşa edileceğine karar vermek önemli bir karardır. En fazla faydayı sağlamak için bölgeye en uygun konumu seçtiğinizden emin olun.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_38_ALT">
+			<Text>Mirasımız bir gün sözlü anlatımın ötesinde kaydedilecek.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_381">
+			<Text>Sapan Atıcılarımızın eğitimlerini tamamladığı görülüyor. Şehrimizin halkı şimdiden kendini daha güvende hissediyor...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_382">
+			<Text>Ordumuz çeşitlenip geliştikçe geleceğimiz daha da güvence altına giriyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_383">
+			<Text>Sapan Atıcılarımızın eğitimi tamamlandığına göre, artık halkımızın çabalarını yeni uğraşlara yönlendirebiliriz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_384">
+			<Text>Halkımız hâlâ emrinizi bekliyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_39_ALT">
+			<Text>Yazı ile halkımızı birleştiriyoruz. Ortak bir yazı dili, fikirlerin yeşermesine ve ortak bilgimizin büyümesine olanak tanır. Bu bilgiyi toplayıp paylaşabileceğimiz bir yer sağlasak, halkımız elbette refaha kavuşur...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_391">
+			<Text>Benzer zihinleri ve kaynakları bölgelerde yoğunlaştırarak şehrimizin büyümesini uzmanlaştırıyoruz. En fazla faydayı sağlamak için bu bölgelerin yerini dikkatle seçmeliyiz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_40_ALT">
+			<Text>Uygarlığımızın en büyük zihinleri şimdiden bu Kampüs'ün tamamlanmasını hevesle bekliyor...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_401">
+			<Text>Ancak bu büyük düşünürlerin boş durmasına izin vermemeliyiz. Dikkatlerini başka yöne çevirelim...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_41_ALT">
+			<Text>En büyük âlim ve bilim insanlarımız şimdiden Kampüs'ümüzde toplanmaya başlıyor. Onlara bir Kütüphane sağlamak, uğraşlarında daha da yardımcı olacaktır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_ALT">
+			<Text>Halkımız sizin rehberliğinizde refaha kavuştu. Uygarlığımızın gerçekten eşi benzeri yok. Belki de şimdi bunu kanıtlama zamanıdır.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_2">
+			<Text>Önümüzdeki görev büyük, ancak sizin liderliğinizde başarısız olmayacağız. Her zaman olduğu gibi, yol boyunca yardıma ihtiyaç duyarsanız yanınızda hazır bekliyorum. Uygarlığımız sonsuza dek ayakta kalsın.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_END_SCRIPTED_3">
+			<Text>Zafer kazandık! Artık daha büyük zorluklarla yüzleşmeye, yeni dünyalar keşfetmeye, yeni uygarlıklarla tanışmaya ve zaferi kendi koşullarınızda elde etmeye hazırsınız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_42_ALT">
+			<Text>Kaynaklar ve topraklar sonsuz değildir. Görünüşe göre şimdi rakiplerimiz var. Bu halkın gerçek niyetini henüz bilmediğimizden, dikkatli ilerlememizi öneriyorum.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_43_ALT">
+			<Text>Savaş kapımızda! Halkımız tehlikede. Derhal bir ordu seferber etmeliyiz, yoksa fethedilme riskiyle karşı karşıyayız. Gecikmeye zaman yok!</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_44_ALT">
+			<Text>Halkımız rehberliğinizde gerçekten gelişiyor. Ancak uygarlığımız büyüdükçe liderliğimiz de büyümelidir.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_441">
+			<Text>Artık halkımızın büyümesini daha iyi yönlendirmek için politikalar yürürlüğe koymalıyız...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_45_ALT">
+			<Text>Disiplin her ordunun kalbidir ve düzensiz Barbar sürülerine karşı değerli bir avantaj sağlar. Şehir planlaması, şehirlerimizi daha düzenli ve verimli kılacaktır. Bu iki politikayı da yürürlüğe koymamızı öneriyorum.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_453">
+			<Text>Politikalarımız meyvesini vermeye başlasa da uygarlığımız büyümeye devam edecek. Gelecek için plan yapmalıyız...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_48">
+			<Text>Halkımız gökyüzüne baktı ve kaderimizin daha büyük bir gücün ellerince yönlendirilip yönlendirilmediğini merak etmeye başladı. Bu büyük tanrılar kimler ve bize hangi lütufları bahşedebilirler?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_50_ALT">
+			<Text>İlhamınız bulaşıcıdır. Uygarlığımız sizin liderliğinizde büyüklüğe erse de, halkımız arasından biri diğerlerinin üzerinde parlamaktadır. Sizin rehberliğinizde etkisi tarih boyunca yankılanacak.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_51_ALT">
+			<Text>Yalnızlık refahın anahtarı değildir. Bu tüccarlar komşularımıza uzanmamızı sağlar. Ticaret sayesinde ekonomimizi güçlendirir ve dünyanın gizemlerine dair yeni anlayışlar kazanırız.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_52_ALT">
+			<Text>Geçmişte bize yardım eden Kabile Köylülerinden daha ileri bir halkla temas kurduk. Dostluk elimizi mi uzatmalıyız yoksa onları fethetmeyi mi düşünmeliyiz?</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_WONDER_73">
+			<Text>Bu dünyanın güzelliği ve ihtişamı bazen halkımıza yeni düşünce yollarına ilham vermeye yeterlidir. Bu şanslı bir keşifti...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_POP_HUT_1">
+			<Text>Cesur İzcilerimiz bir kez daha halkımıza değerlerini kanıtlıyor.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_GENERAL_1">
+			<Text>Bir öneride bulunabilir miyim...</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_FTUE_GENERAL_2">
+			<Text>Nasıl isterseniz.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_7_ALT_2">
+			<Text>Yakınlarda başka bir dost köy tespit ettik. Belki de araştırması için bir İzci göndermeliyiz.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TUTORIAL_INTRO_TO_WORLD_CONGRESS">
+			<Text>Dünya Kongresi'ne katılmak üzere davet edildik. Bu uluslararası sahnede, tüm dünyanın ele alması gereken önemli konuları karara bağlayacak, dünya liderleri arasındaki kararlar ve anlaşmalar üzerinde oy kullanacağız.[NEWLINE][NEWLINE]Dünya Kongresi her 30 turda bir toplanır (Standart Hız). Kongre sırasında oyuncular, biriken [ICON_Favor] Diplomatik Destek'lerini kullanarak Kararlar ve Tartışmalar üzerinde oy kullanır ve böylece bir sonraki Kongre toplantısına kadar oyun kurallarının nasıl değişeceğini etkiler.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_2">
+			<Text>Dünya Kongresi'nin bu Özel Oturumu'na çağrıldık. Bir Acil Durum, dünyanın dikkatini talep ediyor.[NEWLINE][NEWLINE]Özel Oturumlar, Acil Duruma yol açabilecek koşullardan olumsuz etkilenen oyuncular tarafından her 15 turda bir (Standart Hız) çağrılabilir. Bu, başka bir oyuncu (örneğin Askeri Acil Durum) veya çevre (örneğin Yardım Talebi) olabilir. Bu aşamada, Acil Duruma dahil olabilecek oyuncular ilgili Tartışma üzerinde oy kullanmalıdır. Tartışma kabul edilirse, lehte oy kullanan oyuncular Acil Duruma katılır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_OVER">
+			<Text>Dünya Kongresi sona erdi. Yakında tekrar toplanacak, ancak bu arada yürürlükteki yeni oyun kurallarından yararlanın! Bunları Diplomasi'ye girip soldaki en üst simgeye tıklayarak görüntüleyebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FLOODPLAIN_REVEAL">
+			<Text>Bu Nehir'in taşkın yatakları var, yani daha önce taşmış ve yeniden taşabilir. Bu nehirde her an bir Sel meydana gelebilir. Bu bize riskler sunar, ancak potansiyel faydalar da getirebilir.[NEWLINE][NEWLINE]Bir Sel, Nehir boyunca herhangi bir bölgeyi etkileyebilir. Sulanmış bir bölge, üzerindeki İyileştirmeleri yağmalar veya yok eder ve Bölgeleri yağmalar, ancak sonuç olarak bölgenin getirilerini de artırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_VOLCANO_REVEAL">
+			<Text>Bu Yanardağ şu an sessiz, ancak gelecekte bir noktada tekrar patlayabilir. Halkımız için bir tehlike ya da beklenmedik bir nimet olabilir.[NEWLINE][NEWLINE]Bir Patlama, Yanardağ'a bitişik herhangi bir bölgeyi etkileyebilir. Patlama, bölgedeki iyileştirmeleri yağmalar veya yok eder ve bölgeleri yağmalar, ancak sonuç olarak bölgenin getirilerini de artırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GEOTHERMAL_REVEAL">
+			<Text>Burada yerden buhar tıslıyor, dönen bulutlar halinde yükseliyor. Burası bir Jeotermal Çatlak—gezegenin ısısının doğal bacalardan kaçtığı bir yer.[NEWLINE][NEWLINE]Zamanla, bu doğal özelliklerden yararlanmanızı sağlayacak teknolojiler araştırabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FIRST_CLIMATE_CHANGE">
+			<Text>Dünya ısınıyor ve ciddi sonuçlar kapıda olabilir. Bazı kutup buzulları eridi ve alçak yerleşimler gelecekte risk altında olabilir. Sıcaklık daha da yükselirse, ek kıyı ovaları sular altında kalabilir ve sonunda dalgaların altında kaybolabilir. Risk altındaki şehirlerimizde bir Sel Bariyeri inşa etmek isteyebiliriz. İklim değişikliği ayrıca daha kötü ve daha sık fırtınalara ve kuraklıklara yol açacak, hatta toprağın önceki verimlilik kazanımlarını yok edebilecek. Dünya iklimi hakkındaki bilgileri dilediğiniz zaman İklim Ekranı'ndan görebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CONSUME_POWER_RESOURCE">
+			<Text>Halkımız yeni bir enerji kaynağı yarattı. Sevinçleri sürerken, gökyüzüne duman bulutları yükseliyor. Yakıt yakarak atmosfere CO2 ekliyoruz. Bunu sürdürmek sonunda gezegeni ısıtacak.[NEWLINE][NEWLINE]Daha sıcak bir gezegen, deniz seviyelerinin yükselmesine ve kıyı bölgelerinin sular altında kalmasına neden olacak. Bu tehdit gelecekte gerçekleşebilirken, kıyı taşkınlarının şehirlerinizi ve uygarlığınızı nasıl etkileyeceğini düşünmek isteyebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_STORM_REVEAL">
+			<Text>Rüzgar uğulduyor ve yağmur kamçılıyor—Güçlü bir Fırtına toprakları kasıp kavuruyor! Burada tehlike var, ama aynı zamanda fırsat da.[NEWLINE][NEWLINE]Fırtına, dağılmadan önce bir dizi bölgeden geçecek. Geçtiği herhangi bir bölgedeki İyileştirmeleri yağmalayacak veya yok edecek ve Bölgeleri yağmalayacak, ancak sonuç olarak bölgenin getirilerini de artırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DAM_TECHNOLOGY_UNLOCK">
+			<Text>Halkımızın keşfi, nehirlerin akışını düzenleyebileceğimiz ve şiddetli bir selde bile önleyebileceğimiz anlamına geliyor. Artık Baraj bölgesini inşa etme yeteneğine sahipsiniz.[NEWLINE][NEWLINE]Her nehirde bir Baraj inşa edebilirsiniz; bu, bu Nehir boyunca Selleri önleyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CANAL_TECHNOLOGY_UNLOCK">
+			<Text>Halkımız henüz var olmayan bir su yolu hayal ediyor ve bu yeni keşif, onu inşa etmelerine olanak sağlayabilir. Artık Kanallar inşa etme yeteneğine sahipsiniz.[NEWLINE][NEWLINE]Bunlar, deniz birliklerinin ve ticaret kervanlarının karadan geçmesine olanak tanır. Bir Kanal, içinden geçen herhangi bir Ticaret Yolu'nun getirisini artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_CONVENE">
+			<Text>Pek çok ülkedeki bilge zihinler, uygarlıklar arasındaki anlaşmazlıkların barışçıl danışma yoluyla çözülmesini öneriyor. Dünya Kongresi çağrısına katılalım mı?[NEWLINE][NEWLINE]Dünya Kongresi, dünyadaki tüm uygarlıkların bir örgütüdür. Bu örgütü başarıyla kullanmak, Diplomatik Zafer'in önemli bir parçasıdır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_ACCEPT">
+			<Text>Belagatli argümanlarımız dünyadaki diğer uygarlıkları ikna etti ve Tartışmamız kabul edildi!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_FAIL">
+			<Text>Yalvarışlarımıza rağmen, dünyadaki diğer uygarlıkları davamıza ikna edemedik. Tartışmamız reddedildi.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_INTERVENTION_AVAILABLE">
+		  <Text>Oyuncuların bir Acil Durumu ele almak için bir araya gelmelerini talep etme fırsatımız var. Bunu Dünya Kongresi'ne önermeli miyiz?[NEWLINE][NEWLINE]Bir Acil Durumu tetikleme koşulları karşılandığında, etkilenen oyuncular [ICON_Favor] Diplomatik Destek harcayarak Dünya Kongresi'nden bir Özel Oturum talep edebilir; bu oturumda oyuncular, durumla mücadele etmek için Puanlı Bir Yarışma başlatılıp başlatılmayacağına oy verir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_INTERVENTION_PROPOSED_AND_WE_CAN_ADD">
+		  <Text>Başka bir uygarlık, bir Acil Durumu ele almak için Dünya Kongresi'nden bir Özel Oturum talep etti. Tartışmak için kendi Acil Durumumuz var: bunu gündeme ekleyelim mi?[NEWLINE][NEWLINE]Tek bir Özel Oturumda, birden fazla Acil Durum aynı anda tartışılabilir. Bir Özel Oturum sona erdikten sonra, belirli bir tur sayısı geçene kadar bir başkası çağrılamaz: bir tartışma önermek istiyorsanız, şimdi tam zamanı.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_INTERVENTION_PASS">
+			<Text>Dünya Kongresi, uygarlıkların ortak bir amaç için bir araya gelmesi gerektiğine karar verdi. Diğer uygarlıklarla çalışarak onaylarını alabilir ya da bu Müdahaleye katılmamayı seçebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_1_XP2">
+		  <Text>Daha büyük bir tehdide karşı diğer uygarlıklarla bir araya geldik. Başarılı olursak ödüllendirileceğiz. Ancak görevimizde başarısız olursak, düşman daha da güçlenecek.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_SCORED_COMPETITION_BEGUN">
+		  <Text>Artık diğer uygarlıklarla barışçıl bir yarışma içindeyiz. Bu faaliyette en yetenekli kim çıkacak? İyi performans gösterirsek, güçlü bonuslarla ayrılacağız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_DENOUNCED">
+			<Text>İster hayal kırıklığından ister kötü niyetten olsun, dünyadaki başka bir uygarlık eylemlerimize kızgın. Hoşnutsuzluklarını göstermek için bizi dünyanın önünde Kınadılar. Gelecekte bizimle bir savaşı meşrulaştırıyor olabilirler. Dikkatli olmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_GENERATES_GRIEVANCE">
+			<Text>Başka bir uygarlığın iradesine karşı çıktık ve onları kızdırdık. Bize karşı bir Haklı Şikayetleri var; bu, gelecekte onlarla çalışmamızı zorlaştırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_AI_GENERATES_GRIEVANCE">
+			<Text>Başka bir uygarlığın eylemleri onurumuza hakarettir. Onlara karşı bir Haklı Şikayetimiz var; bu, diğer uygarlıklar nezdinde onlara karşı yapacağımız eylemleri meşrulaştırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_GAINS_FAVOR">
+			<Text>Dünya Kongresi, bu Karar kapsamındaki eylemlerimizi onaylıyor. Diğer uygarlıklar nezdinde bir Diplomatik Destek kazandık.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_CB_REVOKED">
+			<Text>Dünya Kongresi, mevcut savaşımız için öne sürdüğümüz Savaş Gerekçesi'nin haklı olmadığına karar verdi. Artık bundan diplomatik bir yarar sağlayamıyoruz. Diplomatik olarak yalnız kalmamak için dikkatli olmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIV_MAKES_REQUEST">
+			<Text>Dünyadaki başka bir Uygarlık size resmî bir Talepte bulundu. Bu kritik anda söz konusu diplomatik harekete vereceğiniz yanıt, bu Uygarlıkla olan ilişkinizin geleceğini belirleyecektir.[NEWLINE][NEWLINE]Talebe verdiğiniz yanıta ve sonraki davranışlarınıza bağlı olarak, bu Uygarlık için başka seçenekler de (Savaş Gerekçesi'nin kullanılabilir hale gelmesi dâhil) ortaya çıkabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_ABLE_REQUEST">
+			<Text>Dünyadaki başka bir Uygarlığı ilgilendiren önemli bir siyasi durum ortaya çıktı. Başka bir Uygarlığa bir Talepte bulunabilirsiniz. Bu Talepler, diğer Uygarlıklarla olan ilişkinizdeki kırılma anlarını temsil eder.[NEWLINE][NEWLINE]Diğer Uygarlığın vereceği yanıta bağlı olarak, sizin için başka diplomatik seçenekler de (söz konusu Uygarlığa karşı bir savaşı meşrulaştıracak bir Savaş Gerekçesi dâhil) kullanılabilir hale gelebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_STRATEGIC_RESOURCE_AVAILABLE">
+			<Text>Bir Stratejik Kaynak biriktirmeye başladık! Halkımız bu yeni Kaynağın belirli askerî birliklerin inşası için hayati önem taşıyabileceğini biliyor ve ileride kullanmak üzere onu stoklayacak. Bu Kaynağı en iyi şekilde değerlendirmek için kullanımını yönetmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_UNIT_REQUIRES_FUEL_BUILT">
+			<Text>Artık stratejik bir kaynak gerektiren bir askerî birliği eğitebiliyoruz. Stoklarımızda bu kaynaktan yeterli miktarda bulundurmazsak, savaşta çok daha az etkili olacaktır.[NEWLINE][NEWLINE]Bu birlikler sürekli bir kaynak tedariki gerektirecektir. Bu kaynaklardan yeterince elimizde bulundurduğumuzdan emin olmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_POWER_REQUIRED_BUILDABLE">
+			<Text>En bilge zihinlerimiz yeni bir cihaz inşa etmek için planlar geliştirdi, ancak bu cihaz insan emeğinin ötesinde düzenli bir Enerji kaynağı gerektirecek. Bunu kullanabilmek için şehirlerimize Enerji sağlamanın bir yolunu geliştirmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DIRTY_POWER_AVAILABLE">
+			<Text>Şehrimize Enerji sağlamanın bir yöntemini öğrendik, ancak bu yöntem Yakıt yakmamızı gerektirecek. Bu kaynak duman ve kirlilik üretecek, bu yüzden maliyetleri ve faydaları dikkatlice tartmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CLEAN_POWER_AVAILABLE">
+			<Text>Harika haber! Yakıt yakarak dünyayı kirletmeyen yeni bir Enerji üretme yöntemimiz var. Bu, çevreye zarar verme riski olmadan şehirlerimize Enerji sağlamamızı sağlayacak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_POWER_SHORTAGE">
+			<Text>Bu şehirdeki çalışmalar kesintili ilerliyor, çünkü şehir Enerji sıkıntısı çekiyor. Yeterli kaynak stoklamazsak, birliklerimiz, şehirlerimiz ve uygarlığımız en büyük potansiyellerine ulaşamayacak.[NEWLINE][NEWLINE]Bu şehre Enerji sağlayan bir bina inşa etmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEGATIVE_RESOURCE_RATE">
+			<Text>Kaynaklarımıza olan talep arttı ve stoklarımız tükenme tehlikesiyle karşı karşıya. Bu olursa, birliklerimiz çok daha az etkili hale gelecek.[NEWLINE][NEWLINE]Kaynaklarımız tükenirse, bu Kaynakları gerektiren herhangi bir birlik savaşta çok daha az etkili olacaktır. Daha az birlik inşa etmeyi veya sahip olduğumuz Kaynakları daha iyi kullanmanın yollarını bulmayı düşünebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EXOPLANET_PROJECT_AVAILABLE">
+			<Text>Bilim insanlarımız ve mühendislerimiz, kolonicileri uzak bir dünyadaki yeni bir yuvaya taşıyabilecek bir gemi inşa edebileceklerine inanıyor. Bu başarıyı gerçekleştirmek, insanlık tarihinin en büyük teknolojik atılımı olacak ve uygarlığımızın tarihteki yerini sağlamlaştıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EXOPLANET_SUPPORT_PROJECT_AVAILABLE">
+			<Text>Uzak bir dünyayı kolonileştirmek için gönderdiğimiz uzay gemisi yolculuğuna çıktı, ancak yolculuğuna yardımcı olacak daha fazla fırsat var. Yolculuğu hızlandıracak ek projeler inşa edebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FUTURE_ERA_IMMINENT">
+			<Text>Bilimin gizemleri ve kültürün soruları hâlâ önümüzde açık, ancak keşifler arasındaki bağlantılar artık baştan çıkarıcı bir şekilde belirsiz. Araştırmalarımız ilerledikçe, teknolojiler ve yönetim bilimleri arasındaki ilişki zamanla kendini gösterecek.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_ROUTE_MOUNTAIN_AVAILABLE">
+			<Text>Göklere uzanan dağlar başkalarını yıldırabilir, ancak halkımız onları aşmanın yollarını biliyor. Dağları aşmak, hem birliklerimiz hem de düşmanlarımız için seyahati kolaylaştıracak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_RAILROAD_AVAILABLE">
+			<Text>Bir Demiryolu pahalı bir girişimdir, ancak ticari gücümüzü ve birliklerimizin hat boyunca hızını artıracaktır. Bunları nereye inşa edeceğimizi düşünmeliyiz.	Bu görev için Askeri Mühendisler gerekli olacak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_ROCKBAND_AVAILABLE">
+			<Text>Uygarlığımız Rock Grupları oluşturma yeteneğine sahip! Bu dünya standartlarındaki sanatçılar, bir şehirde İnanç ile satın alınabilir. Onları uzak diyarlara tura göndererek konserler verin ve uygarlığımız için Turizm üretin.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_COASTAL_LOWLANDS">
+			<Text>Halkımız, okyanus dalgalarının sesinin duyulduğu alçak bir kıyı boyunca bir şehir kurmayı seçti. Ancak bu alçak bir arazidir ve deniz seviyesi yükselirse sular altında kalacaktır.</Text>
+		</Row>
+		<!-- Super Advisor Lines -->
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WELCOME">
+			<Text>Civilization VI: Toplayan Fırtına'ya hoş geldiniz! Bu rehber, genişletme paketindeki yeni özellikleri tanıtacaktır. Ek bilgiler için Civilopedia ve Danışman ipuçlarına başvurabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS">
+			<Text>Dünya Kongresi, sesinizi diğer uygarlıklara duyurduğunuz yerdir. Aynı zamanda yeni Diplomatik Zaferin önemli bir parçasıdır. Dünya Kongresi'ne oylama için öneriler sunulur ve bunlar iki türde gelir: Kararlar ve Tartışmalar.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1">
+			<Text>Kararlar tüm uygarlıkları etkiler; örneğin bir Lüks Kaynağı yasaklamak veya kaynağın her kopyasından ekstra [ICON_Amenities] Olanak elde etmek gibi.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2">
+			<Text>Tartışmalar, Dünya Kongresi üyelerinin katılabileceği potansiyel Puanlı Yarışmalar veya Acil Durumlardır; Dünya Oyunları veya Dini Acil Durum gibi.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3">
+			<Text>Üyeler, ele alınması gereken bir Acil Durumları varsa Özel Oturum çağırabilir; örneğin bir doğal afet sonrası yardım talebi gibi.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR">
+			<Text>[ICON_Favor] Diplomatik Destek, oyunda yeni bir para birimi türüdür. Diplomatik eylemleriniz size [ICON_Favor] Diplomatik Destek kazandıracak; bunu Dünya Kongresi'nde kendinize yardım etmek veya başkalarını engellemek için kullanabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1">
+			<Text>[ICON_Favor] Diplomatik Destek; İttifaklar, Süzereni olduğunuz Şehir Devletleri, Puanlı Yarışmalardaki başarı ve daha birçok yolla kazanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2">
+			<Text>Oyun boyunca [ICON_Favor] Diplomatik Destek kazanmanın büyük ve küçük yolları vardır. Bazı eylemler bir defada büyük miktarda Destek sağlarken, bazıları zamanla yavaş yavaş verir. Dünya Kongresi'ndeki konumunuzu güçlendirmek için diğer oyuncuların Desteğiyle ticaret yapmayı deneyin.</Text>
+		</Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3">
+      <Text>[ICON_Favor] Diplomatik Desteğinizi, diğer oyunculardan söz almak, Kongre'nin Özel Oturumlarını çağırmak ve Dünya Kongresi'nde oy satın almak için harcayabilirsiniz. Veya oyun boyunca Diplomatik Destek biriktirip sonraki çağlarda Diplomatik Zafer Puanları için uğraşabilirsiniz.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY">
+      <Text>Yeni Diplomatik Zafere ulaşmak için Diplomatik Zafer Puanları toplayın.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS">
+      <Text>{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3}</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1">
+      <Text>Dünya Kongresi toplandığında, karara bağlanmak üzere bir dizi Karar mevcut olacaktır. Oylama sonuçlandığında, kazanan hedef ve seçeneği belirleyen her Karar için tüm oyuncular bir Diplomatik Zafer Puanı alacaktır.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2">
+      <Text>Modern Çağ'dan itibaren oyuncular, Diplomatik Zafer Puanları için rekabet etmek üzere Dünya Kongresi'nde [ICON_Favor] Diplomatik Desteği kullanabilecekler. Kararı kazanarak zafere bir adım daha yaklaşın veya diğer oyuncuların kendi zaferlerine ulaşmasını engelleyin.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3">
+      <Text>Yardım Talepleri ve Dünya Oyunları gibi Acil Durumlar, en yüksek puanı alan oyunculara Diplomatik Zafer Puanları sağlayacaktır.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES">
+      <Text>Önceki Savaş Kışkırtıcılığı sistemi, diğer oyuncuların savaşçı eylemlerinizi nasıl gördüğünü temsil eden yeni bir sistemle değiştirilmiştir: [ICON_STAT_GRIEVANCE] Şikayetler.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS">
+      <Text>{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3}</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1">
+      <Text>Artık diğer oyuncular size Kınama, Savaş İlanı veya şehirlerinizden birini ele geçirme ya da yerle bir etme yoluyla haksızlık yaptığında, onlara karşı [ICON_STAT_GRIEVANCE] Şikayet kazanırsınız ve dünyanın onayıyla aynı şekilde misilleme yapabilirsiniz. Artık haksız bir savaşın ardından adil bir cezalandırma şehir ele geçirme işlemi için kınanmayacaksınız.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2">
+      <Text>Ayrıca [ICON_STAT_GRIEVANCE] Şikayetleri, diğer oyunculardan Söz talep etmek için de kullanabilirsiniz. Diğer oyuncu, bu şekilde belirttiğiniz isteklerinize aykırı davranmaya devam ederse, sürekli olarak [ICON_STAT_GRIEVANCE] Şikayet üretecek ve bunları onlara karşı savaşı haklı çıkarmak için kullanabilirsiniz.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3">
+      <Text>Fakat dünya, diğer oyuncuların size karşı beslediği toplam [ICON_STAT_GRIEVANCE] Şikayetleri de dikkatle izler. Eğer başkalarının size yaptığından daha fazla şikayet oluşturduysanız, üçüncü taraflar bunu fark edecek ve sizinle ilgili görüşleri etkilenecektir.</Text>
+    </Row>    
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT">
+			<Text>Civilization VI: Toplayan Fırtına'da çevreniz her zamankinden daha canlıdır. Seller, fırtınalar ve yanardağlar gibi doğal afetler İyileştirmelerinizi ve Bölgelerinizi yağmalayabilir veya yok edebilir—ancak geçtikten sonra toprakları tazeleyip zenginleştirebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1">
+			<Text>Tipilerden Toz Fırtınalarına, Hortumlardan Kasırgalara kadar fırtınalar, aşılması gereken bir başka zorluktur.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2">
+			<Text>Taşkın nehirler iyileştirmelerinize zarar verebilir, ancak bir bölgedeki [ICON_Food] Besin getirisini de artırabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_VOLCANOES">
+			<Text>Yanardağlar yüksek riskli ama yüksek ödüllü yerleşim noktalarıdır. Volkanik patlamalar iyileştirmeleri, bölgeleri ve binaları yağmalayabilir veya yok edebilir, hatta birlikleri öldürebilir veya hasar verebilir. Ancak volkanik toprak son derece değerli ve çok verimlidir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_GEOTHERMAL">
+			<Text>Jeotermal Çatlaklar, yakındaki binalara veya bölgelere ek [ICON_Amenities] Olanaklar veya [ICON_Tourism] Turizm gibi faydalar sağlayan yeni özelliklerdir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES">
+			<Text>Stratejik Kaynaklar iki türe ayrılmıştır: Yakıt ve Malzeme. Yakıt kaynakları, şehirlerinizin [ICON_Power] Enerji ihtiyaçlarını karşılamak için kullanılırken, Malzeme kaynakları kaynağa bağımlı birlikler üretmek için gereklidir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1">
+			<Text>Şehrinizdeki [ICON_Power] Enerjiyi yöneterek oyun sonu binalarını daha etkili hale getirin.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2">
+			<Text>Diğer uygarlıklarla Malzeme Kaynakları ve Yakıt ticareti yapın.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES">
+			<Text>Kaynak kullanımına dair seçimleriniz dünyanın sıcaklığını doğrudan etkileyecek ve deniz seviyelerinin yükselmesine neden olabilir. Bazı kıyı bölgeleri sular altında kalma veya tamamen batma riskiyle karşı karşıya kalacak. Şehir kurarken bu kıyıdaki alçak arazilerin riskini göz önünde bulundurun, ancak Atom Çağı'nda Sel Bariyerleri'nin bu bölgeleri koruyabileceğini unutmayın.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1">
+			<Text>Yakıt yakmak atmosferi ısıtarak buzulların erimesine ve deniz seviyelerinin yükselmesine yol açar.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2">
+			<Text>Yerleşimciniz artık kıyıya yakın alçak bir bölgede şehir kuruyorsanız size bunu bildirecek.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3">
+			<Text>Sel Bariyeri, şehrinizi yükselen denizden korumaya yardımcı olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_MORE">
+			<Text>Civilization VI: Toplayan Fırtına'da keşfedilecek çok daha fazlası var: Teknoloji ve Yönetim Bilimleri Ağaçlarında yeni çağlar, yeni Tarihi Anlar, Dev Ölüm Robotu dahil yeni küresel birlikler, yeni sistemlerle sinerji oluşturan liderler ve uygarlıklar ve daha fazlası.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_END">
+			<Text>Uygarlığınız toplanan fırtınaya direnebilecek mi? Sid Meier's Civilization VI'da nasıl hüküm süreceksiniz?</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_END_DETAILS_1">
+			<Text>Bu bilgileri her zaman danışmana danışarak, Civilopedia'yı inceleyerek veya Duraklatma menüsünde bu öğreticiyi yeniden açarak gözden geçirebilirsiniz.</Text>
+		</Row>
+    <!--City Panel Advisor-->
+    <Row Tag="LOC_ADVISOR_CITYPANEL_POWER_INTRO">
+      <Text>ENERJİ ÜRETMEK İÇİN:</Text>
+    </Row>
+    <Row Tag="LOC_ADVISOR_CITYPANEL_POWER_PLANTS">
+      <Text>[NEWLINE][NEWLINE]Bu şehirde veya yakındaki bir şehirde bir Enerji Santrali inşa edin ve kullandığı kaynaktan bir stokunuz olduğundan emin olun ([ICON_RESOURCE_COAL] Kömür, [ICON_RESOURCE_OIL] Petrol veya [ICON_RESOURCE_URANIUM] Uranyum)</Text>
+    </Row>
+    <Row Tag="LOC_ADVISOR_CITYPANEL_HYDROELECTRIC_DAM">
+      <Text>[NEWLINE][NEWLINE]Bir Baraj Bölgesi ve bir Hidroelektrik Baraj inşa edin.</Text>
+    </Row>
+    <Row Tag="LOC_ADVISOR_CITYPANEL_RENEWABLE_ENERGY">
+      <Text>[NEWLINE][NEWLINE]Gelişmiş teknolojiler araştırın ve Güneş Çiftliği, Rüzgar Çiftliği, Açık Deniz Rüzgar Çiftliği ya da Jeotermal Santral gibi arazi iyileştirmeleri inşa edin.</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

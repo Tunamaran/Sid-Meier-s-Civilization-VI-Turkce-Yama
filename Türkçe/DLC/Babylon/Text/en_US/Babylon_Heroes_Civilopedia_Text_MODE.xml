@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--UI-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_HEROES_NAME">
+			<Text>Kahramanlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_CHAPTER_HEROABILITIES_TITLE">
+			<Text>Kahramanlık Yetenekleri</Text>
+		</Row>
+		<!-- Game Mode Concept -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CONTENT_TITLE">
+			<Text>Kahramanlar ve Efsaneler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_WELCOME_PARA_1">
+			<Text>Oyun kurulumunda oyuncular, Kahramanlar ve Efsaneler oyun modunu etkinleştirerek dünyaya olağanüstü güçlere sahip çeşitli ve kudretli Kahraman birimlerini dahil edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_TITLE">
+			<Text>Kahramanları Keşfetmek</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_1">
+			<Text>Bu oyun modunda on iki eşsiz Kahraman bulunur. Her birinin uygarlığınız tarafından sahiplenilebilmesi için önce keşfedilmesi gerekir. Kahramanlar, dünyayı keşfederken ve halklarla karşılaşırken şans eseri bulunur. Aşağıdaki faaliyetlerin her biri yeni bir Kahraman keşfetme şansı sunar:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_2">
+			<Text>[ICON_BULLET] Bir Kabile Köyü'ne rastlamak[NEWLINE][ICON_BULLET] Bir Şehir Devleti'ne [ICON_ENVOY] Elçi göndermek[NEWLINE][ICON_BULLET] Bir Şehir Devleti'nin ilk kez Süzeren'i olmak[NEWLINE][ICON_BULLET] Yeni bir Kıta keşfetmek[NEWLINE][ICON_BULLET] Bir Doğa Harikası keşfetmek</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_3">
+			<Text>Bu doğal keşif fırsatlarına ek olarak, tekrarlanabilir [COLOR:ProductionDark]Kahramanlık Destanları[ENDCOLOR] Şehir Projesi'ni tamamlayarak rastgele yeni bir Kahraman keşfedebilirsiniz. Bu proje, [COLOR:Civ6Yellow]Anıt[ENDCOLOR] binası inşa etmiş herhangi bir şehirde etkinleştirilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_DISCOVERY_PARA_4">
+			<Text>Keşfettiğiniz tüm Kahramanlar hakkında güçleri, yetenekleri ve durumları dahil tam bilgiyi Kahramanlar ve Büyük Şahsiyetler ekranında bulabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_TITLE">
+			<Text>Kahramanları Sahiplenmek</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_1">
+			<Text>Bir veya daha fazla Kahraman keşfettiğinizde, [COLOR:ProductionDark]Kahraman Adanmışlığı[ENDCOLOR] Şehir Projesi'ni tamamlayarak istediğiniz bir Kahramanı sahiplenebilirsiniz. Bu projeler her Kahramana özgüdür ve şehir [COLOR:Civ6Yellow]Anıt[ENDCOLOR] binası inşa ettiğinde etkinleştirilir. Bir Adanmışlık Projesi'ni tamamlamak, Anıt'ı kalıcı olarak o Kahramanla ilişkilendirir ve kahramanı uygarlığınızın hizmetine sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_2">
+			<Text>Kahramanlar küresel olarak benzersizdir. Bir Anıt'ı Kahramana adayan ilk uygarlık onu sahiplenir ve her Anıt yalnızca bir Kahramana adanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_CLAIMING_PARA_3">
+			<Text>Birden fazla Kahraman sahiplenmek için farklı şehirlerde birden çok Anıt inşa edebilir ve her birinde farklı bir Kahraman sahiplenebilirsiniz. Ancak, tamamladığınız her sahiplenme ile tüm Kahraman Adanmışlığı projelerinin maliyeti artar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_TITLE">
+			<Text>Kahraman Birimleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_1">
+			<Text>Kahramanlar, özel niteliklere sahip güçlü birimlerdir. Her birinin yalnızca kendilerine özgü bir veya daha fazla eşsiz yeteneği ya da emri bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_2">
+			<Text>Bir Kahramanın gücü ve yetenek kudreti, ortaya çıktığı Çağ'a bağlı olarak artar. Bir Kahramanı oyun boyunca birden çok kez geri çağırdığınızda, sonraki Çağlarda daha güçlü olarak geri dönecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_3">
+			<Text>Sahiplendiğiniz veya keşfettiğiniz herhangi bir Kahramanın mevcut yetenekleri hakkındaki tüm ayrıntıları Kahramanlar ve Büyük Şahsiyetler ekranında bulabilirsiniz.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_TITLE">
+			<Text>Kahraman Ömür Süresi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_LIFESPAN_PARA_1">
+			<Text>Tüm Kahraman birimlerinin [ICON_Lifespan] Ömür Süresi adı verilen özel bir özelliği vardır. Bir Kahraman oyuna girdiğinde, sahada kalabileceği sınırlı sayıda turu bulunur. Kahraman, [ICON_Lifespan] Ömür Süresi sona ermeden öldürülmez ya da yok edilmezse, [ICON_Lifespan] Ömür Süresi sıfıra ulaştığı turda otomatik olarak oyundan ayrılır. Bir Kahramanın [ICON_Lifespan] Ömür Süresi, Kahraman seçildiğinde Gösterge Panelinde (HUD) görüntülenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_TITLE">
+			<Text>Kahramanları Geri Çağırma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_PARA_1">
+			<Text>Bir Kahraman oyundan ayrıldıktan sonra, onu her Çağda bir kez, onu ilk kez talep eden aynı şehirde [ICON_Faith] İnanç ile satın alarak geri çağırabilirsiniz. Kahramanlar Çağlar boyunca birden çok kez geri çağrılabilir, ancak belirli bir Kahramanı geri çağırma maliyeti her seferinde artar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_RECALLING_PARA_2">
+			<Text>Yalnızca bir Kahramanı ilk talep eden oyuncu onu geri çağırabilir ve yalnızca Kahramanın Anıtı'nın bulunduğu şehirde. Bir Kahraman talep ettiğiniz bir şehrin kontrolünü kaybederseniz, şehrin kontrolünü yeniden ele geçirene kadar o Kahramanı geri çağıramazsınız. Şehir yerle bir edilirse, Kahramanı hiçbir şekilde geri çağıramazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_TITLE">
+			<Text>Kahramanlık Büyük Eserleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_1">
+			<Text>Bu mod, yeni bir Büyük Eser türü içerir: Kahramanlık Yadigârı. Bir Anıt bir Kahramana adandığında, iki Kahramanlık Yadigârı Büyük Eser yuvası kazanır. Bir Kahraman oyundaki ilk görünümü sona erdikten sonra (ister öldürülmüş olsun ister [ICON_Lifespan] Ömür Süresi dolmuş olsun), geride iki benzersiz [ICON_GreatWork_HeroRelic] Kahramanlık Yadigârı bırakır: bir Kahramanlık Destanı ve bir Kahramanlık Sembolü. Kahramanlık Destanları, Kahramanın köken şehrindeki Anıt'a otomatik olarak yerleştirilir. Kahramanlık Sembolleri, [ICON_RESOURCE_ANTIQUITY_SITE] Antik Sit Alanları olarak gizlenir ve bu yeteneği açtığınızda Arkeologlar tarafından kazı yapılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_2">
+			<Text>[ICON_BULLET] Kahramanlık Destanı, Kahramanın hayatının ve eylemlerinin bir kronikidir. Otomatik olarak oluşturulur ve Kahramanın Anıt binasına yerleştirilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_GREATWORKS_PARA_3">
+			<Text>[ICON_BULLET] Kahramanlık Sembolü, Kahramanla ilişkilendirilen ünlü bir nesnedir. Kahraman oyundan ayrıldığında bulunduğu yere yakın bir parsele [ICON_RESOURCE_ANTIQUITY_SITE] Antik Sit Alanı olarak yerleştirilir. Arkeologların kilidini açtığınızda ve alanı kazabildiğinizde, Kahramanlık Sembolü kurtarılabilir ve Kahramanın Anıt binasına yerleştirilebilir.</Text>
+		</Row>
+		<!--Hero Units-->
+		<!--Anansi-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_1">
+			<Text>Anansi, bir örümcek için çok uzaklara seyahat etmiştir. Bazen insan, bazen örümcek, bazen de ikisi birden olan düzenbaz başkahraman, günümüz Gana'sındaki Akan halkının pek çok masalında yer alır. Anansi, Batı Afrika halkının gittikleri her yere taşıdıkları hikâyelerin kahramanıdır; özellikle de Yeni Dünya'daki köleleştirilmiş Afrikalılar arasında. Burada, bazen 'Kompa Nanzi' ya da hatta 'Nancy Teyze' (her ne kadar Anansi normalde bir erkek olarak tasvir edilse de) olarak yeniden adlandırılan Anansi, kendilerinden daha güçsüz konumda olup zekâlarını ve kurnazlıklarını kullanarak zalimlerine karşı avantaj elde etmeye çalışanlar için bir ilham kaynağı olmaya devam etmektedir. Diğer kahramanların ve tanrıların güçlü silahları olabilir, ama Anansi'nin hikâyeleri vardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_2">
+			<Text>Önceleri, gök-tanrısı Nyame tüm hikâyeleri kendine saklardı. Anansi gidip onları istedi, ancak Nyame ona dünyanın en tehlikeli yaratıklarını toplamayı içeren, görünüşte imkânsız bir dizi görev verdi. Anansi buna doğrudan yaklaşmadı, aksine büyük yaratıkların kibir ve gururunu onlara karşı kullandı. Örneğin, büyük pitonun 'kazara' Anansi'nin yılanın yakındaki bir dala neredeyse hiç benzemediğini söylediğini duymasına izin verdi ve piton boyunu göstermek için ağacın yanına uzandığında, Anansi onu dala bağlayarak yakaladı. Nyame, Anansi'nin zekâsını gördükten sonra, o andan itibaren tüm hikâyelerin örümceğe ait olması gerektiğini kabul etti ve bu yüzden Batı Afrikalılar Nyame hikâyeleri değil, Anansi hikâyeleri anlatırlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ANANSI_CHAPTER_HISTORY_PARA_3">
+			<Text>Anansi her zaman erdemli bir kahraman değildir. Diğer birçok düzenbaz gibi o da bencil olabilir ve özellikle bu zamanlarda planları sık sık ters gider. Ancak ayakta kalmak için çabuk düşünmek zorunda kalanlar için uygun bir kahramandır.</Text>
+		</Row>
+		<!--Arthur-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Kral Arthur'un hikâyesi, sözlü efsaneden ortaçağ romansına, Romantik edebiyat klasiğine ve bilim kurguya uzanan baş döndürücü sayıda şekilde anlatılıp yeniden anlatılmıştır. O kadar çok kez anlatılmıştır ki efsanenin kökenini bulmak zordur; ancak Lancelot, Guinevere, Arthur ve Yuvarlak Masa'yı içeren pastişleri ortaya çıkarmak zor değildir. Neredeyse tüm masallarda Arthur, tehlikeli ama çoğu zaman dindar görevler üstlenen soylu şövalyelerden oluşan bir grup toplamış bilge bir kraldır. Britanya Adaları'nın her yerindeki bölgeler Arthur'a atıfta bulunurken, en eski anlatılarda Arthur, toprakları işgalcilere karşı savunan Galli veya Breton bir kahramandır - Karanlık Çağlar'da Cermen Anglo-Saksonlar ve Danimarkalıların istilalarıyla karşı karşıya kalan Britanyalı (Briton) Keltlerin aklında çokça yer etmiş bir şeydir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_2">
+			<Text>Ortaçağ biçiminde Arthur'un hikâyesi trajiktir. Çocukken, büyülü kılıç Excalibur'u bir taştan çekerek kaderinin habercisi olmuş, bir gün Britanya'nın kralı olacağını simgelemiştir. Zamanla, adil bir kral haline gelir. Yuvarlak Masa şövalyeleri ve kendisi bir dizi macera yaşar; en ünlüsü Kutsal Kâse - İsa Mesih çarmıha gerildiğinde kanını yakalaması beklenen kupa - arayışıdır. Bu şövalyelerin en ünlüsü Lancelot, Arthur'un kraliçesi Guinevere'ye âşık olur ve ikili bir ilişki başlatır. Arthur öfkeyle kraliçeyi ölüme mahkûm eder, ancak Lancelot kahramanca onu kurtarır ve böylece iki eski dost arasında bir savaşı kışkırtır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_ARTHUR_CHAPTER_HISTORY_PARA_3">
+			<Text>Yerel rivayete göre, Avalon topraklarında bir yerlerde dinlenmekte ve İngiltere yeniden tehdit altına girdiğinde günü kurtarmayı beklemektedir. Popüler tasvirlerin aksine, üçe kadar sayabilir ve hemen beşe atlamazdı; ayrıca tavşanlarla ilgili olağandışı bir sorunu yok gibiydi.</Text>
+		</Row>
+		<!--Beowulf-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_1">
+			<Text>Beowulf'un hikâyesi, MS 1000 yıllarında Eski İngilizce ile yazılmıştır ve bu dilde günümüze ulaşan ilk eserlerden biridir. Beowulf, günümüz İsveç'inin bir bölümünde yaşamış bir halk olan Geatların kahramanıdır. Danimarkalıların kralı Hrothgar'ın salonuna gelir; kralın toprakları Grendel adlı bir canavar tarafından saldırıya uğramaktadır – İskandinav mitolojisindeki trollerle tematik olarak ilişkili olabilecek bir yamyam yaratık, ancak şiir onu İncil'deki Kabil'in lanetli bir soyundan gelen olarak tanımlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_2">
+			<Text>Beowulf, Grendel'e bir tuzak kurar. Salondaki kurbanların yaptığı gibi uyuyormuş gibi yapar. O gece, soğuk bir sis sızar ve onunla birlikte canavar gelir. Beowulf silahlarını bırakır, gücünü canavarla eşit şartlarda sınamak ister. İkisi kollarını kilitler ve şiddetli bir boğuşmanın ardından Beowulf, Grendel'in bir kolunu çıplak elleriyle koparır. Ölümcül şekilde yaralanan yaratık, evine doğru topallayarak gider. Orada, Grendel'in bataklık cadısı annesi ölmekte olan oğlunu alır ve öfkeyle dolar; Beowulf yeniden savaşmak zorundadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_3">
+			<Text>Beowulf zaferle Geatların diyarına döner ve uzun yıllar hüküm sürer, ancak daha ölümcül yeni bir kötülük uyanır. Bir ejderha ininden çıkar ve kırsalı nefesiyle ateşe verir. Her zamanki gibi gururlu olan Beowulf, canavarla tek başına savaşmakta ısrar eder, ancak genç bir savaşçı olan Wiglaf, yaşlı kralın ölüme gittiğini görerek itaatsizlik eder ve kralın yanında kalır. Savaşta ejderha öldürülür, ancak Beowulf zehirli dişleri tarafından ısırılır ve ölür. Wiglaf, kralı deniz kıyısında yüksek bir tümseğe gömer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_BEOWULF_CHAPTER_HISTORY_PARA_4">
+			<Text>Beowulf her zaman bugünkü klasik olarak görülmezdi. Bizzat J. R. R. Tolkien, şiirin bir halk masalı olarak değil, bir destan olarak ciddiye alınması gerektiğini savundu. Şiir, hem savaşçının gücünün yüceltilmesini hem de gurura karşı uyarıları – hem Hrothgar'ın zenginliğiyle gururunu hem de Beowulf'un kendi gücüyle gururunu – beraberinde taşır. Tarihsel olarak Beowulf, nominal olarak Hristiyanlaşmış bir halkın pagan geçmişiyle boğuştuğu bir anın ve İngiltere'nin İskandinav mirasının bir simgesi olarak kalır.</Text>
+		</Row>
+		<!--Hercules-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_1">
+			<Text>Heracles – İngilizcede Roma adı olan Hercules ile daha iyi bilinir – Zeus'un oğlu ve iyi muhakeme yeteneği olmasa da gücü simgeleyen bir kahramandır. Zeus'un karısı Hera, Heracles'ten Zeus'un birçok ilişkisinden birinin ürünü olduğu için nefret eder ve elinden geldiğince ona zarar vermeye çalışır. Bu, beşikte başlar; Hera, bebek Heracles'i öldürmesi için yılanlar gönderir. O zaman bile çocuk yılanları alt edecek kadar güçlüdür ve gücü giderek artar. Ancak bilgeliği fiziksel gücüne ayak uyduramaz: Heracles, müzik öğretmenini bir lirle öldürür, yakın bir arkadaşını (babasını ve kardeşlerini de öldürdüğü) bir duvarın üzerinden atar, haberci Lichas'ı denize fırlatır ve en trajik olanı, kendi çocuklarını öldürür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_2">
+			<Text>Bu son eylem, Hera tarafından yeniden lanetlendikten sonra bir delilik nöbeti sırasında gerçekleşir. Bu eylemin kefareti için Heracles ünlü Görevlerini üstlenir: dev bir aslanı öldürmek (derisini sonradan giyer); kanı zehirli olan ve her bir başı kesildiğinde iki baş çıkaran çok başlı yılan hidrayı yenmek; Amazonlar Kraliçesi Hippolyta'nın kemerini çalmak; ve diğer bir dizi canavar öldürme, hayvan çalma, ahır temizleme türü işler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_3">
+			<Text>Heracles'in hikâyesi trajik bir şekilde sona erer. Bir centaur karısını kaçırmaya çalışırken, Heracles onu hidranın zehirli kanına batırılmış oklarla vurur. Centaur ölürken, Heracles'in karısına, şehvet dolu centaur kanına batırılmış tuniğinin Heracles'in ona daha çok âşık olmasına neden olacağını fısıldar. Kadın onu bunu yapmaya ikna eder ve Heracles zehirden korkunç bir şekilde ölür; bize bir Yunan tanrısının fiziğine sahipken gömlek giymemenin faydaları hakkında güçlü bir ders verir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HERCULES_CHAPTER_HISTORY_PARA_4">
+			<Text>Heracles'in ölümünden sonra dahi süren uzun bir serüveni olmuştur. Trajik bir şekilde katledilen bu kahramanın, yüce tanrının oğlunun hikâyesi, Roma döneminde Akdeniz'de büyük ilgi görmüş ve Herkül önemli bir takipçi kitlesi edinmiştir. Hindistan'da bile, Yunan esintili Gandhara heykeltıraşları, Buda'nın koruyucusu Vajrapani'yi, Herkül'ün ikonik sopası ve aslan postuyla tasvir etmişlerdir.</Text>
+		</Row>
+		<!--Himiko-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_1">
+			<Text>Günümüzde efsanevi bir figür olsa da, Kraliçe Himiko'nun gerçek bir kişi olduğu düşünülmektedir. Çinlilerin Wa – bugünkü Japonya – olarak adlandırdığı adalardaki Yamatai'nin kraliçesiydi. Çin kayıtlarına göre Himiko, M.S. 3. yüzyılda Çin'i aralarında paylaşan üç devletten en kuzeydeki olan Cao Wei krallığına hediyeler göndermiştir. Bu kayıtlarda Himiko, Çin imparatoru tarafından "Wa (Japonya) Kraliçesi ve Wei'nin dostu" olarak anılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_2">
+			<Text>Himiko'nun hikâyesinin ilginçleştiği kısım ise büyücülük suçlamalarıdır. Çin kaynakları, onun Wa sakinlerinin tamamını büyüleyerek kendisine boyun eğdirdiğini, (kendisine yemek getiren tek bir erkek dışında) tamamen kadın hizmetçiler ve muhafızlarla çevrili büyük bir şatoda yaşadığını ve nadiren dışarı çıktığını anlatır. Bu mistik ün, Japon kayıtlarında daha da pekişir; bu kayıtlar Himiko'yu çeşitli ilahi varlıklarla özdeşleştirir: Japon güneş tanrıçası Amaterasu'nun yüksek şamanı veya ilahi bir yılanın şaman eşi olarak. Bu ikinci hikâyede Himiko (Yamato-toto-hi-momo-so-bime no Mikoto adıyla anılır) açıkça ilahi bir varlıkla mutlu bir evlilik sürdürmektedir, ancak bu varlık yalnızca geceleri ziyarete gelir. Himiko ondan güneş ışığında görebilmek için sabaha kadar kalmasını rica eder, ancak o gönülsüzce reddeder. Sonunda Himiko onu ikna eder ve varlık ona, onu tuvalet çantasının içinde göreceğini, ancak görünüşü karşısında şaşırmamaya söz vermesi gerektiğini söyler. Ertesi sabah çantayı açtığında içinde güzel bir beyaz yılan kıvrılmış durmaktadır. Himiko dehşetle nefesini tutar ve tanrı-yılan insan formuna geri dönüşür. Öfkelenir, ona tepki vermemesi konusunda uyarıldığını ve artık onu terk etmesi gerektiğini söyler. Himiko, kederi içinde kendini bıçaklar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIMIKO_CHAPTER_HISTORY_PARA_3">
+			<Text>Himiko'yu çevreleyen geniş hikâye yelpazesi, olağanüstü bir kadının portresini çizer. Bir kraliçe ile şamanın özelliklerini birleştirmiştir; bu durum, kendi döneminin büyük ölçüde ataerkil vakanüvislerini rahatsız etmiş olmalıdır. Hikâyesi, karizmatik insanların üzerimizdeki neredeyse doğaüstü hâkimiyetini anlatır. Japonya'daki popüler tasvirlerde bazen bir baştan çıkarıcı, bazen de bilge bir yaşlı kraliçe olarak karşımıza çıkar, ancak popülerliğinden hiçbir şey kaybetmez.</Text>
+		</Row>
+		<!--Hippolyta-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_1">
+			<Text>Hippolyta, tamamı kadınlardan oluşan savaşçı bir kabile olan Amazonların kraliçesidir. Bu kadınların, Yunan savaş tanrısı Ares'in kızları olduğuna inanılırdı. Çatışmaktan zevk alır, kocaları ve oğulları reddederlerdi; ancak yılda bir kez komşu bir kabilenin erkeklerini ziyaret ederlerdi. Yunanlılar onları doğu sınırlarının hemen ötesine, genellikle Karadeniz kıyılarındaki Küçük Asya'ya yerleştirmişlerdi. Belki de bu efsane, Yunanlıların medeniyet olarak kabul ettikleri sınırların dışında farklı bir toplum hayal etmelerinin bir yoluydu; ya da belki de İskitler veya o bölgenin diğer halkları arasında savaşçı kadınlara dair tarihsel bir örnek vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_2">
+			<Text>Hippolyta, Herakles'in (Hercules) yer aldığı birkaç hikâyede karşımıza çıkar. Savaşta kendisini koruyan büyülü bir kemere sahipti ve Herakles'in görevlerinden biri de bu kemeri ondan çalmaktı – efsanevi güçlü adam için bile oldukça zorlu bir işti. Efsanenin bazı versiyonlarına göre Herakles Amazon'u büyülemiş, bu durum Hera'yı o kadar öfkelendirmiş ki tanrıça Hippolyta'nın Amazonlarını saldırmaya kışkırtmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HIPPOLYTA_CHAPTER_HISTORY_PARA_3">
+			<Text>"Amazon" adı, Hippolyta'dan bu yana geçen yıllarda sıkça kullanılmıştır. İspanyol kâşif Francisco de Orellana, bugün Brezilya olacak topraklarda karşılaştığı yerli halka bu adı, kadınların erkeklerle birlikte savaşması nedeniyle vermiştir. Kadınlar o kadar iyi savaşıyorlardı ki de Orellana, yerel gruplarla girdiği bir çatışmanın ardından adını verdiği nehirde can vermiştir.</Text>
+		</Row>
+		<!--Hunahpu & Xbalanque-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_1">
+			<Text>Birçok yerli Amerikan mitolojisinde büyülü bir ikiz kardeş çiftinin hikâyesi anlatılır. K'iche' Maya Popol Vuh'unda bu "Kahraman İkizler", Hunahpú ve kardeşi Xbalanqué'dir. Hikâyeleri, yeraltının dehşet verici tanrıları Xibalba'nın güçlerini nasıl kaybettiğiyle ilgilidir. Her şey başka bir kardeş çiftiyle başlar: İkizlerin babası ve amcası, yeraltı tanrıları tarafından ihanete uğramışlardır. Onlar Xibalba'da Mezoamerikan top oyununu oynamaya davet edilmişler, ancak oyun hileliydi ve kaybedenler kurban edilmişti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_2">
+			<Text>Yıllar sonra Hunahpú ve Xbalanqué, babalarının eski top oyunu ekipmanlarını buldular, hikâyeyi çözdüler ve kendi maçları için çalışmaya başladılar. Bunu gören karanlık efendiler, ikizleri bir maç oynamaya davet etti. Kahraman İkizler bunun bir tuzak olduğunu biliyordu, ama yine de gittiler. Oyunlar kâbus gibiydi – gizli bıçaklarla donatılmış bir top, uçan jiletlerle dolu bir sporcu yurdu ve son olarak, canavar yarasa tanrı Camazotz'un ininde geçirilen bir gece ki bu gece Hunahpú'nun (geçici olarak) kafasına mal oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_3">
+			<Text>İkizler her oyunu kazanmış olsa da, zafer anında son bir tuzağa kurban gidiyor gibi göründüler: İkisini de kül eden bir fırına girdiler. Xibalba efendilerinin bilmediği şey ise Kahraman İkizler'in diriliş sanatında ustalaştığıydı. Küle dönüşmelerine rağmen Xibalba'da yeniden doğdular ve oradaki sakinlerin arasında, gözler önünde gizlenmiş olarak yaşadılar. Ölüleri geri getirebilen sihirbazlar gibi davrandılar ve karanlık efendilere numaralarını göstermeyi teklif ettiler: Önce onları öldürüp sonra geri getireceklerdi. Ancak bu başka bir oyundu – Kahraman İkizler yeraltının en yüce tanrılarını öldürdüklerinde kimliklerini açığa vurdular ve babalarının katillerini diriltmeyi keyifle reddettiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_HUNAHPU_CHAPTER_HISTORY_PARA_4">
+			<Text>Tıpkı top oyunu gibi, Kahraman İkizler'in hikâyeleri de çok uzaklara yayılmıştır. Maya'dan Navaho'ya, Mississippi Kültürü'nden Ho-Chunk'a kadar pek çok mitolojide bulunabilirler.</Text>
+		</Row>
+		<!--Maui-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_1">
+			<Text>"Polinezya" terimi oldukça gevşek bir terimdir; Maori Aotearoa'sından (Yeni Zelanda) Hawaii'ye ve aradaki bölgelere kadar uzanır. Tüm bu alanı tek bir terimle, "Polinezya" olarak adlandırmak büyük bir basitleştirme olsa da, bu geniş coğrafyada paylaşılan mitler ve efsaneler vardır; İngilizceye tabu ve mana olarak geçen kavramlar gibi. Bu ortak mitlerden biri de Maui'nin hikâyesidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_2">
+			<Text>Maori mitolojisinde Maui'nin başlangıcı pek de iyi değildir. Annesi tarafından denize atılır ve yalnızca tanrı Ragni'nin onu beslemesi sayesinde hayatta kalır. Geri döndüğünde, dört şüpheci kardeşiyle karşılaşır; derinliklerde öğrendiği büyüyü sergileyerek onları ikna etmeyi başarır. Ardından bildiğimiz dünyanın yaratılmasına yardım etmeye koyulur. Kardeşleri ona balık yemi vermeyi reddedince, büyülü bir çene kemiği alır ve kendi kanıyla yemleyerek Yeni Zelanda'nın Kuzey Adası'na dönüşen dev balığı yakalar. Gerekli ritüelleri gerçekleştirmesi için bir rahip (tohunga) bulmaya gittiğinde, kardeşleri gelip balığı parçalamaya başlamıştır; bu nedenle Aotearoa'nın bir balığın yanı gibi dümdüz bir ova değil de dağları ve vadileri vardır. Dünyayı değiştirmeye devam eder: insanlar için ateşi bulmak, ilk köpeği yaratmak ve bunun gibi şeyler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_3">
+			<Text>Son görevi, insanlık için ölümsüzlüğü kazanmaktı ve bunu yapmak için uzanmış bir tanrıçanın vücudunun içinden sürünerek geçmesi gerekiyordu. Hikâyeye göre bunu kimse ona gülmeden yapmalıydı. Eğer sonuna kadar geçebilirse tanrıça ölecek ve insanlık sonsuza dek yaşayacaktı. Arkadaşları, çeşit çeşit kuşlardan oluşan bir topluluk, ellerinden geleni yaptılar ama gülmekten kendilerini alamadılar; böylece Maui öldü ve biz de öleceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MAUI_CHAPTER_HISTORY_PARA_4">
+			<Text>Maui, Polinezya toplumlarının sömürgeciliğin ardından kendilerini yeniden tanımlamalarıyla birlikte Polinezya genelinde önemli bir figür olmaya devam etmektedir. Aotearoa, Hawaii, Tonga, Tahiti ve Samoa ile diğer yerlerde yerel mitlere ve geleneklere duyulan yeni saygı, Maui'nin hikâyesinin yeni anlatımları, mitine dair yeni yorumlar ve anlamlar anlamına gelmektedir.</Text>
+		</Row>
+		<!--Mulan-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_1">
+			<Text>6. yüzyıla ait Mulan Türküsü şu dizelerle başlar: "Bir iç çekişin ardından bir iç çekiş daha / Mulan kapı eşiğinde dokurken." Kızın ailesi, Çin'in Kuzey Wei hanedanını kuran göçebe bir Türk veya Moğol halkı olan Tuoba Kağanı'nın tebaasıdır ve yaşlı babası, Kağan'ın ordusunda savaşmak üzere askere alınmıştır. Mulan, babasının yerine askere yazılmaya karar verir; orduda, yoldaşları onun aslında bir kadın olduğunu asla anlamadan cesurca savaşır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_2">
+			<Text>En azından antik şiire göre hikâye budur. Ancak evlatlık vazifesi, sorumluluk ve cesaret efsanesi, sonraki anlatıcılara ilham vermiştir. Sui Tang Romanı, hikâyeyi Sui Hanedanı döneminde, Türkü'nün yazıldığı zamanlara ve bir savaş dönemine yerleştirir. Burada hikâyeye bir dizi yeni unsur eklenir. Mulan hâlâ bir Türk Kağanı'nın tebaasıdır ancak asi Dou Jiande tarafından esir alınır; burada Dou'nun kızıyla hemen arkadaş olur. Daha sonra, Dou, Çin imparatoruna karşı isyandan yargılanırken iki kadın kendi hayatlarını feda etmeyi teklif eder. İmparator, sadakatlerinden o kadar etkilenir ki Mulan'ın ailesini zengin çiftlik arazilerine yerleştirmeyi teklif eder; ancak Mulan eve döndüğünde babasının uzun süre önce öldüğünü ve annesinin yeniden evlendiğini öğrenir. Trajik bir şekilde Mulan intihar eder, en azından bu versiyonda.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_MULAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Mulan muhtemelen tarihsel bir figür değildi, ancak şöhreti tarihselliğine dayanmaz. Babasına olan bağlılığı ve onun uğruna hayatını riske atma isteğiyle, xiào - evlatlık vazifesi - yani kişinin anne babasına ve atalarına saygı ve hürmet göstermesi erdemini ve savaş alanındaki cesareti temsil eder.</Text>
+		</Row>
+		<!--Oya-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_1">
+			<Text>Fırtınalar Karayip ve Batı Afrika kıyılarını dövdüğünde, hortumlar bir köyü yerle bir ettiğinde, kasırgalar geldiğinde, Yoruba ve Yeni Dünya Afrika dinlerinin takipçileri bunun Oya'nın gücü olduğuna inanırlar. Batı Afrika'daki Yoruba halkı, dört yüz bir ayrı tanrıyı barındıran zengin bir dini geleneğe sahiptir. Yorubalar köleleştirilip Karayipler'deki kolonilere getirildiklerinde, gelenekleri Hristiyanlıkla kaynaşarak Haiti Vodun'u gibi yeni dinler oluşturmuştur. Afrika'da Oya bir orisha'dır, bir zamanlar insan olan (ya da bir ruh iken etten kemikten bedene bürünen) bir tanrıçadır. Adı kelimenin tam anlamıyla "yırttı" anlamına gelir ve bu nedenle değişim, rüzgarlar ve fırtınalar tanrıçası ile Nijer nehrinin hükümdarıdır. Haiti'de Oya, İrlandalı loa'ya (Haiti versiyonu orisha) Maman Brigette'ye dönüşür – ki o da Katolikler için Kildare'li Aziz Brigid'dir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_2">
+			<Text>Oya, gök gürültüsü tanrısı Shango'nun kız kardeş-eşidir ve geveze tanrının yanında kalan tek karısıydı. Savaşa gittiklerinde birlikte hareket ederler; Oya önce rüzgârı getirir, Shango da ardından yıldırımlarla gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_3">
+			<Text>İkisi zaman zaman birbiriyle de savaşırdı. Bir keresinde Oya'nın başında iki manda boynuzu vardı ve bir kavganın ortasında Şango'ya toslayarak onu yaralamak istedi. Şango karşılık vermedi; bunun yerine en sevdiği yiyeceği, akara'yı (fasulye köftesi) ona sundu. Oya o kadar mutlu oldu ki boynuzlarını ona teslim etti. Artık Şango başı belaya girdiğinde Oya'yı çağırmak için boynuzları birbirine vurması yeterlidir ve Oya, rüzgârın tüm gazabıyla gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_OYA_CHAPTER_HISTORY_PARA_4">
+			<Text>Oya, Afrika ve Karayipler'de hâlâ aktif olarak tapınılan bir tanrıçadır. Bir takipçisi transa geçip Oya'nın ruhu tarafından ele geçirildiğinde, aşırı gürültücü ve ağzı bozuk olmasıyla bilinir; ancak tıpkı rüzgâr gibi, sağlam kök salmış ne varsa sarsıp yerinden oynatacağının sözünü verir.</Text>
+		</Row>
+		<!--Sinbad-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_1">
+			<Text>Denizci Sinbad'ın hikâyesi, Binbir Gece Masalları'nın sonraki versiyonlarından gelir ve Arabistan'ın altın çağında, Harun Reşid'in hükümdarlığı döneminde geçer. Sinbad'ın öyküsü, cesareti, zekâsı ve cazibesi sayesinde giderek daha tehlikeli hâle gelen bir dizi yolculuktan sağ kurtulmasını anlatır. Sinbad hikâyelerinin yapısı basittir: Yelken açar, fantastik ve tehlikeli yaratıklar veya diğer düşmanlarla karşılaşır ve onları alt eder (ya da alt eder) ve zenginliklerle geri döner. İşe yarayan bir formüldür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_2">
+			<Text>Bir yolculuğunda Sinbad, aslında bir balina olan bir adaya düşer ve ardından elmaslarla dolu bir vadide yaşayan, akşam yemeği için dev yılanları avlayan dev bir anka kuşu tarafından kaçırılır. Diğer yolculuklarında Sinbad, kralları büyülemek, tek gözlü devlere karşı koymak ve köylülerinin tamamının uyuşturucu bir bitkiye bağımlı olduğu bir adada aklını korumak zorundadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_SINBAD_CHAPTER_HISTORY_PARA_3">
+			<Text>Bu hikâyelerden bazıları size biraz tanıdık geliyorsa yanılmıyorsunuz. Sinbad'ın öykülerinden bazıları, Odysseus'un yolculuklarından alınmıştır; örneğin Kiklop ve lotus yiyiciler gibi. Batı Avrupa, Karanlık Çağ'ın kaosuna gömülmüşken, Orta Doğu, Yunan ve Roma'dan gelen tüm bilgelik ve öğrenimin hazinesiydi ve İpek Yolu'nun ihtişamına bağlıydı. İpek Yolu da bir hikâye kaynağıydı: Anka kuşu ve yılan efsaneleri, Hint masallarındaki korkunç Garuda kuşu ile onun yılanımsı Naga avına çok benzer. Sinbad'ın yolculukları, işte bu yönüyle, dünyanın tam kalbindeki bir imparatorluğun zenginliğini ve hayal gücünü yansıtır.</Text>
+		</Row>
+		<!--Sun Wukong-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_1">
+			<Text>Çin efsanelerinin en bilinen ve en sevilen karakterlerinden biri olan Sun Wukong, yani Maymun Kral, etrafında dönen muazzam sayıda hikâyeye sahiptir. İlhamı çok çeşitli kaynaklardan gelir. Çin, M.S. 150 civarında Han Hanedanı döneminde Hindistan'dan Budizm'i ithal ettiğinde, yanında bir dizi Hint efsanesi de geldi; bunların arasında, en iyi yardımcı karakteri maymunların efendisi ve kahraman Rama'nın sadık yardımcısı Hanuman olan Ramayana da vardı. Maymunlar daha önceki Çin hanedanlarında zaten uğurlu hayvanlar olarak görüldüğünden, büyülü bir maymun kral fikri son derece popüler oldu ve kendine özgü bir hayat kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_2">
+			<Text>Sun Wukong, kahramanların en asili değildir. Zaman zaman bencil, zaman zaman öngörülemez ve her zaman yaramazdır. Ancak Loki gibi daha şeytani düzenbaz tanrıların aksine, Sun Wukong nihayetinde iyilik için bir güçtür... bir kere kontrol altına alınabildiğinde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_3">
+			<Text>Sun, Cennet'in tüm ordularından daha güçlüdür. Denizlerin ejderha kralından çaldığı silahları kullanır; bunların arasında o kadar ağır bir altın asa vardır ki onu başka hiçbir varlık kullanamaz, ancak o kadar küçülebilir ki Maymun Kral onu kulağında saklayabilir; ayrıca uçan çizmeler ve büyülü bir zırh da vardır. Bu hırsızlıklar nedeniyle ölüme mahkûm edildiğinde, Yaşam ve Ölüm Kitabı'nı çalar ve adını (bildiği tüm maymunların adlarını da) kitaptan siler. Böylece tüm tanrılar ve Cennet'in tüm orduları onu durduramayınca tanrılar, gücü her şeyden büyük olan Buda'ya başvurur ve Buda maymunu avucuna hapseder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_4">
+			<Text>Ancak Sun Wukong'un hikâyesi burada bitmez. Yüzyıllar sonra tanrıça Guan Yin, kahramanı, kutsal Budist sutralarını almak için Hindistan'a seyahat eden keşiş Tang Sanzang'ı koruması için görevlendirir. Onu kontrol etmek için Guan Yin, Sıkılaştırma Sutrası'nı okuduğunda acıyla sıkışan büyülü bir halka takması için onu kandırır – bazen Merhamet Tanrıçası'nın bile sert olması gerekir. Yolcular, Hindistan'a doğru ilerlerken canavarlar ve fantastik arazilerle karşılaşır; orada yaşayan Buda, kutsal metinleri keşişe teslim eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HERO_WUKONG_CHAPTER_HISTORY_PARA_5">
+			<Text>Sun Wukong, Çin medyasında popüler bir figür olmaya devam etmekte ve birçok filmin yıldızı olmuştur. Doğu Asya'da ve Güneydoğu Asya'daki Çin diasporasında da popülerdir.</Text>
+		</Row>
+		<!--Questing Knight-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Yuvarlak Masa Şövalyeleri, 12. yüzyıl ve sonrasındaki Fransız ve İngiliz efsanelerine göre Kral Arthur tarafından bir araya getirilmiş bir savaşçı grubuydu. Hem ortaçağ şövalye romanlarının hem de günümüz masallarının klasikleri olan bu hikâyeler, bu şövalyelerin kahramanlıklarına odaklanır. Klasik hikâyelerde, onların arayışları onurun savunulması veya Hristiyan dindarlığı etrafında dönerdi. Örneğin Gawain'in öyküsünde şövalyeye, Yuvarlak Masa'nın onuruyla alay eden tuhaf bir 'Yeşil Şövalye' meydan okur. Yeşil Şövalye, Gawain'in kafasını kesmesi karşılığında aynısının kendisine de yapılmasını kabul etmesi şartıyla ona meydan okur. Orkney'in uzak adalarından gelen kaba bir şövalye olan Gawain bunu kabul eder, ancak şaşkınlıkla görür ki Yeşil Şövalye kesik kafasını omuzlarına koyar ve ertesi yıl Gawain'i karşılayacağını duyurur. Bu elbette bir onur sınavıdır – Gawain, büyük olasılıkla ölümüne gideceği bu randevuya çıkacak mı, yoksa kanon dışı Sir Robin'in deyimiyle 'yiğitçe sıvışacak' mı? Gawain elbette sadık kalır ve Masa'nın onuru korunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_2">
+			<Text>En ünlü arayış elbette Kutsal Kase içindi; İsa Mesih çarmıhta ölürken kanını yakaladığı söylenen kâse (en azından 12. ve 13. yüzyılda Robert de Boron'un anlatımlarıyla başlayarak), ancak diğer anlatımlarda Kase, bir Komünyon ekmeği kabı veya Lucifer'in isyanı sırasında tarafsız kalan melekleri içeren bir taş olarak geçer.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_QUESTING_KNIGHT_CHAPTER_HISTORY_PARA_3">
+			<Text>En ünlü şövalyeler arasında saf Galahad, cesur Lancelot, kudretli Gawain ve 'Galahad sahneye çıkmadan önce saftı' denilen Percival bulunurken; Kay, Bedivere, Bors ve tabii ki 'Bu Oyunda Görünmeyen Efendi' de dâhil olmak üzere yüzlercesi daha vardır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

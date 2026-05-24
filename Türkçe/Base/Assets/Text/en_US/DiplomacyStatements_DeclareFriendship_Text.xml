@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>Dostluk teklifinizi memnuniyetle kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Kongo halkı adına dostluğunuzu ve iyi niyetinizi kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Dostluk teklifinizi kabul ediyorum. Elbette bir sonraki kraliyet düğününe davet edileceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Pekâlâ. Umarım bir Brütüs'ten ziyade bir Mark Antony olursunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Güçlü bir müttefik en büyük dosttur. Barış içinde yaşayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Dostluk teklifinizi kabul ediyorum. Barışla kutsanmış olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgameş dostluğunuzu kabul etmekten mutluluk duyar. Dünya bilsin ki siz benim yeminli dostumsunuz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sparta'nın iyi bir dostu olduğunuzu kanıtladınız. Halkım adına kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Dostlar mı? Evet, ben bir dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Sizde bir savaşçının huzurunu ve sükûnetini görüyor, bu dostluğu memnuniyetle karşılıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Dostluk teklifinizi memnuniyetle kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Demokrasi adına dostluğunuzu kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Teklifiniz nezaket dolu. Halkımın ve sizin halkınızın iyiliği için kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Tanrı tarafından kutsanmışsınız ve bana dostsunuz. Dünya bilsin ki O'nun kudretiyle korunuyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Orta Krallık'a layık bir dost olduğunuzu kanıtladınız, teklifinizi kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Artık ulusumun bir dostu olduğunuzu anlıyorum. Dostluğumuzu dünyaya ilan edelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Buna hayır diyemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Dostluğunuzu kabul edeceğim, ama güvenime ihanet etmeyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Bilinsin ki İmparatorluğunuz bizimkinin dostudur ve dostlukla birbirimize bağlanmışızdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Evet, bu bizi memnun ediyor. İki ulusumuz da dostluğumuzdan kesinlikle fayda görecektir.</Text>
+		</Row>
+
+		<!-- AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_ANY_ANY">
+			<Text>Şu an için buna ilgi duymuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Kongo, dostluğunuzu kabul etmeye henüz hazır değil. Evvela bağımız olgunlaşsın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Özür dilerim, bu çok ani bir değişim olurdu. Belki bir başka sefere?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ha! Yoldaşlarım arasında Sezarlar ve Firavunlar saymışken, seni buna layık kılan nedir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Hayır, dostluğunuzu kabul edemem; İmparatorluğun iyiliği için.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Üzgünüm, ancak sizinle bu anlaşmaya giremem. Lütfen anlayın, bu yalnızca hayırlısıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Gilgamiş sana dost değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sparta'nın dostluğuna ihtiyacı yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Hayır, Asgard'daki tüm hazineler için bile olmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Şogunluğun ve İmparator adına en doğrusu bu olduğundan reddetmek zorundayım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Şu an için buna ilgi duymuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Hayır, fiillerinizle ispatlayana ya da bizi başka türlü ikna edene dek dost olmayacağız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Reddetmeliyim. Eski bir dost, iki yenisinden iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Hayır, teklifinizi kabul etmiyorum. Siz bir günahkârsınız ve İspanya'nın dostu değilsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Henüz dostluğumuza layık değilsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Teklifiniz cömert ve nazikçedir, ancak niyetlerinizden emin olana dek alçakgönüllülükle reddetmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Şu an için buna ilgi duymuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Dostluğum kolay kazanılmaz. Önce güvenimi hak etmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Roma, Roma olarak kalmalı; kendisinden başka hiç kimsenin dostu olmamalı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Böyle bir taahhütte bulunmak için çok erken. Uygun zamanı geldiğinde tekrar değerlendiririz, elbette. Anlıyorsunuz, değil mi?</Text>
+		</Row>
+	
+		<!-- AI Requests friendship from human -->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_ANY_ANY">
+			<Text>Aramızdaki dostluğu resmen ilan etmek ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Size dostluk elimi uzatıyorum. Halklarımız, Tanrı'nın huzurunda kardeş olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Size dostluk adına kraliyet elimi uzatıyorum. Kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Birçokları dostluğum için öldürürdü. Bu cömert bir teklif ve onu size sunuyorum. Cevabınız nedir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Yine elimizi uzatıyoruz, ama bu kez dostluk için. Kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Sanırım liderlik bir zamanlar şiddet demekti; ama bugün insanlarla geçinmek anlamına geliyor. Öyleyse... dostluğumu kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Tüm dünya, dostlarıma karşı cömertliğimi bilir. Öyleyse düşman değil, dost olalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>İşte size Sparta'nın dostluğunu sunuyorum, kabul edecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Tüm seyahatlerimde, sizinle tanışana dek, benim kadar büyük biriyle hiç karşılaşmamıştım. Öyleyse dost olalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Uyumlu ve bilgesiniz. Bizi dost olarak kabul ederseniz, size sadakat ve onur sunuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Aramızdaki dostluğu resmen ilan etmek ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bir anlığına farklılıklarımızı bir kenara bırakalım, olmaz mı? Dostluk, ufak siyasetten daha önemlidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Size dostluğumu ve milletlerimiz arasında bir dostluğu sunmaktan onur duyuyorum. Kabul ediyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Rab'bin ışığındaki bilgeliği gördüğünüze inanıyorum. Dostluk içinde O'nun lütfunu paylaşalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Lütfen, dostluğunuza kendi dostluğumuzla karşılık vermemize izin verin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Kendinizi bilge ve adil bir lider olarak kanıtladınız. Dostluk teklifimi kabul eder misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Saygımı kazandınız. Dostluğumuzu ilan edelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Dostluk, milletler arasındaki en değerli şeydir. Buna sahip olalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Görkemli Roma, bir dostluk teklifi sunuyor. Kabul ediyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Sizi saygıdeğer bir dost olarak görmekten memnuniyet duyuyoruz. Umarız bu duygu karşılıklıdır...</Text>
+		</Row>
+
+		<!-- Human accepts AI requests, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Ne büyük bir mutluluk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Çok teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Nasıl teşekkür edebilirim?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Teşekkür ederim dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Teşekkür ederim dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Teşekkürler!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Teşekkür ederim dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Teşekkür ederim dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Harika.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Minnettarlığımı kabul edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Rab sizi kutsasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Minnettarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Allah sizi kutsasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Teşekkürlerimi sunarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Teşekkür ederim dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Çok teşekkürler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Son derece nazik ve ilgiliydiniz.</Text>
+		</Row>
+		
+		<!-- Human rejects AI requests, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ANY_ANY">
+			<Text>Bu talihsizlik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Bu talihsizlik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ne kadar talihsiz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Ne büyük bir yazık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Belki bir dahaki sefere, öyleyse.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Talihsiz bir dönemeç.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Akıllarınızı mı kaçırdınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Talihsizlik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Yazık...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Yazık…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Bu talihsizlik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bu talihsizlik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Aptalca, aptalca…</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Bu talihsizlik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY">
+			<Text>Kötü şans.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Söylediklerinize dikkat edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Bu çok kötü.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Tekrar düşünmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Ne yazık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Ne kadar talihsiz.</Text>
+		</Row>
+		
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_NEGATIVE">
+			<Text>Maalesef, şu an için resmî bir dostluğa bağlılık göstermemiz mümkün değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_POSITIVE">
+			<Text>Dünyaya, dostça bir birlik içinde olduğumuzu ilan etmekten büyük mutluluk duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_CHOICE_STOP_ASKING">
+			<Text>Hayır ve sormayı kes.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

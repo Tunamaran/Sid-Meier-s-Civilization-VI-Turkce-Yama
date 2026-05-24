@@ -1,0 +1,14 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+    <Row Tag="LOC_TUTORIAL_FIRST_TIME_DRAMATIC_AGES">
+      <Text>Dramatik Çağlar etkinleştirildiğinde, her Çağ'ın riskleri çok daha yüksektir! İlk Çağ hariç, her Çağ, uygarlığınızın Çağ Puanına bağlı olarak ya Altın ya da Karanlık olacaktır. Çağ Puanını, içinde bulunduğunuz Çağ'a veya daha sonraki bir çağa ait Teknolojileri ve Yönetim Bilimlerini tamamlayarak kazanırsınız. Bir Altın Çağ elde ederseniz, fazla Çağ Puanınız ek Bağlılık baskısına dönüşecektir. Bu, komşunuz bir Karanlık Çağ'a girdiyse önemli bir faktör olabilir. Ayrıca, hükümetinizdeki Joker Yuvası'nda kullanabileceğiniz güçlü Politika kartlarına erişim kazanırsınız ancak dikkatli olun – bir Karanlık Çağ'a girmek, şehirlerinizden bazılarının isyan edeceği anlamına gelir!</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_GOLDEN_AGE">
+      <Text>Bir Altın Çağ'a girdiniz! Artık hükümetinizdeki Joker Yuvası'nda kullanabileceğiniz Altın Politikalara erişiminiz var. Ayrıca, önceki Çağ'dan kalan fazla Çağ Puanı, artırılmış Bağlılık baskısına dönüştürüldü – şimdi onu kullanma zamanı!</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_DRAMATIC_AGES_FIRST_DARK_AGE">
+      <Text>Uygarlığınız bir Karanlık Çağ'a girdi. Şehirlerinizden bazıları isyan ederek Özgür Şehirlere katıldı – bunlar size düşman olacak! Teselli olarak, artık durumu tersine çevirmeyi deneyebileceğiniz Karanlık Politikalara erişiminiz var.</Text>
+    </Row>
+  </EnglishText>
+</GameData>

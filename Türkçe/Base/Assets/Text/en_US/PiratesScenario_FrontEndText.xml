@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- Pirates Main Menu Multiplayer Buttons -->
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES">
+			<Text>Korsan Oyna</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_OFFLINE">
+			<Text>[ICON_CheckFail]Korsan Oyna</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_NEW_MODE">
+			<Text>[ICON_Exclamation]Korsan Oyna</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_TT">
+			<Text>Otomatik olarak bir Korsan oyunu bulup katılın.[NEWLINE][NEWLINE]Korsanlığın Altın Çağı'nda açık denizleri yağmalayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_PIRATES_OFFLINE_TT">
+			<Text>Steam çevrimdışıyken Çok Oyunculu Korsan oyunu mevcut değildir.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_PIRATES">
+			<Text>Korsan Nasıl Oynanır</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_PIRATES_TT">
+			<Text>Korsan hakkında kısa bir eğitime göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_PIRATES_NEW_MODE_TT">
+			<Text>Yeni Korsan modu mevcut!</Text>
+		</Row>
+		
+		<!-- Pirates How to Play -->
+		<Row Tag="LOC_PIRATES_INTRO_NEXT">
+			<Text>İleri</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_INTRO_PREVIOUS">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_INTRO_PLAY">
+			<Text>Korsan Oyna</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_INTRO_BODY">
+			<Text>Korsan, 1-4 oyuncu için tasarlanmış, Korsanlık Çağı'nı konu alan hızlı tempolu 60 turluk bir senaryodur. Amaç, tur sınırına kadar en yüksek Kötü Şöhret'e ulaşmaktır. Oyun, tarihi bir Karayipler haritasında veya rastgele oluşturulan Korsan Adaları'nda oynanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_INTRO_DETAILS">
+			<Text>Korsanların şehirlere ihtiyacı yoktur. Denize dayanıklı bir amiral gemisiyle başlar ve zamanla ek gemiler çalarsınız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_CREW_BODY">
+			<Text>Donanma ne kadar büyükse, yağma da o kadar büyük olur. Hasar görmüş düşman gemilerini ele geçirmek ve bunları büyüyen korsan imparatorluğunuza katmak için Mürettebat kullanın. Mürettebat ayrıca, gizli hazineleri aramak ve gömmek için Kıyı Ekipleri göndermek amacıyla da kullanılabilir. Mürettebatı, geminiz bir limanın şehir merkezine bitişikken Meyhane Ziyaret Et birim eylemini kullanarak toplarsınız. Meyhaneler ayrıca her ziyaretinizde size yeni bir hazine haritası sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_CREW_DETAILS">
+			<Text>Dikkat! Korsan yoldaşlarınız kâr ve macera talep eder. Filonuzdaki her gemi için tur başına altın kaybedersiniz. Altın hazineleri çok uzun süre boş kalırsa gemileriniz isyan eder.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_TREASURE_BODY">
+			<Text>Hazine, bir korsanın hayatının temel taşıdır. Hazine sandıkları denizde yüzerken veya karaya gömülü halde bulunabilir. Hazineyi gömerek altınınızı Kötü Şöhret'e dönüştürebilirsiniz. Hazine sandıkları altın ve Korsan Kutsal Emanetleri içerir. Hazinenizi iyi saklayın, zira diğer korsanlar altınınızı ve Kötü Şöhret'inizi çalmayı hedefler.[NEWLINE][NEWLINE]Korsan Kutsal Emanetleri, özel oyun etkilerine ve bonuslara sahip güçlü eserlerdir. Kutsal Emanetler bazen hazine sandıklarında, hazine gemilerinde ve meyhane ziyaretleri sırasında bulunabilir. Aynı anda üç kutsal emanet donatabilir ve istediğiniz zaman değiştirebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_TREASURE_DETAILS">
+			<Text>Hazine Filoları zaman zaman Avrupa'ya yelken açar. Hazine Filoları, bol miktarda altın ve kutsal emanetle seyahat eder ancak sıkı bir şekilde korunurlar.[NEWLINE][NEWLINE]Tarihteki Kötü Şöhretli Korsanlar da dostane olmayan denizlerde yelken açar. Onları batırarak kendi Kötü Şöhret'inizi artırabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PIRATES_SCORING_BODY">
+			<Text>Kötü Şöhret üç kategoride puanlanır:[NEWLINE]Hazine; Kötü Şöhretli Korsan; ve Dövüş.[NEWLINE][NEWLINE]Hazine[NEWLINE][ICON_Bullet]+30 - Bir hazine sandığını göm[NEWLINE][ICON_Bullet]+20 - Bir hazine gemisini batır[NEWLINE][ICON_Bullet]+5 - Bir hazine sandığını yağmala[NEWLINE][ICON_Bullet]+2 - Bir bina veya bölgeyi yağmala[NEWLINE][ICON_Bullet]+1 - Bir ticaret yolunu yağmala[NEWLINE][ICON_Bullet]+1 - Bir iyileştirmeyi yağmala[NEWLINE][ICON_Bullet][NEWLINE][NEWLINE]Kötü Şöhretli Korsan[NEWLINE][ICON_Bullet]+15 - Bir limanı yağmala[NEWLINE][ICON_Bullet]+20-50 - Bir kötü şöhretli korsanı batır[NEWLINE][ICON_Bullet]+5 - Bir korsan kalesini temizle[NEWLINE][NEWLINE]Dövüş[NEWLINE][ICON_Bullet]+10 - Bir korsan oyuncusunun birliğini yok et veya ele geçir[NEWLINE][ICON_Bullet]+5 - Bir sömürge birliğini yok et veya ele geçir[NEWLINE][ICON_Bullet]+5 - Bir korsan birliğini yok et veya ele geçir[NEWLINE][ICON_Bullet]+1 - Çatışmadan sağ çık</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

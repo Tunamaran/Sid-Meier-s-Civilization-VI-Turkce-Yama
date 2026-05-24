@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GREAT_NEGOTIATORS_MOD_TITLE">
+			<Text>Büyük Müzakereciler Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_NEGOTIATORS_MOD_TEASER">
+			<Text>Yeni Alternatif Liderler – Amerika'dan Abraham Lincoln, Kongo'dan Nzinga Mbande ve Arabistan'dan Selahaddin (Sultan)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_NEGOTIATORS_MOD_DESCRIPTION">
+			<Text>Bu paket; mevcut uygarlıklar için 3 yeni alternatif lider içerir. Abraham Lincoln, Nzinga Mbande ve Selahaddin (Sultan)'ı kapsar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

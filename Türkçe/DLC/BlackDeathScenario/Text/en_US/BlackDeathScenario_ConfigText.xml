@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Shell -->
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_NAME">
+			<Text>Kara Veba</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_BLACKDEATH_SCENARIO">
+			<Text>Kara Veba, 14. yüzyılın ortalarında Avrupa ve Batı Asya'yı kasıp kavurarak dünya tarihindeki hiçbir olayın görmediği kadar büyük bir nüfus kaybına yol açtı. Bu salgın milyonlarca insanı öldürdü, ekonomileri çökertti, siyasi hanedanları altüst etti ve Batı dünyasının çehresini kökten değiştirdi.[NEWLINE][NEWLINE]Görevin, ulusunu bu felaketin içinden geçirerek hayatta tutmak: dehşet ve çaresizlikle dolu bir dünyada halkını yaşatmak, ekonomini ayakta tutmak ve inancını sarsılmaz kılmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_PLAGUE_DEATHS">
+			<Text>Veba Ölümleri</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_PLAGUE_DEATHS">
+			<Text>Şehirlerdeki Veba Ölümleri</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS">
+			<Text>En Yüksek Şehir Ölüm Oranı</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} ölüm;other?{Amount} ölüm;}</Text>
+		</Row>
+		<!-- Misc -->
+		<Row Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_NAME">
+			<Text>Kara Veba Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TEXT">
+			<Text>Vebanın karanlık günlerinden sağ çıktın ve daha güçlü, daha aydınlanmış bir şekilde doğdun. Elde ettiğin teknolojik ve toplumsal ilerlemeler, yüzyıllar boyunca Avrupa'nın refahına ışık tutacak!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TT">
+			<Text>Senaryo bitmeden İcat Teknolojisi veya Orta Sınıf Sosyal Politikası'nın kilidini açarsan bu zaferi kazanırsın.</Text>
+		</Row>
+		<!-- Map -->
+		<Row Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_NAME">
+			<Text>Orta Çağ Avrupası</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>14. yüzyılın ortalarındaki görünümüyle Batı Avrupa'yı betimleyen küçük bir harita.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME">
+			<Text>Töton Şövalyesi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION">
+			<Text>Kutsal Roma Cermen İmparatorluğu'nun Kılıçlı Adam'ın yerine geçen eşsiz birimi. [ICON_Gold] Altın bakım maliyeti yok. Düşman topraklarında savaşırken +8 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<!-- France -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_FRANCE_NAME">
+			<Text>Kral VI. Philip</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_NAME">
+			<Text>Fransa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_DESCRIPTION">
+			<Text>Fransa Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ADJECTIVE">
+			<Text>Fransız</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_NAME">
+			<Text>Papalık Liderliği</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_DESCRIPTION">
+			<Text>Fransa'nın hükümeti özel bir 'Papalık Politikası' joker yuvası kazanır. Bu yuva isteğe bağlıdır ancak kullanılırsa tur başına [ICON_Faith] İnanç tüketir.</Text>
+		</Row>
+		<!-- England -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_ENGLAND_NAME">
+			<Text>Kral III. Edward</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_NAME">
+			<Text>İngiltere</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_DESCRIPTION">
+			<Text>İngiltere Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ADJECTIVE">
+			<Text>İngiliz</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_NAME">
+			<Text>İşgücü Zorlaması</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_DESCRIPTION">
+			<Text>Tüm İngiliz şehirleri 'Cebri Kullanım' emrini kazanır: [ICON_Gold] Altın harcayarak vebadan etkilenmiş bir bölgenin 10 tur boyunca çalışmasını, iyileştirilmesini veya inşa edilmesini sağlar.</Text>
+		</Row>
+		<!-- Holy Roman Empire -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME">
+			<Text>İmparator IV. Ludwig</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME">
+			<Text>Kutsal Roma İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_DESCRIPTION">
+			<Text>Kutsal Roma İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ADJECTIVE">
+			<Text>İmparatorluk</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_NAME">
+			<Text>Töton Tarikatı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_DESCRIPTION">
+			<Text>Töton Şövalyesi eşsiz birimi Kılıçlıların yerini alır. Töton Şövalyelerinin [ICON_Gold] Altın bakım maliyeti yoktur ve düşman topraklarında savaşırken +8 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<!-- Castile -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_CASTILE_NAME">
+			<Text>XI. Alfonso</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_NAME">
+			<Text>Kastilya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_DESCRIPTION">
+			<Text>Kastilya Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ADJECTIVE">
+			<Text>Kastilya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_NAME">
+			<Text>İnanç Kılıcı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_DESCRIPTION">
+			<Text>Tüm Kastilya birlikleri 'Kutsal Coşku' birim komutunu kazanır: turda bir kez, birim [ICON_Faith] İnanç harcayarak hareket ve saldırılarını yenileyebilir.</Text>
+		</Row>
+		<!-- City-States -->
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_NAME">
+			<Text>Braga</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_DESCRIPTION">
+			<Text>Braga Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_NAME">
+			<Text>Lizbon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_DESCRIPTION">
+			<Text>Lizbon Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_NAME">
+			<Text>Faro</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_DESCRIPTION">
+			<Text>Faro Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_NAME">
+			<Text>Pamplona</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_DESCRIPTION">
+			<Text>Pamplona Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_NAME">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_DESCRIPTION">
+			<Text>Valencia Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_NAME">
+			<Text>Barselona</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_DESCRIPTION">
+			<Text>Barselona Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_NAME">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_DESCRIPTION">
+			<Text>Granada Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_NAME">
+			<Text>Palma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_NAME">
+			<Text>Cork</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_NAME">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_NAME">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_NAME">
+			<Text>Marsilya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_NAME">
+			<Text>Cenevre</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_NAME">
+			<Text>Milano</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_NAME">
+			<Text>Cenova</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_NAME">
+			<Text>Venedik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_NAME">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_NAME">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_NAME">
+			<Text>Napoli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_NAME">
+			<Text>Kopenhag</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_NAME">
+			<Text>Alborg</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_NAME">
+			<Text>Stokholm</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_NAME">
+			<Text>Kalmar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_NAME">
+			<Text>Oslo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_NAME">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_NAME">
+			<Text>Split</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_NAME">
+			<Text>Dubrovnik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_NAME">
+			<Text>Zagreb</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_NAME">
+			<Text>Prag</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_NAME">
+			<Text>Viyana</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_NAME">
+			<Text>Szczecin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_NAME">
+			<Text>Gdansk</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_DESCRIPTION">
+			<Text>Palma Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_DESCRIPTION">
+			<Text>Cork Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_DESCRIPTION">
+			<Text>Aberdeen Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_DESCRIPTION">
+			<Text>Edinburgh Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_DESCRIPTION">
+			<Text>Marsilya Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_DESCRIPTION">
+			<Text>Cenevre Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_DESCRIPTION">
+			<Text>Milano Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_DESCRIPTION">
+			<Text>Cenova Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_DESCRIPTION">
+			<Text>Venedik Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_DESCRIPTION">
+			<Text>Pisa Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_DESCRIPTION">
+			<Text>Roma Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_DESCRIPTION">
+			<Text>Napoli Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_DESCRIPTION">
+			<Text>Kopenhag Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_DESCRIPTION">
+			<Text>Alborg Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_DESCRIPTION">
+			<Text>Stokholm Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_DESCRIPTION">
+			<Text>Kalmar Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_DESCRIPTION">
+			<Text>Oslo Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_DESCRIPTION">
+			<Text>Stavanger Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_DESCRIPTION">
+			<Text>Split Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_DESCRIPTION">
+			<Text>Dubrovnik Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_DESCRIPTION">
+			<Text>Zagreb Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_DESCRIPTION">
+			<Text>Prag Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_DESCRIPTION">
+			<Text>Viyana Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_DESCRIPTION">
+			<Text>Szczecin Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_DESCRIPTION">
+			<Text>Gdansk Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CITY_STATE_NAME">
+			<Text>Şehir Devleti Lideri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE">
+			<Text>Veba</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE_HELP">
+			<Text>Veba merceğini açar/kapatır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

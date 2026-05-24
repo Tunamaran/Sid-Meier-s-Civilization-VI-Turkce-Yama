@@ -1,0 +1,65 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+			<Text>Avustralya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+			<Text>Aşağıdaki Diyar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Konut kıyı şehirlerinde. Meralar bir Kültür Bombası tetikler. Kampüs, Ticaret Merkezi, Kutsal Alan ve Tiyatro Meydanı getirileri, Çekiciliği Büyüleyici olan bölgelerde +1, Nefes Kesen olanlarda +3'tür.</Text>
+		</Row>
+		<!-- Feature Info -->
+		<Row Tag="LOC_FEATURE_ULURU_NAME">
+			<Text>Uluru</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ULURU_DESCRIPTION">
+			<Text>Tek bölgeli, geçilemez bir doğa harikası. Komşu bölgelere +2 [ICON_CULTURE] Kültür ve +2 [ICON_FAITH] İnanç sağlar. Komşu bölgelere normal +2 yerine +4 Çekicilik sağlar.</Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+			<Text>Taşra İstasyonu</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+			<Text>İşçi'nin Avustralya'ya özgü bir Taşra İstasyonu inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Besin ve +1 [ICON_PRODUCTION] Üretim. Her komşu Mera için +1 [ICON_FOOD] Besin. Teknoloji ve Yönetim Bilimleri Ağacı'nda ilerledikçe komşu Taşra İstasyonları ve Meralardan ek [ICON_FOOD] Besin ve [ICON_PRODUCTION] Üretim. Yalnızca Çöl, Çöl Tepeleri, Çayır ve Ova bölgelerine inşa edilebilir.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_JOHN_CURTIN_NAME">
+			<Text>John Curtin</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JOHN_CURTIN">
+			<Text>Başbakan Curtin, Avustralya'yı zorluk üstüne zorluktan geçirecek ve halkınız bundan daha da güçlenerek çıkacaktır. Başkaları gücünüzden ötürü dostluğunuzu arayacak. Bu dostlar sadık kalırsa, kudretiniz ve korumanız sizi çok ileriye taşıyacak. Ancak tetikte olun, çünkü saldırganlık sizin doğal yolunuz değildir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_NAME">
+			<Text>Uygarlığın Kalesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION">
+			<Text>+100% [ICON_Production] Üretim, eğer son 10 tur içinde savaş ilanı almışlarsa veya son 20 tur içinde bir şehri kurtarmışlarsa.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_DIGGER_NAME">
+			<Text>Kazmacı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+			<Text>Avustralya'ya özgü, Modern Çağ'da Piyade'nin yerini alan eşsiz birlik. Kıyı bölgelerinde savaşırken +10 [ICON_Strength] Muharebe Gücü. Tarafsız veya Yabancı Topraklarda savaşırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_NAME">
+			<Text>Kazmacı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Muharebe Gücü, Kıyı bölgelerinde savaşırken. +5 [ICON_Strength] Muharebe Gücü, Tarafsız veya Yabancı Topraklarda savaşırken.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü Kıyı bölgelerinde</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü Dost Bölge dışında</Text>
+		</Row>
+		<!-- XP2-->
+		<Row Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_EXPANSION2_DESCRIPTION">
+			<Text>+100% [ICON_PRODUCTION] Üretim, eğer son 10 tur içinde savaş ilanı almış veya bir şehri kurtarmışlarsa.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

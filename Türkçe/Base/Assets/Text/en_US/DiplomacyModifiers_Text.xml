@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- TEMPORARY KLUDGE: DO NOT USE ".", "'", or "-" punctuation in this file until DiplomacyActionView.lua has been updated to have a more robust string parsing algorithm! -->
+		<!-- Standard modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLY">
+			<Text>Müttefik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEMAND">
+			<Text>Onlara bir talepte bulunduk</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_JOINT_WAR">
+			<Text>Birlikte ortak bir savaş yürüttük</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
+			<Text>Dinî şehirlerinden birini dönüştürdük</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_CULTURE_BOMBED">
+      <Text>Şehirlerinden birine kültür bombası uyguladık</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED">
+			<Text>Şehirlerinden birini işgal ediyoruz</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_OCCUPIED_FRIEND">
+			<Text>Bir dostlarına veya müttefiklerine ait bir şehri işgal ediyoruz</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_CITY">
+			<Text>Bir şehir kurtardık</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LIBERATED_MY_CITY">
+			<Text>Şehirlerinden birini kurtardık</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_RAZED_MY_CITY">
+			<Text>Şehirlerinden birini yerle bir ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>Bir dosta sürpriz savaş ilan ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_FRIEND">
+			<Text>Bir dostu kınadık</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_FRIEND">
+			<Text>Bir dosta dostluk ilan ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_FRIEND">
+			<Text>Bir dosta ittifak ilan ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_SURPRISE_WAR_ON_ENEMY">
+			<Text>Bir düşmana sürpriz savaş ilan ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_ENEMY">
+			<Text>Bir düşmanı kınadık</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>Bir düşmana dostluk ilan ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_ALLIED_WITH_ENEMY">
+			<Text>Bir düşmana ittifak ilan ettik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DECLARED_FRIEND">
+			<Text>Dostluk İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT">
+			<Text>Savunma Paktı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DELEGATION">
+			<Text>Onlara bir heyet gönderdik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED">
+			<Text>Onları kınadık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_HAD_FRIENDLY_MEETING">
+			<Text>Dostça görüşme.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NEAR_BORDER_WARNING">
+			<Text>Sınırlarında birliklerimiz vardı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SETTLED_NEAR_BORDER_WARNING">
+			<Text>Sınırlarına çok yakın bir yere yerleştik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_RELIGION">
+			<Text>Bizim dinimizi takip ediyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_STOP_SPYING_ON_ME_WARNING">
+			<Text>Onları casusluk yaparken yakalandık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_STOP_DIGGING_UP_ARTIFACTS_WARNING">
+			<Text>Topraklarında tarihi eser kazarken yakalandık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PROMISE">
+			<Text>Onlara verdiğimiz diplomatik sözü bozduk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CLOSE_TO_VICTORY">
+			<Text>Kazanıyoruz. Bizden korkuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PROMISE">
+			<Text>Onlara verdiğimiz diplomatik sözü tuttuk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NO_PROMISE">
+			<Text>Onlara diplomatik bir söz vermemeye karar verdik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
+			<Text>Açık Sınırlar</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_GAVE_OPEN_BORDERS">
+      <Text>Açık sınırlar verdiniz.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_RECEIVED_OPEN_BORDERS">
+      <Text>Açık sınırlar aldınız.</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
+			<Text>Orada bir daimi büyükelçilik kurduk.</Text>
+		</Row>
+		<!-- Historical agenda modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DECLARED_FRIEND">
+			<Text>Gılgamış, Dostluk Bildirisi yapılanları sever.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>Gılgamış, arkadaşlarını kınamandan nefret eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_FRIEND">
+			<Text>Tomris, Dostluk Bildirisi yapılanları sever.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>Tomris, sürpriz savaş ilan edenlerden hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LAGGING">
+			<Text>Pedro, büyük şahsiyetlerinin olmamasından memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_OBSESSED_LEADING">
+			<Text>Pedro, ondan daha fazla büyük şahsiyete sahip olmandan rahatsız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LAGGING">
+			<Text>Peter, az bilim ve kültüre sahip olmandan hayal kırıklığına uğramış.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WESTERNIZER_LEADING">
+			<Text>Peter, bilim ve kültür seviyenden memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_OR_ON_IT">
+			<Text>Gorgo, ya savaşmanı görmek istiyor ya da barış için para ödediğini biliyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_NEVER_WARRED">
+			<Text>Gorgo savaşmanı görmek istiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WITH_SHIELD_PAID_FOR_PEACE">
+			<Text>Gorgo barış için para ödediğini biliyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LAGGING">
+			<Text>Qin, harikalarının olmamasından memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_OBSESSED_LEADING">
+			<Text>Qin, ondan daha fazla harikaya sahip olmandan rahatsız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_NOT_WARMONGER">
+			<Text>Gandhi, barışı koruduğun için memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_PEACEKEEPER_WARMONGER">
+			<Text>Gandhi, savaş kışkırtıcılığından rahatsız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_SAME">
+			<Text>Philip, aynı dini paylaşmandan mutlu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_COUNTER_REFORMER_ENCROACHING">
+			<Text>Philip, dininin imparatorluğunda yayılmasına öfkelenmiş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DELIAN_NOT_COMPETING">
+			<Text>Perikles, şehir devletleri üzerinde rekabet etmemeni olumlu karşılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DELIAN_COMPETING">
+			<Text>Perikles, onun şehir devletlerini kendine çekmene kızgın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DISCIPLE_RECEIVED">
+			<Text>Mvemba, dinini ona getirdiğin için çok mutlu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DISCIPLE_NOT_RECEIVED">
+			<Text>Mvemba, dininin topraklarında olmamasından hayal kırıklığına uğramış.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_NOT_INVOLVED">
+			<Text>Barbarossa, şehir devletlerinden uzak durmandan memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CROWN_INVOLVED">
+			<Text>Barbarossa, şehir devletlerini kontrol etmene öfkelenmiş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUN_SETS_HOME_CONTINENT">
+			<Text>Victoria, aynı kendi kıtasını paylaşmandan memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SUN_SETS_NEW_CONTINENT">
+			<Text>Victoria, hakimiyetiniz altındaki bir kıtaya yayılma niyetindedir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_ATTACKED">
+			<Text>Teddy, kendi kıtasında bulunan uygarlıklara yapılan saldırılardan nefret eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BIG_STICK_CONTINENT_PEACEFUL">
+			<Text>Teddy, kendi kıtasındaki barışçıl uygarlıkları takdir eder.</Text>
+		</Row>
+		<!-- Random agendas -->
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LAGGING">
+			<Text>Büyük şahsiyetlerinizin olmayışından memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_GREAT_PEOPLE_ADVOCATE_LEADING">
+			<Text>Daha fazla büyük şahsiyete sahip olmanızdan rahatsızlık duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LAGGING">
+			<Text>Harika eserlerinizin olmayışından memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_WONDER_ADVOCATE_LEADING">
+			<Text>Daha fazla harikaya sahip olmanızdan rahatsızlık duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_STATE_NOT_COMPETING">
+			<Text>Şehir devletleri üzerinde rekabet etmediğiniz için memnunlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_STATE_COMPETING">
+			<Text>Şehir devletlerini kendi safınıza çekmenize öfke duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CULTURE">
+			<Text>Yüksek kültürlü başka bir uygarlık görmekten memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_CULTURE">
+			<Text>Düşük kültür düzeyine sahip uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INDUSTRY">
+			<Text>Çalışkan başka bir uygarlık görmekten memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INDUSTRY">
+			<Text>Düşük üretkenlik gösteren uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_STANDING_ARMY">
+			<Text>Büyük bir düzenli orduya sahip başka bir uygarlık görmekten memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_STANDING_ARMY">
+			<Text>Küçük bir düzenli orduya sahip uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_SCIENCE">
+			<Text>Bilimsel başka bir uygarlık görmekten memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_SCIENCE">
+			<Text>Düşük bilim üretimine sahip uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_HAPPINESS">
+			<Text>Mutlu vatandaşlara sahip bir uygarlık görmekten memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_HAPPINESS">
+			<Text>Mutsuz halka sahip uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_INCOME">
+			<Text>Yüksek gelirli bir uygarlık görmekten memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_INCOME">
+			<Text>Düşük gelirli uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_POPULATION">
+			<Text>Yüksek nüfusa sahip bir uygarlık görmekten memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_POPULATION">
+			<Text>Düşük nüfuslu uygarlıklardan hoşlanmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENJOYS_WAR">
+			<Text>Savaşan ve zafere ulaşanlardan hoşlanırlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ATTACKS_BARBARIANS">
+			<Text>Barbar kamplarını temizlemenizden memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_IGNORES_BARBARIANS">
+			<Text>Barbarları temizlemeyen uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_ENVIRONMENT">
+			<Text>Doğal dünyaya olan muamelenizi izlemektedirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPLOITATION">
+			<Text>Topraklarınızı geliştirme konusundaki ilerlemenizi takip etmektedirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SAME_GOVERNMENT">
+			<Text>Halkınızı kendileriyle aynı yöntemle yönetmenizden memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_DIFFERENT_GOVERNMENT">
+			<Text>Yönetim tarzınızdan hoşlanmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_NUKE_LOVE">
+			<Text>Nükleer silahların zamanı ve yeri olduğu konusunda hemfikirdirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_NUKE_LOVE">
+			<Text>Nükleer silah inşa etmeyen uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAITH">
+			<Text>Dindar bir başka uygarlık görmekten memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAITH">
+			<Text>Düşük inanca sahip uygarlıklardan hoşlanmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_EXPLORATION">
+			<Text>Kendilerinden daha iyi kâşif olan uygarlıkları hoş karşılamazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_EXPLORATION">
+			<Text>Diğerlerinin dünya keşfini onlara bırakmasından memnun olurlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_AIRPOWER">
+			<Text>Güçlü bir hava kuvvetine sahip bir uygarlık görmekten memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_AIRPOWER">
+			<Text>Zayıf bir hava kuvvetine sahip uygarlıklardan hoşlanmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_PROTECTION">
+			<Text>Birçok şehir devletini koruduğunuzu görmekten büyük memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_PROTECTION">
+			<Text>Şehir devletlerini koruduğunuzu görmekten memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MED_CITY_STATE_AGGRESSION">
+			<Text>Şehir devletlerine karşı bir nebze saldırgan olan uygarlıklardan hoşlanmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_CITY_STATE_AGGRESSION">
+			<Text>Şehir devletlerine karşı oldukça saldırgan olan uygarlıklara şiddetle karşı çıkarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_COMPETING">
+			<Text>Daha fazla harikaya sahip olmandan rahatsızlık duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_WONDERS_NOT_COMPETING">
+			<Text>Harikalarının azlığından memnundurlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_COMPETING">
+			<Text>Daha fazla büyük şahsiyete sahip olmandan rahatsızlık duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_PEOPLE_NOT_COMPETING">
+			<Text>Büyük şahsiyetlerinin azlığından memnundurlar.</Text>
+		</Row>
+		<!-- Future modifiers (not yet implemented)-->
+		<Row Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_POSITIVE">
+			<Text>Dostlarıyla ticaret yapıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_THIRD_PARTY_TRADE_NEGATIVE">
+			<Text>Düşmanlarıyla ticaret yapıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_FRIENDS">
+			<Text>Dostlarıyla dostluk içindeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DOF_WITH_THEIR_ENEMIES">
+			<Text>Düşmanlarıyla dostluk içindeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_FRIENDS">
+			<Text>Dostlarıyla müttefikiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIED_WITH_THEIR_ENEMIES">
+			<Text>Düşmanlarıyla müttefikiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_FRIENDS">
+			<Text>Dostlarıyla savunma paktımız bulunuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DEFENSIVE_PACT_WITH_THEIR_ENEMIES">
+			<Text>Düşmanlarıyla savunma paktımız bulunuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_ENEMIES">
+			<Text>Düşmanlarını kınadık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DENOUNCED_THEIR_FRIENDS">
+			<Text>Dostlarını kınadık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_UNWANTED_RELIGION">
+			<Text>Onları dinimize döndürmeye çalışıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ALLIANCE_BROKEN">
+			<Text>İttifakımızı bozduk.</Text>
+		</Row>
+    <!-- Non-leader specific versions of modifiers (to use in scenarios, etc.) -->
+    <Row Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_ATTACKED">
+      <Text>Kıtalarındaki uygarlıklara yapılan saldırıları nefretle karşılarlar.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_MODIFIER_GENERIC_BIG_STICK_CONTINENT_PEACEFUL">
+      <Text>Kıtalarındaki barışçıl uygarlıkları severler.</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

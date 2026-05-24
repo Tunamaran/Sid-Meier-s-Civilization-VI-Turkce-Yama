@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lady Six Sky-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Tanrı'nın ışığı altında halklarımız birlikte güçlenecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Affet beni. Etiyopya, yabancılarla acele anlaşmalar yaparak bu kadar uzun süre özgür kalmadı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Sana Süleyman soyunun ve Yahuda Aslanı'nın dostluğunu teklif ediyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Tarihin doğru tarafındasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Tarihin yanlış tarafındasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Yahuda Aslanı'nın her zaman zafere ulaştığını bilmez misin? Pekala, yakında öğreneceksin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Yaptıkların Etiyopya halkına hakarettir ve bunun için ağır bir bedel ödemelisin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Heyetin döndüğünde onlarla konuş, sana Afrika'nın Çatısı'nın güzelliğini anlatacaklar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Hiçbirine ihtiyacımız yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Etiyopya, sana kahve, enjera ekmeği ve sıcak dileklerini gönderiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Saltanatın bir rezalet, sözlerin yalan ve ben dünyaya senin hain yüreğini göstereceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Tüm sözlerin dinsiz mi? Tüm eylemlerin hilekar mı? Saltanatında kurtarıcı hiçbir şey görmüyorum. (Seni kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MENELIK_ANY">
+			<Text>Ben Menelik, Yahuda Aslanı, Süleyman'ın evi ve soyundan, Etiyopya İmparatoru. Selamlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MENELIK_ANY">
+			<Text>Geniş bir sofra kurduk, üzerinde enjera, tibs ve kitfo var. Bizimle bir yemek paylaşır mısın?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MENELIK_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MENELIK_ANY">
+			<Text>Dostluk ruhuyla, sana yurdumdan bahsedeceğim, eğer sen de bu iyiliğin karşılığını verirsen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MENELIK_ANY">
+			<Text>Seni yeniden görmekten memnuniyet duyuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MENELIK_ANY">
+			<Text>Düz arazide rahat etmenden memnunum, çünkü tepeler benimdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MENELIK_ANY">
+			<Text>Yüksek tepeler hak ve gelenek gereği benimdir. Başka bir yere yerleşsen iyi edersin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Bu özgürlük şarkılarını söylememe yardım etmez misin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MENELIK_ANY">
+			<Text>Tanrı’nın lütfuyla barışa erelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MENELIK_ANY">
+			<Text>Etiyopya yenilmezdir ve askerleri hâlâ savaşa susamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Bu savaş iki halkımızı da yaralıyor. Son verelim buna.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Etiyopya topraklarında özgürce dolaşın. Ama aslanlara dikkat edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_MENELIK_ANY">
+			<Text>Biz bağımsız ve özgürüz. Ve size hayır diyebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Birliklerimizin topraklarınızın ötesinde işleri var. Geçmelerine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MENELIK_ANY">
+			<Text>Beni korkutabileceğini mi sanıyorsun? Birliklerini derhal uzaklaştır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_MENELIK_ANY">
+			<Text>Güçlerim bulundukları yerde haklı bir sebeple duruyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_MENELIK_ANY">
+			<Text>Dostlar birbirlerinin sınırlarında silahlı birlik bulundurmaz. Birliklerimi geri çekeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Tanrı’nın Etiyopya’yı terk ettiğini mi sanıyorsun? Onun lütfunun senin üzerinde olduğunu mu? Bugünkü zaferinle böbürlenme.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Bu zavallı teklifi gözümün önünden kaldır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_MENELIK_ANY">
+			<Text>Adil bir takas ikimize de fayda sağlayacaktır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

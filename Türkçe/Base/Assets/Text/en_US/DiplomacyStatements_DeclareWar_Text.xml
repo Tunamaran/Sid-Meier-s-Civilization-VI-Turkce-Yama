@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Human Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_ANY_ANY">
+			<Text>Bu ne cüret! Değer verdiğin her şey kül olacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Savaş bizim için yabancı değildir. Tanrı'nın yolundan saptın, şimdi bunu düzelteceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Egemen topraklarıma saldırmaya cüret mi ediyorsun? Nostradamus'un bile bunu öngörebileceğine inanmıyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Ha! Osiris düşmanlarımı ağırlamaktan memnun olacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Senden on kat daha güçlü düşmanları yendim. Tarihçiler için sadece bir başka satır olacaksın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Şiddetten kaçınma çabalarım başarısız oldu. Göze göz, dünyayı kör eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Halkının yok oluşuna tanıklık ederken son nefesini duymaktan zevk alacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Bilmiyor olmalısın: Spartalılar ya kalkanlarıyla döner ya da üzerinde.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Bu muhteşem bir destan olacak! Şairler benim cesaretimi söyleyecek!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>İlahi Rüzgar bizi koruyacak ve sen de diğerleri gibi düşeceksin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Bunun senin için ne kadar sonuçsuz olacağını görebiliyorsun, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Askerler ağaçlara benzemez. Yok edildiklerinde yerleri kolay kolay doldurulmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Savaşın umutsuz. Tarihten ders almadın. Rusya'yı fethetmek imkansız. Kılıçla yaşayan, kılıçla ölür!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Ordunun, armadamla... imparatorluğumun gücüyle boy ölçüşebileceğini mi sanıyorsun? Acı bir yanılgı içindesin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Savaş istedin, sana onu vereceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Kan dökmeyi alışkanlık haline getirmemen konusunda seni uyarıyorum. Kan asla uyumaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Doğruluk ile barış arasında seçim yapmam gerekirse, doğruluğu seçerim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Tomris'in güvenine ihanet ettin ve şimdi bedelini ödeyeceksin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Kibrin senin sonun olacak. Hiçbir güç Roma'yı yenemez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Savaş mı? Hiç eğlenmedik.</Text>
+		</Row>
+		<!-- AI Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_ANY_ANY">
+			<Text>Sende istediğim şey var ve ben istediğimi alırım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Gerçekten bu kadar kolay tepeleyebileceğinizi mi sanıyorsunuz? Buna izin vermeyeceğim. Ne Kongo'ya... ne de halkıma!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Dostluk rolü oynamak eğlenceliydi, değil mi? Ne yazık ki ikiyüzlülüğe son verip asıl işe girişme vakti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Senden bıktım artık. Tanrı Amun-Re bize yol göstersin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Bilinsin ki: sen Almanya'nın düşmanısın ve yok edilmelisin. Tanrı sana merhamet etsin, çünkü ben etmeyeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Bu savaşa ahlakımdan ödün vermeden girebilirim. Nasıl olduğunu sormayın; anlamazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Neden savaşıyorum? Savaşabildiğim için... ve İnanna bunu emrettiği için. Şimdi Sümer'in gücünü tadacaksın!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Şimdi gücünüzü sınayacağız! Kendinizi hazırlayın!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Şimdi kaçamayacağınız bir fırtına kopuyor. Tek umudunuz hızlı bir ölüm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HOJO_ANY">
+			<Text>İmparatorluğun senin varlığına daha fazla katlanmasına izin vermeyeceğim. Bu komediyi sona erdirmenin zamanı geldi!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Bunu yapmak zorundayım, başka bir şey için değilse bile ilerleme adına. Karşında durulmalısın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bu daha büyük bir iyilik için. Zamanla anlayacaksın...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Seni Rusya'nın, müttefiklerimizin ve Tanrı'nın düşmanı ilan ediyorum; Tanrı ruhuna merhamet etsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Krallığıma ve Tanrı'nın krallığına karşı günah işledin... günahlarının hesabını vermelisin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY">
+			<Text>Sen bir kötülük tohumusun. Yok edilmelisin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Şiddete başvurmak zorunda kalmamız ne yazık; kralların kralları öldürmesi adet değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Biliyorsun, bundan kaçınmak isterdim ama senin barış anlayışın bana başka seçenek bırakmadı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>İmparatoriçe senin kelleni istiyor. Kendi kanında boğulacaksın!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Kendinizi savaşa hazırlayın. Ordularımız hiçbir şeyden yılmayacak; donanmalarımız, Roma'nın ihtişamı için kıyılarınızı kuşatacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>İtirazlarımızın boşa olduğu anlaşıldığından, işbu vesileyle savaş ilan ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_NEGATIVE">
+			<Text>Bunun bedelini zamanla ödeyeceksin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_CHOICE_POSITIVE">
+			<Text>Çok yazık. Dost olduğumuzu sanıyordum.</Text>
+		</Row>
+		<!-- Reasons - specialized per war type -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_SURPRISE_WAR">
+			<Text>(Size karşı bir Sürpriz Savaş ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_FORMAL_WAR">
+			<Text>(Size karşı bir Resmî Savaş ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_HOLY_WAR">
+			<Text>(Size karşı bir Kutsal Savaş ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_RECONQUEST_WAR">
+			<Text>(Size karşı bir Yeniden Fetih Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_LIBERATION_WAR">
+			<Text>(Size karşı bir Kurtuluş Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_PROTECTORATE_WAR">
+			<Text>(Size karşı bir Koruma Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_COLONIAL_WAR">
+			<Text>(Size karşı bir Sömürge Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
+			<Text>(Toprak Genişletme Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_FORMAL_WAR">
+			<Text>(Size karşı ortak bir Resmî Savaş ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_HOLY_WAR">
+			<Text>(Size karşı ortak bir Kutsal Savaş ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_RECONQUEST_WAR">
+			<Text>(Size karşı ortak bir Yeniden Fetih Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_LIBERATION_WAR">
+			<Text>(Size karşı ortak bir Kurtuluş Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_PROTECTORATE_WAR">
+			<Text>(Size karşı ortak bir Koruma Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_COLONIAL_WAR">
+			<Text>(Size karşı ortak bir Sömürge Savaşı ilan eder)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_TERRITORIAL_WAR">
+			<Text>(Ortak bir Toprak Genişletme Savaşı ilan eder)</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

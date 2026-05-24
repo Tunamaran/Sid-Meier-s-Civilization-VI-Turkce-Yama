@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CITY_MAKE_RANGED_ATTACK">
+			<Text>Şehrinle saldırıya geç!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT">
+			<Text>Savunma sırasında, {2_UnitName} biriminiz ({5_Num} hasar) {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} birimini yok etti!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOU_KILLED_ENEMY_UNIT_DEFENDING_CITY">
+			<Text>Savunma sırasında, {2_CityName} şehriniz ({5_Num} hasar) {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} birimini yok etti!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_CITY_WAS_CAPTURED">
+			<Text>{1_CityName} şehriniz düşman bir {2_UnitName} tarafından ele geçirildi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_CITY">
+			<Text>{1_UnitName} biriminiz ({2_Num} hasar) düşmanın {3_CityName} şehrini ele geçirdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_CAPTURED_ENEMY_UNIT">
+			<Text>{1_UnitName} biriminiz bir düşman {2_UnitName} birimini ele geçirdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_CAPTURED_BY_ENEMY_UNIT">
+			<Text>{1_UnitName} biriminiz düşman bir {2_UnitName} tarafından ele geçirildi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DESTROYED_ENEMY">
+			<Text>{1_UnitName} biriminiz ({2_Num} hasar) bir düşman {3_UnitName} birimini yok etti!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_ANTI_AIR">
+			<Text>Saldıran {1_UnitName} biriminiz düşman {2_EnUName} tarafından yok edildi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_INTERCEPTED">
+			<Text>Saldıran {1_UnitName} biriminiz, düşman {2_EnUName}'un ({3_Num} hasar) önlemesi sonucu yok edildi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING">
+			<Text>{1_UnitName} biriminiz, düşman bir {2_EnUName} birimine ({3_Num} hasar) saldırırken can verdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_ATTACKING_CITY">
+			<Text>{1_UnitName} biriminiz, düşmanın {2_EnUName} şehrine ({3_Num} hasar) saldırırken yok oldu!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_ANTI_AIR">
+			<Text>Saldıran {2_UnitName} biriminiz ({3_Num} hasar), {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} tarafından hasar aldı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_INTERCEPTED">
+			<Text>Saldıran {2_UnitName} biriminiz ({3_Num} hasar), {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} hasar) tarafından önlendi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW">
+			<Text>{1_UnitName} biriminiz ({2_Num} hasar), bir düşman {3_EnUName} birimine ({4_Num} hasar) saldırdı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WITHDREW_CITY">
+			<Text>{1_UnitName} biriminiz ({2_Num} hasar), düşmanın {3_CityName} şehrine ({4_Num} hasar) saldırdı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_FRIENDLY_UNIT_WITHDREW">
+			<Text>{1_UnitName} birimimiz, düşman yakın dövüş saldırısından çekildi.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW">
+			<Text>{1_UnitName} biriminiz ({2_Num} hasar), düşman bir {3_EnUName} ({4_Num} hasar) tarafından saldırıya uğradı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_UNIT_WITHDREW_INTERCEPTING">
+			<Text>{1_UnitName} biriminiz ({2_Num} hasar), düşman bir {3_EnUName} birimini ({4_Num} hasar) önledi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_INTERCEPTING">
+			<Text>Önleme yaparken, {2_UnitName} biriminiz, {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} hasar) tarafından yok edildi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
+			<Text>Savunma sırasında, {2_UnitName} biriminiz, {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} tarafından yok edildi! ({5_Num} hasar)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimini tarayarak {3_Num} hasar verdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBED_ENEMY">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimini bombalayarak {3_Num} hasar verdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_STRAFED_BY_ENEMY">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimi tarafından taranarak {3_Num} hasar aldı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimine hasar verdi! ({3_Num} hasar)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimini bombardıman ederek {3_Num} hasar verdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimi tarafından bombardıman edilerek {3_Num} hasar aldı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_WMD_SUCCEEDED">
+			<Text>{1_UnitName} biriminizin WMD saldırısı başarılı oldu!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_WMD_FAILED_HIGH_DAMAGE">
+			<Text>{1_UnitName} biriminizin WMD saldırısı, yüksek hasar nedeniyle başarısız oldu.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_WMD_SUCCEEDED">
+			<Text>{LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} biriminin WMD saldırısını durdurmayı başaramadınız!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ENEMY_WMD_FAILED_HIGH_DAMAGE">
+			<Text>Düşman {LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} biriminin WMD saldırısını {3_Num} hasar vererek başarıyla durdurdunuz!</Text>
+		</Row>
+		<Row Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
+			<Text>Savunma sırasında, {1_UnitName} biriminiz, gizlenmiş bir {2_EnUName} tarafından yok edildi! ({3_Num} hasar)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_Name} hedefine saldırarak {3_Num} hasar verdi!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
+			<Text>{1_Name} bölgeniz, bir düşman {2_EnUName} tarafından saldırıya uğrayarak {3_Num} hasar aldı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
+			<Text>{1_UnitName} biriminiz, bir düşman {2_Name} bölgesine saldırdı ({3_Num} {2_Name} hasarı, {4_Num} savunma hasarı)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
+			<Text>{1_Name} bölgeniz, bir düşman {2_EnUName} tarafından saldırıya uğradı ({3_Num} {2_Name} hasarı, {4_Num} savunma hasarı)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
+			<Text>{1_Name} bölgesi, bir düşman {2_EnUName} birimini bombardıman etti! ({3_Damage} hasar)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_BOMBARDED_ENEMY">
+			<Text>{1_Name} bölgesi, bir düşman {2_EnUName} birimini bombardıman etti! ({3_Damage} hasar)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_YOUR_UNIT_WAS_BOMBARDED_BY_ENEMY_DISTRICT">
+			<Text>{1_Name} biriminiz, bir düşman {2_EnUName} tarafından bombardıman edilerek {3_Num} hasar aldı!</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_ICBM_DESTROYED">
+			<Text>ICBM önlendi ve yok edildi.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_UNIT_HEALED">
+			<Text>Yağmalamalarınızdan elde ettiğiniz ganimet, {1_Name} biriminizi iyileştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_CULTURE">
+			<Text>Yağmalamalarınız sayesinde {1_Num} [ICON_Culture] Kültür ganimeti elde ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_FAITH">
+			<Text>Yağmalamalarınız sayesinde {1_Num} [ICON_Faith] İnanç ganimeti elde ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_GOLD">
+			<Text>Yağmalamalarınız sayesinde {1_Num} [ICON_Gold] Altın ganimeti elde ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PLUNDER_SCIENCE">
+			<Text>Yağmalamalarınız sayesinde {1_Num} [ICON_Science] Bilim ganimeti elde ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_KILL_CULTURE">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH_PLUS">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_FAITH_MINUS">
+			<Text>[COLOR_RED]-{1_Num} {2_Religion}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_GOLD">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_SCIENCE">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_KILL_GREATPERSON_BONUS">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} {2_GreatPerson} Puanı[ENDCOLOR]</Text>
+		</Row>
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] Sağlık</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_GARRISON_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] Sağlık</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR] Savunma</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_DISTRICT_DEFENSE_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR] Savunma</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_HEADER">
+			<Text>ŞEHİR ELE GEÇİRİLDİ</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_TRADED">
+			<Text>ŞEHİR TESLİM ALINDI</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_NAME_LABEL">
+			<Text>Şehir Adı:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_POPULATION_LABEL">
+			<Text>Nüfus:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_DISTRICTS_LABEL">
+			<Text>Mevcut Bölge Sayısı:</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<Text>Bir şehri kurtarmak, onu önceki sahiplerinden birine iade edecek ve muhtemelen o uygarlığı tekrar oyuna dahil edecektir.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+			<Text>Bir şehri kurtarmak, daha önce kazanılan savaş kışkırtıcılığı cezalarında [COLOR_MEDIUM_GREEN]CİDDİ BİR AZALMA[ENDCOLOR] sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION">
+			<Text>Şimdilik bu şehri imparatorluğunuzda tutun. Barış masasında savaş sonrası mülkiyeti tartışılana kadar daha az üretken, işgal altındaki bir şehir olacaktır.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
+			<Text>Bu şehri imparatorluğunuzda tutun.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+			<Text>Bu şehri tutmanın savaş kışkırtıcılığı cezası: {1_WarmongerLevel}[NEWLINE][NEWLINE]Cezanın süresi, savaşın sonunda şehri tutup tutmamanıza bağlı olarak ya iade edilecek ya da ikiye katlanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Bir oyuncunun son şehrini tutmanın savaş kışkırtıcılığı cezası, bu çağ için Sürpriz Savaş cezasına dayanır. Bu değer, bu şehri ele geçirmek büyük bir uygarlığı (bir şehir devleti değil) ortadan kaldırıyorsa [COLOR_RED]İKİYE KATLANIR[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_EXPLANATION">
+			<Text>Şehri yerle bir ederek onu ve tüm bölgelerini ve binalarını haritadan silin. Bu seçenek, şehrin fethedildiği turda seçilmelidir.[NEWLINE][NEWLINE]{1_WarmongerInfo}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+			<Text>[COLOR_RED]Bir şehri yerle bir etmek size ciddi bir Savaş Kışkırtıcılığı cezası verebilir![ENDCOLOR] [NEWLINE][NEWLINE]Bu şehri yerle bir etmenin savaş kışkırtıcılığı cezası: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>Bir oyuncunun son şehrini yerle bir ettiğinizde, savaş kışkırtıcılığı cezası bu çağ için Resmî Savaş cezasının [COLOR_RED]ÜÇ KATI[ENDCOLOR] olur.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_DISABLED_EXPLANATION">
+			<Text>Büyük bir uygarlığın orijinal başkentini veya sizin ya da bir müttefikinizin bu savaşın başında kurduğu veya sahip olduğu bir şehri yerle bir edemezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_FOUNDER_BUTTON_LABEL">
+			<Text>Kurucusuna Kurtar ({1_CivName})</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_PREWAR_OWNER_BUTTON_LABEL">
+			<Text>Savaş Öncesi Sahibine Kurtar ({1_CivName})</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_KEEP_BUTTON_LABEL">
+			<Text>Şehri Tut</Text>
+		</Row>
+		<Row Tag="LOC_RAZE_CITY_RAZE_BUTTON_LABEL">
+			<Text>Şehri Yerle Bir Et</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

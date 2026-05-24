@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_GREETING_MVEMBA_ANY">
+			<Text>Bereketler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Her zamanki gibi bir zevk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY">
+			<Text>Benimle konuşmak mı istiyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_BARBAROSSA_ANY">
+			<Text>Ne istiyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GANDHI_ANY">
+			<Text>Barış sizinle olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GILGAMESH_ANY">
+			<Text>Başlayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GORGO_ANY">
+			<Text>Selamlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HARDRADA_ANY">
+			<Text>Konuş!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HOJO_ANY">
+			<Text>Hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PEDRO_ANY">
+			<Text>Benden ne dilersiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PERICLES_ANY">
+			<Text>Nasılsınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PETER_GREAT_ANY">
+			<Text>Size iyi günler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_PHILIP_II_ANY">
+			<Text>Bir zevk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_QIN_ANY">
+			<Text>Bereket üzerinize olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SALADIN_ANY">
+			<Text>İyi misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_T_ROOSEVELT_ANY">
+			<Text>Pekâlâ, devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TOMYRIS_ANY">
+			<Text>Benden ne dilersiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TRAJAN_ANY">
+			<Text>Sağlık olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_VICTORIA_ANY">
+			<Text>Sizi memnuniyetle karşılıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_ANY_ANY">
+			<Text>Benden ne dilersiniz?</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

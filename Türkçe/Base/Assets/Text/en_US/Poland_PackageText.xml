@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+    <Row Tag="LOC_POLAND_JADWIGA_MOD_TITLE">
+      <Text>Polonya Uygarlık Paketi</Text>
+    </Row>
+    <Row Tag="LOC_POLAND_JADWIGA_MOD_TEASER">
+      <Text>Yeni Uygarlık ve Lider - Polonya Kraliçesi Jadwiga</Text>
+    </Row>
+    <Row Tag="LOC_POLAND_JADWIGA_MOD_DESCRIPTION">
+      <Text>Yeni bir uygarlık ve lider içerir.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_POLAND_SCENARIO_TITLE">
+      <Text>Senaryo: Jadwiga'nın Mirası</Text>
+    </Row>
+    <Row Tag="LOC_MOD_POLAND_SCENARIO_TEASER">
+      <Text>Diğer iki oyuncuyla birlikte savaşarak Polonya'yı dış istilalardan koruyun.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_POLAND_SCENARIO_DESCRIPTION">
+      <Text>Bu 60 turluk senaryoda, Avrupa'nın kavşağında duruyor, her yönden gelen amansız istilacı dalgalarına karşı bereketli Polonya topraklarını koruyorsunuz. Kanatlı Süvarilerinizi toplayın ve uygarlığınızı büyütürken Töton Şövalyeleri ile Osmanlı Türklerine karşı savaşın.[NEWLINE][NEWLINE]Oyun sonunda standart puanlamaya göre en iyi imparatorluğa sahip oyuncu kazanır.</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

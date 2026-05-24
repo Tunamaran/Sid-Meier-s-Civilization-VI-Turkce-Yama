@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Promotion Class Names -->
+		<Row Tag="LOC_PROMOTION_CLASS_RECON_NAME">
+			<Text>Keşif</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MELEE_NAME">
+			<Text>Yakın Dövüş</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_RANGED_NAME">
+			<Text>Menzilli</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SIEGE_NAME">
+			<Text>Kuşatma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_ANTI_CAVALRY_NAME">
+			<Text>Süvari Karşıtı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_LIGHT_CAVALRY_NAME">
+			<Text>Hafif Süvari</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_HEAVY_CAVALRY_NAME">
+			<Text>Ağır Süvari</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_FIGHTER_NAME">
+			<Text>Avcı Uçağı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_AIR_BOMBER_NAME">
+			<Text>Bombardıman Uçağı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_MELEE_NAME">
+			<Text>Deniz Yakın Dövüş</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RANGED_NAME">
+			<Text>Deniz Menzilli</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_CARRIER_NAME">
+			<Text>Uçak Gemisi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_NAVAL_RAIDER_NAME">
+			<Text>Deniz Akıncısı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_APOSTLE_NAME">
+			<Text>Dinî Havari</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_INQUISITOR_NAME">
+			<Text>Dinî Engizisyoncu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SUPPORT_NAME">
+			<Text>Destek</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_SPY_NAME">
+			<Text>Casusluk</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLASS_MONK_NAME">
+			<Text>Savaşçı Keşiş</Text>
+		</Row>
+		<!-- Formation Class Names -->
+		<Row Tag="LOC_FORMATION_CLASS_AIR_NAME">
+			<Text>Hava Muharebesi</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_CIVILIAN_NAME">
+			<Text>Sivil</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_LAND_COMBAT_NAME">
+			<Text>Kara Muharebesi</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_NAVAL_NAME">
+			<Text>Deniz Muharebesi</Text>
+		</Row>
+		<Row Tag="LOC_FORMATION_CLASS_SUPPORT_NAME">
+			<Text>Destek</Text>
+		</Row>
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_FAITH_DECREASE_FLOATER">
+			<Text>{1_Num} [ICON_Faith] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<!-- Damage Message -->
+		<Row Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_DAMAGE_INCREASE_FLOATER">
+			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+		</Row>
+		<!-- Experience Message -->
+		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_EXPERIENCE_INCREASE_LEVEL_FLOATER">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num}XP[NEWLINE]*TERFİ MÜMKÜN*[ENDCOLOR]</Text>
+		</Row>
+		<!-- Production Yield Message -->
+		<Row Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num} [ICON_Production][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_PRODUCTION]{1_Num}[ICON_Production][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<!-- Food Yield Message -->
+		<Row Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} [ICON_Food][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_FOOD]{1_Num} [ICON_Food][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<!-- Gold Yield Message -->
+		<Row Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<!-- Science Yield Message -->
+		<Row Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<!-- Culture Yield Message -->
+		<Row Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]KAYBEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<!-- Civilian-->
+		<Row Tag="LOC_UNIT_SETTLER_DESCRIPTION">
+			<Text>Yeni şehirler kurabilir. Tamamlandığında şehrin [ICON_Citizen] Nüfusunu 1 azaltır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BUILDER_DESCRIPTION">
+			<Text>Arazi iyileştirmeleri inşa edebilir, Orman veya Yağmur Ormanı gibi özellikleri kaldırabilir veya bazı kaynakları hasat edebilir. İşçiler 3 kez kullanılabilir. Bu sayı, politikalar veya Piramitler gibi harikalar aracılığıyla artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRADER_DESCRIPTION">
+			<Text>Tek bir [ICON_TradeRoute] Ticaret Yolu oluşturabilir ve sürdürebilir. Seyahat ederken otomatik olarak Yollar inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSIONARY_DESCRIPTION">
+			<Text>[ICON_Citizen] Vatandaşları kendi Dinine döndürebilir. Diğer Dinlerin birimleriyle teolojik muharebe başlatamaz (ancak savunma yapabilir).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_APOSTLE_DESCRIPTION">
+			<Text>[ICON_Citizen] Vatandaşları kendi Dinine döndürebilir ve diğer Dinlerin birimleriyle teolojik muharebe başlatabilir. Oyunda bir kez Engizisyon Başlatarak Engizisyoncuların satın alınmasını sağlayabilir. Oyunda bir kez İnancı Yayarak dinine ek bir İnanç ekleyebilir. Bu kullanımlar Havari'yi tüketir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INQUISITOR_DESCRIPTION">
+			<Text>Kendi topraklarındaki diğer Dinlerin varlığını yok edebilir ve diğer Dinlerin birimleriyle teolojik muharebe başlatabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GURU_DESCRIPTION">
+			<Text>Bir kullanım hakkıyla kendini ve tüm bitişik dost dinî birimleri iyileştirebilir. Diğer Dinlerin birimleriyle teolojik muharebe başlatamaz (ancak savunma yapabilir).</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_WARRIOR_MONK_DESCRIPTION">
+			<Text>Eşsiz bir terfi ağacına sahip, hızlı hareket eden kara muharebe birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHAEOLOGIST_DESCRIPTION">
+			<Text>[ICON_RESOURCE_ANTIQUITY_SITE] Antik Sit Alanlarından [ICON_GreatWork_Artifact] Eserler bulup çıkarır ve bunların ana şehrindeki Müzede sergilenmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPY_DESCRIPTION">
+			<Text>Yabancı şehirlerde gizli görevler yürütür ve şehirlerinizi düşman Casuslarına karşı korur.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NATURALIST_DESCRIPTION">
+			<Text>Oyunun geç safhalarında ortaya çıkan, [ICON_Tourism] Turist çekmek için tek bir Milli Park oluşturabilen bir sivil birimdir. [ICON_Faith] İnanç ile satın alınmalıdır.</Text>
+		</Row>
+		<!-- Great People-->
+		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
+			<Text>Her [ICON_GreatGeneral] Büyük General, pasif bir etki ve bir Emeklilik etkisi dahil olmak üzere benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
+			<Text>Her [ICON_GreatAdmiral] Büyük Amiral, pasif bir etki ve bir Emeklilik etkisi dahil olmak üzere benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
+			<Text>Her [ICON_GreatEngineer] Büyük Mühendis, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
+			<Text>Her [ICON_GreatMerchant] Büyük Tüccar, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
+			<Text>Büyük [ICON_GreatProphet] Peygamberler, etkinleştirildiklerinde bir Din kurabilirler. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
+			<Text>Her [ICON_GreatScientist] Büyük Bilim İnsanı, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
+			<Text>Her [ICON_GreatWriter] Büyük Yazar, etkinleştirildiğinde bir [ICON_GreatWork_Writing] Yazın Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
+			<Text>Her [ICON_GreatArtist] Büyük Sanatçı, etkinleştirildiğinde bir [ICON_GreatWork_Landscape] Sanat Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
+			<Text>Her [ICON_GreatMusician] Büyük Müzisyen, etkinleştirildiğinde bir [ICON_GreatWork_Music] Müzik Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+		</Row>
+		<!-- Recon-->
+		<Row Tag="LOC_UNIT_SCOUT_DESCRIPTION">
+			<Text>Antik Çağ'da kullanılan, hızlı hareket eden bir keşif birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RANGER_DESCRIPTION">
+			<Text>Sanayi Çağı'nın hızlı hareket eden keşif birliği.</Text>
+		</Row>
+		<!-- Melee-->
+		<Row Tag="LOC_UNIT_WARRIOR_DESCRIPTION">
+			<Text>Antik Çağ'ın zayıf yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPEARMAN_DESCRIPTION">
+			<Text>Antik Çağ'ın süvari karşıtı birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SWORDSMAN_DESCRIPTION">
+			<Text>Klasik Çağ'ın güçlü yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKEMAN_DESCRIPTION">
+			<Text>Orta Çağ'ın süvari karşıtı birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MUSKETMAN_DESCRIPTION">
+			<Text>Rönesans döneminin yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INFANTRY_DESCRIPTION">
+			<Text>Modern Çağ'ın yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MECHANIZED_INFANTRY_DESCRIPTION">
+			<Text>Bilgi Çağı'nın yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AT_CREW_DESCRIPTION">
+			<Text>Modern Çağ'da süvari sınıfı birimlere karşı etkili birlik.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_AT_DESCRIPTION">
+			<Text>Bilgi Çağı'nda süvari sınıfı birimlere karşı etkili birlik.</Text>
+		</Row>
+		<!-- Ranged-->
+		<Row Tag="LOC_UNIT_SLINGER_DESCRIPTION">
+			<Text>Antik Çağ'ın zayıf menzilli birliği. Savunmadan ziyade saldırıda daha etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARCHER_DESCRIPTION">
+			<Text>2 [ICON_Range] menzile sahip ilk Antik Çağ menzilli birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CROSSBOWMAN_DESCRIPTION">
+			<Text>Orta Çağ'ın menzilli birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIELD_CANNON_DESCRIPTION">
+			<Text>Sanayi Çağı'nın menzilli birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACHINE_GUN_DESCRIPTION">
+			<Text>Atom Çağı'nın menzilli birliği.</Text>
+		</Row>
+		<!-- Light Cavalry-->
+		<Row Tag="LOC_UNIT_HORSEMAN_DESCRIPTION">
+			<Text>Klasik Çağ'ın hızlı hareket eden hafif süvari birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAVALRY_DESCRIPTION">
+			<Text>Sanayi Çağı'nın hızlı hareket eden hafif süvari birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HELICOPTER_DESCRIPTION">
+			<Text>Atom Çağı'nın hızlı hareket eden hafif süvari birliği.</Text>
+		</Row>
+		<!-- Siege-->
+		<Row Tag="LOC_UNIT_CATAPULT_DESCRIPTION">
+			<Text>Klasik Çağ'ın kuşatma birliği. Şehirlere saldırmak için idealdir. Uzman Mürettebat terfisini kazanmadıkça aynı turda hem hareket edip hem saldıramaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBARD_DESCRIPTION">
+			<Text>Rönesans döneminin kuşatma birliği. Şehirlere saldırmak için idealdir. Uzman Mürettebat terfisini kazanmadıkça aynı turda hem hareket edip hem saldıramaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARTILLERY_DESCRIPTION">
+			<Text>Modern çağın kuşatma birliği, şehirlere saldırmak için idealdir. Uzman Mürettebat terfisini kazanmadıkları sürece aynı turda hareket edip saldıramazlar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCKET_ARTILLERY_DESCRIPTION">
+			<Text>Bilgi çağının kuşatma birliği, şehirlere saldırmak için idealdir. Uzman Mürettebat terfisini kazanmadıkları sürece aynı turda hareket edip saldıramazlar.</Text>
+		</Row>
+		<!-- Support-->
+		<Row Tag="LOC_UNIT_BATTERING_RAM_DESCRIPTION">
+			<Text>Antik çağın destek birimi. Bir şehrin yanındayken, saldıran yakın dövüş birimleri şehrin surlarına tam hasar verir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_DESCRIPTION">
+			<Text>Klasik çağın destek birimi. Bir şehrin yanındayken, saldıran yakın dövüş birimleri surları yok sayar ve doğrudan şehre saldırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDIC_DESCRIPTION">
+			<Text>Sanayi çağının destek birimi. Yanındaki birimleri iyileştirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_OBSERVATION_BALLOON_DESCRIPTION">
+			<Text>Modern çağın destek birimi. 1 hücre yakınındaki Kuşatma sınıfı birimlere +1 [ICON_Range] Menzil sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Orta çağın destek birimi. Üretmek için bir Cephanelik gerektirir. Yollar, Kaleler, Hava Pistleri ve Füze Silosu iyileştirmeleri inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ANTIAIR_GUN_DESCRIPTION">
+			<Text>Atom çağının hava savunma destek birimi. Silahın 1 hücre yakınına kadar hava saldırılarına karşı koruma sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBILE_SAM_DESCRIPTION">
+			<Text>Bilgi çağının hava savunma destek birimi. Silahın 1 hücre yakınına kadar hava ve nükleer saldırılara karşı koruma sağlar.</Text>
+		</Row>
+		<!-- Heavy Cavalry -->
+		<Row Tag="LOC_UNIT_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>Antik çağın ağır darbeler vuran ağır süvari birimi. Turuna Orman, Yağmur Ormanı veya Tepe bulunmayan düz bir bölgede başlarsa 1 bonus [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KNIGHT_DESCRIPTION">
+			<Text>Orta çağın ağır darbeler vuran ağır süvari birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODERN_ARMOR_DESCRIPTION">
+			<Text>Hızlı ve güçlü, bilgi çağının ağır süvari birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TANK_DESCRIPTION">
+			<Text>Modern çağın kontrol bölgesini yok sayan süratli ağır süvari birimi.</Text>
+		</Row>
+		<!--Naval-->
+		<Row Tag="LOC_UNIT_GALLEY_DESCRIPTION">
+			<Text>Antik çağın yakın dövüş deniz savaş birimi. Haritacılık araştırılana kadar yalnızca Kıyı sularında hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_QUADRIREME_DESCRIPTION">
+			<Text>Klasik çağın menzilli deniz birimi. Haritacılık araştırılana kadar yalnızca Kıyı sularında hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CARAVEL_DESCRIPTION">
+			<Text>Rönesans çağının süratli keşif yakın dövüş deniz birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_IRONCLAD_DESCRIPTION">
+			<Text>Sanayi çağının güçlü zırhlı yakın dövüş deniz birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUCLEAR_SUBMARINE_DESCRIPTION">
+			<Text>Yüksek teknoloji ürünü, bilgi çağının nükleer silahlarla donatılabilen menzilli akın deniz birimi. Yanında olunmadığı sürece yalnızca diğer Deniz Akıncıları tarafından görülebilir. Görüş menzilindeki Deniz Akıncılarını ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUBMARINE_DESCRIPTION">
+			<Text>Modern çağın menzilli akın deniz birimi. Yanında olunmadığı sürece yalnızca diğer Deniz Akıncıları tarafından görülebilir. Görüş menzilindeki Deniz Akıncılarını ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRIVATEER_DESCRIPTION">
+			<Text>Rönesans çağının kıyı baskını yapabilen menzilli deniz birimi. Yanında olunmadığı sürece yalnızca diğer Deniz Akıncıları tarafından görülebilir. Görüş menzilindeki Deniz Akıncılarını ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRIGATE_DESCRIPTION">
+			<Text>Rönesans Çağı menzilli deniz birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+			<Text>Atom Çağı yakın dövüş deniz birliği, hava birliklerini taşıyabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
+			<Text>Modern Çağ deniz menzilli birliği. 1 bölgeye kadar olan hava ve nükleer saldırılara karşı koruma sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
+			<Text>En güçlü menzilli deniz birliği, Bilgi Çağı'nda kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DESTROYER_DESCRIPTION">
+			<Text>En güçlü yakın dövüş deniz birliği. Görüş menzili içindeki Deniz Akıncılarını ortaya çıkarır.</Text>
+		</Row>
+		<!--Air Units-->
+		<Row Tag="LOC_UNIT_BIPLANE_DESCRIPTION">
+			<Text>İlk hava muharebe birliği, Modern Çağ'da kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIGHTER_DESCRIPTION">
+			<Text>Atom Çağı Çift Kanatlı yükseltmesi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOMBER_DESCRIPTION">
+			<Text>İlk bombardıman birliği, Atom Çağı'nda kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_FIGHTER_DESCRIPTION">
+			<Text>Bilgi Çağı Avcı Uçağı yükseltmesi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JET_BOMBER_DESCRIPTION">
+			<Text>Bilgi Çağı Bombardıman Uçağı yükseltmesi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAN_AT_ARMS_DESCRIPTION">
+			<Text>Orta Çağ yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LINE_INFANTRY_DESCRIPTION">
+			<Text>Sanayi Çağı yakın dövüş birliği.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TREBUCHET_DESCRIPTION">
+			<Text>Orta Çağ kuşatma birliği, şehirlere saldırmak için idealdir. Uzman Mürettebat terfisini kazanmadıkça aynı turda hem hareket edip hem saldıramaz.</Text>
+		</Row>
+		<!-- Unique Units-->
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSEMAN_DESCRIPTION">
+			<Text>Antik Çağ ilkel atlı savaşçısı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BARBARIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>Antik Çağ ilkel atlı okçusu.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Mısır'a özgü Antik Çağ menzilli birliği, Ağır Savaş Arabası'nın yerini alır. Açık arazide başladığında 4 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
+			<Text>Yunanistan'a özgü Antik Çağ süvari karşıtı birliği, Kargıcı'nın yerini alır. En az bir bitişik Hoplit birimi varsa +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
+			<Text>İskitya'ya özgü Klasik Çağ birliği. 1 [ICON_Range] Menzile sahip, 4 [ICON_Movement] Hareketli menzilli birlik.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
+			<Text>Sümer'e özgü Antik Çağ birliği. Diğer tüm başlangıç birliklerinden daha güçlüdür. Süvari karşıtı birliklere karşı ceza almaz. Açık arazide başlarsa 4 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
+			<Text>Victoria liderliğindeki İngiltere'ye özgü Sanayi Çağı birliği, Sıra Piyadesi'nin yerini alır. Başkentinizinkinden farklı bir kıtada savaşırken +10 [ICON_Strength] Muharebe Gücü. Karaya çıkma maliyeti yok.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
+			<Text>Teddy Roosevelt lider olduğunda Amerikan Sanayi Çağı eşsiz birimi. [ICON_Capital] Başkent'in bulunduğu kıtada öldürülen düşmanlardan [ICON_Culture] Kültür kazanılır. Tepelerde savaşırken +10 [ICON_Strength] Muharebe Gücü. Daha düşük bakım maliyeti.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
+			<Text>Roma'nın Klasik Çağ eşsiz yakın dövüş birimi olan Lejyon, Kılıçlı Asker'in yerini alır. Roma Kalesi inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
+			<Text>Japonya'nın Orta Çağ eşsiz yakın dövüş birimi olan Samuray, Silahlı Adam'ın yerini alır. Hasar aldığında muharebe cezasına maruz kalmaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
+			<Text>Norveç'in Orta Çağ eşsiz yakın dövüş birimi olan Berserker, Silahlı Adam'ın yerini alır. Bu birim düşman topraklarında harekete başlarsa 4 [ICON_Movement] Hareket Puanı. Saldırırken +10 [ICON_Strength] Muharebe Gücü, yakın dövüş saldırılarına karşı savunurken -5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
+			<Text>Norveç'in Antik Çağ eşsiz deniz birimi olan Uzun Gemi, Kadırga'nın yerini alır. Kıyı baskın yeteneğiyle bitişik olduğu düşman kıyı bölgelerini yağmalayabilir ve sivilleri ele geçirebilir. Kıyı sularında 4 [ICON_Movement] Hareket Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
+			<Text>Çin'in Orta Çağ eşsiz birimi olan Çömelmiş Kaplan. [ICON_Range] Menzili 1 olan ve yüksek muharebe gücüne sahip menzilli birim.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
+			<Text>İspanya'nın Rönesans Çağı eşsiz birimi olan Konkistador, Tüfekçi'nin yerini alır. Bir altıgen mesafede dini bir birim varsa +10 [ICON_Strength] Muharebe Gücü. Bu birim bir şehri ele geçirirse veya ele geçirildiği sırada şehre bitişikse, şehir otomatik olarak Konkistador oyuncusunun Dinini baskın din olarak benimser.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
+			<Text>Rusya'nın Sanayi Çağı eşsiz birimi olan Kazak, Süvari'nin yerini alır. Süvari'den daha güçlüdür ve kendi topraklarında veya bitişiğinde savaşırken +5 [ICON_Strength] Muharebe Gücü kazanır. [ICON_Movement] Hareket Puanı kaldıysa saldırdıktan sonra hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+			<Text>Hindistan'ın Klasik Çağ eşsiz ağır süvari birimi. Bitişik düşman birimleri -5 [ICON_STRENGTH] Muharebe Gücü alır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
+			<Text>Kongo'nun Klasik Çağ eşsiz birimi olan Kalkan Taşıyıcı, Kılıçlı Asker'in yerini alır. Menzilli saldırılara karşı savunurken +10 [ICON_Strength] Muharebe Gücü. Orman ve Yağmur Ormanı içinden hareket edebilir ve görebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
+			<Text>Arabistan'ın Orta Çağ eşsiz birimi olan Memluk, Şövalye'nin yerini alır. Her turun sonunda, hareket ettikten veya saldırdıktan sonra bile iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+			<Text>İngiltere'nin Rönesans Çağı eşsiz deniz birimi olan Deniz Kurdu, Korsan'ın yerini alır. Yenilen düşman gemilerini ele geçirme şansı vardır. Bitişik olmadığı sürece yalnızca diğer Deniz Akıncıları tarafından görülebilir. Görüş menzili içindeki Deniz Akıncılarını ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+			<Text>Fransa'nın Sanayi Çağı eşsiz yakın dövüş birimi olan İmparatorluk Muhafızları, Hat Piyadesi'nin yerini alır. Başkentinizin bulunduğu kıtada savaşırken +10 [ICON_Strength] Muharebe Gücü. Birim öldürdükçe [ICON_GreatGeneral] Büyük General puanı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GERMAN_UBOAT_DESCRIPTION">
+			<Text>Almanya'nın Modern Çağ eşsiz deniz birimi olan U-Bot, Denizaltı'nın yerini alır. Üretimi daha ucuz, +1 Görüş ve Okyanus bölgelerinde savaşırken +10 [ICON_Strength] Muharebe Gücü. Diğer gizli birimleri ortaya çıkarabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
+			<Text>Amerika'nın Atom Çağı eşsiz hava birimi olan P-51, Avcı Uçağı'nın yerini alır. Avcı uçaklarına karşı +5 [ICON_Strength] Muharebe Gücü kazanır, +2 uçuş menziline sahiptir ve +%50 tecrübe kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
+			<Text>Brezilya'nın Sanayi Çağı eşsiz birimi olan Minas Geraes, Zırhlı'nın yerini alır. Zırhlı'dan daha güçlüdür. Milliyetçilik ile açılır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UNIT_TYPE_NAME_SUFFIX">
+			<Text> ({1_UnitTypeName})</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

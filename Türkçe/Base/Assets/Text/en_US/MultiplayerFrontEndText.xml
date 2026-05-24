@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- Multiplayer Lobby Screen -->
+		<Row Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Oyun devam etmekte</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Oyun kaydı yükleniyor</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
+			<Text>Bu oyun, oyunun farklı bir sürümünü çalıştırıyor.[NEWLINE]Oyun: {1_GameVersion} Yerel: {2_GameVersion}</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
+			<Text>Farklı sürümdeki oyunlara katılamazsınız.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

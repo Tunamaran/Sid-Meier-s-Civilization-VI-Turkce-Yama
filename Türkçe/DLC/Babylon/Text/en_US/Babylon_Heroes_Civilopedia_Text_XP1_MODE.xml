@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Updates for XP1 - 2 -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_HEROES_CHAPTER_UNITS_PARA_21">
+			<Text>Kendi eşsiz yeteneklerinin yanı sıra Kahramanlar, uygarlığınızın güçlü temsilcileridir. Her turun sonunda Kahraman birimleri, 2 kare menzilindeki tüm şehirlere fazladan +1 Bağlılık kazandırır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

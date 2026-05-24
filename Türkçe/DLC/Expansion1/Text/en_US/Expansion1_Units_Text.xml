@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_SPEC_OPS_NAME">
+			<Text>Özel Harekat</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPEC_OPS_DESCRIPTION">
+			<Text>Atom Çağı keşif birimi. Paraşütle atlama yeteneği, dost bir bölgeden 7 kare uzaktaki bir konuma hareket etmeyi sağlar (Hava Meydanı veya Hava Pistinden başlıyorsa 12 kare). Destek birimlerine, önce muharebe birimini etkisiz hale getirmeden doğrudan saldırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRONE_NAME">
+			<Text>Drone</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRONE_DESCRIPTION">
+			<Text>Atom Çağı destek birimi. 1 kare mesafedeki Kuşatma sınıfı birimlere +1 [ICON_Range] Menzil ve +5 [ICON_Bombard] Bombardıman Gücü ekler.</Text>8
+		</Row>
+		<Row Tag="LOC_UNIT_PIKE_AND_SHOT_NAME">
+			<Text>Kargı ve Tüfek</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Geç Rönesans dönemi süvari karşıtı birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
+			<Text>İkmal Konvoyu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPPLY_CONVOY_DESCRIPTION">
+			<Text>Modern Çağ destek birimi. Komşu birimlerin iyileşmesini artırır. Konvoya bitişik bir kareden hareket başlatılırsa birimlere 1 bonus [ICON_Movement] Hareket sağlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

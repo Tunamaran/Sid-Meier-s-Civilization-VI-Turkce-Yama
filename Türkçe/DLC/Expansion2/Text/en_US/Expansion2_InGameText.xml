@@ -1,0 +1,2234 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION_XP2">
+			<Text>İşgal ([ICON_GRIEVANCE] Şehir Kurucusuyla Şikayetler)</Text>
+		</Row>
+		<Row Tag="LOC_HUD_REPORTS_FILTER_CLIMATE">
+			<Text>[ICON_GOSSIP_CLIMATE] İklim</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_Grievances_XP2">
+			<Text>Şehir Kurucusuyla Şikayetler</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_POWERED_CITY">
+			<Text>{1_PowerRequired} [ICON_Power] Bu şehri güçlendirmek için Enerji kullanılabilir ve şehir tamamen enerjilidir.[NEWLINE][ICON_Bullet]{2_PowerFromFreeSources} [ICON_Power] Yerel yenilenebilir kaynaklardan elde edilen Enerji[NEWLINE][ICON_Bullet]{3_PowerFromResources} [ICON_Power] Bu tur tüketilen kaynaklardan elde edilen Enerji</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_UNPOWERED_CITY">
+			<Text>{1_PowerRequired} [ICON_Power] Bu şehri güçlendirmek için Enerji kullanılabilir, ancak şehir tamamen enerjili değildir. [ICON_Power] Enerji Yükü gerektiren Binalar veya Projeler geçici olarak daha az etkilidir.[NEWLINE][ICON_Bullet]{2_PowerFromFreeSources} [ICON_Power] Yerel yenilenebilir kaynaklardan elde edilen Enerji[NEWLINE][ICON_Bullet]{3_PowerFromResources} [ICON_Power] Bu tur tüketilen kaynaklardan elde edilen Enerji</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_POWERED_CITY_FROM_ACTIVE_PROJECT">
+			<Text>[ICON_Bullet]Tam [ICON_Power] Enerji (Şehrin aktif projesinden)</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_POWER_TOOLTIP">
+			<Text>Enerji</Text>
+		</Row>
+		<Row Tag="LOC_HUD_RIBBON_FAVOR">
+			<Text>Diplomatik Destek dengesi</Text>
+		</Row>
+		<Row Tag="LOC_POWER_REQUIREMENT_MISC">
+			<Text>{LOC_PROJECT_TERRESTRIAL_LASER_SHORT_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_TEMPORARY_ACTIVE_PROJECT_SOURCE_ENTRY">
+			<Text>{LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_TEMPORARY_SOURCE_ENTRY">
+			<Text>[ICON_{2_ResourceTypeName}] {3_FromCityName} [ICON_PowerRight] {1_ThisCityName}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_GENERATED_SOURCE_ENTRY">
+			<Text>[ICON_{2_ResourceTypeName}] {1_ThisCityName} [ICON_PowerRight] {3_ToCityName}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_FREE_SOURCE_ENTRY">
+			<Text>{1_FreePowerSourceName}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_STATUS_NO_POWER_NEEDED_NAME">
+			<Text>Normal</Text>
+		</Row>
+		<Row Tag="LOC_POWER_STATUS_NO_POWER_NEEDED_DESCRIPTION">
+			<Text>Bu şehir herhangi bir [ICON_Power] Enerji gerektirmez.</Text>
+		</Row>
+		<Row Tag="LOC_POWER_STATUS_POWERED_NAME">
+			<Text>[ICON_Power] Enerjili</Text>
+		</Row>
+		<Row Tag="LOC_POWER_STATUS_POWERED_DESCRIPTION">
+			<Text>[ICON_Power] Enerji gerektiren Binalar veya Projeler tam etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_POWER_STATUS_UNPOWERED_NAME">
+			<Text>[ICON_PowerInsufficient] Enerjisiz</Text>
+		</Row>
+		<Row Tag="LOC_POWER_STATUS_UNPOWERED_DESCRIPTION">
+			<Text>[ICON_Power] Enerji gerektiren Binalar veya Projeler geçici olarak daha az etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_FREE_POWER_SOURCE_GEOTHERMAL">
+			<Text>Jeotermal</Text>
+		</Row>
+		<Row Tag="LOC_FREE_POWER_SOURCE_SOLAR">
+			<Text>Güneş</Text>
+		</Row>
+		<Row Tag="LOC_FREE_POWER_SOURCE_WATER">
+			<Text>Hidroelektrik</Text>
+		</Row>
+		<Row Tag="LOC_FREE_POWER_SOURCE_WIND">
+			<Text>Rüzgâr</Text>
+		</Row>
+		<Row Tag="LOC_FREE_POWER_SOURCE_MISC">
+			<Text>Diğer</Text>
+		</Row>
+		<Row Tag="LOC_POWER_LENS_KEY_POWER_SOURCE">
+			<Text>Enerji Kaynağı</Text>
+		</Row>
+		<Row Tag="LOC_POWER_LENS_KEY_FULLY_POWERED">
+			<Text>Tam Enerjili</Text>
+		</Row>
+		<Row Tag="LOC_POWER_LENS_KEY_UNDERPOWERED">
+			<Text>Yetersiz Enerjili</Text>
+		</Row>
+		<Row Tag="LOC_POWER_LENS_KEY_POWER_RANGE">
+			<Text>Enerji Menzili</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_WORLD_CONGRESS_SPECIAL_SESSION">
+			<Text>Teklifleri Değerlendir</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_WORLD_CONGRESS_SPECIAL_SESSION_TOOLTIP">
+			<Text>Özel oturum başlamadan önce mevcut teklifleri kongreye sunmak için son çağrı.</Text>
+		</Row>
+		<Row Tag="LOC_FLOAT_RESOURCE_CONVERTED_TO_POWER">
+			<Text>{2_ResourceIcon}{1_NumConverted} [ICON_PowerRight]{3_NumPower}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_GENERATED_SOURCE_ON_PLOT">
+			<Text>{2_ResourceIcon}{1_NumConverted} [ICON_PowerRight]{3_NumPower}</Text>
+		</Row>
+		<Row Tag="LOC_POWER_FREE_SOURCE_ON_PLOT">
+			<Text>[ICON_Power]{1_NumPower}</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_POWER_REQUIRED">
+			<Text>Enerji Yükü: {1_PowerRequired} [ICON_Power] Enerji</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_POWER_IN_CITY_NEEDED_FOR_EFFECTS">
+			<Text>Bu şehir tam [ICON_Power] Enerjiye sahip olduğunda, ayrıca şunları sağlar:</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_YIELD_POWERED">
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name} ([ICON_Power] Enerjili)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_YIELD_UNPOWERED">
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name} ([ICON_PowerInsufficient] Enerjisiz)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_YIELD_POWER_ENHANCEMENT">
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name} ayrıca [ICON_Power] Enerjiliyken</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_AMENITY_ENTERTAINMENT_POWER_ENHANCEMENT">
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?Olanak; other?Olanaklar;} eğlenceden ayrıca [ICON_Power] Enerjiliyken</Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_CONSUMED">
+			<Text>[SIZE:16]{1_PowerAmount} [SIZE:12]Kullanılabilir</Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_OF">
+			<Text> - </Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_REQUIRED">
+			<Text>[SIZE:16]{1_PowerAmount} [SIZE:12]Gerekli</Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_STATUS">
+			<Text>Durum:</Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_REQUIRED_POWER">
+			<Text>Gerekli Enerji</Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_CONSUMED_POWER">
+			<Text>Kullanılabilir Enerji</Text>
+		</Row>
+		<Row Tag="LOC_POWER_PANEL_GENERATED_POWER">
+			<Text>Santral Çıktısı</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_TITLE">
+			<Text>GÜNCEL ŞİKAYET DENGESİ:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_AGAINST_YOU">
+			<Text>Size karşı olan şikayetleri:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_AGAINST_THEM">
+			<Text>Onlara karşı olan şikayetleriniz:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_HISTORY">
+			<Text>Şikayet Geçmişi:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_WORLD_FAVORS">
+			<Text>Dünya şu anda {1_Favored}'i kayırıyor!</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_WORLD_FAVORS_YOU">
+			<Text>Dünya şu anda SİZİ kayırıyor!</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_WORLD_FAVORS_NONE">
+			<Text>Dünyanın şu anda bir favorisi yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_US_SIMPLE">
+			<Text>{1_Grievances} [ICON_STAT_GRIEVANCE] Bize karşı şikayetler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_THEM_SIMPLE">
+			<Text>{1_Grievances} [ICON_STAT_GRIEVANCE] Onlara karşı şikayetler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_NONE_SIMPLE">
+			<Text>Şikayet yok.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_DESCRIPTION_POSITIVE">
+			<Text>{1_Target}'nin elinde çektiğiniz acılara tanık olan dünya liderleri, {1_Target}'a karşı işleyeceğiniz sonraki [ICON_GRIEVANCE] {2_Grievances} Şikayete göz yumacak.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_DESCRIPTION_NEGATIVE">
+			<Text>{1_Target}'ye yaşattığınız zorluklara tanık olan dünya liderleri, {1_Target}'ın size karşı işleyeceği sonraki [ICON_GRIEVANCE] {2_Grievances} Şikayete göz yumacak.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_DESCRIPTION_DEFAULT">
+			<Text>Dünya liderleri, {1_Target} ile ilişkinizi yakından takip ediyor. Şu ana kadar {2_Grievances} [ICON_GRIEVANCE] Şikayet kaydedilmiş durumda.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_GRIEVANCES">
+			<Text>Bize karşı şikayetler</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_DIPLOMACY_CONGRESS_BUTTON">
+			<Text>Diplomasi</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_CONGRESS_CONGRESS_BUTTON">
+			<Text>Dünya Kongresi</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_THIRD_PARTY_WARMONGER">
+			<Text>Diğer oyuncuların bize karşı şikayetleri</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_RESUME_CONGRESS">
+			<Text>Dünya Kongresi'ne Dön</Text>
+		</Row>
+		<Row Tag="LOC_RESUME_CONGRESS">
+			<Text>Kongreye Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_FLOODS">
+			<Text>{Value : number +#.#;-#.#} Sellerden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_POWER">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) [ICON_Power] Enerji'den</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_BASE">
+			<Text>{Value : number +#.#;-#.#} temel Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_EXTRA">
+			<Text>{Value : number +#.#;-#.#} ek Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_SUZERAIN">
+			<Text>{Value : number +#.#;-#.#} Süzeren'den</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_TOURISM">
+			<Text>{Value : number +#.#;-#.#} Turizm'den</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_POLICIES">
+			<Text>{Value : number +#.#;-#.#} Politikalar'dan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_BUILDINGS">
+			<Text>{Value : number +#.#;-#.#} Binalar'dan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_CO2">
+			<Text>{Value : number +#.#;-#.#} Karbon Emisyonu Cezası'ndan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_GRIEVANCES">
+			<Text>{Value : number +#.#;-#.#} Aşırı Şikayetler Cezası'ndan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_ORIGINAL_CAPITALS">
+			<Text>{Value : number +#.#;-#.#} İşgal Altındaki Özgün Başkentler Cezası'ndan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_GOVERNMENT">
+			<Text>{Value : number +#.#;-#.#} Hükümet'ten</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_TRADE_PARTNERS">
+			<Text>{Value : number +#.#;-#.#} Ticaret Ortakları'ndan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} İttifaklar'dan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_ALLIANCES_BENEFIT">
+			<Text>+{1_Amount} [ICON_Favor] Diplomatik Destek tur başına sen ve Müttefik'in için</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_UNUSED_GREAT_PEOPLE_POINTS">
+			<Text>Fazla [ICON_GREATPERSON] Büyük Kişi puanlarından {Value : number +#.#;-#.#}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_ERA_DEFINED">
+			<Text>{1_EraName}</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ITEM_IN_STOCKPILE">
+			<Text> stokta</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ITEM_IN_RESERVE">
+			<Text> üretim için ayrıldı</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_REPORTS_ITEM_IN_RESERVE">
+			<Text>Üretime ayrıldı</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN">
+			<Text>Birikiyor: Tur başına +{1_Amount}.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_EXTRACTED">
+			<Text>[ICON_Bullet]{1_Amount} İyileştirmelerden</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_TRADED">
+			<Text>[ICON_Bullet]{1_Amount} ticaretten</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_FROM_CITY_STATES">
+			<Text>[ICON_Bullet]{1_Amount} Şehir Devletlerinden</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_REPORTS_CITY_STATES">
+			<Text>Şehir Devleti Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_FROM_BONUS_SOURCES">
+			<Text>[ICON_Bullet]{1_Amount} bonus kaynaklardan</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONSUMPTION">
+			<Text>Tüketiliyor: Tur başına -{1_Amount}.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_UNIT_CONSUMPTION_PER_TURN">
+			<Text>[COLOR_RED][ICON_Bullet]-{1_Amount} Birimler için[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_POWER_CONSUMPTION_PER_TURN">
+			<Text>[COLOR_RED][ICON_Bullet]-{1_Amount} Enerji için[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_WHEN_IMPROVED">
+			<Text>İyileştirildiğinde tur başına +{1_Amount} {2_Icon} {3_ResourceName} üretir.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_BUILD_IMPROVEMENT">
+			<Text>Tur başına +{1_Amount} {2_Icon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_EXISTING_IMPROVEMENT">
+			<Text>Tur başına {1_Amount} {2_Icon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_CIVICS_TREE_UNREVEALED_CIVIC">
+			<!--Deprecated-->
+			<Text>Keşfedilmemiş</Text>
+		</Row>
+		<Row Tag="LOC_CIVICS_TREE_UNREVEALED_TOOLTIP">
+			<!--Deprecated-->
+			<Text>Bu sosyal politikayı ve açacağı özellikleri görmek için önceki sosyal politikaları araştırın.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_UNREVEALED_TECH">
+			<!--Deprecated-->
+			<Text>Keşfedilmemiş</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_UNREVEALED_TOOLTIP">
+			<!--Deprecated-->
+			<Text>Bu teknolojiyi ve açtığı yenilikleri görmek için önceki teknolojileri araştırın.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_MOVE_JUMP_DESCRIPTION">
+			<Text>Atla</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_BANNED_WORLD_CONGRESS">
+			<Text>Bu bölgedeki bir Dinî Birlik, Dünya Kongresi kararıyla kâfir ilan edilmeye karşı bağışıktır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Yetersiz Kaynak. Bu binanın üretilebilmesi için {1_Amount} {3_ResourceIcon} {2_Resource} gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Yetersiz Kaynak. Bu binanın üretilebilmesi için {1_Amount} daha {3_ResourceIcon} {2_Resource} gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ADVANCE_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Yetersiz Kaynak. Bu projenin üretilebilmesi için {1_Amount} {3_ResourceIcon} {2_Resource} gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ADVANCE_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Yetersiz Kaynak. Bu projenin üretilebilmesi için {1_Amount} daha {3_ResourceIcon} {2_Resource} gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Yetersiz Kaynak. Bu birimin üretilebilmesi için {1_Amount} {3_ResourceIcon} {2_Resource} gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Yetersiz Kaynak. Bu birimin üretilebilmesi için {1_Amount} daha {3_ResourceIcon} {2_Resource} gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UPGRADE_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Yetersiz Kaynak. Bu tür birliği yükseltmek için {1_Amount} {2_ResourceIcon} {3_Resource} gerekli.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UPGRADE_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Yetersiz Kaynak. Bu tür birliği yükseltmek için {1_Amount} daha {2_ResourceIcon} {3_Resource} gerekli.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_INSUFFICIENT_FUEL_DESC">
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] Yetersiz {2_ResourceName} kaynağı</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_SIEGE_CANNON_UPGRADE">
+			<Text>Kuşatma Topu: Tahkimatlara karşı tam güç</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_LOW_FUEL_WARNING_FLOATER">
+			<Text>[COLOR_RED]AZ {1_Resource}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRODUCTION_FUEL_CONSUMPTION">
+			<Text>Tüketim: Her turda {1_Amount} {2_Icon} {3_FuelName}.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMATIC_FAVOR_NAME">
+			<Text>Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CIVICS_TREE_AWARD_FAVOR">
+			<Text>{1_FavorAmount} [ICON_Favor] Diplomatik Destek kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_BY_TYPE">
+			<Text>Güzergâh İnşa Et: {1_RouteTypeName}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_REQUIRES_BUILD_CHARGES">
+			<Text>[ICON_Bullet]{1_Amount} İnşa {1_Amount : plural 1?Hakkı; other?Hakkı;} kullanır.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_REQUIRES_RESOURCE_AMOUNT_MET">
+			<Text>[ICON_Bullet]İnşa etmek için {1_Amount} {2_ResourceName} gerekli.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_REQUIRES_RESOURCE_AMOUNT_UNMET">
+			<Text>[ICON_Bullet]Yetersiz Kaynak. İnşa için {1_Amount} {2_ResourceName} gerekli.</Text>
+		</Row>
+		<Row Tag="LOC_TOURISM_LENS_FEATURE_APPEAL_TOOLTIP">
+			<Text>Ekoturistler bu el değmemiş doğal ortamın tadını çıkarıyor.[NEWLINE]+{1_CurrentTourists} [ICON_Tourism] Turizm sağlanıyor[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_FAVOR_REWARD">
+			<Text>Üye uygarlıkların her biri {1_Amount} [ICON_Favor] Diplomatik Destek kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_FAVOR_REWARD">
+			<Text>Hedef, {1_Amount} [ICON_Favor] Diplomatik Destek alır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPETING_PARTICIPANTS">
+			<Text>Üyeler:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPETITION_COMPLETE">
+			<Text>Yarışma Tamamlandı!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPETITION_BUFFS_EXPLANATION">
+			<Text>Bu Yarışma sırasında:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FAVOR_INFO">
+			<Text>[NEWLINE][SIZE_12]{1_Cost} [ICON_Favor] Diplomatik Destek harcar</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_PANEL_PARK_CHARGES">
+			<Text>Milli Park Kullanım Hakkı</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_PANEL_ROCK_BAND_ALBUM_SALES">
+			<Text>Albüm Satışları</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_PANEL_ROCK_BAND_LEVEL">
+			<Text>Rock Grubu Seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_BAND_FLOAT_ON">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num}[ICON_TOURISM] Turizm[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REPAIR_LOCATION_FLOODED">
+			<Text>Onarılamaz, bölge sular altında.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_AGE">
+			<Text>Reaktör Yaşı: {1_Age}</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_ACCIDENT1_POSSIBLE">
+			<Text>[COLOR_RED]Radyoaktif Buhar Kaçağı Mümkün[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_ACCIDENT2_POSSIBLE">
+			<Text>[COLOR_RED]Radyasyon Sızıntısı Mümkün[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_ACCIDENT3_POSSIBLE">
+			<Text>[COLOR_RED]Nükleer Erime Mümkün[ENDCOLOR]</Text>
+		</Row>
+		<!--Lenses-->
+		<Row Tag="LOC_HUD_TOGGLE_DESERT_LABELS">
+			<Text>Çöl Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_DESERT_LABELS_TOOLTIP">
+			<Text>Çöl Etiketlerini Aç/Kapa</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_MOUNTAIN_RANGE_LABELS">
+			<Text>Dağ Sırası Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_MOUNTAIN_RANGE_LABELS_TOOLTIP">
+			<Text>Sıradağ Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_LAKE_LABELS">
+			<Text>Göl Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_LAKE_LABELS_TOOLTIP">
+			<Text>Göl Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_OCEAN_LABELS">
+			<Text>Okyanus Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_OCEAN_LABELS_TOOLTIP">
+			<Text>Okyanus Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_SEA_LABELS">
+			<Text>Deniz Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_SEA_LABELS_TOOLTIP">
+			<Text>Deniz Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATIONAL_PARK_LABELS">
+			<Text>Milli Park Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATIONAL_PARK_LABELS_TOOLTIP">
+			<Text>Milli Park Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATURAL_WONDER_LABELS">
+			<Text>Doğa Harikası Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATURAL_WONDER_LABELS_TOOLTIP">
+			<Text>Doğa Harikası Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_RIVER_LABELS">
+			<Text>Nehir Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_RIVER_LABELS_TOOLTIP">
+			<Text>Nehir Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_VOLCANO_LABELS">
+			<Text>Yanardağ Etiketleri</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_VOLCANO_LABELS_TOOLTIP">
+			<Text>Yanardağ Etiketlerini Aç/Kapat</Text>
+		</Row>
+		<!-- Map Search Terms -->
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_ERUPTING">
+			<Text>Püsküren</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_ACTIVE">
+			<Text>Aktif</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_COASTAL_LOWLAND">
+			<Text>Kıyı Ovası</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_SUBMERGED">
+			<Text>Sular Altında</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_FLOODED">
+			<Text>Sular Altında</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_STORM">
+			<Text>Fırtına</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_DROUGHT">
+			<Text>Kuraklık</Text>
+		</Row>
+		<!--Agendas-->
+		<Row Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT">
+			<Text>İlk gizli gündemi görmek için [ICON_VisOpen] AÇIK erişim seviyesine ulaşın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT_LATE">
+			<Text>Oyunun ilerleyen dönemlerindeki gizli gündemi görmek için [ICON_VisSecret] GİZLİ erişim seviyesine ulaşın.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ANGEVIN_EMPIRE">
+			<Text>Komşu uygarlıkların büyük nüfuslu şehirlere sahip olmasını sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CANADIAN_EXPEDITIONARY">
+			<Text>Acil durumlara katılan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KAITIAKITANGA">
+			<Text>Çevreye saygılı uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_LAWGIVER">
+			<Text>Vatandaşlarını mutlu ve sadık tutan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_LORD_OF_MINES">
+			<Text>Tur başına yüksek altın geliri olan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_PATRON_OF_ARTS">
+			<Text>Büyük Eserler konusunda kendisiyle rekabet etmeyen uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_RAVEN_BANNER">
+			<Text>Şehir devleti birliklerini de kullanan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_FLAT_EARTHER">
+			<Text>Dünyanın çevresini dolaşmaktan veya Uzay Limanı inşa etmekten kaçınan uygarlıkları sever.</Text>
+		</Row>
+		<!-- Climate Screen -->
+		<Row Tag="LOC_LAUNCHBAR_CLIMATE_PROGRESS_TOOLTIP">
+			<Text>Dünya İklimi[NEWLINE][NEWLINE]Dünyanın iklimini ve hava durumunu görüntüleyin.</Text>
+		</Row>
+		<Row Tag="LOC_PARTIALSCREEN_CLIMATE_PROGRESS_TOOLTIP">
+			<Text>Dünya İklimi[NEWLINE][NEWLINE]Dünyanın iklimini ve hava durumunu görüntüleyin.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TITLE">
+			<Text>Dünya İklimi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CLIMATE_CHANGE_PHASE_0">
+			<Text>İklim Değişikliği - Yok</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_NORTHEAST">
+			<Text>YÖN KD</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_EAST">
+			<Text>YÖN D</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_SOUTHEAST">
+			<Text>YÖN GD</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_SOUTHWEST">
+			<Text>YÖN GB</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_WEST">
+			<Text>YÖN B</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_NORTHWEST">
+			<Text>YÖN KB</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_WATER">
+			<Text>Su</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_GLOBAL">
+			<Text>Küresel</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_LOCATION">
+			<Text>( {1_Location} )</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_LOCATION_DIRECTION">
+			<Text>( {1_Location}, {2_Direction} )</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_MINIMAL_NAME">
+			<Text>Minimal</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_LIGHT_NAME">
+			<Text>Hafif</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_MODERATE_NAME">
+			<Text>Orta</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_HEAVY_NAME">
+			<Text>Yoğun</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_HYPERREAL_NAME">
+			<Text>Hiperreal</Text>
+		</Row>
+		<Row Tag="LOC_DROUGHT_TOOLTIP_STRING">
+			<Text>{1_DroughtName} ({2_Turns} tur daha)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_OVERVIEW">
+			<Text>Genel Bakış</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_CO2_LEVELS">
+			<Text>CO2 Seviyeleri</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_EVENT_HISTORY">
+			<Text>Olay Geçmişi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_CO2_BY_CIVILIZATION">
+			<Text>Uygarlığa Göre CO2</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_CO2_BY_RESOURCE">
+			<Text>Kaynağa Göre CO2</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_DEFORESTATION">
+			<Text>Ormansızlaşma</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CONTRIBUTING_TO_CLIMATE_CHANGE">
+			<Text>İklim Değişikliğine Katkı</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FORECAST">
+			<Text>Tahmin</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CO2_LEVELS">
+			<Text>CO2 Seviyeleri</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_GLOBAL_TEMPERATURE">
+			<Text>Küresel Sıcaklık</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_WORLD_SETTINGS">
+			<Text>Dünya Ayarları</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TODO">
+			<Text>[Yapım Aşamasında] ???</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TEMPERATURE">
+			<Text>+{1_TEMP}°</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TEMPERATURE_SUBTEXT">
+			<Text>(Antik Çağ'dan itibaren Santigrat cinsinden değişim)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TEMPERATURE_TOOLTIP">
+			<Text>Ormansızlaşma Seviyesi: {1_Level}[NEWLINE][NEWLINE]{2_Description}[NEWLINE][NEWLINE]Bu ormansızlaşma seviyesi nedeniyle, CO2 salınımıyla birlikte küresel sıcaklık artışının oranı %{3_CO2Mod} oranında değişmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_WORLD_AGE">
+			<Text>Dünya Çağı: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_REALISM">
+			<Text>Afet Şiddeti: {1_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SHOW_ON_MAP">
+			<Text>Haritada Göster</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_AMOUNT_FROM_CLIMATE_CHANGE">
+			<Text>({1_Amount}% İklim Değişikliğinden)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_STORMS">
+			<Text>Fırtınalar</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_RIVER_FLOOD">
+			<Text>Nehir Taşkınları</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANIC_ACTIVITY">
+			<Text>Volkanik Faaliyet</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_DROUGHTS">
+			<Text>Kuraklıklar</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_VOLATILE">
+			<Text>Dengesiz</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_INACTIVE">
+			<Text>Etkin Değil</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ACTIVE">
+			<Text>Aktif</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ERUPTED">
+			<Text>Püskürdü</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_VOLATILE_NUM">
+			<Text>{1_Num} Dengesiz</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_INACTIVE_NUM">
+			<Text>{1_Num} Sönmüş</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ACTIVE_NUM">
+			<Text>{1_Num} Aktif</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ERUPTED_NUM">
+			<Text>{1_Num} Püskürdü</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE">
+			<Text>Kutup Buzulu</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_LOST">
+			<Text>%{1_Amount} Kaybedildi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL">
+			<Text>Deniz Seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COASTAL_TILES_FLOODED_NUM">
+			<Text>Sular Altında Kalan Kıyı Bölgeleri: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COASTAL_TILES_SUBMERGED_NUM">
+			<Text>Tamamen Sular Altında: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CLIMATE_CHANGE_POINTS_TOOLTIP">
+			<Text>İklim Değişikliği Puanları {1_Current}/{2_Required}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FROM_WORLD_REALISM_NUM_TOOLTIP">
+			<Text>[ICON_Bullet]{1_Num} Afet Şiddetinden</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FROM_GLOBAL_TEMPERATURE_NUM_TOOLTIP">
+			<Text>[ICON_Bullet]{1_Num} Küresel Sıcaklıktan</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_EFFECTS_ADDED_THIS_PHASE_TOOLTIP">
+			<Text>Bu Aşamada Eklenen Etkiler</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_STORMS_TOOLTIP">
+			<Text>Fırtına Olasılığı</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_RIVER_FLOODING_TOOLTIP">
+			<Text>Nehir Taşkını Olasılığı</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_INCREASE_NUM_TOOLTIP">
+			<Text>Artış +{1_Num}%</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE">
+			<Text>+{1_Num} Metre</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISES_NUM_TOOLTIP">
+			<Text>Deniz Seviyesi +{1_Num} metre yükselir</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TILES_AT_OR_BELOW_FLOOD_TOOLTIP">
+			<Text>[NEWLINE]Alçak bölgeler şu seviye veya altında sular altında kalacak:[NEWLINE] {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TILES_AT_OR_BELOW_SUBMERGE_TOOLTIP">
+			<Text>[NEWLINE]Alçak bölgeler şu seviye veya altında tamamen sular altında kalacak:[NEWLINE] {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_TOOLTIP">
+			<Text>{1_Num}% Kutup Buzulu Erimesi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_PERCENT_CHANCE">
+			<Text>%{1_Num} Şans</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_STORM_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>FIRTINA OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Dört olası fırtınadan biri (tipi, toz fırtınası, kasırga veya hortum) fırtınanın kaynağındaki araziye bağlı olarak ortaya çıkar.[NEWLINE]- Fırtınalar daha sonra iki tur daha haritada hareket eder, binalara ve iyileştirmelere hasar verir ve etkilenen bölgelere olasılıkla verimlilik katar.[NEWLINE][NEWLINE]Küresel sıcaklık, sera gazı emisyonlarının atmosfere salınması sonucu yükseldikçe, bir fırtınanın meydana gelme olasılığı artar. Daha temiz enerji kaynaklarının kullanılması küresel sıcaklık artışını azaltır ve böylece fırtınaların olasılığını hafifletir.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_RIVER_FLOOD_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>NEHİR TAŞKINI OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Etkilenen Nehir boyunca Taşkın Yatağı bölgeleri sular altında kalır ve olasılıkla verimlilik katar.[NEWLINE]- Sular altında kalan bölgelerdeki binalar ve iyileştirmeler yağmalanabilir veya yok olabilir.[NEWLINE][NEWLINE]Etkilenen Nehir üzerine bir Baraj veya Büyük Hamam harikası inşa ederek Sel hasarını önleyin.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>YANARDAĞ OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Patlamaya bitişik Dağ olmayan bölgeler Volkanik Toprak özelliğini kazanır ve olasılıkla verimlilik katar.[NEWLINE]- Bu bölgelerdeki binalar ve iyileştirmeler yağmalanabilir veya yok olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_DROUGHT_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>KURAKLIK OLAYI[NEWLINE][NEWLINE]Olay meydana geldiğinde:[NEWLINE]- Çiftlik, Kamp, Plantasyon ve Mera iyileştirmelerinin yanı sıra Mekevap, Taşra İstasyonu ve Kahokya Höyüğü iyileştirmeleri yağmalanır.[NEWLINE]- Bu iyileştirmeler Kuraklık sona erene kadar yeniden inşa edilemez.[NEWLINE]- Kuraklıktan etkilenen tüm bölgeler normalden 1 daha az [Icon_Food] Besin verir.[NEWLINE][NEWLINE]Şehrinizde bir Su Kemeri, Baraj veya Basamaklı Kuyu inşa ederek Kuraklıktan kaynaklanan [Icon_Food] Besin kaybını önleyin. Kuraklık, tüm Özelliklerden yoksun alanları hedef alır. Şehirlerinizin yakınında biraz Orman, Yağmur Ormanı veya Bataklık bulundurun, böylece Kuraklığın vurma olasılığını azaltın.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_DESCRIPTION_TOOLTIP">
+			<Text>KUTUP BUZU ERİMESİ[NEWLINE][NEWLINE]İklim değişikliği, kaybedilen Kutup Buzu bölge sayısını etkiler.[NEWLINE][NEWLINE]Eriyen Kutup Buzu bölgeleri avantajlı deniz geçitleri açabilir ancak aynı zamanda yükselen deniz seviyelerine katkıda bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_ALERT_TOOLTIP">
+			<Text>Kutup Buzu erimesi, iklim değişikliği nedeniyle yakın zamanda güncellendi.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE_DESCRIPTION_TOOLTIP">
+			<Text>DENİZ SEVİYESİ YÜKSELMESİ[NEWLINE][NEWLINE]Deniz seviyeleri, iklim değişikliğinin bir sonucu olarak {1_Num} metre yükseldi.[NEWLINE][NEWLINE]Yükselen Deniz Seviyeleri, giderek daha fazla bölgenin kıyı taşkınlarına maruz kalmasına neden olur.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE_ALERT_TOOLTIP">
+			<Text>Deniz seviyesi, iklim değişikliği nedeniyle yakın zamanda güncellendi.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_GLOBAL_CONTRIBUTIONS">
+			<Text>Küresel Katkılar</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_YOUR_CO2_CONTRIBUTION">
+			<Text>CO2 Katkınız</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_RESOURCE_CONSUMPTION_NUM_NAME">
+			<Text>{1_Amount} {2_ResourceName} tüketiminden</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_NO_ONE">
+			<Text>Hiç Kimse</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_YOU">
+			<Text>{1_CivName} (Siz)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TOTAL_NUM">
+			<Text>Toplam: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TOTAL_NUM_W_MOD">
+			<Text>Toplam: {1_Num} (%{2_Modifier})</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_EVENT_HISTORY">
+			<Text>Olay Geçmişi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TOP_CONTRIBUTOR_NUM">
+			<Text>En Büyük Katkıda Bulunan: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_MY_CONTRIBUTION_NUM">
+			<Text>Katkım: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_EVENT">
+			<Text>Olay</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_NAME">
+			<Text>Ad</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_SEVERITY_LEVEL">
+			<Text>Şiddet Seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_LOCATION">
+			<Text>Konum</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_TRAITS">
+			<Text>Özellikler</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_EFFECT">
+			<Text>Etki</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_AREA_EFFECTED">
+			<Text>Etkilenen Alan</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_OCCURENCE">
+			<Text>Oluşum</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_DATE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_ENTRY_SEVERITY">
+			<Text>{1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_ENTRY_DATE">
+			<Text>TUR {1_Turn}[NEWLINE]{2_Date}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_LOST_FERTILIZED_TILES">
+			<Text>Verimliliğini Kaybeden Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FERTILIZED_TILES">
+			<Text>Verimli Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_DAMAGED_TILES">
+			<Text>Hasar Görmüş Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_UNITS_LOST">
+			<Text>Kaybedilen Birimler</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POP_LOST">
+			<Text>Kaybedilen Nüfus</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE_X_TURNS">
+			<Text>Bir sonraki deniz seviyesi değişikliğinin {1_Turns} tur içinde gerçekleşmesi bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_X_TURNS">
+			<Text>Kutup buzlarının bir sonraki erimesinin {1_Turns} tur içinde gerçekleşmesi bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CO2_TOTAL_TOOLTIP">
+			<Text>Toplam CO2 emisyonları, gezegenin ormansızlaşma seviyesine bağlı olarak yüzde {1_Modifier} oranında ayarlanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_LAUNCHBAR_BANG_TOOLTIP">
+			<Text>İklim değişikliği şiddetlenerek bir sonraki aşamaya ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_MITIGATED">
+			<Text>( Hafifletildi )</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_RESOURCE_CONSUMED_LAST_TURN">
+			<Text>İmparatorluğunuz geçen turda {1_Number} {2_Resource} tüketti ve atmosfere {3_CO2Number : plural 1?{3_CO2Number} birim; other?{3_CO2Number} birim;} CO2 ekledi.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_RESOURCE_CONSUMED_LAST_TURN_GLOBAL">
+			<Text>Geçen turda küresel olarak {1_Number} {2_Resource} tüketildi ve atmosfere {3_CO2Number : plural 1?{3_CO2Number} birim; other?{3_CO2Number} birim;} CO2 ekledi.</Text>
+		</Row>
+		<!-- Rock Band Results Screen -->
+		<Row Tag="LOC_ROCK_CONCERT_HEADER">
+			<Text>Rock Konseri</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_PERFORMANCE_BY">
+			<Text>Performansı Sergileyen:</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULTS">
+			<Text>Performans Sonuçları:</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_TIER">
+			<Text>En Üst Seviye Performans</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_DESCRIPTION">
+			<Text>Orada olmalıydın! Muhteşemdi! Yüzümü resmen erittiler! Hiçbir şey bunu geçemez! Şu andan itibaren yapacakları her albümü alacağım ve her konserlerine gideceğim.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_TIER">
+			<Text>İkinci Kademe Performans</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_DESCRIPTION">
+			<Text>Zafer dolu son şarkının son notası yankılanır ve kalabalığın çığlıkları ve tezahüratlarıyla birleşir. Herkes mutlu bir şekilde evine döner, grubun en iyi melodilerini mırıldanarak.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_TIER">
+			<Text>Üçüncü Kademe Performans</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_DESCRIPTION">
+			<Text>Bu geceki gösterinin en güzel yanı, altı ay sonra herkesin hayran olduğunu söylediğinde, 'Evet, ama ben onları popüler olmadan önce seviyordum.' diyebilmek olacak.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_TIER">
+			<Text>Dördüncü Kademe Performans</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_DESCRIPTION">
+			<Text>Ana grup için gittik ama açılış grubu beklediğimden çok daha iyiydi. Bir tişört ve bir albüm aldım. Bir dinlemelisin.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_TIER">
+			<Text>Beşinci Kademe Performans</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_DESCRIPTION">
+			<Text>Ustaca ve içten bir performanstı ama grup için acı tatlı bir an. Üyeler şimdiden yeni ve ayrı projeler planlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_TIER">
+			<Text>En Alt Kademe Performans</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_DESCRIPTION">
+			<Text>Turne hayatı zordur ve kalabalıklar eskisi kadar büyük ya da hevesli değildir. Ama en kötüsü, oradaki insanların gösteriyi ironik bir şekilde eğlenmek için izlemesiydi. Artık bırakma zamanı.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_TOURISM">
+			<Text>Oluşturulan Turizm</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_TOURISM_TOOLTIP">
+			<Text>Bu gösteriden elde edilen bu [ICON_Tourism] Turizm, bu konser mekanının sahibi olan oyuncuya karşı uygulanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_ALBUMS">
+			<Text>Satılan Albümler</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_ALBUMS_TOOLTIP">
+			<Text>Albüm satışlarındaki artışlar, bu grubun gelecek konserlerden kazanacağı temel [ICON_Tourism] Turizm miktarını artırır.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_PROMOTION">
+			<Text>Terfi Mevcut!</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_PROMOTION_TOOLTIP">
+			<Text>Grup, bir sonraki gösteriden önce yeteneklerini geliştirmek için rastgele sunulan terfilerden birini seçebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_LEVEL_UP">
+			<Text>Seviye Atladı!</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_LEVEL_UP_TOOLTIP">
+			<Text>Seviye atlamak, bu grubun gelecek konserlerde olumlu sonuç alma şansını artırır.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_UNIT_LOST">
+			<Text>Birim Kaybedildi</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_UNIT_LOST_TOOLTIP">
+			<Text>Yazık oldu!</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_NEARBY_GREAT_WORKS">
+			<Text>Yakındaki Büyük Eserler</Text>
+		</Row>
+		<!--Unit Operations -->
+		<Row Tag="LOC_UNITOPERATION_TOURISM_BOMB_DESCRIPTION">
+			<Text>Rock Konseri Ver</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_REQUIRES_NAME">
+			<Text>Grubunuzun sahneye çıkabilmesi için bir isme ihtiyacı var.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_BUILD_IMPROVEMENT_ADJACENT_DESCRIPTION">
+			<Text>Bitişik İyileştirme İnşa Et</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_UPGRADE_RESOURCE_INFO">
+			<Text>Gerektirir: {1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BASE_RESOURCE_COST">
+			<Text>Temel Kaynak Maliyeti: {1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRODUCTION_RESOURCE_COST">
+			<Text>Gerektirir: {1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_UI_FEATURE_NATURAL_DISASTER_DISCOVERY">
+			<Text>Doğal Afet Gerçekleşiyor</Text>
+		</Row>
+		<Row Tag="LOC_UI_FEATURE_NUCLEAR_DISASTER_DISCOVERY">
+			<Text>Nükleer Felaket Gerçekleşiyor</Text>
+		</Row>
+		<!--Unit Commands -->
+		<Row Tag="LOC_UNITCOMMAND_BUILDING_PRODUCTION_DESCRIPTION">
+			<Text>Bir binaya [ICON_Production] Üretim ekleyin.</Text>
+		</Row>
+		<!--Emergencies-->
+		<Row Tag="LOC_EMERGENCY_TARGETING_UNMET_PLAYER">
+			<Text>Bu Acil Durum, henüz tanışılmamış bir oyuncuyu hedef alıyor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_CITY">
+			<Text>HEDEF ŞEHİR: {1_Target}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_KILL_ENEMY_MILITARY_DESC">
+			<Text>Hedef birlikleri öldürmek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_ATTACK_CITY_DESC">
+			<Text>Hedef şehirlere saldırmak</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_MILITARY_IN_LAND_DESC">
+			<Text>Hedefin topraklarında birlik bulundurmak</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_RELIGION_IN_LAND_DESC">
+			<Text>Hedef şehrin topraklarında Dinî birlik bulundurmak</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_GPP_DESC">
+			<Text>Tur başına [ICON_GREATPERSON] Büyük Şahsiyet Puanı üretmek</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_MILITARY_TARGET_NAME">
+			<Text>Askerî Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_CITY_STATE_TARGET_NAME">
+			<Text>Şehir Devleti Acil Durumu</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_RELIGIOUS_TARGET_NAME">
+			<Text>Dinî Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_NUCLEAR_TARGET_NAME">
+			<Text>Nükleer Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_BACKSTAB_TARGET_NAME">
+			<Text>İhanet Acil Durumu</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_AID_REQUEST_TARGET_NAME">
+			<Text>Yardım Talebi</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_NOBEL_PRIZE_LITERATURE_NAME">
+			<Text>Nobel Edebiyat Ödülü</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_NOBEL_PRIZE_PHYSICS_NAME">
+			<Text>Nobel Fizik Ödülü</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_NOBEL_PRIZE_PEACE_NAME">
+			<Text>Nobel Barış Ödülü</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_SCORE_COMPETITION_CULTURAL">
+			<Text>"Hangi milletin gerçekten en iyi ve en parlak zihinlere yurt olduğunu ispatlayalım!"</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SCORE_COMPETITION_CULTURAL">
+			<Text>Parlak [ICON_GREATPERSON] Büyük Şahsiyetlerimize öncülük ediyor. Hangimiz kendi diyarının aydınlarına en büyük desteği gösterebilir?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_SPACE_STATION">
+			<Text>"Uzay, yeni büyük serüven. Gelin bu atılımı birlikte yapalım!"</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SPACE_STATION">
+			<Text>Tüm ulusların bilim ve mühendislik alanlarındaki en iyi çabalarını birleştirerek uluslararası bir Uzay İstasyonu inşa etmek için bir proje üstlenmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_WORLD_GAMES">
+			<Text>"Silahlarla yarışmamıza gerek yok. Bunun yerine Oyunlar'da kimin kime üstün geleceğini görelim."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_WORLD_GAMES">
+			<Text>En iyi atletlerimiz dünyanın en iyileriyle yarışacak. Hangi ulus altını eve götürecek?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_CLIMATE_ACCORDS">
+			<Text>"Bu gezegeni hep birlikte paylaşıyoruz. Çocuklarımız ve onlardan sonraki çocukları için onu korumalıyız."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_CLIMATE_ACCORDS">
+			<Text>Hepimiz, insanlığın karbon ayak izini azaltmak için üzerimize düşeni yapmalıyız. En iyisini yapanlar, gelecek nesiller tarafından minnetle anılacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_WORLDS_FAIR_NAME">
+			<Text>Dünya Fuarı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SPACE_STATION_NAME">
+			<Text>Uluslararası Uzay İstasyonu</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_CLIMATE_ACCORDS_NAME">
+			<Text>İklim Anlaşmaları</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_WORLD_GAMES_NAME">
+			<Text>Dünya Oyunları</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NOBEL_PRIZE_LITERATURE_NAME">
+			<Text>Nobel Edebiyat Ödülü</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SPACEPORTS_DESC">
+			<Text>Uzay Limanı Bölgelerini Koruma</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_CAMPUSES_DESC">
+			<Text>Kampüs Bölgelerini Koruma</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_ASTRONAUT_PROJECT_DESC">
+			<Text>Astronot Yetiştirme projesini tamamlama</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_CO2_FOOTPRINT_DESC">
+			<Text>CO2 emisyonlarının en büyük CO2 kirleticisinden çok daha düşük olması</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_DECOMMISSION_COAL_POWER_PLANT_DESC">
+			<Text>Kömür Santralini Hizmet Dışı Bırakma projesini tamamlama</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_DECOMMISSION_OIL_POWER_PLANT_DESC">
+			<Text>Petrol Santralini Hizmet Dışı Bırakma projesini tamamlama</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_DECOMMISSION_NUCLEAR_POWER_PLANT_DESC">
+			<Text>Nükleer Santrali Hizmet Dışı Bırakma projesini tamamlama</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_ATHLETE_PROJECT_DESC">
+			<Text>Atlet Yetiştirme projesini tamamlama</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_STADIUMS_DESC">
+			<Text>Stadyumları Koruma</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_AQUATIC_CENTERS_DESC">
+			<Text>Su Sporları Merkezlerini Koruma</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_GREAT_ARTISTS">
+			<Text>"Sanat, milliyetlerin ötesine geçerek hepimizi kutsar. Bize cennet ve cehennemin kısa bir anını sunanları onurlandıralım."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_GREAT_ARTISTS">
+			<Text>İsveç, Nobel Edebiyat Ödülü'nü takdim ediyor. Haydi, en sanatkâr olduğumuzu kanıtlayalım ve bu itibarlı ödülü kazanalım.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_GREAT_ARTISTS_DESC">
+			<Text>[ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Sanatçı ve [ICON_GreatMusician] Müzisyen Puanı üretme. </Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_GREAT_ARTISTS">
+			<Text>[ICON_Tourism] Büyük Eserlerden elde edilen Turizm +200%.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NOBEL_PHYSICS_NAME">
+			<Text>Nobel Fizik Ödülü</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_GREAT_STEMS">
+			<Text>"Çalışma, insanlığı geleceğe taşıyan itici güçtür. Omuzlarında yükseldiğimiz o devleri onurlandıralım."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_GREAT_STEMS">
+			<Text>İsveç, bir Nobel Fizik Ödülü veriyor. En bilimsel zihinli olduğumuzu kanıtlayalım ve bu prestijli ödülü kazanalım.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_GREAT_STEMS_DESC">
+			<Text>[ICON_GreatEngineer] Büyük Mühendis, [ICON_GreatScientist] Bilim İnsanı ve [ICON_GreatMerchant] Tüccar Puanı üretiliyor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_GREAT_STEMS">
+			<Text>+2 Rastgele [ICON_TechBoosted] Buluş ve Bölge Üretiminde +%50.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NOBEL_PRIZE_PEACE_NAME">
+			<Text>Nobel Barış Ödülü</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_FAVOR">
+			<Text>"Barışa yönelik olağanüstü bir çabadan daha fazla onuru hak eden hiçbir şey yoktur."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_FAVOR">
+			<Text>İsveç, bir Nobel Barış Ödülü veriyor. En barışçıl olduğumuzu kanıtlayalım ve bu prestijli ödülü kazanalım.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_FAVOR_DESC">
+			<Text>[ICON_Favor] Diplomatik Destek üretiliyor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_FAVOR">
+			<Text>Kazanan, 2 Ücretsiz [ICON_GreatPerson] Büyük Şahsiyet kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_SWEDEN_GAINS_FAVOR_DESCRIPTION">
+			<Text>İsveç +50 [ICON_FAVOR] Diplomatik Destek alır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REQUEST_AID_NAME">
+			<Text>Yardım Talebi</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_REQUEST_AID">
+			<Text>"Diğer uygarlıkların doğanın saldırısına yenik düşmesine izin veremeyiz. Birimiz hepimiz, hepimiz birimiz için."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_REQUEST_AID">
+			<Text>{TargetName} yakın zamanda bir doğal afet tarafından harap edildi. Onların iyileşmesine yapacağımız yardım, Dünya Kongresi nezdinde bize prestij kazandıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_GOLD_DESC">
+			<Text>Hedefe [ICON_Gold] Altın hediyeleri göndermek.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_CO2_DESC">
+			<Text>CO2 üretmek puanınızı düşürecektir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_WAR_DESC">
+			<Text>Hedefle Savaş halinde olmak puanınızı düşürecektir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_PROJECT_DESC">
+			<Text>Yardım Gönderme Projesini tamamlamak.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REQUEST_MILITARY_AID_NAME">
+			<Text>Askeri Yardım Talebi</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_REQUEST_MILITARY_AID">
+			<Text>"Sınırsız saldırganlığın hedefi olanlara yardım etmeliyiz."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_REQUEST_MILITARY_AID">
+			<Text>{TargetName}, kendisine karşı pek çok Haklı Şikayeti bulunan bir gücün haksız savaşının hedefidir. Yardımımız barışı yeniden tesis edecektir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_POSITION_AND_HOW_TO">
+			<Text>{1_Position}. sıradasınız. Puan kazanma yöntemleri:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_HOW_TO">
+			<Text>Puan kazanma yöntemleri:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_SEND_AID_PROJECT">
+			<Text>Üyeler, Yardım Gönderme Projesi'ne erişebilir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_TRAIN_ATHLETES_PROJECT">
+			<Text>Üyeler, Sporcu Yetiştirme Projesi'ne erişebilir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_TRAIN_ASTRONAUTS_PROJECT">
+			<Text>Üyeler, Astronot Yetiştirme Projesi'ne erişebilir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_DECOMMISSION_POWER_PLANT_PROJECTS">
+			<Text>Üyeler, şehirlerindeki Enerji Santrallerini Hizmet Dışı Bırakma projelerine erişebilir.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_COMPETE_WITH_OTHERS">
+			<Text>Üyeler, [ICON_Turn] {Turns} Tur içinde en yüksek puanı kimin alacağını görmek için yarışacak.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_COMPETE_WITH_OTHERS">
+			<Text>Üyeler, en yüksek puanı kimin alacağını görmek için yarışıyor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_COMPETE_WITH_OTHERS">
+			<Text>En yüksek puan için yarış</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_COMPETE_WITH_OTHERS">
+			<Text>Yüksek puan al</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_TARGET_RECEIVE_AID">
+			<Text>Yardım Al</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARDS_HOSTILE_EXPLANATION">
+			<Text>Üyeler, süre dolmadan tüm hedefleri tamamlarsa:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NON_HOSTILE_DESCRIPTION">
+			<Text>Süre dolduğunda Üyeler, puanlarına göre ödüllendirilecektir:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_FIRST_PLACE_DESCRIPTION">
+			<Text>Yalnızca en yüksek puana sahip Üye şunları alacaktır:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_TOP_TIER_DESCRIPTION">
+			<Text>Puanların ilk %25'lik dilimindeki Üyeler şunları alacaktır:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_BOTTOM_TIER_DESCRIPTION">
+			<Text>Puanların sonraki %25'lik dilimindeki Üyeler şunları alacaktır:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NO_TIER_DESCRIPTION">
+			<Text>Hiç puanı olmayan veya puanların en alt %50'sinde yer alan Üyeler hiçbir şey almayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NO_SCORE_DESCRIPTION">
+			<Text>Puanı olmayan Üyeler ödül alamayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_EXTRA_EFFECTS_DESCRIPTION">
+			<Text>Ayrıca:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_SINGLE_FIRST_PLACE_VICTORY_POINT_DESCRIPTION">
+			<Text>1 Diplomatik Zafer Puanı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_AID_REQUEST_FIRST_PLACE_VICTORY_POINT_DESCRIPTION">
+			<Text>2 Diplomatik Zafer Puanı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_AID_REQUEST_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>100 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_AID_REQUEST_BOTTOM_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_FIRST_PLACE_GREAT_PERSON_POINTS_DESCRIPTION">
+			<Text>100 [ICON_GREATPERSON] Büyük Kişi Puanı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_TOP_TIER_CULTURE_DESCRIPTION">
+			<Text>2 Yönetim Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_BOTTOM_TIER_CULTURE_DESCRIPTION">
+			<Text>1 Yönetim Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_FIRST_PLACE_CAMPUS_TOURISM_DESCRIPTION">
+			<Text>Her Kampüs için 2 [ICON_Tourism] Turizm</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_STADIUMS_TOURISM_DESCRIPTION">
+			<Text>Her Stadyum için 2 [ICON_Tourism] Turizm</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_AQUATIC_CENTERS_TOURISM_DESCRIPTION">
+			<Text>Her Su Merkezi için 2 [ICON_Tourism] Turizm</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_BOTTOM_TIER_STADIUMS_TOURISM_DESCRIPTION">
+			<Text>Her Stadyum için 1 [ICON_Tourism] Turizm</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_BOTTOM_TIER_AQUATIC_CENTERS_TOURISM_DESCRIPTION">
+			<Text>Her Su Merkezi için 1 [ICON_Tourism] Turizm</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_FIRST_PLACE_SPACESHIP_SPEED_DESCRIPTION">
+			<Text>Ötegezegen uzay gemileri için tur başına +3 ışık yılı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_TOP_TIER_SPACE_RACE_PRODUCTION_DESCRIPTION">
+			<Text>Uzay yarışı projelerine yönelik +%40 [ICON_Production] Üretim</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_BOTTOM_TIER_SPACE_RACE_PRODUCTION_DESCRIPTION">
+			<Text>Uzay yarışı projelerine yönelik +%20 [ICON_Production] Üretim</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_FIRST_PLACE_VICTORY_POINT_DESCRIPTION">
+			<Text>1 Diplomatik Zafer Puanı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>100 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_BOTTOM_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatik Destek</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_BUFF_DESCRIPTION">
+			<Text>Rock Grupları için +50 Albüm Satışları</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_CHEAPER_DESCRIPTION">
+			<Text>Rock Grupları %20 Daha Ucuz Satın Alınır</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_TOP_TIER_ROCK_BAND_BUFF_DESCRIPTION">
+			<Text>Rock Grupları için +75 Albüm Satışları</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_BOTTOM_TIER_ROCK_BAND_BUFF_DESCRIPTION">
+			<Text>Rock Grupları için +25 Albüm Satışları</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_FIRST_PLACE_TECH_BOOST_DESCRIPTION">
+			<Text>1 Teknoloji Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_FIRST_PLACE_UNIVERSITY_RESOURCES_DESCRIPTION">
+			<Text>Üniversite bulunan şehirlerde kaynak birikimini 1 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_TOP_TIER_TECH_BOOST_DESCRIPTION">
+			<Text>1 Teknoloji Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_TOP_TIER_UNIVERSITY_RESOURCES_DESCRIPTION">
+			<Text>Araştırma Laboratuvarı bulunan şehirlerde kaynak birikimini 1 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_BOTTOM_TIER_TECH_BOOST_DESCRIPTION">
+			<Text>1 Teknoloji Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_MUSICIAN_DESCRIPTION">
+			<Text>1 [ICON_GreatMusician] Büyük Müzisyen</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_SCIENTIST_DESCRIPTION">
+			<Text>1 [ICON_GreatScientist] Büyük Bilim İnsanı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ENGINEER_DESCRIPTION">
+			<Text>1 [ICON_GreatEngineer]Büyük Mühendis</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ARTIST_DESCRIPTION">
+			<Text>1 [ICON_GreatArtist] Büyük Sanatçı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_BOTTOM_TIER_GREAT_ARTIST_DESCRIPTION">
+			<Text>1 [ICON_GreatArtist] Büyük Sanatçı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION">
+			<Text>Üyeler 100 [ICON_Favor] Diplomatik Destek Kazanır</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION">
+			<Text>Hedef 200 [ICON_Favor] Diplomatik Destek Kazanır</Text>
+		</Row>
+		<!--Governors-->
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_NAME">
+			<Text>İbrahim</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_TITLE">
+			<Text>Sadrazam</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_SHORT_TITLE">
+			<Text>Sadrazam</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_DESCRIPTION">
+			<Text>Süleyman'ın veziri {LOC_GOVERNOR_IBRAHIM_NAME}, Askeri ve Diplomasi odaklı bir validir. Benzersiz bir terfi ağacına sahip olmasının yanı sıra İbrahim, hem kendi şehirlerine hem de başka bir uygarlığın başkentine atanabilen tek validir. Askeri operasyonları etkilemek için çok uygundur ancak aynı zamanda yetenekli bir diplomattır; dost uygarlıklarla ilişkileri güçlendirir ve rakiplerle olan gerilimi azaltır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PASHA_NAME">
+			<Text>Paşa</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PASHA_DESCRIPTION">
+			<Text>Şehirdeki tüm askeri birimlere +%20 [ICON_Production] Üretim kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_NAME">
+			<Text>Baş Doğancı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_DESCRIPTION">
+			<Text>Şehir topraklarında savaşan tüm dost birimler +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SERASKER_NAME">
+			<Text>Serasker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SERASKER_DESCRIPTION">
+			<Text>Şehir Merkezi'nden 10 kare içindeki tüm birimlere, savunulabilir bölgelere saldırırken +10 [ICON_Strength] Muharebe Gücü kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CITY_GOVERNOR_ATTACK_DISTRICT_COMBAT_BONUS">
+			<Text>+{1_Amount} Serasker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_NAME">
+			<Text>Hass Oda Başı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_DESCRIPTION">
+			<Text>Müttefik bir yabancı [ICON_Capital] Başkent'te görev yaparken, sahibiyle olan İttifak Puanlarınız tur başına ek .5 artar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_NAME">
+			<Text>Kapı Ağası</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_DESCRIPTION">
+			<Text>Yabancı bir [ICON_Capital] Başkent'te görev yaparken, şehir sahibinin size karşı [ICON_STAT_GRIEVANCE] Şikayetleri tur başına 1 fazla azalır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GRAND_VISIER_NAME">
+			<Text>Sadrazam</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GRAND_VISIER_DESCRIPTION">
+			<Text>Yabancı bir [ICON_Capital] Başkent'te görev yaparken, sahibinin hiçbir şehri sizin şehirlerinize Bağlılık baskısı uygulamaz.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_NAME">
+			<Text>Yenilenebilir Enerji Sübvansiyoncusu</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_DESCRIPTION">
+			<Text>Bu şehirdeki tüm Açık Deniz Rüzgar Çiftlikleri, Güneş Çiftlikleri, Rüzgar Çiftlikleri, Jeotermal Santralleri ve Hidroelektrik Barajları +2 [ICON_POWER] Enerji ve +2 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_NAME">
+			<Text>Orman Yönetimi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION">
+			<Text>Bu şehir, iyileştirilmemiş her özellikten +2 [ICON_Gold] Altın kazanır. İyileştirilmemiş özelliklere bitişik bölgeler bu şehirde +1 Çekicilik kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DIPLOMATIC_DESCRIPTION">
+			<Text>[COLOR:DiplomaticLabelCS]DİPLOMATİK[ENDCOLOR] bir zafer elde etmek için, hedeflenen Diplomatik Puan sayısına ilk ulaşan siz olun. Bir Dünya Kongresi Kararı için oy kullandığınızda ve oyladığınız hedef ve seçenek kombinasyonu kabul edildiğinde, bir Diplomatik Puan kazanırsınız. Dünya Kongresi'ndeki Diplomatik Zafer Önerisi aracılığıyla, Yardım Taleplerinde en yüksek puanı alarak veya Deniz Yerleşkesi Teknolojisi, Küresel Isınmayı Azaltma Yönetim Bilimi ya da Özgürlük Heykeli, Mahabodhi Tapınağı veya Potala Sarayı Harikalarını tamamlayarak ek puanlar kazanabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DIPLOMATIC_BLURB">
+			<Text>Ortak bir barışa olan kadim ve ebedi bağlılığınız, yarının dünyasının temeli olacak.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DIPLOMATIC_REQUIREMENT">
+			<Text>Diplomatik Puanlar: {1_NumDiplomaticPoints}/{2_TotalDiplomaticPoints}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_DIPLOMATIC_POINTS_TT">
+			<Text>Diplomatik Puanlar: {1_NumDiplomaticPoints}/{2_TotalDiplomaticPoints}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_LOCAL_INFORMANTS_NAME">
+			<Text>Yerel Muhbirler</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_FOREIGN_INVESTOR_NAME">
+			<Text>Yabancı Yatırımcı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_FOREIGN_INVESTOR_DESCRIPTION">
+			<Text>Bir şehir devletinde görevliyken, o şehir devletinin Stratejik Kaynaklarını biriktirir. Süzeren olduğunuzda biriken stratejik kaynakların iki katını alırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_LOCAL_INFORMANTS_DESCRIPTION">
+			<Text>Düşman Casusları bu şehirde normalin 3 seviye altında faaliyet gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REINFORCED_INFRASTRUCTURE_NAME">
+			<Text>Güçlendirilmiş Malzemeler</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REINFORCED_INFRASTRUCTURE_DESCRIPTION">
+			<Text>Bu şehrin iyileştirmeleri, binaları ve bölgeleri Çevresel Etkiler tarafından hasar göremez.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_WATER_WORKS_NAME">
+			<Text>Su İşleri</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_WATER_WORKS_DESCRIPTION">
+			<Text>Bu şehirdeki her Mahalle ve Su Kemeri bölgesi için +2 [ICON_HOUSING] Konut. Bu şehirdeki her Kanal ve Baraj bölgesi için +1 [ICON_AMENITIES] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_CANNOT_ASSIGN_TO_UNREVEALED_CITY">
+			<Text>[COLOR_RED]Bu şehrin konumu henüz bilinmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_AT_WAR_WITH_CIVILIZATION">
+			<Text>[COLOR_RED]Bu uygarlıkla savaş halindesiniz.</Text>
+		</Row>
+		<!--Diplomacy UI-->
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE_NO_GRIEVANCE">
+			<Text>Kınama</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>[SIZE_16]Kınama[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_US">
+			<Text>{1_DiploState},[NEWLINE][COLOR_RED]{2_Grievances} [ICON_STAT_GRIEVANCE] Bize karşı Şikayetler.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_THEM">
+			<Text>{1_DiploState},[NEWLINE][COLOR_GREEN]{2_Grievances} [ICON_STAT_GRIEVANCE] Onlara karşı Şikayetler.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_NONE">
+			<Text>{1_DiploState},[NEWLINE]Şikayet Yok.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_RAZE_FREE_CITY_EXPLANATION">
+			<Text>Şehri, tüm bölgelerini ve binalarını haritadan silerek yerle bir edin. Bu seçenek, şehrin fethedildiği turda seçilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_KEEP_FREE_CITY_EXPLANATION">
+			<Text>Bu Özgür Şehri korumak, diğer oyuncularla herhangi bir [ICON_STAT_GRIEVANCE] Şikayete yol açmayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+			<Text>Bu şehri kurtarmak size {1_Favor} [ICON_Favor] Diplomatik Destek kazandıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+			<Text>Bu şehri elimizde tutmak, bu rakibe bize karşı {1_Grievances} [ICON_STAT_GRIEVANCE] Şikayet kazandıracaktır.[NEWLINE][NEWLINE][ICON_STAT_GRIEVANCE] Savaşın sonunda, şehri tutup tutmamamıza bağlı olarak Şikayetler ya iade edilir ya da iki katına çıkarılır.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Bu rakibin son şehrini elimizde tutmak, tüm büyük güçlere bize karşı {1_Grievances} [ICON_STAT_GRIEVANCE] Şikayet kazandıracaktır (ancak bu, bu yok edilen düşmanla savaş halindeki diğer güçler için azaltılır).</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+			<Text>Bu şehri yerle bir etmek, bu rakibe bize karşı {1_Grievances} [ICON_STAT_GRIEVANCE] Şikayet kazandıracak!</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>Bu rakibin son şehrini yerle bir etmek, tüm büyük güçlere bize karşı {1_Grievances} [ICON_STAT_GRIEVANCE] Şikayet kazandıracaktır (ancak bu, bu yok edilen düşmanla savaş halindeki diğer güçler için azaltılır).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Halkım istediği yere yerleşir![NEWLINE][SIZE_12][COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet oluşturur[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Özür dilerim, gelecekte başka yerlere bakacağım.[NEWLINE][SIZE_12]30 [ICON_Favor] Diplomatik Destek kazanılır[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+			<Text>Bunu söz veremem.[NEWLINE][SIZE_12][COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet oluşturur[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+			<Text>Özür dilerim, bu operasyonları derhal sonlandıracağım.[NEWLINE][SIZE_12]30 [ICON_Favor] Diplomatik Destek kazanılır[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+			<Text>Tarihe sahip çıkamazsınız. Canımın istediği yerde kazacağım.[NEWLINE][SIZE_12][COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet oluşturur[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+			<Text>Özür dilerim, Arkeologlarımı başka yere göndereceğim.[NEWLINE][SIZE_12]30 [ICON_Favor] Diplomatik Destek kazanılır[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+			<Text>Eğer halkınızın bizim yolumuzdan gitmesi Tanrı'nın dileğiyse, buna engel olmak da kim haddime?[NEWLINE][SIZE_12][COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Şikayet oluşturur[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+			<Text>Üzgünüm, halkımın hoş karşılanacağını sanmıştım. Yanılmışım.[NEWLINE][SIZE_12]30 [ICON_Favor] Diplomatik Destek kazanılır[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Dost şehirler ele geçirilirken [ICON_STAT_GRIEVANCE] Şikayet oluşmaz)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Kendi şehirlerinizi geri alırken [ICON_STAT_GRIEVANCE] Şikayet oluşmaz)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](Müttefik şehir devletleri savunulurken [ICON_STAT_GRIEVANCE] Şikayet oluşmaz)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_FAVOR">
+			<Text>{1_ActionType} yapılamıyor[NEWLINE][COLOR_RED]{2_FavorRequirement} [ICON_Favor] Diplomatik Destek gerekiyor.[ENDCOLOR]</Text>
+		</Row>
+		<!--Grievance Log-->
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_WAR_DECLARED">
+			<Text>Aramızda Savaş İlan Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_STATE_WAR_DECLARED">
+			<Text>Şehir Devletine Savaş İlan Edildi: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_WAR_DECLARED_ALLY">
+			<Text>Müttefike Savaş İlan Edildi: {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_WAR_DECLARED_FRIEND">
+			<Text>Dosta Savaş İlan Edildi: {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_OCCUPIED">
+			<Text>İşgal Altındaki Şehir: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_LAST_CITY_OCCUPIED">
+			<Text>Ele Geçirilen Son Şehir: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_RAZED">
+			<Text>Yerle Bir Edilen Şehir: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_CEDED">
+			<Text>Devredilen Şehir: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_RETURNED">
+			<Text>İade Edilen Şehir: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_LIBERATED">
+			<Text>Kurtarılan Şehir: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_STATE_CONQUERED">
+			<Text>Fethedilen Şehir Devleti: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_STATE_RAZED">
+			<Text>Yerle Bir Edilen Şehir Devleti: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_PROMISE_REFUSED">
+			<Text>Söz Vermeyi Reddetti</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_PROMISE_BROKEN">
+			<Text>Söz Tutulmadı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DECAY_DOUBLED">
+			<Text>[NEWLINE]{1_Amount} {2_Era} Çağı'nda olağan tur başına düşüşün iki katından</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_PROMISE_BEHAVIOR_CONTINUED">
+			<Text>Sözü Reddedip Aynı Davranışı Sürdürme</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_DENOUNCED">
+			<Text>Kınama</Text>
+		</Row>
+		<!--Grievance Diplo Tooltip -->
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_HEADER">
+			<Text>{1_Grievances} [ICON_STAT_GRIEVANCE] {2_Civilization} uygarlığına karşı birikmiş Şikayetler</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_AT_WAR">
+			<Text>SAVAŞTA [ICON_STAT_GRIEVANCE] Savaş sona erene kadar Şikayetler azalmayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DISABLED">
+			<Text>DEVREDIŞI [ICON_STAT_GRIEVANCE] Yürürlüğe koyduğunuz bir politika nedeniyle Şikayetler azalmayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_GAINING">
+			<Text>KAZANILAN [ICON_STAT_GRIEVANCE] Tur başına şikayet kaynağı:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_LOSING">
+			<Text>KAYBEDILEN [ICON_STAT_GRIEVANCE] Tur başına şikayet kaynağı:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_UNCHANGED">
+			<Text>SABIT [ICON_STAT_GRIEVANCE] Tur başına şikayetler değişmiyor:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DECAY">
+			<Text>[NEWLINE]{1_Amount} {2_Era} Çağı'nda tur başına düşüşten</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_GOVERNOR">
+			<Text>[NEWLINE]{1_Amount} yabancı vali, [ICON_Capital] Başkent'teki gerilimleri hafifletiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_POSSESS_CAPITAL">
+			<Text>[NEWLINE]{1_Amount} rakibin asıl [ICON_Capital] Başkent'ini işgal ettiği için</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_POSSESS_NON_CAPITAL">
+			<Text>[NEWLINE]{1_Amount} rakibin şehirlerinden birini işgal ettiği için</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DECAY_MODIFIER">
+			<Text>[NEWLINE][NEWLINE]Bu liderle azalma oranı +%{1_Amount} artırıldı.</Text>
+		</Row>
+		<!--World Rankings UI-->
+		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_REDUCTION_MODIFIER">
+			<Text>{1_Tooltip}[NEWLINE]Genel [ICON_Tourism] Turizm, diğer etkileri nedeniyle {2_Percent}% azaltıldı</Text>
+		</Row>
+		<!--Government UI-->
+		<Row Tag="LOC_GOVERNMENT_FAVOR_BONUS">
+			<Text>Destek üretimi</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FAVOR_PER_TURN">
+			<Text>Her [ICON_Turn] Turda {1_FavorPerTurn} [ICON_FAVOR] Diplomatik Destek kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_POLICY_REQUIRES_GOVERNMENT">
+			<Text>{1_NumGovernments : plural 1?HÜKÜMET GEREKTİRİR; other?HÜKÜMET GEREKTİRİR (Herhangi);}</Text>
+		</Row>
+		<!--City-State Panel UI-->
+		<Row Tag="LOC_CITY_STATE_PANEL_UNIQUE_SUZERAIN_BONUS_DISABLED">
+			<Text>(Dünya Kongresi tarafından devre dışı bırakıldı)</Text>
+		</Row>
+		<!--Alliance-->
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_GOVERNOR">
+			<Text>[NEWLINE]{1_Amount} Puan (Kendi Valinizden)</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_GOVERNOR">
+			<Text>[NEWLINE]{1_Amount} Puan (Müttefikinizin Valisinden)</Text>
+		</Row>
+		<!-- World Congress -->
+		<Row Tag="LOC_WORLD_CONGRESS_TOP_PANEL_FAVOR_TOOLTIP">
+			<Text>Bu, oy satın almada kullanılan bir para birimi olan Diplomatik Destektir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_TITLE">
+			<Text>DÜNYA KONGRESİ'NE HOŞ GELDİNİZ</Text>
+		</Row>
+		<Row Tag="LOC_SPECIAL_CONGRESS_INTRO_TITLE">
+			<Text>DÜNYA KONGRESİ ÖZEL OTURUMU</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IS_CURRENTLY_IN_SESSION">
+			<Text>Dünya Kongresi halen oturum halindedir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IS_CURRENTLY_IN_A_SPECIAL_SESSION">
+			<Text>Dünya Kongresi halen özel oturum halindedir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_BODY_1">
+			<Text>Dünya Kongresi artık oturum halinde! Her Dünya Lideri, gündemdeki Öneriler üzerinde oy kullanmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_BODY_2">
+			<Text>Tüm oylar teslim edildikten sonra kazanan Öneriler, Dünya Kongresi'nin bir sonraki toplantısına kadar yürürlüğe girer.</Text>
+		</Row>
+		<Row Tag="LOC_SPECIAL_CONGRESS_INTRO_BODY_1">
+			<Text>Dünya Kongresi, Tartışmaları değerlendirmek üzere Özel Oturuma çağrılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_SPECIAL_CONGRESS_INTRO_BODY_2">
+			<Text>Tüm oylar teslim edildikten sonra kabul edilen Tartışmalar yürürlüğe girer ve ilgili Acil Durumlar başlatılır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TITLE">
+			<Text>DÜNYA KONGRESİ: OTURUMDA</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_END">
+			<Text>DÜNYA KONGRESİ: OTURUM TAMAMLANDI!</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NOT_IN_SESSION">
+			<Text>DÜNYA KONGRESİ: OTURUMDA DEĞİL</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_VOTE_NORMAL_SESSION_DESCRIPTION">
+			<Text>Dünya Kongresi'nde önünüze çıkan fırsatları en iyi şekilde değerlendirmek için karar vermelisiniz. Biriktirdiğiniz [ICON_FAVOR] Diplomatik Desteğinizi kullanarak sizin ve halkınız için önemli olan Öneriler'de oy kullanın.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_VOTE_SPECIAL_SESSION_DESCRIPTION">
+			<Text>Son olaylar Dünya Kongresi'nin dikkatini gerektiriyor. Biriktirdiğiniz [ICON_FAVOR] Diplomatik Desteğinizi kullanarak sizin ve halkınız için önemli olan Tartışmalar'da oy kullanın.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SUBMIT_PROPOSALS_CONFIRM">
+			<Text>Bu Önerileri sunmak istediğinizden emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_TITLE">
+			<Text>DÜNYA KONGRESİ: ÖZEL OTURUMDA</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_END">
+			<Text>DÜNYA KONGRESİ: ÖZEL OTURUM TAMAMLANDI!</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_INSTRUCTIONS">
+			<Text>Bu Tartışmalarda oy kullanmak için [ICON_FAVOR] Diplomatik Destek kullanın.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_CONFIRM">
+			<Text>Bu Önerileri sunmak istediğinizden emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CHOOSE_TITLE">
+			<Text>DÜNYA KONGRESİ: OTURUMDA</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_TITLE">
+			<Text>DÜNYA KONGRESİ: SONUÇLAR</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_DESCRIPTION">
+			<Text>Dünya Kongresi'nin son oturumunun sonuçlarını inceleyin.[NEWLINE]Kongre, {1_Turns} tur sonra veya talep edilmesi halinde Özel Oturum olarak yeniden toplanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_EFFECTS_DESCRIPTION">
+			<Text>Bu Öneriler (önceki tüm Dünya Kongresi Oturumlarından) halen yürürlüktedir:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_AVAILABLE_PROPOSALS_DESCRIPTION">
+			<Text>Burada, yeterli [ICON_FAVOR] Diplomatik Desteğe sahipseniz Dünya Kongresi'nin özel bir oturumunu talep edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_ACCEPT">
+			<Text>Oylamayı Başlat</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_GRIEVANCE_VALUE">
+			<Text>[ICON_GRIEVANCE] {1_Grievances}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_GRIEVANCE_DEFINITION">
+			<Text>Bu lidere karşı [ICON_GRIEVANCE_TT] {1_Grievances} Şikayetiniz var.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NEXT">
+			<Text>Sonraki</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREV">
+			<Text>Önceki</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SUBMIT">
+			<Text>Gönder</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SUBMITTING">
+			<Text>Gönderiliyor</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RETURN">
+			<Text>Oyuna Dön</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_FAVOR">
+			<Text>[ICON_FAVOR] {1_Favor}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CATEGORY_FAVOR">
+			<Text>Maliyet: [ICON_FAVOR] {1_Favor}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_FAVOR_TITLE">
+			<Text>[ICON_FAVOR_LARGE] {1_Favor}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_TITLE">
+			<Text>Diğer oyuncular bekleniyor</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_TITLE_YOU">
+			<Text>Siz bekleniyorsunuz</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_WAITING">
+			<Text>Öneriler bekleniyor</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_SUBMITTED">
+			<Text>Öneri Gönderildi</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_READY">
+			<Text>Tüm Öneriler Gönderildi</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_DESCRIPTION">
+			<Text>Kalan oyuncular önerilerini müzakereye sunduğunda Dünya Kongresi yeniden toplanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_HUD_BAR_TIME_UNTIL_NEXT_SESSION">
+			<Text>Bir sonraki Oturuma kalan süre:{1_Turns : plural 1? {1_Turns} tur; other? {1_Turns} tur;}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MEMBERS">
+			<Text>Kongre Üyeleri</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_PROPOSALS_ENACTED">
+			<Text>Kabul Edilen Öneriler: ({1_Proposals})</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_WORLD_EVENT_RESOLUTIONS">
+			<Text>Kararlar</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DELIBERATION_PROPOSED_TARGET">
+			<Text>Bu Karar İçin Bir Hedef Seçin:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_SUBMISSION_WORLD_EVENT_RESOLUTIONS">
+			<Text>Kararlar</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSED_BY">
+			<Text>{1_Senders} Tarafından Önerildi</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_PASSED">
+			<Text> - [COLOR:Civ6Green]KABUL EDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_PASSED_TIE">
+			<Text> - [COLOR:Civ6Green]EŞİTLİĞİ BOZARAK GEÇTİ[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_FAILED">
+			<Text> - [COLOR:Civ6Red]REDDEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_FAILED_TIE">
+			<Text> - [COLOR:Civ6Red]EŞİTLİK SONUCU REDDEDİLDİ[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_LEADER_FAVOR">
+			<Text>Bu liderin [ICON_FAVOR] {1_Num} Diplomatik Desteği var.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLAYER_FAVOR">
+			<Text>[ICON_FAVOR] {1_Num} Diplomatik Desteğiniz var.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLAYER_FAVOR_TO_SPEND">
+			<Text>Harcamak üzere bu kadar [ICON_FAVOR] Diplomatik Desteğiniz kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_RESOLUTIONS_FAVOR_COST_WITH_REFUND">
+			<Text>Kararlar için [ICON_FAVOR] {1_Num} Diplomatik Destek harcıyorsunuz. Dünya Kongresi seçimlerinizi onaylamazsa, Desteğinizin bir kısmı iade edilecektir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_DISCUSIONS_FAVOR_COST_WITH_REFUND">
+			<Text>Bu Tartışmalar için [ICON_FAVOR] {1_Num} Diplomatik Destek harcıyorsunuz. Dünya Kongresi oylarınızı onaylamazsa, Desteğinizin bir kısmı iade edilecektir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_DISCUSIONS_FAVOR_COST_NO_REFUND">
+			<Text>Bu Tartışmaları önermek için [ICON_FAVOR] {1_Num} Diplomatik Destek harcıyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_INSUFFICIENT_FAVOR_COST">
+			<Text>Yetersiz [ICON_FAVOR] Diplomatik Destek. En az [ICON_FAVOR] {1_Num} Diplomatik Desteğe ihtiyacınız var.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_NO_VOTING_DOWN">
+			<Text>Bu Kararın etkilemesini istediğiniz hedefi ve hangi etkinin uygulanacağını oylayın. İlk oyunuz ücretsizdir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLEASE_VOTE_AGAINST_TARGET">
+			<Text>Bu Tartışmaya karşı oy kullanın. Tartışma geçerse, bu Acil Durumun hedefi olacaksınız. İlk oyunuz ücretsizdir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLEASE_VOTE_AGAINST">
+			<Text>Bu Tartışmaya karşı oy kullanın. Tartışma geçse bile, sonuçta ortaya çıkan Puanlı Yarışmaya dahil olmayacaksınız. İlk oyunuz ücretsizdir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLEASE_VOTE_FOR">
+			<Text>Bu Tartışma için oy kullanın. Tartışma geçerse, sonuçta ortaya çıkan Puanlı Yarışmaya katılacaksınız. İlk oyunuz ücretsizdir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_TIE_EXPLANATION">
+			<Text>Eşitlik durumunda, oylama sırasında [ICON_FAVOR] Diplomatik Desteklerinin en büyük yüzdesini harcayan uygarlığın hedefi kazanan olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_SELECT_ONE">
+			<Text>En az bir Öneri sunmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_SELECT_ALL">
+			<Text>Sunulan tüm Önerilerde oy kullanmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_GAME_PAUSED">
+			<Text>Oyun duraklatıldığında ilerleyemezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_SUBMITTING">
+			<Text>Oylarınız gönderiliyor...</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PROPOSAL_COST">
+			<Text>Bu Tartışmanın maliyeti {1_Num} [ICON_FAVOR] Diplomatik Destek olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_CATEGORY_COST">
+			<Text>Bu kategorideki tüm Tartışmaların maliyeti {1_Num} [ICON_FAVOR] Diplomatik Destek olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PROPOSAL_REFUND">
+			<Text>Bu Tartışmayı kaldır ve {1_Num} [ICON_FAVOR] Diplomatik Destek iade et.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_UP">
+			<Text>{1_Num} [ICON_FAVOR] Diplomatik Destek karşılığında bir oy ekle.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_DOWN">
+			<Text>Bir oyu kaldır ve {1_Num} [ICON_FAVOR] Diplomatik Destek iade et.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_UP_SUMMARY">
+			<Text>Bu Tartışmayı destekleyen {1_Votes} {1_Votes : plural 1?oy; other?oy;} göndermek üzeresiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_DOWN_SUMMARY">
+			<Text>Bu Tartışmaya karşı {1_Votes} {1_Votes : plural 1?oy; other?oy;} göndermek üzeresiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_COST">
+			<Text>{1_Icon} {2_Votes} {2_Votes : plural 1?oy; other?oy;} maliyeti {3_Cost} [ICON_FAVOR] Diplomatik Destek olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_NEW_RESOLUTION">
+			<Text>Bu Karar, Dünya Kongresi'nin son oturumunda kabul edilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_NEW_PROPOSAL">
+			<Text>Bu Tartışma, Dünya Kongresi'nin son oturumunda kabul edilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_MAX_ONE_PROPOSAL">
+			<Text>Oyuncu başına yalnızca bir karar teklif edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_A_VOTES">
+			<Text>A:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_A_VOTES_TT">
+			<Text>A sonucunu seçen oyuncular:[NEWLINE][NEWLINE]{1_players}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREFERRED_VOTES_TT">
+			<Text>Bu sonucu tercih eden oyuncular:[NEWLINE][NEWLINE]{1_players}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_A_VOTES_TT_SUMMARY">
+			<Text>A sonucu için {1_Amount} {1_Amount : plural 1?oy; other?oy;} göndermek üzeresiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_B_VOTES">
+			<Text>B:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_B_VOTES_TT">
+			<Text>B sonucunu seçen oyuncular:[NEWLINE][NEWLINE]{1_players}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_B_VOTES_TT_SUMMARY">
+			<Text>B sonucu için {1_Amount} {1_Amount : plural 1?oy; other?oy;} göndermek üzeresiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SELECT_TARGET">
+			<Text>Bir Hedef Seç</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_LAST_SESSION_RESULTS">
+			<Text>Son Oturum Sonuçları</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_ACTIVE_EFFECTS">
+			<Text>Aktif Etkiler</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_AVAILABLE_PROPOSALS">
+			<Text>Mevcut Öneriler</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CONFIRM_SUBMIT_PROPOSALS">
+			<Text>Seçtiğiniz Tartışma(lar)ı sunmak, [ICON_FAVOR] {1_NumFavor} Diplomatik Destek'e mal olacak ve önümüzdeki turda Dünya Kongresi'nin bir Özel Oturumu'nu başlatacak.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_PROPOSAL_TARGET">
+			<Text>Seçilen Hedef:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_PROPOSAL_OUTCOME">
+			<Text>Seçilen Sonuç: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREVIEW_PROPOSAL_TARGET">
+			<Text>Seçilen Hedef:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREVIEW_PROPOSAL_OUTCOME">
+			<Text>Seçilen Sonuç: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_PROPOSAL_REJECTED_OUTCOME">
+			<Text>Reddedilen Sonuç: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_VOTER_TARGET">
+			<Text>Seçilen Hedef:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_VOTER_OUTCOME">
+			<Text>Seçilen Sonuç: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_AVAILABLE_PROPOSALS_TT">
+			<Text>Dünya Kongresi'ne sunmak üzere hiçbir Öneriniz bulunmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TURNS_LEFT_TT">
+			<Text>Bu Dünya Kongresi etkisi [ICON_TURN] {1_Turns} {1_Turns : plural 1?tur; other?tur;} içinde sona erecek.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TARGET_RESOLUTION_TT">
+			<Text>Bu Kararın hedefidir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TARGET_PROPOSAL_TT">
+			<Text>Bu Yarışmanın hedefidir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_A_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?oy verildi; other?oy verildi;} A sonucu lehine.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_B_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?oy verildi; other?oy verildi;} B sonucu lehine.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_UP_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?oy verildi; other?oy verildi;} bu Yarışma lehine.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_DOWN_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?oy verildi; other?oy verildi;} bu Yarışma aleyhine.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_A_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName}, A sonucu lehine {2_Votes} {2_Votes : plural 1?oy; other?oy;} sundu.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_B_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName}, B sonucu lehine {2_Votes} {2_Votes : plural 1?oy; other?oy;} sundu.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_UP_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName}, bu Yarışma lehine {2_Votes} {2_Votes : plural 1?oy; other?oy;} sundu.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_DOWN_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName} bu Yarışmaya karşı {2_Votes} {2_Votes : plural 1?oy; other?oylar;} verdi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_EMPTY">
+			<Text>Bir Dünya Kongresi oturumu {1_Turns} {1_Turns : plural 1?tur; other?turlar;} içinde başlayacak.[NEWLINE][NEWLINE]Kongre ayrıca Mevcut Öneriler arasından seçim yaparak Özel bir Oturum için toplanabilir. Dünya genelinde krizler meydana geldikçe yeni Öneriler kullanılabilir hale gelecektir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_OR">
+			<Text>VEYA</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CHOICE_A">
+			<Text>A</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CHOICE_B">
+			<Text>B</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PASS">
+			<Text>Pas</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_ADD_PROPOSALS">
+			<Text>Öneri Ekle</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CITY_STATE_EMERGENCY_SUMMARY">
+			<Text>"{TargetName}, {OldCityName}'i ele geçirdi. Bağımsızlığını geri kazanmalıyız."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RELIGIOUS_EMERGENCY_SUMMARY">
+			<Text>"{TargetName}, {OldCityName}'i {NewReligion} dinine dönüştürdü. Bu yeni inancı yok etmeliyiz."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETRAYAL_EMERGENCY_SUMMARY">
+			<Text>"{TargetName}, {OldPlayerName}'e ihanet etti. Bu hainliği cezalandırmalıyız."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MILITARY_EMERGENCY_SUMMARY">
+			<Text>"{TargetName}, {OldCityName}'i ele geçirdi. Bu saldırganlığa direnmeliyiz."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NUCLEAR_EMERGENCY_SUMMARY">
+			<Text>"{TargetName} bir nükleer silah kullandı. Bu iğrenç eylemi cezalandırmalıyız."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_AID_REQUEST_SUMMARY">
+			<Text>"{TargetName} bir Doğal Afet tarafından harap edildi. Toparlanmalarına yardım etmeliyiz."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MILITARY_AID_REQUEST_SUMMARY">
+			<Text>"{TargetName} saldırgan bir düşmanın hedefi oldu. Savunmalarını finanse etmeliyiz."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CLIMATE_ACCORD_SUMMARY">
+			<Text>"Hepimiz bu gezegeni paylaşıyoruz. Çocuklarımız ve onların ardından gelecek çocukları için onu korumalıyız."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_WORLD_GAMES_SUMMARY">
+			<Text>"Atletizm savaşta kanıtlanmak zorunda değildir. Spor yoluyla kimin en güçlü olduğunu kanıtlayalım."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_WORLDS_FAIR_SUMMARY">
+			<Text>"Hangi ulus en iyi yaratıcılara ve mucitlere sahip? En parlak zihinlerin kimde olduğunu görelim."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_ISS_SUMMARY">
+			<Text>"Uzay, tek bir uygarlık için fazla büyük. Bu bilinmeyen sınırı keşfetmek için birlikte çalışalım."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NOBEL_PRIZE_PEACE_SUMMARY">
+			<Text>"İsveç, en barışçıl ulusu takdir etmek istiyor. Bakalım hangimiz o olacak."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NOBEL_PRIZE_LITERATURE_SUMMARY">
+			<Text>"İsveç, üstün kalem işçiliğini takdir etmek istiyor. En iyi edebiyatı kimin ürettiğini göreceğiz."</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NOBEL_PRIZE_SCIENCE_SUMMARY">
+			<Text>"İsveç, bilimsel öncülüğü onurlandırmak istiyor. Bakalım bilimlere en iyi kim öncülük edecek."</Text>
+		</Row>
+		<!-- Scored Competitions -->
+		<Row Tag="LOC_SCORED_COMPETITION_EMERGENCY_COMPLETED">
+			<Text>{1_Name} TAMAMLANDI</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_EMERGENCY_ONGOING">
+			<Text>DEVAM EDEN {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_COMPETITION_COMPLETED">
+			<Text>YARIŞMA TAMAMLANDI</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_COMPETITION_ONGOING">
+			<Text>DEVAM EDEN YARIŞMA</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_WIN">
+			<Text>KAZANDINIZ!</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_LEADER_WINS">
+			<Text>{1_Name} KAZANDI!</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_MEMBERS_WIN">
+			<Text>ÜYELER KAZANDI!</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_TARGET_WINS">
+			<Text>HEDEF KAZANDI!</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_BRONZE">
+			<Text>[ICON_Reward_Bronze] BRONZ Kademe Ödülleri kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_SILVER">
+			<Text>[ICON_Reward_Silver] GÜMÜŞ Kademe Ödülleri kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_GOLD">
+			<Text>[ICON_Reward_Gold] ALTIN Kademe Ödülleri kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_NONE">
+			<Text>[ICON_Reward_None] Hiçbir Ödül kazanamadınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_TARGET">
+			<Text>[ICON_Reward_Target] Hedef Ödülleri kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_MEMBER">
+			<Text>[ICON_Reward_Member] Üye Ödülleri kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_GOLD_TIER">
+			<Text>[ICON_Reward_Gold] ALTIN Kademe</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_SILVER_TIER">
+			<Text>[ICON_Reward_Silver] GÜMÜŞ Kademe</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_BRONZE_TIER">
+			<Text>[ICON_Reward_Bronze] BRONZ Kademe</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_MEMBERS_TIME_SUCCESS">
+			<Text>Üyeler hedeflerini süresi içinde tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_MEMBERS_TIME_FAIL">
+			<Text>Üyeler hedeflerini süresi içinde tamamlayamadı.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_AID_REQUEST_SUCCESS">
+			<Text>Üyeler, belirlenen süre içinde ellerinden gelen tüm yardımı gönderdiler. Hayırseverlerden biri, diğerlerinin arasından sıyrılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_COMPETITION_SUCCESS">
+			<Text>Dünya güçleri arasındaki bu barışçıl rekabet sona erdi. Bir uygarlık, diğerlerinin arasından sıyrılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_NOBEL_PRIZE_LITERATURE_SUCCESS">
+			<Text>İsveç, prestijli Nobel Edebiyat Ödülü'nü en sanatkâr Uygarlığa takdim etti.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_NOBEL_PRIZE_PEACE_SUCCESS">
+			<Text>İsveç, prestijli Nobel Barış Ödülü'nü en barışçıl Uygarlığa takdim etti.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_NOBEL_PRIZE_SCIENCE_SUCCESS">
+			<Text>İsveç, prestijli Nobel Fizik Ödülü'nü en bilimsel odaklı Uygarlığa takdim etti.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_SILVER_TIER_CHILD">
+			<Text>Tüm Gümüş Kademe Ödülleri</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_GOLD_TIER_TITLE">
+			<Text>[ICON_Reward_Gold] Altın Kademe Ödülleri (en yüksek puan için):</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_SILVER_TIER_TITLE">
+			<Text>[ICON_Reward_Silver] Gümüş Kademe Ödülleri (ilk %25'lik puan dilimi için):</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_BRONZE_TIER_TITLE">
+			<Text>[ICON_Reward_Bronze] Bronz Kademe Ödülleri (sonraki %25'lik puan dilimi için):</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_TARGET_TIER_TITLE">
+			<Text>[ICON_Reward_Target] Hedef Ödülleri (süre dolarsa):</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_MEMBER_TIER_TITLE">
+			<Text>[ICON_Reward_Member] Üye Ödülleri (hedefleri zamanında tamamlayanlar için):</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_NO_TIER_TITLE_BOTTOM">
+			<Text>[ICON_Reward_None] Herhangi bir Kademede yer alamayan oyuncular ödül alamaz.</Text>
+		</Row>
+		<Row Tag="LOC_SCORED_COMPETITION_NO_TIER_TITLE_NONE">
+			<Text>[ICON_Reward_None] Puan alamayan üyeler ödül alamaz.</Text>
+		</Row>
+		<!-- Rock band -->
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_DESCRIPTION">
+			<Text>Menajeriniz, bu mekândan {1_Tourism} [ICON_TOURISM] Turizm Getirisi elde etmeyi bekliyor.[NEWLINE][NEWLINE]Bu rockçıların, burayı son konserleri yapıp emekliye ayrılma ihtimali %{2_Death}'dir.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_DIFFERENT_OWNER">
+			<Text>Sizinkinden farklı bir ana uygarlığa ait bir bölgede bulunmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_LOCATION">
+			<Text>Geçerli bir hedef konumu gerektirir. Olası konumlar arasında Harikalar, gerekli yapılardan birine sahip Bölgeler veya grubun terfilerinden birinin izin verdiği özel bir hedef bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_NOTPLAYED">
+			<Text>Aynı bölgede birden fazla kez konser verilemez.</Text>
+		</Row>
+		<!-- Drought -->
+		<Row Tag="LOC_UNITOPERATION_REPAIR_BLOCKED_BY_DROUGHT">
+			<Text>Kuraklık devam ederken bu iyileştirme onarılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_IMPROVEMENT_BLOCKED_BY_DROUGHT">
+			<Text>Kuraklık devam ederken bu iyileştirme inşa edilemez.</Text>
+		</Row>
+		<!-- Espionage -->
+		<Row Tag="LOC_VIZSOURCE_HIGHLEVEL_SPY">
+			<Text>Casus, Gizli Ajan veya daha üst rütbede</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_HIGHLEVEL_SPY">
+			<Text>   (Gizli Ajan veya Usta Casus ise ekstra görünürlük)</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
+			<Text>[ICON_VisLimited] Diplomatik Görünürlüğü 1 seviye artırır (Gizli Ajan veya üzeri ise 2 seviye)</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_BREACH_DAM_DESCRIPTION">
+			<Text>Baraj İhlali</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_BREACH_DAM_REWARD">
+			<Text>baraj sularını yağmalayarak nehir vadisini sular altında bırakır</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_BREACH_DAM">
+			<Text>Baraj içeren nehir vadisini su basması</Text>
+		</Row>
+		<!-- updated base game and dlc strings -->
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+			<Text>Taş İşçiliği ile açılan ve Çöl, Çöl Tepeleri veya Çöl Taşkın Yatağı üzerine inşa edilmesi gereken geliştirme. +2 [ICON_Faith] İnanç ve +2 [ICON_Food] Besin. Komşu bölgelerden ek getiriler alır. Bir şehir merkezine komşuysa +1 [ICON_Food] Besin. Komşuluk bonusu veren diğer tüm bölgeler için: o bölgeye komşuysa uygun getiriden +1.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Bir ücretsiz İşçi verir. Tüm İşçiler 1 ek geliştirme inşa edebilir. Tepesiz Çöl (Çöl Taşkın Yatakları dahil) üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>Bu şehirdeki tüm Çöl bölgelerinde (Taşkın Yatağı olmayan) +2 [ICON_Food] Besin, +2 [ICON_Gold] Altın ve +1 [ICON_Production] Üretim. Tepesiz Çöl veya Çöl Taşkın Yatağı üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_VIEW_ENABLED_TT">
+			<Text>[NEWLINE]Şehir detaylarını görüntülemek için tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_VIEW_DISABLED_TT">
+			<Text>[NEWLINE][COLOR_RED]Bu şehrin detaylarını görüntülemek için Erişim Seviyesini artırın[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
+			<Text>Süzeren Diplomasi Bonusu:[NEWLINE][ICON_Bolt]Her tur temel olarak +1 [ICON_FAVOR] Diplomatik Destek kazanırsınız.[NEWLINE][ICON_Bolt]Şehir devleti, diğer oyuncularla savaş ve barışta sizi takip eder.[NEWLINE][ICON_Bolt]Şehir devleti toprakları dost bölge haline gelir. Birimleriniz orada hareket edebilir, iyileşebilir ve yükseltme yapabilir.[NEWLINE][ICON_Bolt]İşçi birimleriniz şehir devleti bölgelerini geliştirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin etrafındaki 3 bölge görünür.[NEWLINE][ICON_Bolt]Geçici olarak şehir devletinin ordusunun kontrolünü ele geçirmek için [ICON_Gold] Altın ödeyebilirsiniz.[NEWLINE][ICON_Bolt]Şehir devletinin tüm kaynaklarının sahibi olursunuz.</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADDITIONAL_FERTILITY">
+			<Text>Çevresel etkilerden ek getiriler alabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAY_ERUPT">
+			<Text>Patlayabilir</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_DETAILS_EXP2">
+			<Text>[COLOR:ResScienceLabelCS]BİLİM[ENDCOLOR] zaferine ulaşmak için 4 büyük kilometre taşını tamamlamalısınız:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_NO_LAUNCH">
+			<Text>Ötegezegen Seferi henüz başlatılmadı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_HAS_MOVED">
+			<Text>Ötegezegen Seferi {1_LightYearsTraveled} / {2_LightYearsTotalNeeded} {2_LightYearsTotalNeeded : plural 1?ışık yılı; other?ışık yılı;} kat etti.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_IS_MOVING">
+			<Text>Ötegezegen Seferi, tur başına {1_LightYearsPerTurn} {1_LightYearsPerTurn : plural 1?ışık yılı; other?ışık yılı;} seyahat ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_LIGHT_YEARS">
+			<Text>ışık yılı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_LIGHT_YEARS_PER_TURN">
+			<Text>tur başına ışık yılı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_4">
+			<Text>Bir Ötegezegen Seferi başlatın.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_FINAL">
+			<Text>Ötegezegen Seferi'nin {1_NumLightYears} ışık yılı yol almasına yardımcı olun.</Text>
+		</Row>
+		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TRADING_POSTS">
+			<Text>Güzergâh üzerinde ticareti kolaylaştıran yer işaretlerinden (su bölgeleri, Demiryolları, Kanallar, Dağ Tünelleri ve sizin [ICON_TradingPost] Ticaret Karakollarınız) {1_YieldAmount} {2_YieldIconString} {3_YieldName}.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_POINT_DETAILS">
+			<Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} {1_PointsPerTurn : plural 1?puan; other?puan;} bu turda kazanıldı.[NEWLINE][NEWLINE]Puanlar esas olarak bölgeler ve binalardan gelir, ancak dünya harikaları, politikalar ve şehir projelerinden de gelebilir.</Text>
+		</Row>
+		<!--Dan Quayle Screen-->
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>XV. Louis</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>Benden sonra tufan.</Text>
+		</Row>
+		<!--Power Panel of City Details screen-->
+		<Row Tag="LOC_CITY_PANEL_POWER_HEADER">
+			<Text>Enerji</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_CURRENT_POWER">
+			<Text>Üretilen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_REQUIRED_POWER">
+			<Text>Gereken</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_FULLY_POWERED_STATUS">
+			<Text>Bu şehir tamamen enerjilendirilmiş. [ICON_Power] Enerji kullanan tüm şehir yapıları tam kapasiteyle çalışıyor.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_UNPOWERED_STATUS">
+			<Text>Bu şehir tam olarak enerjilendirilmemiş. [ICON_Power] Enerji kullanan tüm şehir yapılarının etkinliği azalmıştır.</Text>
+		</Row>
+		<!--Cultural Dominance effects-->
+		<Row Tag="LOC_CULTURAL_DOMINANCE_TRADE_GOLD_SUMMARY">
+			<Text>[ICON_TradeRoute] Kültürel olarak hâkim olduğunuz yabancı şehirlere giden Ticaret Yolları +4 [ICON_GOLD] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_DOMINANCE_ESPIONAGE_MISSION_LENGTH_SUMMARY">
+			<Text>Kültürel olarak hâkim olduğunuz yabancı şehirlerdeki Casusluk görevleri %50 daha hızlı tamamlanır.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_DOMINANCE_CITIZEN_LOYALTY_PRESSURE_SUMMARY">
+			<Text>[ICON_Citizen] Vatandaşlarınız, kültürel olarak hâkim olduğunuz yabancı şehirlerde %25 daha fazla bağlılık baskısı uygular.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

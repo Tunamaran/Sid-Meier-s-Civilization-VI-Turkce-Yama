@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_NOTIFY">
+			<Text>[ICON_Exclamation] Çok Oyunculu</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_UNSEEN_COMPLETE_GAME">
+			<Text>[ICON_Exclamation] Çok Oyunculu</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_NEW_MP_MODE">
+			<Text>[ICON_Exclamation] Çok Oyunculu</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
+			<Text>Bulut Üzerinden Oyun</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_CLOUD_NOTIFY">
+			<Text>[ICON_Exclamation] Bulut Üzerinden Oyun</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME">
+			<Text>[ICON_Exclamation] Bulut Üzerinden Oyun</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_NEW_MODE">
+			<Text>[ICON_Exclamation] Bulut Üzerinden Oyun</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
+			<Text>Bulutta depolanacak ve tüm oyuncularla paylaşılacak, zaman uyumsuz çok oyunculu bir oyun oynayın. Civilization sunucularına aktif bir bağlantı gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NO_LOGIN_TT">
+			<Text>Civilization sunucularına giriş yapılmamış.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NO_LOGIN_AGE_TT">
+			<Text>Bu bağlantılı 2K Hesabıyla ilişkili yaş, oyunun belirli bölümlerine erişmek için yasal yaş şartlarını karşılamıyor. Lütfen yardım için müşteri hizmetleriyle iletişime geçin.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT">
+			<Text>Bir Bulut Üzerinden Oyun'da sıra size gelmiş.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_GAME_READY_TT">
+			<Text>Bulut Üzerinden Oyun'larınızdan biri başlamaya hazır.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME_TT">
+			<Text>Bulut Üzerinden Oyun'larınızdan biri yakın zamanda tamamlandı.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NEW_MODE_TT">
+			<Text>Yeni çok oyunculu mod mevcut!</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TITLE">
+			<Text>Oynamaya Hazır</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TEXT">
+			<Text>Bu oyunda hazırsınız. Sıranız geldiğinde ana menüde ve Bulut Üzerinden Oyun lobisinde bildirim alacaksınız. Bu oyundan güvenle çıkabilir ve ek tek oyunculu veya çok oyunculu oyunlar oynayabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_OK">
+			<Text>HİÇBİR ŞEY YAPMA</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_LOBBY_EXIT">
+			<Text>LOBBİYE ÇIK</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LOBBY">
+			<Text>Bulut Üzerinden Oyun</Text>
+		</Row>
+		<!-- Cloud Game Screen -->
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
+			<Text>Liste</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
+			<Text>Şablon</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
+			<Text>Ev Sahibi</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
+			<Text>Katıl</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
+			<Text>Başlat</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES">
+			<Text>Oyunlarım</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES_TT">
+			<Text>İçinde bulunduğun aktif oyunları göster.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES">
+			<Text>Açık Oyunlar</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES_TT">
+			<Text>Katılabileceğin herkese açık oyunları göster.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES">
+			<Text>Tamamlanan Oyunlar</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_TT">
+			<Text>Tamamladığın oyunların geçmişini göster.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN">
+			<Text>[ICON_Exclamation] Tamamlanan Oyunlar</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN_TT">
+			<Text>Bulut Üzerinden Oynadığın oyunlardan biri yakın zamanda tamamlandı.[NEWLINE][NEWLINE]Tamamladığın oyunların geçmişini göster.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
+			<Text>Bu oyunda sıra sizde.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_GAME_READY_TOOLTIP">
+			<Text>Bu oyun başlamaya hazır.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_UNSEEN_COMPLETE_TOOLTIP">
+			<Text>Bu oyun yakın zamanda tamamlandı.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_CLOUD_PLAYER_TURN_TOOLTIP">
+			<Text>Bu oyunda sıra {1_playerName}'de.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_YOUR_TURN">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_UNSEEN_COMPLETE">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY">
+			<Text>Oyunun Başlaması Bekleniyor</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY_TT">
+			<Text>Ev sahibinin oyunu başlatması bekleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS">
+			<Text>Yeterli İnsan Oyuncu Bulunmuyor</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS_TT">
+			<Text>Oyun başlatılamaz. Bir oyunun başlaması için iki insan oyuncu gereklidir.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT">
+			<Text>Bulut Üzerinden Oyun'da sıranız gelmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_GAME_READY_TT">
+			<Text>Bulut Üzerinden Oyun'larınızdan biri başlamaya hazır.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_UNSEEN_COMPLETE_GAME_TT">
+			<Text>Bulut Üzerinden Oyun'larınızdan biri yakın zamanda tamamlandı.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_NEW_MP_MODE_TT">
+			<Text>Yeni çok oyunculu mod kullanıma sunuldu!</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_BASE_TT">
+			<Text>Bulut Üzerinden Oyun, İnternet, ağ ve sıcak koltuk maçları buradan kurulup oynanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
+			<Text>PİTBOSS OYUNLARI</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
+			<Text>Pitboss</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
+			<Text>Özel bir sunucunun oyunu uzun bir süre boyunca yönettiği çok oyunculu bir oyuna katılın.</Text>
+		</Row>
+		<!-- Multiplayer Joining Room Screen -->
+		<Row Tag="LOC_MP_ROOM_TOO_MANY_MATCHES">
+			<Text>Oyuna katılamazsınız. Zaten izin verilen azami sayıda aktif Bulut Üzerinden Oyun'da bulunuyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_TOO_MANY_MATCHES_TITLE">
+			<Text>Çok Fazla Maç</Text>
+		</Row>
+		<!-- Lobby Screen -->
+		<Row Tag="LOC_MULTIPLAYER_PLAY_GAME">
+			<Text>Oyunu Oyna</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PLAY_GAME_TT">
+			<Text>Halihazırda katılmakta olduğunuz bir çok oyunculu oyuna devam edin.</Text>
+		</Row>
+		<!-- Join Code Popup  -->
+		<Row Tag="LOC_JOIN_CODE_POPUP_TITLE">
+			<Text>Katılma Kodu ile Katıl</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_TEXT">
+			<Text>Bir oyuna Katılma Kodu kullanarak katılın. Katılma Kodu, oyunun Hazırlık Odası'ndaki Oyun Özeti sekmesinde bulunabilir. Katılma Kodları büyük/küçük harf duyarlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_EDITBOX">
+			<Text>Katılma Kodu:</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_CANCEL">
+			<Text>İptal</Text>
+		</Row>
+		<!-- Staging Room -->
+		<Row Tag="LOC_START_WAITING_FOR_TURN">
+			<Text>Sıra Bekleniyor</Text>
+		</Row>
+		<Row Tag="LOC_START_WAITING_FOR_TURN_TT">
+			<Text>Geçerli oyun dünyasının durumunu gözlemlemek için tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUIT_GAME">
+			<Text>Çıkış</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_QUIT_GAME_TITLE">
+			<Text>Oyunu Terk Et</Text>
+		</Row>		
+		<Row Tag="LOC_GAME_MENU_QUIT_GAME_WARNING">
+			<Text>Bu çok oyunculu oyunu terk etmek istediğinize emin misiniz? İlerlemeniz kaybolacak ve oyundan çıkarılacaksınız.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_TITLE">
+			<Text>Oyunu Terk Et</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_PROMPT">
+			<Text>Oyundan çıkılıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_TITLE">
+			<Text>Çıkış Hatası</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL">
+			<Text>Oyun terk edilirken hata oluştu.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_ACCEPT">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_JOIN_CODE">
+			<Text>Katılım Kodu:</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_COPY_JOIN_CODE">
+			<Text>Katılım Kodunu kopyalamak için tıklayın</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_END_GAME_TITLE">
+			<Text>Oyunu Sil</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_END_GAME_WARNING">
+			<Text>Bu çok oyunculu oyunu silmek istediğinize emin misiniz? Bu, tüm oyuncular için oyunu sona erdirecektir.</Text>
+		</Row>
+		<!-- Options Screen -->
+		<Row Tag="LOC_OPTIONS_WEBHOOK_URL">
+			<Text>Bulut Üzerinden Oyun Webhook URL'si:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_FREQ">
+			<Text>Bulut Üzerinden Oyun Webhook Sıklığı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_MODE">
+			<Text>Bulut Üzerinden Oyun Modu:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_MODE_TOOLTIP">
+			<Text>Mod A - IFTTT ile uyumlu[NEWLINE]JSON Yük Değişkenleri[NEWLINE][ICON_Bullet]"value1" = Oyun Adı[NEWLINE][ICON_Bullet]"value2" = Oyuncu Adı[NEWLINE][ICON_Bullet]"value3" = Oyun Turu[NEWLINE]Mod B - Discord ile uyumlu[NEWLINE]JSON Yük Değişkenleri[NEWLINE][ICON_Bullet]"content" = Bildirim Mesajı</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_FREQ_MY_TURN">
+			<Text>Benim Turum</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_FREQ_EVERY_TURN">
+			<Text>Her Tur</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_PAYLOAD_MODE_A">
+			<Text>Mod A</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_PAYLOAD_MODE_B">
+			<Text>Mod B</Text>
+		</Row>
+		
+		<!-- PlayByCloud Notification Reminder Popup -->
+		<Row Tag="LOC_PBC_NOTIFY_REMINDER_TITLE">
+			<Text>Bildirimlerinizi ayarlayın!</Text>
+		</Row>
+		<Row Tag="LOC_PBC_OVERVIEW_DESC">
+			<Text>
+				Bulut Üzerinden Oyun (Play By Cloud), tüm oyuncuların sıralarını ortak bir kayıt dosyası üzerinden aldığı, barındırılan bir sunucuda saklanan eşzamansız bir çok oyunculu formatıdır. Bu, arkadaşlar arasında ortak bir kayıt dosyası içeren bir disketi paylaşma kadim geleneği olan “kayıt dosyasını elden ele verme”nin daha modern bir versiyonudur (Eğer “disket” kavramına aşina değilseniz, lütfen saygıdeğer yaşlı bir yetişkine danışın).[NEWLINE][NEWLINE]Bir Bulut Üzerinden Oyun maçı, her oyuncunun kendisine uygun bir zamanda sırasını almasıyla uzun sürebilir (günler veya haftalar mertebesinde). Sıranız geldiğinde bildirim alacaksınız. Steam etkinse bir Steam bildirimi görebilir veya web kancalarını kullanabilirsiniz. Web kancaları, teknik bilgiye sahip kişilerin diğer mesajlaşma servislerine, e-postaya veya Nesnelerin İnterneti cihazlarına entegre edebileceği genel bir mesaj formatıdır.[NEWLINE][NEWLINE]Eşzamansız çok oyunculuda, oyunun akışını sürdürmek için sıranızı mümkün olan en erken zamanda almanız nezaket kurallarındandır. Kadim zamanlarda oyuncular, disketi bozulmaya karşı korumakla ahlaki olarak yükümlüydü; vicdansız oyuncular ise içinden çıkılmaz bir durumla karşılaştıklarında kayıt dosyasını “kaybetme” yoluna başvururdu. Bulut Üzerinden Oyun bu tür haylazca davranışları ortadan kaldırır.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_REMINDER_DESC">
+			<Text>
+				Bir Bulut Üzerinden Oyun maçına başlamadan önce bildirimleri etkinleştirmenizi öneririz.[NEWLINE][NEWLINE]Sid Meier’s Civilization VI dışında bildirim almak için bildirimleri yapılandırmış olmanız gerekir.
+			</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_ALT">
+			<Text>Hatırlatma</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_ALT_TT">
+			<Text>Bu hatırlatmayı bir daha asla gösterme.</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND">
+			<Text>Bunu bir daha gösterme</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_TT">
+			<Text>Bu hatırlatmayı bir daha asla gösterme.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

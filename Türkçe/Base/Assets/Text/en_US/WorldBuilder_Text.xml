@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_WORLDBUILDER_TAB_TECHS">
+			<Text>Teknolojiler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_CIVICS">
+			<Text>Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_CITIES">
+			<Text>Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_UNITS">
+			<Text>Birimler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_GENERAL">
+			<Text>Genel</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_DISTRICTS">
+			<Text>Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_BUILDINGS">
+			<Text>Binalar</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TAB_MOD">
+			<Text>Bağımlılıklar</Text>
+		</Row>
+		
+		<Row Tag="LOC_WORLDBUILDER_TAB_TEXT">
+			<Text>Metin</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_PLAYER">
+			<Text>Oyuncu Ekle</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_AI_PLAYER">
+			<Text>Yapay Zeka Oyuncusu Ekle</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_PLAYER">
+			<Text>Oyuncuyu Kaldır</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_ADD_CITY">
+			<Text>Şehir Ekle</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUTTON_REMOVE_CITY">
+			<Text>Şehri Kaldır</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_PILLAGED">
+			<Text>Yağmalanmış</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GOLD">
+			<Text>Altın</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FAITH">
+			<Text>İnanç</Text>
+		</Row>		
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_GARRISON_DAMAGE">
+			<Text>Garnizon Hasarı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OUTER_DAMAGE">
+			<Text>Dış Hasar</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_POPULATION">
+			<Text>Nüfus</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_TERRAIN">
+			<Text>Arazi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE">
+			<Text>Özellik</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_FEATURE_DIRECTION">
+			<Text>Özellik Döndürme</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE">
+			<Text>Kaynak</Text>
+		</Row>		
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RESOURCE_AMOUNT">
+			<Text>Kaynak Miktarı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT">
+			<Text>İyileştirme</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IMPROVEMENT_PILLAGED">
+			<Text>İyileştirme Yağmalanmış</Text>
+		</Row>
+    <Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT">
+      <Text>Bölge</Text>
+    </Row>
+    <Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_DISTRICT_PILLAGED">
+      <Text>Bölge Yağmalanmış</Text>
+    </Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE">
+			<Text>Güzergâh</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ROUTE_PILLAGED">
+			<Text>Güzergâh Yağmalanmış</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_OWNER">
+			<Text>Sahip</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_LOWLAND_TYPE">
+			<Text>Ova Türü</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_TERRAIN">
+			<Text>Arazi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_FEATURES">
+			<Text>Özellikler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CONTINENT">
+			<Text>Kıta</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RIVERS">
+			<Text>Nehirler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CLIFFS">
+			<Text>Uçurumlar</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_RESOURCES">
+			<Text>Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_CITIES">
+			<Text>Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_DISTRICTS">
+			<Text>Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_BUILDINGS">
+			<Text>Binalar</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_UNITS">
+			<Text>Birimler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_IMPROVEMENTS">
+			<Text>İyileştirmeler</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_ROUTES">
+			<Text>Güzergâhlar</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_START_POSITIONS">
+			<Text>Başlangıç Konumları</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_OWNER">
+			<Text>Sahip</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_SET_VISIBILITY">
+			<Text>Arazi Görünürlüğü</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_MODE_GOODY_HUTS">
+			<Text>Kabile Köyleri</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_MAP_EDITOR_TT">
+			<Text>Harita Ayrıntıları ve Metin</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_PLAYER_EDITOR_TT">
+			<Text>Oyuncu Düzenleyicisi</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_PLACEMENT_HELP">
+			<Text>Yerleştirmek için sol tık, kaldırmak için sağ tık, boyamak için sağ tık sürükleme. Geri almak için CTRL-Z, yeniden yapmak için CTRL-Y tuşlarına basın.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_NO_PLOT_SELECTED_HELP">
+			<Text>Hiçbir parsel seçilmedi</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLD_BUILDER_PLACEMENT_TT">
+			<Text>Haritayı boyamanızı sağlar</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_BUILDER_PLOT_TT">
+			<Text>Her parsel üzerinde daha ayrıntılı kontrol sağlar</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_ID">
+			<Text>ID</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_GENERATE_NEW_ID">
+			<Text>Yeni ID Oluştur...</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_WIDTH">
+			<Text>Genişlik</Text>
+		</Row>
+		
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_HEIGHT">
+			<Text>Yükseklik</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_RULESET">
+			<Text>Kural Seti</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_MAP_SCRIPT">
+			<Text>Harita Betiği</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD">
+			<Text>Haritayı Mod Olarak Paketle</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_IS_MOD_TT">
+			<Text>İşaretlenirse, World Builder haritası kendi başına bir Mod olarak çalışır ve oyun başlatılırken Harita Türü olarak kullanılabilir. İşaretlenmezse, haritanın daha büyük bir Mod'un parçası olarak kullanıldığı varsayılır.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_MAP">
+			<Text>Referans Haritası</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ATTRIBUTE_REFERENCE_ALPHA">
+			<Text>Referans Alfa Değeri</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_MAP_LOADED">
+			<Text>Referans haritası başarıyla yüklendi</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_MAP_NOT_FOUND">
+			<Text>Referans haritası dosyası bulunamadı</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_RULESET_TT">
+			<Text>Bu haritanın hangi kural seti için yapıldığını belirler.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_SCRIPT_TT">
+			<Text>Varsa, bu haritayı oluşturmak için hangi LUA dosyasının kullanılacağını belirler.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_MAP_TT">
+			<Text>World Builder haritasının üzerine yarı saydam bir katman olarak yerleştirilecek PNG dosyasını belirler.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_TT">
+			<Text>Bu katmanın haritaya kıyasla ne kadar görüneceğini belirler.[NEWLINE]0.0 sadece haritayı, hiç katmanı göstermez; 1.0 sadece katmanı, hiç haritayı göstermez.[NEWLINE]Başlangıç değeri 0.5'tir.</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_SET">
+			<Text>Yeni referans haritası alfa değeri ayarlandı</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD">
+			<Text>Alfa değeri 0.0 ile 1.0 arasında olmalıdır</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REFERENCE_ALPHA_BAD_2">
+			<Text>Alfa değeri bir sayı olmalıdır</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_NAME">
+			<Text>İsimsiz Harita</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MAP_DESCRIPTION">
+			<Text>World Builder tarafından oluşturulmuş İsimsiz Bir Harita</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MOD_TITLE">
+			<Text>İsimsiz Harita Modu</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT_MOD_DESCRIPTION">
+			<Text>World Builder tarafından yapılmış bir Harita Modu</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_ADD_BUTTON">
+			<Text>Ekle</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_REMOVE_BUTTON">
+			<Text>Kaldır</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_FEATURE">
+			<Text>Özellik Yok</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_LOWLAND">
+			<Text>Kıyı Ovası Değil</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_CITY">
+			<Text>Şehir Yok</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_DIRECTION">
+			<Text>Yön Yok</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_NORTHEAST">
+			<Text>Kuzeydoğu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_EAST">
+			<Text>Doğu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHEAST">
+			<Text>Güneydoğu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_SOUTHWEST">
+			<Text>Güneybatı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_WEST">
+			<Text>Batı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DIRECTION_NORTHWEST">
+			<Text>Kuzeybatı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_AUTO_FIT">
+			<Text>Otomatik Sığdır</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ROTATE_PLACEMENT_LEFT_TOOLTIP">
+			<Text>Yerleşim dönüşünü sola çevir</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ROTATE_PLACEMENT_RIGHT_TOOLTIP">
+			<Text>Yerleşim dönüşünü sağa çevir</Text>
+		</Row>
+
+		<Row Tag="LOC_WORLDBUILDER_NO_RESOURCE">
+			<Text>Kaynak Yok</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT">
+			<Text>İyileştirme Yok</Text>
+		</Row>
+    <Row Tag="LOC_WORLDBUILDER_NO_DISTRICT">
+      <Text>Bölge Yok</Text>
+    </Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_ROUTE">
+			<Text>Güzergâh Yok</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_REVEAL_ALL">
+			<Text>Tümünü Göster</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NONE">
+			<Text>Hiçbiri</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLAYER">
+			<Text>Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_LEADER">
+			<Text>Lider</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CIVILIZATION">
+			<Text>Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RANDOM_PLAYER">
+			<Text>Rastgele Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RANDOM_CITY_STATE">
+			<Text>Rastgele Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RANDOM">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ANY">
+			<Text>Herhangi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DEFAULT">
+			<Text>Varsayılan</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ADVANCED">
+			<Text>Gelişmiş</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BASIC">
+			<Text>Temel</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SWITCH_ADV">
+			<Text>Gelişmiş Moda Geç</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SWITCH_BASIC">
+			<Text>Temel Moda Geç</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SWITCH_ADV_POPUP_TITLE">
+			<Text>Dünya Oluşturucu Gelişmiş Moduna Geçilsin mi?</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SWITCH_ADV_POPUP_TEXT">
+			<Text>Gelişmiş Mod halen geliştirme aşamasındadır ve tamamen desteklenmemektedir. Bu modu, gelişmiş senaryo özelliklerini denemek isteyen ileri düzey mod yapıcıların kullanımına sunuyoruz. Bu modda oluşturulan ve oyuna yüklenen modlar Civilization VI'nın kararsız hale gelmesine neden olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_IMPORT_UNSUPPORTED_TEXT">
+			<Text>Uyarı! Harici bir düzenleyicide oluşturulmuş bir haritayı içe aktarmak resmî olarak desteklenmemektedir ve WorldBuilder'da sorunlara yol açabilir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SWITCH_BASIC_TOOLTIP">
+			<Text>Dünya Oluşturucuyu Temel Moda geri döndürür. Bu harita yine de Gelişmiş Mod olarak kaydedilecektir ve Gelişmiş Modda yapılan düzenlemeler bozulmadan kalacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL">
+			<Text>Seviye</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_TRIBE">
+			<Text>Kabile</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_FULL_CIV">
+			<Text>Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_CITY_STATE">
+			<Text>Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CIVILIZATION_LEVEL_FREE_CITIES">
+			<Text>Özgür Şehir</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_OK">
+			<Text>Yerleştirme başarılı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BLANK_PLACEMENT_OK">
+			<Text>{1_Name} yerleştirmesi başarılı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BLANK_PLACEMENT_ERROR">
+			<Text>{1_Name} yerleştirmesi başarısız</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_VIS_SET_OK">
+			<Text>Bu konumu {1_CivName} için görünür yap</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_VIS_CLEAR_OK">
+			<Text>Bu konumu {1_CivName} için görünmez yap</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_VIS_ERROR">
+			<Text>Bu konumun {1_CivName} için görünürlüğü ayarlanamıyor</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_NEEDED">
+			<Text>Bu, bir {1_Name} bölgesi içinde olmalıdır</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CREATE_DISTRICT">
+			<Text>Bunu yerleştirmek için bir {1_Name} bölgesi oluşturmalısınız</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CITY_NEEDED">
+			<Text>Bu, bir şehre yerleştirilmelidir</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_IN_PROGRESS">
+			<Text>Bunlardan biri zaten devam ediyor</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ALREADY_EXISTS">
+			<Text>Bunlardan biri zaten mevcut</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ALREADY_EXISTS_LOCATION">
+			<Text>Bu konumda bunlardan biri zaten mevcut</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_OCCUPIED_BY_ENEMY">
+			<Text>Bölge, bir rakip tarafından işgal edilmiş durumda</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_IS_PILLAGED">
+			<Text>Bölge yağmalanmış</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DISTRICT_REQUIRES">
+			<Text>Bölge şunları gerektirir: </Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_POPULATION">
+			<Text> nüfus</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_IS_CONTAMINATED">
+			<Text>Bölge kirlenmiş durumda</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_HIGHER_TECH">
+			<Text>Uygarlığın bunu yerleştirmek için {1_Name} teknolojisine ihtiyacı var</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_HIGHER_CIVIC">
+			<Text>Uygarlığın bunu yerleştirmek için {1_Name} yönetim bilimine ihtiyacı var</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_FAILURE_UNKNOWN">
+			<Text>Bu yerleştirilemedi ve sebebi tespit edilemiyor</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_FAILURE_FEATURE">
+			<Text>Bu konuma bir özellik yerleştirilemedi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_FEATURE_ROTATION">
+			<Text>Özelliğin dönüşü başarıyla değiştirildi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_FAILURE_FEATURE_ROTATION">
+			<Text>Bu özellik, seçilen dönüşle buraya yerleştirilemez.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_STARTUP">
+			<Text>Dünya Oluşturucu'ya Hoş Geldiniz!</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNIT_PLACED">
+			<Text>Birim başarıyla yerleştirildi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNIT_ERROR">
+			<Text>{1_Name} bu konuma yerleştirilemedi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNIT_ERROR_DISTRICT">
+			<Text>{1_Name} bir Bölge'ye yerleştirilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_PLACED">
+			<Text>Nehir başarıyla yerleştirildi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_REMOVED">
+			<Text>Nehir başarıyla kaldırıldı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_ERROR">
+			<Text>Bu konuma bir nehir yerleştirilemedi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_INVALID_LOCATION">
+			<Text>Nehir parçası için geçersiz konum.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_JOINING_RIVERS">
+			<Text>İki farklı nehir birleştirilemez.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_NOT_NEAR_RIVER_OR_WATER">
+			<Text>Bu konumda birleştirilecek nehir veya su yok.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_SPLITTING_RIVER">
+			<Text>Bir nehir ağzından bölünemez.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RIVER_REMOVED_ERROR">
+			<Text>Bu konumdan bir nehir kaldırılamadı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CLIFF_PLACED">
+			<Text>Uçurum başarıyla yerleştirildi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CLIFF_REMOVED">
+			<Text>Uçurum başarıyla kaldırıldı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CLIFF_ERROR">
+			<Text>Bu konuma bir uçurum yerleştirilemedi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CLIFF_REMOVED_ERROR">
+			<Text>Bu konumdan bir uçurum kaldırılamadı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_FEATURE_REMOVED">
+			<Text>Özellik başarıyla kaldırıldı.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_FEATURE_TO_REMOVE">
+			<Text>Kaldırılacak Özellik bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_WONDER_REMOVED">
+			<Text>Harika başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_WONDER_TO_REMOVE">
+			<Text>Kaldırılacak Harika bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_WONDER_DISTANCE">
+			<Text>Bu konum başka bir Harika'ya çok yakın</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_RESOURCE_REMOVED">
+			<Text>Kaynaklar başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_RESOURCE_TO_REMOVE">
+			<Text>Kaldırılacak Kaynak bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CITY_REMOVED">
+			<Text>Şehir başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CITY_REMOVED_NONE">
+			<Text>Kaldırılacak Şehir bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_DISTRICT_REMOVED">
+			<Text>Bölge başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_DISTRICT_TO_REMOVE">
+			<Text>Kaldırılacak Bölge bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BUILDING_REMOVED">
+			<Text>Bina başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_BUILDING_TO_REMOVE">
+			<Text>Kaldırılacak Bina bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_BUILDING_TO_REMOVE_CITY">
+			<Text>Parselde Şehir bulunmadığı için Bina yerleştirilemez</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_BUILDING_TO_REMOVE_DISTRICT">
+			<Text>Parselde Bölge bulunmadığı için Bina yerleştirilemez</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_IMPROVEMENT_REMOVED">
+			<Text>İyileştirme başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_IMPROVEMENT_TO_REMOVE">
+			<Text>Kaldırılacak İyileştirme bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_GHIMPROVEMENT_REMOVED">
+			<Text>Kabile Köyü başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_GHIMPROVEMENT_TO_REMOVE">
+			<Text>Kaldırılacak Kabile Köyü bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ROUTE_REMOVED">
+			<Text>Yol başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SPAWN_REMOVED">
+			<Text>Başlangıç Konumu başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_NO_SPAWN_TO_REMOVE">
+			<Text>Kaldırılacak Başlangıç Konumu bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNIT_REMOVED">
+			<Text>Birim başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CONTINENT_PLACED">
+			<Text>Bu parsel başarıyla {1_Name}'in bir parçası haline getirildi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CONTINENT_ERROR">
+			<Text>Bu parsel {1_Name}'in bir parçası haline getirilemedi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_OWNERSHIP_SET">
+			<Text>Parselin sahibi başarıyla atandı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_OWNERSHIP_REMOVED">
+			<Text>Sahiplik başarıyla kaldırıldı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_START_POS_SET">
+			<Text>Başlangıç konumu başarıyla ayarlandı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CLEAR_RESOURCES">
+			<Text>Kaynakları Temizle</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_CLEAR_RESOURCES_HELP">
+			<Text>Haritadaki tüm kaynakları kaldırır</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ADVANCED_TOOLS">
+			<Text>Gelişmiş:</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SCATTER_RESOURCES">
+			<Text>Kaynakları Dağıt</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SCATTER_RESOURCES_HELP">
+			<Text>Haritadaki tüm kaynakları temizler ve yenilerini oluşturur (bu işlem birkaç saniye sürecektir)</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_RESOURCES_CLEARED">
+			<Text>Tüm kaynaklar temizlendi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_RESOURCES_SCATTERED">
+			<Text>Tüm kaynaklar temizlenip yeniden oluşturuldu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_CANT_REDO">
+			<Text>Yeniden yapılacak bir şey yok</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_CANT_UNDO">
+			<Text>Geri alınacak bir şey yok</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_REDO">
+			<Text>Yeniden yapma başarılı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_STATUS_UNDO">
+			<Text>Geri alma başarılı</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_LABEL">
+			<Text>Fırça boyutu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_SMALL">
+			<Text>Küçük fırça</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_SMALL_HELP">
+			<Text>Küçük (1 altıgen) fırçayı seçer.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_MEDIUM">
+			<Text>Orta fırça</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_MEDIUM_HELP">
+			<Text>Orta (7 altıgen) fırçayı seçer.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_LARGE">
+			<Text>Büyük fırça</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_BRUSH_LARGE_HELP">
+			<Text>Büyük (19 altıgen) fırçayı seçer.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNDO">
+			<Text>Geri Al</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNDO_TOOLTIP">
+			<Text>Son işlemi geri almak için tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_REDO">
+			<Text>Yinele</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_REDO_TOOLTIP">
+			<Text>Geri alınan son işlemi yinelemek için tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACEMENT_PLACE_PLOT">
+			<Text>Parsel Yerleştir</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_SELECTED_PLOT">
+			<Text>Seçilen parsel:</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_START_POSITION">
+			<Text>Başlangıç konumu:</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLACE">
+			<Text>Yerleştir</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_PLOT">
+			<Text>Parsel</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAP_EDITOR">
+			<Text>Harita Düzenleyicisi</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_MODTITLE">
+			<Text>Mod adı (gerekli)</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_MODDESC">
+			<Text>Mod açıklaması (gerekli)</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_MAPTITLE">
+			<Text>Harita adı (gerekli)</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_MAPDESC">
+			<Text>Harita açıklaması (gerekli)</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_ADDLDATA">
+			<Text>Mod oluşturucunun kullanımı için (isteğe bağlı)</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_DUMMYID">
+			<Text>SAHTE_KİMLİK</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAPEDIT_DUMMYTEXT">
+			<Text>Sahte metin</Text>
+		</Row>
+
+		<!-- Front End Text -->
+		<Row Tag="LOC_SETUP_CREATE_MAP">
+			<Text>Harita Oluştur</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_WORLDBUILDER_START">
+			<Text>Oluştur</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAP_NAME">
+			<Text>Harita Adı</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_WORLDBUILDER_WORLDWRAP">
+			<Text>Dünya Sarması</Text>
+		</Row>		
+		<Row Tag="LOC_WORLDBUILDER_MAP_NAME_DESC">
+			<Text>Haritanın adı. Daha sonra değiştirilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MAP_MOD_TEMPLATE">
+			<Text>Harita: {1_MapName}</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_RETURN_TO_WORLDBUILDER">
+			<Text>Haritaya Dön</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_MENU_NAME">
+			<Text>Menü</Text>
+		</Row>
+		
+		<!-- World Builder Maps -->
+		<Row Tag="LOC_MAP_WORLDBUILDER_EMPTY">
+			<Text>Boş Harita</Text>
+		</Row>
+		<Row Tag="LOC_MAP_WORLDBUILDER_EMPTY_DESCRIPTION">
+			<Text>Boş bir tuval.</Text>
+		</Row>
+		
+		
+		<!-- Misc strings -->
+		<Row Tag="LOC_LEADER_FREE_CITIES_NAME">
+			<Text>Özgür Şehirler Lideri</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_AI">
+			<Text>Yapay Zeka</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_HUMAN">
+			<Text>İnsan</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_UNDEFINED">
+			<Text>TANIMLANMAMIŞ</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TITLE">
+			<Text>Dünya Oluşturucu</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_ERA">
+			<Text>Çağ</Text>
+		</Row>
+		<Row Tag="LOC_WORLDBUILDER_TOOL_ITEM_TIP">
+			<Text>Kısayol: {1_KeyName}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

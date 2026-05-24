@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+  <BaseGameText>
+    <Row Tag="LOC_UNITNAME_BASE_TEMPLATE">
+      <Text>{1_Prefix} {2_Suffix}</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT">
+      <Text>Rastgele Seç</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_CHOOSE_NAME">
+      <Text>Bu birim için bir ad seçin:</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_CONFIRM">
+      <Text>Adı Onayla</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_RANDOM_FIRST">
+      <Text>İlk Adı Rastgele Seç</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_RANDOM_SECOND">
+      <Text>İkinci Adı Rastgele Seç</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_1ST">
+      <Text>1.</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_2ND">
+      <Text>2.</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_3RD">
+      <Text>3.</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_4TH">
+      <Text>4.</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_AIMED">
+      <Text>Nişancı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ALPHA">
+      <Text>Alfa</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ALPINE">
+      <Text>Alpin</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ANGEL">
+      <Text>Melek</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ARMORED">
+      <Text>Zırhlı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BIG_RED">
+      <Text>Kızıl</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLACK">
+      <Text>Kara</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLOOD">
+      <Text>Kan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BLOODY">
+      <Text>Kanlı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BRAVE">
+      <Text>Cesur</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_BULL">
+      <Text>Boğa</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_CELESTIAL">
+      <Text>Göksel</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_COLONIAL">
+      <Text>Sömürge</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_CRAZY">
+      <Text>Deli</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEAD_CENTER">
+      <Text>Merkez</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEADLY">
+      <Text>Ölümcül</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DEATHS">
+      <Text>Ölüm</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DELTA">
+      <Text>Delta</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DESERT">
+      <Text>Çöl</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DIRTY">
+      <Text>Kirli</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DRAGON">
+      <Text>Ejderha</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_DRAWN">
+      <Text>Kader</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ELITE">
+      <Text>Seçkin</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_FIGHTING">
+      <Text>Savaşan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_FLYING">
+      <Text>Uçan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GALLOPING">
+      <Text>Dörtnala</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GHOST">
+      <Text>Hayalet</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GLORY">
+      <Text>Şan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GOLDEN">
+      <Text>Altın</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GREAT">
+      <Text>Büyük</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GREEN">
+      <Text>Yeşil</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_GRIM">
+      <Text>Merhametsiz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HADES">
+      <Text>Cehennem</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HELLISH">
+      <Text>Cehennemsi</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HELLS">
+      <Text>Cehennemler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_HOLY">
+      <Text>Mukaddes</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_INVINCIBLE">
+      <Text>Mağlup Edilemez</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_IRON">
+      <Text>Demir</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_JUNGLE">
+      <Text>Orman</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_KINGS">
+      <Text>Kral'ın</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LAVA">
+      <Text>Lav</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LIGHT">
+      <Text>Işık</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LIGHTNING">
+      <Text>Yıldırım</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LION">
+      <Text>Aslan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_LONG">
+      <Text>Uzun</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MAGNIFICENT">
+      <Text>Muhteşem</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MOUNTAIN">
+      <Text>Dağ</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_MOUNTED">
+      <Text>Atli</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_NOMADIC">
+      <Text>Göçebe</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_OLD">
+      <Text>Kadim</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ORPHAN">
+      <Text>Öksüz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_PARTISAN">
+      <Text>Partizan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_PRESIDENTS">
+      <Text>Başkanın</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_QUEENS">
+      <Text>Kraliçenin</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RAGGED">
+      <Text>Paçavra</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RAINING">
+      <Text>Yağmur</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_REVOLUTIONARY">
+      <Text>Devrimci</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_RIVER">
+      <Text>Nehir</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ROCK">
+      <Text>Kaya</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_ROYAL">
+      <Text>Kraliyet</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SACRED">
+      <Text>Kutsal</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SALTY">
+      <Text>Tuzlu</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SCREAMING">
+      <Text>Çığlık Atan</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SEA">
+      <Text>Deniz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SHARP">
+      <Text>Keskin</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SILENT">
+      <Text>Sessiz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_SOARING">
+      <Text>Yükselen</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STONE">
+      <Text>Taş</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STONEWALL">
+      <Text>Taş Duvar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_STORM">
+      <Text>Fırtına</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TALL">
+      <Text>Uzun</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TEN">
+      <Text>On</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TERRIBLE">
+      <Text>Korkunç</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_THUNDERING">
+      <Text>Gürleyen</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TIMBER">
+      <Text>Kereste</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TROPIC">
+      <Text>Tropik</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_TUNDRA">
+      <Text>Tundra</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WALKING">
+      <Text>Yürüyen</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WAR">
+      <Text>Savaş</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WHITE">
+      <Text>Beyaz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WILD">
+      <Text>Vahşi</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_PREFIX_WINDING">
+      <Text>Kıvrımlı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARTISTS">
+      <Text>Sanatçılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BANNER">
+      <Text>Sancak</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BASTARDS">
+      <Text>Piçler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BATTALION">
+      <Text>Tabur</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BERETS">
+      <Text>Bereler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BODYGUARDS">
+      <Text>Muhafızlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOOTS">
+      <Text>Çizmeler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOYS">
+      <Text>Çocuklar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BRAVES">
+      <Text>Cesurlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BRIGADE">
+      <Text>Tugay</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BROTHERS">
+      <Text>Kardeşler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BUTCHERS">
+      <Text>Kasap</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CAPS">
+      <Text>Börklüler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CHAMPIONS">
+      <Text>Şampiyonlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CIRCUS">
+      <Text>Sirk</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMPANY">
+      <Text>Bölük</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMRADES">
+      <Text>Yoldaşlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CROSSES">
+      <Text>Haçlılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CROWS">
+      <Text>Kuzgunlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEAD">
+      <Text>Ölüler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEMONS">
+      <Text>İblisler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEVILS">
+      <Text>Şeytanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DOGS">
+      <Text>Köpekler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DOZEN">
+      <Text>Düzine</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DRAGONS">
+      <Text>Ejderhalar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EAGLES">
+      <Text>Kartallar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EXCELLERS">
+      <Text>Mükemmeller</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FORCE">
+      <Text>Kuvvet</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FUSILIERS">
+      <Text>Füsilciler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GAMBLERS">
+      <Text>Kumarbazlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GANG">
+      <Text>Çete</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GARDE">
+      <Text>Muhafız</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GIANTS">
+      <Text>Devler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GOONS">
+      <Text>Kabadayılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GRENADIERS">
+      <Text>Grenadyerler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUARD">
+      <Text>Muhafız</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUARDIANS">
+      <Text>Koruyucular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HATS">
+      <Text>Şapkalılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HELMETS">
+      <Text>Miğferler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORDE">
+      <Text>Sürü</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HOUNDS">
+      <Text>Tazılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HUNTERS">
+      <Text>Avcılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IMMORTALS">
+      <Text>Ölümsüzler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INFANTRY">
+      <Text>Piyade</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IRONS">
+      <Text>Demirler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KILLERS">
+      <Text>Katiller</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KINGS">
+      <Text>Krallar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LADS">
+      <Text>Delikanlılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LAMBS">
+      <Text>Kuzular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LEGION">
+      <Text>Lejyon</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LIBERATORS">
+      <Text>Kurtarıcılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LINE">
+      <Text>Hat</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LIONS">
+      <Text>Aslanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARTYRS">
+      <Text>Şehitler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ONE">
+      <Text>Seçkinler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_OWN">
+      <Text>Öz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PANTHERS">
+      <Text>Panterler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PEACEMAKERS">
+      <Text>Barışçılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PHANTOMS">
+      <Text>Hayaletler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PROFESSIONALS">
+      <Text>Profesyoneller</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAIDERS">
+      <Text>Akıncılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAMPAGERS">
+      <Text>Çapulcular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REDS">
+      <Text>Kızıllar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REGIMENT">
+      <Text>Alay</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RELIABLES">
+      <Text>Güvenilirler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SAINTS">
+      <Text>Azizler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SAVAGES">
+      <Text>Vahşiler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SEEKERS">
+      <Text>Arayıcılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHIELDS">
+      <Text>Kalkanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHIRTS">
+      <Text>Gömlekler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SONS">
+      <Text>Oğullar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TIGERS">
+      <Text>Kaplanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TIMBERWOLVES">
+      <Text>Orman Kurtları</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TOUGHS">
+      <Text>Sertler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TROOP">
+      <Text>Birliği</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VOLUNTEERS">
+      <Text>Gönüllüler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARLORDS">
+      <Text>Savaş Ağaları</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WATCH">
+      <Text>Nöbetçiler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WIDOWMAKERS">
+      <Text>Dul Bırakanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WOLFHOUNDS">
+      <Text>Kurt Köpekleri</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WOLVES">
+      <Text>Kurtlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_APES">
+      <Text>Büyük Maymunlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BLADES">
+      <Text>Kılıçlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_COMMANDOS">
+      <Text>Komandolar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EYES">
+      <Text>Gözler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_JACKETS">
+      <Text>Ceketler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNIVES">
+      <Text>Hançerler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARAUDERS">
+      <Text>Akıncılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NOMADS">
+      <Text>Göçebeler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_OUTLAWS">
+      <Text>Haydutlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PATHFINDERS">
+      <Text>Öncüler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RANGERS">
+      <Text>Korucular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RECON">
+      <Text>Keşif</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RUNNERS">
+      <Text>Koşucular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SCOUTS">
+      <Text>İzciler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SNAKES">
+      <Text>Yılanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WANDERERS">
+      <Text>Gezginler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARROWS">
+      <Text>Oklar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARTILLERY">
+      <Text>Topçu</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BATTERY">
+      <Text>Batarya</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BLAZERS">
+      <Text>Ateş Saçanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOMBARDIERS">
+      <Text>Bombardıman</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOWS">
+      <Text>Yaylar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DEATH">
+      <Text>Ölüm</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FIRE_BREATHERS">
+      <Text>Soluyanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNNERS">
+      <Text>Topçular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNOCKERS">
+      <Text>Vurucular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_MARKSMEN">
+      <Text>Keskin Nişancılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RAIN">
+      <Text>Yağmur</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARPS">
+      <Text>Keskinler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARPSHOOTERS">
+      <Text>Keskin Nişancılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SLINGERS">
+      <Text>Sapancılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SNIPERS">
+      <Text>Keskin Nişancılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STRIKERS">
+      <Text>Vurucular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DRAGOONS">
+      <Text>Ejderha Süvarileri</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FEATHERS">
+      <Text>Tüyler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FOXES">
+      <Text>Tilkiler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HAMMER">
+      <Text>Çekiç</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORSE">
+      <Text>At</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORSEMEN">
+      <Text>Süvariler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HUSSARS">
+      <Text>Hussarlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KNIGHTS">
+      <Text>Şövalyeler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_KORPS">
+      <Text>Kolordusu</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_LANCERS">
+      <Text>Mızraklı Süvariler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_PONIES">
+      <Text>Midilliler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RIDERS">
+      <Text>Biniciler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STEEDS">
+      <Text>Aygırlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VANGUARD">
+      <Text>Öncü Birlik</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARHORSES">
+      <Text>Savaş Atı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ARMADA">
+      <Text>Armada</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BOUNTY">
+      <Text>Ödül</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BUCCANEERS">
+      <Text>Korsanlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_CONQUEROR">
+      <Text>Fatih</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_DREADNOUGHT">
+      <Text>Zırhlı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_EEL">
+      <Text>Yılan Balığı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ENDEAVOR">
+      <Text>Çaba</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FLAGSHIP">
+      <Text>Amiral Gemisi</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FLOTILLA">
+      <Text>Filo</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INTREPID">
+      <Text>Cesur</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INVINCIBLE">
+      <Text>Yenilmez</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_IRONSIDES">
+      <Text>Demir Surat</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NARWHAL">
+      <Text>Narval</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ORCA">
+      <Text>Katil Balina</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REDOUBTABLE">
+      <Text>Korkusuz</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_RESOLUTION">
+      <Text>Kararlılık</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_REVENGE">
+      <Text>İntikam</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SEAWOLVES">
+      <Text>Deniz Kurtları</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SHARK">
+      <Text>Köpek Balığı</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_STRIKE_GROUP">
+      <Text>Grup</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_TRIDENT">
+      <Text>Trident</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VICTORY">
+      <Text>Zafer</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WHALE">
+      <Text>Balina</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ACES">
+      <Text>Aslar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_AIRMEN">
+      <Text>Havacılar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_ANGELS">
+      <Text>Melekler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_BIRDS">
+      <Text>Kuşlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FALCONS">
+      <Text>Şahinler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_FLYERS">
+      <Text>Uçucular</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNFIGHTERS">
+      <Text>Silahşörler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_GUNS">
+      <Text>Silahlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HAWKS">
+      <Text>Atmacalar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_HORNETS">
+      <Text>Eşekarıları</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INTERCEPTORS">
+      <Text>Önleyiciler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_INTRUDERS">
+      <Text>Saldırganlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_NIGHTSTALKERS">
+      <Text>Gece Avcıları</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_SQUADRON">
+      <Text>Filo</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_THUNDERBOLTS">
+      <Text>Yıldırımlar</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_VAMPIRES">
+      <Text>Vampirler</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WARHAWKS">
+      <Text>Savaş Şahinleri</Text>
+    </Row>
+    <Row Tag="LOC_UNITNAME_SUFFIX_WING">
+      <Text>Kanat</Text>
+    </Row>
+
+	  <Row Tag="LOC_UNITNAME_PREFIX_HEAVENLY">
+		  <Text>Semavi</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_BRIGHT">
+		  <Text>Parlak</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_HIDDEN">
+		  <Text>Gizli</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_JADE">
+		  <Text>Yeşim</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_CRIMSON">
+		  <Text>Kızıl</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_SPIRIT">
+		  <Text>Ruh</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_ETERNAL">
+		  <Text>Ebedi</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_NORTHERN">
+		  <Text>Kuzey</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_SOUTHERN">
+		  <Text>Güney</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_EASTERN">
+		  <Text>Doğu</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_WESTERN">
+		  <Text>Batı</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_EARTHEN">
+		  <Text>Toprak</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_GALE">
+		  <Text>Fırtına</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_FIRE">
+		  <Text>Ateş</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_METAL">
+		  <Text>Metal</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_WATER">
+		  <Text>Su</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_BOXING">
+		  <Text>Boks</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_OPEN">
+		  <Text>Açık</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_RAGING">
+		  <Text>Öfkeli</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_CALM">
+		  <Text>Sakin</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_PREFIX_SLEEPING">
+		  <Text>Uyuyan</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FLAMES">
+		  <Text>Alevler</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_WINDS">
+		  <Text>Rüzgârlar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FLOODS">
+		  <Text>Seller</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MONKEYS">
+		  <Text>Maymunlar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_CRANES">
+		  <Text>Turnalar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MANTIS">
+		  <Text>Mantis</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_PANDAS">
+		  <Text>Pandalar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_ORDER">
+		  <Text>Düzen</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_HAND">
+		  <Text>El</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FIST">
+		  <Text>Yumruk</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_CLAW">
+		  <Text>Penge</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_STARS">
+		  <Text>Yıldızlar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_PALM">
+		  <Text>Palmiye</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MENDICANTS">
+		  <Text>Dilenciler</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_PILGRIMS">
+		  <Text>Hacılar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_TEACHERS">
+		  <Text>Öğretmenler</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_MASTERS">
+		  <Text>Üstatlar</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_SWEEPERS">
+		  <Text>Süpürücüler</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_FOOT">
+		  <Text>Piyade</Text>
+	  </Row>
+	  <Row Tag="LOC_UNITNAME_SUFFIX_GRASSHOPPERS">
+		  <Text>Çekirgeler</Text>
+	  </Row>
+  </BaseGameText>
+</GameData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Standard modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NEIGHBOR">
+			<Text>Chandragupta, İmparatorluğunun kendi topraklarına bu denli yakın olmasından hoşnut değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NOT_NEIGHBOR">
+			<Text>Chandragupta, İmparatorluğunun kendi topraklarından uzak olmasından memnuniyet duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_HIGH_SCIENCE">
+			<Text>Seondeok, bilime gösterdiğin çabalardan ötürü memnuniyet duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>Seondeok, bilimi göz ardı etmenden ötürü hayal kırıklığına uğramış durumda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_PEACEFUL">
+			<Text>Robert the Bruce, komşularınla barışı korumandan memnuniyet duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_WARLIKE">
+			<Text>Robert the Bruce, komşularınla savaşmandan ötürü dehşete kapılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_MANY_ALLIANCES">
+			<Text>Poundmaker, ittifaklar kurma çabalarını onaylıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_FEW_ALLIANCES">
+			<Text>Poundmaker, bu kadar az ittifak içinde olmandan mutsuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_HIGH_WALLS">
+			<Text>Tamar, şehirlerini tahkim etmenden memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>Tamar, şehirlerindeki sur eksikliğinden ötürü dehşete kapılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_GAINING_CITIES">
+			<Text>Lautaro, bağlılık yoluyla toprak kazanılmasını onaylıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>Lautaro, halkının bağlılığını sağlayamayanlardan hoşlanmaz.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

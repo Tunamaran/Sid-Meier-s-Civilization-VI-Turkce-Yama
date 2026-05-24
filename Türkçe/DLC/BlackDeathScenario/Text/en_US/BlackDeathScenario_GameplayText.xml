@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_PRODUCTION_ITEM_DECONTAMINATE"/>
+		<Delete Tag="LOC_TOOLTIP_PLOT_CONTAMINATED_TEXT"/>
+		<Delete Tag="LOC_GOVERNMENT_MONARCHY_NAME"/>
+		<Delete Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY"/>
+		<Delete Tag="LOC_HUD_CITY_PURCHASE_TILE"/>
+		<Delete Tag="LOC_NOTIFICATION_UNIT_LOST_TO_RADIATION_POISONING"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- REPLACEMENTS -->
+		<Row Tag="LOC_PRODUCTION_ITEM_DECONTAMINATE">
+			<Text>(Veba Altındaki)</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PLOT_CONTAMINATED_TEXT">
+			<Text>[COLOR:Civ6Red]VEBA ALTINDAKİ: {1_Turns} tur[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_MONARCHY_NAME">
+			<Text>Katolik Monarşisi</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>Her şehirde +3 [ICON_Faith] İnanç. Öldürülen her düşman birliğinin gücünün %50'si kadar bonus [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_PURCHASE_TILE">
+			<Text>Zorla Arazi Edinimi</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_BREST">
+			<Text>Brest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANGERS">
+			<Text>Angers</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LANCASTER">
+			<Text>Lancaster</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUBLIN">
+			<Text>Dublin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUNICH">
+			<Text>Münih</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRASBOURG">
+			<Text>Strazburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRANDENBURG">
+			<Text>Brandenburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEON">
+			<Text>Leon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UTRECHT">
+			<Text>Utrecht</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_UNIT_SCHOLAR_NAME">
+			<Text>Âlim</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCHOLAR_DESCRIPTION">
+			<Text>[Icon_Science] Bilim kazanmak için veba altındaki şehirleri inceleyebilen sivil birlik. Âlimler 2 kez kullanılabilir. Bu sayı Studia Generalia politikasıyla artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PLAGUE_DOCTOR_NAME">
+			<Text>Veba Doktoru</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PLAGUE_DOCTOR_DESCRIPTION">
+			<Text>Veba altındaki bölgelerde vebanın süresini kısaltabilen ve şehirlere Bağlılık kazandırabilen sivil birlik. Veba Doktorları 2 kez kullanılabilir. Bu sayı Studia Generalia politikasıyla artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FLAGELLANT_NAME">
+			<Text>Kırbaççı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FLAGELLANT_DESCRIPTION">
+			<Text>Veba altındaki şehirlerden [Icon_Faith] İnanç, [Icon_Culture] Kültür ve Bağlılık kazanabilen sivil birlik.</Text>
+		</Row>
+		<!-- Unit Commands -->
+		<Row Tag="LOC_UNITCOMMAND_STUDY_NAME">
+			<Text>Veba Araştırması</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_STUDY_DESCRIPTION">
+			<Text>{1_Num} [ICON_Science] Bilim kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_STUDY_DISABLED_TT">
+			<Text>[COLOR:Civ6Red]Veba salgınına uğramış bir şehirde kullanılmalıdır. Daha önce Araştırma yapılmış bir şehirde kullanılamaz.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_MINISTER_NAME">
+			<Text>Hastalara Hizmet</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_MINISTER_DESCRIPTION">
+			<Text>Bu bölgedeki vebanın süresini %50 azaltın.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_MINISTER_DISABLED_TT">
+			<Text>[COLOR:Civ6Red]Veba salgınına uğramış bir bölgede kullanılmalıdır.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PACIFY_NAME">
+			<Text>Şehri Sakinleştir</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PACIFY_DESCRIPTION">
+			<Text>Şehre {1_Num} Bağlılık ekleyin.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PACIFY_DISABLED_TT">
+			<Text>[COLOR:Civ6Red]Bir şehirde kullanılmalıdır.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PURGE_NAME">
+			<Text>Günahları Arındır</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PURGE_DESCRIPTION">
+			<Text>{1_Num} [ICON_Faith] İnanç ve {2_Num} [ICON_Culture] Kültür kazanın. Şehre {3_Num} Bağlılık ekleyin. Kırbaççı bu eylem sonucu tüketilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PURGE_DISABLED_TT">
+			<Text>[COLOR:Civ6Red]Veba salgınına uğramış bir şehirde kullanılmalıdır.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HOLY_FERVOR_NAME">
+			<Text>Kutsal Coşku</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HOLY_FERVOR_DESCRIPTION">
+			<Text>{1_Num} [ICON_Faith] İnanç harcayarak bu birimin hareket ve saldırı puanlarını yenileyin. Tur başına yalnızca bir kez kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HOLY_FERVOR_DISABLED_TT">
+			<Text>[COLOR:Civ6Red]Yalnızca hareket ettikten veya bir eylem gerçekleştirdikten sonra kullanılabilir.[ENDCOLOR]</Text>
+		</Row>
+		<!-- Unit Abilities -->
+		<Row Tag="LOC_ABILITY_TEUTONIC_KNIGHT_NAME">
+			<Text>Haçlı Şevki</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TEUTONIC_KNIGHT_DESCRIPTION">
+			<Text>Düşman topraklarında +8 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_SCENARIO_ABILITY_TEUTONIC_KNIGHT_STRENGTH_ENEMY_TERRITORY_DESCRIPTION">
+			<Text>Düşman topraklarında +{1_Amount} Muharebe Gücü.</Text>
+		</Row>
+		<!-- Districts -->
+		<Row Tag="LOC_DISTRICT_WALLED_QUARTER_NAME">
+			<Text>Surlu Mahalle</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WALLED_QUARTER_DESCRIPTION">
+			<Text>Her turda veba ölümlerini önleme şansı %15.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür, komşu Tiyatro Meydanı bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_GOLD">
+			<Text>+{1_num} [ICON_Gold] Altın, komşu Ticaret Merkezi bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_FAITH">
+			<Text>+{1_num} [ICON_Faith] İnanç, komşu Kutsal Alan bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Bilim, komşu Kampüs bölgesinden.</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="LOC_BUILDING_GUILDHALL_NAME">
+			<Text>Lonca Binası</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MASS_GRAVE_NAME">
+			<Text>Toplu Mezar</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MASS_GRAVE_DESCRIPTION">
+			<Text>Bu şehirdeki veba süresini 2 tur azaltır (en az 1 tura kadar).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_SEWER_DESCRIPTION">
+			<Text>Her turda veba kaynaklı ölümleri önleme şansı %20.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PLAGUE_HOSPITAL_NAME">
+			<Text>Veba Hastanesi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PLAGUE_HOSPITAL_DESCRIPTION">
+			<Text>Âlim ve Veba Doktoru inşa ederken %50 [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KEEP_NAME">
+			<Text>Hisar</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KEEP_DESCRIPTION">
+			<Text>Bu şehirdeki veba süresini 1 tur azaltır (en az 1 tura kadar).</Text>
+		</Row>
+		<!-- Techs -->
+		<Row Tag="LOC_TECH_SCENARIO_CIVIL_ENGINEERING_NAME">
+			<Text>İnşaat Mühendisliği</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_MEDICINE_NAME">
+			<Text>Tıp</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_INVENTION_NAME">
+			<Text>İcat</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_INVENTION_DESCRIPTION">
+			<Text>Senaryoyu kazan.</Text>
+		</Row>
+		<!-- Civics -->
+		<Row Tag="LOC_CIVIC_SCENARIO_FEUDALISM_DESCRIPTION">
+			<Text>Çiftlik iyileştirmelerinden +1 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_WAGE_REFORM_NAME">
+			<Text>Ücret Reformu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_HIGHER_LEARNING_NAME">
+			<Text>Yüksek Öğrenim</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_LABOR_ECONOMY_NAME">
+			<Text>İşgücü Ekonomisi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_URBANIZATION_NAME">
+			<Text>Kentleşme</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_MIDDLE_CLASS_NAME">
+			<Text>Orta Sınıf</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_MIDDLE_CLASS_DESCRIPTION">
+			<Text>Senaryoyu kazan.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_SCENARIO_POLICY_CHIVALRY_DESCRIPTION">
+			<Text>+%50 [ICON_Production] Askeri birlikler için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_POLICY_SERFDOM_DESCRIPTION">
+			<Text>Çiftlikler ve Plantasyonlar +1 [ICON_Food] Besin kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_POLICY_TOWN_CHARTERS_DESCRIPTION">
+			<Text>+%100 Ticaret Merkezi bölgesi komşuluk bonusları.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_POLICY_MERITOCRACY_DESCRIPTION">
+			<Text>+%100 Kampüs bölgesi komşuluk bonusları.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEALTY_NAME">
+			<Text>Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FEALTY_DESCRIPTION">
+			<Text>+%50 [ICON_Production] Sivil birlikler için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_UNDERCLASS_NAME">
+			<Text>Kentli Alt Sınıf</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_UNDERCLASS_DESCRIPTION">
+			<Text>Tüm şehirlerde +2 [ICON_Gold] Altın ve +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STUDIA_GENERALIA_NAME">
+			<Text>Studia Generalia</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_STUDIA_GENERALIA_DESCRIPTION">
+			<Text>Yeni eğitilen Bilginler 2 ek kullanım hakkı kazanır. Yeni eğitilen Veba Doktorları 1 ek kullanım hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COTTAGE_INDUSTRIES_NAME">
+			<Text>Ev Sanayii</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COTTAGE_INDUSTRIES_DESCRIPTION">
+			<Text>Atölye binalarından +3 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKILLED_TRADES_NAME">
+			<Text>Nitelikli Zanaatlar</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKILLED_TRADES_DESCRIPTION">
+			<Text>+%100 Sanayi Bölgesi komşuluk bonusları.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_SERVANTS_NAME">
+			<Text>Kamu Görevlileri</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_SERVANTS_DESCRIPTION">
+			<Text>[ICON_Gold] Altın ile bina ve sivil birlik satın alırken %50 indirim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SPECIALIZATION_NAME">
+			<Text>Uzmanlaşma</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SPECIALIZATION_DESCRIPTION">
+			<Text>+4 [ICON_Production] Fabrika binalarından Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMERCIAL_LEAGUE_NAME">
+			<Text>Ticaret Birliği</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMERCIAL_LEAGUE_DESCRIPTION">
+			<Text>+4 [ICON_Gold] Lonca binalarından Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INDENTURE_NAME">
+			<Text>Borç Sözleşmesi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INDENTURE_DESCRIPTION">
+			<Text>Veba salgını sırasında iyileştirilmiş bölgeler çalıştırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LABOR_MARKET_NAME">
+			<Text>İş Gücü Piyasası</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LABOR_MARKET_DESCRIPTION">
+			<Text>+1 [ICON_Housing] Bölge başına Konut, tüm şehirlerde +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CIVIL_QUARANTINE_NAME">
+			<Text>Sivil Karantina</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CIVIL_QUARANTINE_DESCRIPTION">
+			<Text>+2 [ICON_Science] Kampüs bölgelerinden Bilim. Veba altındaki şehirler her tur %10 ihtimalle [ICON_Citizen] Nüfus kaybı yaşamaz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POGROM_NAME">
+			<Text>Pogrom</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POGROM_DESCRIPTION">
+			<Text>Tüm şehirlerde +2 [ICON_Culture] Kültür, +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PATRONAGE_NAME">
+			<Text>Hamilik</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PATRONAGE_DESCRIPTION">
+			<Text>+100% Tiyatro Meydanı bölgesi komşuluk bonusları.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NOBLESSE_OBLIGE_NAME">
+			<Text>Soyluluk Yükümlülüğü</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NOBLESSE_OBLIGE_DESCRIPTION">
+			<Text>Birim başına tur başına bakım maliyeti 1 [ICON_Gold] Altın azalır.</Text>
+		</Row>
+		<!-- Misc -->
+		<Row Tag="LOC_SCENARIO_GOVT_INHERENT_BONUS_MONARCHY">
+			<Text>Yok.</Text>
+		</Row>
+		<!-- ************************************************ -->
+		<!-- UI -->
+		<!-- ************************************************ -->
+		<!-- HUD -->
+		<Row Tag="LOC_SCENARIO_HUD_CHARGES">
+			<Text>Kullanım</Text>
+		</Row>
+		<Row Tag="LOC_FLYOVER_PLAGUE_POS">
+			<Text>[COLOR:FoodDark]+{1_Num} Veba[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_FLYOVER_PLAGUE">
+			<Text>[COLOR:FoodDark]{1_Num} Veba[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_FLYOVER_LOYALTY_POS">
+			<Text>[COLOR:Happiness]+{1_Num} Bağlılık[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_FLYOVER_LOYALTY">
+			<Text>[COLOR:Happiness]{1_Num} Bağlılık[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_FLYOVER_HOLY_FERVOR">
+			<Text>[COLOR_FLOAT_FAITH]Kutsal Coşku![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_PAPAL_SLOT_NAME">
+			<Text>Papalık Politikası</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_PAPAL_SLOT_DESC">
+			<Text>Maliyet: {1_Num} [ICON_Faith] Tur Başına İnanç</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_PAPAL_SLOT_FAITH_TT">
+			<Text>Papalık Politikası'ndan {1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_PLOTINFO_COERCE_LABEL">
+			<Text>Cebri Kullanım ({1_Num} [ICON_Gold] Altın)</Text>
+		</Row>
+		<Row Tag="LOC_PLOTINFO_COERCE_TT">
+			<Text>Bu bölgeyi {1_NumTurns} tur boyunca cebri kullanıma al. Cebri kullanımdaki bölgeler veba salgını sırasında bile normal şekilde çalışılabilir, geliştirilebilir veya üzerine inşa yapılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_COERCE">
+			<Text>Bu bölgeyi cebri kullanıma almak için {1_num} daha [ICON_Gold] Altın'a ihtiyacın var.</Text>
+		</Row>
+		<Row Tag="LOC_PLOTINFO_COERCED_TURNS_LABEL">
+			<Text>Cebri Kullanım: {1_Num} Tur</Text>
+		</Row>
+		<Row Tag="LOC_HUD_PLAGUE_LENS">
+			<Text>Veba</Text>
+		</Row>
+		<Row Tag="LOC_HUD_PLAGUE_LENS_TT">
+			<Text>Kara Veba'nın bulaştığı bölgeleri gösterir (siyah bölgeler en üst düzeyde enfektedir, beyaz bölgeler iyileşmeye yakındır).</Text>
+		</Row>
+		<Row Tag="LOC_HUD_PLAGUE_LENS_KEY_MIN">
+			<Text>Veba Mevcut</Text>
+		</Row>
+		<Row Tag="LOC_HUD_PLAGUE_LENS_KEY_MAX">
+			<Text>Veba Salgını</Text>
+		</Row>
+		<!-- Notifications -->
+		<Row Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_RUMOR_MESSAGE">
+			<Text>Veba Söylentisi</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_RUMOR_SUMMARY">
+			<Text>Kara Ölüm'ün {1_CityName} şehrinde görülmüş olabileceğine dair haberler geldi.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_OUTBREAK_MESSAGE">
+			<Text>Veba Salgını!</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_NOTIFICATION_PLAGUE_OUTBREAK_SUMMARY">
+			<Text>Kara Ölüm, şehrimiz {1_CityName}'e ulaştı!</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_NOTIFICATION_FRANCE_PAPAL_SLOT_SUMMARY">
+			<Text>Papalık Politikası yuvamızı kullanmayı sürdürmek için yeterli [ICON_Faith] İnanç yok.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_NOTIFICATION_FRANCE_PAPAL_SLOT_MESSAGE">
+			<Text>Papalık Politikası Düştü!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_RADIATION_POISONING">
+			<Text>Bir {1_UnitName}, veba nedeniyle kaybedildi.</Text>
+		</Row>
+		<!-- Victory Conditions -->
+		<Row Tag="LOC_WORLD_RANKINGS_BLACKDEATH_SCENARIO_RULES">
+			<Text>Bu senaryoda, Orta Çağ uygarlığınızı meşhur Kara Veba'nın pençesinde yönetmeli, nüfusun ölüm ve umutsuzlukla boğuştuğu sırada kültürel ve bilimsel çabalarınızı canlı tutmalısınız. Zafer için ya son Teknoloji (İcat) ya da son Yönetim Bilimi'ne (Orta Sınıf) ulaşmalı, gelecek Aydınlanma'nın tohumlarını ekmelisiniz.[NEWLINE][NEWLINE]VEBA[NEWLINE][NEWLINE]Kara Veba, 85 tur boyunca dalgalar halinde kıtayı kasıp kavuracak. Veba, her ulustaki liman kentlerinden köken alır ve kırsala doğru yayılır. Dağlar hariç her türlü kara bölgesine yayılabilir; ancak şehirlere, yollara, Liman Bölgesi içeren Kıyılara ve kırsal iyileştirmelere daha kolay sıçrar. Veba bir bölgeye ulaştığında, o bölge birkaç tur boyunca [COLOR:Red]Veba Vurmuş[ENDCOLOR] hale gelir. Süre dolduğunda bölge iyileşir, ancak veba süresince şu etkiler geçerlidir:[NEWLINE][NEWLINE][COLOR:Red][ICON_BULLET]Veba vurmuş bölgeler vatandaşlar tarafından çalışılamaz, iyileştirilemez veya onarılamaz; ayrıca bölge inşa etmek veya mevcut bir bölgeye bina eklemek için kullanılamaz.[NEWLINE][NEWLINE][ICON_BULLET]Bölge bir şehir merkeziyse, vebanın kaldığı her turda yüksek bir ihtimalle bir nüfus kaybedilir. Bu ihtimal, belirli binalar inşa edilerek veya belirli hükümet politikaları kullanılarak azaltılabilir.[NEWLINE][NEWLINE][ICON_BULLET]Turunu veba vurmuş bir bölgede bitiren birlikler 20 hasar alır.[ENDCOLOR][NEWLINE][NEWLINE]Kara Veba ile mücadele etmek için şehirlerinizin felaket karşısında çalışmaya devam etme gücünü koruyun. Vatandaşlarınız çalışabilirken gerekli bölgeleri inşa edin. Şehirleriniz felç olduğunda bina ve birlik satın alabilmek için [ICON_Gold] Altın ve [ICON_Faith] İnanç rezervlerinizi yüksek tutun. Bilim ve kültür merkezlerini erken kurun ve elinizden gelen en iyi şekilde koruyun. Veba Doktorları kullanılabilir olduğunda, en savunmasız bölgelerinizi güvence altına almak veya sarsılan şehirlerin Bağlılık'ını desteklemek için onları kullanın.[NEWLINE][NEWLINE]Zorluk seviyesi [ICON_GOLD] Altın ve [ICON_FAITH] İnanç'ı etkiler.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_BLACKDEATH_REQUIRES_PLAYER_HAS_FINAL_CIVIC_PROGRESS">
+			<Text>Yönetim Bilimleri: {NumCompleted}/{NumTotal} ( ~{EstimatedTurns}[ICON_Turn])</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_BLACKDEATH_REQUIRES_PLAYER_HAS_FINAL_TECH_PROGRESS">
+			<Text>Teknolojiler: {NumCompleted}/{NumTotal} ( ~{EstimatedTurns}[ICON_Turn])</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_VICTORY_BLACKDEATH_SCENARIO">
+			<Text>{1_CompletedCivics}/{2_TotalCivics} Yönetim Bilimi, {3_CompletedTechs}/{4_TotalTechs} Teknoloji</Text>
+		</Row>
+		<!-- Tooltips -->
+		<Row Tag="LOC_CITY_BANNER_PLAGUE_TT">
+			<Text>Bu şehre veba bulaştı. Veba kaldığı her turda Bağlılık ve potansiyel olarak [ICON_Citizen] Nüfus kaybedecek.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CULTURE_THEATER">
+			<Text>Komşu Tiyatro Meydanı'ndan +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOLD_COMMERCIAL_HUB">
+			<Text>Komşu Ticaret Merkezi'nden +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FAITH_HOLY_SITE">
+			<Text>Komşu Kutsal Alan'dan +{1_num} [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCIENCE_CAMPUS">
+			<Text>Komşu Kampüs'ten +{1_num} [ICON_Science] Bilim.</Text>
+		</Row>
+		<!--Historic Rankings-->
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_1_NAME">
+			<Text>Lekesiz</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_1_QUOTE">
+			<Text>Ve eğer kâhin gelip baktığında, ev sıvandıktan sonra vebanın evde yayılmadığını görürse, kâhin evi temiz ilan edecek, çünkü veba iyileşmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_2_NAME">
+			<Text>Veba Doktoru</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_2_QUOTE">
+			<Text>Zira diğer tüm sanatlarda olduğu gibi, onları icra edenler hüner ve bilgi bakımından birbirlerinden çok farklıdır; aynı şekilde Tıp da böyledir.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_3_NAME">
+			<Text>Üçüncü Sınıf</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_3_QUOTE">
+			<Text>Fırıncılar ve biracılar,/Ve nice kasaplar;/Yün dokuyucuları,/Ve keten dokuyucuları,/Terziler ve tenekeciler,/Ve pazar yeri tellalları,/Duvarcılar ve madenciler,/Ve daha nice zanaatkârlar.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_4_NAME">
+			<Text>Filozof</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_4_QUOTE">
+			<Text>İnsan bilgisini aşan şeyler, insan aklıyla aranmamalıdır; ancak Tanrı tarafından vahyedildiklerinde, imanla kabul edilmelidirler.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_5_NAME">
+			<Text>Mendikant</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_5_QUOTE">
+			<Text>Orada dört tarikatın kardeşlerini buldum,/Halka kendi çıkarları için vaaz veriyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_6_NAME">
+			<Text>Fare Avcısı</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_6_QUOTE">
+			<Text>Neden bir köpek, bir at, bir fare canlı kalır da, Senin bir nefesin bile olmaz?</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_7_NAME">
+			<Text>Mezarcı</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_7_QUOTE">
+			<Text>İlk buldukları boş mezara, ne çok uzun ne de fazla resmî bir ayinle uğraşmadan gömdüler.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_8_NAME">
+			<Text>Kırbaççı</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_ENDGAME_RANK_8_QUOTE">
+			<Text>Pie Jesu Domine, Dona eis requiem.</Text>
+		</Row>
+		<!-- Popup Events -->
+		<Row Tag="LOC_POPUP_SCENARIO_GENERIC_WHICH_PATH">
+			<Text>Hangi yolu seçeceksiniz?</Text>
+		</Row>
+		<!-- A New Plague Appears (Intro) -->
+		<Row Tag="LOC_POPUP_SCENARIO_PLAGUE_APPEARS_TITLE">
+			<Text>Yeni Bir Hastalık Baş Gösteriyor</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_PLAGUE_APPEARS_DESCRIPTION">
+			<Text>Ölümcül bir hastalığın Akdeniz'in işlek limanlarında baş gösterdiğine dair rivayetler yayıldı. Ticaret gemilerinin ambarlarında ve yük arabalarının üzerinde şimdiden kıyılarınıza ulaşmış olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_PLAGUE_APPEARS_EFFECT">
+			<Text>Yollarınızı ve limanlarınızı ilk salgın belirtisi için gözleyin. Yayılmayı durdurmak için hızla harekete geçmeniz gerekecek.</Text>
+		</Row>
+		<!-- Outbreak! -->
+		<Row Tag="LOC_POPUP_SCENARIO_OUTBREAK_TITLE">
+			<Text>Salgın!</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_OUTBREAK_DESCRIPTION">
+			<Text>Veba [COLOR:Civ6Yellow]{1_CityName}[ENDCOLOR] şehrine ulaştı! Artık yalnızca bir rivayet değil; hastalık aramızda ve halk dehşet ile paniğe sürükleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_OUTBREAK_EFFECT">
+			<Text>Ölü sayısı kaçınılmaz olabilir, ancak yine de daha fazla yayılmayı yavaşlatırken şehri istikrarda tutmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_OUTBREAK_REPEAT_DESCRIPTION">
+			<Text>Veba [COLOR:Civ6Yellow]{1_CityName}[ENDCOLOR] şehrine ulaştı!</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_OUTBREAK_REPEAT_EFFECT">
+			<Text>Önceki salgınlarda olduğu gibi, bu şehrin bölgeleri ve arazi parçaları kullanılamaz hale gelip nüfus azaldıkça şehir felç olacak. Kıtlık ve bağlılık kaybı tehdidine karşı tetikte olun.</Text>
+		</Row>
+		<!-- The Nobility Flees -->
+		<Row Tag="LOC_POPUP_SCENARIO_NOBILITY_FLEES_TITLE">
+			<Text>Soylular Kaçışıyor</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_NOBILITY_FLEES_DESCRIPTION">
+			<Text>Zengin toprak sahipleri, ölümcül hastalığı kalabalık şehirlerdeki pis kokulu buharlar olan miasmaya bağlıyor. Sürüler halinde kırsal malikanelerine kaçıyor, hizmetkârlarını da yanlarına alarak sokakları yoksul ve evsizlere bırakıyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_NOBILITY_FLEES_EFFECT">
+			<Text>Korku, bazı nüfusları şehirlerinize doğru sürüklerken bazılarını uzaklaştırıyor. Yeni Politikalar hangisini destekleyeceğinizi seçmenize olanak tanır.</Text>
+		</Row>
+		<!-- False Cures, Empty Promises -->
+		<Row Tag="LOC_POPUP_SCENARIO_FALSE_CURES_TITLE">
+			<Text>Sahte Tedaviler, Boş Vaadler</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_FALSE_CURES_DESCRIPTION">
+			<Text>Birçok kişi vebayı durduracak güce veya bilgiye sahip olduğunu iddia ediyor. Ancak ister şarlatan, ister rahip, ister hekim, ister kral olsun, veba hepsine meydan okuyor. Halk perişan ve çaresizce yanıt arıyor.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_FALSE_CURES_EFFECT">
+			<Text>Yeni Politikalar, halkın kaygısını yatıştırmak için daha sert önlemler almanıza olanak tanır.</Text>
+		</Row>
+		<!-- We All Fall Down -->
+		<Row Tag="LOC_POPUP_SCENARIO_ALL_FALL_DOWN_TITLE">
+			<Text>Hepimiz Yıkılırız</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_ALL_FALL_DOWN_DESCRIPTION">
+			<Text>Veba ve onun dehşet verici hasadı dört bir yanı kaplar. Halkın nereye dönerse dönsün, ölüm onları beklemektedir. Yüksek ve alçak, zengin ve yoksul aynı darbeyi aldığında, çabalamaktan ne fayda?</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_ALL_FALL_DOWN_EFFECT">
+			<Text>Tüm şehirlerde -30% [ICON_Food] Büyüme, -3 [ICON_Production] Üretim, -3 [ICON_Gold] Altın ve -3 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<!-- Sick in Body and Soul -->
+		<Row Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_TITLE">
+			<Text>Beden ve Ruh Hastalığı</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_DESCRIPTION">
+			<Text>Hastalık, ülkeyi silip süpürüyor; toplumumuzun onlarca yıldır güvendiği istikrarı ve gelenekleri altüst ediyor. İktidardakiler, çökmekte olan düzene nasıl karşılık verileceğine örnek oluyor.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_A">
+			<Text>Pişmanlık Göster</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_A_EFFECT">
+			<Text>Tüm şehirlerde -2 [ICON_Production] Üretim, +3 [ICON_Faith] İnanç</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_B">
+			<Text>Sefahati Benimse</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_SICK_IN_BODY_CHOICE_B_EFFECT">
+			<Text>Tüm şehirlerde -20% [ICON_Food] Büyüme, +3 [ICON_Gold] Altın</Text>
+		</Row>
+		<!-- Physician, Heal Thyself -->
+		<Row Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_TITLE">
+			<Text>Hekim, Kendini İyileştir</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_DESCRIPTION">
+			<Text>Ölümlerin sayısı yükseldikçe, halk güvendiği otoritelere yöneliyor. Kimileri bilimin çözümü olduğunda ısrar edip, hastalara bakması için hekimler tutmak istiyor. Kimileri ise taassuba kapılıp, vebayı durdurması için Tanrı'ya yakarmak adına kefaret talep ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_CHOICE_A">
+			<Text>Hastaları Tedavi Et</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_HEAL_THYSELF_CHOICE_B">
+			<Text>Günahkârı Utandır</Text>
+		</Row>
+		<!-- The End of the World -->
+		<Row Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_TITLE">
+			<Text>Dünyanın Sonu</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_DESCRIPTION">
+			<Text>Ölü sayısı hayal edilemeyecek boyutlara ulaşıyor. Umutsuzluk baş gösterirken, hem kiliseye hem de devlete olan inanç çöküyor. Toplum eskisi gibi devam edemez; bir kopuş kaçınılmazdır.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_A">
+			<Text>Tanrı'ya Teslim Ol</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_A_EFFECT">
+			<Text>Tüm şehirlerde [ICON_Faith] İnanç hariç tüm getirilere -3</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_B">
+			<Text>Tanrı'yı Reddet</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_END_OF_THE_WORLD_CHOICE_B_EFFECT">
+			<Text>Tüm şehirlerde -10 [ICON_Faith] İnanç</Text>
+		</Row>
+		<!-- Is This God's Judgement? -->
+		<Row Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_TITLE">
+			<Text>Bu Tanrı'nın Yargısı mı?</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_DESCRIPTION">
+			<Text>Ölüler şehirleri dolduruyor ve mezarlıkları taşırıyor. En muhafazakâr olanlar bile bu yıkımı görüp dünyanın kötülüğünün nihayet ilahi bir cezayı hak edip etmediğini sorguluyor.</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_A">
+			<Text>Ruhlarımız tükendi</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_A_EFFECT">
+			<Text>-1 [ICON_Culture] Kültür, -1 [ICON_Faith] İnanç (tüm şehirlerde)</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_B">
+			<Text>Çabalarımız boşuna</Text>
+		</Row>
+		<Row Tag="LOC_POPUP_SCENARIO_GODS_JUDGEMENT_CHOICE_B_EFFECT">
+			<Text>-1 [ICON_Science] Bilim, -10% [ICON_Food] Büyüme (tüm şehirlerde)</Text>
+		</Row>
+		<!-- ************************************************ -->
+		<!-- CIVILOPEDIA -->
+		<!-- ************************************************ -->
+		<!--Units-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SCHOLAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba'dan önce Avrupa'da öğrenim ve eğitim alanında bir canlanma yaşanmış, üniversitelerin yükselişiyle birlikte çalışmaya adanmış yeni bir eğitimli profesyonel sınıfı ortaya çıkmıştı. Bazı âlimler hukuk gibi pratik konulara odaklanırken, giderek büyüyen bir grup bilginin doğası ve doğa felsefesi üzerine sorulara yönelerek erken Rönesans'ın yolunu döşedi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PLAGUE_DOCTOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba'nın en çarpıcı figürlerinden biri, ürkütücü gagalı maskesi, uzun cüppesi ve asasıyla veba doktorudur. Gaga maskesinin ucunda, hoş kokunun vebayı uzak tuttuğu yanlışlıkla düşünülen bir torba hoş kokulu ot bulunurdu. Bir hastanın (ya da cesedin) vebaya yakalandığından şüphelenildiğinde veba doktoru çağrılırdı. Doktor, hastaya dokunmadan onu asasıyla muayene ederek vakayı teyit eder ya da hastayı temizlerdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FLAGELLANT_CHAPTER_HISTORY_PARA_1">
+			<Text>Geç Orta Çağ'ın dini duygularla yüklü dünyasında veba, insanlığın günahlarına karşı ilahi bir ceza olarak görülüyordu. Bazı gruplar, günahkâr insanlık adına aşırı kamusal tövbe eylemlerine girişerek toprakları dolaşır ve kendilerini kırbaçlar — yani “flagellatio” yaparlardı; uygulama adını buradan alır. İlk başlarda bu gösteriler en azından örtülü olarak kilise otoritelerinin onayını almıştı, ancak uygulama aşırılaşınca dini otoriteler bunu kınadı. Ne var ki bu, kırbaçlama pratiğini ne de kırbaççıların alaylarını sona erdirmedi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Avrupa'daki dini şövalye tarikatlarından biri olan Töton Şövalyeleri, Baltık bölgesindeki pagan kabilelere karşı Kuzey Haçlı Seferi'ni yürüttüler. Haçlı tarikatları standartlarına göre bile saldırganlıkları, uzlaşmazlıkları, zenginlikleri ve sade yaşam tarzlarıyla özellikle dikkat çekiyorlardı.</Text>
+		</Row>
+		<!--Districts-->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_WALLED_QUARTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Vebanın epidemiyolojisi hakkında yeterli bir anlayışa sahip olmayan şehir sakinleri, yine de Kara Veba'yı kontrol altına almak için bir sistem keşfettiler: Kurbanları kalıcı karantinaya alarak duvarlarla çevirmek. Bu insafsız önlem, duvarlarla çevrilen kurbanları korkunç bir kadere mahkûm etti, ancak ara sıra vebanın ilerleyişini durdurabiliyordu. Kara Veba'daki bu dehşet verici hesap, bazı sağlıklı insanların hastalığın yayılmasını görmektense gönüllü olarak karantinayı kabul etmeleriyle örneklendirilir.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GUILDHALL_CHAPTER_HISTORY_PARA_1">
+			<Text>Lonca binası, bir lonca tarafından üyelerine toplantı alanı sağlamak ve aynı zamanda zenginliklerini ve güçlerini sergilemek amacıyla sahip olunan yarı kamusal bir yapıdır. Bu binalar, sivil ve ticari gururun güçlü bir ifadesi olarak genellikle süslü bir şekilde dekore edilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_MASS_GRAVE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba sırasında ölü sayısı arttıkça bireysel cenazeler pratik olmaktan çıktı ve cesetler, ölülere sağlanabildiği kadarıyla bir parça sadelikle toplu halde gömüldü. Bazen kısmen çürümüş cesetler yerden çıkarılıp yer kazanmak için birlikte yeniden gömülüyordu. Diğer durumlarda mezarlıklar o kadar tıkanmıştı ki ölüler toprak üstüne gömülüyordu. Tüm toplu mezarlar işaretlenmemişti ve günümüzde de keşfedilmeye devam ediyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PLAGUE_HOSPITAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Şehirler, veba kurbanlarını ellerinden geldiğince tedavi etmeye ya da en azından acılarını hafifletmeye çalıştı. Veba hastaneleri en iyi ihtimalle şüpheli bir bakım sağlamış olabilir, ancak en azından hastalarına birilerinin onları önemsediğine dair bir nebze umut verdiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_KEEP_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir kale veya tahkimatın dış duvarların aşılması halinde son sığınak ve son savunma hattı olarak kullanılan merkezi bölümüdür. Bu tür kaleler genellikle çok az ve çok dar girişe sahiptir; böylece bir avuç savunmacı bile istilacıları durdurabilir.</Text>
+		</Row>
+		<!--Techs-->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_CIVIL_ENGINEERING_CHAPTER_HISTORY_PARA_1">
+			<Text>Orta Çağ boyunca inşaat mühendisliğindeki gelişmeleri etkileyen birkaç faktör vardı: Güçlü kaleler inşa etmenin önemi, bu kaleleri kuşatmanın önemi ve büyük nüfusları barındırabilecek, aynı zamanda kendi atıklarında boğulmayacak şehirler inşa etme ihtiyacı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_INVENTION_CHAPTER_HISTORY_PARA_1">
+			<Text>Yetenekli zanaatkârlar ve sanatçılar, klasik dünyada bilinen sistemleri ve teknolojileri yeniden keşfetmeye başladılar. Kara Veba sırasındaki bu kadar çok ölümle birlikte, iş gücünden tasarruf sağlayan makineler daha da önem kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDICINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Tıp, Hipokrat tarafından ortaya konduğu üzere, vücudun dört sıvısını —kan, balgam, kara safra ve sarı safra— dengeleme sanatıdır. Astroloji (gök cisimlerinin bu sıvıları etkilediği düşünüldüğünden) ve dört temel elementi: Ateş, toprak, hava ve suyu incelemeyi içerebilir. Mantık ve teoloji gibi yüce disiplinleri tam anlamıyla takdir edemeyen kişiler için uygun bir çalışma alanıdır.</Text>
+		</Row>
+		<!--Civics-->
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_WAGE_REFORM_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba sonrasındaki işçi kıtlığı, Avrupa'daki geleneksel serflik sistemlerinin gerilemesine yol açtı. Artık tarım ve diğer işçiler, zorla çalıştırılmak yerine emeklerinin karşılığında ücret almayı bekleyebiliyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_HIGHER_LEARNING_CHAPTER_HISTORY_PARA_1">
+			<Text>Orta Çağ'da Roma Hukuku metinlerinin yeniden keşfi, Bologna ve Paris gibi şehirlerde üniversite sisteminin büyümesine yol açtı. Eğitim, kilise dışında da geniş çapta erişilebilir hale geldi ve Rönesans'ın temelini attı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_LABOR_ECONOMY_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba'daki ölümlerin ardından işçi kıtlığı emeğin değerini yükseltti. Artık soylular köylüleri toprağı işlemeleri için dövmekle yetinemezdi, zira bu nankörler basitçe kendilerine madeni para ödeyecek yeni bir efendiye hizmet etmeye giderlerdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MIDDLE_CLASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Avrupa'da şehirlerin yükselişi, feodal dünyanın geleneksel aristokrat-din adamı-köylü modelinin dışında yeni bir sınıfın doğuşu anlamına geliyordu. Hükümdarların çoğu, bu sınıfı savaşları finanse etmek için yararlı bir vergi tabanı olarak gördü.</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FEALTY_CHAPTER_HISTORY_PARA_1">
+			<Text>Sadakat yemini, feodal sistemde bir efendiye bağlılık sözü verme sürecidir; örneğin bir şövalyenin bir barona, o baronun da bir krala hizmet edeceğine dair söz vermesi gibi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_UNDERCLASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Şehirlerin yükselişi, tüccar ve zanaatkâr topluluklarının yanı sıra, feodal dönemin toplumsal normlarına tam olarak uymadıkları için sosyal statüleri aşağı veya istenmeyen olarak değerlendirilen bir bireyler sınıfının da ortaya çıkması anlamına geliyordu. Bu tutumların günümüze dek uzandığı söylenebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_STUDIA_GENERALIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Üniversitenin veya üniversitede verilen eğitimin özgün adı olup 'genel çalışmalar' anlamına gelir. Yedi özgür sanattan farklı olarak, Studia için belirlenmiş bir müfredat yoktu; bu da üniversitelerin, bir öğrencinin başarıyla çalıştığını ve belki bir şeyler öğrendiğini belgelemek için diploma vermesini zorunlu kıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COTTAGE_INDUSTRIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Ev sanayisi, bir birey veya ailenin geçimini sağlamak ya da ek gelir elde etmek için kurduğu küçük bir işletmedir. Bu küçük girişimler genellikle feodal ekonomilerden piyasa temelli ekonomilere geçişin bir parçası olarak kabul edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKILLED_TRADES_CHAPTER_HISTORY_PARA_1">
+			<Text>Nitelikli zanaatlar veya sanatlar, ancak uzun süreli pratikle ustalaşılabilen işlerdir; özellikle gümüş eşya, kumaş, cam eşya ve makine gibi değerli malların üretimi buna örnektir. Zanaatkârlar, birlikte çalışabilecekleri, geleceğin uygulayıcılarını yetiştirebilecekleri, fiyat belirleyebilecekleri ve malları için piyasayı kontrol etmeye çalışabilecekleri şehirlerde toplanırdı. Nitelikli zanaatkârlar, tarihteki ilk gerçek orta sınıf vatandaşlardan bazılarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PUBLIC_SERVANTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Devletlerin, yöneticilerinin ötesinde politik varlıklar olduğu yönündeki artan anlayış, görevlerini hükümdara değil devlete hizmet olarak tanımlayan bir memur sınıfının büyümesine yol açtı. Bu, onların devletin iyiliği için tarafsızca hizmet etmelerini sağladı ancak vergi toplama zamanı geldiğinde onları daha popüler kılmadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SPECIALIZATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Karmaşık nesnelerin üretiminde, bireylerin üretimin tek bir yönüne odaklanması, tek bir zanaatkârın bir parçayı malzemeden tamamlanana kadar işlemesine kıyasla daha yüksek bir üretim hızı sağlar. Orta Çağ ve Erken Modern dönem boyunca silah ve zırh da dahil olmak üzere birçok nesne bu şekilde üretildi. Uzmanlaşmanın yükselişi, nihayetinde Sanayi Çağı'nda ve montaj hattında daha tam ifadesini bulacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COMMERCIAL_LEAGUE_CHAPTER_HISTORY_PARA_1">
+			<Text>Tüccar grupları, daha büyük bir ekonomik güç elde etmek için bir araya gelirdi. Bu ticari birlikler, nihayetinde modern bankacılık ve para sistemlerinin temelini oluşturacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INDENTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Hizmet sözleşmesi, bir kişinin emeğini belirli bir süre için bir başkasına, sonunda bir şey kazanma beklentisiyle sözleşmeye bağlaması sürecidir. Çırakların eğitimlerinin başında ustalara bağlanmasını sağlayan süreç de budur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LABOR_MARKET_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir zamanlar işgücü piyasası, kelimenin tam anlamıyla vasıfsız işçilerin bir iş için işe alınmayı beklemek üzere toplandığı çarşıda bir yerdi. Bazı yerlerde hâlâ öyledir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CIVIL_QUARANTINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Karantina, bir hastalığın nüfus içinde yayılmasını önlemek için hasta kişilerin izole edilmesidir. Kara Veba'dan bu yana karantina bölgelerini işaretlemek için sarı bayraklar kullanılmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POGROM_CHAPTER_HISTORY_PARA_1">
+			<Text>Rusça 'yok etmek' anlamına gelen kelimeden türeyen pogrom, devletin onayıyla bir gruba yönelik sistematik cinayet ve baskıdır. Baskıya uğrayan grup genellikle bir azınlıktır; Avrupa tarihinin büyük bölümünde olduğu gibi Yahudiler gibi. Gerekçe genellikle işlemedikleri bir suçla ilgili iftiradır. Pogromlar uzun ve korkunç bir geçmişe sahiptir ve her birinin ardından insanlar 'bir daha asla olmayacak' diye ciddiyetle yemin etmelerine rağmen, fazlasıyla fazla kez yaşanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PATRONAGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir başkasının çalışmasını doğrudan destekleme uygulamasına hamilik denir. Hamilik, göze çarpan bir zenginlik göstergesi olabilir veya tamamen özverili nedenlerle yürütülebilir. Birçok büyük sanat ve edebiyat eseri, varlıklı hamilerin talebi üzerine yapılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_NOBLESSE_OBLIGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kelimenin tam anlamıyla 'Soyluluk sağlar' anlamına gelen bu ifade, daha yüksek sosyal statü ve imkâna sahip kişilerin cömert olması ve daha azına sahip olanlara vermesi gerektiğini belirtir. İstenmeyen sadaka, her zaman verenin beklediği saygılı tevazu ile karşılanmaz.</Text>
+		</Row>
+		<!--Leaders-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>VI. Philip, Valois Hanedanı'nın ilk Fransız kralıydı ve hükümdarlığı, İngiltere ile başlayan Yüzyıl Savaşları ile tanımlanır. İlk işlerinden biri, Flandre'da bir isyanı bastırmak ve Kont Louis'i yeniden tahta çıkarmaktı. İngiltere Kralı III. Edward ile ilişkileri iyi başladı ancak Akvitanya Dükalığı'nın statüsü ve Edward'ın Philip'in vasalı olup olmadığı konusunda bozuldu. Bu ve diğer meseleler, Yüzyıl Savaşları'nı tetikleyen olaylardan bazılarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Philip, Edward'ı yıpratıcı bir akın ve yıpratma savaşına mahkûm ederken, Fransa'nın zenginliği sayesinde avantaj elde etti ancak açık ve belirleyici muharebeler İngilizler için daha avantajlı oldu. 1346'daki Crecy Muharebesi'nin ardından, Fransız soyluları ve müttefikleri o kadar ağır kayıplar verdi ki Fransa Meclisleri daha fazla savaş için para ödemeyi reddetti. 1348'de Kara Veba'nın gelişi de en az bunun kadar yıkıcıydı ve ölenler arasında eşi Kraliçe Joan da vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_1">
+			<Text>Belki de İngiltere'nin en başarılı ortaçağ kralı olan III. Edward'ın 50 yıllık hükümdarlığı, savaşlar, Parlamento'nun yükselişi ve veba ile damgalanmıştır. Babası II. Edward, III. Edward daha bir çocukken tahttan indirildi ancak Edward hızla kendi başına hükmetmeye başladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_2">
+			<Text>İskoçya ve Fransa'ya karşı savaşlar yürüten III. Edward ve ona bağlı komutanlar (özellikle en büyük oğlu Kara Prens Edward), Sluys Deniz Muharebesi de dahil olmak üzere Yüzyıl Savaşları'nın en büyük İngiliz zaferlerinden birçoğundan sorumluydu. III. Edward, Crecy Muharebesi'nde bizzat birliklere komuta etti; bu muharebede İngiliz uzun yaylı okçuları, bir öğleden sonra Fransız soylularının en seçkinlerini katletti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_3">
+			<Text>1361 Kara Veba'sı, hükümdarlığının gerilemesine ve sonunun başlangıcına işaret eder. Veba nedeniyle yaşanan ölümler, onu savaşlarını sürdürmek için gereken kaynaklardan mahrum bıraktı ve ülke içinde artan toplumsal gerilimler, hayatının geri kalanının büyük bölümünü meşgul etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_CASTILE_CHAPTER_HISTORY_PARA_1">
+			<Text>Adil Alfonso olarak bilinen hükümdar, Kastilya ve Leon kralıydı; tahtı henüz bir yaşındayken babası IV. Ferdinand'dan devraldı. 1325'te reşit olduğunda soylu ailelerin kısır çekişmelerini (ve güçlerini) başarıyla bastırdı, Alcalá de Henares Nizamnameleri ile önemli hukuk reformlarını hayata geçirdi ve Merinî Berberilerine karşı savaş açarak Endülüs'teki Salado Nehri Muharebesi'nde onlara karşı büyük bir zafer kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_CASTILE_CHAPTER_HISTORY_PARA_2">
+			<Text>Alfonso, 1350'de Cebelitarık kuşatması sırasında Kara Veba'dan öldü ve taht oğlu Zalim Pedro'ya geçti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_CHAPTER_HISTORY_PARA_1">
+			<Text>Bavyeralı Ludwig, Kutsal Roma İmparatoru, Almanların ilk Wittelsbach imparatoruydu. Erken hükümdarlığı, Habsburg ve Lüksemburg hanedanlarına ve onların imparatorluk tacı üzerindeki hak iddialarına karşı verilen mücadelelerle damgalanmıştı. Bu çatışma, Ludwig'i sapkın ilan edip aforoz eden papayla da tali bir ihtilafa dönüştü. 1328'de Ludwig'in Roma halkı tarafından Roma'da İmparator olarak taçlandırılması bu durumu biraz tuhaf kıldı. Ludwig'in imparatorluğu nihayetinde, rakiplerinin ölümü ve büyük hanedanların bitmek bilmez veraset planları karşısında imparatorlukta yaşanan genel yorgunluğun bir sonucu olarak güvence altına alındı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_CHAPTER_HISTORY_PARA_2">
+			<Text>İngiltere Kralı III. Edward ile ittifak halinde olan Ludwig, Fransa'ya (ve Avignon'daki Papaya) karşı cephe almıştı; bu durum ülkesindeki siyasi durumunu daha da ağırlaştırdı. 1347'de Münih yakınlarında öldüğünde, Wittelsbachları İmparatorluk siyasetinde baskın bir hanedan haline getirmeyi başaramamıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba döneminde Orta Avrupa'nın en büyük siyasi yapısı; krallıklar, prenslikler, piskoposluklar, dükalıklar, özgür şehirler, ihtilaflı topraklar, baronluklar ve cemaatlerden oluşan, hepsi de teoride İmparator'un dünyevi egemenliği altında bulunan çok dilli, çok etnisiteli bir yığışımdı. Güçlü yönetici aileler ve Papa, çoğu zaman kendi toprakları üzerinde fiili denetim ya da özerklik elde etmek için mücadele içindeydi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kastilya bölgesi, günümüz İspanya'sının büyük bir bölümünü kaplar. Orta Çağ'da krallık, genellikle güney İspanya'daki Müslüman bölgelerle savaş halindeydi. Kastilya ve komşu Leon krallığının taçlarının birleşmesi, Kastilya'nın İber Yarımadası'nda hâkim güç haline gelmesinin zeminini hazırladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_CHAPTER_HISTORY_PARA_1">
+			<Text>Kara Veba sırasında İngiltere'yi yöneten Plantagenet hanedanı, hem İngiliz hem de Fransız tahtları üzerinde hak iddia ediyordu. İskoçya ve Galler'e karşı askerî fetih hareketlerine girişmişlerdi. Zamanla İngiltere kralı, Parlamento ve soylulara yetki devretmek zorunda kaldı; bu da İngiliz krallarını diğer Avrupalı hükümdarlara kıyasla daha az güçlü kıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Orta Çağ'da Fransa, Avrupa'nın en zengin ve en müreffeh bölgelerinden biriydi. Bu dönemde Fransa kralları, doğrudan denetimleri altında hatırı sayılır miktarda toprağa sahipti; bu da onları bu çağın en merkezîleşmiş krallıkları arasına sokuyordu.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lincoln-->
+		<Row Tag="LOC_LEADER_ABRAHAM_LINCOLN_NAME">
+			<Text>Abraham Lincoln</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LINCOLN_NAME">
+			<Text>Özgürlük Bildirgesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LINCOLN_DESCRIPTION">
+			<Text>Sanayi Bölgeleri +2 [ICON_Amenities] Olanak sağlar. Sanayi Bölgeleri ve binalarını inşa ettikten sonra bedava bir Yakın Dövüş birliği edinirsin. Bu bedava birlik, üretilirken veya bakımı için kaynak gerektirmez ve +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LINCOLN_EXPANSION_DESCRIPTION">
+			<Text>Sanayi Bölgeleri +2 [ICON_Amenities] Olanak ve tur başına +3 Bağlılık sağlar ancak Plantasyonlarınız tur başına -2 Bağlılık verir. Sanayi Bölgeleri ve binalarını inşa ettikten sonra bedava bir Yakın Dövüş birliği edinirsin. Bu bedava birlik, üretilirken veya bakımı için kaynak gerektirmez ve +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ABRAHAM_LINCOLN">
+			<Text>Abraham Lincoln, vatanın kendi kendini parçalarken sen bu çetin sınava göğüs gerdin. Yeni ve daha genç bir dünyanın gücünü ele geçir; demir yolları ve buhar, ilerleme ve özgürlük üzerine inşa edilmiş bir dünyanın... ve esaret zincirlerini kır. Büyük Özgürleştirici, bu yeni çekişme ve bölünme çağında, halkını bir kez daha birleştirme zamanı geldi. Halkını özgürlüğe ve hürriyete götür ve geçmişin prangalarını sonsuza dek sona erdir.</Text>
+		</Row>
+		<!-- Nzinga Mbande-->
+		<Row Tag="LOC_LEADER_NZINGA_MBANDE_NAME">
+			<Text>Nzinga Mbande</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NZINGA_MBANDE_NAME">
+			<Text>Ndongo ve Matamba Kraliçesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_NZINGA_MBANDE_DESCRIPTION">
+			<Text>Şehirler, [ICON_Capital] Başkentinizle aynı kıtadaysa (Başkentiniz dahil) +%10 Getiri, başka bir kıtadaysa -%15 Getiri alır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_NZINGA_MBANDE">
+			<Text>Ndongo ve Matamba kraliçesi, Imbangala savaş lordu Nzinga Mbande, gücün bahşedilmediğini, her an yeniden yaratılması gerektiğini çok iyi bilirsin. Kendi çıkarları için topraklarını ve halkını ele geçirmek isteyenlere dikkat et. Sana karşı komplo kuranlara karşılık ver ve hakkınla değilse bile büyük bir vizyonla senin olanı al.</Text>
+		</Row>
+		<!-- Saladin Alt-->
+		<Row Tag="LOC_LEADER_SALADIN_ORIGINAL_NAME">
+			<Text>Saladin (Vezir)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SALADIN_ALT_NAME">
+			<Text>Saladin (Sultan)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SALADIN_ALT_NAME">
+			<Text>Muzaffer</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SALADIN_ALT_DESCRIPTION">
+			<Text>Tüm Muharebe ve Dinî birliklere +%100 Kanatlama ve Destek Bonusu sağlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

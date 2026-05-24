@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PIRATES_MOD_TITLE">
+			<Text>Korsanlar</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_MOD_TEASER">
+			<Text>Korsanlığın Altın Çağı'nda açık denizleri yağmalayın.</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_MOD_DESCRIPTION">
+			<Text>Ahoy korsanlar! Bu korsanlığın Altın Çağı'nda şu tropikal denizler kanunsuz ve tehlikeli bir yerdir. Siz de bunun sebeplerindensiniz. İspanyol kalyonlarının ambarlarında, İngiliz kasabalarında, Fransız fırkateynlerinde ve Hollanda ticaret gemilerinde saklı bir sürü altın var; çalınmayı bekleyen altınlar. Bu iş için yeterince korsan mısınız? Servetinizi ve şöhretinizi inşa edip Korkunç Siyah Amiral olmaya var mısınız? Yoksa Davy Jones'un ya da Jack Ketch'in pençelerine mi düşeceksiniz? Uskuna ve briklerden oluşan bir filo kurun, gömülü altını bulun ve düşman şehirlerini ateşe verin!</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_MOD_DESCRIPTION_ALT_1">
+			<Text>Korsanlığın Altın Çağı'nda, tropikal denizler tehlikeli, kanunsuz yerlerdir. Bunun bir sebebi de sizsiniz. Büyük sömürge güçlerinin zenginliklerini çalıp, kötü şöhretinizi denizlere yayarken başınızı kurtarabilecek misiniz? Bir korsan filosu kurun, gömülü hazineyi bulun, diğer korkunç korsanlarla karşılaşın ve güney denizlerindeki şehirleri yağmalayıp talan ederken şöhret ve servet kazanın!</Text>
+		</Row>		
+		
+		<Row Tag="LOC_MOD_PIRATES_SCENARIO_TITLE">
+			<Text>Çok Oyunculu Senaryo: Korsanlar</Text>
+		</Row>
+	</EnglishText>
+</GameData>

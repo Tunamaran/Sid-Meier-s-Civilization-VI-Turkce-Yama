@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Secret Societies Mode -->
+		<Row Tag="LOC_GAMEMODE_SECRETSOCIETIES_NAME">
+			<Text>Gizli Cemiyetler Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_SECRETSOCIETIES_DESCRIPTION">
+			<Text>Bu oyun modu, dünyaya her biri geçmişten gelen kurgusal ya da mitolojik örgütlere dayanan, güçlü, gizemli ve çoğu zaman şeytani dörde kadar Gizli Cemiyet ekler. Bunların izlerine Barbar Kampları'nda, Kabile Köyleri'nde rastlanabilir ya da Şehir Devletleri'ne Elçi gönderip Doğa Harikaları bularak keşfedilebilir. Alternatif olarak, eğer başka liderler bir Cemiyet keşfetmişse, onlarla Diplomatik Görünürlük seviyenizi artırarak bu cemiyetler hakkında bilgi edinebilirsiniz.[NEWLINE][NEWLINE]Bir Cemiyet'i keşfetmek ona otomatik olarak katıldığınız anlamına gelmez; ancak bir şehre atanması gerekmeyen yeni bir Vali'nin kilidini açar. Bu Vali'ye bir Vali Unvanı harcamak, cemiyete katılmak ve size güçlü bonuslar kazandırmak anlamına gelir. Ancak akıllıca seçim yapın - bu Vali'yi atadığınızda, oyunun geri kalanında üyeliğe bağlı kalırsınız ve diğer liderler kararınıza tepki gösterecektir. Cemiyet'e olan bağlılığınızı kanıtlamak ve daha derin sırlarının kilidini açmak için ek Vali Unvanları harcayın.</Text>
+		</Row>
+		<!-- Ethiopia: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_ETHIOPIA_NAME">
+			<Text>Etiyopya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ETHIOPIA_DESCRIPTION">
+			<Text>Etiyopya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ETHIOPIA_ADJECTIVE">
+			<Text>Etiyopya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_NAME">
+			<Text>Aksum Mirası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ETHIOPIA_DESCRIPTION">
+			<Text>Etiyopya'nın Uluslararası Ticaret Yolları, menşedeki her kaynak için +0.5 [ICON_Faith] İnanç kazandırır. Geliştirilmiş kaynaklar, şehrin sahip olduğu her kopya için +1 [ICON_Faith] İnanç sağlar. Arkeoloji Müzeleri ve Arkeologlar [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_RESOURCES_TOOLTIP">
+			<Text>{Value : number +#.#;-#.#} Kaynaklardan</Text>
+		</Row>
+		<!-- Ethiopia: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_NAME">
+			<Text>Kaya Oyma Kilisesi</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_DESCRIPTION">
+			<Text>İşçi'nin, Etiyopya'ya özgü Kaya Oyma Kilisesi inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+1 [ICON_Faith] İnanç. Bitişikteki her Dağ ve Tepe bölgesi için +1 [ICON_Faith] İnanç. Uçuş araştırıldıktan sonra [ICON_FAITH] İnanç'tan [ICON_TOURISM] Turizm sağlar. +1 Çekicilik. Yalnızca başka bir Kaya Oyma Kilisesi'ne bitişik olmayan Tepeler üzerine inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROCK_HEWN_CHURCH_EXPANSION2_DESCRIPTION">
+			<Text>İşçi'nin, Etiyopya'ya özgü Kaya Oyma Kilisesi inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+1 [ICON_Faith] İnanç. Bitişikteki her Dağ ve Tepe bölgesi için +1 [ICON_Faith] İnanç. Uçuş araştırıldıktan sonra [ICON_FAITH] İnanç'tan [ICON_TOURISM] Turizm sağlar. +1 Çekicilik. Doğal afetler tarafından yalnızca yağmalanabilir (asla yok edilemez). Yalnızca başka bir Kaya Oyma Kilisesi'ne bitişik olmayan Tepeler veya Volkanik Toprak üzerine inşa edilebilir.</Text>
+		</Row>
+		<!-- Ethiopia: Leader Info -->
+		<Row Tag="LOC_LEADER_MENELIK_NAME">
+			<Text>II. Menelik</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MENELIK_NAME">
+			<Text>Bakanlar Kurulu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MENELIK_DESCRIPTION">
+			<Text>Tepeler üzerine kurulan şehirlerde [ICON_FAITH] İnanç üretiminizin %15'i kadar [ICON_SCIENCE] Bilim ve [ICON_CULTURE] Kültür kazanırsınız. Birimler Tepelerde +4 [ICON_STRENGTH] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_NAME">
+			<Text>Etiyopya Yaylaları</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Tepelerde Muharebe Gücü (Bakanlar Kurulu)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MENELIK_HILLS_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Tepelerde Muharebe Gücü (Bakanlar Kurulu)</Text>
+		</Row>
+		<!-- Ethiopia: Unit Info -->
+		<Row Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_NAME">
+			<Text>Oromo Süvarisi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION">
+			<Text>Etiyopya'ya özgü Orta Çağ dönemi hafif süvari birliği. Ekstra görüşe sahiptir ve Tepelerde hareket ederken [ICON_Movement] Hareket cezası almaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ETHIOPIAN_OROMO_CAVALRY_EXPANSION2_DESCRIPTION">
+			<Text>Etiyopya'ya özgü Orta Çağ dönemi hafif süvari birliği. Yerini aldığı Akıncı'dan daha güçlüdür ve daha geniş görüşe sahiptir. Tepelerde hareket ederken [ICON_Movement] Hareket cezası almaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_NAME">
+			<Text>Oromo Süvarisi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ETHIOPIAN_OROMO_CAVALRY_DESCRIPTION">
+			<Text>Tepelerde hareket ederken herhangi bir hareket cezası almaz.</Text>
+		</Row>
+		<!-- Ethiopia: Agenda Info -->
+		<Row Tag="LOC_DIPLO_MODIFIER_ETHIOPIAN_HIGHLANDS">
+			<Text>Menelik, şehirlerinizi her türlü tepeden uzak bir yere kurmanızı arzular.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_POSITIVE">
+			<Text>Menelik, yaylaları kendisine bıraktığınız için memnuniyet duyar.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS_NEGATIVE">
+			<Text>Menelik, tepeler için onunla rekabet etmenizden rahatsızlık duyar.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ETHIOPIAN_HIGHLANDS">
+			<Text>Tepelerden uzakta yerleşenleri takdir eder.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_NAME">
+			<Text>Etiyopya Yaylaları</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETHIOPIAN_HIGHLANDS_DESCRIPTION">
+			<Text>Mümkün olduğunca tepeler ve çevresinde inşa etmekten keyif alır; tepelere yakın bölgeleri kendisine bırakan diğer uygarlıkları takdir eder. Buna karşın, tepelerde ve çevresinde yerleşip inşa eden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<!-- Ethiopia: Fawn of Man -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MENELIK">
+			<Text>Menelik II, büyük Kral ve İmparator, halkın için bir vizyonun var. Hem dostluklar hem fabrikalar, hem ittifaklar hem demiryolları inşa edecek; zekânı ve bilgeliğini kullanarak Etiyopya'yı aydınlık ve özgür bir geleceğe taşıyacaksın.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

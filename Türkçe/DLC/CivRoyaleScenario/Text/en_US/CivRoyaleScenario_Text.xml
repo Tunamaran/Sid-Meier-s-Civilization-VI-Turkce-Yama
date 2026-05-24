@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+
+		<!-- Loading Screen -->
+		<Row Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO">
+			<Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+		</Row>
+
+		<!-- Victories -->
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB">
+			<Text>Hepsi bize güldü. Çok zayıfız, çok azız, iniş aracına ulaşamayız dediler. Peki, şimdi kim gülüyor? Bu aptal, çürümüş gezegeni terk eden son hizip kim? Pırıl pırıl yeni bir uzay gemisine tek yön bileti alan, zehirli toz içermeyen hava soluyan, temiz su içen kim? Biz![NEWLINE][NEWLINE]Buradan gidiyoruz! Dikkat et kendine, kâinat!</Text>
+		</Row>		
+		
+		<!-- Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bir Piyade birliği hizbinize katıldı.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bir Makineli Tüfek birliği hizbinize katıldı.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bir Tank Savar birliği hizbinize katıldı.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Harabelere sığınan siviller hizbinize katıldı.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]İşlevsel bir Helikopter keşfettiniz.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]İşlevsel bir Tank keşfettiniz.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bir Topçu birliği hizbinize katıldı.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]İşlevsel bir Termonükleer Silah keşfettiniz.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Zombileriniz bir kurban daha buldu.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_B">
+			<Text>[COLOR_FLOAT_MILITARY]Sürü için daha fazla ceset.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ZOMBIES_DESCRIPTION_C">
+			<Text>[COLOR_FLOAT_MILITARY]Bir zombi sürüsü keşfettiniz.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_IMPROVISED_TRAP_GOODIES">
+			<Text>Bir tuzağa düştünüz!</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_GRIEVING_GIFT_GOODIES">
+			<Text>Bu bir tuzaktı!</Text>
+		</Row>
+
+		<!-- HUD UI -->
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS">
+			<Text>Güvenli Bölge'nin daralmasına kalan tur sayısı.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_B">
+			<Text>Güvenli Bölge'nin daralmasına {1_Turns} tur kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE">
+			<Text>Güvenli Bölge minimum boyutta.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_B">
+			<Text>Güvenli Bölge stabilize oldu. [COLOR_RED]Tahliye, hayatta kalan diğer hizipler tarafından engelleniyor.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS_MIN_SIZE_C">
+			<Text>Güvenli Bölge stabilize oldu. [COLOR_RED]Uzaktaki iniş aracı sinyali hâlâ diğer hizipler tarafından sıkıştırılıyor![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH">
+			<Text>Radyoaktif Serpinti: Kategori {1_safeZonePhase} (Hasar {2_dangerZoneDamage})</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_CATEGORY">
+			<Text>Kategori</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP">
+			<Text>Bir birlik, halkadaki radyoaktif serpintiden {1_Damage} hasar alacaktır.[NEWLINE]Güvenli Bölge şu ana kadar {2_RingCount} {2_RingCount : plural 1?kez; other?kez;} daraldı.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_DAMAGE">
+			<Text>Hasar</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP">
+			<Text>Hayatta kalanlarınızın Kızıl Ölüm'de karşılaşacağı hasar miktarı.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS">
+			<Text>{1_Turns : plural 1?Tur; other?Tur;}</Text>  
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP">
+			<Text>Kızıl Ölüm'ün Güvenli Bölge'ye ulaşmasına kaç tur kaldı.</Text>
+		</Row>
+    <Row Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING">
+      <Text>Sivil birliğiniz radyoaktif serpinti bölgesinde!</Text>
+    </Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_PLAYER_NAME_LABEL">
+			<Text>Oyuncu Adı:</Text>
+		</Row>
+		
+		<!--Global Ability Tracker-->
+		<Row Tag="LOC_CIV_ROYALE_GLOBAL_ABILITY_AVAILABLE">
+			<Text>Yetenek Kullanılabilir!</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_GLOBAL_ABILITY_CHARGES">
+			<Text>Kullanım Hakkı: {1_CurrentCharges} / {2_Max_Charges}</Text>
+		</Row>
+
+
+		<!-- Notifications -->
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE">
+			<Text>İkmal İndirmesi!</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY">
+			<Text>Bir İkmal İndirmesi belirdi!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Şehir Kalıntısı Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Çok ihtiyaç duyulan malzemeleri içerebilecek bir şehir kalıntısı buldunuz.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE">
+			<Text>Güvenli Bölge Oluşturuldu</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY">
+			<Text>Kızıl Ölüm yeniden şekilleniyor. Fırtınanın gözündeki bir Güvenli Bölge haritanızda işaretlendi.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE">
+			<Text>Güvenli Bölge Küçüldü</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY">
+			<Text>Kızıl Ölüm daha da kötüleşiyor. Güvenli Bölge kaydı ve küçüldü.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_MESSAGE">
+			<Text>Yeni Hazine Haritası</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_NEW_TREASURE_MAP_SUMMARY">
+			<Text>Yeni bir gömülü hazine haritası keşfettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_MESSAGE">
+			<Text>Son Çare Hazır</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_HAIL_MARY_READY_SUMMARY">
+			<Text>Son Çare konuşlandırılmaya hazır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_MESSAGE">
+			<Text>Zombi Sürüsü Çürüdü</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_ZOMBIE_DECAYED_SUMMARY">
+			<Text>Zombi Sürünüz çürüme nedeniyle yok oldu.</Text>
+		</Row>
+		
+		<!-- Supply Drop Improvement -->
+		<Row Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME">
+			<Text>İkmal İndirmesi</Text>
+		</Row>
+		
+		<!-- Goody Hut Improvements -->
+		<Row Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME">
+			<Text>Şehir Kalıntıları</Text>
+		</Row>		
+		<Row Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME">
+			<Text>Keşfedilmiş Şehir Kalıntıları</Text>
+		</Row>
+
+		
+		<!--Improvised Trap Improvement-->
+		<Row Tag="LOC_IMPROVEMENT_IMPROVISED_TRAP">
+			<Text>Derme Çatma Tuzak</Text>
+		</Row>
+		
+		<!-- Destroyed City Feature -->
+		<Row Tag="LOC_FEATURE_DESTROYED_CITY_NAME">
+			<Text>Yıkık Şehir</Text>
+		</Row>
+		
+		<!-- MiniMap -->
+		<Row Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP">
+			<Text>Kızıl Ölüm</Text>
+		</Row>		
+		<Row Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP">
+			<Text>Güvenli Bölge</Text>
+		</Row>
+        	
+		<!-- Promotions -->
+		<Row Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME">
+			<Text>Keşif Alayı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION">
+			<Text>Birim ve oluşumu, Orman, Yağmur Ormanı ve Tepe arazilerindeki [ICON_Movement] Hareket cezalarını yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü, Tank Avcısı Mürettebatlarına karşı.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü, Makineli Tüfeklere saldırırken.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Muharebe Gücü, diğer Tanklara karşı.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Muharebe Gücü, Tanklara ve Tank Avcısı Mürettebatlarına karşı savunurken.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü, Tanklara ve Helikopterlere karşı.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Farklı bir sınıftaki komşu birlikler, Tanklara ve Helikopterlere karşı +10 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Muharebe Gücü, Orman, Yağmur Ormanı, Tepe veya Bataklık'ta savunma yaparken.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_NAME">
+			<Text>Fırlatma Tüplerini Değiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_RANGE_DESC">
+			<Text>+1 [ICON_Range] Saldırı Menzili</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_MOVE_NAME">
+			<Text>Bacak Aktüatörlerini Değiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_MOVE_DESC">
+			<Text>+2 [ICON_Movement] Hareket</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_NAME">
+			<Text>Onarım Nanitlerini Doldur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_LIMITED_HEAL_DESC">
+			<Text>+10 iyileşme hızı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_1_NAME">
+			<Text>Tüfek Namlularını Değiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_1_DESC">
+			<Text>+8 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_2_NAME">
+			<Text>Hedefleme Bilgisayarını Değiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_2_DESC">
+			<Text>+8 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_3_NAME">
+			<Text>Taze Cephane</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ATTACK_3_DESC">
+			<Text>+8 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_NAME">
+			<Text>Beyinler!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_1_DESC">
+			<Text>+5 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_NAME">
+			<Text>Beyinler!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_2_DESC">
+			<Text>+5 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_NAME">
+			<Text>Beyinler!!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_ATTACK_3_DESC">
+			<Text>+5 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_NAME">
+			<Text>Ugh!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_LESS_DECAY_DESC">
+			<Text>Çürüme Hasarı Yok</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_NAME">
+			<Text>Grah!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_1_DESC">
+			<Text>+1 [ICON_Movement] Hareket</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_NAME">
+			<Text>Grah!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_2_DESC">
+			<Text>+1 [ICON_Movement] Hareket</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_NAME">
+			<Text>Grah!!!</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZOMBIE_MOVE_3_DESC">
+			<Text>+1 [ICON_Movement] Hareket</Text>
+		</Row>
+
+		<!-- Unit Abilities -->
+		<Row Tag="LOC_ABILITY_TANK_MOVEMENT_DESCRIPTION">
+			<Text>Eğer Çorak Arazide başlıyorsa +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_NAME">
+			<Text>Uzaylı Rejenerasyonu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_DESCRIPTION">
+			<Text>Birlik, su veya radyoaktif serpinti dışında her tur iyileşir. Standart hızın %50'si oranında iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_HEAL_MOVE_UNITPANEL_DESCRIPTION">
+			<Text>Her tur, su veya radyoaktif serpinti dışında iyileşir. Standart iyileşme hızının %50'si oranında iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_NAME">
+			<Text>Uzaylı Kamuflajı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALIENS_XENO_STEALTH_DESCRIPTION">
+			<Text>Düşman birimlerine, bitişik hücrede olmadıkça görünmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_NAME">
+			<Text>Sonu Gözlemek</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CULTISTS_UNIT_SIGHT_DESCRIPTION">
+			<Text>+3 Görüş Menzili.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME">
+			<Text>Afetlere Alışkın</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION">
+			<Text>Kitle İmha Silahlarına anında ölmek yerine 50 Can Puanı kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME">
+			<Text>KIS Fırlatma Kabiliyeti</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION">
+			<Text>Kitle İmha Silahlarını fırlatabilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Gemiye binme ve inme işlemlerinden kaynaklanan ek [ICON_Movement] Hareket maliyetini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_NAME">
+			<Text>Savunma Amaçlı Atalet Kalkanı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAD_SCIENTISTS_UNIT_SHIELD_DESCRIPTION">
+			<Text>Savunurken +10 [ICON_Strength] Muharebe Gücü. Su, Kızıl Ölüm ve Kitle İmha Silahı hasarlarına tamamen bağışıktır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_NAME">
+			<Text>Yedek Parça Yok</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CRIPPLED_GDR_NO_HEAL_DESCRIPTION">
+			<Text>Birim her tur iyileşmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_NAME">
+			<Text>Zombi Çürümesi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_NO_HEAL_DESCRIPTION">
+			<Text>Her tur çürüme hasarı alır ve yalnızca terfilerle veya zombi olmayan birimleri öldürerek iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_NAME">
+			<Text>Zombi Muharebe Doğumu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_COMBAT_SPAWN_DESCRIPTION">
+			<Text>Zombi olmayan bir birimi öldürdüğünde bir zombi sürüsü doğurur.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_NAME">
+			<Text>Acı Yok</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZOMBIES_RANGED_RESISTANCE_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı savunurken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_NAME">
+			<Text>Mutant Yayılım Serpinti Bağışıklığı</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_SPREAD_FALLOUT_IMMUNE_DESCRIPTION">
+			<Text>Mutant yayılımı Kızıl Ölüm'den gelen hasara karşı bağışıktır.</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_SPEED_NAME">
+			<Text>Radyoaktif Hareket</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_SPEED_DESCRIPTION">
+			<Text>Kızıl Ölüm'de +3 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_NAME">
+			<Text>Radyoaktif Direnç</Text>
+		</Row>
+		<Row Tag="LOC_MUTANTS_FALLOUT_RESISTANCE_DESCRIPTION">
+			<Text>-%50 Kızıl Ölüm hasarı.</Text>
+		</Row>
+		<Row Tag="LOC_MAD_SCIENTISTS_UNIT_SHIELD_MODIFIER">
+			<Text>+{1_Amount} Atalet Kalkanı</Text>
+		</Row>
+		<Row Tag="LOC_BORDERLORD_EDGENESS_COMBAT_BONUS_MODIFIER">
+			<Text>+{1_Amount} Kenarlık</Text>
+		</Row>
+		<Row Tag="LOC_ZOMBIES_DEFENSE_BONUS_VS_RANGED_COMBAT_MODIFIER">
+			<Text>+{1_Amount} Zombi Menzilli Direnç</Text>
+		</Row>
+		<Row Tag="LOC_SHIELDS_DEPLETED">
+			<Text>Kalkanlar Tükendi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_TT">
+			<Text>Savunma Amaçlı Eylemsizlik Kalkanı[NEWLINE][NEWLINE]Savunma sırasında +10 [ICON_Strength] Muharebe Gücü sağlayan Savunma Amaçlı Eylemsizlik Kalkanı'nı devreye alır. Kalkan ayrıca suya, Kızıl Ölüm'e ve Kitle İmha Silahı patlama hasarına karşı tam bağışıklık sağlar. Savunma Amaçlı Eylemsizlik Kalkanı 4 tur sürer ve yeniden şarj olması 6 tur alır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_ACTIVE_TT">
+			<Text>Kalkan Aktif. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_ACTIVE_WORLDTEXT">
+			<Text>Kalkanlar Yükseldi!</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHIELD_RECHARGING_TT">
+			<Text>Kalkan Yeniden Şarj Oluyor. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_NAME">
+			<Text>Yol Görüşü</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_TT">
+			<Text>Yol Görüşü[NEWLINE][NEWLINE]Daha önce keşfedilen tüm bölgeleri ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_ACTIVE_TT">
+			<Text>Yol Görüşü Aktif. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_ACTIVE_WORLDTEXT">
+			<Text>Bunu Hatırlıyorum!</Text>
+		</Row>
+		<Row Tag="LOC_ROAD_VISION_RECHARGING_TT">
+			<Text>Yol Görüşü Yeniden Şarj Oluyor. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_PLACE_TRAP_TT">
+			<Text>Derme Çatma Tuzak Kur[NEWLINE][NEWLINE]Geçerli hücreye bir Derme Çatma Tuzak yerleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_PLACE_TRAP_OUT_OF_TRAPS_TT">
+			<Text>Tuzak Kalmadı.</Text>
+		</Row>
+		<Row Tag="LOC_PLACE_TRAP_FAILED_WORLDTEXT">
+			<Text>Buraya Tuzak Yerleştirilemiyor</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PANEL_TRAPS">
+			<Text>Tuzaklar</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_NAME">
+			<Text>Keder Hediyesi Gönder</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_TT">
+			<Text>Keder Hediyesi Gönder[NEWLINE][NEWLINE]Bir sonraki turda bir hücreye tuzaklı bir Keder Hediyesi yerleştirmek için bir hücre seçin. Keder Hediyesi, diğer tüm oyunculara normal bir İkmal İndirmesi gibi görünecektir. En fazla iki Keder Hediyesi depolayabilirsiniz ve bunların yeniden şarj olması 5 tur alır.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_ACTIVE_WORLDTEXT">
+			<Text>Buraya Hediye Yerleştirilemiyor</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_COUNT_TT">
+			<Text>Hazır Hediyeler: {1_giftCount}</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_RECHARGING_TT">
+			<Text>Yeni Hediyeler Hazırlanıyor. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVING_GIFT_EMPTY_TT">
+			<Text>Keder Hediyesi Kalmadı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CLOAK_TT">
+			<Text>Uzaylı Kamuflajı[NEWLINE][NEWLINE]Büyük ölçüde görünmez olunur.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CLOAK_ACTIVE_TT">
+			<Text>Gizlilik Kalkanı Aktif. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CLOAK_RECHARGING_TT">
+			<Text>Gizlilik Kalkanı Şarj Oluyor. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_NAME">
+			<Text>Hazine Haritasını Yak</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_TT">
+			<Text>Hazine Haritasını Yak[NEWLINE][NEWLINE]Gömülü hazine haritanı yak ve yeni bir tane al.[NEWLINE]"Hazinem asla bulunamayacak artık!"</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_ACTIVE_WORLDTEXT">
+			<Text>Yanıyor!</Text>
+		</Row>
+		<Row Tag="LOC_BURN_TREASURE_MAP_RECHARGING_TT">
+			<Text>Hazine Haritasını Yak Yeteneği Şarj Oluyor. Kalan Tur: {1_turnsRemaining}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_TT">
+			<Text>Birimi Feda Et[NEWLINE][NEWLINE]Bu birimi feda ederek Ölümsüz Göz'e bir terfi kazandır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_TT_B">
+			<Text>Birimi Feda Et[NEWLINE][NEWLINE]Bu birimi feda ederek {1_UnitName}'e bir terfi kazandır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_TT_C">
+			<Text>Kalas Yürüyüşü[NEWLINE][NEWLINE]Bu birimi yok ederek GDRRRrrrr'nın mürettebatını eğlendir ve ona bir terfi kazandır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_WORLDTEXT">
+			<Text>Hizmet için ölürüm!</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_WORLDTEXT_PIRATE">
+			<Text>Arr! Derinliklerin tanrılarına bir lütuf!</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT">
+			<Text>Ölümsüz Göz yalnızca bitişik altıgenlerden kurban kabul eder.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_B">
+			<Text>{1_UnitName} yalnızca bitişik altıgenlerden kurban kabul eder.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_NOT_ADJACENT_TT_C">
+			<Text>Birimleri ancak GDRRRrrrr'ye bitişikken kalas yürüyüşüne zorlayabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT">
+			<Text>Ölümsüz Göz tamamen tezahür etti ve artık kurban gerektirmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_B">
+			<Text>{1_UnitName} tamamen tezahür etti ve artık kurban gerektirmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SACRIFICE_MAX_PROMOTIONS_TT_C">
+			<Text>GDRRRrrrr'nın mürettebatı birimlerin kalas yürüyüşünü izlemekten sıkıldı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RAD_SPREAD_TT">
+			<Text>Işıltılı Kişilikleri Aç/Kapa[NEWLINE][NEWLINE]Bu birimin hareket ederken Kızıl Ölüm radyasyonu yayma yeteneğini açıp kapar.</Text>
+		</Row>
+
+		<!-- Terrain Replacements -->
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME">
+			<Text>Çorak Arazi</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME">
+			<Text>Çorak Arazi (Tepeler)</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME">
+			<Text>Çorak Arazi (Dağ)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME">
+			<Text>Çöl (Dağ)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_OCEAN_NAME">
+			<Text>Zehirli Okyanus</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_LAKE">
+			<Text>Zehirli Göl</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_COAST">
+			<Text>Zehirli Sahil</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ICE_NAME">
+			<Text>Büyük Çürüme (Yasak)</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARSH_NAME">
+			<Text>Bataklık</Text>
+		</Row>
+		
+		<!-- Unit Replacements -->
+		<Row Tag="LOC_UNIT_SETTLER_NAME">
+			<Text>Sivil</Text>
+		</Row>
+		
+		<!-- Barbarian Replacements -->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
+			<Text>Akıncı Karakolu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
+			<Text>Akıncılar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Akıncılar</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+			<Text>Yeni Akıncı Karakolu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+		  <Text>Yeni bir Akıncı grubunun yakınlardaki bir bölgeye yerleştiğine dair söylentiler duyduk.</Text>
+		</Row>
+		
+		<!-- Overlays -->
+		<Row Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT">
+			<Text>Edgelord Muharebe Bonus Bölgesi</Text>
+		</Row>
+		
+		<!-- Zombie Combat Unit -->
+		<Row Tag="LOC_UNIT_ZOMBIE_NAME">
+			<Text>Zombi Sürüsü</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ZOMBIE_DESCRIPTION">
+			<Text>Zar zor silahlandırılmış Zombi Sürüsü</Text>
+		</Row>
+		
+		<!-- Crippled GDR -->
+		<Row Tag="LOC_UNIT_CRIPPLED_GDR_NAME">
+			<Text>Sakat Dev Ölüm Robotu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CRIPPLED_GDR_DESCRIPTION">
+			<Text>Bu Dev Ölüm Robotu daha iyi günler görmüştür. Bir daha asla eskisi gibi olmayacak ama yine de hesaba katılması gereken bir güç.</Text>
+		</Row>
+
+		<!-- Faction Specific Unit Naming -->
+		<Row Tag="LOC_UNIT_UNDYING_EYE_NAME">
+			<Text>Ölümsüz Göz</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIRATE_TREASURE_TANK_NAME">
+			<Text>Hazine Tankı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIRATE_TREASURE_CRIPPLED_GDR_NAME">
+			<Text>DÖRRrrrr</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIRATE_TREASURE_INFANTRY_NAME">
+			<Text>Kara Acemisi</Text>
+		</Row>
+
+		<!-- Combat Modifier Strings -->
+		<Row Tag="LOC_TRAIT_JOCKS_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Mükemmellik Tanıklığı</Text>
+		</Row>
+						
+		<!-- WMDs -->
+		<Row Tag="LOC_WMD_HAIL_MARY_NAME">
+			<Text>Son Çare</Text>
+		</Row>
+		<Row Tag="LOC_WMD_HAIL_MARY_DISABLED_COOLDOWN">
+			<Text>[COLOR:Red]{1_turns} tur sonra yeni Son Çare savaş başlığı kullanılabilecek.[ENDCOLOR]</Text>
+		</Row>
+		
+		<!-- Treasure Locations -->
+		<Row Tag="LOC_TREASURE_UNIT_INFANTRY_RECRUITED">
+			<Text>Yeni askerler bulduk!</Text>
+		</Row>
+		<Row Tag="LOC_TREASURE_UNIT_TANK_RECRUITED">
+			<Text>Bu bir tank!</Text>
+		</Row>
+		<Row Tag="LOC_TREASURE_UNIT_CRIPPLED_GDR_RECRUITED">
+			<Text>GDRRRRrrrr!</Text>
+		</Row>
+				
+		<!-- UFO Unit Names -->
+		<Row Tag="LOC_UFO_UNIT_NAME1">
+			<Text>"Bataklık Gazı"</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME2">
+			<Text>"Nadir Bulutlar"</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME3">
+			<Text>"Sarhoş Tanık"</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME4">
+			<Text>"Uyku İlacı"</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME5">
+			<Text>"İzlenmeyen Göktaşı"</Text>
+		</Row>
+		<Row Tag="LOC_UFO_UNIT_NAME6">
+			<Text>"Gizli Silah Testi"</Text>
+		</Row>
+		
+	</EnglishText>
+</GameData>

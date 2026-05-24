@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Moments-->
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED">
+			<Text>Tarihi Eser Çıkarıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_DESCRIPTION">
+			<Text>Bir tarihi eser gün yüzüne çıkarıldı ve geçmişe dair paha biçilmez bilgiler sunuyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_INSTANCE_DESCRIPTION">
+			<Text>Toprak temizlenirken, {GreatWorkName} çağlar sonra güneş ışığına kavuşuyor. Bu eser, yıllar boyunca {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} müzelerini süsleyecek.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST">
+			<Text>İlk Gemi Batığı Kazısı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_DESCRIPTION">
+			<Text>Arkeologların ilk gemi batığı kazısını gerçekleştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Midye kabuklarıyla kaplı ama hâlâ tanınabilir olan {GreatWorkName}, deniz arkeolojisinin bizi geçmişe bağlayabileceğini kanıtlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk Gemi Batığı Kazısı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Arkeologların dünyadaki ilk gemi batığı kazısını tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_SHIPWRECK_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Deniz arkeolojisindeki dünyanın ilk keşif gezisi, {GreatWorkName} eserini ortaya çıkarıyor ve denizin artık tarihin sırlarını gizleyemeyeceğini gösteriyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED">
+			<Text>Barbar Kampı Yok Edildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_DESCRIPTION">
+			<Text>Düşmanca bir barbar kampı bir birlik tarafından yerle bir edildi ve bölgeye barış hâkim oldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_INSTANCE_DESCRIPTION">
+			<Text>Kuvvetlerimiz bir barbar kampını temizliyor ve büyüyen uygarlığımıza yönelik bir tehdit ortadan kaldırılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY">
+			<Text>Tehdit Kampı Yok Edildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_DESCRIPTION">
+			<Text>Şehirlerinizden birinin 6 kare yakınındaki düşmanca bir barbar kampı bir birlik tarafından yok edildi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} şehrinin kapısındaki tehlike bertaraf edildi! Barbarlar kovuldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BATTLE_FOUGHT">
+			<Text>Muharebe Yaşandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BATTLE_FOUGHT_DESCRIPTION">
+			<Text>Rakipler arasında bir muharebe yaşandı. Arkeoloji sistemi tarafından potansiyel olarak [ICON_RESOURCE_ANTIQUITY_SITE] Antik Sit Alanı kaynakları oluşturmak için kullanılır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED">
+			<Text>Din Tüm İnançları Benimsedi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_DESCRIPTION">
+			<Text>Din'iniz son İnancını ekledi ve artık tamamlanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_INSTANCE_DESCRIPTION">
+			<Text>İlahiyatçılar {ReligionName} dininin ilkelerini ve İnançlarını netleştiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD">
+			<Text>Tüm İnançları Benimseyen Dünyadaki İlk Din</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dininiz, son İnancını da ekleyerek tamamlanan dünyadaki ilk din oluyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} dininin ilahiyatçılarının tartışmaları büyük kitapları doldurur ve bu din, inançlarını netleştiren ilk din haline gelir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Eşsiz Bina İnşa Edildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bu eşsiz binayı ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Halkımız, değerlerimizi ve önceliklerimizi yansıtan {BuildingType} ile gurur duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST">
+			<Text>Tamamen Geliştirilmiş İlk Hava Meydanı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST_DESCRIPTION">
+			<Text>Bir Hava Meydanı bölgesindeki tüm binaları ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_AERODROME_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Pilotlar, {CityName} şehrindeki Hava Meydanı'na iniş yapmayı bir geçiş töreni olarak görür. En yaşlıları, buranın sadece bir tarla ve birkaç geçici hangardan ibaret olduğu günleri hatırlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST">
+			<Text>Tamamen Geliştirilmiş İlk Ordugâh</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST_DESCRIPTION">
+			<Text>Bir Ordugâh bölgesindeki tüm binaları ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENCAMPMENT_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Askerler düzen içinde yürüyüp tempo tutuyor: Bilmem ama söylenene göre/{CityName}'de hayat çok bayat.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST">
+			<Text>Tamamen Geliştirilmiş İlk Eğlence Kompleksi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST_DESCRIPTION">
+			<Text>Bir Eğlence Kompleksi bölgesindeki tüm binaları ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_ENTERTAINMENT_COMPLEX_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'da, "öğleden sonrayı {CityName}'de geçirmek" deyimi "harika vakit geçirmek" anlamına gelir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST">
+			<Text>Tamamen Geliştirilmiş İlk Su Parkı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST_DESCRIPTION">
+			<Text>Bir Su Parkı bölgesindeki tüm binaları ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FULL_WATER_ENTERTAINMENT_COMPLEX_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Derler ki {CityName}'i ziyaret etmenin en güzel yolu, güneş batarken ve Su Parkı'nın ışıkları yanarken, tahta kaldırımdaki kalabalığı izlemektir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER">
+			<Text>Dünya Harikası Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_DESCRIPTION">
+			<Text>Bir dünya harikası tamamlanarak diğer uygarlıklar karşısındaki heybetimizi gösteriyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>{BuildingType} yapısının içinde duran {CityName} sakinleri hayranlıkla doluyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER">
+			<Text>Eski Çağ Dünya Harikası Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_DESCRIPTION">
+			<Text>Bir Dünya Harikası tamamlandı. Geçmiş bir çağa ait olsa da, diğer uygarlıklar karşısındaki büyüklüğümüzü göstermeye devam edecek.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>{BuildingType} yapısının içinde duran {CityName} sakinleri şanlı geçmişlerini hatırlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN">
+			<Text>Dünyanın En Büyük Uygarlığı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_DESCRIPTION">
+			<Text>Uygarlığınız, en yakın rakibine kıyasla en az 3 şehir daha fazlasına sahip olarak dünyanın en büyüğü haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, geniş imparatorluğumuzun en yeni şehri ve diğer uygarlıklar hayranlıkla izliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER">
+			<Text>Hayranlık Uyandıran Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_DESCRIPTION">
+			<Text>Bir şehir, bir doğa harikasının 2 kare yakınına kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_INSTANCE_DESCRIPTION">
+			<Text>{FeatureType}'nin ilham veren manzarası, yeni şehrimiz {CityName} sakinlerini neşeyle dolduruyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY">
+			<Text>Agresif Şehir Yerleşimi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_DESCRIPTION">
+			<Text>Bir şehir, başka bir uygarlığın şehrine 5 kare yakınlıkta kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_INSTANCE_DESCRIPTION">
+			<Text>{TargetPlayerCivName} bürokratları, {CityName}'i kendi şehirleri {OtherCityName}'e bu kadar yakın kurma cüretimiz karşısında öfkeye kapıldı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT">
+			<Text>Yeni Kıtada Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_DESCRIPTION">
+			<Text>Daha önce yerleşmediğiniz bir kıtaya şehir kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, {ContinentName}'deki ilk yerleşim oldu!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT">
+			<Text>Çöl Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_DESCRIPTION">
+			<Text>Zorlu çöl arazisinde bir şehir kuruldu, böylece vahşi doğadaki hakimiyet alanımız genişledi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_INSTANCE_DESCRIPTION">
+			<Text>Ziyaretçiler {CityName}'in sıcağından şikayet ediyor, ama en azından kuru bir sıcak.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW">
+			<Text>Kar Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_DESCRIPTION">
+			<Text>Zorlu Kar arazisine bir şehir kurarak vahşi doğadaki hakimiyet alanınızı genişletiyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_INSTANCE_DESCRIPTION">
+			<Text>{CityName} halkının 'kar' için yüzlerce kelimesi vardır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA">
+			<Text>Tundra Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_DESCRIPTION">
+			<Text>Zorlu Tundra arazisine bir şehir kurarak vahşi doğadaki hakimiyet alanınızı genişletiyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_INSTANCE_DESCRIPTION">
+			<Text>{CityName} halkı, toprağın sert güzelliği ve kendi dayanıklılıklarıyla gurur duyar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR">
+			<Text>Düşman Şehir Dinimizi Benimsiyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_DESCRIPTION">
+			<Text>Savaş halinde olmasına rağmen bir düşman şehri gerçeği görmüş ve dinimizi benimsemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Gökler {CityName} halkının gözlerini açar ve onlar, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} ile savaş halinde olmalarına rağmen {ReligionName} inancının sadık takipçilerine katılırlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY">
+			<Text>Rakip Kutsal Şehir Dönüştürüldü</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_DESCRIPTION">
+			<Text>Başka bir dinin Kutsal Şehri, bizim dinimize dönüşmüştür.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} bir zamanlar {OldReligionName}'nin beşiğiydi, ancak şimdi sadıklar {ReligionName} tapınaklarına akın ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST">
+			<Text>İlk Devasa Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_DESCRIPTION">
+			<Text>Bir şehir, uygarlığınızda ilk kez 25 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Kulelerinden apartmanlarına kadar, {CityName} halkı uygarlığımızın en büyük şehri olmanın sivil gururuyla birbirine bağlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Devasa Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bir şehir, dünyada ilk kez 25 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_EXTRA_LARGE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Canlı ve kozmopolit {CityName} hiç uyumaz, ancak vatandaşlarının hikayeleri muhteşem bir ortak uyanık rüyada birbirine dokunur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST">
+			<Text>İlk Muazzam Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_DESCRIPTION">
+			<Text>Bir şehir, uygarlığınızda ilk kez 20 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Paradoksal olarak, {CityName} halkı hem şehirlerinin büyüklüğüyle inanılmaz derecede gurur duyar, hem de ne kadar kalabalıklaştığından şikayet etmekten asla vazgeçmez.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Devasa Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bir şehir, dünyada ilk kez 20 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>'İnsanın en büyük şehri olan {CityName}'nin bulvarlarında ve caddelerinde dolaşan kalabalıkları görüp bu ihtişamı deneyimlemeden yaşadığını söyleyemezlermiş.'</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST">
+			<Text>İlk Büyük Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızda ilk kez bir şehir 15 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} daha da genişliyor ve halkımızın en büyük şehri haline geliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Büyük Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bir şehir, dünyada ilk kez 15 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{CityName} sakinleri, dünyanın en büyük ve en gözde şehrinde yaşadıkları için övünüyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST">
+			<Text>İlk Canlı Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızda ilk kez bir şehir 10 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} büyüyor ve halkı gelişen şehir hayatıyla gurur duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Canlı Şehri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bir şehir, dünyada ilk kez 10 [ICON_Citizen] Nüfusa ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Ziyaretçiler, dünyanın en büyük şehri olan {CityName} hakkında hayranlıkla konuşuyor. Bu kadar çok insan bir arada nasıl barış içinde yaşayabiliyor?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY">
+			<Text>Yabancı Şehir Katılıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_DESCRIPTION">
+			<Text>Yabancı bir şehir sadakatini bize adamaya karar verdi ve imparatorluğumuza katıldı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} halkı artık kendini {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}'nin bir parçası hissetmiyor ve uygarlığımıza katılmayı kabul ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY">
+			<Text>Özgür Şehir Katılıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_DESCRIPTION">
+			<Text>Bir Özgür Şehir sadakatini bize adamaya karar verdi ve imparatorluğumuza katıldı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} halkı bize bir yakınlık duyuyor ve gönüllü olarak uygarlığımıza katılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL">
+			<Text>Yabancı Başkent Ele Geçirildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_DESCRIPTION">
+			<Text>Yabancı bir gücün asıl başkent şehrinin kontrolünü ele geçirdiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}}'in eski başkenti, artık uygarlığımızın bir parçası!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED">
+			<Text>Son Yabancı Şehir Ele Geçirildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_DESCRIPTION">
+			<Text>Bir uygarlığın geriye kalan son şehrinin kontrolünü ele geçirdiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME_UPPER &lt;&lt; {TargetPlayerCivName}} zamanın sınavına dayanamayacak.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER">
+			<Text>Şehir Asıl Sahibine Dönüyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_DESCRIPTION">
+			<Text>Bir şehir asıl sahibine geri döndü.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'a bir kez daha geri dönüyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST">
+			<Text>Yeni Çağın İlk Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızın, yeni bir keşif çağındaki ilk yönetim bilimini tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Başkaları ne derse desin, {PlayerEraType} kültürünün gerçek anlamda serpilmesi, {CivicType}'nin {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tarafından keşfiyle başladı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD">
+			<Text>Dünyanın Yeni Çağdaki İlk Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın, yeni bir keşif çağındaki ilk yönetim bilimini tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{CivicType} anlayışımız, {PlayerEraType} çağında insanlığın geleceğini belirleyecek!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Eşsiz Bölge Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bu eşsiz bölgeyi ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>{DistrictType} bir tesadüf değildi; halkımızın eşsiz dehasının bir sonucuydu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS">
+			<Text>Muhteşem Kampüs Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_DESCRIPTION">
+			<Text>Uygarlığının 3 [ICON_Science] Bilim veya daha yüksek bir başlangıç komşuluk bonusuna sahip ilk Kampüsünü tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_INSTANCE_DESCRIPTION">
+			<Text>{CityName} yakınındaki Kampüsün avlularında yürürken ve dersliklerinin önünde oyalanırken, dünyayı değiştirecek fikirleri tartışan âlimleri duyabilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB">
+			<Text>Muhteşem Ticaret Merkezi Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Uygarlığının 4 [ICON_Gold] Altın veya daha yüksek bir başlangıç komşuluk bonusuna sahip ilk Ticaret Merkezini tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_INSTANCE_DESCRIPTION">
+			<Text>{CityName} şehrinin Ticaret Merkezine insanların yalnızca pazardaki alışveriş heyecanı için akın ettiği söylenir. Ama kazanç da hiç fena değildir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR">
+			<Text>Muhteşem Liman Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_DESCRIPTION">
+			<Text>Uygarlığının 4 [ICON_Gold] Altın veya daha yüksek bir başlangıç komşuluk bonusuna sahip ilk Limanını tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_INSTANCE_DESCRIPTION">
+			<Text>{CityName} Limanındaki hareketli rıhtımlar boyunca denizciler ve yük taşıyıcıları bağrışır ve şantılar söyler.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE">
+			<Text>Muhteşem Kutsal Alan Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_DESCRIPTION">
+			<Text>Uygarlığının 3 [ICON_Faith] İnanç veya daha yüksek bir başlangıç komşuluk bonusuna sahip ilk Kutsal Alanını tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_INSTANCE_DESCRIPTION">
+			<Text>Çan sesleri ve ilahiler, buhur ve ikonalar... {CityName} Kutsal Alanı, ibadet edenleri ve hacıları yüce meseleler üzerine tefekküre davet eder.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE">
+			<Text>Muhteşem Sanayi Bölgesi Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Uygarlığının 4 [ICON_Production] Üretim veya daha yüksek bir başlangıç komşuluk bonusuna sahip ilk Sanayi Bölgesini tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_INSTANCE_DESCRIPTION">
+			<Text>Düdükler yeni vardiyanın başladığını haber verir; {CityName} şehrinden işçiler Sanayi Bölgesine akın eder, iyi bir günlük çalışmaya hazırdır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE">
+			<Text>Muhteşem Tiyatro Meydanı Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_DESCRIPTION">
+			<Text>Uygarlığının 3 [ICON_Culture] Kültür veya daha yüksek bir başlangıç komşuluk bonusuna sahip ilk Tiyatro Meydanını tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_INSTANCE_DESCRIPTION">
+			<Text>Neşeli şarkılar, ilham verici sözler. {CityName} şehrinin sanatçıları, şairleri ve oyun yazarları Tiyatro Meydanımızın sokaklarında salınır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST">
+			<Text>İlk Mahalle Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_DESCRIPTION">
+			<Text>Uygarlığının ilk Mahalle bölgesini tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} sakinleri, {CityName}'de yaşamaktan daha iyi olan tek şeyin, şehrin biraz daha temiz bir dış mahallesinde yaşamak olduğunu keşfeden ilk kişilerdir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Mahallesi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyadaki ilk Mahalle bölgesinin inşasını tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{CityName} halkı, dünyada ilk kez {CityName}'de yaşamaktan daha iyi bir şeyin, onun biraz daha temiz bir dış mahallesinde yaşamak olduğunu keşfetti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER">
+			<Text>Acil Durum Başarıyla Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_DESCRIPTION">
+			<Text>Bir üye olarak, bir Acil Durumu başarıyla sonuçlandırdınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_INSTANCE_DESCRIPTION">
+			<Text>{EmergencyType} {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} ile sona erdi ve biz zaferle çıktık. Ancak gelecek ne getirecek?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET">
+			<Text>Acil Durum Başarıyla Savunuldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_DESCRIPTION">
+			<Text>Hedef olarak, size karşı başlatılan bir Acil Durumu savuşturmayı başardınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_INSTANCE_DESCRIPTION">
+			<Text>Kıskanç uygarlıkların orduları halkımızı durduramadı! {EmergencyType} suçlama ve ithamlarla dağılıp gidiyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER">
+			<Text>Bir Doğa Harikasının Keşfi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_DESCRIPTION">
+			<Text>Uygarlığınız bu doğa harikasını ilk kez keşfediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} kaşifleri {FeatureType}'in ihtişamını keşfediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD">
+			<Text>Bir Doğa Harikasının İlk Keşfi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığımızın kaşifleri bu doğa harikasını gören dünyadaki ilk kişilerdir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} kaşifleri, {FeatureType}'i gören büyük bir uygarlıktan gelen ilk kişilerdir!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD">
+			<Text>Yeni Bir Kıtanın İlk Keşfi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığımızın kaşifleri bu kıtayı bulan dünyadaki ilk kişilerdir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} kaşifleri, {ContinentName} kıtasına ayak basan büyük bir uygarlıktan gelen ilk kişilerdir!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST">
+			<Text>İlk Armada</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızın ilk Armada'sı oluşturuldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{UnitType} güvertesinden bakıldığında, ilk Armada'mızın gemileri ufka doğru uzanıyor, her biri uygarlığımızın bayrağını dalgalandırıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Armada'sı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk Armada'sı, sizin komutanız altında kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Dünyanın ilk Armada'sının muazzam gücü, emrimizde açık denizlere yelken açmaya hazır!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST">
+			<Text>İlk Ordu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızın ilk Ordusu kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>İlk Ordumuzun kuvvetleri, hiç bitmeyecekmiş gibi görünen bir geçit töreniyle ilerliyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Ordusu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk Ordusu, sizin komutanız altında kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Dünya, {UnitType}'muzun ordusu gibi bir orduyu daha önce görmemişti! Gücümüz rakipsiz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST">
+			<Text>İlk Kolordu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızın ilk Kolordusu kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Tek bir birimden daha güçlü olan ilk Kolordumuz, uygarlığı korumaya hazır bekliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Kolordusu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk Kolordusu, sizin komutanız altında kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Kurmay subaylarımız, dünyanın ilk Kolordusu'nun harekete hazır olduğunu bildiriyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST">
+			<Text>İlk Donanma</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_DESCRIPTION">
+			<Text>Uygarlığınızın ilk Donanması kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_INSTANCE_DESCRIPTION">
+			<Text>İlk Donanmamız toplanırken tüm tayfa bayrağı selamlıyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Donanması</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk Donanması, sizin komutanız altında kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Toplanan kaptanların tümü, gemilerinin demir almaya hazır olduğunu bildiriyor; zira dünyanın ilk Donanması harekete geçmeye hazır!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE">
+			<Text>Karanlık Çağ Başlıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_DESCRIPTION">
+			<Text>Oyun yeni bir çağa girerken, uygarlığınız bir Karanlık Çağ'ın zorluklarını aşmak zorundadır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>Oyun {PlayerEraType}'a girerken, uygarlığınız bir Karanlık Çağ'ın zorluklarını aşmak zorundadır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE">
+			<Text>Altın Çağ Başlıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_DESCRIPTION">
+			<Text>Oyun yeni bir çağa girerken, uygarlığınız bir Altın Çağ kazanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_INSTANCE_DESCRIPTION">
+			<Text>Oyun {PlayerEraType}'a girerken, uygarlığınız bir Altın Çağ kazanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE">
+			<Text>Kahramanlık Çağı Başlıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_DESCRIPTION">
+			<Text>Oyun yeni bir çağa girerken, uygarlığınız geçmiş zorlukların üstesinden gelerek bir Kahramanlık Çağı kazanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_INSTANCE_DESCRIPTION">
+			<Text>Oyun {PlayerEraType}'a girerken, uygarlığınız geçmiş zorlukların üstesinden gelerek bir Kahramanlık Çağı kazanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE">
+			<Text>Normal Çağ Başlıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_DESCRIPTION">
+			<Text>Oyun yeni bir çağa girerken, bir Karanlık Çağ'dan kaçınmış oldunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_INSTANCE_DESCRIPTION">
+			<Text>Oyun {PlayerEraType}'a girerken, bir Karanlık Çağ'dan kaçınmış oldunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED">
+			<Text>Kabile Köyüyle Temas Sağlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_DESCRIPTION">
+			<Text>Bir Kabile Köyüyle temas sağlandı, bu da gelişmekte olan şehirlerimize güç kattı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_INSTANCE_DESCRIPTION">
+			<Text>Köylüler, uygarlığımıza katılırken hediyeler getiriyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST">
+			<Text>İlk Kademe 1 Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız ilk Kademe 1 Hükümetini benimsiyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, {GovernmentType} hükümetini benimseyerek vatandaşlar için yeni bir siyasi çağ başlatıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD">
+			<Text>Dünyada İlk Kademe 1 Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız dünyada bir Kademe 1 Hükümet benimseyen ilk uygarlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkı, siyasi felsefelerinin büyük sentezi olan {GovernmentType} hükümetini benimser.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST">
+			<Text>İlk Kademe 2 Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız ilk Kademe 2 Hükümetini benimser.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Kadim yönetim gelenekleri evrilir ve {ActingPlayerLeaderName}, {GovernmentType} hükümetini yeni yönetim biçimi olarak seçer.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD">
+			<Text>Dünyada İlk Kademe 2 Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız dünyada bir Kademe 2 Hükümet benimseyen ilk uygarlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Eski yollar iyiydi, ancak zaman zayıflıklarını gösterdi. {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkı, {GovernmentType} hükümetini benimsemeleriyle yeni bir güç bulur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST">
+			<Text>İlk Kademe 3 Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız ilk Kademe 3 Hükümetini benimser.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Geçmişin onurlu gelenekleri, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın seçtiği {GovernmentType} hükümetinin bir parçasını oluşturmaya devam edecektir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD">
+			<Text>Dünyada İlk Kademe 3 Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız dünyada bir Kademe 3 Hükümet benimseyen ilk uygarlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Yüzyıllar süren siyasi felsefe, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} gelecek için {GovernmentType} hükümetini seçerken nihai ifadesine ulaşır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_CLASSICAL_REPUBLIC_INSTANCE_DESCRIPTION">
+			<Text>Meydanlar vatandaş tartışmalarıyla canlanırken, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} Klasik Cumhuriyet'i hükümet olarak benimser.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_CLASSICAL_REPUBLIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} vatandaşları, kralların yönetimini devirip kendilerini Klasik Cumhuriyet ile yönetmenin sevincini yaşarlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_AUTOCRACY_INSTANCE_DESCRIPTION">
+			<Text>Saraylılar, {ActingPlayerLeaderName} {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tahtına Otokrat olarak çıkarken eğilirler.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_AUTOCRACY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerLeaderName}, dünyaya yalnızca kendisinin {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} adına konuştuğunu ilan eder.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_OLIGARCHY_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ı yönetmek, bir Oligarşiye yakışır şekilde, yalnızca en iyi türden insanlar tarafından yapılır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_OLIGARCHY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bir filozof, Oligarşi'nin en iyi yönetim biçimi olduğunu ilan eder ve {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkı da buna katılır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_THEOCRACY_INSTANCE_DESCRIPTION">
+			<Text>Göğün iradesiyle, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} bir Teokrasi haline gelmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_THEOCRACY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} Teokrasisi, göğün yeryüzünü yönetme biçimini yansıtır; bunu {ActingPlayerLeaderName}'in ilahi rehberliğinde yapar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MONARCHY_INSTANCE_DESCRIPTION">
+			<Text>Çanlar çalar ve korolar şarkı söylerken {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın tacı {ActingPlayerLeaderName}'in başına konur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MONARCHY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerLeaderName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın hükümdarıdır; tüm yetkinin kaynağı olup bu yetki ona gökten verilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MERCHANT_REPUBLIC_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın büyük tüccar aileleri, zenginliklerini ve nüfuzlarını dünyanın dört bir yanına yaymak için birleşirler.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_MERCHANT_REPUBLIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerLeaderName}'in suretini taşıyan sikkelerin tedavül ettiği her yerde, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} Tüccar Cumhuriyeti'ni bulursunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DEMOCRACY_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nda her seçim günü bir bayramdır. Bayraklar dalgalanır, bandolar çalar ve {ActingPlayerLeaderName} yine aynı eski seçim konuşmasını yapar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DEMOCRACY_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Yurttaşlara duyulan güven ve geleceğe dair iyimserlik, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkını Demokrasi'yi seçmeye yönlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_COMMUNISM_INSTANCE_DESCRIPTION">
+			<Text>Yoldaşlar! Birinci Yurttaş {ActingPlayerLeaderName}'in önderliğinde tarihi ve Komünizm'i ilerletelim!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_COMMUNISM_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Dünyanın işçileri! {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} proletaryası eski düzeni devirdi! Yeni Komünizm'in yükselişine tanık olun!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_FASCISM_INSTANCE_DESCRIPTION">
+			<Text>Yaşasın {ActingPlayerLeaderName}! Halkınız, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'a sonsuz bağlılık yemini ediyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_FASCISM_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Salonlar {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkıyla dolar ve yankılanan nakaratları: {ActingPlayerLeaderName}! {ActingPlayerLeaderName}!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST">
+			<Text>Tüm Valiler Atandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_DESCRIPTION">
+			<Text>Mevcut tüm [ICON_Governor] Valileri atadınız ve birçok şehrin refahını güvence altına aldınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{GovernorName}, {GovernorShortTitle}, hizmetinize girer ve yetenekli danışmanlardan oluşan kadronuzu tamamlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST">
+			<Text>Vali Tamamen Terfi Etti</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_DESCRIPTION">
+			<Text>İlk kez bir [ICON_Governor] Valiyi tamamen terfi ettirerek bir şehre yardımcı olacak güçlü yeteneklerin kilidini açtınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Yönetim sanatı, nihai ifadesini {GovernorName}, {GovernorShortTitle}'in liderliğinde bulur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA">
+			<Text>Büyük Şahsiyet İşe Alındı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_DESCRIPTION">
+			<Text>[ICON_GreatPerson] Büyük Bir Şahsiyet, eşsiz yeteneklerini bizimle paylaşmak üzere topraklarımıza ayak bastı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_INSTANCE_DESCRIPTION">
+			<Text>Derin bir muhasebenin ardından {GreatPersonIndividualName}, yeteneklerini {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} topraklarına getirmeyi tercih eder.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA">
+			<Text>Geçmiş Çağdan Büyük Şahsiyet Getirildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_DESCRIPTION">
+			<Text>[ICON_GreatPerson] Büyük Bir Şahsiyet topraklarımıza geldi. Geçmiş bir çağa daha uygun olsa da, yine de uygarlığımıza büyük katkılarda bulunacak.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_INSTANCE_DESCRIPTION">
+			<Text>Derin bir muhasebenin ardından {GreatPersonIndividualName}, yeteneklerini {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} topraklarına getirmeyi tercih eder.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF">
+			<Text>İnançla Cezbedilen Büyük Şahsiyet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_DESCRIPTION">
+			<Text>[ICON_GreatPerson] Büyük Bir Şahsiyet, eşsiz yeteneklerini paylaşmak üzere topraklarımıza ayak bastı. Bunu, [ICON_Faith] İnanç kullanarak onu çağırma maliyetinin yarısından fazlasını karşılamamıza borçluyuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>Müminlerin duaları kabul oldu! {GreatPersonIndividualName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın kaderini değiştirmek için zuhur etti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF">
+			<Text>Altınla Cezbedilen Büyük Şahsiyet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_DESCRIPTION">
+			<Text>[ICON_GreatPerson] Büyük Bir Şahsiyet, eşsiz yeteneklerini paylaşmak üzere topraklarımıza ayak bastı. Bunu, cömert [ICON_Gold] Altın bahşişimize borçluyuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName}'i {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'a getirmek için hiçbir masraftan kaçınılmadı; şimdi çalışmalarına başlıyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Eşsiz Bölge İyileştirmesi İnşa Edildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bu eşsiz bölge iyileştirmesini ilk kez tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Gerçekten de bu {ImprovementType}, uygarlığımızın ruhunu yansıtıyor ve imparatorluğumuzun manzarasını tanımlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST">
+			<Text>İlk Sahil Tatil Beldesi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_DESCRIPTION">
+			<Text>İlk Sahil Tatil Beldesi bölge iyileştirmenizi tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_INSTANCE_DESCRIPTION">
+			<Text>İlk Sahil Tatil Beldemiz {CityName}'de açılıyor; tüm halkımızın sevincine vesile oluyor. Yalnızca, atıştırmalığı bir martı tarafından kapılıp götürülen küçük bir çocuk üzgün.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Sahil Tatil Beldesi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk Sahil Tatil Beldesi bölge iyileştirmesini tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_SEASIDE_RESORT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Ailelerin kahkahaları ve âşıkların iç çekişleri havayı dolduruyor; dünyanın ilk Sahil Tatil Beldesi, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın {CityName} şehrinde kapılarını açıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED">
+			<Text>Engizisyon Başlıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_DESCRIPTION">
+			<Text>Din’in bir Engizisyon başlatıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_INSTANCE_DESCRIPTION">
+			<Text>Gökler sevinçle coşarken, {ReligionName}'e inanmayanları doğru yola getirmek için adil bir Engizisyon başlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Engizisyonu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Din’in dünyanın ilk Engizisyonu’nu başlatıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName}, sapkınlıkları kökünden kazımak için bir Engizisyon başlatan ilk Din oldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED">
+			<Text>Milli Park Kuruldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_DESCRIPTION">
+			<Text>Bir Milli Park kurdun.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_INSTANCE_DESCRIPTION">
+			<Text>Uygarlığımızın vatandaşları en yeni Milli Park'a akın ediyor ve doğal dünyayla yeniden bağ kuruyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Milli Parkı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk Milli Parkı'nı kurdun.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NATIONAL_PARK_CREATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Dünyanın ilk Milli Parkı, birkaç ileri görüşlü korumacının doğru bildiği şeyi kanıtlıyor: {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin doğal güzelliğini gelecek nesiller için korumalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED">
+			<Text>Panteon Kuruldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_DESCRIPTION">
+			<Text>Halkın bir Panteon'a olan İnancı benimsiyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>Bu ilahi an, acaba diğer peygamberlerin bahsettiği şey miydi?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Panteonu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Halkın, bir Panteon'a İnanç benimseyen dünyadaki ilk halk oldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>İlk peygamber, yıldızlı bir gökyüzünün altında bir ilham parıltısıyla aydınlanır ve görünmeyen tanrılara şükranla eğilir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD">
+			<Text>Şehir Devleti'nin İlk Süzereni</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bu şehir devletinin ilk Süzereni oldun.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{CityStatePlayerCivName} hükümdarları, dünyadaki ilk Süzerenleri olan {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'e boyun eğiyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY">
+			<Text>Kiralık Ordu Dağılıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_DESCRIPTION">
+			<Text>[ICON_Envoy] Elçilerinizi kullanmanız, bu şehir devletinin kiralık ordusunu silah bırakmaya ikna etti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME_UPPER &lt;&lt; {TargetPlayerCivName}} siyasetin de bir savaş alanı olduğunu öğrenir; zira {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, {CityStatePlayerCivName} üzerindeki Süzerenlik statüsünü devirir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR">
+			<Text>Düşman Şehir Devleti Pasifize Edildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_DESCRIPTION">
+			<Text>[ICON_Envoy] Elçilerinizi kullanarak düşman bir şehir devletinin Süzerenini devirdiniz ve böylece size karşı düşmanlıkları sona erdirmeye ikna ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Önceki paralı asker sözleşmeleri yeniden müzakereye tabidir; {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, {CityStatePlayerCivName}'in eski Süzerenini devirdiğinde.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY">
+			<Text>Şehir Devleti Ordusu Kiralandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_DESCRIPTION">
+			<Text>Bir şehir devletinin askerî güçlerini kiraladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_INSTANCE_DESCRIPTION">
+			<Text>{CityStatePlayerCivName} ordularının kontrolü, görkemli bir askerî törenle {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'e geçiyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY">
+			<Text>Düşman Yakınında Şehir Devleti Ordusu Kiralandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_DESCRIPTION">
+			<Text>Bir düşman uygarlığının vuruş menzilinde bulunan bir şehir devletinin askerî güçlerini kiraladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} ile {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} arasındaki savaşta yeni bir cephe açılıyor; {CityStatePlayerCivName} kontrolü sınırlarda el değiştirirken.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS">
+			<Text>Tüm Uygarlıklarla Tanışıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_DESCRIPTION">
+			<Text>Dünyadaki tüm yaşayan uygarlıklarla tanıştınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_INSTANCE_DESCRIPTION">
+			<Text>Nihayet {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} halkıyla tanıştığımıza göre, içimizde bir his var ki dışarıda başka uygarlık kalmamış olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD">
+			<Text>Dünyada Tüm Uygarlıklarla İlk Tanışan</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyadaki tüm yaşayan uygarlıklarla tanışan ilk kişi sizsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} halkıyla tanıştık ve dünyanın tüm uygarlıklarıyla tanışan ilk kişi olduk.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_MAJOR">
+			<Text>Yeni Uygarlıkla Tanışıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_MAJOR_DESCRIPTION">
+			<Text>Yeni bir uygarlıkla temas kurdunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_MET_MAJOR_INSTANCE_DESCRIPTION">
+			<Text>İhtiyatlı karşılamalar ve meraklı bakışlar, {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} halkıyla buluşma anımızı belirliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE">
+			<Text>Karanlık Çağ'ı Aştı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_DESCRIPTION">
+			<Text>Uygarlığınız, Karanlık Çağ'ı erken aşmaya yetecek kadar Çağ Puanı kazandı ve Normal Çağ'a yükseldi! Bir sonraki kazanacağınız Altın Çağ fazladan güçlü olacak.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>Ateş altını arındırdığı gibi, Uygarlığımız da Karanlık Çağ'ımızın sınavlarıyla arındı. Şimdi herkes yenilenen zaferimize tanık olsun!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN">
+			<Text>Manhattan Projesi Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_DESCRIPTION">
+			<Text>Bilim insanlarınız Manhattan Projesi'ni tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_INSTANCE_DESCRIPTION">
+			<Text>Atomun korkunç gücü artık kontrolümüz altında, zira Manhattan Projesi'ni tamamladık.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS">
+			<Text>Mars Bileşeni Fırlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION">
+			<Text>Uygarlığınızın Mars uzay aracı için ilk bileşenini fırlattınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION">
+			<Text>Elbette, herkes {LOC_GRAMMAR_A_AN &lt;&lt; {ProjectShortName}} inşa edebilir. Ama herkes onu yörüngeye oturtamaz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD">
+			<Text>Dünyada İlk Mars Bileşeni Fırlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Mars uzay aracı için bir bileşen fırlatan dünyadaki ilk kişisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bir mühendis, {ProjectShortName} taşıyan bir roketin fırlatma rampasından gürleyerek yükselişini izliyor. "Bu gerçekten oluyor," diyor. "Mars'a gidiyoruz."</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING">
+			<Text>Ay'a İniş Yapıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_DESCRIPTION">
+			<Text>Ay'a iniş yapmak için başarılı bir görev gönderiyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_INSTANCE_DESCRIPTION">
+			<Text>Bilim insanlarınız, başkalarının bildirdiklerini doğruluyor: Ay çok tozlu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD">
+			<Text>Dünyada İlk Ay'a İniş</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Ay'a inen dünyadaki ilk kişisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bu, bir insan için küçük bir adım, ancak insanlık için dev bir sıçrama; bunların hepsi uygarlığımız sayesinde.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY">
+			<Text>Ivy Harekâtı Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_DESCRIPTION">
+			<Text>Bilim insanlarınız Ivy Harekâtı'nı tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_INSTANCE_DESCRIPTION">
+			<Text>Sıradan bir klasör, Ivy Harekâtı'nın başarı raporunu barındırıyor. Peki yeni silahlarımızın gücünü ne barındıracak?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH">
+			<Text>Uydu Yörüngeye Fırlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_DESCRIPTION">
+			<Text>Uygarlığınızın ilk uydusunu yörüngeye fırlattınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_INSTANCE_DESCRIPTION">
+			<Text>Geceleri vatandaşlarımız gökyüzünde süzülen yeni bir yıldızı işaret ediyor: İlk uydumuz!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Yörünge Uydusu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk uydusunu yörüngeye fırlattınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bip...bip...bip...bip...</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED">
+			<Text>Din Kuruldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_DESCRIPTION">
+			<Text>Bir Büyük Peygamber bir Din kurarak halkınıza aydınlık getirir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} kurtuluşun tek yoludur! Lütfen diğerlerini görmezden gelin!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Dini</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Halkınız bir Din kuran ilk topluluk olarak tüm dünyaya aydınlık getiriyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Anlatılana göre, {GreatPersonIndividualName} dünyanın ilk dini olan {ReligionName}'i kurduğunda güneş bulutları yarıp geçmiş ve havayı tatlı bir koku sarmış.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SHIP_SUNK">
+			<Text>Gemi Batırıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SHIP_SUNK_DESCRIPTION">
+			<Text>Bir deniz birliği muharebede batırıldı. Arkeoloji sistemi tarafından potansiyel olarak [ICON_RESOURCE_SHIPWRECK] Gemi Batığı kaynakları oluşturmak için kullanılır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL">
+			<Text>Usta Casus Kazanıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_DESCRIPTION">
+			<Text>Casuslarınızdan biri azami terfi seviyesine ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Derler ki {UnitCitizenName}'in dünyadaki her şehirde bağlantıları, kusursuz giyim zevki ve motorbota dönüşen bir arabası varmış.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST">
+			<Text>İlk Usta Casus Edinildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_DESCRIPTION">
+			<Text>Casuslarınızdan biri ilk kez azami terfi seviyesine ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Gizli bir yeraltı odasında, bir sonraki göreve başlamadan önce {UnitCitizenName}'e başarılı hizmet kariyeri için teşekkür ediyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST">
+			<Text>Yeni Çağın İlk Teknolojisi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız, yeni bir keşif çağından ilk teknolojiyi tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Birçokları {PlayerEraType}'ın fiili başlangıcını tartışır, ancak bunun {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'in {TechnologyType}'yi keşfettiği an olduğunu bilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD">
+			<Text>Dünyanın Yeni Çağdaki İlk Teknolojisi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Dünyada yeni bir keşif çağından ilk teknolojiyi tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{TechnologyType}'nin {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tarafından keşfi, {PlayerEraType}'daki gelecek keşifler için dünya sahnesini hazırlıyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV">
+			<Text>Yeni Uygarlıkta Ticaret Karakolu Kuruldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_DESCRIPTION">
+			<Text>Bu uygarlıkta ilk [ICON_TradingPost] Ticaret Karakolu'nuzu kurdunuz ve yeni pazarlara erişim sağladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_INSTANCE_DESCRIPTION">
+			<Text>Tozlu ve yorgun ama pazarlığa hevesli tüccarlar, {LOC_GRAMMAR_CIVNAME &lt;&lt; {TargetPlayerCivName}} topraklarında ilk Ticaret Karakolu'muzu açıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV">
+			<Text>Tüm Uygarlıklarda Ticaret Karakolları</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_DESCRIPTION">
+			<Text>Tüm uygarlıklarda bir [ICON_TradingPost] Ticaret Karakolu kurdunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_INSTANCE_DESCRIPTION">
+			<Text>{CityName}'deki Ticaret Karakolu'nun açılmasıyla ticaret ağımız dünyayı sardı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD">
+			<Text>Tüm Uygarlıklarda İlk Ticaret Karakolları</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Tüm uygarlıklarda [ICON_TradingPost] Ticaret Karakolu kuran dünyadaki ilk kişisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Tüccarlar ve bankacılar, {CityName}'de Ticaret Karakolu'muzu açarken sevinçle bağırıyor. Dünyadaki her uygarlıkta ticaret yapan ilk biziz!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR">
+			<Text>Havalanma</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_DESCRIPTION">
+			<Text>İlk uçan biriminize sahipsiniz. Halk, bunun getirdiği yeni olanaklarla sevinç içinde.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin {UnitType}'ı havalandı ve büyük bir coşku eşliğinde bir daha inmedi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD">
+			<Text>Dünyadaki İlk Uçuş</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk uçan birliğine sahipsiniz! İnsanlar bu yeni olanaklar karşısında sevinç içinde.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin {UnitType}'ı göklere yükseldiğinde insanlık ilk kez uçuş hayalini gerçekleştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA">
+			<Text>Dalgaların Üzerinde</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_DESCRIPTION">
+			<Text>İlk denizci birliğinize sahip oldunuz. Ufukta yepyeni bir dünya sizi bekliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin {UnitType}'ının mürettebatı, ilk deniz yolculuklarının ardından denizci masalını icat etti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD">
+			<Text>Dünyadaki İlk Denizcilik</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_DESCRIPTION">
+			<Text>Dünyanın ilk denizci birliğine sahipsiniz! Ufukta yepyeni bir dünya sizi bekliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Yeni maceralara susamış {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin {UnitType}'ı, dünyada denizleri arşınlayan ilk birlik oldu.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC">
+			<Text>Stratejik Kaynak Potansiyeli Açığa Çıktı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_DESCRIPTION">
+			<Text>Bu stratejik kaynağı kullanan ilk birliğinize sahip oldunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_INSTANCE_DESCRIPTION">
+			<Text>Şüpheciler sorabilir: "{ResourceType : plural 1?Bu {ResourceType} ne işe yarar ki?; other?Bu {ResourceType}ler ne işe yarar ki?;}" Ama artık biliyoruz ki {ResourceType : plural 1?o; other?onlar;} {UnitType}'ımız için müthiş bir silah.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD">
+			<Text>Dünyada İlk Kez Stratejik Kaynak Potansiyeli Açığa Çıktı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_DESCRIPTION">
+			<Text>Bu stratejik kaynağı kullanan bir birliğe sahip olan dünyadaki ilk uygarlık sizsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Eskiden {ResourceType : plural 1?{ResourceType} sadece bilginlerin merak konusuydu; other?{ResourceType}ler sadece bilginlerin merak konusuydu;}. Şimdiyse {UnitType}'ımız dünyada ilk kez {ResourceType : plural 1?onu; other?onları;} bir silah olarak kullanıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE">
+			<Text>Eşsiz Birlik Yola Çıkıyor</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bu eşsiz birliği ilk kez eğittiniz ve savaş alanında size avantaj sağlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>{UnitType}'ı {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'den başka kim yaratabilirdi ki? Ve ona kim karşı koyabilir?</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL">
+			<Text>Seçkin Terfi Almış Birlik</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_DESCRIPTION">
+			<Text>Birimlerinizden biri dördüncü terfi seviyesine ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Halk, {UnitType}'imizin son zaferini kutlamak için sokaklara döküldü!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST">
+			<Text>Seçkin Terfiye Ulaşan İlk Birim</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_DESCRIPTION">
+			<Text>İlk kez, birimlerinizden biri dördüncü terfi seviyesine ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Tüm askerî güçlerimiz arasında en ünlüsü bu {UnitType}'dir. Henüz hiçbir birlik savaşta bu kadar çok zafer kazanmadı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL">
+			<Text>Amiral Düşmanı Alt Etti</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_DESCRIPTION">
+			<Text>[ICON_GreatAdmiral] Büyük Amirallerinizden biri, bir düşman birliğine karşı ilk başarılı taarruzuna liderlik etti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName}, elinde dürbünüyle güvertede dururken düşman gemileri okyanusun derinliklerine gömülüyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL">
+			<Text>General Düşmanı Alt Etti</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_DESCRIPTION">
+			<Text>[ICON_GreatGeneral] Büyük Generallerinizden biri, bir düşman birliğine karşı ilk başarılı taarruzuna liderlik etti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName}, muhteşem bir zaferin ardından birliklerine geçit töreninde öncülük ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION">
+			<Text>Düşman Tertibi Bozguna Uğratıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_DESCRIPTION">
+			<Text>Birimlerinizden biri, daha üstün bir askerî formasyona sahip bir düşman birliğini yendi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_INSTANCE_DESCRIPTION">
+			<Text>Sayıca ağır bir üstünlükle karşı karşıya olmamıza rağmen {UnitType}'imiz günü kazandı!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS">
+			<Text>Düşman Gazi Alt Edildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_DESCRIPTION">
+			<Text>Birimlerinizden biri, kendisinden en az 2 terfi daha fazla olan bir düşman birliğini yendi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_INSTANCE_DESCRIPTION">
+			<Text>{UnitType}'imiz, deneyimli bir düşmanın savaş sancaklarını ele geçirdi!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI">
+			<Text>Savaş Gerekçesi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_DESCRIPTION">
+			<Text>Bir Casus Belli kullanarak başka bir uygarlığa savaş açtınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_INSTANCE_DESCRIPTION">
+			<Text>Dünya, {TargetPlayerCivName}'e karşı yürüttüğümüz {WarType}'nın tamamen haklı olduğu konusunda hemfikir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED">
+			<Text>Dünya Çevresinde Seyir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_DESCRIPTION">
+			<Text>Uygarlığınız, haritanın her dikey sırasında bir karo keşfetti. Bu, dünyanın etrafında bir yol oluşturur; yol başladığı yerde bitmese bile.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_INSTANCE_DESCRIPTION">
+			<Text>Daha önce çok az kişinin ayak bastığı yerleri takiben, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} dünyanın çevresini dolaştı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk Çevre Seyri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız, haritanın her dikey sırasında bir karo keşfeden ilk uygarlık oldu. Bu, dünyanın etrafında bir yol oluşturur; yol başladığı yerde bitmese bile.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} dünyanın ilk çevre seyrini tamamladı!</Text>
+		</Row>
+		<!--Moment Data-->
+		<Row Tag="LOC_MOMENT_DATA_BELIEF">
+			<Text>İnanç</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_BUILDING">
+			<Text>Bina</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_CITY_STATE_PLAYER">
+			<Text>Şehir Devleti Oyuncusu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_CIVIC">
+			<Text>Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_CONTINENT">
+			<Text>Kıta</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_DISTRICT">
+			<Text>Bölge</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_EMERGENCY">
+			<Text>Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_FEATURE">
+			<Text>Özellik</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GOVERNMENT">
+			<Text>Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GOVERNOR">
+			<Text>Vali</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GREAT_PERSON_INDIVIDUAL">
+			<Text>Büyük Kişi Bireyi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_GREAT_WORK">
+			<Text>Büyük Eser</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_IMPROVEMENT">
+			<Text>İyileştirme</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_OLD_RELIGION">
+			<Text>Eski Din</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_PLAYER_ERA">
+			<Text>Oyuncu Çağı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_PROJECT">
+			<Text>Proje</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_RELIGION">
+			<Text>Din</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_RESOURCE">
+			<Text>Kaynak</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_TARGET_PLAYER">
+			<Text>Hedef Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_TARGET_PLAYER_ERA">
+			<Text>Hedef Oyuncu Çağı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_TECHNOLOGY">
+			<Text>Teknoloji</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_UNIT">
+			<Text>Birim</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR">
+			<Text>Savaş</Text>
+		</Row>
+		<!-- Types of war (so we can specify in moment text) -->
+		<Row Tag="LOC_MOMENT_DATA_WAR_SURPRISE_WAR">
+			<Text>Sürpriz Savaş</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_FORMAL_WAR">
+			<Text>Resmî Savaş</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_HOLY_WAR">
+			<Text>Kutsal Savaş</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_RECONQUEST_WAR">
+			<Text>Yeniden Fetih Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_LIBERATION_WAR">
+			<Text>Kurtuluş Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_DEFENSIVE_PACT">
+			<Text>Savunma Paktı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_JOINT_WAR">
+			<Text>Ortak Savaş</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_SUZERAIN_WAR">
+			<Text>Süzeren Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_PROTECTORATE_WAR">
+			<Text>Koruma Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_COLONIAL_WAR">
+			<Text>Sömürge Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_TERRITORIAL_WAR">
+			<Text>Toprak Genişletme Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_GOLDEN_AGE_WAR">
+			<Text>Altın Çağ Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_EMERGENCY_WAR">
+			<Text>Acil Durum Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_WAR_OF_RETRIBUTION">
+			<Text>İntikam Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DATA_WAR_IDEOLOGICAL_WAR">
+			<Text>İdeolojik Savaş</Text>
+		</Row>
+		<!--Moment Categories and Bonuses-->
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL">
+			<Text>Gök ve Yıldızlar</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE">
+			<Text>Gök ve Yıldızlar Altın Çağı:[NEWLINE]Atom Çağı'nda iseniz Gelişmiş Uçuş, Nükleer Fisyon ve Roketçilik için [ICON_TechBoosted] Buluşlarının kilidini açar. Enformasyon Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji için Buluşların kilidi açılır. Tüm Hava Birimleri için kazanılan [ICON_XP] XP +100%.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
+			<Text>Gök ve Yıldızlar Adanma Bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında her seferinde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_DARK_AGE">
+			<Text>Gök ve Yıldızlar Adanma Bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında her seferinde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL">
+			<Text>Kalem, Fırça ve Söz</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_GOLDEN_AGE">
+			<Text>Kalem, Fırça ve Söz Altın Çağı:[NEWLINE][ICON_CivicBoosted] İlhamlar, yönetim bilimleri maliyetine ek %10 katkı sağlar. Her şehir, sahip olduğu her özel bölge için +1 [ICON_Culture] Kültür kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_NORMAL_AGE">
+			<Text>Kalem, Fırça ve Söz Adanma Bonusu:[NEWLINE]Bir [ICON_CivicBoosted] İlham tetiklediğiniz her seferde +1 Çağ Puanı kazanın. Büyük Eser Yuvasına sahip bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_DARK_AGE">
+			<Text>Kalem, Fırça ve Söz Adanma Bonusu:[NEWLINE]Bir [ICON_CivicBoosted] İlham tetiklediğiniz her seferde +1 Çağ Puanı kazanın. Büyük Eser Yuvasına sahip bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC">
+			<Text>Sikke Reformu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_GOLDEN_AGE">
+			<Text>Sikke Reformu Altın Çağı:[NEWLINE]Tüccarlarınız yağmalanamaz. Uluslararası [ICON_TradeRoute] Ticaret Yolları, yabancı şehirdeki her özel bölge için +3 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_NORMAL_AGE">
+			<Text>Sikke Reformu Adanma Bonusu:[NEWLINE]Bir [ICON_TradeRoute] Ticaret Yolunu başarıyla tamamladığınız her seferde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_DARK_AGE">
+			<Text>Sikke Reformu Adanma Bonusu:[NEWLINE]Bir [ICON_TradeRoute] Ticaret Yolunu başarıyla tamamladığınız her seferde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE">
+			<Text>Yalanların Zırhı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_GOLDEN_AGE">
+			<Text>Yalanların Zırhı Altın Çağı:[NEWLINE]Casuslar, başka bir uygarlığın şehrinde varlıklarını kurmak için zaman harcamaz. Tüm saldırı görevlerini tamamlama süresi %25 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_NORMAL_AGE">
+			<Text>Yalanların Zırhı Adanma Bonusu:[NEWLINE]Başarılı her saldırı Casus operasyonu için +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_DARK_AGE">
+			<Text>Yalanların Zırhı Adanma Bonusu:[NEWLINE]Başarılı her saldırı Casus operasyonu için +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION">
+			<Text>Hic Sunt Dracones</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_GOLDEN_AGE">
+			<Text>Hic Sunt Dracones Altın Çağı:[NEWLINE]+3 başlangıç [ICON_Citizen] Nüfus, ilk şehrinizden farklı bir kıtada kurulan şehirler için. Deniz ve gemiye binmiş birlikler için +2 [ICON_Movement] Hareket. Orijinal [ICON_Capital] Başkentinizin kıtasında olmayan şehirler için tur başına +2 Bağlılık.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_NORMAL_AGE">
+			<Text>Hic Sunt Dracones Adanma Bonusu:[NEWLINE]Her yeni bir Kıta veya doğal harika keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliğini her öldürdüğünüzde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_DARK_AGE">
+			<Text>Hic Sunt Dracones Adanma Bonusu:[NEWLINE]Her yeni bir Kıta veya doğal harika keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliğini her öldürdüğünüzde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL">
+			<Text>Buharın Kalp Atışı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_GOLDEN_AGE">
+			<Text>Buharın Kalp Atışı Altın Çağı:[NEWLINE]Sanayi Çağı ve sonrası harikalara yönelik [ICON_Production] Üretim +%10. Kampüs bölgesinin [ICON_SCIENCE] Bilim komşuluk bonusu ayrıca [ICON_PRODUCTION] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_NORMAL_AGE">
+			<Text>Buharın Kalp Atışı Adanma Bonusu:[NEWLINE]İnşa edilen her Sanayi veya sonrası bina başına +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_DARK_AGE">
+			<Text>Buharın Kalp Atışı Adanma Bonusu:[NEWLINE]İnşa edilen her Sanayi veya sonrası bina başına +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE">
+			<Text>Anıtsallık</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_GOLDEN_AGE">
+			<Text>Anıtsallık Altın Çağı:[NEWLINE]Tüm İşçiler için +2 [ICON_Movement] Hareket. [ICON_Faith] İnanç ile sivil birlikler satın alınabilir. İşçiler ve Yerleşimciler [ICON_FAITH] İnanç ve [ICON_GOLD] Altın ile satın alınırken %30 daha ucuzdur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_NORMAL_AGE">
+			<Text>Anıtsallık Adanma Bonusu:[NEWLINE]Her yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_DARK_AGE">
+			<Text>Anıtsallık Adanma Bonusu:[NEWLINE]Her yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY">
+			<Text>Silah Başına!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_GOLDEN_AGE">
+			<Text>Silah Başına! Altın Çağı:[NEWLINE]Resmî Savaş'a kıyasla %75 daha az savaş kışkırtıcılığı cezası veren ve hedefi Kınadıktan hemen sonra kullanılabilen özel bir Savaş Gerekçesi'nin kilidini açar. Askeri birliklere yönelik [ICON_Production] Üretim +%15.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_NORMAL_AGE">
+			<Text>Silah Başına! Adanma Bonusu:[NEWLINE]Muharebede Barbar olmayan bir Kolordu'yu her öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Ordu'yu her öldürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_DARK_AGE">
+			<Text>Silah Başına! Adanma Bonusu:[NEWLINE]Muharebede Barbar olmayan bir Kolordu'yu her öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Ordu'yu her öldürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS">
+			<Text>Müjdecilerin Göçü</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_GOLDEN_AGE">
+			<Text>Müjdecilerin Göçü Altın Çağı:[NEWLINE]Tüm Misyonerler, Havariler ve Engizisyoncular için +2 [ICON_Movement] Hareket. Ayrıca, yeni eğitilenler +2 Kullanım Hakkı kazanır. Tur başına +4 [ICON_GreatProphet] Büyük Peygamber puanı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE">
+			<Text>Müjdecilerin Göçü Adanma Bonusu:[NEWLINE]Bir şehri ilk kez kurduğunuz Din'e dönüştürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_DARK_AGE">
+			<Text>Müjdecilerin Göçü Adanma Bonusu:[NEWLINE]Bir şehri ilk kez kurduğunuz Din'e dönüştürdüğünüzde +2 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC">
+			<Text>Serbest Araştırma</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_GOLDEN_AGE">
+			<Text>Serbest Araştırma Altın Çağı:[NEWLINE][ICON_TechBoosted] Buluşlar, teknoloji maliyetlerinin %10'unu daha sağlar. Ticaret Merkezi ve Liman bölgelerinin [ICON_GOLD] Altın komşuluk bonusu, ayrıca [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE">
+			<Text>Serbest Araştırma Adanma Bonusu:[NEWLINE][ICON_TechBoosted] Bir Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_DARK_AGE">
+			<Text>Serbest Araştırma Adanma Bonusu:[NEWLINE][ICON_TechBoosted] Bir Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa ettiğinizde +1 Çağ Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM">
+			<Text>Keşke Burada Olsaydın</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_GOLDEN_AGE">
+			<Text>Keşke Burada Olsaydın Altın Çağı:[NEWLINE][ICON_Governor] Valiye sahip şehirler, Dünya Harikalarından %50 daha fazla [ICON_Tourism] Turizm kazanır. Tüm Milli Parklara +%100 [ICON_Tourism] Turizm.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE">
+			<Text>Keşke Burada Olsaydın Adanma Bonusu:[NEWLINE]Her çıkarılan Tarihi Eser için +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_DARK_AGE">
+			<Text>Keşke Burada Olsaydın Adanma Bonusu:[NEWLINE]Her çıkarılan Tarihi Eser için +1 Çağ Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_NO_MOMENTS_TO_SHOW">
+			<Text>Uygarlığınız henüz hiçbir Tarihi An yaşamadı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_NUBIA_SCENARIO_NAME">
+			<Text>Nil'in Armağanları</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_TOOLTIP">
+			<Text>Nil Nehri boyunca Mısır ile Nübye arasında iki oyunculu mücadele. En fazla 125 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_DESCRIPTION">
+			<Text>Nil halkı 7 sayısının son derece uğurlu olduğuna inanır.[NEWLINE][NEWLINE]Bu sayı hem mükemmelliğin simgesidir...[NEWLINE][NEWLINE]... hem de tamamlanmanın bir işaretidir.[NEWLINE][NEWLINE]Öyle olsun: süre dolmadan (125 tur) Amun'a 7 Tapınak inşa eden ilk oyuncu, o tanrının lütfuna erişecek ve Nil'in iki rakibi arasındaki bu karşılaşmada zafer kazanacaktır.[NEWLINE][NEWLINE][NEWLINE]ÖZEL KURALLAR:[NEWLINE]— Mısır ve Nübye, 20. Tura kadar birbirlerine savaş ilan edemez.[NEWLINE]— Savaş ilan edildikten sonra sona erdirilemez.[NEWLINE]— Kutsal Alan binaları yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_MAP_NAME">
+			<Text>Nübye Haritası</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION">
+			<Text>Nil havzasının tarihi bir haritası.</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME">
+			<Text>Nil'in Armağanları Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_NUBIA_SCENARIO_TT">
+			<Text>Bu zaferi, büyük tanrı Amun'un şanına 7 Tapınak inşa eden ilk oyuncu kazanır.</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME">
+			<Text>Hiksos</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME">
+			<Text>Libya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME">
+			<Text>Asur</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME">
+			<Text>Pers</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME">
+			<Text>Makedonya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION">
+			<Text>Şehir bir su bölgesine bitişikse bölgelere ve harikalara +%15 [ICON_Production] Üretim bonusu. Taşkın yatakları bölge ve harika yerleşimini engellemez. Balıkçılık ve Yelken teknolojileriyle başlanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION">
+			<Text>Menzilli birliklere +%50 [ICON_Production] Üretim bonusu. Tüm menzilli birlikler +%50 muharebe deneyimi kazanır. Madencilik teknolojisiyle başlanır. Stratejik kaynaklar üzerindeki maden ocakları +1 [ICON_Production] Üretim sağlar. Bonus ve lüks kaynaklar üzerindeki maden ocakları +2 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<!-- Leaders-->
+		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME">
+			<Text>Sakir-Har</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME">
+			<Text>Osorkon</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME">
+			<Text>Asurbanipal</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME">
+			<Text>II. Kambises</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME">
+			<Text>İskender</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME">
+			<Text>Augustus Sezar</Text>
+		</Row>
+	</EnglishText>
+</GameData>

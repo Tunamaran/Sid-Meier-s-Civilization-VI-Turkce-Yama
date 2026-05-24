@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tokugawa-->
+		<Row Tag="LOC_AGENDA_SAKOKU_NAME">
+			<Text>Sakoku</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAKOKU_DESCRIPTION">
+			<Text>Fetih tehlikesinden uzak kalmak ister. Diğer oyuncuların asıl başkentlerini ele geçirenlerden hoşlanmaz.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOKUGAWA_ANY">
+			<Text>Ben, Japonya'nın şogunu Tokugawa Ieyasu'yum. Bu diyarda hiçbir şey benim sözüm olmadan vuku bulmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Tedbirli ol ve hadi gel! Zayıf noktanı kollayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Keskin kılıç boşluğu deler geçer, alevlerin ortasında ise serin bir rüzgar eser.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOKUGAWA_ANY">
+			<Text>Sağlam sınırlar dost komşulukların temelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TOKUGAWA_ANY">
+			<Text>Kendi meselelerimizi kendimiz hallederiz. Siz olmadan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Savaşçıların düşlerinden arta kalan, sadece yazın yeşerten otlardır.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Dostluk ruhuyla yolumuza devam edeceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Kendi meselelerinizle meşgul olun, benimkilere burnunuzu sokmayın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Barışın kıymetini bilirim. Ya siz, bilir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Ayrılmadan önce bir fincan çay paylaşalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Kendi işlerimizi kendimiz yönetiriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Heyetiniz, uçan dünyayı (ukiyo) gördü ve rüyalarla dolu bir zihinle döndü.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Hainlik daima dostluk kisvesine bürünür.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Size Edo'nun tüm mahsullerini temsil eden bir heyet yolluyoruz: gümüş, çelik, sanatçılarımızın tahta baskı resimleri. Ve biraz da mochi, sonra yemek için.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Hınç duymak, ne başkasına ne de kendine yakışır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Bizim için bir tehdit oldunuz. (Sizi kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOKUGAWA_ANY">
+			<Text>Şehrimizi görmenize müsaade edeceğiz, kısa bir an için.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOKUGAWA_ANY">
+			<Text>Geçimsiz biri değilimdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOKUGAWA_ANY">
+			<Text>Size topraklarımızın sınırlarını ve genişliğini aktaracağım ki, benim olanın ne olduğunu ve sizin olmadığını bilin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TOKUGAWA_ANY">
+			<Text>Vaktim az.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Sağlam bir müttefik olabilirim; sorun Oda'ya, sorun Hideyoshi'ye.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOKUGAWA_ANY">
+			<Text>Kahramanlar geri çekilir ve evlerine döner. Gece çöker ve gün sisle açar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOKUGAWA_ANY">
+			<Text>Üzgünüm. Bu hâlâ vermemiz gereken bir savaştır. Size acı verecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Savaşçılarımızın zırhları paslanacak, tarlalarına dönerlerken. Olması gerektiği gibi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Topraklarımıza girmenize izin vereceğiz, ancak sıkı gözetim altında.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TOKUGAWA_ANY">
+			<Text>Yabancıların başıboş dolaşmasına izin vererek ülkemi savaşa sürüklemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Diğer hedeflere ulaşmak için topraklarınızdan geçiş talep ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOKUGAWA_ANY">
+			<Text>Dostluk diyerek yola çıkan ama savaş kast eden çok fazla ordu gördüm ben.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Dikkatlice düşünmeliyiz ve şimdi kabul edemeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_TOKUGAWA_ANY">
+			<Text>Buradaki faydayı görebiliyorum.</Text>
+		</Row>
+		<!-- Nader Shah-->
+		<Row Tag="LOC_CITY_NAME_MASHHAD">
+			<Text>Meşhed</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NADER_SHAH_COMBAT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Tam Sağlıklı Birimlere saldırırken Muharebe Gücü. (Nadir Şah)</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PREFER_LANDPOWER_NAME">
+			<Text>Jazayerchi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PREFER_LANDPOWER_DESCRIPTION">
+			<Text>Yüksek miktarda kara birliğine sahip uygarlıkları sever. Düşük miktarda kara birliğine sahip uygarlıkları sevmez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_NADER_SHAH_REASON_ANY">
+			<Text>(Geniş kara birliği yelpazenizi takdir ediyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_NADER_SHAH_REASON_ANY">
+			<Text>(Ordunuz kara birliğinden yoksun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LANDPOWER_LEADING">
+			<Text>Nadir Şah, büyük düzenli ordunuzdan memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LANDPOWER_LAGGING">
+			<Text>Nadir Şah, büyük bir düzenli ordunuz olmamasından mutsuz.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_NADER_SHAH_ANY">
+			<Text>Nal sesleri ovayı bir kez daha titretir ve dünya Nadir Şah'ın adını duyunca nefesini tutar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Bu savaşı can atarak bekliyordum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Soylularınızın ve nedimlerinizin fısıltıları, askerlerimin gürlemesi arasında yok olup gidecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_NADER_SHAH_ANY">
+			<Text>Atların güzelliğinden konuşmayı çok isterdim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_NADER_SHAH_ANY">
+			<Text>Sakın benim kıtamda bir kara savaşına kalkışma.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>İnsan yazgısından nasıl kaçabilir? Yazılanın önüne nasıl geçebilir?</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Nefesin sıcak olsun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Yağcılıkla yükselen sosyal tırmanıcılara tahammül edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Dostlukta birleşmeliyiz, yoksa ayrılıkta yok oluruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Düşmanlarla çevrili bir dünyada bir dost bulmak en büyük iyiliktir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Entrikalarını ve oyunlarını görüyorum, bunların hiçbir parçası olmayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Heyetiniz geri döndü; mücevherlerin göz kamaştırıcılığına ve askeri nizamımızın gürlemesine sağır oldu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Bana zenginlik göndermen, okyanusa su dökmek gibidir. Okyanusun etkileneceğini mi sanıyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Pers İmparatorluğu'nun harikaları: lavaş ve koreş, kebap ve köfte, ardından gül suyu aromalı erişte.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Zekice. Bakalım ateşe ve çeliğe nasıl bir cevap vereceksin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Değerli bir düşman beni sevindirir. Ama seninle yetinmek zorundayım. (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_NADER_SHAH_ANY">
+			<Text>Dünyanın tüm zenginlikleri şehirlerime akar. Gel, gör.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_NADER_SHAH_ANY">
+			<Text>Dünyanın tüm zenginlikleri şehirlerime akar. Gel, gör.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_NADER_SHAH_ANY">
+			<Text>Gel, imparatorluğumuzun genişliğini gör ve bize kendi topraklarından bahset.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_NADER_SHAH_ANY">
+			<Text>Huzurumdasın. Konuş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Gelin, dostlukla birbirimizi kucaklayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_NADER_SHAH_ANY">
+			<Text>Gücümüzün yettiği her şeyi alıp götürdük.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_NADER_SHAH_ANY">
+			<Text>Ateşler hâlâ yanıyor – topraklarınızda, yüreklerimizde.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Kılıçlarımız köreldi, yüreklerimiz soğudu. Barış içinde olalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Pers diyarının yolların kavşağında olduğunun farkındayız; bu yolları kullanmakta özgürsünüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_NADER_SHAH_ANY">
+			<Text>Sizi içeri alalım da savunmalarımızı kolaçan edip bir sonraki saldırınızı mı planlayın? Hayır, asla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Şanlı bir fetih için yola çıkıyoruz – topraklarınızdan barışçıl bir şekilde geçmemize izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_NADER_SHAH_ANY">
+			<Text>Siz de benim gibi savaşa mı susamış durumdasınız? Açıkça söyleyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Bunu reddetmek benim hakkımdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_NADER_SHAH_ANY">
+			<Text>Bana böyle bir anlaşma teklif etmeniz doğaldır.</Text>
+		</Row>
+		<!-- Suleiman-->
+		<Row Tag="LOC_AGENDA_GOLDEN_AGE_NAME">
+			<Text>Süleyman'ın Altın Çağı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GOLDEN_AGE_DESCRIPTION">
+			<Text>Altın Çağ'a ulaşan uygarlıklardan etkilenir. Karanlık Çağ'dakilerden hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SULEIMAN_COMBAT_DESCRIPTION">
+			<Text>Altın Çağ'da olmayan birimlere karşı, eğer siz de [ICON_GLORY_GOLDEN_AGE] Altın Çağ'da değilseniz +4 [ICON_Strength] Muharebe Gücü. (Süleyman)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Ayrılışınızı hoş karşılamıyorum. Lakin şayet gitmekte ısrar ederseniz, yolunuz açık olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Dostluk teklifiniz kalbime ferahlık verdi. Memnuniyetle kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Şu sıralar dostluklara mecalim yok. Belki bir bahar günü yeniden konuşuruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Dostluk eli uzatıyorum. İmparatorluğum ile seninki arasında kıyamete dek sürecek bir bağ kuralım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Bu teklifi bekliyordum. Kalbim ve devletim dostluğuna açıktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Şimdilik bu bağı kuramayız. Fakat gelecekte belki kader bizi birleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Elçileriniz kapıma geldi. Onları en güzel şekilde ağırlayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Şu an elçilerinizi kabul edemem. Belki başka bir vakitte.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Size kıymetli hediyelerle dolu bir heyet gönderiyorum. Umulur ki bu jest aramızdaki bağı kuvvetlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Bu kınama sözleriniz kulağıma ulaştı. Acıdır ki itibarımı zedeleme çabanız boşuna.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Sizi tüm cihana karşı kınıyorum. Verdiğiniz sözler rüzgârın önündeki yaprak misali uçup gitti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Selam olsun size. İmparatorluğun eşiğinde ağırlamaktan onur duyuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Bir ittifak teklif ediyorum. Birlik olursak dünyanın dengesini değiştirebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Barış teklifiniz makul. Kılıçlar kınına girsin, devletler rahat bir nefes alsın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Bu şartlarda barışı kabul edemem. Daha adil bir teklifle gelin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Yeter artık kan dökülmesin. Barış elimi uzatıyorum, uzatın siz de.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Topraklarım size açıktır. Gelin, İmparatorluğumun güzelliklerini görün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Şu an için sınırlarımı aşmanıza izin veremem. Güvenlik meselesi, anlayışla karşılayın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Size sınırlarımı açıyorum. Umulur ki tüccarlarınız ve gezginleriniz bu topraklardan bereketle döner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SULEIMAN_ALT_ANY">
+			<Text>Ordularınız sınırıma fazla yaklaştı. Bu bir dostluk işareti değil. Geri çekin askerlerinizi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SULEIMAN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SULEIMAN_ANY}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+    <Row Tag="LOC_PEDIA_FEATURES_PAGE_INTRO_CHAPTER_CONTENT_PARA_1">
+      <Text>Özellikler, altıgen arazi üzerinde ortaya çıkabilen arazi veya bitki örtüsü unsurlarıdır. (Örneğin, bir Çayır alanında Orman veya Bataklık bulunabilir.) Özellikler, bir alanın üretkenliğini değiştirir ve bir birimin alana girerken harcadığı "hareket puanı" (HP) miktarını da etkileyebilir. Özellikler ayrıca alanı işgal eden birime savunma savaş bonusları veya cezaları sağlayabilir.</Text>
+    </Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_BARRIER_REEF_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın kuzeydoğu kıyılarında kıvrılarak uzanan 2300 km'lik (1400 mil) Büyük Set Resifi, canlı organizmalar tarafından inşa edilmiş en büyük yapıdır ve yörüngeden bile görülebilir. Yarım milyar yıl boyunca milyarlarca mercan polipi tarafından oluşturulan resif, şu anda yaklaşık 2900 ayrı resif ve 900 adadan oluşmakta olup, 30 tür balina, yunus ve muturdan 215 tür kuşa kadar inanılmaz bir fauna çeşitliliğine ev sahipliği yapmaktadır. Ne yazık ki kirlilik, aşırı avlanma, turizm ve iklim değişikliği resifin geleceğini tehdit etmektedir. Mercan ağarması hızlanmakta ve bilim insanları, köklü adımlar atılmazsa MS 2030 yılına kadar Büyük Set Resifi'nin "geri döndürülemez hasar" göreceğini tahmin etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CLIFFS_DOVER_CHAPTER_HISTORY_PARA_1">
+			<Text>Ünlü Beyaz Dover Kayalıkları, Avrupa kıtasına bakan İngiliz Kanalı'nın en dar noktasında nöbet tutar. Siyah çakmaktaşıyla çizgili tebeşirden oluşan kayalıklar, yer yer 110 metre (350 fit) yüksekliğe ulaşır. Açık bir günde kayalıklar Fransa'dan görülebilir. Bu doğa harikası, ününü doğal güzelliği kadar sembolik değerine de borçludur; ancak bu ün (ve güzellik) sonsuza dek sürmeyebilir. Kayalık yüzü yılda yaklaşık bir santimetre aşınmakta ve zaman zaman büyük parçalar kopmaktadır... Bu nedenle ziyaretçilerin uçurumun kenarından uzak durmaları önerilir (bir İngiliz'in Dover Beyaz Kayalıkları'ndan düşmesi hiç de iyi olmaz).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CRATER_LAKE_CHAPTER_HISTORY_PARA_1">
+			<Text>Bazen "Derin Mavi Göl" ve "Haşmet Gölü" olarak anılan Krater Gölü, yerel Klamath grupları için kutsal bir alandır; tarihsel olarak bu grup, gölün oluşumunu gök tanrısı Skell ile yeraltı tanrısı Llao arasındaki bir savaşa bağlamıştır. Yaklaşık 7700 yıl önce Kuzey Amerika Cascade Sıradağları'ndaki Mazama stratovolkanının çökmesiyle oluşan Krater Gölü, derin bir kaldera gölüdür. Göle nehir akmadığı ve gölden nehir çıkmadığı için buradaki tatlı sular yağmur ve karın sonucudur; bilim insanları suyun tamamen yalnızca her 250 yılda bir yenilendiğini tahmin etmektedir. Görkemli Cascade patikalarında yürüyüş yaparken matarayı doldurmak için en iyi nokta değil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_DEAD_SEA_CHAPTER_HISTORY_PARA_1">
+			<Text>Ölü Deniz – antik İbraniler tarafından "Tuz Denizi", Araplar tarafından ise "Ölüm Denizi" olarak bilinir (her ikisi de uygundur) – Levant bölgesinde bir tuz gölüdür ve Dünya üzerindeki en düşük kara yüksekliğine (deniz seviyesinin 420 metre altı) sahiptir. Yüzde 34,2 oranında tuzlulukla gezegendeki en tuzlu su kütlelerinden biridir... Pek de bir cennet köşesi sayılmaz. Ancak tarihteki ilk sağlık tatil yerlerinden biri olup, Büyük Herod'un gözdesiydi ve sedef hastalığı, rinosinüzit, kistik fibroz ve osteoartrit gibi rahatsızlıklara şifa sunduğu düşünülüyordu. Kıyı bölgesinin madenciliği, mumyalama için asfalttan gübre için potasa kadar her türlü ticaret fırsatını sağlamıştır. İnsanlığın her şeyde bir hayır bulma huyu vardır... Ölü Deniz'de bile.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_EVEREST_CHAPTER_HISTORY_PARA_1">
+			<Text>Everest Dağı - Tibetçede "kutsal anne" veya Çomolungma olarak adlandırılır - dünyanın en yüksek dağıdır, deniz seviyesinden 8848 metre (29.029 fit) yüksekliktedir ve Himalaya sıradağlarının bir parçasıdır. 9. yüzyıl Budist bilgesi Padmasambhava tarafından belirlenen "sığınak gizli vadilerinden" biridir ve 1922'den bu yana 250'den fazla fatih adayının canını almıştır. MS 1802'de İngilizler, dev teodolitler kullanarak dünyanın en yüksek zirvelerini belirlemek için Büyük Trigonometrik Hindistan Araştırması'nı başlattı. Yarım yüzyıl sonra, 1858'de Hindistan Genel Surveyoru Andrew Waugh, Zirve XV'in (yani Everest'in) en yüksek olduğunu kesin olarak açıkladı. O zamandan beri maceraperestler onu tırmanmaya çalışıyor... "Çünkü orada."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_FLOODPLAINS_CHAPTER_HISTORY_PARA_1">
+			<Text>Taşkın yatakları, nehirlerin bitişiğindeki alçak alanlardır ve her yıl (veya daha sık) su baskınlarına maruz kalmaya yatkındır. Bu nedenle toprak birikintileri açısından verimli olup, bilinen en üretken tarım arazilerinden bazılarıdır. Belki de en iyi bilinenleri, Antik Mısır'ın tarihteki en büyük uygarlıklardan biri olmasına yardımcı olan Nil Nehri kıyısındaki taşkın yataklarıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_FLOODPLAINS_CHAPTER_HISTORY_PARA_2">
+			<Text>Bölgeler normalde Taşkın Yatakları üzerine inşa edilemez; yalnızca Mısır olarak oynanıyorsa bu mümkündür.</Text>
+		</Row>
+		
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_FOREST_CHAPTER_HISTORY_PARA_1">
+			<Text>Ormanların bereketi, birçok kabilenin hayatta kalmasında hayati rol oynamış; kereste, hayvan ve bitki çeşitliliğiyle hayal gücünü sarsacak bir zenginlik sunmuştur. Ne yazık ki uygarlık, çoğu zaman bu ormanları çiftliklere, yollara ve banliyölere yer açmak için kesmiştir... Bir de post, kereste ve madenlerden zengin olma peşindeki açgözlü şirketler var.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_GALAPAGOS_CHAPTER_HISTORY_PARA_1">
+			<Text>Galapagos Adaları'nı ziyaret eden ilk Avrupalı, 1535'te Peru'ya giderken rotasından sapan Panama Piskoposu Fray Tomás de Berlanga oldu. Bu izole ekvator takımadalarına, 1835'te HMS Beagle gemisinin genç bir doğa bilimci olan Charles Darwin'le birlikte Pasifik limanlarının yaklaşımlarını haritalarken uğramasına kadar pek ilgi gösterilmedi. Darwin, Charles Adası'nda dolaşırken buradaki kaplumbağaların zincirdeki diğer adalardakilerden farklı olduğunu fark etti. Darwin, onları parçalara ayırabildiğinde, belirgin farklılıklara rağmen adalarda tek bir ispinoz türü olduğunu da buldu. Böylece Türlerin Kökeni ortaya çıktı... ve insanlığın neredeyse her şey biyolojik (hatta ruhani) hakkındaki anlayışı bir daha asla eskisi gibi olmadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_ICE_CHAPTER_HISTORY_PARA_1">
+			<Text>Buz, gemiler için geçilmezdir (birçoğu felakete uğramıştır, Titanik mürettebatına sorun yeter) ve diğer gezginler için pek de eğlenceli değildir. Belki kutup ayıları hariç.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_JUNGLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Yağmur ormanları, aşırı biyolojik çeşitliliğe sahip yerlerdir; geçilmesi zor olsa da bilimsel ve tıbbi bilgi hazineleridir. Asya, Afrika ve Güney Amerika'daki yağmur ormanları, modern uygarlığa her türlü zenginlik ve gıdanın yanı sıra pahalı farmasötik ürünler de sağlamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_KILIMANJARO_CHAPTER_HISTORY_PARA_1">
+			<Text>Maasai dilinde Kilimanjaro, Ngaje Ngai yani "Tanrı'nın Evi" olarak bilinir. En yükseği 5.900 metreye (19.340 fit) ulaşan üç volkanik koniden oluşan Kilimanjaro masifi, kuzeydoğu Tanzanya'da yer alır. Bu özelliğiyle Afrika'nın en yüksek noktası ve dünyanın en yüksek bağımsız dağıdır. Bir stratovolkan olarak kabul edilen dağın iki zirvesi (Mawenzi ve Shira) sönmüş, en yükseği (Kibo) ise uykudadır; son patlaması yaklaşık 150 bin yıl öncesine dayanır. Birçok başarısız denemeden sonra, Kibo'nun zirvesine nihayet 1889'da Alman Hans Meyer ve Avusturyalı Ludwig Purtscheller ulaşmış ve Kibo'nun gerçekten bir krateri olduğunu doğrulamışlardır. Daha sonra üzerinde dolaşılmasına rağmen Kibo'nun haritası ancak 1964'te, birkaç yıl önce yapılan hava fotoğraflarına dayanılarak çıkarılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_MARSH_CHAPTER_HISTORY_PARA_1">
+			<Text>Odunsu bitkilerden ziyade otsu bitkilerle kaplı olan bu tatlı su sulak alanları, genellikle yavaş akan nehirler boyunca veya göl kıyılarında bulunur. Değerli bitki ve hayvan çeşitliliğiyle bazı uygarlıklarda bataklık ve sazlıklardaki kasabalar büyük şehirlere dönüşmüştür: Sankt Petersburg, New Orleans ve Pantanal'daki Brezilya şehirleri gibi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_OASIS_CHAPTER_HISTORY_PARA_1">
+			<Text>Efsanelere konu olan ve çölde dolaşanlar için hayati öneme sahip vahalar, temiz ve bol su kaynağının üzerinde yer alır. Başka türlü çorak ve cansız bir diyardaki bu harika karakollar hakkında hikâyeler anlatılmış ve onları kontrol etmek için savaşlar yapılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PANTANAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Pantanal, dünyanın en büyük tropikal sulak alanı olarak kabul edilir; 195 bin kilometrekareye (yaklaşık 75 bin mil kare) kadar su, bataklık, çamur ve pislik yayılır. Doğal olarak, 1000 kuş türü ve 480 sürüngen türü de dahil olmak üzere son derece çeşitli bir bitki ve hayvan biyosistemine ev sahipliği yapmaktadır. Yüzyıllar boyunca Bororo halkı bunların arasında mutlu bir şekilde yaşadı, ancak 1800'lerin sonunda hastalık ve Brezilyalı kâşifler, köle tüccarları, maden arayıcıları ve yerleşimciler tarafından kırıldılar. Şimdi birkaç Brezilya şehri Pantanal sınırları içinde yer almaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PIOPIOTAHI_CHAPTER_HISTORY_PARA_1">
+			<Text>Yerleşimciler tarafından Milford Sound olarak bilinen Piopiotahi, adını artık soyu tükenmiş piopio kuşundan alır - Yeni Zelanda'nın Güney Adası Te Waipounamu kıyısında muhteşem bir doğal fiyorttur. Buzullar tarafından oyulan bu Yeni Zelanda fiyordunun uçurumları karanlık sulardan dikey olarak yükselirken, şelaleler yüzeyden 1000 metre aşağıya dökülür. Kaptan James Cook gibi ilk kâşifler tarafından göz ardı edilen fiyort, içine yelken açan ilk kişi tarafından Galler'deki belirsiz bir noktadan esinlenerek İngilizce adını almıştır. 1888'de MacKinnon Geçidi keşfedilmiş, dünyanın en iyi yürüyüş parkurlarından biri olan Milford Track boyunca fiyorta erişim sağlanmıştır. Günümüzde yılda üç çeyrek milyona kadar ziyaretçi bu ses bölgesinde yürüyüp yelken açarak buranın ülkedeki en ünlü turistik destinasyon olmasını sağlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_TORRES_DEL_PAINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Torres del Paine'in dik dikey sivri uçları, renklerinden dolayı adlandırılmıştır - "paine" Tehuelche dilinde "mavi" anlamına gelir. Feminist muhabir Leydi Florence Dixie, 1880 tarihli kitabında üç granit kuleyi "Kleopatra'nın İğneleri" olarak tanımlamıştır; kendisi bölgeye gelen "ilk yabancı turist" olma şüpheli ayrıcalığına sahiptir. Ne yazık ki sonuncu değildi, çünkü Torres del Paine Parkı, 1985'ten bu yana dikkatsiz sırt çantalı gezginler nedeniyle üç büyük orman yangınına maruz kalmıştır. Neyse ki, deniz seviyesinden 2.850 metre yükselen Paine Masifi'nin üç zirvesi göller ve buzullarla çevrilidir ve alevlerden nispeten etkilenmemiştir. Torres del Paine zirvelerini kapsayan parkın kendisi 1977'de Şili hükümeti tarafından kurulmuş ve ertesi yıl UNESCO tarafından Dünya Biyosfer Rezervi ilan edilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_TSINGY_CHAPTER_HISTORY_PARA_1">
+			<Text>Çocuklar için pek de bir tatil yeri sayılmayan Tsingy de Bemaraha, Madagaskar adasında, düdenler ve mağaralarla oyulmuş sivri kireçtaşı oluşumlarından oluşan bir karst topografyasıdır. Bitişikteki Sıkı Doğa Koruma Alanı ile birlikte (on bir lemur türü de dahil olmak üzere, birbirine karışmış sivri uçlar ve ormanlar arasında birçok hayvan yuva yapar), 1990 yılında UNESCO Dünya Mirası Alanı ilan edilmiştir. Dikey kayalardan oluşan labirent – yer yer 300 fit yüksekliğinde ve hepsi jilet gibi keskin – ulaşılması hiç de kolay değildir (Madagaskar'ın başkentinden beş günlük bir yolculuk) ve cesareti zayıf olanlara göre değildir. Tsingy de Bemaraha'ya giren doğa bilimciler tıbbi yardım arayarak emeklemek zorunda kalmışlardır. Bu hiç de şaşırtıcı değil, çünkü tsingy, Malgaşça'da "çıplak ayakla yürünenmeyen yer" anlamına gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_YOSEMITE_CHAPTER_HISTORY_PARA_1">
+			<Text>Çam ağaçlarıyla sık ormanlık ve El Capitan ile Half Dome'un granit zirveleriyle çevrili 13 kilometrelik (sekiz mil) Yosemite Vadisi, batı Sierra Nevada'da yer alır. Yosemite, ilk sakinleri tarafından orijinal olarak Ahwahnee olarak adlandırılmıştı; onlar kendilerine "Ahwahnee vadisi halkı" yani "Ahwahneçi" diyorlardı. Ancak Amerikan Batısı'nın çok tanıdık bir hikâyesinde, kaynak (bu durumda altın) arayışı, ordu gücüyle desteklenen Avrupalı-Amerikalı yerleşimcileri getirdi. 1851'de, Kaliforniya yerlileri ile Birleşik Devletler Ordusu arasındaki büyük çaplı bir savaş sırasında, Mariposa Taburu, reisleri Tenaya adlı bir adam tarafından yönetilen Ahwahneçi sakinlerine saldırdı. Ahwahneçi yenilgilerinin ardından varlığını sürdürse de, yeni "boş" (en azından eyalete göre) bölge, doğal güzelliği ve dev sekoya ağaçlarının kadim duruşu sayesinde Amerika Birleşik Devletleri'nde türünün ilk örneği olan bir manzara parkı haline gelecek ve turistler ile sanatçılar (Thomas Ayres dahil) bölgeye akın edecekti. Ahwahnee'nin güzelliği, Ahwahneçi gibi varlığını sürdürüyor, ancak kuruluşunun tarihi, toprağın doğal güzelliğinin altında çoğu zaman göz ardı ediliyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_COAST_CHAPTER_HISTORY_PARA_1">
+			<Text>Kıyı suları (tabii ki eğer bir göl değilse) erken uygarlıkları karadan açılmaya çağırmış, burada onlar her türlü zenginliği ve yenilecek iyi şeyleri bulmuşlardır. Böylece binlerce yıl boyunca insanların karayı gözden kaybedecek kadar açılmaya ihtiyaçları olmamış (ya da korkmuşlardır).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_DESERT_CHAPTER_HISTORY_PARA_1">
+			<Text>Çöller genellikle dikkate değer ölçüde işe yaramazdır; orada yaşamayı öğrenmiş canlılar ve insanlar hariç. Dünyanın gerçek çölleri – Sahra, Gobi, Mojave, Büyük Victoria ve benzerleri – tarih başladığından beri insanları ve uygarlıkları yutup durmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_DESERT_HILLS_CHAPTER_HISTORY_PARA_1">
+			<Text>Düz çölden bile daha az çekici olan çöl tepeleri, neredeyse yalnızca bir savaşta savunma yapmak için işe yarar. Bu özellik, onları Bedeviler, Tuaregler, Berberiler ve diğer çöl sakinleri gibi gruplar için son kale haline getirmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_DESERT_MOUNTAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarihin akışı içinde dağlar, hareketliliğe engel teşkil eden, bir uygarlığa neredeyse hiçbir fayda sağlamayan ... istilaya karşı bariyer olmaları dışında ... elverişsiz engellerdir. Bu nedenle yalnızca fotoğrafçılar, münzeviler ve dağcı türleri için caziptirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_GRASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Verimli topraklarla kutsanmış çayırlar, genişleme için gerekli olan besini ve açık sınırları sağlayarak pek çok uygarlığın kalbi olmuştur. Ne yazık ki her barbar da bunun farkındadır, bu yüzden çayırlar yüzyıllar boyunca kanla gübrelenmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_GRASS_HILLS_CHAPTER_HISTORY_PARA_1">
+			<Text>Tüm bu zenginlikleri korumanın bir yolu, saldırıya uğrandığında askerleri tepelere yerleştirmekti; zira (mermi ve bomba icat edilene kadar) yüksek zemini tutmak oldukça iyi bir stratejiydi. Böylece zamanla tepeler, çevredeki kırsal alanın güzel manzaralarına sahip uygarlığın kaleleri ve şatolarıyla donatıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_GRASS_MOUNTAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarihin akışı içinde dağlar, hareketliliğe engel teşkil eden, bir uygarlığa neredeyse hiçbir fayda sağlamayan ... istilaya karşı bariyer olmaları dışında ... elverişsiz engellerdir. Bu nedenle yalnızca fotoğrafçılar, münzeviler ve dağcı türleri için caziptirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_OCEAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Okyanusların derin suları, tarihin büyük bölümünde insanlığı korkutmuş, yalnızca Polinezyalılar ve Vikingler gibi topluluklar cesaret edebilmiştir. Bu sulara göğüs germek ileri yelken teknolojisi gerektirmiştir – ve bugün, okyanusları saatler içinde uçarak geçiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_PLAINS_CHAPTER_HISTORY_PARA_1">
+			<Text>Ova, basitçe geniş ve düz bir arazi parçasıdır; toprağı verimli çayırlar kadar zengin değildir ama çöl kadar da kuru değildir. Bu nedenle, (tüm o traktörler ortaya çıkmadan önce) ovalar, bizon, antilop ve at gibi büyük hayvan sürüleri için mükemmel olma eğilimindedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_PLAINS_HILLS_CHAPTER_HISTORY_PARA_1">
+			<Text>Ovalardaki tepeler, genellikle simge yapılar olma eğilimindedir... Iowa'daki en yüksek nokta olan Hawkeye Point'i düşünün, etkileyici bir yükseklik olan 1670 fit (510 metre). Etraftaki düzlük göz önüne alındığında, bunlar sonsuz, sıkıcı manzaralar üzerinde uzun mesafeler için güzel görüş hatları sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_PLAINS_MOUNTAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarihin akışı içinde dağlar, hareketliliğe engel teşkil eden, bir uygarlığa neredeyse hiçbir fayda sağlamayan ... istilaya karşı bariyer olmaları dışında ... elverişsiz engellerdir. Bu nedenle yalnızca fotoğrafçılar, münzeviler ve dağcı türleri için caziptirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_SNOW_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarih, soğuk iklimlerde karla kaplı topraklarda insan hayatta kalmasına dair çok az örnek sunar. İnupiat gibi birkaç istisna dışında, insanlar uzak kutup bölgelerinde geçinmekte zorlanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_SNOW_HILLS_CHAPTER_HISTORY_PARA_1">
+			<Text>Oldukça pitoresk, oldukça canlandırıcı, kayakçıların, kayakla atlayanların ve diğer akıllıların gözdesi. Tepelerdeki kar çok güzeldir ve çok eğlencelidir... tabii erimezse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_SNOW_MOUNTAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarihin akışı içinde dağlar, hareketliliğe engel teşkil eden, bir uygarlığa neredeyse hiçbir fayda sağlamayan ... istilaya karşı bariyer olmaları dışında ... elverişsiz engellerdir. Bu nedenle yalnızca fotoğrafçılar, münzeviler ve dağcı türleri için caziptirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_TUNDRA_CHAPTER_HISTORY_PARA_1">
+			<Text>Tundra, dünyanın daha soğuk iklimlerinde bulunan yarı donmuş topraktır. Kaynaklara (tundra genellikle geniş maden ve petrol yataklarını örter) çaresizce ihtiyaç duymadıkça ya da gidecek başka yerleri kalmadıkça kimse tundrada şehir kurmaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_TUNDRA_HILLS_CHAPTER_HISTORY_PARA_1">
+			<Text>Tundra topraklarındaki tepeler, yıllık erimenin toprağı ve fideleri sürüklemesi nedeniyle çorak yığınlar olma eğilimindedir. Ancak tarih boyunca tundrada kurulan çoğu kasaba tepelere inşa edilmiştir... bu da kurtları ve ayıları sokaklardan uzak tutmaya yardımcı olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_TUNDRA_MOUNTAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarihin akışı içinde dağlar, hareketliliğe engel teşkil eden, bir uygarlığa neredeyse hiçbir fayda sağlamayan ... istilaya karşı bariyer olmaları dışında ... elverişsiz engellerdir. Bu nedenle yalnızca fotoğrafçılar, münzeviler ve dağcı türleri için caziptirler.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN">
+			<Text>TUR BAŞINA ALTIN</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GOLD_PER_TURN_WITH_TURNS">
+			<Text>TUR BAŞINA ALTIN[newline]{1_number} TUR	</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
+			<Text>{1_number} TUR BOYUNCA</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_FOR_30_TURNS">
+      <Text>30 TUR BOYUNCA</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_ONE_TIME">
+      <Text>TEK SEFERLİK ANLAŞMALAR</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
+			<Text>LÜKS KAYNAKLAR</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_STRATEGIC_RESOURCES">
+			<Text>STRATEJİK KAYNAKLAR</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_AGREEMENTS">
+			<Text>ANLAŞMALAR</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CITIES">
+			<Text>ŞEHİRLER</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYERS">
+			<Text>DİĞER OYUNCULAR</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CAPTIVES">
+			<Text>TUTSAKLAR</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GREAT_WORKS">
+			<Text>BÜYÜK ESERLER</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_TECHNOLOGIES">
+			<Text>TEKNOLOJİLER</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PLAYER_PANEL_TITLE">
+			<Text>{1_LeaderName}[NEWLINE]{2_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEAL">
+			<Text>Anlaşmayı Kabul Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEAL">
+			<Text>Anlaşmayı Reddet</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PROPOSE_DEAL">
+			<Text>Anlaşma Teklif Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_DEMAND_DEAL">
+			<Text>Anlaşma Talep Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_DEMAND">
+			<Text>Talebi Kabul Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
+			<Text>Talebi Reddet</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_ACCEPT_GIFT">
+      <Text>Hediyeyi Kabul Et</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_REFUSE_GIFT">
+      <Text>Hediyeyi Reddet</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
+			<Text>Hediye Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_EXIT_DEAL">
+			<Text>Vazgeç</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEAL">
+			<Text>Anlaşmayı İptal Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CANCEL_DEMAND">
+			<Text>Talebi İptal Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RESUME_GAME">
+			<Text>Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_YOUR_ITEMS">
+			<Text>Sizin Öğeleriniz</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_ITEMS">
+			<Text>Onların Öğeleri</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_YOU_GIVE_ME">
+			<Text>Bana ne teklif edersiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_WOULD_IT_TAKE">
+			<Text>Karşılığında ne istersiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CLICK_TO_CHANGE_DEAL_PARAMETER">
+			<Text>Anlaşma detaylarını belirleyin...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_SELECT_DEAL_PARAMETER">
+			<Text>Anlaşma detaylarını belirleyin...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_PARAMETER_WITH_TURNS">
+			<Text>{1_DisplayName} ({2_Turns} tur)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_OTHER_PLAYER_SAYS">
+			<Text>{1_LeaderName} diyor ki:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY">
+			<Text>{1_Name}, iade et.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_RETURN_CITY_TOOLTIP">
+			<Text>{1_Name} şehrini {1_LeaderName}'ye iade et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY">
+			<Text>{1_Name}, devret.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_CEDE_CITY_TOOLTIP">
+			<Text>{1_Name} şehrini {1_LeaderName}'ye devret</Text>
+		</Row>
+		<!--Deal Error Messages-->
+		<Row Tag="LOC_DEAL_CITY_NOT_FOUND">
+			<Text>Şehir bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_DUPLICATE">
+			<Text>Başka bir anlaşma kalemi aynı şehri içeriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_IN_TREASURY">
+			<Text>Yetersiz Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GOLD_NOT_ENOUGH_YIELD">
+			<Text>Yetersiz Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_GREAT_WORK_NOT_FOUND">
+			<Text>Büyük Eser bulunamadı.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_INVALID_PLAYER">
+			<Text>Geçersiz oyuncu.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_NO_SLOT_TO_RECEIVE_WORK">
+			<Text>Eserin yerleştirileceği yuva yok.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_RESOURCES_NOT_ENOUGH">
+			<Text>Bu kaynaktan yeterli miktarda yok.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_SPY_NOT_FOUND">
+			<Text>Casus bulunamadı.</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_POPULATION_TOOLTIP">
+			<Text>Nüfus: {1_number}</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
+			<Text>Bölgeler:</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
+			<Text>Kaynaklar:</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
+			<Text>Büyük Eserler:</Text>
+		</Row>
+		<Row Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
+			<Text>{1_CityName} ile birlikte devredildi.</Text>
+		</Row>		
+		<!-- Diplomactic Actions -->
+		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
+			<Text>Daimi Büyükelçilik</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_NAME">
+			<Text>Haraç Talep Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_NAME">
+			<Text>Açık Sınırlar</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_NAME">
+			<Text>Yardım Talep Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DENOUNCE_NAME">
+			<Text>Kınama</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_NAME">
+			<Text>Sürpriz Savaş</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_NAME">
+			<Text>Barış Yap</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_NAME">
+			<Text>Diplomatik Heyet Gönder</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_NAME">
+			<Text>İttifak</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_NAME">
+			<Text>Dostluk İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_GRANT_INFLUENCE_TOKEN_NAME">
+			<Text>Etki Jetonu Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_GIFT_UNIT_NAME">
+			<Text>Birim Hediye Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MILITARY_REQUEST_NAME">
+			<Text>Askeri Talep</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_MINOR_CIV_NAME">
+			<Text>Küçük Uygarlığa Savaş İlan Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_NAME">
+			<Text>Savaş İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_NAME">
+			<Text>Kutsal Savaş İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_NAME">
+			<Text>Kurtuluş Savaşı İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_NAME">
+			<Text>Yeniden Fetih Savaşı İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_NAME">
+			<Text>Koruma Savaşı İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_NAME">
+			<Text>Sömürge Savaşı İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_NAME">
+			<Text>Toprak Genişletme Savaşı İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_NAME">
+			<Text>Savunma Paktı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_NAME">
+			<Text>Ortak Savaş</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_NAME">
+			<Text>Araştırma Anlaşması</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SPY_NAME">
+			<Text>Casusluk Yapmayacağına Söz Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_CONVERT_NAME">
+			<Text>Şehirleri Dönüştürmeyeceğine Söz Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_DIG_ARTIFACTS_NAME">
+			<Text>Tarihi Eser Kazmayacağına Söz Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_KEEP_PROMISE_DONT_SETTLE_TOO_NEAR_NAME">
+			<Text>Çok Yakına Yerleşmeme Sözü</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEAL_INVALID">
+			<Text>Bu anlaşmayı hiçbir koşulda yapmayacağım.</Text>
+		</Row>
+		<!-- Diplomactic Action Tooltips-->
+		<Row Tag="LOC_DIPLOACTION_RESEARCH_AGREEMENT_DESCRIPTION">
+			<Text>Dost İlan Edilmiş bir tarafla veya İttifak üyesiyle Araştırma Anlaşması kurar. Araştırma Anlaşmaları, iki tarafın ortak bir hedef teknolojiyi birlikte araştırmasına olanak tanır. Teknoloji ne kadar pahalıysa anlaşma da o kadar uzun sürer. Anlaşma süresinin sonunda her iki taraf da o teknoloji için Hızlandırma kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_JOINT_WAR_DESCRIPTION">
+			<Text>Hedef bir uygarlığa karşı Ortak Savaş başlatır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEFENSIVE_PACT_DESCRIPTION">
+			<Text>Bir Savunma Paktı kurar. İttifakın üyelerinden birine saldırıldığında, tüm üyeler otomatik olarak saldırgana savaş ilan eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Dost İlan Edilmiş bir tarafla İttifak kurar. Müttefikler savaşa gidemez, otomatik olarak Açık Sınırlara sahip olur ve müttefiklerinden biri bir şehir kaybettiğinde, her biri saldırgan uygarlığa karşı bir Savaş Gerekçesi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_DESCRIPTION">
+			<Text>Bu devletle Daimi Büyükelçilik kurar. Kabul edilirse, alıcı taraf biraz daha dostça olur; bir seviye Erişim kazanırsınız ve alıcı tarafın [ICON_Capital] Başkenti ortaya çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DEMAND_TRIBUTE_DESCRIPTION">
+			<Text>Bu devletten diplomatik bir hediye talep eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_OPEN_BORDERS_DESCRIPTION">
+			<Text>Bu devletten, birimlerinizin kontrol ettiği topraklarında seyahat etmesine izin vermesini isteyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_REQUEST_ASSISTANCE_DESCRIPTION">
+			<Text>Bu devletten diplomatik bir hediye isteyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DENOUNCE_DESCRIPTION">
+			<Text>Bu devletten duyduğunuz hoşnutsuzluğu resmen bildirmek için kullanılır. 5 ek tur geçtikten sonra (bir Savaş Gerekçesi ile veya olmadan) resmî bir savaş ilanı yapılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+			<Text>Hemen bir savaş başlatmak için kullanılır. Olağan Savaş Kışkırtıcılığı cezaları %50 artar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_MAKE_PEACE_DESCRIPTION">
+			<Text>Bu devletle mevcut savaşı sona erdirmek için bir anlaşma müzakere edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DIPLOMATIC_DELEGATION_DESCRIPTION">
+			<Text>Bu devlete [ICON_Gold] Altın hediyesiyle bir heyet gönderir. Kabul edilirse, alıcı taraf biraz daha dostça olur ve bir seviye Erişim kazanırsınız. Diplomatik Hizmet Sosyal Politikası'nı elde edene kadar sürer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FRIENDSHIP_DESCRIPTION">
+			<Text>Bu devletle dostane ilişkileri sürdürme niyetinizi resmen bildirir. Dost iken İttifak kurmaya uygun hale gelirsiniz ancak bu devlete resmî savaş ilan edemezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_FORMAL_WAR_DESCRIPTION">
+			<Text>Sizi Kınamış veya en az 5 tur önce Kınadığınız bir oyuncuya savaş ilan etmek için kullanılır. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Şehirlerinizden birini dinen dönüştürmüş bir devlete savaş ilan etmek için kullanılır. Tüm Savaş Kışkırtıcılığı cezaları yarıya iner.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Dostlarınızdan veya müttefiklerinizden birinin şehrini ele geçirmiş bir devlete savaş ilan etmek için kullanılır. Bu şehirlerden herhangi birini kurtarmanın Savaş Kışkırtıcılığı cezası yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Şehirlerinizden birini ele geçirmiş bir devlete savaş ilan etmek için kullanılır. Hiçbir Savaş Kışkırtıcılığı cezası uygulanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Müttefik şehir devletlerinizden birine saldırmış bir devlete savaş ilan etmek için kullanılır. O şehir devletini kurtarmanın Savaş Kışkırtıcılığı cezası yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Üzerinizden iki teknoloji çağı geride olan bir güce savaş ilan etmek için kullanılır. Tüm savaş kışkırtıcılığı cezaları yarıya indirilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>İmparatorluğunuzla sınır komşusu olan bir güce savaş ilan etmek için kullanılır. Şehirlerinizden en az 2'si, rakiplerinizin 2 şehrine 10 kare mesafede olmalıdır. Savaş kışkırtıcılığı cezaları %25 azaltılır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_PROPOSE_TRADE_DESCRIPTION">
+			<Text>Bu güçle ticaret müzakereleri başlat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_PROPOSE_PEACE_DEAL_DESCRIPTION">
+			<Text>Bu güce bir barış anlaşması teklif et.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TECH">
+      <Text>Teknoloji Seç</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
+      <Text>İttifak Seç</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
+      <Text>Hedef Seç</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
+      <Text>Kaç Adet?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
+      <Text>Bu hediyeyi kabul ederim.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
+      <Text>Hediyeler ilişkinizi geliştirir.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
+      <Text>Müzakere etmeyi tercih ederim.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
+      <Text>Taleplerde bulunmak ilişkinize zarar verir.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_UNFAIR">
+      <Text>Kabul edemem, bu adaletsiz bir anlaşma.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
+      <Text>Bu liderin teklifiniz karşılığında size ne vereceğini sorun.[NEWLINE]Bu, yalnızca anlaşma masasında onların tarafına öğeler ekleyecektir.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
+      <Text>Bu anlaşmayı hiçbir koşulda kabul edemem.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
+      <Text>Anlaşmayı engelleyen teklif</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_DEAL_MARK_UNACCEPTABLE">
+			<Text>Bu öğeyi kabul edilemez olarak işaretle</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TEXT">
+			<Text>Bu öğeyi kabul edilemez olarak işaretlemek ve anlaşmayı reddetmek, bu yapay zekanın bu öğeyi bir daha asla istemesini engelleyecektir. Devam etmek istiyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_STOP_ASKING_POPUP_TITLE">
+			<Text>Sormayı Bırak?</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DEAL_REMOVE_ITEM">
+      <Text>Öğeyi anlaşmadan kaldır</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
+			<Text>Peki ya bu teklif?</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
+      <Text>Bu takasa razı değilim.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
+      <Text>Karşılığında takas etmeye razı olacağım hiçbir şeyim yok.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
+      <Text>Belki gelecekte daha makul bir anlaşma buluruz?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
+      <Text>Belki başka bir zaman?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
+      <Text>Anlaşmaya varamadığımıza şaşırdım.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
+      <Text>Ne yazık.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
+      <Text>Teklifimi daha da yükseltmeye cesaret edemem.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
+      <Text>Ne kadar üzücü.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
+      <Text>Kullanmazsan hazinenin ne kıymeti var?</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
+      <Text>Öyle ya da böyle, istediğimi bana vereceksin.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
+      <Text>Reddini kabul ediyorum... şimdilik.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_EXPAND_CATEGORY">
+      <Text>Anlaşma kategorisini genişlet.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_COLLAPSE_CATEGORY">
+      <Text>Anlaşma kategorisini daralt.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_EXPAND_CITY_INFO">
+      <Text>Şehir bilgilerini genişlet.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_DEAL_COLLAPSE_CITY_INFO">
+      <Text>Şehir bilgilerini daralt.</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

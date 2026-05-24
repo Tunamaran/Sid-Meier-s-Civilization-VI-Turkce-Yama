@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Ramses-->
+		<Row Tag="LOC_AGENDA_MAAT_NAME">
+			<Text>Ma'at</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MAAT_DESCRIPTION">
+			<Text>Tüm arazi özelliklerini temizler ve mümkün olan tüm bölgeleri iyileştirir. Yüksek oranda iyileştirilmiş bölgeye sahip uygarlıkları sever. Düşük oranda iyileştirilmiş bölgeye sahip veya Milli Park kuran uygarlıkları sevmez.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RAMSES_ANY">
+			<Text>Ben Ramses, Amun'un sevgilisi. Her ülke önümde titrer, yüreklerinde korkuyla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Oklarınızı güneşe fırlatın, kılıçlarınızı sele vurun. Aynı etkiyi gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Ey güçlüler, ordularıma bakın ve ümitsizliğe düşün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RAMSES_ANY">
+			<Text>Adımız ölmesin diye inşa ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RAMSES_ANY">
+			<Text>Kumda tarım yapabileceğini mi sanıyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Beni yen, ama anıtlarım, krallar kralı Ramses'in ihtişamına tanıklık edecek.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Tamamdır. Horus'un kara diyarı ile seninki arasında bir ortaklık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Aynı masada oturmak mı? Eşitler olarak anlaşmak mı? Hiç sanmıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Sonsuz krallığa dost olur musun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Öyle olsun; Osiris ile İsis'in birliği gibi!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Bizim eşimiz yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Heyetiniz krallığımın harikalarını gördü. Eve dönerken biraz üzülebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Kobranın pulları güneşte mücevher gibi parıldar. Ne var ki onu kavramak istemeyiz. Senin hediyelerin de böyle işte.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Size Mısır'ın harikalarından küçük bir kesit sunuyorum: altın ve lapis mücevherleri, fildişi ve kemik. Bunlar birçok deben tutar, ama bizde bol miktarda var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Az önce bir çakal mı havladı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Bırak, sayıklamana devam et, herkes senin deli olduğunu anlasın. (Seni Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RAMSES_ANY">
+			<Text>Sizi diyarımı davet ediyorum, fakat ihtişamını görüp umutsuzluğa kapılacak ve gözyaşlarınızla nehri tuzlayacaksınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RAMSES_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RAMSES_ANY">
+			<Text>Size güneşin kalbinden ve nehirlerin ebedi değişiminden bahsedebilirim. Siz de bana nereden geldiğinizi anlatabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_RAMSES_ANY">
+			<Text>Huzurumda durmak nasıl bir duygu? Güneşe bu denli yakın olmak?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Kırmızı ve beyaz taç birleştiğinde çok daha parlak parlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_RAMSES_ANY">
+			<Text>Taşkın yatışıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_RAMSES_ANY">
+			<Text>Savaşın dişi aslanı hâlâ topraklarda öfkeyle dolanıyor. Onu geri çağıramam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Sekhmet yeterince kan içti. Barışa varalım mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Topraklarımızda dolaşın, ama bilin ki bunlar sizin değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_RAMSES_ANY">
+			<Text>Mısır'ın sınırları sizin için taş duvarlar olarak kalıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Topraklarınızdan geçme ihtiyacımız var ve tek ricamız, halkınızın askerlerimize bakmaması, yoksa parıltıları karşısında kör olurlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RAMSES_ANY">
+			<Text>Güneş parladığında gökyüzünde başka ışıklara tahammül etmez. Ben de kuvvetlerinizin yakınımda olmasına tahammül edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Bu talebinizi reddediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_RAMSES_ANY">
+			<Text>Böyle yazılsın, böyle olsun.</Text>
+		</Row>
+		<!-- Sundiata Keita-->
+		<Row Tag="LOC_AGENDA_LION_OF_MALI_NAME">
+			<Text>Mali Aslanı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LION_OF_MALI_DESCRIPTION">
+			<Text>En fazla [ICON_Tourism] Turizme sahip uygarlık olmak ister, [ICON_Tourism] Turizmde rekabet edenleri sevmez.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ben Sundiata Keita, ışığım dağları aşar ve Mali'den dünyaya parlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ben nefes aldığım sürece Mali asla sizin köleniz olmayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ağız savaşından sonra, kılıçlar karar vermeli.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Bilgelik sözlerde, şarkılarda ve hikâyelerde saklıdır - Mali'nin sözlerinde, şarkılarında ve hikâyelerinde.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Halkınızda herkes gerçek hikâyeleri bildiğini sanır, ama gerçek bilgelik hafızada saklıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ne yazık ki şehrim, yuvam, artık beç tavuğu ve kekliğin tozda yıkandığı bir yer oldu.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Büyük bir kral kimseyi unutmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Büyük bir kral kimseyi unutmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kişi akrabasını seçemez, fakat dostlarını seçebilir. Ben sizi seçiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Başarılarımız, onu anlatacak bir dost olmadan hiçtir!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Krallar alçakgönüllülüklerini unuturlar. Bu gayet doğaldır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Geceyi griot'ların şarkılarını dinleyerek ve kahramanlar çağının hayalini kurarak geçirdik. İşte o an şimdidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Krallığımda yabancılara rehberlik edecek vaktim yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Krallığım henüz zengin değil; belki torunlarım onu öyle kılar. Ancak size, tiguadege na dediğimiz fıstık ezmeli kuzu yahnisi ve yerken oturmanız için bir leopar postu sandalye gönderiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Gizlenen yılan yaşlanır. Siz ise kendinizi gösterdiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Bana aslan derler. Siz için çakal dendiğini duydum. (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>İşte burada, griot'ların türkülerini kendi ağızlarından işitebilirsiniz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Anlaştık!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ovalarda yankılanan şarkıları duydunuz, değil mi? Size kaynaklarını anlatmamızı ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Hoş geldiniz, hoş geldiniz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Bu ittifakı toplanmış savaşçılara duyuracağız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Bırakalım avcılar savanaya dönsün. Orada daha mutludurlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Yaralı bir yılan yine de saldırabilir. Onu ezmek gerek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Şafak söker, aslan uyur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ben bu topraklarda bir çocukken dolaştım ki siz de şimdi dolaşabilesiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Ne yazık ki hayır. Aslanlar var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Uzaklara yol alırız. Geçişimizi kolaylaştırır mısınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Savaşçılarınız avlaklarının çok uzağına düşmüş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Bunu yapmamız mümkün değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SUNDIATA_KEITA_ANY">
+			<Text>Kabul etmekten mutluluk duyarım.</Text>
+		</Row>
+		<!-- Cleopatra Alt-->
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FOOD">
+			<Text>İyi beslenmiş bir başka uygarlık görmekten memnuniyet duyarlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FOOD">
+			<Text>Yetersiz besine sahip uygarlıklardan hoşlanmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PREFER_FOOD_NAME">
+			<Text>Basilike Ge</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PREFER_FOOD_DESCRIPTION">
+			<Text>[ICON_Food] Besin biriktirmeye çalışır ve aynı zamanda [ICON_Food] Besine odaklanan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_GREETING_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>Tüm o ulu ve ilahi emellerimiz bir parça ekmekle başlamaz mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_ALT_REASON_ANY">
+			<Text>(Besin üretiminiz güçlüdür.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>Halkınızın kül ve çalı çırpıdan bir lapa pişirdiğini işittim. Söyleyin bana, bu doğru mudur?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_ALT_REASON_ANY">
+			<Text>(Besin üretiminiz yetersizdir.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CLEOPATRA_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CLEOPATRA_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_FOOD">
+			<Text>Halkınızı besleme konusundaki maharetiniz karşısında hayranlık duyuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_FOOD">
+			<Text>Nüfusunuzun artışına engel olmak için pek bir şey yapmıyorsunuz. Halkınız neyle besleniyor?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

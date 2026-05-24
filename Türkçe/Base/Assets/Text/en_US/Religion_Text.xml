@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--RELIGIONS-->
+		<Row Tag="LOC_RELIGION_PANTHEON">
+			<Text>Panteon</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_BUDDHISM">
+			<Text>Budizm</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CATHOLICISM">
+			<Text>Katoliklik</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_CONFUCIANISM">
+			<Text>Konfüçyüsçülük</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_HINDUISM">
+			<Text>Hinduizm</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ISLAM">
+			<Text>İslam</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_JUDAISM">
+			<Text>Yahudilik</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ORTHODOXY">
+			<Text>Ortodoksluk</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_PROTESTANTISM">
+			<Text>Protestanlık</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SHINTO">
+			<Text>Şinto</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_SIKHISM">
+			<Text>Sihizm</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_TAOISM">
+			<Text>Taoizm</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_ZOROASTRIANISM">
+			<Text>Zerdüştlük</Text>
+		</Row>
+		<!--BELIEF CLASSES-->
+		<Row Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
+			<Text>Panteon</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
+			<Text>Takipçi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
+			<Text>Tapınak</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
+			<Text>Kurucu</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
+			<Text>Güçlendirici</Text>
+		</Row>
+		<!--MISCELLANEOUS-->
+		<Row Tag="LOC_RELIGION_MARTYRED_APOSTLE">
+			<Text>Şehit Havari</Text>
+		</Row>
+    <Row Tag="LOC_RELIC_TRIBAL_VILLAGE">
+      <Text>Kabile Köyü</Text>
+    </Row>
+    <Row Tag="LOC_RELIC_GOVERNOR">
+      <Text>Vali</Text>
+    </Row>
+    <Row Tag="LOC_RELIC_CITY_STATE">
+      <Text>Süzeren</Text>
+    </Row>
+		<!--PANTHEON NAMES-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
+			<Text>Aurora Dansı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
+			<Text>Çöl Folkloru</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PATH_NAME">
+			<Text>Kutsal Yol</Text>
+		</Row>
+		<!--Pantheon - Amenity Bonuses-->
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
+			<Text>Nehir Tanrıçası</Text>
+		</Row>
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
+			<Text>Tanrılara Anıt</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
+			<Text>İlahi Kıvılcım</Text>
+		</Row>
+		<!--Pantheon - Local Feature Bonuses-->
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
+			<Text>Sazlıkların ve Bataklıkların Hanımı</Text>
+		</Row>
+		<!--Pantheon - Local Resource Bonuses-->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
+			<Text>Deniz Tanrısı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
+			<Text>Açık Gökyüzü Tanrısı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
+			<Text>Av Tanrıçası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
+			<Text>Taş Çemberler</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
+			<Text>Dini Putlar</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
+			<Text>Zanaatkârların Tanrısı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
+			<Text>Festivaller Tanrıçası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
+			<Text>Sözlü Gelenek</Text>
+		</Row>
+		<!--Pantheon - Military -->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
+			<Text>Ocak Tanrısı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
+			<Text>Savaş Tanrısı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_NAME">
+			<Text>Başlangıç Ayinleri</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
+			<Text>Şifa Tanrısı</Text>
+		</Row>
+		<!--Pantheon - General Purpose-->
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
+			<Text>Bereket Ayinleri</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
+			<Text>Dini Yerleşimler</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
+			<Text>Hasat Tanrıçası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
+			<Text>Şehir Koruyucu Tanrıçası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
+			<Text>Yer Tanrıçası</Text>
+		</Row>
+		<!--2. WORSHIP BELIEFS-->
+		<Row Tag="LOC_BELIEF_CATHEDRAL_NAME">
+			<Text>Katedral</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_NAME">
+			<Text>Dar-e Mehr</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_NAME">
+			<Text>Gurdwara</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
+			<Text>Toplantı Evi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MOSQUE_NAME">
+			<Text>Cami</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_NAME">
+			<Text>Pagoda</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STUPA_NAME">
+			<Text>Stupa</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SYNAGOGUE_NAME">
+			<Text>Sinagog</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WAT_NAME">
+			<Text>Wat</Text>
+		</Row>
+		<!--3. FOLLOWER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHORAL_MUSIC_NAME">
+			<Text>Koro Müziği</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
+			<Text>İlahi İlham</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
+			<Text>Dünyayı Doyurmak</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
+			<Text>Cizvit Eğitimi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_NAME">
+			<Text>Kutsal Emanetler</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
+			<Text>Dini Topluluk</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_NAME">
+			<Text>Savaşçı Keşişler</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_NAME">
+			<Text>Çalışma Ahlakı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
+			<Text>Zen Meditasyonu</Text>
+		</Row>
+		<!--4. FOUNDER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
+			<Text>Kilise Mülkü</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
+			<Text>Kültürler Arası Diyalog</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
+			<Text>Halk Vaizliği</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
+			<Text>Papalık Üstünlüğü</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_NAME">
+			<Text>Hac</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_UNITY_NAME">
+			<Text>Dini Birlik</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_NAME">
+			<Text>Emanet Yönetimi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_NAME">
+			<Text>Aşar</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
+			<Text>Dünya Kilisesi</Text>
+		</Row>
+		<!--5. ENHANCER BELIEFS-->
+		<Row Tag="LOC_BELIEF_BURIAL_GROUNDS_NAME">
+			<Text>Kabristan</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
+			<Text>İnanç Savunucusu</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_ORDER_NAME">
+			<Text>Kutsal Tarikat</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
+			<Text>Gezgin Vaizler</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JUST_WAR_NAME">
+			<Text>Haçlı Seferi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
+			<Text>Misyoner Şevki</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
+			<Text>Manastır İnzivası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_NAME">
+			<Text>Dini Sömürgecilik</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCRIPTURE_NAME">
+			<Text>Kutsal Yazılar</Text>
+		</Row>
+		<!--PANTHEON DESCRIPTIONS-->
+		<!--1. PANTHEON BELIEFS-->
+		<!--Pantheon - Adjacency Bonuses-->
+		<Row Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
+			<Text>Kutsal Alan bölgeleri, komşu Tundra bölgelerinden +1 [ICON_Faith] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
+			<Text>Kutsal Alan bölgeleri, komşu Çöl bölgelerinden +1 [ICON_Faith] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
+			<Text>Kutsal Alan bölgeleri, komşu Yağmur Ormanı bölgelerinden +1 [ICON_Faith] İnanç kazanır.</Text>
+		</Row>
+		<!--Pantheon - Amenity Bonuses-->
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
+			<Text>Bir nehre komşu Kutsal Alan bölgesi olan şehirler +1 [ICON_Amenities] Olanak kazanır.</Text>
+		</Row>
+		<!--Pantheon - Gameplay Race Bonuses-->
+		<Row Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
+			<Text>Antik ve Klasik Çağ harikalarına +%15 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
+			<Text>Kutsal Alan (Peygamber), Kampüs (Bilim İnsanı) ve Tiyatro Meydanı (Yazar) bölgelerinden +1 [ICON_GreatPerson] Büyük Kişi puanı.</Text>
+		</Row>
+		<!--Pantheon - Local Feature Bonuses-->
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
+			<Text>Bataklık, Vaha ve Taşkın Yataklarından +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<!--Pantheon - Local Resource Bonuses-->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
+			<Text>Balıkçı Teknelerinden +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+			<Text>Meralardan +1 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
+			<Text>Kamplardan +1 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
+			<Text>Taş Ocaklarından +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
+			<Text>Lüks ve Bonus kaynakların üzerindeki Maden Ocaklarından +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
+			<Text>Stratejik kaynakların üzerindeki Maden Ocaklarından +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>[ICON_RESOURCE_WINE] Şarap, [ICON_RESOURCE_INCENSE] Buhur, [ICON_RESOURCE_COCOA] Kakao, [ICON_RESOURCE_TOBACCO] Tütün, [ICON_RESOURCE_COFFEE] Kahve ve [ICON_RESOURCE_TEA] Çay Plantasyonlarından +1 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
+			<Text>[ICON_RESOURCE_BANANAS] Muz, [ICON_RESOURCE_CITRUS] Turunçgil, [ICON_RESOURCE_COTTON] Pamuk, [ICON_RESOURCE_DYES] Boya, [ICON_RESOURCE_SILK] İpek, [ICON_RESOURCE_SPICES] Baharat ve [ICON_RESOURCE_SUGAR] Şeker Plantasyonlarından +1 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<!--Pantheon - Military -->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
+			<Text>Antik ve Klasik çağ askeri birimlerine +%25 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
+			<Text>Kutsal Alan bölgenizde veya komşu bölgelerde iyileşmeyi +30 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
+			<Text>Bir Kutsal Alan bölgesinin 8 bölge yakınında öldürülen her muharebe biriminin gücünün %50'si kadar bonus [ICON_Faith] İnanç. (Normal Hız'da)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
+			<Text>Temizlenen her Barbar Karakolu başına +50 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<!--Pantheon - General Purpose-->
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
+			<Text>Şehir büyüme hızı %10 daha yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_DESCRIPTION">
+			<Text>Sınır genişleme hızı %15 daha yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
+			<Text>Bir kaynağı hasat etmek veya bir arazi özelliğini kaldırmak, diğer getiri miktarına eşit [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CITY_PATRON_GODDESS_DESCRIPTION">
+			<Text>Uzmanlık bölgesi olmayan şehirlerdeki bölgelere yönelik Üretim %25 [ICON_Production] artar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_EARTH_GODDESS_DESCRIPTION">
+			<Text>Büyüleyici veya daha yüksek Çekiciliğe sahip bölgelerden +1 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<!--2. WORSHIP BELIEFS-->
+		<Row Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
+			<Text>Katedral inşasına izin verir (+3 [ICON_Faith] İnanç, 1 adet dinî sanat yuvası).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_DESCRIPTION">
+			<Text>Dar-e Mehr inşasına izin verir (+3 [ICON_Faith] İnanç, inşa edildiği veya son onarıldığı çağdan itibaren her çağ için +1 ilave [ICON_Faith] İnanç).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
+			<Text>Gurdwara inşasına izin verir (+3 [ICON_Faith] İnanç, +2 [ICON_Food] Besin).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
+			<Text>İbadethane inşasına izin verir (+3 [ICON_Faith] İnanç, +2 [ICON_Production] Üretim).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
+			<Text>Cami inşasına izin verir (+3 [ICON_Faith] İnanç). Misyonerler ve Havariler +1 Yayma.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
+			<Text>Pagoda inşasına izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Housing] Konut).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STUPA_DESCRIPTION">
+			<Text>Stupa inşasına izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Amenities] Olanak).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
+			<Text>Sinagog inşasına izin verir (+5 [ICON_Faith] İnanç).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WAT_DESCRIPTION">
+			<Text>Wat inşasına izin verir (+3 [ICON_Faith] İnanç, +2 [ICON_Science] Bilim).</Text>
+		</Row>
+		<!--3. FOLLOWER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHORAL_MUSIC_DESCRIPTION">
+			<Text>Mabetler ve Tapınaklar, kendi öz [ICON_Faith] İnanç çıktılarına eşit miktarda [ICON_Culture] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
+			<Text>Tüm dünya harikaları +4 [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
+			<Text>Mabetler ve Tapınaklar, kendi öz [ICON_Faith] İnanç çıktılarına eşit miktarda [ICON_Food] Besin sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
+			<Text>Kampüs ve Tiyatro Meydanı bölge binaları [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Kutsal Emanetler, hem [ICON_Faith] İnanç hem de [ICON_Tourism] Turizm getirisini üç katına çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
+			<Text>Mabetler ve Tapınaklar +1 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_DESCRIPTION">
+			<Text>[ICON_Faith] İnanç harcayarak Savaşçı Keşişlerin eğitilmesine olanak tanır. Bunlar, eşsiz bir terfi ağacına sahip orta çağ kara muharebe birimleridir. Yalnızca Kutsal Alanında Tapınak bulunan bir şehirde satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
+			<Text>Bu dini benimseyen her vatandaş için şehirde +1% [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
+			<Text>2 uzmanlık bölgesine sahip şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<!--4. FOUNDER BELIEFS-->
+		<Row Tag="LOC_BELIEF_CHURCH_PROPERTY_DESCRIPTION">
+			<Text>Bu dini takip eden her şehir için +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION">
+			<Text>Diğer uygarlıklardaki bu dini takip eden her 5 kişi için +1 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
+			<Text>Bu dini takip eden bir şehirdeki her Kutsal Alan veya Tiyatro Meydanı bölgesi, sırasıyla +1 [ICON_Faith] İnanç veya +1 [ICON_Culture] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Senin dinini takip eden şehir devletlerinden gelen tür bonusları %50 daha güçlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
+			<Text>Diğer uygarlıklardaki ve şehir devletlerindeki bu dini takip eden her şehir için +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
+			<Text>Her şehir devleti bu dini ilk kez benimsediğinde, şehir devleti görevinden gelen elçiye ek olarak +1 [ICON_Envoy] Elçi kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
+			<Text>Bu dini takip eden bir şehirdeki her Kampüs veya Ticaret Merkezi bölgesi, sırasıyla +1 [ICON_Science] Bilim veya +1 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_DESCRIPTION">
+			<Text>Bu dini takip eden her 4 kişi için +1 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION">
+			<Text>Diğer uygarlıklardaki bu dini takip eden her 5 kişi için +1 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<!--5. ENHANCER BELIEFS-->
+		<Row Tag="LOC_BELIEF_BURIAL_GROUNDS_DESCRIPTION">
+			<Text>Bir Kutsal Alan tamamlandığında çevresindeki bölgelere Kültür Bombası uygular.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>Muharebe birimleri, bu dini takip eden dost şehirlerin sınırları içindeyken +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_ORDER_DESCRIPTION">
+			<Text>Misyonerler ve Havariler %30 daha ucuza satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION">
+			<Text>Din, %30 daha uzaktaki şehirlere yayılır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION">
+			<Text>Muharebe birimleri, bu dini takip eden yabancı şehirlerin sınırları içindeyken +10 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MISSIONARY_ZEAL_DESCRIPTION">
+			<Text>Dinî birimler, arazi ve özelliklerin [ICON_Movement] Hareket maliyetlerini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_MONASTIC_ISOLATION_DESCRIPTION">
+			<Text>Dininin baskısı, Teolojik Muharebede alınan yenilgiler nedeniyle asla azalmaz.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COLONIZATION_DESCRIPTION">
+			<Text>Bir oyuncunun çoğunluk dini bu olduğunda, o oyuncu tarafından kurulan şehirler bu Din ile başlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
+			<Text>Bitişik şehir baskısından kaynaklanan dini yayılım %25 daha güçlüdür. Matbaa araştırıldığında bu oran %50'ye yükselir.</Text>
+		</Row>
+		<!--BELIEF COMBAT BONUSES-->
+		<Row Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
+			<Text>+{1_Value} İnanç Savunucusu İnancı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
+			<Text>+{1_Value} Haçlı Seferi İnancı</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_INCOMING_RELIGION_PRESSURE">
+			<Text>Tur başına gelen baskı</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_OUTGOING_RELIGION_PRESSURE">
+			<Text>Tur başına giden baskı</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_PREDOMINANT_RELIGION">
+			<Text>{1_ReligionName} (Baskın)</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP_HEADER">
+			<Text>Takipçiler / Alınan Toplam Baskı:</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_FOLLOWER_PRESSURE_TOOLTIP">
+			<Text>{1_ReligionName}:[NEWLINE]{2_Followers} Takipçi, {3_TotalPressure} baskı</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

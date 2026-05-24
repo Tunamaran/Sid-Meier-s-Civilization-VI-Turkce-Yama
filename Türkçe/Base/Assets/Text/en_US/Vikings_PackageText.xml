@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+    <Row Tag="LOC_MOD_VIKINGS_SCENARIO_TITLE">
+      <Text>Senaryo: Vikingler, Tüccarlar ve Akıncılar!</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGS_SCENARIO_TEASER">
+      <Text>Bir Viking kralı olarak en büyük serveti biriktirebilecek misin? 60 Tur sürer.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION">
+      <Text>Avrupa'yı, bu 60 turluk senaryoda en güçlü Viking lordu olarak hükümranlığınız altına alın. Danimarka, Norveç veya İsveç'ten üç eşsiz Viking hükümdarından biri olarak oynayın ve Avrupa'yı yağmalayarak ve akınlarla geçin. İngiltere'ye bir deniz işgali başlatın, Paris'i fethedin ya da Cebelitarık'ı dolaşıp Akdeniz'e akınlar düzenleyin. [NEWLINE][NEWLINE] Eve döndüğünüzde, en kârlı şehirlerle ticaret yolları biriktirerek bir tüccar imparatorluğu kurun. Ve eğer bir dine bağlanırsanız, müjdeyi yayarak halkınız için [ICON_Faith] İnanç üretin.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGSLANDMARKS_TITLE">
+      <Text>Viking İçeriği</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGSLANDMARKS_TEASER">
+      <Text>Üç yeni doğa harikası ve altı yeni şehir devleti.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION">
+      <Text>Üç yeni doğa harikası ve altı yeni şehir devleti; ayrıca bunlardan ikisi yeni bölge iyileştirmeleri sağlar.</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

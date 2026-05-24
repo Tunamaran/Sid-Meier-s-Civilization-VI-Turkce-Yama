@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_CONTENT_TITLE">
+			<Text>Zombi Savunması</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_WELCOME_PARA_1">
+			<Text>Zombi Savunması oyun modu, Uygarlığınıza tehlikeli bir tehdit sunar: ölmeyi reddeden ölüler. Zombiler savaşın küllerinden yükselebilir ve sizin ile başkalarının topraklarını avlarken ölümcül lanetlerini yayarlar. Şehirlerinizi istila etmelerini engellemeye çalışın, en azından bir tur daha!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_TITLE">
+			<Text>Zombiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_PARA_1">
+			<Text>Zombiler, atık alanlarda dolaşan yakın dövüş birimleridir. İyileştirmelerinizi yağmalayamazlar; bunlarla ilgilenmezler. Ancak hemen dışarıda dolaşan herhangi bir birimin üzerine giderler, bu nedenle şehirlerinizden ayrılırken gözünüzü dört açın. Ayrıca şehirlerinize saldırarak yok edilen her nüfus birimini daha fazla zombiye dönüştürebilirler...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_PARA_2">
+			<Text>Haritada bir birim öldüğünde, birkaç tur sonra Zombi birimi olarak geri dönme ihtimali vardır. Ancak bir birim bir Zombi tarafından yok edilirse, kesinlikle bir sonraki turda yeniden doğar. Bununla birlikte, ölümsüz tehdit giderek büyür – dünyanın herhangi bir yerinde öldürülen her Zombi, kalan ve yeni Zombileri daha da güçlendirir. Ölülere karşı savaşa girerken neyin içine girdiğinizi iyi bilin!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_ZOMBIES_PARA_3">
+			<Text>Kutsal Alanlar ve Kampüsler, zombi sürüsüne karşı geçici bir çözüm sunar. Bir Kutsal Alandaki Ölü Kovma projesini veya bir Kampüsteki Karanlık Sinyal projesini kullanarak şehir sınırlarınız içindeki Zombileri kısa süreliğine kontrol altına alabilir, böylece sürüyü düşmanlarınıza karşı yönlendirebilirsiniz. Kontrolünüz sona erdiğinde güvende olduğunuzdan emin olun… ya da stratejik olarak sonlandırdığınızda. Ayrıca, Casuslarınız Zombi Salgını eylemiyle ölümcül laneti düşmanlarınıza yayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_DEFENSES_TITLE">
+			<Text>Savunma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_DEFENSES_PARA_1">
+			<Text>Topraklarınız sürüye karşı savunmasız değildir. Kutsal Alanlar veya Kampüslerdeki Projelere ek olarak, İşçileriniz düşmanlarınıza (canlı ya da ölü) karşı koymaya yardımcı olmak için Barikatlar veya Tuzaklar inşa edebilir. Bir Barikat, içinden veya bitişik bölgelerden geçen her düşman birimine az miktarda hasar verir; bir Tuzak ise doğrudan üzerinden geçen her düşman birimine önemli miktarda hasar verir. Daha sonraki çağlar, daha güçlü Barikatlar veya Tuzaklar oluşturma yeteneği kazandırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ZOMBIE_SIEGE_CHAPTER_DEFENSES_PARA_2">
+			<Text>Bunlar ölümsüzlere karşı güçlü savunmalar olabilse de, daha – canlı – düşmanlarınıza karşı da işe yarayabilir, çünkü her tür düşmana hasar verirler. Bunları stratejik olarak planlayın ve geceyi atlatabilirsiniz.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ANCIENT_TOWER_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Zombilerin ürkütücülüğü, belirsizliklerinden kaynaklanır. Onlar salt hareket eden madde midir, yoksa bir tür canlı mı? İnsanlara karşı savunmalar, acı, korkutma, yorgunluk gibi yürüyen cesetler için geçerli olmayan bir dizi şeye dayanır. Dikenli tel, hissedemeyen bir şey için hiçbir anlam ifade etmez. Ayrıca, zombi silahları sınırlıdır: zombiler mancınık yapmaz; ok atmazlar. Bu nedenle ölülere karşı savunmalar, cansızları düşünen bir düşman olarak değil, hareket eden madde olarak ele alır – sivri uçlu sopalar öldürmeyi değil, hareketsiz bırakmayı hedefler, geri çekilebilir merdivenli kuleler ip tırmanacak beyni olmayan düşmanlara karşı sığınak sağlar, hendekler köprü inşa edemeyen düşmanları tutar. En azından, sayıları çok fazla olana kadar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MODERN_TOWER_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Yürüyen ölüler yorulmaz. Bu onların en büyük avantajıdır – tıpkı bir deniz gibi, onları durdurmak için dikilmiş savunmaları sürekli zorlarlar. Eninde sonunda ahşap ve bambu duvarlar paramparça olur, hatta taş duvarlar bile ufalanır. İşte burada modern malzemeler – betonarme, çelik – devreye girer. Tıpkı Rönesans dönemi yıldız kalesinin, top ateşinin etkisini emmek yerine saptırmak için tasarlandığı gibi, modern savunmalar yürüyen ölüleri durdurmak yerine saptırmayı vurgular. Esnek malzemeler, ölülerin amansızca yüklenmesi karşısında bükülür ama kırılmaz. Pürüzsüz yüzeyler kemikli parmaklara tutunma imkanı vermez ve sürgülü kapaklar hendeklerin ve su yollarının boşaltılmasını sağlayarak, eski zombi savunma biçimlerini aşabilecek ceset yığını rampalarını engeller. Bunların ardında güvende olmalıyız. Olmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ANCIENT_TRAP_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Duvarlar düşmanları dışarıda tutmayı amaçlayan bir savunma türüyken, tuzaklar onları yok etmeyi, yavaşlatmayı veya hareketsiz bırakmayı hedefler. Ve yürüyen ölüler amansız olsa da, akıllı değillerdir. Bir kuledeki tek bir insan, sulu insan beyniyle, ölüleri – veya 'korumasız' bir düşmanı alt etmeye çalışan düşman insanları – onlarla başa çıkılabilecek yakın mesafeye çekmek için yeterli bir yem görevi görebilir. Ancak ölülerden kurtulmak, insan düşmanlarla uğraşmaktan çok daha fazlasını gerektirir. Kovalamazsınız, hatta ağır yaralayamazsınız; yok edilmeleri gerekir. Antik tuzaklar yanar zift, gizli çukurlar ya da sadece okçularla dolu kuleler içerebilirdi. Ta ki oklar tükenene kadar...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MODERN_TRAP_DEFENSE_CHAPTER_HISTORY_PARA_1">
+			<Text>Yıllar geçtikçe, ölümsüz tehdit hakkında daha fazla şey öğrendik. Daha önceki tuzaklar, canlı insanları (gönüllü ya da değil) yem olarak kullanmayı içeriyordu. Ancak mühendisler kimyasal veya hayvansal alternatifler geliştirdi. Ayrıca, yumuşak uçlu veya antipersonel mermiler dokuya daha fazla hasar ve daha yüksek isabet sağlar. Her okçu, bir elmayı tatar yayı okuyla tam on ikiden vurabilen William Tell değildir. Yiv ve dürbünler, giderek daha hassas 'öldürmeler' anlamına gelir. Keskin nişancılarla donatılmış sığınaklar, ölülere karşı diğer düşmanlara karşı olduğu kadar etkilidir. Rafine edilmiş petrol ve napalm, zombilerin veya insan düşmanların daha önceki malzemelerin yapamadığı şekillerde parçalanmasını sağlar. Ayrıca, modern tuzaklar zombilerin zayıflıklarından yararlanır: tıpkı bir tazı yarışı pistindeki gibi mekanik bir rayda bir beyni kovalayan, sonsuza dek bir daire içinde yürüyen bir ölümsüz sürüsü, basit bir çukurdan çok daha etkili olabilir.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODE_ZOMBIE_CHAPTER_HISTORY_PARA_1">
+			<Text>Zombiler en tanınabilir korku imgelerinden biri haline geldi. Ancak doymak bilmez, sendeleyerek yürüyen cesetlerin ve özellikle ölümsüzlerin küresel bir salgını fikri, ancak son yıllarda ortaya çıkmıştır. Birçok Karayip folklor geleneğinde zombi veya jumbee, Batı Afrika geleneklerinden türeyen, kötü niyetli bir ruh için genel bir kategoridir. Ancak Haiti'de zombi bambaşka bir şeye dönüştü – köleliğin tüm dehşetinin bir simgesine. O dönemdeki Fransız kolonisi Saint-Domingue'deki köleleştirilmiş Afrikalılar için hayat neredeyse dayanılmazdı. Ölüm, en azından, geleneğe göre, sonunda özgür olabilecekleri Afrika'daki bir cennete dönüş ve kurtuluş vaat ediyordu. Ancak intihar bu kapıyı kapatır ve talihsiz ruhun sonsuza dek Karayipler'de, sonsuza dek köle olarak kalmasına neden olurdu – bir zombi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODE_ZOMBIE_CHAPTER_HISTORY_PARA_2">
+			<Text>Haiti Devrimi'nin ardından zombi, yerel folklora kötü niyetli bir büyücünün ya da bazı anlatılarda voudun (vudu) rahibinin hizmetkarı olarak girdi. Büyülenmiş veya yeniden canlandırılmış zombi, efendisi için çalışmaya devam ederek, özgür olmak ve özgür kalmak için savaşmış bir halka köleliğin dehşet verici bir şekilde geri dönüşünü hatırlatıyordu. Gerçekten de zombi, küresel pop kültürüne ilk kez bu anlamda giriş yaptı. Amerikan filmleri, zombiyi, Karayip ya da sadece 'öteki' dinlerin genellikle ırkçı tasvirlerinde egzotik büyünün sembolü olarak kullandı. Başka yerlerde zombiler, ister açık köleliğe dönüş, isterse Güney Afrika gibi bölgelerde yeni kapitalizm biçimlerinin kendini gösterdiği kafa karıştırıcı ve sömürücü yolun bir metaforu olarak, kişinin emeğinin çalınması korkusu olarak ortaya çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MODE_ZOMBIE_CHAPTER_HISTORY_PARA_3">
+			<Text>Ancak çoğu insan, George Romero'nun 'Yaşayan Ölülerin Gecesi' filmiyle ünlü hale gelen sürülere aşina olabilir. Romero burada, gömülmemiş ölülerin hayata dönmesiyle altüst olmuş bir dünya sunar. Dikkat çekici bir şekilde, Romero asla 'zombi' terimini kullanmaz, onun yerine onlara 'gulyabani' der – bu da Arap yamyam ruhuna bir göndermedir. 20. yüzyılın sonlarında zombiler yeni bir metafor haline geldi; akılsız, ruhsuz tüketimciliğin tezahürleri, nükleer serpinti korkusu veya büyük toplumsal çalkantı tehdidi olarak ortaya çıktılar. 21. yüzyılda zombiler, hastalık korkusu ve toplumun çöküşüyle yakından ilişkilendirildi. Dehşetin odağı, kişinin kendi üzerindeki kontrolünü kaybetme korkusundan, diğer her şey ölmüş gibi göründükten sonra hayatta kalma fantezisine dönüşmüştü. İşte burada zombiler, bu tamamen yıkıcı güçtür – belki de kendi lehinize çevirebileceğiniz bir yıkım.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

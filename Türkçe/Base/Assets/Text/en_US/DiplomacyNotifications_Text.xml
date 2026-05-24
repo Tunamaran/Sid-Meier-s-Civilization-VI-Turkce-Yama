@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+
+		<!-- Default -->
+		<Row Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bir mesajınız var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEFAULT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} size bir mesaj gönderdi.</Text>
+		</Row>
+
+		<!-- Declare Friend -->
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Dostluk Bildirisi Talebi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uygarlıklarınız arasında bir dostluk bildirisi talep etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Dostluk Bildirisi Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, dostluk bildirinizi kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Dostluk Bildirisi Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_FRIEND_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, dostluk bildirinizi reddetti.</Text>
+		</Row>
+
+		<!-- Send Delegation -->
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Diplomatik Heyet Beklemede</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, [Icon_Capital] başkentinize bir diplomatik heyet göndermek istiyor.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Diplomatik Heyet Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, heyetinizi kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Diplomatik Heyet Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_SEND_DELEGATION_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, heyetinizi reddetti.</Text>
+		</Row>
+
+		<!-- Declare War -->
+		<Row Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Savaş İlan Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARE_WAR_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uygarlığınıza savaş ilan etti.</Text>
+		</Row>
+
+		<!-- Denounce -->
+		<Row Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Kınandınız</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DENOUNCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uygarlığınızı kınadı.</Text>
+		</Row>
+
+		<!-- Embassy -->
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Büyükelçilik Talep Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, başkentinizde bir büyükelçilik kurmak istiyor.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Büyükelçilik Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, büyükelçilik talebinizi kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Büyükelçilik Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_EMBASSY_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, büyükelçilik talebinizi reddetti.</Text>
+		</Row>
+
+		<!-- Make Alliance -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>İttifak Talep Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uluslarınız arasında bir ittifak ilan etmek istiyor.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>İttifak Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, ittifak talebinizi kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>İttifak Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, ittifak talebinizi reddetti.</Text>
+		</Row>
+
+		<!-- Make Peace -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Barış Talebi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uygarlığınızla barış yapmak istiyor.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Barış Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, barış talebinizi kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Savaş Devam Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_PEACE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, barış talebinizi reddetti.</Text>
+		</Row>
+
+		<!-- Open Borders -->
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Açık Sınır Talebi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uygarlığınızla açık sınır talep etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Açık Sınırlar Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, açık sınır talebinizi kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Açık Sınırlar Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_OPEN_BORDERS_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, açık sınırlar talebinizi reddetti.</Text>
+		</Row>
+
+		<!-- Warning -->
+		<Row Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Uyarıldınız</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_WARNING_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} size bir uyarı gönderdi.</Text>
+		</Row>
+
+		<!-- Defeat -->
+		<Row Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Oyuncu Yenilgiye Uğradı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DEFEAT_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} yenilgiye uğradı.</Text>
+		</Row>
+
+		<!-- Kudo -->
+		<Row Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Bir Mesajınız Var</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_KUDO_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} size bir mesaj gönderdi.</Text>
+		</Row>
+
+		<!-- First Meet -->
+		<Row Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Başka Bir Uygarlıkla Tanıştınız</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_FIRST_MEET_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_Civ} uygarlığıyla tanıştınız.</Text>
+		</Row>
+
+		<!-- Make Deal -->
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Anlaşma Teklifi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} uygarlığınızla bir anlaşma yapmak istiyor.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Anlaşma Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} anlaşmanızı kabul etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Anlaşma Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} anlaşmanızı reddetti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_ADJUSTED">
+			<Text>Anlaşma Düzenlendi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_ADJUSTED">
+			<Text>{1_name} anlaşmanızı düzenledi.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_DEMANDED">
+			<Text>Anlaşma Talep Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_DEMANDED">
+			<Text>{1_name} bir anlaşma talep etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_PROPOSED">
+			<Text>Anlaşma Teklif Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_PROPOSED">
+			<Text>{1_name} bir anlaşma teklif etti.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_EQUALIZE">
+			<Text>Anlaşmayı Dengele</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_EQUALIZE">
+			<Text>{1_name} sizden anlaşmayı dengelemenizi istiyor.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_MESSAGE_CLOSED">
+			<Text>Anlaşma Teklifi İptal Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_NOTIFICATION_SUMMARY_CLOSED">
+			<Text>{1_name} bir anlaşma müzakereini iptal etti.</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <FrontEndText>
+		<Row Tag="LOC_AZTEC_MONTEZUMA_MOD_TITLE">
+			<Text>Aztek Uygarlık Paketi</Text>
+		</Row>
+		<Row Tag="LOC_AZTEC_MONTEZUMA_MOD_TEASER">
+			<Text>Yepyeni Uygarlık ve Lider – Azteklerden Montezuma</Text>
+		</Row>
+		<Row Tag="LOC_AZTEC_MONTEZUMA_MOD_DESCRIPTION">
+			<Text>Yeni bir uygarlık ve liderin yanı sıra yeni bir dünya harikası içerir.</Text>
+		</Row>
+   </FrontEndText>
+</GameData>
+

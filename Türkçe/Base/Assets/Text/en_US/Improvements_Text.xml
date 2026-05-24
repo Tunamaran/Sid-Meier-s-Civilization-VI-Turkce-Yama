@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>İlave Barbarlar üretir. Yok edildiğinde [ICON_Gold] Altın ödülü verir. -1 Çekicilik</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
+			<Text>İşçi'nin Sahil Tatil Beldesi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Bölgenin Çekiciliğine eşit miktarda [ICON_Tourism] Turizm sağlar. Yalnızca Kıyı Çölü, Kıyı Ovası veya Kıyı Çayırı bölgelerine inşa edilebilir. En az Nefes Kesen Çekicilik gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
+			<Text>İşçi'nin Çiftlik inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Food] Besin. Yalnızca Çayır veya Ova bölgelerine inşa edilebilir.[NEWLINE][NEWLINE]Diğer Çiftliklere bitişik olarak inşa edilen çiftlikler Konut bonusu sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
+			<Text>İşçi'nin Maden Ocağı inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. -1 Çekicilik. Tepelere veya geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Mal veya Stratejik Kaynak üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
+			<Text>İşçi'nin Taş Ocağı inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. -1 Çekicilik. Yalnızca geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Mal üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
+			<Text>İşçi'nin Balıkçı Teknesi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Food] Besin. Yalnızca geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Mal üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
+			<Text>İşçi'nin Mera inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. Yalnızca geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Stratejik Kaynak üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
+			<Text>İşçi'nin Plantasyon inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Gold] Altın. Yalnızca geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Mal üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
+			<Text>İşçi'nin Kamp inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Gold] Altın. Yalnızca geçerli kaynakların üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Mal üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
+			<Text>İşçi'nin Kereste Fabrikası inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Production] Üretim. Nehir'e bitişikse +1 [ICON_Production] Üretim. Yalnızca Orman'a inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
+			<Text>İşçi'nin Petrol Kuyusu inşa etme yeteneğini açar.[NEWLINE][NEWLINE]-1 Çekicilik. Yalnızca üzerinde [ICON_RESOURCE_OIL] Petrol bulunan kara bölgelerine inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
+			<Text>İşçi'nin Açık Deniz Petrol Platformu inşa etme yeteneğini açar.[NEWLINE][NEWLINE]-1 Çekicilik. Yalnızca üzerinde [ICON_RESOURCE_OIL] Petrol bulunan Kıyı veya Göl bölgelerine inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
+			<Text>Bölgeyi işgal eden birlik +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 turluk tahkimat kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
+			<Text>Askeri Mühendis'in Hava Pisti inşa etme yeteneğini açar.[NEWLINE][NEWLINE]3 hava birimini destekleyebilir. Yalnızca düz arazilere inşa edilebilir. -1 Çekicilik.</Text>
+		</Row>
+		<!--Unique Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>Fransa'ya özgü Şato inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın. +1 Çekicilik. Bitişikteki her Harika için +1 [ICON_Culture] Kültür (Uçuş araştırıldıktan sonra +2 olur). Nehir kenarı içeren bir bölgedeyse +2 [ICON_Gold] Altın. Uçuş araştırıldıktan sonra [ICON_CULTURE] Kültür'den [ICON_TOURISM] Turizm sağlar. Bir Bonus veya Lüks Kaynağa bitişik olarak yerleştirilmelidir. Başka bir Şato'nun bitişiğine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
+			<Text>İşçi'nin Dev Kafa inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. Bitişikteki her 2 Yağmur Ormanı için +1 [ICON_Faith] İnanç. Bitişikteki her 2 Orman için +1 [ICON_Faith] İnanç. Karlı veya Karlı Tepe bölgelerine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
+			<Text>Çin'e özgü Büyük Duvar inşa etme yeteneğini açar.[NEWLINE][NEWLINE][ICON_Strength] Savunma artışı sağlar. Diğer bölümlere bitişikse [ICON_Gold] Altın bonusu verir. Teknoloji Ağacı'nda ilerledikçe bitişik bölümler için ek [ICON_Culture] Kültür ve [ICON_Tourism] Turizm sağlar. İmparatorluğunuzun sınırları boyunca bir hat şeklinde inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
+			<Text>İskitya'ya özgü Kurgan inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Faith] İnanç ve +3 [ICON_Gold] Altın. Bitişikteki her Mera için +1 [ICON_Faith] İnanç (Üzengi araştırıldıktan sonra +2 olur). Uçuş araştırıldıktan sonra [ICON_FAITH] İnanç'tan [ICON_TOURISM] Turizm sağlar. Tepelere inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
+			<Text>İspanya'ya özgü Misyon inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. Kültürel Miras keşfedildiğinde ek +2 [ICON_SCIENCE] Bilim. [ICON_Capital] Başkentinizden farklı bir kıtadaysa +2 [ICON_Faith] İnanç, +1 [ICON_PRODUCTION] Üretim ve +1 [ICON_FOod] Besin. Bitişikteki her Kampüs ve Kutsal Alan bölgesi için +1 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
+			<Text>Roma'ya özgü Roma Lejyonu'nun Roma Kalesi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Bölgeyi işgal eden birlik +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 turluk tahkimat kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
+			<Text>İşçi'nin Mısır'a özgü Sfenks inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Faith] İnanç ve +1 [ICON_Culture] Kültür. +1 Çekicilik. Bir harikanın yanındaysa +2 [ICON_Faith] İnanç. Başka bir Sfenks'in yanına inşa edilemez. Taşkın Yatakları'na inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
+			<Text>İşçi'nin Hindistan'a özgü Basamaklı Kuyu inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Food] Besin ve +1 [ICON_Housing] Konut. Kutsal Alan bölgesine bitişikse +1 [ICON_Faith] İnanç. Bir Çiftlik'e bitişikse +1 [ICON_Food] Besin. Teknoloji ve Yönetim Bilimleri Ağacı'nda ilerledikçe ek [ICON_Housing] Konut, [ICON_Faith] İnanç ve [ICON_Food] Besin kazandırır. Tepeler'e veya başka bir Basamaklı Kuyu'nun yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>İşçi'nin Sümer'e özgü Ziggurat inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Science] Bilim. Nehir kenarındaysa +1 [ICON_Culture] Kültür. Tepeler'e inşa edilemez.</Text>
+		</Row>
+		<!--Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Kutsal Emanet Ödüllendirildi[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
+			<Text>+{1_Num} [ICON_Faith]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Bir keşif birliği bahşedildi.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Birliğiniz yükseltildi.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Birliğiniz tecrübe kazandı.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Birliğiniz iyileştirildi.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
+			<Text>[COLOR_FLOAT_SCIENCE]Bir ücretsiz Teknoloji.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
+			<Text>+{1_Num} Yeni Nüfus</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
+			<Text>Size {1_Num} {1_Num: plural 1?{2_Unit} birimi; other?{2_Unit} birimleri;} bahşedildi.</Text>
+		</Row>
+		<!--Barbarian Camps -->
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
+		</Row>
+		<!--Nuclear -->
+		<Row Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
+			<Text>Askeri Mühendis'in Füze Silosu inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Nükleer ve Termonükleer Cihazlar için bir fırlatma alanı görevi görür.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

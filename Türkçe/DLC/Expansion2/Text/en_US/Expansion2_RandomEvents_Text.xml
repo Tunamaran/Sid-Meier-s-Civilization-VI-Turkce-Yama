@@ -1,0 +1,276 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--River Flooding-->
+		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MODERATE_NAME">
+			<Text>Orta Şiddette Sel</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MODERATE_DESCRIPTION">
+			<Text>Kabaran sular nehrin kıyılarını aşar ve öteki topraklara yayılır.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MAJOR_NAME">
+			<Text>Büyük Sel</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MAJOR_DESCRIPTION">
+			<Text>Azgın ve bulanık sular, şiddetli bir sel sırasında nehrin çevresindeki arazileri hızla kaplar.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FLOOD_1000_YEAR_NAME">
+			<Text>Bin Yıllık Sel</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_FLOOD_1000_YEAR_DESCRIPTION">
+			<Text>Nehir kıyılarını yırtar ve yükselen sular kilometrelerce alanı kaplar. Tam bin yıldır nehir bu denli büyük bir taşkına sahne olmamıştı!</Text>
+		</Row>
+		<!--Eruptions-->
+		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME">
+			<Text>Hafif Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_DESCRIPTION]">
+			<Text>İnsanlar ve hayvanlar kilometrelerce uzaktan Kilimanjaro'dan yükselen kül sütununu izler ve Dünya'nın gazabı karşısında hayrete düşer.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME">
+			<Text>Yıkıcı Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_DESCRIPTION">
+			<Text>Kilimanjaro kükrer; duman ve kül sütunu göğe fışkırırken insanlar ve hayvanlar dehşet içinde kaçışır!</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC_NAME">
+			<Text>Yıkıcı Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC_DESCRIPTION">
+			<Text>İnsanlar, Eyjafjallajökull'dan püsküren devasa kül bulutundan kaçınmak için yollarını uzun süre değiştirmek zorunda kalır.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL_NAME">
+			<Text>Megakolosal Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL_DESCRIPTION">
+			<Text>Eyjafjallajökull yeryüzünde bir yarık açar, sanki tanrıça Hel'in kendisi yeraltı dünyasından kaçıyormuş gibi!</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_NAME">
+			<Text>Megakolosal Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_DESCRIPTION">
+			<Text>Vatandaşlar dehşet içinde çığlık atar ve Vezüv'ün yamaçlarından aşağı çarpan piroklastik dalgadan kaçarak güvenliğe doğru koşar!</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_GENTLE_NAME">
+			<Text>Hafif Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION">
+			<Text>İnsanlar endişeyle gökyüzüne bakar; bir zamanlar sessiz olan bir yanardağdan yükselen dumanı izler.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_NAME">
+			<Text>Yıkıcı Püskürme</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION">
+			<Text>Yanardağ yakınında yaşayanlar, lav ve kül çevredeki toprakları kaplarken kaçışır.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_NAME">
+			<Text>Devasa Volkanik Patlama</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_DESCRIPTION">
+			<Text>Piroklastik akıntılar yanardağın yamaçlarını kamçılarken ve duman jetleri gökyüzüne yükselirken halk dehşet içinde kaçışıyor!</Text>
+		</Row>
+		<!--Rising Sea Levels Flooding-->
+		<Row Tag="LOC_COASTAL_LOWLAND_1M_NAME">
+			<Text>Kıyı Ovası: 1 Metre</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_1M_DESCRIPTION">
+			<Text>Deniz seviyesi yükseldiğinde sular altında kalan ilk karadır.</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_2M_NAME">
+			<Text>Kıyı Ovası: 2 Metre</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_2M_DESCRIPTION">
+			<Text>Bu kara, deniz seviyesi ikinci kez yükseldiğinde sular altında kalacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_3M_NAME">
+			<Text>Kıyı Ovası: 3 Metre</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_3M_DESCRIPTION">
+			<Text>Bu, yükselen deniz seviyelerinden etkilenecek son karadır.</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_FLOODED">
+			<Text>(Sular Altında)</Text>
+		</Row>
+		<Row Tag="LOC_COASTAL_LOWLAND_SUBMERGED">
+			<Text>(Sulara Batmış)</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE1_NAME">
+			<Text>İklim Değişikliği I. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE2_NAME">
+			<Text>İklim Değişikliği II. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE3_NAME">
+			<Text>İklim Değişikliği III. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_NAME">
+			<Text>İklim Değişikliği IV. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_NAME">
+			<Text>İklim Değişikliği V. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_NAME">
+			<Text>İklim Değişikliği VI. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_NAME">
+			<Text>İklim Değişikliği VII. Evre</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE1_DESCRIPTION">
+			<Text>0,5</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE2_DESCRIPTION">
+			<Text>1,0</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE3_DESCRIPTION">
+			<Text>1,5</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_DESCRIPTION">
+			<Text>2.0</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_DESCRIPTION">
+			<Text>2.5</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_DESCRIPTION">
+			<Text>3.0</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_DESCRIPTION">
+			<Text>3.5</Text>
+		</Row>
+    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_LONG_DESCRIPTION">
+      <Text>Fırtınalar ve Seller artık toprağın verimliliğini artırmamaktadır.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_LONG_DESCRIPTION">
+      <Text>Bir bölgenin üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliği kaldırmaya başlar.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_LONG_DESCRIPTION">
+      <Text>Bir bölgenin üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliği düzenli olarak kaldırır.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_LONG_DESCRIPTION">
+      <Text>Bir bölgenin üzerinden geçen Fırtınalar ve Kuraklıklar, oyunda daha önce eklenen bonus verimliliğini oldukça sık kaldırır.</Text>
+    </Row>
+		<!--Storms-->
+		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_NAME">
+			<Text>Önemli Tipi</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_DESCRIPTION">
+			<Text>Buz gibi bir rüzgâr, manzarayı kaplayan karı savururken, canlılar inlerine sığınır.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_CRIPPLING_NAME">
+			<Text>Felç Edici Tipi</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_CRIPPLING_DESCRIPTION">
+			<Text>Uğuldayan rüzgâr ve kamçılayan kar, gökyüzünü ve yeryüzünü bembeyaz bir örtüye bürür. Tanıdık biçimler, donmuş kümelerin altında yok olur.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_GRADIENT_NAME">
+			<Text>Kademeli Toz Fırtınası</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_GRADIENT_DESCRIPTION">
+			<Text>Güneş, puslu gökyüzünde öfkeli turuncu bir disk gibi parlar; insanlar burun ve ağızlarını bezle sarıp telaşla işlerine koşturur.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_HABOOB_NAME">
+			<Text>Haboob Toz Fırtınası</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_HABOOB_DESCRIPTION">
+			<Text>Uzaktan insanlar, sürüklenen kumdan oluşan yaklaşan duvarı görür ve yıkıcı rüzgârdan korunmak için dört bir yana dağılır!</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_TORNADO_FAMILY_NAME">
+			<Text>Hortum Ailesi</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_TORNADO_FAMILY_DESCRIPTION">
+			<Text>Bir hortum, yaz fırtınasının bağrından yavaşça süzülürken, insanlar kendilerine sığınak aramaya başlar.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_TORNADO_OUTBREAK_NAME">
+			<Text>Hortum Salgını</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_TORNADO_OUTBREAK_DESCRIPTION">
+			<Text>Hızla hareket eden bir fırtına hattı, kararan yaz gökyüzünde dörtnala ilerlerken, altında uğursuz bir şekilde hortumlar belirmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_4_NAME">
+			<Text>Kategori 4 Kasırgası</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_4_DESCRIPTION">
+			<Text>Sağanak yağmur ve uğuldayan fırtına, kudretli bir kasırganın gelişini haber verir.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_5_NAME">
+			<Text>Kategori 5 Kasırgası</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_5_DESCRIPTION">
+			<Text>Rüzgâr çığlık atar, bardaktan boşanırcasına yağmur yağar ve dalgalar amansızca kıyıya vurur. Bu kasırganın geçtiği yerde pek az şey ayakta kalabilir!</Text>
+		</Row>
+    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_MAJOR_NAME">
+      <Text>Büyük Kuraklık</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_MAJOR_DESCRIPTION">
+      <Text>Çekirgeler vızıldar ve sıcak rüzgârda toz kalkar. Toprak kuraklıkla kavrulur.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_EXTREME_NAME">
+      <Text>Kavurucu Kuraklık</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_EXTREME_DESCRIPTION">
+      <Text>Acımasız bir güneş, kuraklığın pençesindeki kavrulmuş toprağı kavurur. Hiç yağmur yağmamıştır ve gökler rahatlama vaat etmez.</Text>
+    </Row>
+    <!--Random Event Effect Strings-->
+		<Row Tag="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY">
+			<Text>+ Üzerinden geçtiği bölgelere bereket katabilir[NEWLINE]- İyileştirmelere veya bölgelere hasar verebilir</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY">
+			<Text>+ Üzerinden geçtiği bölgelere bereket katabilir[NEWLINE]- İyileştirmelere veya bölgelere hasar verebilir[NEWLINE]- Birimlere hasar verebilir veya şehir nüfuslarını azaltabilir</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_PROP_DAMAGE_NO_FERTILITY">
+			<Text>- İyileştirmelere veya bölgelere hasar verebilir</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_ALL_DAMAGE_NO_FERTILITY">
+			<Text>- İyileştirmelere veya bölgelere hasar verebilir[NEWLINE]- Birimlere hasar verebilir veya şehir nüfuslarını azaltabilir</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_PROP_NAVAL_DAMAGE_FERTILITY">
+			<Text>+ Üzerinden geçtiği bölgelere bereket katabilir[NEWLINE]- İyileştirmelere veya bölgelere hasar verebilir[NEWLINE]- Deniz birimlerine hasar verebilir</Text>
+		</Row>
+    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_DAMAGE">
+      <Text>- Şehirde Su Kemeri, Baraj veya Basamaklı Kuyu yoksa, her bölgede [ICON_Food] Besin 1 azalır.[NEWLINE]- Çiftlikleri, Kampları, Meraları ve Plantasyonları yok edebilir veya yağmalayabilir.</Text>
+    </Row>
+    <!--Deforestation-->
+		<Row Tag="LOC_DEFORESTATION_LIGHT_NAME">
+			<Text>Hafif</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_EXPECTED_NAME">
+			<Text>Beklenen</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_HEAVY_NAME">
+			<Text>Yoğun</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_EXTREME_NAME">
+			<Text>Aşırı</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_LIGHT_DESCRIPTION">
+			<Text>Gezegenden Bataklık, Koruluk ve Yağmur Ormanı özelliklerinin kaldırılması bugüne kadar asgari düzeyde kalmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_EXPECTED_DESCRIPTION">
+			<Text>Gezegenden Bataklık, Koruluk ve Yağmur Ormanı özelliklerinin kaldırılması beklenen hızda ilerlemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_HEAVY_DESCRIPTION">
+			<Text>Gezegen üzerindeki Bataklık, Orman ve Yağmur Ormanı özelliklerinin kaldırılması bugüne dek kayda değer boyutlara ulaşmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_DEFORESTATION_EXTREME_DESCRIPTION">
+			<Text>Gezegen üzerindeki Bataklık, Orman ve Yağmur Ormanı özelliklerinin kaldırılması oldukça kapsamlı hale gelmiştir.</Text>
+		</Row>
+		<!--Nuclear Accidents-->
+		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR_NAME">
+			<Text>Radyoaktif Buhar Çıkışı</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR_NAME">
+			<Text>Büyük Çaplı Radyasyon Sızıntısı</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC_NAME">
+			<Text>Nükleer Erime</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR_DESCRIPTION">
+			<Text>Nükleer Santralin kontrol odasındaki mühendisler, yayılan bir sızıntıyı durdurmak için hararetle çalışıyor. Daha kötü bir sonucu şimdiden engellemiş olsalar da durum hâlâ ciddiyetini koruyor.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR_DESCRIPTION">
+			<Text>Nükleer Santralde alarmlar çalıyor! Reaktördeki çatlaklardan buhar fışkırıyor ve dozimetreler tıkırdayıp vınlarken radyasyon bölgeyi kaplıyor.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC_DESCRIPTION">
+			<Text>Uğursuz bir patlama gürler ve Nükleer Santralin üzerinde karanlık bir bulut yükselir. Sirenlerin feryadı birer birer çığlık dolu bir koroya dönüşürken, cehennemden fırlamış yanar yakıt yığınları yağmur gibi yağmaya başlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

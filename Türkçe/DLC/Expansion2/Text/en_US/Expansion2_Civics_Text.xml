@@ -1,0 +1,286 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Civics-->
+		<Row Tag="LOC_CIVIC_ENVIRONMENTALISM_NAME">
+			<Text>Çevrecilik</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENVIRONMENTALISM_DESCRIPTION">
+			<Text>İmparatorluğunuz genelinde [ICON_Tourism] Turizm %25 artar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CORPORATE_LIBERTARIANISM_NAME">
+			<Text>Girişim Politikaları</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIGITAL_DEMOCRACY_NAME">
+			<Text>Dağıtık Egemenlik</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SYNTHETIC_TECHNOCRACY_NAME">
+			<Text>Optimizasyon Zorunluluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NEAR_FUTURE_GOVERNANCE_NAME">
+			<Text>Yakın Gelecek Yönetimi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_NAME">
+			<Text>Küresel Isınmayı Azaltma</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SMART_POWER_DOCTRINE_NAME">
+			<Text>Akıllı Güç Doktrini</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INFORMATION_WARFARE_NAME">
+			<Text>Bilgi Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXODUS_IMPERATIVE_NAME">
+			<Text>Göç Zorunluluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HEGEMONY_NAME">
+			<Text>Kültürel Hegemonya</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_DESCRIPTION">
+			<Text>1 Diplomatik Zafer Puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_XP2_DESCRIPTION">
+			<Text>Birden fazla kez tamamlanabilir ve Puan Zaferi'ne yönelik puanınızı artırır. Ayrıca her tamamlandığında 1 [ICON_Governor] Vali Unvanı ve 50 [ICON_Favor] Diplomatik Destek kazandırır.</Text>
+		</Row>
+		<!--Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_ENVIRONMENTALISM">
+			<Text>2 Güneş Çiftliği inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENVIRONMENTALISM">
+			<Text>Halkınız, güneş enerjisinin yalnızca bir fikir olmadığını, aynı zamanda enerji üretiminin potansiyel geleceği olduğunu kanıtlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CORPORATE_LIBERTARIANISM">
+			<Text>Bir Uranyum Madeni inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CORPORATE_LIBERTARIANISM">
+			<Text>Kritik bir savunma kaynağının geliştirilmesi, iş dünyası ile hükümet arasında yeni bir ilişkiye yol açar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DIGITAL_DEMOCRACY">
+			<Text>Bir Rock Grubu'na sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DIGITAL_DEMOCRACY">
+			<Text>Rock grubuyla sözleşmeyi imzalamayı bitiriyorsunuz. 'Her neyse,' diyorlar ama tura başlamak için ne kadar heyecanlı olduklarını görüyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_TECHNOCRACY">
+			<Text>Robotik teknolojisini araştır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_TECHNOCRACY">
+			<Text>Robotik uzuvların bilgisayar kontrolü altındaki zarif dansı, mühendislerinize ve bilim insanlarınıza ilham kaynağı olur.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NEAR_FUTURE_GOVERNANCE">
+			<Text>10 doğal politika yuvasına sahip bir hükümet benimse.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NEAR_FUTURE_GOVERNANCE">
+			<Text>Gelişmiş bir hükümet biçimini benimsemiş olan halkınız, toplumsal hayatta daha da ileri adımların hayalini kurar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CAPITALISM_XP2">
+			<Text>2 Borsa inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GLOBALIZATION_XP2">
+			<Text>2 Havaalanı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS_XP2">
+			<Text>2 Eğlence Kompleksi bölgesi inşa et.</Text>
+		</Row>
+		<!--Governments-->
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP2">
+			<Text>Bir Müttefik veya Süzeren'in şehrine yaptığınız [ICON_TradeRoute] Ticaret Yolları, her iki şehre de +4 [ICON_Food] Besin ve +4 [ICON_Production] Üretim sağlar. Tüm müttefiklerle İttifak Puanları tur başına fazladan .25 artar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP2">
+			<Text>+10% [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CORPORATE_LIBERTARIANISM_NAME">
+			<Text>Kurumsal Liberteryenizm</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CORPORATE_LIBERTARIANISM">
+			<Text>Ticaret Merkezleri ve Ordugâhlar şehirlere +10% [ICON_Production] Üretim sağlar; iyileştirmelerle kaynak biriktiren şehirler tur başına +1 elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CORPORATE_LIBERTARIANISM">
+			<Text>-10% [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_DIGITAL_DEMOCRACY_NAME">
+			<Text>Dijital Demokrasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DIGITAL_DEMOCRACY">
+			<Text>Tüm şehirlerde +2 [ICON_Amenities] Olanak ve Uzmanlık Bölgesi başına +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DIGITAL_DEMOCRACY">
+			<Text>Tüm birimler için -3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_SYNTHETIC_TECHNOCRACY_NAME">
+			<Text>Sentetik Teknokrasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SYNTHETIC_TECHNOCRACY">
+			<Text>Tüm şehirlerde +3 [ICON_Power] Enerji ve tüm şehir projelerine +30% [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_SYNTHETIC_TECHNOCRACY">
+			<Text>-10% [ICON_Tourism] Turizm.</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_SCIENCE_NAME">
+			<Text>Havacılık ve Uzay Müteahhitleri</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_SCIENCE_DESCRIPTION">
+			<Text>Uzay Limanı bulunan şehirler tur başına +3 [ICON_RESOURCE_ALUMINUM] Alüminyum ve +3 [ICON_Power] Enerji kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_CULTURE_NAME">
+			<Text>Uzay Turizmi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_CULTURE_DESCRIPTION">
+			<Text>[ICON_Tourism] Diğer oyunculardan gelen Turizm, uygarlığınıza karşı %20 oranında azalır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_CULTURE_NAME">
+			<Text>Hallyu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_CULTURE_DESCRIPTION">
+			<Text>Rock Grubu birimleriniz, mümkün olan herhangi bir terfiyi seçebilir.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_SCIENCE_NAME">
+			<Text>Devlet Dışı Aktörler</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_SCIENCE_DESCRIPTION">
+			<Text>Casus birimleriniz, mümkün olan herhangi bir terfiyi seçebilir.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DOMINATION_NAME">
+			<Text>Entegre Saldırı Lojistiği</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DOMINATION_DESCRIPTION">
+			<Text>+1 Hareket, eğer tura düşman topraklarında başlanıyorsa. Dev Ölüm Robotları için +%50 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DIPLOMATIC_NAME">
+			<Text>Fitne</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DIPLOMATIC_DESCRIPTION">
+			<Text>Dünya Kongresi'nde bir oyuncunun Diplomatik Zafer puanlarını düşürdüğünüzde, harcadığınız [ICON_Favor] Diplomatik Desteğin %50'sini geri alırsınız. Tur başına +1 [ICON_Favor] Diplomatik Destek.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DIPLOMATIC_NAME">
+			<Text>Diplomatik Sermaye</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DIPLOMATIC_DESCRIPTION">
+			<Text>Tur başına +4 [ICON_Favor] Diplomatik Destek.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DOMINATION_NAME">
+			<Text>Küresel Koalisyon</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DOMINATION_DESCRIPTION">
+			<Text>Dost topraklarındaki birimler için +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EQUESTRIAN_ORDERS_NAME">
+			<Text>Süvari Tarikatları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EQUESTRIAN_ORDERS_DESCRIPTION">
+			<Text>Geliştirilmiş tüm [ICON_RESOURCE_HORSES] At ve [ICON_RESOURCE_IRON] Demir kaynakları, tur başına 1 ek kaynak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DRILL_MANUALS_NAME">
+			<Text>Tatbikat Kılavuzları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DRILL_MANUALS_DESCRIPTION">
+			<Text>Geliştirilmiş tüm [ICON_RESOURCE_NITER] Güherçile ve [ICON_RESOURCE_COAL] Kömür kaynakları, tur başına 1 ek kaynak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETINUES_NAME">
+			<Text>Maiyetler</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETINUES_DESCRIPTION">
+			<Text>Tüm birim yükseltmelerinde %50 kaynak indirimi.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FORCE_MODERNIZATION_NAME">
+			<Text>Zorla Modernizasyon</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FORCE_MODERNIZATION_DESCRIPTION">
+			<Text>Tüm birlik yükseltmelerinde %50 [ICON_Gold] Altın ve kaynak indirimi.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MUSIC_CENSORSHIP_NAME">
+			<Text>Müzik Sansürü</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MUSIC_CENSORSHIP_DESCRIPTION">
+			<Text>Diğer oyunculara ait Rock Grupları topraklarınıza giremez. 10 veya daha fazla [ICON_Citizen] Nüfusa sahip tüm şehirlerinizde -1 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLOWER_POWER_NAME">
+			<Text>Çiçek Gücü</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLOWER_POWER_DESCRIPTION">
+			<Text>Halihazırda savaşta olmayan tüm Uygarlıklar, Konserlerinizden elde edilen [ICON_TOURISM] Turizmin %100'ünü alır.[NEWLINE]ANCAK: Rock Grupları dışındaki birliklerin üretim maliyeti %100 azalır ve satın alma maliyeti %100 artar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CYBER_WARFARE_NAME">
+			<Text>Siber Savaş</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CYBER_WARFARE_DESCRIPTION">
+			<Text>Bilgi ve Gelecek Çağları'ndaki birliklere karşı +10 [ICON_Strength] Muharebe Gücü.[NEWLINE]ANCAK: Size karşı olan [ICON_STAT_GRIEVANCE] Şikayetler azalmaz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AUTOMATED_WORKFORCE_NAME">
+			<Text>Otomatik İşgücü</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AUTOMATED_WORKFORCE_DESCRIPTION">
+			<Text>Şehirleriniz şehir projelerine +%20 [ICON_Production] Üretim kazanır.[NEWLINE]ANCAK: Şehirlerinizde tur başına -1 [ICON_Amenities] Olanak ve -5 Bağlılık.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISINFORMATION_CAMPAIGN_NAME">
+			<Text>Dezenformasyon Kampanyası</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISINFORMATION_CAMPAIGN_DESCRIPTION">
+			<Text>Her bir Yayın Merkezi için tur başına +3 [ICON_Favor] Diplomatik Destek.[NEWLINE]ANCAK: Tüm şehirlerde -%10 [ICON_SCIENCE] Bilim ve [ICON_Culture] Kültür.</Text>
+		</Row>
+		<!--Updated-->
+		<Row Tag="LOC_POLICY_SCIENCE_FOUNDATIONS_NAME">
+			<Text>Bilimin Temelleri</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION_XP2">
+			<Text>Tüm birlik yükseltmelerinde %50 [ICON_Gold] Altın indirimi.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION_XP2">
+			<Text>Geliştirilmiş tüm [ICON_RESOURCE_ALUMINUM] Alüminyum ve [ICON_RESOURCE_OIL] Petrol kaynakları tur başına 1 ek kaynak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION_XP2">
+			<Text>Tüm birlikler, kendi topraklarında veya bitişiğinde savaşırken +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION_XP2">
+			<Text>En az 3 uzmanlık bölgesine sahip tüm şehirlerde +4 [ICON_Housing] Konut ve +2 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION_XP2">
+			<Text>Her bir Araştırma Laboratuvarı, Askeri Akademi, Kömür Santrali, Petrol Santrali ve Nükleer Santralden +2 [ICON_Culture] Kültür ve +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION_XP2">
+			<Text>Normalden %25 daha az Savaş Yorgunluğu biriktirirsiniz. Garnizonda bir birim bulunan şehirler tur başına +4 Bağlılık kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION_XP2">
+			<Text>Yurt içi [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_Production] Üretim ve +4 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION_XP2">
+			<Text>Kendi topraklarınızdaki muharebeden Savaş Yorgunluğu alınmaz. Modern Çağ, Atom Çağı ve Bilgi Çağı destek birlikleri için +%100 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>Kamp iyileştirmeleri +1 [ICON_Production] Üretim ve +1 [ICON_Food] Besin kazanır.[NEWLINE]Kereste Fabrikaları, Yağmur Ormanı üzerine inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>Çiftlik iyileştirmeleri artık her 2 bitişik Çiftlik iyileştirmesinden +1 [ICON_Food] Besin kazanır. Plantasyon iyileştirmeleri +1 [ICON_Food] Besin kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>Balıkçı Tekneleri iyileştirmesi +1 [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VETERANCY_DESCRIPTION_XP2">
+			<Text>+%30 [ICON_Production] Üretim, Ordugâh Bölgeleri, Liman Bölgeleri ve bu bölgelere ait binalar için.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAJ_DESCRIPTION_XP2">
+			<Text>+2 [ICON_Science] Bilim, [ICON_Culture] Kültür, [ICON_Faith] İnanç ve [ICON_Gold] Altın, Süzereni olduğunuz her Şehir Devleti'nden. [ICON_TradeRoute] Şehir Devletlerine giden Ticaret Yolları +2 [ICON_GOLD] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION_XP2">
+			<Text>Büyüleyici çekiciliğe sahip Mahalleler +3 [ICON_Food] Besin ve +1 [ICON_Production] Üretim kazanır, Nefes Kesici Mahalleler ise her getiriden +1 ek bonus kazanır. Tüm Mahalleler +1 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FRESCOES_DESCRIPTION_XP2">
+			<Text>+2 [ICON_GreatArtist] Tur başına Büyük Sanatçı Puanı. Her Sanat Müzesi için +2 [ICON_GreatArtist] Tur başına Büyük Sanatçı Puanı kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION_XP2">
+			<Text>Her Banka için tur başına +2 [ICON_GreatMerchant] Büyük Tüccar puanı ve her Borsa için tur başına +4 [ICON_GreatMerchant] Büyük Tüccar puanı. Her Tersane için tur başına +2 [ICON_GreatAdmiral] Büyük Amiral puanı ve her Liman için tur başına +4 [ICON_GreatAdmiral] Büyük Amiral puanı.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION_XP2">
+			<Text>Her Üniversite için tur başına +2 [ICON_GreatScientist] Büyük Bilim İnsanı puanı ve her Araştırma Laboratuvarı için tur başına +4 [ICON_GreatScientist] Büyük Bilim İnsanı puanı. Her Fabrika için tur başına +2 [ICON_GreatEngineer] Büyük Mühendis puanı ve her Enerji Santrali için tur başına +4 [ICON_GreatEngineer] Büyük Mühendis puanı.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION_XP2">
+			<Text>Her Cephanelik için tur başına +2 [ICON_GreatGeneral] Büyük General puanı ve her Askeri Akademi için tur başına +4 [ICON_GreatGeneral] Büyük General puanı. Büyük Generaller +2 Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION_XP2">
+			<Text>Tur başına +4 [ICON_GreatMusician] Büyük Müzisyen puanı. Her Yayın Merkezi için tur başına +4 [ICON_GreatMusician] Büyük Müzisyen puanı.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INVENTION_DESCRIPTION_XP2">
+			<Text>Tur başına +4 [ICON_GreatEngineer] Büyük Mühendis puanı. Her Atölye için tur başına +2 [ICON_GreatEngineer] Büyük Mühendis puanı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_1">
+			<Text>Litvanyalı bir soylu ve kalvinist olan Kara Mikołaj, hırsın ne demek olduğunu her zaman bilmiştir. Kuzeni Barbara'nın Polonya Kralı II. Sigismund ile olan ilişkisini fırsata çevirerek kendi talihini yükseltmiştir. Kırmızı Mikołaj adlı diğer kuzeniyle kurduğu ittifak, ailesinin Litvanya soyluları arasındaki nüfuzunu daha da pekiştirmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_2">
+			<Text>Mikołaj'ın Polonya ve onun Litvanya ile ilişkisine dair görüşleri karmaşıktır. Her ne kadar Litvanya egemenliğini güçlü bir şekilde savunsa ve resmî bir Polonya-Litvanya birliğine karşı çıksa da, diğer Litvanyalı soyluları Polonya kültürünü benimsemeye teşvik eder. Belki de ortak bir dil, birliğe karşı daha güçlü bir şekilde mücadele etmelerine olanak tanıyacaktır.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RADZIWILL_CHAPTER_HISTORY_PARA_3">
+			<Text>Litvanya bağımsızlığına dair hisleri ne olursa olsun, Polonya ve Litvanya halkını tehdit eden sayısız tehlikeye karşı kararlılığı tartışılmazdır. Litvanya Başveziri olarak, ulusunun düşmanlarını alt etmek için tüm araçlara başvuracaktır—ister kalemin dokunuşu, ister kargının darbesi olsun.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Gururlu Polonya evladı Stanisław "Rewera" Potocki, ilk çatışmasına 18 yaşında çıktı. Polonyalı isyancılara karşı kendini yeterince iyi kanıtlayarak savaşmaya karşı bir sevgi beslemeye başladı ve o günden sonra hayatının büyük kısmını savaş alanında geçirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Stanisław birçok unvan edinmiş olsa da, onun için gerçekten önemli olan tek unvan, Polonya kuvvetlerinin başkomutanı olan Büyük Taç Hetmanı'dır. Gerçekten de kariyeri, Polonya-Litvanya Birliği adına yapılmış bir dizi önemli askerî harekâttan oluşur. En dikkat çekici olanı, İsveç ve Rus kuvvetlerinin Birliği işgal ettiği İsveç Tufanı'na karşı savunmasıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POTOCKI_CHAPTER_HISTORY_PARA_3">
+			<Text>Yanında bulunanların kısa sürede fark edeceği gibi, Stanisław gösterişe düşkündür. Lakabını, 'gerçekte' anlamına gelen Latince 're vera' sözcüklerini sinir bozucu bir şekilde kullanmasına borçludur. Lakabı gerçekten de takdir ettiğini size ilk söyleyen kişi kendisi olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Konstanty Ostrogski'nin karakterini hiçbir söz, 'adanmışlık' kadar iyi yansıtmaz. Polonya-Litvanya Birliği'ne olan adanmışlığı kesindir—Polonya Kralı I. John'un emrindeki yetkin komutanlığı ona, bu unvanı alan ilk kişi olarak Büyük Hetman unvanını kazandırmıştır. Memleketine olan adanmışlığı da tartışılmaz—Volhynia kökenli olup, birçok başarısına rağmen köklerini asla unutmamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Fakat en çok da inancına—Ortodoks Kilisesi'ne—adanmıştır. Kişisel servetini Ortodoks kiliseleri ve okulları inşa etmeye harcar ve kendisi de oldukça dindardır. Oldukça Katolik bir Polonya ve Litvanya için tuhaf bir durum.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OSTROGSKI_CHAPTER_HISTORY_PARA_3">
+			<Text>Yine de Konstanty'nin adanmışlığı onu o kadar tanımlar ki, çok az kişi sadakatini makul bir şekilde sorgulayabilir. Tatar, Moskof ya da Osmanlı fark etmez—Büyük Hetman ilerleyişlerini durduracak, kalelerini kuşatacak ve kuvvetlerini tek tek yok edecektir. O, çekici kıran örstür.</Text>
+		</Row>	
+		<!-- Civilizations-->	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RADZIWILL_CHAPTER_HISTORY_PARA_1">
+			<Text>Litvanya soyluları, Büyük Dükalık'ın talihi için uzun zamandır vazgeçilmez bir rol oynamıştır. Bu gururlu torunların Litvanya çıkarlarını her şeyin üzerinde tuttuklarına güvenebiliriz—bazen Polonyalı müttefiklerinin zararına bile olsa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_RADZIWILL_CHAPTER_HISTORY_PARA_2">
+			<Text>Bu, Litvanya soylularının Polonya-Litvanya refahının savunulmasına yalnızca lafta destek verdiği anlamına gelmez—kesinlikle hayır. Büyük Dükalık'tan kayda değer sayıda asker çıkarırlar ve bunları Polonya Tacı'nın emrine sunmakta tereddüt etmezler. Ancak aile gururu hırsla birleşerek, kendi çıkarları ile Litvanya çıkarlarının aynı şey olduğuna inanmalarına yol açabilir.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POTOCKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Uzun ömürlü Polonya soylularının çoğu zaman mütevazı başlangıçları olmuştur; ancak Polonya yıldızının yükselişi, onların topraklarını genişletmelerine ve defalarca Tac'a olan bağlılıklarını kanıtlamalarına olanak tanımıştır. Soylular itibar kazandıkça, aileler de servetlerini edinmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_POTOCKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Az sayıda Polonya ailesi, magnat rütbesine yükseltilmemiştir. Bahşedilen soyluluk tüyleri kabartabilir—ancak kıskanç fısıltılar bir yana, bu tür ailelerin çoğu Tac'ın sadık savunucuları olduklarını kanıtlamıştır. Saraydaki yaklaşımları savaştaki gibidir—rakibinizin gözlerinin içine bakın, manevra alanı bırakmayın ve asla geri adım atmayın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Volhynia aileleri, Polonya-Litvanya Birliği içinde bir merak konusudur. Elbette sadıktırlar, ancak bazıları Ortodoks Kilisesi'ndeki inançlarını Katoliklik lehine terk etmeyi reddetmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_2">
+			<Text>Birliğin ve onun dinî hoşgörüye dair yasalaşmış görüşlerinin gücü işte budur. Birlik davasını ilerlettikleri sürece diledikleri gibi hareket edebilirler. Ve ilerletmişlerdir de—bize karşı çıkan herkesin üzerine doğrudan hücum ederek, sefer için gerektiğinde askerlerini, erzaklarını ve hazinelerini sunmuşlardır. En iyi ve en parlakları, on binlerce Birlik askerine büyük başarılarla komuta etmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_OSTROGSKI_CHAPTER_HISTORY_PARA_3">
+			<Text>İstedikleri gibi ibadet etmelerine izin verin. Eğer bu yaptıkları, onların dünyevi inançlarını davamıza bağlamaya hizmet ediyorsa, Birliğe olan faydası daha da büyük olacaktır.</Text>
+		</Row>
+		<!-- City-States-->			
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GDANSK_CHAPTER_HISTORY_PARA_1">
+			<Text>Gdańsk'ın bağımsızlığından başka pek az şey istemesi yerinde bir nedene dayanır. Töton Şövalyeleri'nin (ki şehirde ısrarla 'Danzig' adını kullanırlar) 150 yıllık istenmeyen egemenliğinin ardından, Polonya Kralı IV. Casimir, Gdańsk'a Büyük Ayrıcalık'ı tanıyarak özerkliğini yeniden teyit etmiş ve Polonya-Litvanya Birliği ile elverişli ticaret ilişkileri sağlamıştır. Bir Hansa Birliği şehri için mükemmel bir haber; artık Birliğin pazarlarına ve Baltık'taki diğer Birlik şehirlerine ayrıcalıklı erişime sahipti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GDANSK_CHAPTER_HISTORY_PARA_2">
+			<Text>Gdańsk için tüm bunlar iyi haberdir—tabii Töton Şövalyeleri istediklerini elde edip şehri yeniden kontrolleri altına almazlarsa.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIENNA_CHAPTER_HISTORY_PARA_1">
+			<Text>Habsburglar, Viyana'yı berbat bir hale getirmiştir. Bir zamanlar Kutsal Roma İmparatorluğu'nun en önemli şehri olan bu yer, bir dizi etkisiz imparator yüzünden bir zamanlar canlı olan kültür ve ticaret merkezini, atları zıt yönlere bağlanmış bir arabaya dönüştürmüştür. En son olarak, kanlı siyasi misillemeler şehri etkili bir hükümetten yoksun bırakmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIENNA_CHAPTER_HISTORY_PARA_2">
+			<Text>Osmanlı Türkleri izlemekte ve beklemektedir. Macaristan'ı çoktan ilhak etmiş ve bir Erdel vasal devleti kurmuşlardır. Viyana'nın surlarını kuşatma fırsatları çok yakında doğabilir. Viyana düşerse, sırada Polonya-Litvanya Birliği mi olacak?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRAGUE_CHAPTER_HISTORY_PARA_1">
+			<Text>II. Rudolf'un sarayını tüccar şehri Prag'a taşımasının üzerinden kısa bir zaman geçmesine rağmen, bu eksantrik Kutsal Roma İmparatoru çoktan şehri bir ilim ve kültür başkentine dönüştürmüştür. II. Rudolf, simyacı John Dee, gökbilimciler Johannes Kepler ve Tycho Brahe ile ressam Giuseppe Arcimboldo gibi ünlü şahsiyetlerin çalışmalarını finanse etmekten memnuniyet duymaktadır.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PRAGUE_CHAPTER_HISTORY_PARA_2">
+			<Text>Yine de II. Rudolf'un Osmanlı İmparatorluğu'na karşı bir Haçlı Seferi başlatmak gibi garip fikirleri vardır. Bunu, iki yüzyıl önce Bohemya Reformu'nun merkezi olan Prag'da ısrarla dile getirmek, II. Rudolf'un evlatlık tebaasının sabrını ciddi biçimde zorlayabilir.</Text>
+		</Row>	
+		<!--Units-->			
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OTTOMAN_JANISSARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Osmanlılar, fethedilen toprakların çocuklarını alıp onları 'yeniçeri' adını verdikleri askerlere dönüştürür. Çocuklara konuşmayı, düşünmeyi ve savaşmayı öğretirler. Ardından onları daha fazla toprak fethetmeye—daha fazla çocuk almaya—gönderirler. Bir yeniçerinin korkunç ünü kısmen, seyyar topçu olarak da kullanılabilen tüfeklerinden gelir. Avusturya'nın yumuşak karnına saplanacak Osmanlı mızrağının ucu onlar olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_OTTOMAN_JANISSARY_CHAPTER_HISTORY_PARA_2">
+			<Text>Viyana, Polonya'nın kapısıdır. Düşmemelidir. Çocuklarımızın aynı kaderi paylaşmasına izin veremeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_1">
+			<Text>Haydutların türlü türlüsü vardır; kimisi yollarda habersiz yolcuları pusuya düşürür, kimisi savunmasız köylere akın düzenler. En kötüleriyse çeliğe bürünüp yağmalarını Tanrı adına yaptıklarını iddia eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_2">
+			<Text>İşte Töton Şövalyeleri de böyle adamlardır. Bir Polonya kralı, Gdańsk'ı kurtarmaları için onların 'şövalye tarikatını' tuttuğunda, bunu yaptılar... ve ardından sadık Polonya halkını hayatlarından da 'kurtardılar'. Yeni Hristiyan bir ulus olan Litvanya'ya karşı haçlı seferi düzenlerler. Onların tek inanç maddesi paradır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TEUTONIC_KNIGHT_CHAPTER_HISTORY_PARA_3">
+			<Text>Tanrı adına hareket ettiklerini mi iddia ediyorlar? Öyleyse onları Tanrı'ya gönderelim ki iddialarını bizzat orada açıklasınlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>Halkımızı Tatarlara kaptırmaya devam ediyoruz. O kadar çok insanı köle olarak alıyorlar—on binlerce—sanki her yıl koskoca kasabaları haritadan silip götürüyorlar. Atlı okçuları, dış yerleşimlerimize yıldırım baskınları düzenleyip canlı ganimetleriyle geri dönüyor. Neredeyse eyer üzerinde doğmuş bu Tatarlar, kendilerini Cengiz Han'ın varisleri olarak görüyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HORSE_ARCHER_CHAPTER_HISTORY_PARA_2">
+			<Text>Atlı okçular sınırlarımızdan içeri akın ediyor, devriyelerimizi taciz ediyor, milislerimizi oklarla doldurup kağanlıklarına çekiliyorlar. Korktukları tek duvar, mızraklardan örülmüş olanlardır.</Text>
+		</Row>		
+		<!--Great People-->			
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_CHAPTER_HISTORY_PARA_1">
+			<Text>Rönesans tarzında resim yapan Polonyalı bir keşiş olan Stanisław Samostrzelnik, zengin tezhipleri ve renkli freskleriyle tanınır. 'Piskopos Piotr Tomicki'nin Portresi' adlı eseri, altın ve yeşilin parlak bir kontrastıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_CHAPTER_HISTORY_PARA_2">
+			<Text>Renk körü biri için hiç fena sayılmaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARTIN_KOBER_CHAPTER_HISTORY_PARA_1">
+			<Text>Yenilikçi sanatçı Martin Kober, Stephen Báthory ile Polonya-Litvanya Birliği'nden III. Zygmunt'un ve ayrıca Kutsal Roma İmparatoru II. Rudolf'un saray ressamı olarak hizmet vermiştir. Portrecilikte uzmanlaşan Kober, kraliyet mensuplarının benzerliklerini öyle bir yakalar ki gelecek nesiller Tacın kraliyet ihtişamını bilebilsin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BARTOLOMMEO_BERRECCI_CHAPTER_HISTORY_PARA_1">
+			<Text>İtalyan mimar Bartolommeo Berrecci, kültürün ön saflarını Polonya'ya taşıyor. Berrecci'yi topraklarımıza davet ettiği için Jan Łaski'ye minnettarız. Wawel Kalesi'ndeki kapsamlı çalışmaları arasında Sigismund Şapeli, İtalyan Rönesansı'nın göz kamaştırıcı bir parçası olarak öne çıkıyor—tam da Kraków'un ortasında.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ADAM_KOCHANSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Adam Adamandy Kochański için matematikten daha büyük bir aşk yoktur—elbette Tanrı hariç, ama bunu bir Cizvit için söylemeye gerek bile yok. Pratik matematikte de hiç beceriksiz değildir; devrim niteliğindeki saat tasarımlarıyla mekanik ustalığını sergiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KAZIMIERZ_SIEMIENOWICZ_CHAPTER_HISTORY_PARA_1">
+			<Text>Polonya-Litvanya Birliği'nin topçu generali Kazimierz Siemienowicz için savaş alanında patlayıcılarla çözülemeyecek hiçbir sorun yoktur. Roket bilimi ve piroteknik üzerine düşünceleri tuhaf ama dönüştürücüdür—Siemienowicz'in 'Artis Magnae Artilleriae' eseri hakkında söyleyecek iyi bir sözü olmayan loncaların canını epey sıkmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KRZYSZTOF_GRODZICKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Hollandalılar arasında eğitim görmüş Polonyalı bir topçu generali olan Krzysztof Grodzicki, kariyerinin büyük bölümünü toplarını İsveçlilere ve Kazaklara doğrultarak geçirmiştir. Lviv'i İsveç Tufanı'na karşı başarıyla savunması, şehrin düşmesini engellemiştir—o pahalı savaşta nadir görülen başarılardan biridir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEBASTIANO_MONTELUPI_CHAPTER_HISTORY_PARA_1">
+			<Text>Sebastiano Montelupi İtalyan doğumlu olsa da hayatının yarısından fazlasını Polonya'da geçirmiştir. Başarılı bir tüccar ve bankacı olan Montelupi, Polonya Kralı Stephen Báthory tarafından kraliyet posta genel müdürü olarak atanmıştır. Bu görevinde Polonya-Litvanya Birliği'nin büyük şehirleri arasındaki teslimatları denetlemektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_KONSTANTY_KORNIAKT_CHAPTER_HISTORY_PARA_1">
+			<Text>Yunan asıllı Konstanty Korniakt, hayatının erken dönemlerinde Polonya'ya gelmiş ve yetenekli, becerikli bir tüccar olduğunu kanıtlamıştır. Ticareti uluslararası niteliktedir ve hatta Osmanlı İmparatorluğu ile ticaret yolları kurmayı başarmıştır. II. Zygmunt, Konstanty'nin ticari zekâsına güvenerek kral adına kraliyet vergilerini toplamasına izin vermektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NICOLAUS_COPERNICUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Gökbilimci Nicolaus Copernicus tartışmalara yabancı değildir. Dünya'nın değil, Güneş'in evrenin merkezi olduğunu iddia etmektedir! Onun 'günmerkezli' kuramları, Katolik din adamları arasında uyandırdığı ilgi olmasa büsbütün saçma görünebilirdi—Papa VII. Clemens bile kuramın destekçileri arasındadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SENDIVOGIUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Simyacı Sendivogius kısa süre önce Prag'daki II. Rudolf'un sarayından bazı tuhaf ama umut verici fikirlerle geldi. Soluduğumuz havanın, içindeki tek bir maddenin yaşamı sürdürmek için gerekli olduğu bir kase bigosa benzediğini öne sürüyor. Kral III. Zygmunt bu kadar ilgilenmeseydi, bu tamamen akıl almaz bir şey olurdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PIOTR_SKARGA_CHAPTER_HISTORY_PARA_1">
+			<Text>Cizvit rahibi Piotr Skarga, sözünü sakınanlardan değildi; Polonya-Litvanya Birliği'nin siyasetine dair söyleyecekleri, Protestanlığın yayılmasına karşı yürütülen Karşı-Reformasyon hakkındaki sözleri kadar keskindi. İster onu bir bal küpü, ister o küpte yüzen bir sinek olarak görün, kimse onun söz ustalığını sorgulayamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_JAN_KOCHANOWSKI_CHAPTER_HISTORY_PARA_1">
+			<Text>Rönesans şairi Jan Kochanowski, yıllarını II. Sigismund'un sarayında geçirmiş olsa da asıl ününe başkenti terk edip bir kır malikânesine yerleştiğinde kavuştu. Küçük kızı Urszula'nın vefatıyla yaşadığı acı, ona onun anısına yürek burkan bir dizi ağıt kaleme aldırdı.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

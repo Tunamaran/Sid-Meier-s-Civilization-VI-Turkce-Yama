@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_PIRATES_RULESET_TITLE">
+			<Text>Korsanlar</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_RULESET_TEASER">
+			<Text>Korsanlık, açık denizlerde yağma, şan ve macera demektir.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_PIRATES_VICTORY_TITLE">
+			<Text>Korsanların Kralı</Text>
+		</Row>
+		<Row Tag="LOC_PIRATES_VICTORY_DESC">
+			<Text>Oyun sonunda en fazla Kötü Şöhrete sahip korsan ol.</Text>
+		</Row>
+		<!-- Pirate King Civilization text -->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_PIRATE_KING_NAME">
+			<Text>Korsan Kral</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_NAME">
+			<Text>Korsan Kral</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_DESCRIPTION">
+			<Text>Suların Amiral'i. Yedi Deniz'in Belası. Liman şehirlerinde çocukların sessizce sebzelerini yemesinin sebebi. Korsan Kral.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PIRATE_KING_ADJECTIVE">
+			<Text>Korsanlar</Text>
+		</Row>
+		<!-- Maps -->
+		<Row Tag="LOC_MAP_PIRATE_ISLANDS">
+			<Text>Korsan Adaları</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PIRATE_ISLANDS_DESCRIPTION">
+			<Text>Hazine ve ihanetle dolu lanetli adalar zinciri; batıda yoğun ve zengin bir ana kara. Dalgaların üzerinde altın kokusu alıyorum. Ve kan.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PIRATES_CARIBBEAN">
+			<Text>Karayip Adaları</Text>
+		</Row>
+		<Row Tag="LOC_MAP_PIRATES_CARIBBEAN_DESCRIPTION">
+			<Text>17. yüzyılın zirvesinde İspanyol Anakarası ve Batı Hint Adaları. Hazine filoları Meksika altınlarını İspanya'ya taşır, siyah yelkenlerin bir kol boyu önünde seyreder.</Text>
+		</Row>
+
+		<!-- Dread Pirate Text-->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_DREAD_PIRATE_NAME">
+			<Text>Dehşet Korsanı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_NAME">
+			<Text>Dehşet Korsanı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_DESCRIPTION">
+			<Text>Dehşet Korsanı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_DREAD_PIRATE_ADJECTIVE">
+			<Text>Dehşet Korsanları</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_DREAD_PIRATE_SCENARIO">
+			<Text>Bazı korsanlar bir kralın bayrağı altında yelken açar. Bazıları sandıktaki sekizliklerin şıngırtısını duymak için. Bazılarıysa bir gülle dalgaların üzerinde yuvarlanırken çıkan sesi duymayı sever. Sen bu tür önemsiz şeyleri aştın. En eski ve en güçlü para birimi korkudur ve bu senin mesleğindir.</Text>
+		</Row>
+		<Row Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_NAME">
+			<Text>Savaşmak En İyi Yaptığımız İş</Text>
+		</Row>
+		<Row Tag="LOC_DREAD_PIRATE_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>Bir birim her muharebeye girdiğinde +10 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_NAME">
+			<Text>Kalas Yürüyüşü</Text>
+		</Row>
+		<Row Tag="LOC_DREAD_PIRATE_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>Her deniz gemisi, Kalas Yürüyüşü birim eylemine sahiptir. Kalas Yürüyüşü, herhangi bir ağır hasar görmüş düşman gemisinde kullanılarak gemiyi batırır ve karşılığında 5 tur boyunca +3 [ICON_Movement] Hareket ve +5 [ICON_Strength] Muharebe Gücü kazandırır. Kalas Yürüyüşü yeteneğinin yeniden dolması 5 tur sürer.</Text>
+		</Row>
+
+		<!-- Privateer Text-->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_PRIVATEER_NAME">
+			<Text>Korsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_NAME">
+			<Text>Korsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_DESCRIPTION">
+			<Text>Korsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_PRIVATEER_ADJECTIVE">
+			<Text>Korsan</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_PRIVATEER_SCENARIO">
+			<Text>Kraliyet Donanması'nın denizlerde emelleri vardır: yağmalanacak şehirler, ele geçirilecek gemiler. Ne var ki Kraliyet Donanması'nın kuralları, kanunları, antlaşmaları vardır ve subayları peruk takar. Bu yüzden size bir ganimet izni verirler ki, onların yapamadıklarını siz yapabilesiniz. Gidin ve Tac'ın düşmanlarını ateşe verin!</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATEER_PASSIVE_ABILITY_NAME">
+			<Text>Ganimet İzni</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATEER_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>Korsanın, rastgele atanmış bir sömürge gücü hamisi vardır. Korsan, hamisi olan sömürge gücünün tüm limanlarının konumunu bilir. Ticaret yollarını yağmalamak ek olarak 100 [ICON_Gold] Altın kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATEER_ACTIVE_ABILITY_NAME">
+			<Text>Onu Eve Getir</Text>
+		</Row>
+		<Row Tag="LOC_PRIVATEER_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>Her deniz gemisi, Onu Eve Getir birim eylemine sahiptir. Onu Eve Getir, ağır hasar görmüş düşman gemilerinde kullanılarak gemi, Korsan'ın hamisi adına ele geçirilir. Onu Eve Getir kullanmak, olağan deniz zaferi ödüllerine ek olarak +5 Kötü Şöhret Puanı ve +100 [ICON_Gold] Altın kazandırır. Onu Eve Getir yeteneğinin yeniden dolması 5 tur sürer.</Text>
+		</Row>
+
+		<!-- Swashbuckler Text-->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_SWASHBUCKLER_NAME">
+			<Text>Maceraperest Korsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_NAME">
+			<Text>Maceraperest Korsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_DESCRIPTION">
+			<Text>Maceraperest Korsan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SWASHBUCKLER_ADJECTIVE">
+			<Text>Maceraperest Korsan</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_SWASHBUCKLER_SCENARIO">
+			<Text>Yolculuk darağacında veya idam iskelesinde son bulabilir, ama şimdilik özgürsün. Ufku geriye itmek için yelken açarsın; orada ne varsa, ister hazine ister tehlike, bulup sahiplenmek için. Evet, rüzgar tazeleniyor ve yelkenlerin geriliyor!</Text>
+		</Row>
+		<Row Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_NAME">
+			<Text>Açık Denizlerde Seyir</Text>
+		</Row>
+		<Row Tag="LOC_SWASHBUCKLER_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>Maceraperest Korsan, haritada keşfedilen her 50 hücre için +1 Kötü Şöhret Puanı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_NAME">
+			<Text>Rüzgara Karşı Tramola</Text>
+		</Row>
+		<Row Tag="LOC_SWASHBUCKLER_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>Tüm deniz birimleri, Rüzgara Karşı Tramola atarak bir tur boyunca [ICON_Movement] Hareketlerini iki katına çıkarabilir. Rüzgara Karşı Tramola yeteneğinin yeniden dolması 6 tur sürer.</Text>
+		</Row>
+
+		<!-- Hoarder Text-->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_HOARDER_NAME">
+			<Text>İhtikârcı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_NAME">
+			<Text>İhtikârcı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_DESCRIPTION">
+			<Text>İhtikârcı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_HOARDER_ADJECTIVE">
+			<Text>İhtikârcılar</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_HOARDER_SCENARIO">
+			<Text>Babanın ticareti bankacılıktı, sen de bir nevi bankacısın. Ambarların külçelerin saklandığı bir kasa, diğerleri ise para çekmeye hazır. Şeytan ve Cellat Jack Ketch ikna edilebilir, yeter ki doğru fiyatı ödeyesin.</Text>
+		</Row>
+		<Row Tag="LOC_HOARDER_PASSIVE_ABILITY_NAME">
+			<Text>Benim! Benim! Benim!</Text>
+		</Row>
+		<Row Tag="LOC_HOARDER_PASSIVE_ABILITY_DESCRIPTION">
+			<Text>Birim bakım maliyeti 3 azalır. Hazine gömmek için +10 Hazine Puanı. İhtikârcı, altın rezervleri üzerinden tur başına %3 faiz kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_HOARDER_ACTIVE_ABILITY_NAME">
+			<Text>Zincir Güllesi</Text>
+		</Row>
+		<Row Tag="LOC_HOARDER_ACTIVE_ABILITY_DESCRIPTION">
+			<Text>Serbest eylem olarak, tüm deniz birimleri Zincir Güllesi yeteneğini kullanarak bir birimi bir tur boyunca yerine kilitler. Zincir Güllesi'nin yeniden dolması 5 tur alır.</Text>
+		</Row>
+
+		<!-- Spain Civilization text -->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_SPAIN_NAME">
+			<Text>İspanya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_NAME">
+			<Text>İspanya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_DESCRIPTION">
+			<Text>İspanya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ABILITY_DESCRIPTION">
+			<Text>17. yüzyılda İspanyol İmparatorluğu zirvesindeydi; Aztek ve İnka imparatorluklarının kalıntılarından altın çekiyor, doğuya Filipinler'e kalyonlar gönderiyordu. Habsburg İspanyası zengindi ancak yolsuzluk ve eşitsizlikle boğuşuyordu.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_SPAIN_ADJECTIVE">
+			<Text>İspanyol</Text>
+		</Row>
+		<!-- England Civilization text -->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_ENGLAND_NAME">
+			<Text>İngiltere</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_NAME">
+			<Text>İngiltere</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_DESCRIPTION">
+			<Text>İngiltere</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ABILITY_DESCRIPTION">
+			<Text>İngiliz İç Savaşı'ndan çıkan İngiltere, 17. yüzyılın sonlarında Karayipler ve Kuzey Amerika'da kendi sömürge genişlemesine başlıyordu. Bir yüzyıl içinde Britanya dalgalara hükmedecekti, ancak şimdi kaderi bir kılıcın ucunda duruyor.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_ENGLAND_ADJECTIVE">
+			<Text>İngiliz</Text>
+		</Row>
+		<!-- Netherlands Civilization text -->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_NETHERLANDS_NAME">
+			<Text>Hollanda</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_NAME">
+			<Text>Hollanda</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_DESCRIPTION">
+			<Text>Hollanda</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ABILITY_DESCRIPTION">
+			<Text>17. yüzyıl, Hollanda İmparatorluğu için Altın Çağ'dı: Doğu Hint Adaları ve Japonya ile yapılan ticaretin getirdiği kârlar, anavatandaki zenginlikle birleşiyordu. Ne var ki Karayipler'de sıradan bir güçtüler... ama her fırsatı değerlendirmeye hazır bekliyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_NETHERLANDS_ADJECTIVE">
+			<Text>Hollandalı</Text>
+		</Row>
+		<!-- France Civilization text -->
+		<Row Tag="LOC_LEADER_PIRATES_SCENARIO_FRANCE_NAME">
+			<Text>Fransa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_NAME">
+			<Text>Fransa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_DESCRIPTION">
+			<Text>Fransa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ABILITY_DESCRIPTION">
+			<Text>Mutlak monarşiyle yönetilen Fransa; Quebec ve Afrika'daki zengin toprakları sayesinde 17. yüzyıl sona ererken İngiltere'nin rakibi olmaya hazırlanıyordu. Hollandalı komşularıyla süregelen savaşlar, Fransız ordusunu savaşta sınanmış ve yetkin bir güç haline getirmişti.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_SCENARIO_FRANCE_ADJECTIVE">
+			<Text>Fransız</Text>
+		</Row>
+		
+		<!--HoF Text-->
+		<Row Tag="LOC_HOF_STAT_BUCCANEERS_KILLED">
+			<Text>Öldürülen Korsanlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BUCCANEERS_FORTS">
+			<Text>Yağmalanan Korsan Kaleleri</Text>
+		</Row>
+
+		<Row Tag="LOC_HOF_GRAPH_BUCCANEERS_KILLED">
+			<Text>Öldürülen Korsanlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_BUCCANEERS_FORTS">
+			<Text>Yağmalanan Korsan Kaleleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_RELICS">
+			<Text>Bulunan Kutsal Emanetler</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_NAME">
+			<Text>Sömürge Gücü</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PIRATES_COLONIAL_POWER_DESCRIPTION">
+			<Text>Sömürge güçleri bölgedeki limanları kontrol eder. Korsanlar, bir meyhane ziyareti için limanlara sızabilir ya da büyük bir ganimet için limanı yağmalayabilir. Sömürge güçleri korsanlığı hoş karşılamaz.</Text>
+		</Row>
+
+		<Row Tag="LOC_BLANK_STRING">
+			<Text>Sid Meier's Civilization VI oyununun 'LOC_BLANK_STRING' özelliği için yerelleştirme kodu tanımı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

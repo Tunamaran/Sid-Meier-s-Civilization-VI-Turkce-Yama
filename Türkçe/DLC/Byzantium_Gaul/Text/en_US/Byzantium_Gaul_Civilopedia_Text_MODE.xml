@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Game Concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_CONTENT_TITLE">
+			<Text>Dramatik Çağlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_WELCOME_PARA_1">
+			<Text>Oyun kurulumunda oyuncular Dramatik Çağlar oyun modunu etkinleştirebilir. Çağ Puanı kazanma kuralları değiştirilerek oyuncuların çatışmaya girmesi, Teknolojiler ve Yönetim Bilimlerinde güncel kalması teşvik edilir. [ICON_GLORY_SUPER_GOLDEN_AGE] Kahramanlık Çağları ve Adanmalar kaldırılmıştır; oyuncular yalnızca ilk çağda [ICON_GLORY_NORMAL_AGE] Normal Çağ'da olabilir. Sonrasında ya bir [ICON_GLORY_DARK_AGE] Karanlık Çağ ya da bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ elde ederler; her ikisi de her zamankinden daha güçlüdür. Karanlık Çağlar şehirlerin Özgür Şehirler'e dönüşmesine bile yol açabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_TITLE">
+			<Text>Çağ Puanı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_1">
+			<Text>Oyuncular yalnızca bir [ICON_GLORY_DARK_AGE] Karanlık Çağ veya bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ elde edebilir. Altın Çağ kazanma eşiği, oyuncunun [ICON_Capital] Başkent'ten sonra sahip olduğu her şehir için 3 artar. Ayrıca, bir Altın Çağ kazanmak eşiği 5 artırırken, Karanlık Çağ kazanmak eşiği 10 azaltır. Bu eşikler, oyun çağ değiştirdiğinde hesaplanır ve sabitlenir (mod olmadan geçerli kurallarda olduğu gibi); bu nedenle bir çağ içinde değişen bir hedef için endişelenmeye gerek yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_ERASCORE_PARA_2">
+			<Text>Oyuncular oyun çağı değiştiğinde artık Adanma yapmaz. Adanma etkilerinden Çağ Puanı kazanmak yerine, oyuncular her bir Teknoloji veya Yönetim Bilimi tamamladıklarında 1 Çağ Puanı kazanır. Ayrıca, askerî birliklerinden biri ilk terfisinden sonra her terfi kazandığında da 1 Çağ Puanı kazanırlar. Çağ Puanı ayrıca Tarihi Anlar'dan da kazanılabilir. Adanmalardan gelen oyun içi bonuslar yerine, oyuncular özel ve daha esnek Sosyal Politikalara erişim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_TITLE">
+			<Text>Altın Çağlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_1">
+			<Text>Bir önceki çağda bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ'a ulaşmak için gerekenden fazla Çağ Puanı kazandıysanız, fazlalık, vatandaşlarınızın Altın Çağınız sırasında ek Bağlılık baskısı uygulamasını sağlar. Her 1 Çağ Puanı, vatandaşlarınızın baskısında %5'lik bir artış sağlar. Bu %50'ye ulaştığında hâlâ ek baskı kazanılabilir ancak azalan getiriler söz konusudur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_GOLDENAGES_PARA_2">
+			<Text>Altın Çağlar, Hükümetinizin Joker yuvalarına yerleştirilebilen güçlü Altın Politikalar'a erişim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_TITLE">
+			<Text>Karanlık Çağlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_1">
+			<Text>[ICON_GLORY_DARK_AGE] Karanlık Çağlar, Hükümetinizin Joker yuvalarına yerleştirilebilen Karanlık Politikalara erişim sağlar. Bunlar güçlüdür ancak bir dezavantaj etkisi taşır. Bazı politikalar normal oyundakilerle aynıyken, diğerleri yeniden düzenlenmiş veya tamamen yenidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_DARKAGES_PARA_2">
+			<Text>Bir Karanlık Çağ'a düşmek, en az 1 şehrin anında isyan etmesine neden olur. Bu şehirler Özgür Şehirler'e dönüşür. Yakındaki dost şehirlerden en düşük Bağlılık baskısı alan şehirler en yüksek risk altındadır; bunlar genellikle imparatorluğunuzun kıyısında yer alır. Ancak [ICON_Capital] Başkent'iniz her zaman güvendedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_TITLE">
+			<Text>Özgür Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DRAMATICAGES_CHAPTER_FREECITIES_PARA_1">
+			<Text>Karanlık Çağlardaki imparatorluklardan ortaya çıkan Özgür Şehirlerin sayısı, seçtiğiniz zorluk seviyesine bağlıdır. Ayrıca, Özgür Şehirler artık diğer şehirler ve birbirleri üzerinde Bağlılık baskısı uygulayabilir, bu nedenle çok daha dirençli olabilirler.[NEWLINE][ICON_BULLET]Yerleşimci: %5 İnsan şehri kaybı, %30 Yapay Zeka şehri kaybı. Özgür Şehirlerden 1 kat baskı.[NEWLINE][ICON_BULLET]Kabile Reisi: %10 İnsan şehri kaybı, %30 Yapay Zeka şehri kaybı. Özgür Şehirlerden 2 kat baskı.[NEWLINE][ICON_BULLET]Savaş Beyi: %15 İnsan şehri kaybı, %25 Yapay Zeka şehri kaybı. Özgür Şehirlerden 2,5 kat baskı.[NEWLINE][ICON_BULLET]Prens: %20 İnsan şehri kaybı, %20 Yapay Zeka şehri kaybı. Özgür Şehirlerden 3 kat baskı.[NEWLINE][ICON_BULLET]Kral: %25 İnsan şehri kaybı, %15 Yapay Zeka şehri kaybı. Özgür Şehirlerden 3,5 kat baskı.[NEWLINE][ICON_BULLET]İmparator: %30 İnsan şehri kaybı, %15 Yapay Zeka şehri kaybı. Özgür Şehirlerden 4 kat baskı.[NEWLINE][ICON_BULLET]Ölümsüz: %35 İnsan şehri kaybı, %10 Yapay Zeka şehri kaybı. Özgür Şehirlerden 4,5 kat baskı.[NEWLINE][ICON_BULLET]Tanrı: %40 İnsan şehri kaybı, %10 Yapay Zeka şehri kaybı. Özgür Şehirlerden 5 kat baskı.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_GOLDENAGE_POLICIES_NAME">
+			<Text>Altın Çağ Politikaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_EXODUS_OF_THE_EVANGELISTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük dinleri yayan her inanç, müritlerinin inancı dünyanın dört bir yanına taşımak için yola çıktığı bir döneme tanıklık etmiştir: Hristiyan Havariler, Roma İmparatorluğu'nun sınırlarını aşarak yayılmış; Buda'nın arhatları, dinlerini Hindistan ve ötesine taşımış; İslam ise askerî, diplomatik ve ekonomik başarıların dalgasıyla Güney Asya'dan İspanya'ya kadar uzanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REFORM_THE_COINAGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Paralar sembollerdir – içindeki madenin değerinden daha fazlasını taşır. Yoksa öyle değil mi? Paraları yeniden değerleme çabaları bir imparatorluğu yükseltebilir ya da çöküşe sürükleyebilir – hele bir de askerlerin çoğu zaman parayla ödendiği ve kendilerine gerçek altın yerine altın boyalı kurşun verildiğinde huysuzlanabilecekleri düşünülürse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_HEARTBEAT_OF_STEAM_CHAPTER_HISTORY_PARA_1">
+			<Text>Sanayi Devrimi, emek, teknoloji ve endüstri arasındaki ilişkileri sonsuza dek değiştirdi. Saatler çalışma saatlerini işaretledi, buhar değirmenleri yüzlerce hayvanın ve insanın emeğini üstlendi ve işçiler giderek daha basit, tekrarlayıcı, neredeyse makine benzeri görevler icra etti. Teknoloji, daha önce hiç olmadığı kadar kendi başına bir amaç haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TO_ARMS_CHAPTER_HISTORY_PARA_1">
+			<Text>Milliyetçilik, sanayi çağının tanımlayıcı özelliği haline gelen o “hayali cemaat”, bizden hiç tanımadığımız ve asla tanışmayacağımız insanlarla akrabalık kurmamızı ve kendimizi onların tarihinin bir parçası olarak görmemizi ister. Bayraklar ve sancaklar, marşlar ve askere çağrı afişleri – hepsi askeri soyut bir ideal uğruna savaşmaya ve ölmeye çağırır. Yeterince okuma – boru sesi duyuluyor!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FREE_ENQUIRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bilgi güçtür, diye belirtmişti filozof Michel Foucault; bu nedenle de tehlikelidir. Özgür araştırmaya adanmış toplumlar, açık sorgulamanın verdiği yanıtları kaldıracak kadar güçlü olduklarına dair bir kumar oynarlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONUMENTALITY_CHAPTER_HISTORY_PARA_1">
+			<Text>İmparatorluk başkentleri – Sankt Petersburg, İstanbul, Pekin ve Washington DC gibi şehirler – ziyaretçiye, ulusal tarihin ölçeği karşısında bireyin küçük ve geçici olduğunu hatırlatmak için inşa edilmiştir. Burada anıtsallık, yalnızca yapıların kendisinden ibaret değildir; inşaatın ölçeğinin imparatorluğun enginliğini gösterdiği bir zihin halidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISH_YOU_WERE_HERE_CHAPTER_HISTORY_PARA_1">
+			<Text>Dini hacıları, akıncı seferlerini ve tüccar heyetlerini aynı kategoride değerlendirecek olursak, turizmin toplumlarda her zaman bir yeri olmuştur. Ancak 1800'lerde organize turizm endüstrisinin ortaya çıkışı, keyif için yurt dışına çıkmanın (ve ev hasreti çekmenin) anlamını kökten değiştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SKY_AND_STARS_CHAPTER_HISTORY_PARA_1">
+			<Text>Ordular her zaman yüksek zemini ele geçirmek için savaşmıştır; ancak 20. yüzyıldaki havacılıkla birlikte bu ufuk, hava meydanlarını ve nihayetinde roket fırlatma rampalarını (insanları aya götürebilecek ve düşman başkentlerine savaş başlığı atabilecek roketleri) kapsayacak şekilde genişledi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MANDALA_STATE_CHAPTER_HISTORY_PARA_1">
+			<Text>Orta Çağ Güney ve Güneydoğu Asya'sında devlet yönetimi, genellikle bir merkezin kültürel prestijini yönetmekle ilgiliydi. Burada savaşlar şiddet alanından ziyade gösteri alanında yapılırdı; en dramatik ve masraflı gösteriyi düzenleyebilen kral veya kraliçe, sınır şehirlerini kendi safına çekebilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIAN_GUARD_CHAPTER_HISTORY_PARA_1">
+			<Text>Geç Batı Roma İmparatorluğu'nda, eskiden imparatorun kişisel muhafızı olan Praetorian Muhafızları, siyasi ve toplumsal yaşamın örgütlenmesinde orduyu da içeren, siyasi açıdan aktif bir güç haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAKDINA_CHAPTER_HISTORY_PARA_1">
+			<Text>Sakdina – Tayland Orta Çağ yaşamındaki feodal sistem – her bireyi karşılıklı yükümlülükler içeren hiyerarşik bir sisteme yerleştiriyordu. Alt kademedekiler, üst kademedekilerden yardım isteyebiliyordu ve üst kademedekiler (makul ölçülerde) bu yardımı vermekle yükümlüydü; böylece toplumun tüm katmanları birbirine bağlı ve birbirine karşı sorumluydu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CULTURE_INDUSTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>Theodor Adorno'nun kitle eğlencesine yönelik eleştirisi, sanatı yüce bir ifade arayışına indirgemekten ziyade kitlesel çekiciliğine indirgemesiydi. Adorno'nun sığ olduğunu iddia edebileceği kültür endüstrisi, tüm vatandaşları kültürel yaşama daha önce hiç olmadığı kadar katılıma davet ediyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_POPULAR_FRONT_CHAPTER_HISTORY_PARA_1">
+			<Text>Soğuk Savaş sırasında her iki taraf da müttefiklerini ideolojik olarak kendine yaklaştırmaya çalışıyordu. Doğu Almanya ve Vietnam gibi devletler SSCB ile ittifaklarına daha fazla bağlanmaya zorlanırken (karşı tarafta Endonezya ve Pakistan'ın ABD ile yaptığı gibi), genellikle tek bir blok halinde oy kullanan siyasi bloklar oluşuyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_INDUSTRIAL_COMPLEX_CHAPTER_HISTORY_PARA_1">
+			<Text>ABD Başkanı Dwight Eisenhower, “Askeri-Endüstriyel Kompleks” terimini özel sektör ile ordu arasındaki sıkı bağları tanımlamak için kullanmıştı. Bu kavram yalnızca ABD'ye özgü değildi ve burada ağır sanayi ile silahlanma yarışı arasındaki bu yakın bağlantılara atıfta bulunmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOLDARITY_CHAPTER_HISTORY_PARA_1">
+			<Text>Soğuk Savaş sırasında devletler, komşularına çeşitli yollarla ideolojik baskı uyguluyordu. Sınır ötesi propaganda yayınları, broşür dağıtımları, gizli ideolojik hücreler ve tabii ki Doğu Avrupa'ya akan saç metal ve kot pantolon seli akla geliyor. Bu “yumuşak güç” gösterileri genellikle en üst düzeylerde organize edilip kolaylaştırılıyordu ve Berlin Duvarı ile Sovyetler Birliği'nin nihai çöküşü üzerinde muazzam bir etkiye sahipti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SOFT_TARGETS_CHAPTER_HISTORY_PARA_1">
+			<Text>Disiplinli bir ordu – ayrım gözetmeksizin yağma ve talan yapmayan bir ordu – iyi işleyen bir toplumun alametifarikasıdır. Ancak Karanlık Çağ'da standartlar düşebilir. Yumuşak, sivil hedefleri tercih eden ve yağmayı bireysel askerin maaşının bir parçası olarak gören bir orduda, askerler askeri stratejik hedefler yerine kolayca taşınabilir ganimetlerin peşine düşebilir. Bu tür davranışlar şehirlere ve sivillere verilen hasarı artırabilir, ancak savaştaki etkinliği azaltabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SAMODERZHAVIYE_CHAPTER_HISTORY_PARA_1">
+			<Text>Samoderzhaviye – otokrasi – Çarlık Rusyası muhafazakâr düşüncesinin temel direklerinden biriydi. Diğer güçler iktidarı danışmanlar arasında dağıtmayı veya halk yönetimini denerken, samoderzhaviye felsefesi altında çarın söylediği kanundu. Ve eğer çar tembel, beceriksiz veya bilgisizse, bu bir zaafiyetti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DESPOTIC_PATERNALISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Thak Chaloemtirana, Soğuk Savaş dönemi Güneydoğu Asya'sını, iktidarın yerel düzeydeki güçlü adamlara yatırıldığı, bağımsız düşünce ve eylemin kısıtlandığı belirli bir tür “despotik paternalizm”in yurdu olarak tanımlar. Endonezya'da Suharto veya Tayland'da Sarit gibi isimler akla gelir. Böyle bir sistem özgür araştırmayı engeller ancak bu tür despotik paternalistlerin sert eylemleri muhalif sesleri kontrol altına alır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DECENTRALIZATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Toplumsal çöküş karşısında (örneğin bir Karanlık Çağ'da) bazı uygarlıklar merkezden sert yönetime yönelirken, diğerleri çevre birimlerin giderek daha fazla özerklik kazanmasına izin vermiştir – Bizans İmparatorluğu'nun gerilemesiyle Konstantinopolis nüfusunun daha küçük kasaba ve çiftliklere nasıl boşaldığını düşünün. Bu şekilde merkez, en azından işler düzelene kadar vatandaşların gönlünü ve aklını kazanmak için son bir çaba olarak çevreyi ağır bir şekilde sübvanse eder.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Pamukkale Doğa Harikası'nın komşuluğundan gelen Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_FAITH">
+			<Text>+{1_num} [ICON_FAITH] Pamukkale Doğa Harikası'nın komşuluğundan gelen İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_GOLD">
+			<Text>+{1_num} [ICON_GOLD] Pamukkale Doğa Harikası'nın komşuluğundan gelen Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Pamukkale Doğa Harikası'nın komşuluğundan gelen Bilim.</Text>
+		</Row>
+		<!-- Floodplains -->
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_DESERT_NAME">
+			<Text>Çöl Taşkın Yatağı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_GRASSLAND_NAME">
+			<Text>Otlak Taşkın Yatağı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_PLAINS_NAME">
+			<Text>Ova Taşkın Yatağı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_DESERT_DESCRIPTION">
+			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve daha önce taşkına uğrayarak sıradan bir Çöl bölgesine kıyasla daha fazla [ICON_Food] Besin üretimi sağlar. Nehir tekrar taşarsa, bu bölge üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_GRASSLAND_DESCRIPTION">
+			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve henüz taşkına uğramamıştır; bu nedenle oyuna, düz bir Otlak bölgesiyle aynı getirilerle başlar. Nehir tekrar taşarsa, bu bölge üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_PLAINS_DESCRIPTION">
+			<Text>Bu alçak alan, bir Nehrin kıyısında yer alır ve henüz taşkına uğramamıştır; bu nedenle oyuna, düz bir Ova bölgesiyle aynı getirilerle başlar. Nehir tekrar taşarsa, bu bölge üzerine inşa edilen yapılar hasar görebilir veya yok olabilir; ancak bölgenin ek getiriler kazanma olasılığı da yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_FLOOD_WARNING_ICON_TOOLTIP">
+			<Text>Bu konum taşkınlara karşı hassastır.</Text>
+		</Row>
+		<!--Volcanoes/Geothermal-->
+		<Row Tag="LOC_FEATURE_VOLCANO_NAME">
+			<Text>Yanardağ</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VOLCANO_DESCRIPTION">
+			<Text>Bu dağ bölgesi, muhtemelen iki kıta arasındaki bir sınırın yakınında yer alır; oyuna sönmüş bir volkan olarak başlar ancak oyun ilerledikçe aktif hale gelebilir. Aktif hale geldiğinde dikkatli olun; her an bir patlama meydana gelebilir. Volkanik patlamalar, komşu bölgelerdeki özelliklere ve yapılara hasar verir; ancak aynı zamanda o bölgedeki getirileri artıran volkanik toprak bırakabilir.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GEOTHERMAL_FISSURE_NAME">
+			<Text>Jeotermal Çatlak</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GEOTHERMAL_FISSURE_DESCRIPTION">
+			<Text>Bu bölgedeki zemin, muhtemelen iki kıta arasındaki bir sınırın yakınında olup, yeraltı jeotermal faaliyetleri tarafından yarılmıştır. Burada ısınmış su ve buhar yerden çıkar; bu durum, Su Kemeri, Roma Hamamı ve Macar Termal Hamamı gibi yapıların yakına inşa edilmesi için idealdir.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VOLCANIC_SOIL_NAME">
+			<Text>Volkanik Toprak</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VOLCANIC_SOIL_DESCRIPTION">
+			<Text>Bir yanardağın komşuluğundaki bu arazi, önceki bir patlamadan zarar görmüştür. İnsanlar ve yapılar hasar görmüş olsa da, yanardağın ortaya çıkardığı zengin mineral birikintileri muhtemelen buradaki getirileri artırmıştır. Bu nedenle, özellikle yanardağ sönmeye başlarsa bu alanı yeniden inşa etmek faydalı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_VOLCANO_WARNING_ICON_TOOLTIP">
+			<Text>Bu konum, yakındaki bir yanardağın patlamasından etkilenebilir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

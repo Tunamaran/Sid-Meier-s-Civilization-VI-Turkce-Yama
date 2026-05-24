@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DISTRICT_CITY_CENTER_DESCRIPTION">
+			<Text>Burası Şehir Merkezi'dir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Bilimsel çalışmalar için şehrinde inşa edilen bir bölgedir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAMPUS_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her komşu Dağ için Standart [ICON_Science] Bilim bonusu. Komşu bölge alanları ve Yağmur Ormanı alanları için Küçük [ICON_Science] Bilim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Dinî ibadetler için şehrinde inşa edilen bir bölgedir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Komşu doğa harikaları için Büyük [ICON_Faith] İnanç bonusu. Her komşu Dağ alanı için Standart [ICON_Faith] İnanç bonusu. Komşu bölge alanları ve iyileştirilmemiş Orman alanları için Küçük [ICON_Faith] İnanç bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Askerî tesisler için şehrinde inşa edilen bir bölgedir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>Halkının mutluluğunu artırmak suretiyle [ICON_Amenities] Olanaklar sağlamaya adanmış bir bölgedir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Kültürel yapılar için şehrinde inşa edilen bir bölgedir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_THEATER_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her komşu harika için Standart [ICON_Culture] Kültür bonusu. Komşu bölge alanları için Küçük [ICON_Culture] Kültür bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Şehrinde denizcilik faaliyetleri için bir bölgedir. Ayrıca bu alana çıkarma ve bu alandan denize açılma [ICON_Movement] Hareket cezasını kaldırır. Kıyı veya Göl arazisinde, karaya komşu olacak şekilde inşa edilmelidir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her komşu Şehir Merkezi için Büyük [ICON_Gold] Altın bonusu. Her komşu kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Komşu bölge alanları için Küçük [ICON_Gold] Altın bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NEIGHBORHOOD_DESCRIPTION">
+			<Text>Şehrinde, alanın Çekicilik değerine göre Konut sağlayan bir bölgedir:[NEWLINE]Nefes kesici: +6 [ICON_Housing] Konut.[NEWLINE]Büyüleyici: +5 [ICON_Housing] Konut.[NEWLINE]Ortalama: +4 [ICON_Housing] Konut.[NEWLINE]Çekici değil: +3 [ICON_Housing] Konut.[NEWLINE]İtici: +2 [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Sanayi faaliyetleri için şehrinde inşa edilen bir bölgedir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her komşu Maden Ocağı veya Taş Ocağı için Standart [ICON_Production] Üretim bonusu. Komşu bölge alanları için Küçük [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Finans ve ticarette uzmanlaşmış bir bölgedir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Liman bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her komşu Liman bölgesi veya Nehir içeren alan kenarı için Büyük [ICON_Gold] Altın bonusu. Komşu bölge alanları için Küçük [ICON_Gold] Altın bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+			<Text>Bu şehre komşu bir Nehir, Göl, Vaha veya Dağ'dan tatlı su sağlayan bir bölgedir. Halihazırda tatlı suyu olmayan şehirler 6 [ICON_Housing] Konut kazanır. Halihazırda tatlı suyu olan şehirler ise bunun yerine +2 [ICON_Housing] Konut kazanır. Şehir Merkezi'ne bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AERODROME_DESCRIPTION">
+			<Text>Uçak inşa etmeye ve depolamaya olanak tanıyan bir bölgedir. Tepelere inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION">
+			<Text>Bilim Zaferi projelerini inşa etmek için gerekli olan bölgedir. Bu projeler: Dünya Uydusu Fırlatma, Ay'a İniş, Mars Kolonisi İskânı, Mars Kolonisi Hidroponiği ve Mars Kolonisi Reaktörü. Tepelere inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
+			<Text>Yunanistan'a özgü, kültürel yapılar için bir bölgedir. Tiyatro Meydanı bölgesinin yerini alır ve inşası daha ucuzdur. Tamamlandığında 1 [ICON_Envoy] Elçi kazandırır.[NEWLINE][NEWLINE]Komşu Şehir Merkezi için +1 [ICON_Culture] Kültür bonusu. Her komşu harika ve bölge için +1 [ICON_Culture] Kültür bonusu. Yalnızca Tepelere inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Yakındaki Şehir Merkezi için Standart [ICON_Culture] Kültür bonusu. Yakındaki her harika ve bölge için Standart [ICON_Culture] Kültür bonusu. Yalnızca Tepelere inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BATH_DESCRIPTION">
+			<Text>Roma'ya özgü, şehir büyümesini sağlayan bir bölge. Su Kemeri bölgesinin yerini alır ve inşası daha ucuzdur.[NEWLINE][NEWLINE]Bu şehre, yakındaki bir Nehir, Göl, Vaha veya Dağ'dan tatlı su kaynağı sağlar. Halihazırda tatlı suyu olmayan şehirler 6 [ICON_Housing] Konut kazanır. Halihazırda tatlı suyu olan şehirler ise bunun yerine +2 [ICON_Housing] Konut kazanır. Şehir Merkezi'ne bitişik inşa edilmelidir. Her iki durumda da Hamam, ek olarak +2 [ICON_Housing] Konut ve +1 [ICON_Amenities] Olanak sağlar. Şehir Merkezi'ne bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION">
+			<Text>Almanya'ya özgü, endüstriyel faaliyetler için bir bölge. Sanayi Bölgesi'nin yerini alır ve inşası daha ucuzdur.[NEWLINE][NEWLINE]Bir Ticaret Merkezi bölgesine bitişikse +2 [ICON_Production] Üretim bonusu. Yakındaki her kaynak için +1 [ICON_Production] Üretim bonusu. Bitişik her iki bölge alanı için +1 [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Bir Ticaret Merkezi bölgesine bitişikse Büyük [ICON_Production] Üretim bonusu. Yakındaki her kaynak için Standart [ICON_Production] Üretim bonusu. Bitişik bölge alanları için Küçük [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
+			<Text>Rusya'ya özgü, dini faaliyetler için bir bölge. Kutsal Alan bölgesinin yerini alır ve inşası daha ucuzdur.[NEWLINE][NEWLINE]Bu şehirde bir Büyük Kişi harcandığında şehir sınırınız bir alan genişler. Lavra, bir Mabet ile tur başına +1 [ICON_GreatWriter] Büyük Yazar puanı, bir Tapınak ile tur başına +1 [ICON_GreatArtist] Büyük Sanatçı puanı ve bir İbadet Yapısı ile tur başına +1 [ICON_GreatMusician] Büyük Müzisyen puanı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
+			<Text>Kongo'ya özgü, yalnızca Yağmur Ormanı veya Koruluk'ta inşa edilebilen bir bölge. Mahalle bölgesinin yerini alır ancak daha erken kullanılabilir ve inşası daha ucuzdur. Çekicilikten bağımsız olarak +5 [ICON_Housing] Konut, +2 [ICON_Food] Besin ve +4 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Brezilya'ya özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır, +2 [ICON_Amenities] Olanak sağlar ve inşası daha ucuzdur. Ayrıca Karnaval projesini açar; bu proje devam ederken ek +1 [ICON_Amenities] Olanak ve tamamlandığında çeşitli [ICON_GreatPerson] Büyük Kişi puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION">
+			<Text>İngiltere'ye özgü, şehrinizdeki deniz faaliyetleri için bir bölge. Liman bölgesinin yerini alır ve inşası daha ucuzdur. Ayrıca bu alana çıkarma ve bu alandan denize açılma [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl Arazisi üzerine inşa edilmelidir.[NEWLINE][NEWLINE]Tersane'de inşa edilen tüm deniz birimleri için +1 [ICON_Movement] Hareket[NEWLINE]Yabancı bir kıtada inşa edildiğinde +2 [ICON_Gold] Altın[NEWLINE]+1 [ICON_TradeRoute] Ticaret Yolu kapasitesi.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Yakındaki her Şehir Merkezi için Büyük [ICON_Gold] Altın bonusu. Yakındaki her kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Bitişik bölge alanları için Küçük [ICON_Gold] Altın bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REQUIRE_DISTRICT_Adjacency">
+			<Text>Mevcut bir bölgeye veya Şehir Merkezi'ne bitişik olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REQUIRE_NOT_ADJACENT_TO_CITY">
+			<Text>Bir Şehir Merkezi'ne bitişik olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE1">
+			<Text>+{1_num} [ICON_Science] Yakındaki Dağ {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE2">
+			<Text>+{1_num} [ICON_Science] Yakındaki Dağ {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE3">
+			<Text>+{1_num} [ICON_Science] Yakındaki Dağ {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE4">
+			<Text>+{1_num} [ICON_Science] Yakındaki Dağ {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE5">
+			<Text>+{1_num} [ICON_Science] Yakındaki Dağ {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FARM">
+			<Text>+{1_num} [ICON_Science] Yakındaki Çiftlik {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PLANTATION">
+			<Text>+{1_num} [ICON_Science] Yakındaki Plantasyon {1_Num : plural 1?alanından; other?alanlarından;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Yakındaki Yağmur Ormanı alanlarından Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Yakındaki doğa harikası Büyük Set Resifi'nden Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_GOLD">
+			<Text>+{1_num} [ICON_Gold] Bitişikteki Yağmur Ormanı {1_Num : plural 1?bölgesinden; other?bölgelerinden;} Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Yağmur Ormanı {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Bitişikteki Yağmur Ormanı {1_Num : plural 1?bölgesinden; other?bölgelerinden;} Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_2_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Bitişikteki Yağmur Ormanı {1_Num : plural 1?bölgesinden; other?bölgelerinden;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Bitişikteki {1_Num : plural 1?bölgeden; other?bölgelerden;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Bitişikteki {1_Num : plural 1?bölgeden; other?bölgelerden;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki {1_Num : plural 1?Doğa Harikasından; other?Doğa Harikalarından;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH1">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Dağ {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH2">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Dağ {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH3">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Dağ {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH4">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Dağ {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_FAITH5">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Dağ {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Orman bölgesi(lerinden) İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki bölgelerden İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki bölgeden İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_TUNDRA_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Tundra {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Çöl {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_JUNGLE_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Yağmur Ormanı {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_STAVE_CHURCH_FOREST_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bitişikteki Orman {1_Num : plural 1?bölgesinden; other?bölgelerinden;} İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_GOLD">
+			<Text>+{1_num} [ICON_Gold] Bitişikteki Nehir'den Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_GOLD">
+			<Text>Komşu Liman Bölgesi kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_GOLD">
+			<Text>Komşu Kraliyet Donanma Tersanesi Bölgesi kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_GOLD">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CITY_CENTER_GOLD">
+			<Text>Komşu Şehir Merkezi Bölgesi kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
+			<Text>Komşu deniz {1_Num : plural 1?kaynak; other?kaynaklar;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WONDER_CULTURE">
+			<Text>Komşu {1_Num : plural 1?harika; other?harikalar;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
+			<Text>Komşu Şehir Merkezi kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_PRODUCTION">
+			<Text>Komşu {1_Num : plural 1?Maden Ocağı; other?Maden Ocakları;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_QUARRY_PRODUCTION">
+			<Text>Komşu {1_Num : plural 1?Taş Ocağı; other?Taş Ocakları;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
+			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
+			<Text>Komşu Ticaret Merkezi Bölgesi kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RESOURCE_PRODUCTION">
+			<Text>Komşu {1_Num : plural 1?kaynak; other?kaynaklar;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_SCIENCE">
+			<Text>Bölgenin Çekiciliğinden gelen +{1_num} [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_CULTURE">
+			<Text>Bölgenin Çekiciliğinden gelen +{1_num} [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
+			<Text>Bölgenin Çekiciliğinden gelen +{1_num} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_GOLD">
+			<Text>+{1_num} [ICON_Gold] Bölgenin çekiciliğinden kazanılan Altın.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_APPEAL_FAITH">
+			<Text>+{1_num} [ICON_Faith] Bölgenin çekiciliğinden elde edilen İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_IMPROVEMENT">
+			<Text>[COLOR_RED]Bu iyileştirme, bölge inşa edilirken kaldırılacaktır. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_FEATURE_TECH">
+			<Text>[COLOR_RED]Bu bölgeyi inşa etmek için {2_FeatureName}'i kaldırmak gerekiyor; bunun için {1_TechName} teknolojisine ihtiyaç vardır. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OK_REMOVE_FEATURE">
+			<Text>[COLOR_RED]Buraya bölge yerleştirmek {1_FeatureName}'i ortadan kaldıracaktır. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BLOCKED_HARVEST_TECH">
+			<Text>[COLOR_RED]Buraya bölge inşa edebilmek için {2_ResourceName}'i kaldırmak adına {1_TechName} teknolojisine ihtiyaç vardır. [ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OK_HARVEST_RESOURCE">
+			<Text>[COLOR_RED]Buraya bölge yerleştirmek {1_ResourceName}'i kaldıracaktır. [ENDCOLOR]</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Policy Names -->
+		<Row Tag="LOC_POLICY_AUTOCRACY_NAME">
+			<Text>Otokratik Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_OLIGARCHY_NAME">
+			<Text>Oligarşik Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
+			<Text>Cumhuriyetçi Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONARCHY_NAME">
+			<Text>Monarşik Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THEOCRACY_NAME">
+			<Text>Teokratik Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
+			<Text>Tüccar Cumhuriyeti Mirası</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FASCISM_NAME">
+			<Text>Faşist Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMUNISM_NAME">
+			<Text>Komünist Miras</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEMOCRACY_NAME">
+			<Text>Demokratik Miras</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
+			<Text>Harekat Sonrası Raporları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
+			<Text>Tüm birlikler %25 daha fazla muharebe tecrübesi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Ticaret Yollarınızın bir Müttefik şehrine uzanan güzergâhları, her iki şehre de +4 [ICON_Food] Besin ve +4 [ICON_Production] Üretim sağlar. Tüm müttefiklerle olan İttifak Puanları tur başına 0,25 artar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
+			<Text>Sivil Prestij</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
+			<Text>En az 2 Terfiye sahip [ICON_GOVERNOR] Valiler, bulundukları şehre +1 [ICON_Amenities] Olanak ve +2 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+			<Text>Asıl [ICON_Capital] Başkentinizin bulunduğu kıtada olmayan şehirlerde %15 daha hızlı büyüme ve tur başına 3 Bağlılık.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+			<Text>Asıl [ICON_Capital] Başkentinizin bulunduğu kıtada olmayan şehirlerde %25 [ICON_Gold] Altın ve %10 [ICON_PRODUCTION] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
+			<Text>İletişim Ofisi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
+			<Text>[ICON_Governor] Valiler, sahip oldukları her Terfi başına bulundukları şehre tur başına +1 Bağlılık sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+			<Text>Ticaret Merkezlerindeki binalardan fazladan [ICON_Gold] Altın: Şehir [ICON_CITIZEN] nüfusu 10 veya daha yüksekse %50, bölge en az +4 komşuluk bonusuna sahipse %50.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+			<Text>Tiyatro Meydanlarındaki binalardan fazladan [ICON_Culture] Kültür: Şehir [ICON_CITIZEN] nüfusu 10 veya daha yüksekse %50, bölge en az +3 komşuluk bonusuna sahipse %50.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMITANEI_NAME">
+			<Text>Limitanei</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
+			<Text>Garnizon birliği bulunan şehirlerde tur başına +2 Bağlılık.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+			<Text>Normalden %25 daha az Savaş Yorgunluğu biriktirilir. Garnizon birliği bulunan şehirlerde tur başına +2 Bağlılık.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+			<Text>Düşman Casuslarının seviyesi topraklarınızda 2 azalır. Ancak tüm şehirler tur başına -2 Bağlılık çeker.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRAETORIUM_NAME">
+			<Text>Praetorium</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
+			<Text>[ICON_Governor] Valiler, şehirlerine tur başına +2 Bağlılık sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+			<Text>Kampüslerdeki binalardan ekstra [ICON_Science] Bilim: şehir [ICON_CITIZEN] nüfusu 10 veya daha yüksekse +%50, bölge en az +3 komşuluk bonusuna sahipse +%50.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
+			<Text>İkinci Vuruş Kabiliyeti</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
+			<Text>Nükleer Cihaz bakım maliyeti tur başına %50 [ICON_Gold] Altın azalır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+			<Text>Kutsal Alanlardaki binalardan ekstra [ICON_Faith] İnanç: şehir [ICON_CITIZEN] nüfusu 10 veya daha yüksekse +%50, bölge en az +3 komşuluk bonusuna sahipse +%50.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WISSELBANKEN_NAME">
+			<Text>Wisselbanken</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Bir müttefikin şehrine yapılan Ticaret Yollarınız, her iki şehir için de +2 [ICON_Food] Besin ve +2 [ICON_Production] Üretim sağlar. Tüm müttefiklerle İttifak Puanları tur başına ilave 0,25 artar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONASTICISM_NAME">
+			<Text>Manastırcılık</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
+			<Text>Alacakaranlık Cesareti</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INQUISITION_NAME">
+			<Text>Engizisyon</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ISOLATIONISM_NAME">
+			<Text>Yalnızcılık</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
+			<Text>Marka Mektupları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROBBER_BARONS_NAME">
+			<Text>Soyguncu Baronlar</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ELITE_FORCES_NAME">
+			<Text>Seçkin Birlikler</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVISM_NAME">
+			<Text>Kolektivizm</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROGUE_STATE_NAME">
+			<Text>Haydut Devlet</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
+			<Text>Kutsal Alana sahip şehirlerde %75 [ICON_Science] Bilim.[NEWLINE]ANCAK: Tüm şehirlerde %25 [ICON_Culture] Kültür azalması.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
+			<Text>Tüm yakın dövüş saldırı birliklerine +5 [ICON_Strength] Muharebe Gücü.[NEWLINE]ANCAK: Kendi bölgeniz dışında iyileşemezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
+			<Text>1 Havari hakkıyla Engizisyon başlatın. Tüm Dinî birlikler dost bölgede +15 [ICON_Religion] Dinî Muharebe Gücü kazanır.[NEWLINE]ANCAK: Tüm şehirlerde %25 [ICON_Science] Bilim azalması.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
+			<Text>Yurt içi rotalar +2 [ICON_Food] Besin, +2 [ICON_Production] Üretim sağlar.[NEWLINE]ANCAK: Yerleşimci eğitilemez veya satın alınamaz, yeni şehirler kurulamaz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
+			<Text>Deniz Akıncıları: %100 [ICON_Production] Üretim, +2 [ICON_Movement] Hareket. Ticaret Yollarını yağmalamadan elde edilen Getiriler iki katına çıkar.[NEWLINE]ANCAK: [ICON_TradeRoute] Ticaret Yolu getirileri %50 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
+			<Text>Borsaya sahip şehirlerde %50 [ICON_Gold] Altın. Fabrikaya sahip şehirlerde %25 [ICON_Production] Üretim.[NEWLINE]ANCAK: Tüm şehirlerde -2 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
+			<Text>Tüm birlikler için %100 savaş tecrübesi.[NEWLINE]ANCAK: Her muharebe ve casus birliği için bakım maliyeti +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
+			<Text>Çiftlikler +1 [ICON_Food] Besin. Tüm şehirler +2 [ICON_Housing] Konut. Sanayi Bölgesi komşuluk bonusları %100 artar.[NEWLINE]ANCAK: [ICON_GreatPerson] Büyük Kişi Puanları %50 daha yavaş kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
+			<Text>Nükleer program projeleri ve Nükleer Cihazlara %50 [ICON_Production] Üretim.[NEWLINE]ANCAK: Yeni [ICON_Envoy] Elçilere yönelik etki kazanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
+			<Text>Yağmalama ve kıyı baskınlarından elde edilen getiriler %100 artar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Yağmalama ve kıyı baskınlarından elde edilen getiriler %50 artar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
+			<Text>Askerî Akademiler, Limanlar ve Rönesans Surları +2 [ICON_Science] Bilim üretir.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
+			<Text>Bir Çiftliği Mahalle bölgesiyle değiştirirken bölgenin Çekiciliği başına 100 [ICON_Gold] Altın kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
+			<Text>Tüm [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_Production] Üretim ve +5 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+			<Text>Yağmalama ve kıyı baskınlarından elde edilen getiriler %100 artar. [ICON_TradeRoute] Ticaret Yollarını yağmalamadan elde edilen ödüller %50 artar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Yağmalama, kıyı baskınları ve [ICON_TradeRoute] Ticaret Yollarını yağmalamadan elde edilen getiriler %50 artar.</Text>
+		</Row>
+		<!-- Updated from base game -->
+		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+			<Text>Üç özdeş birliğin bir Ordu veya Armada oluşturmasına olanak tanır. Savaşları meşrulaştırmak için kullanılabilecek yeni bir Savaş Gerekçesi sağlar: Toprak Genişletme Savaşı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

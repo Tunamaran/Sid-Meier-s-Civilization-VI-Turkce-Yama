@@ -1,0 +1,128 @@
+<GameData>
+	<EnglishText>
+		<!--Indonesia-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GITARJA">
+			<Text>Cesur Gitarja, on bin adanın kraliçesi; Endonezya'nın denizleri en büyük gücündür. Üç Dünyanın Yüce Tanrıçası olarak, ilahi nüfuzunu güneşin değdiği tüm sulara yayacaksın. Sadık donanmana güven, yiğit kraliçe! Endonezya sahillerine fitne getirenlerin üzerine korkunç bir fırtına kopar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDONESIA_NAME">
+			<Text>Endonezya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
+			<Text>Endonezya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Kampung</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
+			<Text>İşçi'nin Kampung inşa etme yeteneğini açar, Endonezya'ya özgüdür.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Üretim ve +1 [ICON_Housing] Konut. Yakınındaki her Balıkçı Teknesi için +1 [ICON_FOOD] Besin. Teknoloji ve Yönetim Bilimleri Ağacı'nda ilerledikçe ek [ICON_PRODUCTION] Üretim, [ICON_Housing] Konut ve [ICON_TOURISM] Turizm. Deniz kaynağına bitişik bir Kıyı veya Göl bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GITARJA_NAME">
+			<Text>Gitarja</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME">
+			<Text>Endonezya'ya özgü iyileştirme: Kampung</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
+			<Text>Büyük Nusantara</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+			<Text>Kıyı ve Göl bölgeleri, Kutsal Alan, Kampüs, Sanayi Bölgesi ve Tiyatro Meydanı bölgeleri için küçük bir komşuluk bonusu sağlar. Kıyı veya Göl bölgesine bitişik her Eğlence Kompleksi için eğlenceden +1 [ICON_AMENITIES] Olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Endonezya'ya özgü birim: Jong</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
+			<Text>Üç Dünyanın Yüce Tanrıçası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
+			<Text>Donanma birimleri [ICON_FAITH] İnanç ile satın alınabilir. Dinî birimler gemiye binmek veya inmek için hareket harcamaz. Kıyı veya Göl bölgelerine bitişik Şehir Merkezlerine +2[ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
+			<Text>Jong</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
+			<Text>Fırkateyn'in yerini alan, Endonezya'ya özgü Orta Çağ donanma birimi. Düzen halindeki tüm birimler, refakatçinin [ICON_Movement] Hareket hızını ve +5 [ICON_Strength] Muharebe Gücü'nü miras alır.</Text>
+		</Row>
+		<!--Khmer-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN">
+			<Text>Bilge Yedinci Jayavarman, Kmerler senin onların refahına olan adanmışlığına hayrandır. Toprağın tatlı sularına hakimiyetin, aç halkını beslemeni sağlar, tıpkı seni cennete her an biraz daha yaklaştırdığı gibi. İlerle, ilahi mimar! Mükemmelliğe yaklaşan bir imparatorluk inşa et; düşmanların, kudretli savaş fillerinin altında sonlarını bulsun.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_NAME">
+			<Text>Prasat</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
+			<Text>Kmerlere özgü bir bina. Tapınak'ın yerini alır. Havarileri ve Engizisyoncuları [ICON_Faith] İnanç ile satın almak için gereklidir. Bu şehirden satın alınan Misyonerler, Teolojik Muharebe'de öldüklerinde bir [ICON_GreatWork_Relic] Kutsal Emanet kazandıran Şehit yeteneğini kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION1_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] İnanç. Kmerlere özgü bir bina. Tapınak'ın yerini alır. Havarileri ve Engizisyoncuları [ICON_Faith] İnanç ile satın almak için gereklidir. Bu şehirdeki her [ICON_CITIZEN] nüfus başına +0.5 [ICON_Culture] Kültür. Uçuş araştırıldığında, şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse +10 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 20 veya daha yüksekse +20 [ICON_Tourism] Turizm kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION2_DESCRIPTION">
+			<Text>+6 [ICON_FAITH] İnanç. Kmerlere özgü bir bina. Tapınak'ın yerini alır. Havarileri ve Engizisyoncuları [ICON_Faith] İnanç ile satın almak için gereklidir. Bu şehirdeki her [ICON_CITIZEN] nüfus başına +0.5 [ICON_Culture] Kültür. Uçuş araştırıldığında, şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse +10 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 20 veya daha yüksekse +20 [ICON_Tourism] Turizm kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KHMER_NAME">
+			<Text>Kmer</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
+			<Text>Kmer İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JAYAVARMAN_NAME">
+			<Text>Jayavarman VII</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
+			<Text>Kmer eşsiz binası: Prasat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
+			<Text>Büyük Baraylar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
+			<Text>Su Kemerine sahip her şehir, eğlenceden +3 [ICON_FAITH] İnanç ve +1 [ICON_AMENITIES] Olanak kazanır. Çiftlikler, bir Su Kemerine bitişikse +2 [ICON_FOOD] Besin sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION1_DESCRIPTION">
+			<Text>Su Kemerine sahip şehirler, eğlenceden +1 [ICON_AMENITIES] Olanak ve her [ICON_CITIZEN] nüfus için +1 [ICON_FAITH] İnanç kazanır. Çiftlikler, bir Su Kemerine bitişikse +2 [ICON_FOOD] Besin ve bir Kutsal Alana bitişikse +1 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION">
+			<Text>Su Kemerine sahip şehirler, eğlenceden +1 [ICON_AMENITIES] Olanak ve her [ICON_CITIZEN] nüfus için +1 [ICON_FAITH] İnanç kazanır. Çiftlikler, bir Su Kemerine bitişikse +2 [ICON_FOOD] Besin ve bir Kutsal Alana bitişikse +1 [ICON_FAITH] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
+			<Text>Kmer eşsiz birimi: Domrey</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME">
+			<Text>Kralın Manastırları</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION">
+			<Text>Kutsal Alanlar, bir nehir üzerine inşa edilmişlerse +2 [ICON_FOOD] Besin ve +1 [ICON_HOUSING] Konut sağlar. Kutsal Alanlar bir Kültür Bombası tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
+			<Text>Kutsal Alanlar, Nehirlerle Büyük bir Komşuluk Bonusu, bir Kültür Bombası, komşuluk bonusuna eşit miktarda [ICON_FOOD] Besin ve eğer bir Nehir üzerindeyse +2 [ICON_HOUSING] Konut kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
+			<Text>Kutsal Alanlar, Nehirlerle Büyük bir Komşuluk Bonusu, bir Kültür Bombası, komşuluk bonusuna eşit miktarda [ICON_FOOD] Besin ve eğer bir Nehir üzerindeyse +2 [ICON_HOUSING] Konut kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KHMER_DOMREY_NAME">
+			<Text>Domrey</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
+			<Text>Mancınığın yerini alan Kmer eşsiz Orta Çağ kuşatma birimi. Bu birim, Mancınıktan daha yüksek [ICON_Strength] Yakın Dövüş ve Menzil Gücüne sahiptir. Aynı turda hareket edip ateş edebilir ve kontrol bölgesi uygular.</Text>
+		</Row>
+		<!--Map-->
+		<Row Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+			<Text>Gerçek Başlangıç Konumu Doğu Asya</Text>
+		</Row>
+		<Row Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Uygarlıklar, Asya haritasında tarihsel başkentlerinin bulunduğu konumda başlar.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+			<Text>Doğu Asya</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Kaynakların, arazilerin ve özelliklerin tarihsel konumlarını yansıtan bir Doğu Asya tasviri.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_NAME">
+			<Text>Hạ Long Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_DESCRIPTION">
+			<Text>Kıyı arazisinde bulunabilen iki bölmeli doğa harikası. +3 [ICON_FOOD] Besin, +1 [ICON_PRODUCTION] Üretim ve +1 [ICON_CULTURE] Kültür sağlar. Bu bölgede savunurken +15 [ICON_Strength] Muharebe Gücü kazandırır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

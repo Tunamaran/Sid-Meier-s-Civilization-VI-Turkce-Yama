@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- This texted is all duplicated and new strings needed for the City-State Picker -->
+    <!-- FrontEnd -->
+    <Row Tag="LOC_CITY_STATE_PICKER_TOO_FEW_WARNING">
+      <Text>Mevcut Şehir Devleti yuvalarını dolduracak kadar Şehir Devleti seçmediniz. Oyuna başlamak, yalnızca seçilen Şehir Devletlerinin oluşturulmasına neden olacaktır. Bu uygun mu?</Text>
+    </Row>
+    <!-- Base Game -->
+    <Row Tag="LOC_CIVILIZATION_AMSTERDAM_BONUS">
+      <Text>Yabancı şehirlere giden [ICON_TradeRoute] Ticaret Yollarınız, varış noktasındaki her bir Lüks Kaynak için +1 [ICON_Gold] Altın kazandırır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_BRUSSELS_BONUS">
+      <Text>Şehirleriniz, harikalar inşa ederken +%15 [ICON_Production] Üretim kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_BONUS">
+      <Text>Bonus Kaynaklarınız, her biri tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks Kaynaklar gibi davranır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CARTHAGE_BONUS">
+      <Text>Ordugâh Bölgeleriniz, her biri +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_GENEVA_BONUS">
+      <Text>Herhangi bir uygarlıkla savaş halinde olmadığınız sürece şehirleriniz +%15 [ICON_Science] Bilim kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_HATTUSA_BONUS">
+      <Text>Keşfettiğiniz ancak sahip olmadığınız her bir Stratejik Kaynaktan 1 adet sağlar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_HONG_KONG_BONUS">
+      <Text>Şehirleriniz, şehir projelerine +%20 [ICON_Production] Üretim kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_JAKARTA_BONUS">
+      <Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, o şehirden geçen veya o şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_Gold] Altın sağlar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_JERUSALEM_BONUS">
+      <Text>Kurduğunuz dine otomatik olarak dönüşür ve sanki bir Kutsal Şehirmiş gibi o din için baskı uygular.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_KABUL_BONUS">
+      <Text>Birimleriniz, başlattıkları muharebelerden iki kat deneyim kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_KANDY_BONUS">
+      <Text>Her yeni bir doğa harikası keşfettiğinizde bir [ICON_GreatWork_Relic] Kutsal Emanet alırsınız ve tüm [ICON_GreatWork_Relic] Kutsal Emanetlerden +%50 [ICON_Faith] İnanç kazanırsınız.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_KUMASI_BONUS">
+      <Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, kaynak şehirdeki her bir uzmanlık bölgesi için +2 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın sağlar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_LA_VENTA_BONUS">
+      <Text>İşçileriniz artık Dev Kafa iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]Dev Kafalar +2 [ICON_Faith] İnanç sağlar. Her 2 bitişik Yağmur Ormanı için +1 [ICON_Faith] İnanç. Her 2 bitişik Orman için +1 [ICON_Faith] İnanç. Kar veya Karlı Tepeler üzerine inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_LISBON_BONUS">
+      <Text>Tüccar birimleriniz, su bölgelerinde yağmalanmaya karşı bağışıktır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_BONUS">
+      <Text>Şehirleriniz, sanki hepsi bir Nehrin yanındaymış gibi sudan tam [ICON_Housing] Konut alır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NAN_MADOL_BONUS">
+      <Text>Kıyı veya Göl bölgelerindeki veya bu bölgelere bitişik bölgeleriniz +2 [ICON_Culture] Kültür sağlar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_PRESLAV_BONUS">
+      <Text>Hafif ve ağır süvari birimleriniz, tepe bölgelerinde savaşırken +5 [ICON_Strength] Güç kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_SEOUL_BONUS">
+      <Text>Yeni bir çağa girdiğinizde, o çağdan rastgele 1 [ICON_TechBoosted] Buluş kazanırsınız.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_STOCKHOLM_BONUS">
+      <Text>Bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_TORONTO_BONUS">
+      <Text>Sanayi Bölgesi ve Eğlence Kompleksi bölgelerinizin bölgesel etkileri 3 hücre daha uzağa ulaşır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_VALLETTA_BONUS">
+      <Text>Şehir Merkezi binaları ve Ordugah Bölgesi binaları [ICON_Faith] İnanç ile satın alınabilir. Antik, Orta Çağ ve Rönesans Surları satın alma maliyeti düşürülmüştür, ancak bunlar yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_VILNIUS_BONUS">
+      <Text>Yeni bir çağa girdiğinizde, o çağdan rastgele 1 [ICON_CivicBoosted] İlham kazanırsınız.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_YEREVAN_BONUS">
+      <Text>Havarileriniz rastgele bir terfi almak yerine mevcut tüm terfilerden birini seçebilir.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ZANZIBAR_BONUS">
+      <Text>[ICON_RESOURCE_CINNAMON] Tarçın ve [ICON_RESOURCE_CLOVES] Karanfil Lüks Kaynaklarını elde edersiniz. Bu kaynaklar oyunda başka hiçbir şekilde kazanılamaz ve her biri 6 [ICON_Amenities] Olanak sağlar.</Text>
+    </Row>
+    <!-- Expasion 1 -->
+    <Row Tag="LOC_CIVILIZATION_ANTIOCH_FRONTEND_NAME">
+      <Text>Venedik</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ANTIOCH_BONUS">
+      <Text>Yabancı şehirlere giden [ICON_TradeRoute] Ticaret Yollarınız, varış noktasındaki her Lüks Kaynak için +1 [ICON_Gold] Altın kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_BABYLON_FRONTEND_NAME">
+      <Text>Anşan</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_BABYLON_BONUS">
+      <Text>Her [ICON_GreatWork_WRITING] Yazın Büyük Eseri'nden +2 [ICON_SCIENCE] Bilim. Her [ICON_GreatWork_RELIC] Kutsal Emanet ve [ICON_GreatWork_Artifact] Tarihi Eser'den +1 [ICON_SCIENCE] Bilim.</Text>
+    </Row>
+    <!-- Expasion 1 Overrides -->
+    <Row Tag="LOC_CIVILIZATION_CARTHAGE_BONUS_XP1">
+      <Text>Bir şehirdeki her Ordugah Bölgesi binası için kara muharebe birimleri [ICON_GOLD] Altın ile %20 daha ucuza satın alınır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_JERUSALEM_BONUS_XP1">
+      <Text>Kutsal Alana sahip şehirleriniz, sanki Kutsal Şehirlermiş gibi baskı uygular (10 hücre içindeki tüm şehirlerde 4 kat Din Baskısı).</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_PRESLAV_BONUS_XP1">
+      <Text>Her Ordugah Bölgesi binası için şehirlerde tur başına +2 Bağlılık kazanırsınız.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_STOCKHOLM_BONUS_XP1">
+      <Text>Bir binaya sahip bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_TORONTO_BONUS_XP1">
+      <Text>Sanayi Bölgesi, Su Parkı ve Eğlence Kompleksi bölgelerinizin bölgesel etkileri 3 hücre daha uzağa ulaşır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_VILNIUS_BONUS_XP1">
+      <Text>En yüksek aktif İttifak Seviyesi için tüm Tiyatro Meydanı bölgeleriniz %50 daha fazla komşuluk bonusu alır.</Text>
+    </Row>
+    <!-- Expasion 2 -->
+    <Row Tag="LOC_CIVILIZATION_AKKAD_FRONTEND_NAME">
+      <Text>Akkad</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_AKKAD_BONUS">
+      <Text>Yakın dövüş ve süvari karşıtı birimlerin saldırıları şehrin Surlarına tam hasar verir.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_BOLOGNA_FRONTEND_NAME">
+      <Text>Bologna</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_BOLOGNA_BONUS">
+      <Text>Bir binaya sahip bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CAHOKIA_FRONTEND_NAME">
+      <Text>Cahokia</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CAHOKIA_BONUS">
+      <Text>İşçileriniz artık Cahokia Höyükleri iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Cahokia Höyükleri +3 [ICON_GOLD] Altın sağlar. Şehirler, ilk Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Doğa Tarihi keşfedildiğinde şehirler, ikinci Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Feodalizm keşfedildiğinde her 2 bitişik Bölge için veya Değiştirilebilir Parçalar araştırıldığında her bitişik Bölge için +1 [ICON_FOOD] Besin sağlar. +1 [ICON_HOUSING] Konut sağlar. Kültürel Miras keşfedildiğinde fazladan bir [ICON_HOUSING] Konut kazanılır. Diğer Cahokia Höyüklerine bitişik inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CARDIFF_FRONTEND_NAME">
+      <Text>Cardiff</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CARDIFF_BONUS">
+      <Text>Şehirler, her Liman binası başına +2 [ICON_Power] Enerji kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_FEZ_FRONTEND_NAME">
+      <Text>Fez</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_FEZ_BONUS">
+      <Text>Bir şehri ilk kez dönüştürmek için bir dinî birim kullandığınızda, o şehrin [ICON_Citizen] Nüfusu başına 20 [ICON_SCIENCE] Bilim kazanırsınız (Standart Hızda).</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_MEXICO_CITY_FRONTEND_NAME">
+      <Text>Meksiko</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_MEXICO_CITY_BONUS">
+      <Text>Sanayi Bölgesi, Su Parkı ve Eğlence Kompleksi bölgelerinizden gelen bölgesel etkiler 3 karo daha uzağa ulaşır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NAZCA_FRONTEND_NAME">
+      <Text>Nazca</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NAZCA_BONUS">
+      <Text>İşçileriniz artık Nazca Çizgileri iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Nazca Çizgileri bitişik karolara +1 [ICON_Faith] İnanç sağlar. Kaynak bulunan bitişik karolara +1 [ICON_Faith] İnanç sağlar. Kamu Hizmeti keşfedildikten sonra bitişik Çöl ve Çöl Tepe karolarına +1 [ICON_FOOD] Besin sağlar. Seri Üretim araştırıldıktan sonra bitişik düz karolara +1 [ICON_PRODUCTION] Üretim sağlar. +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu karo işlenemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NGAZARGAMU_FRONTEND_NAME">
+      <Text>Ngazargamu</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NGAZARGAMU_BONUS">
+      <Text>Kara muharebe veya Destek birimleri, o şehirdeki her Ordugah bölgesi binası başına [ICON_GOLD] Altın ile %20 daha ucuza satın alınır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_RAPA_NUI_FRONTEND_NAME">
+      <Text>Rapa Nui</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_RAPA_NUI_BONUS">
+      <Text>İşçileriniz artık Moai iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Moai +1 [ICON_Culture] Kültür sağlar. Her 2 bitişik Moai için +1 [ICON_Culture] Kültür sağlar. Volkanik Toprak karosu üzerinde veya bitişiğinde ise +2 [ICON_Culture] Kültür sağlar. Kıyı veya Göl karosuna bitişik ise +1 [ICON_Culture] Kültür sağlar. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_Culture] Kültür ve [ICON_TOURISM] Turizm sağlar. Ova, Ova Tepe, Otlak, Otlak Tepe veya Volkanik Toprak üzerine inşa edilebilir. Orman veya Yağmur Ormanı karosuna bitişik yerleştirilemez.</Text>
+    </Row>
+    <!-- Expasion 2 Overrides -->
+    <Row Tag="LOC_CIVILIZATION_HATTUSA_BONUS_XP2">
+      <Text>Size, keşfettiğiniz ancak iyileştirmediğiniz her Stratejik kaynaktan tur başına 2 adet sağlar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ARMAGH_BONUS_XP2">
+      <Text>İşçileriniz artık Manastır iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] İnanç sağlar. Bu karoda, aynı turda saldırmamış dost dinî birime +15 can yenileme sağlar. Her 2 bitişik Bölge için +1 [ICON_Faith] İnanç sağlar. +1 [ICON_HOUSING] Konut sağlar. Sömürgecilik keşfedildiğinde fazladan bir [ICON_HOUSING] Konut kazanılır. Başka bir Manastırın yanına inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_LA_VENTA_BONUS_XP2">
+      <Text>İşçileriniz artık Dev Kafa iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Dev Kafalar +2 [ICON_Faith] İnanç sağlar. Her 2 bitişik Yağmur Ormanı için veya Hümanizm keşfedildiğinde her bitişik Yağmur Ormanı için +1 [ICON_Faith] İnanç sağlar. Her 2 bitişik Orman için veya Hümanizm keşfedildiğinde her bitişik Orman için +1 [ICON_Faith] İnanç sağlar. Uçuş keşfedildiğinde [ICON_Faith] İnançtan [ICON_TOURISM] Turizm kazanılır. Kar veya Kar Tepe üzerine inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_GRANADA_BONUS_XP2">
+      <Text>İşçileriniz artık Alkazar iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Alkazarlar +2 [ICON_Culture] Kültür sağlar. Karonun Çekiciliğinin %50'si kadar [ICON_SCIENCE] Bilim sağlar. Karoyu işgal eden birim +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 tur tahkimat kazanır. Uçuş araştırıldıktan sonra [ICON_TOURISM] Turizm sağlar. Başka bir Alkazarın yanına inşa edilemez.</Text>
+    </Row>
+    <!-- VikingsLandmarks -->
+    <Row Tag="LOC_CIVILIZATION_AUCKLAND_FRONTEND_NAME">
+      <Text>Auckland</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ANTANANARIVO_FRONTEND_NAME">
+      <Text>Antananarivo</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ARMAGH_FRONTEND_NAME">
+      <Text>Armagh</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_GRANADA_FRONTEND_NAME">
+      <Text>Granada</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_MUSCAT_FRONTEND_NAME">
+      <Text>Maskat</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_PALENQUE_FRONTEND_NAME">
+      <Text>Mitla</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_AUCKLAND_BONUS">
+      <Text>Sahip olduğun sığ su bölgeleri +1 [ICON_Production] Üretim sağlar. Sanayi Çağı'na ulaştığında ek +1 daha.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ANTANANARIVO_BONUS">
+      <Text>Uygarlığın, kazandığı her Büyük Kişi başına +2% [ICON_Culture] Kültür kazanır, toplamda +30%'a kadar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_ARMAGH_BONUS">
+      <Text>İşçilerin artık Manastır iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] İnanç sağlar. Bu bölgedeki, bu turda saldırmamış dost dini birliğe +15 HP iyileştirme. Başka bir Manastır'ın yanına inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_GRANADA_BONUS">
+      <Text>İşçilerin artık Alkazar iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]Alkazarlar +2 [ICON_Culture] Kültür sağlar. Bölgedeki birlik +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 tur tahkimat alır. Başka bir Alkazar'ın yanına inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_MUSCAT_BONUS">
+      <Text>Ticaret Merkezi bölgesi olan şehirlerde +1 [ICON_Amenities] Olanak.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_PALENQUE_BONUS">
+      <Text>Kampüs bölgesi olan şehirlerde şehir büyüme hızı %15 daha yüksektir.</Text>
+    </Row>
+    <!-- Babylon -->
+    <Row Tag="LOC_CIVILIZATION_AYUTTHAYA_FRONTEND_NAME">
+      <Text>Ayutthaya</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_AYUTTHAYA_BONUS">
+      <Text>Binalar tamamlandığında inşa maliyetinin %10'u kadar [ICON_CULTURE] Kültür kazan.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CHINGUETTI_FRONTEND_NAME">
+      <Text>Çinguetti</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CHINGUETTI_BONUS">
+      <Text>Uluslararası ve yurt içi [ICON_TradeRoute] Ticaret Yolları, bu şehirdeki kurduğun veya çoğunluk dinindeki her takipçi için +1 [ICON_FAITH] İnanç alır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_JOHANNESBURG_FRONTEND_NAME">
+      <Text>Johannesburg</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_JOHANNESBURG_BONUS">
+      <Text>Şehirler, iyileştirilmiş her kaynak türü için +1 [ICON_Production] Üretim alır. Sanayileşme araştırıldıktan sonra bu +2 [ICON_PRODUCTION] Üretime dönüşür.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NALANDA_FRONTEND_NAME">
+      <Text>Nalanda</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_NALANDA_BONUS">
+      <Text>İşçilerin artık Mahavihara iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Bilim ve +1 [Icon_Housing] Konut. Her bitişik Kutsal Alan bölgesi için +1 [ICON_Faith] İnanç ve her bitişik Kampüs bölgesi için +1 [ICON_Science] Bilim. Bilimsel Teori araştırıldıktan sonra her bitişik Kampüs için ek +1 [Icon_Science] Bilim kazanılır. Bir oyuncu ilk Mahavihara'sını inşa ettiğinde rastgele bir teknoloji elde eder. Düz arazide, başka bir Mahavihara'ya bitişik olmayacak şekilde inşa edilmelidir.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_SAMARKAND_FRONTEND_NAME">
+      <Text>Semerkant</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_SAMARKAND_BONUS">
+      <Text>İşçilerin artık Ticaret Kubbesi iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Altın. Her bitişik Lüks Kaynak için +1 [ICON_Gold] Altın. Gönderdiğin uluslararası [ICON_TradeRoute] Ticaret Yolları, kaynak şehrindeki her Ticaret Kubbesi başına +1 [ICON_GOLD] Altın sağlar. Başka bir Ticaret Kubbesi'nin yanına inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_WOLIN_FRONTEND_NAME">
+      <Text>Wolin</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_WOLIN_BONUS">
+      <Text>Bir kara birliği, büyük veya küçük bir uygarlığın birliğini yendiğinde [ICON_GreatGeneral] Büyük General puanı ve bir deniz birliği, büyük veya küçük bir uygarlığın birliğini yendiğinde [ICON_GreatAdmiral] Büyük Amiral puanı kazanırsınız. Bu puanlar, karşı birliğin gücünün %25'ine eşittir (Standart Hız).</Text>
+    </Row>
+    <!-- GranColombia Maya -->
+    <Row Tag="LOC_CIVILIZATION_CAGUANA_FRONTEND_NAME">
+      <Text>Caguana</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_CAGUANA_BONUS">
+      <Text>İşçileriniz artık Batey iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kültür. Bitişik her Bonus kaynağı ve Eğlence Kompleksi başına +1 [ICON_Culture] Kültür (Keşif keşfedildiğinde +2 [Icon_Culture] Kültür'e yükselir). Uçuş araştırıldıktan sonra [Icon_Tourism] Turizm sağlar. Başka bir Batey'in bitişiğine inşa edilemez.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_HUNZA_FRONTEND_NAME">
+      <Text>Hunza</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_HUNZA_BONUS">
+      <Text>[ICON_TradeRoute] Ticaret Yollarınız, kat ettikleri her 5 bölge başına +1 [ICON_Gold] Altın kazandırır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_LAHORE_FRONTEND_NAME">
+      <Text>Lahor</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_LAHORE_BONUS">
+      <Text>Şehirleriniz artık Nihang birlikleri eğitebilir.[NEWLINE][NEWLINE]Eşsiz bir Terfi ağacına sahip olan bu birlik [ICON_Faith] İnanç ile satın alınabilir. [ICON_Strength] Muharebe Gücü, Kışla, Cephanelik ve Askeri Akademi binaları ilk kez inşa edildiğinde artar.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_SINGAPORE_FRONTEND_NAME">
+      <Text>Singapur</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_SINGAPORE_BONUS">
+      <Text>Şehirleriniz, [ICON_TradeRoute] Ticaret Yolu bağlantısı kurdukları her yabancı uygarlık için +2 [ICON_Production] Üretim kazanır.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_TARUGA_FRONTEND_NAME">
+      <Text>Taruga</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_TARUGA_BONUS">
+      <Text>Sahip oldukları her farklı geliştirilmiş Stratejik Kaynak için tüm şehirlerde +%5 [ICON_SCIENCE] Bilim.</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_VATICAN_CITY_FRONTEND_NAME">
+      <Text>Vatikan Şehri</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_VATICAN_CITY_BONUS">
+      <Text>[ICON_GreatPerson] Büyük Kişi'yi etkinleştirdiğinizde, bu kişi kurduğunuz (veya çoğunlukta olan) dinin 400 birim Dini Baskısını 10 bölge içindeki şehirlere yayar.</Text>
+    </Row>
+	</FrontEndText>
+</GameData>

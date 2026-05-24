@@ -1,0 +1,42 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_NAME">
+			<Text>Meteor Yağmuru</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_DESCRIPTION">
+			<Text>Gökten enkaz yağmuru iniyor. Kalıntıları toplayın ve güçlü bir birim kazanın.</Text>
+		</Row>
+    <Row Tag="LOC_RANDOM_EVENT_COMET_STRIKE_NAME">
+      <Text>Kuyruklu Yıldız Çarpması</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_COMET_STRIKE_DESCRIPTION">
+      <Text>Asteroitler gezegeni şiddetle dövüyor.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_FOREST_FIRE_NAME">
+      <Text>Orman Yangını</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_FOREST_FIRE_DESCRIPTION">
+      <Text>Ağaçlar alev alıyor, durdurulamaz bir yangın başlatıyor ve tüm araziyi kasıp kavuracak. Bunu ancak siz önleyebilirdiniz.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_SOLAR_FLARE_NAME">
+      <Text>Güneş Patlaması</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_SOLAR_FLARE_DESCRIPTION">
+      <Text>Bir güneş radyasyonu patlaması atmosferi aydınlatır ve ileri teknolojiyi devre dışı bırakır.</Text>
+    </Row>
+    <!--Random Event Effect Strings-->
+		<Row Tag="LOC_RANDOM_EVENT_COMET_STRIKE_EFFECT_DESCRIPTION">
+			<Text>- Arkasında bir çarpma bölgesi bırakır; üzerine düştüğü her şeyi (şehir merkezleri dahil) yok eder.</Text>
+		</Row>
+		<Row Tag="LOC_RANDOM_EVENT_SOLAR_FLARE_EFFECT_DESCRIPTION">
+			<Text>- Gelişmiş birimlere ve iyileştirmelere, [ICON_POWER] Enerji ile ilgili binalara, Kampüs Bölgelerine, Sanayi Bölgelerine ve Uzay Limanı Bölgelerine hasar verebilir.</Text>
+		</Row>
+    <Row Tag="LOC_RANDOM_EVENT_FIRE_EFFECT_DESCRIPTION">
+      <Text>+ Ormanın gelişmiş getirilerle yeniden büyümesine neden olur [NEWLINE]- Birimlere ve iyileştirmelere hasar verir.</Text>
+    </Row>
+    <Row Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_EFFECT_DESCRIPTION">
+      <Text>+ Herhangi bir birimi o bölgeye getirerek oyuncuların toplayabileceği bir iyileştirme yerleştirir. Bu işlem, gelişmiş bir birim kazandırır.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

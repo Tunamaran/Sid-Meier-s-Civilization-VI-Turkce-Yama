@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Search Terms-->
+		<Row Tag="LOC_TERM_INDUSTRY">
+			<Text>Endüstri</Text>
+		</Row>
+		<Row Tag="LOC_TERM_INDUSTRIES">
+			<Text>Endüstriler</Text>
+		</Row>
+		<Row Tag="LOC_TERM_CORPORATION">
+			<Text>Şirket</Text>
+		</Row>
+		<Row Tag="LOC_TERM_CORPORATIONS">
+			<Text>Şirketler</Text>
+		</Row>
+		<Row Tag="LOC_TERM_MONOPOLY">
+			<Text>Tekel</Text>
+		</Row>
+		<Row Tag="LOC_TERM_MONOPOLIES">
+			<Text>Tekeller</Text>
+		</Row>
+		<Row Tag="LOC_TERM_PRODUCT">
+			<Text>Ürün</Text>
+		</Row>
+		<Row Tag="LOC_TERM_PRODUCTS">
+			<Text>Ürünler</Text>
+		</Row>
+		<!-- Game Mode Concept -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_CONTENT_TITLE">
+			<Text>Endüstriler, Tekeller ve Şirketler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_WELCOME_PARA_1">
+			<Text>Lüks mallarınızdan keyif alıyorsunuz, ancak belki de bunları kâr elde etmek için harekete geçirmenin zamanı gelmiştir. Tekeller ve Şirketler modu, Lüks Kaynaklar etrafında Endüstriler kurmanıza (kaynaktan kaynağa değişen özel bonuslar sağlar), bu getirileri artırmak için Şirketler kurmanıza, ekonomik Büyük Eserler işlevi gören markalar olan benzersiz Ürünler üretmenize ve nihayetinde bir Tekel elde etmenize olanak tanır. Bu Mod, tüm çağlarda önemli olmakla birlikte, asıl potansiyelini oyunun ilerleyen aşamalarında gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_INDUSTRIES_TITLE">
+			<Text>Endüstrileri Kurmak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_INDUSTRIES_PARA_1">
+			<Text>Bir uygarlık, aynı türden iki Lüks Kaynağı iyileştirdikten ve Para teknolojisini tamamladıktan sonra, o kaynağın etrafında bir Endüstri kurma fırsatı yakalar. Şehir devletlerine ait kaynaklar da, oyuncu o şehir devletinin süzereni ise bu gereksinime dâhil edilir. Endüstri, Lüks Kaynaklardan herhangi biri üzerindeki mevcut bir İyileştirmenin üzerinde bir İşçi hakkı kullanılarak kurulur. Bir şehirde aynı anda yalnızca bir Endüstri bulunabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_INDUSTRIES_PARA_2">
+			<Text>Büyük Tüccar puanları sağlamanın yanı sıra, Endüstriler iyileştirdikleri kaynağın türüne bağlı olarak şehirlerine özel bonuslar verir:[NEWLINE][ICON_BULLET] Kehribar: +%25 [ICON_Faith] İnanç Getirisi.[NEWLINE][ICON_BULLET] Narenciye: +%30 [ICON_Production] Askeri birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] Kakao: +%20 Büyüme ve +3 [ICON_Housing] Konut.[NEWLINE][ICON_BULLET] Kahve: +%20 [ICON_Culture] Kültür Getirisi.[NEWLINE][ICON_BULLET] Pamuk: +%30 [ICON_Production] Askeri birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] Elmas: +%25 [ICON_Gold] Altın Getirisi.[NEWLINE][ICON_BULLET] Boya: +%25 [ICON_Faith] İnanç Getirisi.[NEWLINE][ICON_BULLET] Kürk: +%30 [ICON_Production] Sivil birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] Alçıtaşı: +%30 [ICON_Production] Binalara yönelik Üretim.[NEWLINE][ICON_BULLET] Bal: +%20 Büyüme ve +3 [ICON_Housing] Konut.[NEWLINE][ICON_BULLET] Tütsü: +%25 [ICON_Faith] İnanç Getirisi.[NEWLINE][ICON_BULLET] Fildişi: +%30 [ICON_Production] Askeri birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] Yeşim: +%25 [ICON_Gold] Altın Getirisi.[NEWLINE][ICON_BULLET] Mermer: +%30 [ICON_Production] Binalara yönelik Üretim.[NEWLINE][ICON_BULLET] Cıva: +%15 [ICON_Science] Bilim Getirisi.[NEWLINE][ICON_BULLET] Zeytin: +%30 [ICON_Production] Sivil birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] İnci: +%25 [ICON_Faith] İnanç Getirisi.[NEWLINE][ICON_BULLET] Tuz: +%20 Büyüme ve +3 [ICON_Housing] Konut.[NEWLINE][ICON_BULLET] İpek: +%20 [ICON_Culture] Kültür Getirisi.[NEWLINE][ICON_BULLET] Gümüş: +%25 [ICON_Gold] Altın Getirisi.[NEWLINE][ICON_BULLET] Baharat: +%20 [ICON_Culture] Kültür Getirisi.[NEWLINE][ICON_BULLET] Şeker: +%20 Büyüme ve +3 [ICON_Housing] Konut.[NEWLINE][ICON_BULLET] Çay: +%15 [ICON_Science] Bilim Getirisi.[NEWLINE][ICON_BULLET] Tütün: +%30 [ICON_Production] Askeri birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] Trüf: +%25 [ICON_Gold] Altın Getirisi.[NEWLINE][ICON_BULLET] Kaplumbağa: +%15 [ICON_Science] Bilim Getirisi.[NEWLINE][ICON_BULLET] Balina: +%30 [ICON_Production] Askeri birimlere yönelik Üretim.[NEWLINE][ICON_BULLET] Şarap: +%20 [ICON_Culture] Kültür Getirisi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_CORPORATIONS_TITLE">
+			<Text>Şirket Kurmak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_CORPORATIONS_PARA_1">
+			<Text>Ekonomi araştırması tamamlandıktan ve aynı Lüks Kaynaktan en az üç adet ele geçirilip bir Endüstri kurulduktan sonra, bir Şirket kurma zamanı gelmiştir. Şirket kurmak için bir İşçi yerine bir Büyük Tüccar gerekir ve Şirket kurulduğunda Büyük Tüccar emekli olur. Şirketler yalnızca Endüstri iyileştirmelerinin üzerine inşa edilebilir. Şirketler, ana şehirlerine uygun kaynak için Endüstri bonusunun iki katını sağlar. Şirketinize dilediğiniz adı verebilir veya otomatik ad oluşturucuyu kullanabilirsiniz!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_CORPORATIONS_PARA_2">
+			<Text>Dünyada her Lüks Kaynak için yalnızca bir Şirket olabilir, ancak rakip bir oyuncu, kaynağın sahibi oyuncudan daha fazla örneğini kontrol etmeyi başarırsa Şirketler 'iflas ettirilebilir'. Bir rakip, başka bir Şirketin kaynağında kontrol edici bir pay elde ettiğinde, o kaynağın etrafında kendi Şirketini kurabilir ve orijinal sahibin Şirketi ortadan kaldırılır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_PRODUCTS_TITLE">
+			<Text>Ürünler Oluşturmak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_PRODUCTS_PARA_1">
+			<Text>Belirli bir Lüks Kaynak etrafında bir Şirket kurduktan sonra, benzersiz bir Ürün – bir marka – yaratabilirsiniz. Bunlar Büyük Eserlere benzer, ancak müzelerde sergilenmek yerine Borsa veya Liman binalarındaki yeni Büyük Eser yuvalarında saklanırlar. Yerleştirildiklerinde, Ürünler orijinal Lüks Kaynağın yeni şehirlerine sağladığı bonusu veren bir Endüstri faydası sağlar. Ürününüzü, uygun Büyük Eser yuvasına sahip herhangi bir şehre taşıyabilirsiniz.</Text>
+		</Row>    
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_MONOPOLIES_TITLE">
+			<Text>Tekel Elde Etmek</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MONOPOLIES_CHAPTER_MONOPOLIES_PARA_1">
+			<Text>Kapitalizm, serbest ticaretle beslenip büyüyebilir; ancak kurnaz tüccarlar rakiplerini saf dışı bırakmanın yollarını bilirler. Bir Lüks Kaynağın dünyadaki mevcut örneklerinin %60'ına veya daha fazlasına sahip olmak, o Lüks Mal üzerinde size bir Tekel hakkı tanır. Her tekel, sahibine, kontrol edilen kaynak sayısına bağlı olarak [ICON_Tourism] Turizm kazandırır; bu değer, tekelleştirilmiş kaynağın hiçbir örneğine sahip olmayan yabancı uygarlıkların sayısıyla çarpılır. Tekeller ayrıca, asgari düzeyde kontrol için +5'ten başlayıp %75'te +10'a ve tüm örneklere sahip olunduğunda +25'e yükselen [ICON_Gold] Tur Başına Altın getirisi sağlar. Tekel sahibinin halihazırda ticaret yaptığı her büyük uygarlık için ilave +5 [ICON_Gold] Tur Başına Altın kazanılır. Merkantilizmi araştırdığınızda, dünyadaki toplam Lüks Kaynak sayısını ve her bir oyuncunun halihazırda kontrol ettiği yüzdeyi görebileceksiniz. Birden fazla Tekeli kontrol etmeniz mümkündür, ancak bu biraz zalimce sayılmaz mı?</Text>
+		</Row>
+		<!--Improvements-->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_INDUSTRY_CHAPTER_HISTORY_PARA_1">
+			<Text>“Sanayi” sözcüğü çoğu zaman, buhar dolu fabrikalar ve tehlikeli, dönen makinelerle Sanayi Devrimi'ni akıllara getirir. Oysa William Blake'in “karanlık şeytani değirmenler” olarak adlandırdığı oluşumların ortaya çıkışından çok daha önce, hükümdarlar insanları bir araya getirip emeklerini yoğunlaştırmanın avantajını görmüşlerdi. Klasik Antik Çağ'da ve sonrasında bu tür sanayi kollarında çalışanlar çoğunlukla kendi mülkü olmayan kişilerdi – en önemlisi serfler ya da köleleştirilmiş halklar (Mısır piramitlerini çevreleyen atölyelerde ise yaygın anlatının aksine ücretli işçiler çalışıyordu). Feodalizm yerini lonca sistemine, ardından da erken modern kapitalizme bırakırken, özel şahıslar kendi sanayi kollarını açacak kadar para ve itibar kazandılar; böylece iktisat tarihinin başlaması için zemin hazırlanmış oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CORPORATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Lord Thurlow'un şu sözü meşhurdur: “Şirketlerin cezalandırılacak bedenleri, mahkûm edilecek ruhları yoktur; bu yüzden akıllarına estiği gibi davranırlar.” Günümüz şirket anlayışının kökeni, 16. ila 19. yüzyıllar arasındaki büyük ticaret şirketlerine dayanır. Kıtalararası okyanus ticaretinin belirsizlikleri karşısında, hem geminin hem de sahibinin olası ölümünden daha uzun ömürlü olacak daha büyük bir yapıya ihtiyaç vardı. Bu ticaret şirketleri dünyayı yeniden şekillendirdi – mallar dünyanın dört bir yanına aktı, ancak sonunda bu şirketler kendi zenginliklerinin kurbanı oldular; küresel istikrarsızlık arttı (kısmen ticaret şirketlerinin faaliyetleri yüzünden), ticaret yolları riskli hale geldi, maliyetler yolsuzluk ve kötü yönetimle birlikte yükseldi ve nihayetinde ana vatanlarındaki imparatorluklar devraldı ve sömürgecilik daha doğrudan ve müdahaleci bir biçime dönüştü. Ancak şirket modeli ile bireyleri potansiyel riskten ve sorumluluktan ayıran yapay, hayali, yasal bir varlık yaratma işlevi hâlâ aramızda yaşamaktadır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

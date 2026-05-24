@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_TORRE_DE_BELEM_NAME">
+			<Text>Belém Kulesi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TORRE_DE_BELEM_DESCRIPTION">
+			<Text>Bu şehirden başlatılan [ICON_TradeRoute] Uluslararası Ticaret Yolları, varış noktasındaki her Lüks Kaynak için +2 [ICON_GOLD] Altın kazandırır. Belém Kulesi inşa edildiğinde, ana kıtanızda bulunmayan şehirler, mevcut en düşük [ICON_PRODUCTION] Üretim maliyetli şehir merkezi binasını ücretsiz olarak kazanır.[NEWLINE][NEWLINE]Bir Liman Bölgesi'ne bitişik bir Kıyı bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ETEMENANKI_NAME">
+			<Text>Etemenanki</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ETEMENANKI_DESCRIPTION">
+			<Text>İmparatorluğunuzdaki tüm Bataklık bölgelerine +2 [ICON_SCIENCE] Bilim ve +1 [ICON_PRODUCTION] Üretim sağlar. Bu şehirdeki tüm Taşkın Yatağı bölgelerine +1 [ICON_SCIENCE] Bilim ve +1 [ICON_PRODUCTION] Üretim sağlar.[NEWLINE][NEWLINE]Taşkın Yatağı veya Bataklık üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TORRE_DE_BELEM_QUOTE">
+			<Text>“Bu topların önünden geçen hiçbir gemi, ağır bir saldırıya uğramadan kurtulamazdı.”[NEWLINE]- Laure Junot Abrantes</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ETEMENANKI_QUOTE">
+			<Text>"Gelin, kendimize göklerce yükselen bir kuleye sahip bir şehir kuralım ki adımızı duyuralım."[NEWLINE]- Tekvin 11:4</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <!-- FEATURE_BARRIER_REEF was renamed to FEATURE_BARRIER_REEF_EXTENDED... -->
+  <LocalizedText>
+    <Update>
+      <Where Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_BARRIER_REEF_CHAPTER_HISTORY_PARA_1" />
+      <Set Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_BARRIER_REEF_EXTENDED_CHAPTER_HISTORY_PARA_1" />
+    </Update>
+  </LocalizedText>
+  
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_1">
+			<Text>Doğu Avustralya'daki İngiliz sömürge varlığı, ilk olarak 1788'de Sidney'in kurulmasıyla kök saldı. Bir ceza kolonisi olarak mütevazı başlangıcından özgür bir topluma dönüşümüne kadar Yeni Güney Galler, Avustralya işlerinde her zaman ön saflarda yer almış (ya da öyle olması gerektiğini hissettirmiştir).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SYDNEY_CHAPTER_HISTORY_PARA_2">
+			<Text>1851'de altının keşfi, Yeni Güney Galler'i siyasi olduğu kadar ekonomik olarak da güçlü kılmıştır. Avustralya'nın kolonilerden Commonwealth'e geçişi sırasında, Yeni Güney Galler ile Victoria arasındaki başkent rekabeti bir uzlaşmaya yol açtı: Kanberra şehri Sidney ile Melbourne arasındaki boş bir alana inşa edilecek ve ardından çoğu Avustralyalı tarafından hemen göz ardı edilecekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın yemyeşil kuzeydoğu kesimi, doğal güzelliğiyle ve -Queensland'li olmayan Avustralyalılara göre- ihracattan önce bükülmesi gereken doğal olmayan düz muzlarıyla tanınır. (Queensland'lilerin seçtiği yanıtlar burada paylaşılamayacak kadar renklidir.) Bir zamanlar Avustralya'nın en büyük Aborjin nüfusuna sahipti, ancak bu durum İngiliz sömürgecilerinin, beraberlerinde getirdikleri hastalıkların ve 19. yüzyılın başlarındaki bir dizi kanlı çatışmanın ardından değişti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_QUEENSLAND_CHAPTER_HISTORY_PARA_2">
+			<Text>Queensland, 1859'da Yeni Güney Galler'den ayrılarak kendi Kraliyet kolonisi haline geldiğinde, aslen 1824'te bir ceza kolonisi olarak kurulan Brisbane, başkent olarak seçilme şansına erişti. Bu durum, Queensland'de altının keşfiyle ve 19. yüzyılın ikinci yarısında yaşanan birçok altına hücumla daha da belirginleşti. Çok sayıda milli parkının yanı sıra, Queensland'in doğu kıyılarının büyük bir kısmında Büyük Set Resifi bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya kıtasının batıdaki üçte biri, ismine yakışır şekilde Batı Avustralya'yı oluşturur. "Lanet Olası Cehennem (ve Perth)" ifadesi 19. yüzyıl haritaları için fazla müstehcen olduğundan bu isim verilmiştir. Batı Avustralyalılar, özellikle dayanıklı bir oyucu çekirge türü olan sandgroper'ın adıyla anılırlar; bu, ya azimlerine bir övgüdür ya da kafalarını kuma gömdüklerini söylemenin ince bir yoludur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Perth yerleşimi 1829'da kuruldu ve kısa sürede Batı Avustralya'nın başkenti oldu. Batı Avustralyalıların büyük çoğunluğunun yaşayacağı ılıman güneybatı köşesinde yer alan Perth o kadar izoleydi ki Melbourne'e deniz yoluyla ulaşmak bir hafta sürebiliyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WESTERN_AUSTRALIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Batı Avustralya, en iyi ihtimalle seyrek nüfuslu, uçsuz bucaksız ve ıssız Taşrasıyla tanınır. Batı Avustralyalıların çoğu kıyılarda yaşar - ve sahip olunacak bu kadar çok kıyı varken, balıkçılık koloninin ekonomisinin her zaman önemli bir parçası olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın çoğunlukla ılıman olan güneydoğu bölgesi, uzun zamandır bir bahçe devleti olarak ün yapmıştır. Lahana üretimi yıl boyu sürmesine rağmen, her Victoriansal kişisel olarak kendi bahçesinden sorumlu değildir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Melbourne, 1835 yılında John Batman tarafından kuruldu. Bölgedeki ilk yerleşim değildi, ancak 1851'de yeni Kraliyet kolonisi Victoria'nın Yeni Güney Galler'den ayrılmasıyla başkent olarak anılacak kadar önem kazandı. Aynı yıl Victoriansalıların büyük miktarda altın keşfetmesi onlar için bir şans oldu ve kolonilerine birçok yeni yüz getirecek bir altına hücumu başlattı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_VICTORIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Altın aramada veya madencilikte şansı yaver gitmeyenler, yine de zengin olmuş insanların yanında, (Avustralya için) ılıman bir iklimde yaşıyorlardı ve bu sayede hizmetler veya dalavereler yoluyla altını doğrudan çıkarabiliyorlardı. 1893'teki özellikle acı verici bir ekonomik çöküş dışında, Victoria'nın talihi hep yukarı yönlüydü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın orta güney bölgesi, ılıman kıyı toprakları, daha az ılıman çalılıklar ve affetmeyen Taşra'dan oluşur. Koloni döneminde başka yiyecek bulunamadığında karga yemekle ilgili bir üne sahip olmasına rağmen bu bir efsanedir - aç Güney Avustralyalı sömürgeciler, çok daha lezzetli olan papağan ve kakadularda takılıp kalmışlardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Güney Avustralya, Britanya Parlamentosu'nun bir yasasıyla oluşturulan tek koloniydi. Hükümlü emeğini yasaklayan özgür bir koloni olarak bilinçlice tasarlanan bu bölge, yeni bir başlangıç yapmak isteyen yoksul göçmenleri memnuniyetle karşıladı, dini özgürlük ilkelerinde ısrar etti ve Aborjinler için toprak haklarını garanti altına aldı. 1836'da Adelaide'deki kuruluşundan itibaren koloni ilkelerine büyük ölçüde bağlı kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AUSTRALIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Taşra istasyonları, Güney Avustralya'nın her yerinde koyun yetiştirdi. Kolonide hiçbir zaman gerçek bir altına hücum yaşanmamış olsa da, geniş buğday tarlaları 19. yüzyılın sonlarına doğru Avustralya'nın büyük bir kısmını beslemeye başlayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AERIAL_SERVICES_CHAPTER_HISTORY_PARA_1">
+			<Text>Radyo ve uçağın ortaya çıkışı, uzak Avustralya yerleşimleri için hayatı dönüştürdü. Daha önce kendi başlarının çaresine bakmak zorunda kalan Taşra sakinleri için eğitim ve tıbbi bakım aniden mümkün hale geldi. Evleri uzak olsa da, 20. yüzyılın bu son teknoloji yenilikleri, dünyanın dört bir yanındaki Avustralyalıları birbirine yaklaştırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CROWN_COLONY_CHAPTER_HISTORY_PARA_1">
+			<Text>19. yüzyılın ortalarına gelindiğinde, Avustralya kıtası artık dizanteri ve diğer tehlikelerle dolu bir dizi uzak hapishane kampı değil, kişinin yeni bir başlangıç yapabileceği ve (belki de) bir servet kazanabileceği büyüleyici bir uzak diyardı. Bir dereceye kadar kendi kendini yönetmelerine rağmen, tartışmasız bir şekilde İngiliz olarak kaldılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CRUISE_LINES_CHAPTER_HISTORY_PARA_1">
+			<Text>20. yüzyılın ilk yarısında, okyanus yolculuğu Avustralya'ya ulaşmanın tek güvenilir ve (çoğunlukla) güvenli yoluydu. Yeni kurulan Avustralya Commonwealth'i federal parayı milli parklara harcarken, Avustralya yolcu gemileri insanları bu parkların ihtişamını deneyimlemeye getirdi ve Antipod turizm endüstrisini mümkün kıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_FEDERATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya Milletler Topluluğu, 20. yüzyılın şafağında kuruldu. Avustralyalılar ulusal bir kimlik, daha az kafa karıştırıcı bir gümrük politikası ve temel hükümet kurumları (Parlamento ve Yüksek Mahkeme) kazandı. Ayrıca, Melbourne ile Sidney'in bu ayrıcalık için tartışmasını önlemek amacıyla kısmen tasarlanan başkent Kanberra'ya da sahip oldular.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GOLD_RUSH_CHAPTER_HISTORY_PARA_1">
+			<Text>1851 yılına gelindiğinde, Kaliforniya altın yataklarında kazanılan servetler tüm dünyaca bilinir hale gelmişti. Edward Hargraves ve John Lister, Yeni Güney Galler'de kayda değer miktarda altın keşfettiğinde, bunu izleyen Avustralya altına hücumları nüfus getirdi, zenginlik ihraç etti ve göçmenlerin "arzulanan etnik kökenleri" konusunda ciddi toplumsal gerginliklere yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_GREAT_WAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Birinci Dünya Savaşı'nın muharebe alanları Avustralya topraklarından çok uzakta olmasına rağmen, Milletler Topluluğu yine de Büyük Britanya adına savaşmak üzere 400.000'den fazla gönüllü gönderdi. Orta Doğu'da ve Batı Cephesi'nde birlikleri bulunan Avustralya, savaşa federatif koloniler olarak girdi ancak bir ulus olarak çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PASTORAL_LEASES_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya kolonileri, hayvancılığa uygun arazileri resmen araştırdıkça, bu toprakları otlakçılara kiralamaya başladı. Genellikle devasa arazi parçalarını kapsayan Taşra istasyonları, kuraklıklara yol açmadan otlak alanını yeterince destekleyecek alana ihtiyaç duyuyordu; bu, 1860'ların sonlarında işgalcilerin zor yoldan öğrendiği bir dersti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PENAL_COLONY_CHAPTER_HISTORY_PARA_1">
+			<Text>En eski Avustralya kolonileri, dünyanın yarısı kadar uzağa taşınan İngiliz mahkûmlar tarafından inşa edildi. Ne yazık ki, küçük hırsızlara çiftçilik, madencilik ya da sağlık hizmeti vermelerini söylemek, onlara bu becerileri bahşetmez. Yine de yaşadıkları zorluklara rağmen, hükümlü kolonistlerin çoğu sonunda yaşayabilir kolonilerin iskeletini oluşturmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SHEEP_REARING_CHAPTER_HISTORY_PARA_1">
+			<Text>Britanya'nın 19. yüzyılda yüne olan artan talebi, koyun yetiştiriciliğini Avustralya'nın sömürge ekonomilerinin önemli bir parçası haline getirdi. Yün, uzun deniz yolculukları sırasında bozulmayan birkaç emtiadan biriydi; bu nedenle uzak sömürgelerdeki yün üretimi, Britanya'nın çıkarlarına ve Avustralyalı otlakçıların hesaplarına hizmet ediyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_WORLD_WAR_II_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük Savaş'ın aksine, İkinci Dünya Savaşı'nın patlak vermesi Avustralya topraklarında bir işgal tehdidiyle karşı karşıya kalındığına tanık oldu. Avustralya birlikleri bir kez daha Büyük Britanya kuvvetlerini desteklese de, konuşlandırılmaları Milletler Topluluğu tarafından daha bağımsız bir şekilde yönetildi. Bu, Avustralya ordusunun Pasifik'teki Müttefik kuvvetleriyle yakın iş birliği yapmasına olanak tanıdı.</Text>
+		</Row>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PANTANAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Kakadu'nun yemyeşil doğal bölgesi, pek çoğu günümüzde dahi sınıflandırılamamış benzersiz bitki ve hayvan türlerine ev sahipliği yapmaktadır. Aynı zamanda, bölgede en az 20.000 yıldır yaşadığı düşünülen Aborjin halkına da ev sahipliği yapar. Kimileri binlerce yıllık olan geniş kaya resimleri, yerel Aborjin halkının tarihini gözler önüne serer. 19. yüzyılda Avrupalılar tarafından yapılan birçok sömürgeleştirme girişimi, Kakadu'nun elverişsiz arazisi nedeniyle başarısızlıkla sonuçlanmıştır.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_TSINGY_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya kıtasının güneybatı kıyılarına yakın bir yerde, içinde bulundukları kumlardan uzanıyormuşçasına parmak uçlarını andıran bir dizi tuhaf kaya oluşumu bulunur. Bu kireç taşı oluşumları, daha önceki bir çağın ayrışmış deniz canlılarından meydana gelmiştir, ancak hiçbir teori mevcut hallerine nasıl geldiklerini tam olarak açıklayamaz. 1960'larda bir milli parka dahil edilene kadar, en yaygın canlı ziyaretçileri kangurulardı.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Milli Parklar belirlemek, [ICON_Gold] Altın ve [ICON_Amenities] Olanakları büyük ölçüde artırabilir. Milli Parklar, Koruma yönetim bilimini araştırdıktan sonra şehrinizde eğitilebilen veya satın alınabilen Natüralist birlikleri tarafından belirlenir.</Text>
+		</Replace>
+		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Bir Milli Park'ın [ICON_Gold] Altın üretimi, parka dahil edilen tüm bölgelerin toplam Çekiciliğine eşittir. Ayrıca, parka sahip olan şehir 2 [ICON_Amenities] Olanak kazanır ve uygarlığınızdaki en yakın dört şehir 1 [ICON_Amenities] Olanak kazanır.</Text>
+		</Replace>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PENAL_SETTLEMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Sömürgeci hırsları olan, adına uzak diyarlar talep eden ve ceza adaletine yaratıcı bir yaklaşım sergileyen bir ulus, ceza yerleşimleri kurabilirdi. Bu sözleşmeli hizmet sistemi, mahkûmları sömürge kurmanın yorucu ve tehlikeli işlerini yapmaları için uzak, sert topraklara gönderiyordu. Genellikle gardiyan olarak hizmet eden bir vali tarafından yönetilen mahkûmların kaçacak hiçbir yeri yoktu. Ancak, toplumsal borçlarını ödemek için teşvikler vardı: inşa ettiklerinin mülkiyeti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_COLONIAL_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir ceza kolonisi kendi kendine yeterli hale geldiğinde, sözleşmeli hizmetçiler üzerinde mutlak yetkiye sahip bir validen daha fazlasına ihtiyaç duyuyordu. Sert sömürge adaleti, yetenekli zanaatkârlar ve şanslarını değiştirmek isteyenler için tam olarak bir satış noktası değildi. Sonuç olarak, gerçek bir sömürge yönetimi, sakinlerine sınırlı yerel ve bölgesel yönetim sağladı. Siyasi makamlar, koloni büyüdükçe genişledi ve sömürge başkentinin dış yerleşimlere hizmet etmesine (ve daha da önemlisi, onları vergilendirmesine) olanak tanıdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_STATE_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Federe devletlerin kurulması, ulusal bir sistem içinde bölgesel öz yönetimi tesis etti. Federal düzeyde çıkarılan ve uygulanan bir federal anayasanın açık politikaları, eyalet hükümetlerinin yerel meseleleri yönetmesine ve ulusal temsil yoluyla ulusal politikayı etkilemesine izin verdi. Esasen eyalet hükümetleri parmaklarını çeşitli pastalara soktu, yeni pastalara parmak eklemek için çalıştı ve bir başka eyaletin kendilerinden daha fazla pastası olduğu gözlemlendiğinde eşitlik için yüksek sesle ısrar etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LAND_GRANTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Sömürge valileri, iyi durumdaki kolonistlere toprak bağışlayabilirdi, ancak çoğu zaman toprağı işleyen hükümlü işgalcilere göz yumarlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FIRST_FLEET_CHAPTER_HISTORY_PARA_1">
+			<Text>Altı hükümlü gemisi, iki donanma gemisi ve üç erzak gemisi 1788'de Avustralya'ya ulaştı. Balıkçılık, başlangıçta azalan sömürge stoklarını takviye etmenin tek yoluydu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_REWARDS_OFFERED_CHAPTER_HISTORY_PARA_1">
+			<Text>1851 Avustralya altına hücumu, sömürge yönetimlerini altın yataklarından gelen cevher için kazançlı ödüller sunmaya yöneltti. Tenekesi olan herkes altın arayıcısı oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TERRA_NULLIUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın tanınabilir bir egemen olmaksızın 1835'te "sahipsiz toprak" ilan edilmesi, kolonilerin—Aborijin varlığına rağmen—bölgeyi kendilerine ait olarak talep etmelerine izin verdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COLONIAL_ARCHITECTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Ceza kolonistleri tarafından yapılan ilk gelişigüzel geliştirmelerin ardından, sömürge valileri kolonilerin gelişimini planlamak için çeşitli yetenekli ve uzmanlaşmış zanaatkârlar atadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARRAMATTA_ROAD_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın ilk ve en eski yolu, Sidney ve Parramatta sömürge şehirlerini birbirine bağlıyordu. Bu tür altyapı gelişimi, geniş bir sömürge karayolu sistemine yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TICKET_OF_LEAVE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kendilerini geçindirebilen mahkûmlara ya da iyi davranışlarına karşılık bir ödül olarak şartlı tahliye belgesi verilir ve sömürge bölgelerinde çalışmalarına izin verilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MOUNTED_STOCKMEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Atlı sığırtmaçlar, Taşra istasyonlarına tahsis edilen uçsuz bucaksız meralarda çalışırdı. Geniş arazilere dağılmış sürülerle başa çıkmada ustaydılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRANS_AUSTRALIAN_RAILWAY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir Milletler Topluluğu'na dönüşümünün ardından, Trans-Avustralya Demiryolu'nun inşası, batı Avustralya'daki Perth'ten doğu Avustralya'daki Sidney'e güvenilir ve düzenli ulaşım sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FEED_THE_TROOPS_CHAPTER_HISTORY_PARA_1">
+			<Text>AIF birlikleri, uzak diyarlardaki seferleri sırasında istikrarlı bir gıda tedarikine ihtiyaç duyuyordu. Uzun süre dayanan (ve diş kıran) peksimet, askerleri Gelibolu ve ötesinde besledi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_GALLIPOLLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Gelibolu, İtilaf Kuvvetleri için nihayetinde bir yenilgi olsa da, AIF birliklerinin verdiği çetin mücadele Avustralya ana vatanında halkın takdirini kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCHOOL_OF_THE_AIR_CHAPTER_HISTORY_PARA_1">
+			<Text>Radyonun yaygınlaşması, eğitim programlarının Avustralya'nın ücra bölgelerine yayınlanabilmesi anlamına geliyordu. Bu sayede Taşra'nın en uzak köşelerinde eğitim mümkün oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FLYING_DOCTORS_CHAPTER_HISTORY_PARA_1">
+			<Text>Uçan Doktorlar Hizmeti, Avustralya'nın ücra bölgelerindeki insanların tıbbi ihtiyaçlarını karşılamak için hava taşımacılığı ve radyoyu bir arada kullandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_MATERIEL_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'nın savaş ekonomisi; silah, askeri araç ve savaş gemileri inşa etmek için hammadde gerektiriyordu. Bu önceliklendirme, ulusun hayati savaş ihtiyaçlarını besleyen madencilik faaliyetlerinin artmasına yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INVASION_THREAT_CHAPTER_HISTORY_PARA_1">
+			<Text>Japon istilası korkusu, zorunlu askerlikle toplanan milislerin, Avustralya'nın savunmasına katkı sağlaması koşuluyla sınırların ötesinde görevlendirilmesine izin veren bir politikayı beraberinde getirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SEAFOOD_PRESERVATION_CHAPTER_HISTORY_PARA_1">
+			<Text>II. Dünya Savaşı sonrası göçteki artış, Avustralya'nın balıkçılık endüstrisinin önemli ölçüde genişlemesine yol açtı. Karides ve taş ıstakozu değerli ihracat kalemleri haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PARK_RANGERS_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya park korucuları; hem arazinin doğal özelliklerinden hem de bu deneyimi yaşamaya gelen ziyaretçilerin refahından sorumlu olarak geniş park alanlarına göz kulak olurlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1">
+			<Text>Altın 19. yüzyılın başlarında keşfedilmiş olmasına rağmen Avustralya'da 'altın humması' 1851'e kadar yaygınlaşmadı. O kadar çok altın cevheri çıkarıldı ki İngiltere, Sidney Darphanesi'ni açtı; İngiliz sikkelerinin ilk kez İngiltere dışında basılmasına izin verilmiş oldu. Altın, o günden beri Avustralya için kârlı bir ihracat kalemi olmayı sürdürmüştür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PROSPECTOR_CHAPTER_HISTORY_PARA_1">
+			<Text>19. yüzyılda Avustralya altınının keşfinden bu yana altın arayıcıları, antik yurt topraklarında uzun süre talihlerini aradılar. Boş zamanlarında maden artığı yığınlarını altın, gümüş ya da opal için eleyen hevesli arayıcıların aksine, bu 'profesyonel amatör' madenciler için büyük servet bulmak, doğru hak iddiasını belirledikleri sürece ellerinin altındadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GRAZIER_CHAPTER_HISTORY_PARA_1">
+			<Text>Otlakçılar, Taşra çiftliklerinin vazgeçilmezleridir; sürüleri güder, mera arazilerinde hayvanlara uygun ürünler yetiştirirler—bu araziler, Avustralya'nın pek misafirperver olmayan otlak alanlarında sığır veya koyun beslemeye yetecek kadar geniştir. İster peynir yapıyor, ister koyun kırkıyor, isterse dingoları öldürüyor olsun, otlakçılar Avustralya'nın kârlı hayvancılık endüstrisinin ilk adımını oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FARMER_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralyalı çiftçilerin çileleri ve sıkıntıları pek çoktur ve çeşitlidir. Toprak erozyonu, korkunç İskoç devedikeni ve tavşan istilaları—kuraklığa meyilli topraklardan bahsetmiyoruz bile. Yine de bu zorlu yaşam, canla başla çalışan ve en uygun yere yerleşmeyi bilenler için oldukça kazançlı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FISHER_CHAPTER_HISTORY_PARA_1">
+			<Text>İster Avustralya akciğerli balığı, ister Murray morinası, isterse batı sazan balığı olsun, yetenekli bir balıkçı hepsini yakalayabilir—ki bu, dünyanın en kurak kıtası olan Avustralya'da oldukça zorlu bir iştir. Gözü pek kaya sıçrayıcıları, tatlı su sorunlarını bir kenara bırakıp kıyı kayalarından deniz canlıları yakalarlar… ve onları avlamaya çalışan tuzlu su timsahlarından kaçınırlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_EXPLORER_CHAPTER_HISTORY_PARA_1">
+			<Text>Avustralya'daki sömürgeci kâşifler, çoğunlukla çabaları karşılığında şöhret ve takdir arayan gözü pek, hırslı insanlardı. Ne var ki Taşra, onların arzularına pek sempati duymadı. Tehlikeleri hakkında temel bir bilgi olmadan çalılıklara doğru yola çıkanların çoğundan çok azı sağ salim dönebildi. Bazıları ise hiç dönemedi.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

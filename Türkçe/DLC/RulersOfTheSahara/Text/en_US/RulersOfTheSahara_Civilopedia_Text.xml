@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_TITLE">
+			<Text>II. Ramses</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_QUOTE">
+			<Text>Bana, kum taneleri kadar bol buğday demetleri, göğe yükselen yapılar ve dağlar gibi tahıl yığınları bahşedildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_HISTORY_PARA_1">
+			<Text>Yeni Krallık döneminin simgesi olan Ramses'in hükümdarlığı, ayırt edici tek bir olayla değil, bir dizi örnek an ile -askeri fetihler, anıtsal mimari vb.- belirlenir. İşte firavunun kibri ve kudreti ete kemiğe bürünmüş halde.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_HISTORY_PARA_2">
+			<Text>Liderlerimizin çoğu, bilinmezlikten yükselip büyüklüğe ulaşır. Pachacuti, bir kraliyet hanedanının ikinci oğluydu ve asla İnkalara liderlik etmesi beklenmezdi. Kleopatra, isyan eden bir yabancı krallığın tebaasıydı. Ama Seti'nin oğlu Ramses için durum böyle değildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_HISTORY_PARA_3">
+			<Text>Seti'nin ailesi aslen kraliyet soyundan gelmese de, Akhenaton'un sosyal ve dini çalkantılarının ardından ortaya çıktılar. Akhenaton yeni bir dini düzen yaratmaya çalışmıştı ve onun (ve ardından Tutankamon'un) yönetimi altında Mısır'ın dış sınırları gerilemişti. Seti bunu düzeltmeye çalıştı - Mısır gücünü genişleterek Hititlerin Levant'taki hakimiyetine son vermek ve Mısır'ı sınırları Nil'in çok ötesine uzanan geniş bir imparatorluk olarak yeniden tesis etmek. Ramses erken yaşta umut vaat etti ve babası onu on yaşında naip olarak atadı. Seti'nin Mısır gücünü yeniden konsolide etmesi başka açılardan da dışa dönüktü; Suriye tanrılarını, tek parça ve muhafazakâr olduğu düşünülen Mısır devletine dahil etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_HISTORY_PARA_4">
+			<Text>Ramses, ilk yıllarında Libya'yı bastırmak ve Suriye'yi Hititlerden geri almak için savaşçılar gönderdi ve Sardinyalı korsanlara karşı parlak bir stratejik manevrayla, isyancı filosunun tamamını ele geçirdi; onlara belirli zaferler tanıyarak rehavete kapılmalarını sağladı. Genişlemesindeki bir diğer önemli nokta, firavunun bizzat liderlik ettiği aşırı yayılmış bir Mısır gücünün, Hitit yönetimindeki Kadeş şehrini neredeyse ele geçirdiği ancak geri çekilmek zorunda kaldığı Kadeş Muharebesi'ydi (Suriye'de). Moral bozucu bir yenilgi olabilecek şey, Mısırlıların stratejilerini yeniden düşünmek ve savaşı berabere bitirmek için zaman kullanmasıyla zafere dönüştü. Ortaya çıkan barış anlaşması, bölgedeki güç dengesi haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_HISTORY_PARA_5">
+			<Text>Ramses, ülkesinde bir inşaat hamlesine girişti, özellikle Ramesseum ve Ebu Simbel tapınakları, adının -genellikle Yunanca versiyonu Osymandyas (Percy Shelley'nin ünlü şiirinde Ozymandias olarak geçer)- çağlar boyunca yaşamasını sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_HISTORY_PARA_6">
+			<Text>Ramses, doksanlı yaşlarının sonlarında öldü ve Mısır'a tahtta neredeyse yetmiş yıl kazandırdı. Adı artık (haklı ya da haksız) Mısır gücü, kibri ve kudretiyle eş anlamlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_CAPSULE_BODY">
+			<Text>Harikaların kendi ödülleri olduğunu kim söyleyebilir? Ramses için de durum böyledir; harikaları tamamladığında büyük miktarda [Icon_Culture] Kültür, binaları bitirdiğinde ise küçük bir miktar kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMSES_CHAPTER_DETAILED_BODY">
+			<Text>İyi bir nehir başlangıcıyla Mısır, harikalar ve bölgelere yönelik bonuslar kazanır. Ramses'in Ebu Simbel yeteneği sayesinde harikalar büyük bir [Icon_Culture] Kültür kaynağıdır; bu yetenek inşa maliyetinin %30'unu [Icon_Culture] Kültür olarak verir. Sfenks ise bu Harikaların yanına yerleştirildiğinde daha da fazla [Icon_Culture] Kültür sağlar. Maryannu Savaş Arabası Okçusu, Mısır inşaata odaklanırken onu koruyacak ve bu da bir Kültür Zaferi'ne yol açacaktır.</Text>
+		</Row>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_TITLE">
+			<Text>Sundiata Keita</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_QUOTE">
+			<Text>Ancak Mali'nin sizden sakladığı gizemi asla delmeye çalışmayın. Geçmişi sorgulamak için ölü şehirlere gitmeyin, çünkü ruhlar asla affetmez. Bilinmemesi gerekeni bilmeye kalkışmayın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_1">
+			<Text>Mali İmparatorluğu, Gana'nın (Vagadu) küllerinden doğdu. Mali, Sahra'nın güney ucundaki kurak bölge Sahel'in sınırlarında küçük bir devlet olarak varlığını sürdürüyordu. Ancak Vagadu çökerken, bu küçük güçler fırsatlarını gördüler. Ve Mali için, yaklaşık 1230'da, bu yükün omzuna düştüğü kişi Mali Aslanı Sundiata Keita'ydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_2">
+			<Text>Sundiata Destanı'na göre, Aslan'ın kökenleri pek de hayırlı değildi. Annesi Sogolon, pek de pohpohlayıcı olmayan bir şekilde 'manda kadını' olarak anılan bir halktan biriydi. Ancak asıl mesele buydu; kehanete göre, Mande kralı Nare Maghann Konate böyle biriyle evlenirse, o kişi büyük bir kral doğuracaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_3">
+			<Text>Sundiata, işte bu şekilde Konate ve Sogolon'un çocuğu olarak dünyaya geldi. Pek sevilmezdi - görünüşünü annesinden almıştı, ayrıca fiziksel durumu çocukluğunun büyük bölümünde yürüyemeyecek kadar kötüydü. Sundiata genç bir adam olarak hem bu durumuyla hem de tamamen soylu bir soydan gelen üvey kardeşinin kıskançlığıyla mücadele etti. Yürümek için çabaladı, demircilerin onun için dövdüğü demir çubukları kırdı ve ancak annesinin sürekli emirleriyle (ya da bazı anlatılara göre bir baobab ağacının gücüyle) kendini hareket etmeye zorladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_4">
+			<Text>Ancak aile içi mücadeleler daha da kötüleşti - babasının ölümü üzerine Sundiata ve Sogolon sürgüne gönderildi ve sığınak arayarak Sahel'de dolaştı. Mema krallığı dışındaki tüm kabileler onları kovdu. Orada sığınak bulan Sundiata, avlanmayı ve savaşmayı öğrendi ve değerini kanıtladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_5">
+			<Text>Onun yokluğunda bölgede gelişmeler yaşanıyordu. Büyücü-kral Sumaoro Kante ortaya çıkmış ve Vagadu'nun kalıntılarını fethetmeye başlamıştı. Korku içindeki Mali halkı, sürgündeki kehanet edilmiş krallarını aradı ve onu buldu - belirtmek gerekir ki genç kral o sırada sadece 18 yaşındaydı! Sundiata Mali'ye döndü, dağınık krallıkları birleştirdi ve büyücüyü yendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_6">
+			<Text>Sundiata Destanı'nda kaydedilen bu hikâyenin taraflı yönleri vardır. Daha sonraki yazılar ve anlatımlar çoğunlukla Müslüman kaynaklardan gelir ve yerli dinlere mensup herhangi bir hükümdarı zalim ve kötü bir büyücü olarak göstermeye heveslidir. Bu hikâyelerde Sundiata, Müslüman bir hanedan kuran adil bir Müslüman kraldır. Ancak Sundiata'nın zamanında Malililerin çoğu Müslüman değildi ve kendi dininin de İslam olmadığı muhtemeldir, oysa sadece bir iki nesil içinde Mali seçkinlerinin çoğu Müslüman olmuştu. Nitekim kâşif İbn Battuta, neredeyse yüz yıl sonra Mali sarayındaki alışılmadık uygulamalardan şikâyet eder, ancak soyluların hepsinin bu inançta olduğunu belirtir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_7">
+			<Text>Mansa [kral] Sundiata yönetimindeki Mali, büyük yeğeni Musa döneminde ulaşacağı büyüklükte ve zenginlikte değildi. Bununla birlikte Sundiata, Batı Afrika'da, çeşitli vasal krallıkların halkları adına konuşmak üzere temsilciler göndereceği bir federatif monarşi yarattı. Bu, Vagadu'nun haleflerinin başlangıcıydı; bu halefler arasında bizzat Mali, Songhay ve diğerleri de vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_HISTORY_PARA_8">
+			<Text>Mansa Sundiata genç yaşta, muhtemelen başarısız bir nehir geçişi sırasında öldü. Mezarı, tüm Mali krallarının mezarları gibi gizlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_CAPSULE_BODY">
+			<Text>Sundiata Keita’nın serveti, torunununki kadar görkemli olmasa da, Rusya’nın Büyük Yazarlar peşindeki hırsıyla boy ölçüşecek kadar büyüktür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SUNDIATA_KEITA_CHAPTER_DETAILED_BODY">
+			<Text>Sundiata Keita’nın en mahir olduğu iki alan [ICON_Gold] Altın ve [ICON_GreatWork_Writing] Yazın Büyük Eserleri'dir. Mali'nin Celi Şarkıları yeteneği [ICON_Production] Üretimini azaltsa da, bunu [ICON_Gold] Altın üretimiyle telafi eder. Suguba'nın komşuluk bonuslarından ve Mandekalu Süvarilerinin öldürmelerden kazandığı [ICON_Gold] Altın ile daha da fazla Altın elde eder. Sundiata Keita'nın Büyük Şahsiyetleri daha ucuza satın alma yeteneği, daha güçlü [ICON_GreatWork_Writing] Yazın Büyük Eserleri yaratabilecek Büyük Yazarları satın almaya odaklanmalıdır. Kültür Zaferi, Sundiata Keita'nın yapabileceği en iyi yatırımdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CLEOPATRA_TITLE">
+			<Text>Kleopatra (Mısır)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CLEOPATRA_ALT_TITLE">
+			<Text>Kleopatra (Ptolemaios)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CLEOPATRA_ALT_QUOTE">
+			<Text>Her tuhaf ve korkunç olay baş tacıdır, lakin rahatlığı hor görürüz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CLEOPATRA_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>Ptolemaios Kleopatra olarak oynarken büyük Nil Nehri boyunca [ICON_FOOD] Besin ve [ICON_CULTURE] Kültür akar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CLEOPATRA_ALT_CHAPTER_DETAILED_BODY">
+			<Text>Ptolemaios Kleopatra olarak oynarken şehirlerinizi çok sayıda Nehir ve Taşkın Yatağı'nın bulunduğu bölgelere kurmaya özen gösterin. Kleopatra'nın önderliğinde Mısır'ı yönetirken nehir kenarına yerleşmek, zamanın sınavına meydan okuyan bir uygarlığın ihtiyaç duyduğu her şeyi sağlar: [ICON_Production] Üretim, [ICON_Culture] Kültür, [ICON_FOOD] Besin ve Çekicilik. Iteru yeteneği ayrıca nehir kıyısındaki bu şehirlere [ICON_Production] Üretim ve Taşkınlara karşı koruma verir. Lider yeteneği, nehir şehirlerine [ICON_Culture] Kültür, Çekicilik ve [ICON_FOOD] Besin kazandırır. Nehir şehirlerinde daha fazla [ICON_Culture] Kültür elde etmek için Sfenks'in bilmecesini çözmeniz (yani onları inşa etmeniz) gerekir. Kleopatra'nın ana hedefi Kültür Zaferi'dir; [ICON_Culture] Kültür, Sfenks ve lider yeteneğinden gelir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

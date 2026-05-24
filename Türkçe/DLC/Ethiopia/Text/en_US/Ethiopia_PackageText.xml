@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_ETHIOPIA_MOD_TITLE">
+			<Text>Etiyopya Paketi</Text>
+		</Row>
+		<Row Tag="LOC_ETHIOPIA_MOD_TEASER">
+			<Text>Yeni Uygarlık ve Lider - Etiyopya Kralı II. Menelik</Text>
+		</Row>
+		<Row Tag="LOC_ETHIOPIA_MOD_DESCRIPTION">
+			<Text>Yeni bir uygarlık ve lider, yeni bir bölge, 2 yeni bina ve Gizli Cemiyet oyun modunu içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

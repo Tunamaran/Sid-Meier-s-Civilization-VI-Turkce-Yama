@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_RELIGIOUS_COMBAT_RULESET_TITLE">
+			<Text>Kutsal Topraklar</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_COMBAT_RULESET_TEASER">
+			<Text>Bu din odaklı, Orta Çağ'da geçen senaryoda kutsal hakimiyet mücadelesi. Sanayi Çağı'na kadar sürer.[NEWLINE]Zafer Koşulları[NEWLINE][ICON_Bullet]Kutsal Zafer - Sanayi Çağı'nın şafağında (ilk Sanayi teknolojisi veya yönetim bilimi) en fazla dinî takipçiye sahip ol.[NEWLINE]Oynanış Değişiklikleri[NEWLINE][ICON_Bullet]İlk Kutsal Alan, bedava bir Büyük Peygamber verir.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_RELIGIOUS_COMBAT_VICTORY_TITLE">
+			<Text>Kutsal Zafer</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_COMBAT_VICTORY_DESC">
+			<Text>Sanayi Çağı'nın şafağında (ilk Sanayi teknolojisi veya yönetim bilimi) en fazla dinî takipçiye sahip ol.</Text>
+		</Row>	
+		
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Kutsal Topraklar</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_TEASER">
+			<Text>Bu din odaklı, Orta Çağ'da geçen senaryoda kutsal hakimiyet mücadelesi. Sanayi Çağı'na kadar sürer.</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_COMBAT_MOD_DESCRIPTION">
+			<Text>Zafer Koşulları[NEWLINE]Kutsal Zafer - Sanayi Çağı'nın şafağında (ilk Sanayi teknolojisi veya yönetim bilimi) en fazla dinî takipçiye sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_RELIGIOUS_HAVE_MOST_FOLLOWERS_PROGRESS">
+			<Text>Dinî Takipçiler {NumFollowers} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_RC_GAME_ERA_LIMIT_REACHED_PROGRESS">
+			<Text>Sanayi Çağı'na Ulaşıldı {StatusIcon}</Text>
+		</Row>	
+
+	</BaseGameText>
+</GameData>

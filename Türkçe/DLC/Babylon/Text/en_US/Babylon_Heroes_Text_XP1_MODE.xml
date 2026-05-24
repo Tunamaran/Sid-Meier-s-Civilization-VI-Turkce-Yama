@@ -1,0 +1,66 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--UI-->
+		<Row Tag="LOC_HEROES_LOYALTY_FLYOVER_POS">
+			<Text>[COLOR:Happiness]+{1_Num} Bağlılık[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HEROES_LOYALTY_FLYOVER">
+			<Text>[COLOR:Happiness]{1_Num} Bağlılık[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_CREATED_FIRST_TITLE">
+			<Text>İlk Kahraman Edinildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_CREATED_FIRST_DESCRIPTION">
+			<Text>Bir kahraman uygarlığımıza ilk kez katıldı!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_CREATED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{HeroClassName: plural 1?Aramızda bir kahraman yürüyor!; other?Aramızda kahramanlar yürüyor!} {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkının adanmışlığı, ilk {HeroClassName: plural 1?kahramanı; other?kahramanları} {HeroClassName}'i davalarına katılmaya mecbur etti.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_EXPIRED_FIRST_TITLE">
+			<Text>İlk Kahraman Ayrıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_EXPIRED_FIRST_DESCRIPTION">
+			<Text>İlk kahramanımız uygarlığımıza hizmetini tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_EXPIRED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{HeroClassName}'in {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkının arasında yürüdüğü zaman sona erdi. İnançla, bir gün onu yeniden göreceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_RECALLED_FIRST_TITLE">
+			<Text>İlk Kahraman Geri Çağrıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_RECALLED_FIRST_DESCRIPTION">
+			<Text>Uygarlığımıza ilk kez bir kahraman geri çağırdık!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_RECALLED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Çağlar ötesinden, efsanevi {HeroClassName: plural 1?kahraman; other?kahramanlar;} {HeroClassName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkının çığlıklarını {HeroClassName: plural 1?duymuş; other?duymuşlar;} ve bir kez daha hizmetlerine geri dönmüştür.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_CREATED_TITLE">
+			<Text>Kahraman Edinildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_CREATED_DESCRIPTION">
+			<Text>Bir kahraman uygarlığımıza katıldı!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_CREATED_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkının adanmışlığı, efsanevi {HeroClassName: plural 1?kahraman; other?kahramanlar;} {HeroClassName}'i davalarına çekmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_EXPIRED_TITLE">
+			<Text>Kahraman Ayrıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_EXPIRED_DESCRIPTION">
+			<Text>Bir kahraman uygarlığımıza hizmetini tamamlamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_EXPIRED_INSTANCE_DESCRIPTION">
+			<Text>{HeroClassName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkının {HeroClassName: plural 1?kahramanı; other?kahramanlar;} olarak, zamanı sona ermiştir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_RECALLED_TITLE">
+			<Text>Kahraman Geri Çağrıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_RECALLED_DESCRIPTION">
+			<Text>Bir kahraman uygarlığımıza hizmete geri dönmüştür!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_HERO_RECALLED_INSTANCE_DESCRIPTION">
+			<Text>Kahraman {HeroClassName}, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkının çağrısına {HeroClassName: plural 1?kulak vermiştir; other?kulak vermişlerdir;} ve bir kez daha onlara hizmet etmek üzere geri dönmüştür.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_CONTENT_TITLE">
+			<Text>Kıyamet</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_PARA_1">
+			<Text>Oyun kurulumunda oyuncular, Kıyamet oyun modunu etkinleştirerek felaketlerin şiddetini değiştirebilir, yeni bir Puanlı Yarışma ve birimi oyuna dâhil edebilir ve nihayetinde gezegenin ve uygarlıklarının kuyruklu yıldızlar tarafından dövülmesiyle dünyanın sonuna tanıklık edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_TITLE">
+			<Text>Kahin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_1">
+			<Text>Kıyamet oyun modu, yeni bir birim olan Kahin'i tanıtır. Bu birim, doğal felaketlere yol açma konusunda eşsiz bir yeteneğe sahiptir: Kahin'i uygun bir konuma getirin ve Felakete Yol Aç eylemini kullanarak yakındaki bölgelerde sel, fırtına, yangın veya volkanik patlama başlatın. Bu eylem, iklim değişikliğini hızlandıran az miktarda CO2 üretir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_2">
+			<Text>Kahinler yalnızca [ICON_Faith] İnanç ile satın alınabilir ve refakat edilebilir. Her terfide, felaketlere yol açma haklarının sayısı artar. Kahinler tecrübe kazanmaz; bunun yerine, yeni bir Puanlı Yarışma aracılığıyla yeni terfilerin kilidini açarlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_TITLE">
+			<Text>Tanrıları Yatıştırma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_PARA_1">
+			<Text>Kahinleriniz için terfi kazanmak adına Tanrıları Yatıştır Puanlı Yarışması'na katılmanız gerekecektir. Bu yarışma oyun boyunca belirir ve Kahinlerinizi kullanarak muharebe birimlerinizi volkanların yakınında kurban etme olanağı sunar. Yüksek puan alan oyuncular, mevcut ve gelecekteki tüm Kahinleri için terfi kazanır. Birimleri kurban etmek, iklim değişikliğini hızlandıran az miktarda CO2 üretir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_TITLE">
+			<Text>Yeni Felaketler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_PARA_1">
+			<Text>Kıyamet oyun moduna özgü iki yeni felaket bulunur:[NEWLINE][ICON_BULLET] Güneş Patlamaları: Dünya genelinde güneş radyasyonu gezegeni bombalar, enerjiyle ilgili binalara ve iyileştirmelere hasar verir, belirli bölgeleri yağmalar ve geç oyun birimlerine zarar verir[NEWLINE][ICON_BULLET] Kuyruklu Yıldız Çarpmaları: Bir kuyruklu yıldız gezegene çarpar, yoluna çıkan her şeyi, hatta şehirleri bile yok eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_TITLE">
+			<Text>Dünyanın Sonu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_PARA_1">
+			<Text>İklim değişikliği azami seviyeye ulaştığında, özellikle kuyruklu yıldız çarpmaları olmak üzere korkunç, yüksek hasarlı felaketler daha yaygın hâle gelir. Bu noktada oyuncuların hızla zafere ulaşması gerekir, aksi takdirde dünyanın sonu onlar adına galibi belirleyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_TITLE">
+			<Text>Güneş Patlamaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_PARA_1">
+			<Text>Güneş Patlamaları tüm haritayı etkiler. Tetiklendikleri turda [ICON_POWER] Enerji Santrali binalarını yok eder; gelişmiş birimlere ve iyileştirmelere, [ICON_POWER] enerjiyle ilgili binalara, Kampüs Bölgelerine, Sanayi Bölgelerine ve Uzay Limanı Bölgelerine hasar verebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_TITLE">
+			<Text>Kuyruklu Yıldız Çarpmaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_PARA_1">
+			<Text>Kuyruklu Yıldız Çarpmaları, birbirine bitişik dört bölgeyi ya da şehir merkezlerini hedef alır; önüne çıkan her şeyi silip süpürür ve bölgeyi geçilmez hâle getirir.</Text>
+		</Row>
+
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kriz anlarında insanlar uzun zamandır bir tür kurtuluş vaat edenlere yönelmiştir. Doğal, siyasi ya da ekonomik düzen çökerken, kendilerine felaketi savuşturmanın, hayatta kalmanın veya düşmanlarına felaket yağdırmanın yolunu gösterebilecek kahinler ortaya çıkar. Buradaki Kahin birimi belirli bir kültürü veya tarihsel anı yansıtma amacı taşımasa da, Mezoamerika'nın İspanyolların gelişine tepkisinden Avrupa'nın milenyum kültlerine ve günümüzdeki Cennet Kapısı gibi gruplara kadar dünya genelinde ve tarih boyunca bu tür figürlere yönelik benzer eğilimler bulabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_2">
+			<Text>Örneğin, 20. yüzyılın başında Güneydoğu Asya'nın Laosça konuşulan bölgelerinde "kutsal adamlar" olarak bilinen yeni peygamberler ortaya çıktı. Bu peygamberler, toprakları Fransız ve Siyam güçleri arasında bölünmüş, yeni vergi sistemleriyle karşı karşıya kalmış ve Vientiane şehrinin yıkımına tanıklık etmiş Laos halkına daha kötü şeylerin geleceğini vaat ediyordu. İnekler ve domuzlar iblise dönüşecek, para değersizleşirken şu anda değersiz olan çakıl taşları altına dönüşecekti. Büyük bir rüzgâr toprağı kasıp kavuracak ve bir tutam limon otuna tutunamayan herkesi sürükleyip götürecekti. Birçok kişi bu kahinlere inandı, çakıl taşları topladı, hayvanlarını kesti ve gelecek büyük değişimi bekledi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_3">
+			<Text>Kahinler çoğu zaman iyi sonlanmaz. Laos hareketi Siyam askerleri tarafından bastırıldı, Aztek duaları İspanyol fethini durduramadı ve kıyamet günü görünüşe göre hiçbir zaman gelmedi.</Text>
+		</Row>
+		<!-- promotions -->
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_MESSENGER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kahinler sıklıkla kendilerini ilahî güçlerle doğrudan iletişim hâlinde olarak sunardı. Bazıları, Laoslu "kutsal adamlar" gibi kutsal rüyalardan ilham aldı; bazıları, 20. yüzyılın başlarındaki okültist Aleister Crowley gibi, tanrılar tarafından kendilerine verilmiş ilahî metinlere sahip olduklarını iddia etti; hatta bazıları, İsa Mesih'in kardeşi olduğunu söyleyen Taiping Ayaklanması lideri Hong Xiuquan gibi, doğrudan ilahî figürlerle akraba olduklarını bile söyledi. Ancak hepsinin ulaştırmak zorunda oldukları, ötelerden gelen bir mesajı vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INQUISITOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Engizisyoncu, aslında yalnızca soru soran kişidir. Ne var ki İspanyol Engizisyonu'ndan bu yana bu terim, sapkın inançları keşfedip yok etmeye çalışanlarla özdeşleşmiştir. Kutsal bir mesaja sahip olan kişi, doğal olarak karşıt mesajları da ortadan kaldırmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_ZEALOT_CHAPTER_HISTORY_PARA_1">
+			<Text>Farklı kıyamet hareketlerini birleştiren tek şey, taassuplarıdır. Bu tür grupların talep ettiği eylemleri gerçekleştirebilmek ve takipçilerinin yaptığı fedakârlıkları yapabilmek için, kıyamet gruplarının bağlıları inançlarında birleşir. İşte bu, onları hem bu kadar ikna edici... hem de bu kadar korkutucu yapan şeylerin bir parçasıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INCANTATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Kıyametçi grupların çoğu zaman gizli bir duası olurdu; kahinler de bu duayı okumanın kişiyi güvende tutacağını vaat ederdi. Bu dualar, Tanrı'nın gizli isimleri, "arı diyar"a yapılan tekrarlanan çağrılar ya da o kadar gizli bir dilde söylenen sözler olabilirdi ki kahin bile bunları anlayamazdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_CHAPTER_HISTORY_PARA_1">
+			<Text>Zamanın sonunu bekleyen gruplar, bazen bu sonu getirmek için harekete geçer. Veba, Orta Çağ'da biyolojik silah olarak kullanılmıştır; bunun en çarpıcı örneği, kuşatan birliklerin enfekte cesetleri şehre fırlatarak bir salgına yol açtığı Caffa Kuşatması'dır. Ancak bu kadar geriye gitmemize gerek yok: 1995 gibi yakın bir tarihte, kıyamet tarikatı Aum Shinrikyo, Tokyo metrosuna sarin gazıyla saldırarak yeni bir çağ başlatmayı amaçlamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_COMET_LAKE_CHAPTER_HISTORY_PARA_1">
+			<Text>1908 yılında S. Semenov, Vanavara Ticaret Karakolu'nda oturuyordu. Kendi anlatımıyla "gök ikiye yarıldı ve ormanın üzerinde geniş bir ateş belirdi." O yaz günü dayanılmaz derecede kızıştı ve ardından "gök kapandı… öyle bir gürültü koptu ki sanki kayalar düşüyor ya da toplar ateşleniyordu… evlerin arasından toplardan fırlar gibi sıcak bir rüzgâr geçti, yerde patika gibi izler bırakarak." Semenov'un deneyimlediği şey, yaklaşık 200 fit (65 metre) çapında bir buz topu olan bir kuyruklu yıldız parçasının Sibirya taygasına çarpması sonucu oluşan, atom bombasının bin katı gücünde bir patlama olan Tunguska Olayı'ydı. Tunguska benzeri çarpmalar nükleer silahlar kadar yıkıcı olabilse de, fit yerine millerle ölçülen daha büyük kuyruklu yıldız çarpmaları, yalnızca bölgeyi değil tüm dünyayı etkileyen katlanarak artan felaketlere yol açardı. Çarpma bölgesindekiler yanarken, kuyruklu yıldız aynı zamanda atmosfere toz fırlatarak güneş ışığını engeller, iklimleri soğutur ve dünya çapında bitki örtüsünü yok eder (böylece devasa orman yangınları için kıvılcım oluşturur).</Text>
+		</Row>
+	</EnglishText>
+</GameData>

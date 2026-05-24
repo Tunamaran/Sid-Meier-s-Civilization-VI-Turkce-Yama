@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Scenario Name and Description-->
+		<Row Tag="LOC_POLAND_SCENARIO_NAME">
+			<Text>Jadwiga'nın Mirası</Text>
+		</Row>
+		<Row Tag="LOC_POLAND_SCENARIO_TOOLTIP">
+			<Text>Rönesans Polonya'sını yabancı istilalardan en iyi kim savunabilir? 60 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_POLAND_SCENARIO_DESCRIPTION">
+			<Text>Bu 60 turluk senaryoda, Avrupa'nın kavşağında duruyor, verimli Polonya topraklarını her yönden gelen sürekli istilacı dalgalarına karşı koruyorsunuz. Kanatlı Süvarilerinizi toplayın ve uygarlığınızı büyütürken Töton Şövalyeleri ve Osmanlı Türklerine karşı savaşın.[NEWLINE][NEWLINE]Oyun sonunda standart puana göre en iyi imparatorluğa sahip olan oyuncu kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_POLAND_SCENARIO">
+			<Text>Siz birleşmiş bir milletsiniz; Polonya Krallığı ile Litvanya Büyük Dükalığı'nı, parçalarının toplamından daha büyük bir bütün halinde birleştiriyorsunuz. Avrupa'nın kaosu ortasında parlayan bir fener gibisiniz: seçimle gelen hükümdarınız, dinî hoşgörünüz ve magnatlarınızla paylaştığınız geniş yasal haklarınızla. Ancak parlak ışıklar istenmeyen dikkatleri çeker. Bu kadar zorlukla kurduğunuz birliği, amansız düşmanlar karşısında koruyabilecek misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME">
+			<Text>Doğu Avrupa</Text>
+		</Row>
+		<!-- Civilization Names -->
+		<Row Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME">
+			<Text>Litvanya Soyluları</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME">
+			<Text>Polonya Soyluları</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME">
+			<Text>Volhinya Soyluları</Text>
+		</Row>
+    <Row Tag="LOC_CIVILIZATION_RADZIWILL_NAME">
+      <Text>Litvanya Soyluları</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_POTOCKI_NAME">
+      <Text>Polonya Soyluları</Text>
+    </Row>
+    <Row Tag="LOC_CIVILIZATION_OSTROGSKI_NAME">
+      <Text>Volhinya Soyluları</Text>
+    </Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME">
+			<Text>Altın Özgürlük</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION">
+			<Text>Dost topraklarda bir Ordugâh veya Kale tamamlarken bitişik bölgelerde Kültür Bombası oluşturur. Mevcut hükümetteki bir Askeri politika yuvası, bir Joker yuvasına dönüştürülür.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME">
+			<Text>Altın Özgürlük</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION">
+			<Text>Dost topraklarda bir Ordugâh veya Kale tamamlarken bitişik bölgelerde Kültür Bombası oluşturur. Mevcut hükümetteki bir Askeri politika yuvası, bir Joker yuvasına dönüştürülür.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME">
+			<Text>Altın Özgürlük</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION">
+			<Text>Dost topraklarda bir Ordugâh veya Kale tamamlarken bitişik bölgelerde Kültür Bombası oluşturur. Mevcut hükümetteki bir Askeri politika yuvası, bir Joker yuvasına dönüştürülür.</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME">
+			<Text>Mikołaj Radziwiłł</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME">
+			<Text>Stanisław Potocki</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME">
+			<Text>Konstanty Ostrogski</Text>
+		</Row>
+    		<!-- Leaders -->
+		<Row Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME">
+			<Text>Mikołaj Radziwiłł</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME">
+			<Text>Stanisław Potocki</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME">
+			<Text>Konstanty Ostrogski</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME">
+			<Text>Nesvizh Kalesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION">
+			<Text>Her Askeri Mühendis eğittiğinde ekstra bir Askeri Mühendis daha alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION">
+			<Text>Her İşçi veya Askeri Mühendis eğittiğinde ekstra bir tane daha alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME">
+			<Text>Rotmistrz</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION">
+			<Text>Her Şövalye veya Kanatlı Süvari eğittiğinde ekstra bir tane daha alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME">
+			<Text>Saha Hetmanı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION">
+			<Text>Her Kargıcı eğittiğinde ekstra bir Kargıcı daha alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION">
+			<Text>Her Kargıcı eğittiğinde ekstra bir Kargıcı daha alırsın. İkinci eşsiz birim olarak Kazakları alırsın.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

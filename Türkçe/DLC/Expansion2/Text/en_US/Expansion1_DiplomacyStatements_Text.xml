@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_GOLDEN_AGE_WAR">
+			<Text>[SIZE_16]Altın Çağ Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_WAR_OF_RETRIBUTION">
+			<Text>[SIZE_16]İntikam Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_IDEOLOGICAL_WAR">
+			<Text>[SIZE_16]İdeolojik Savaş İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_CASUS_BELLI_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Hedef güç, size verdiği bir sözü yakın zamanda bozmuş olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_CASUS_BELLI_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Hedef güç, sizinkinden farklı bir 3. Kademe hükümete sahip olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_CASUS_BELLI_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>Bir Adanma olarak 'Silaha Sarılın!' ile bir Altın Çağ'da olmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>İttifak Yenileme Talebi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name}, uygarlıklarınız arasındaki İttifak'ı uzatmayı talep etti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>İttifak Yenileme Kabul Edildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name}, İttifak yenilemenizi kabul etti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>İttifak Yenileme Reddedildi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name}, İttifak yenilemenizi reddetti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>İttifakımız her iki halkımıza da büyük fayda sağladı. Yenilememizi öneriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Kabul ettiğinize memnun oldum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Kahretsin, sonsuza dek müttefik kalacağımızı sanıyordum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Kulağa harika bir fikir gibi geliyor. Kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>Şu anda sizinle bu yönde bir eylemi sürdürmek istemiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_POSITIVE">
+			<Text>İttifakımızı uzatmaktan memnuniyet duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>Bu İttifak'ı uzatmak istemiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_1">
+			<Text>Evet, gelecekteki refahımız için.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_2">
+			<Text>Evet, bu ittifak her iki uygarlığımıza da fayda sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_3">
+			<Text>Evet, bu ittifakı yenileyelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_GILGAMESH">
+			<Text>Elbette! Uzun süre birlikte savaşmadık mı? Düşmanlarımız isimlerimizi korkuyla anıyor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_ALEXANDER">
+			<Text>Elbette! Uzun süre birlikte savaşmadık mı? Düşmanlarımız isimlerimizi korkuyla anıyor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_TEDDY">
+			<Text>İttifakımızı sürdürmek en doğrusu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CATHERINE">
+			<Text>Evet, şirketinizin nimetlerinden vazgeçmek istemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CLEOPATRA">
+			<Text>Evet. Yakın ilişkimizi sürdürmek için her fırsatı kucaklarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_1">
+			<Text>İşler artık eskisinden farklı. İttifakı yenileyemeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_2">
+			<Text>Hayır. Bu ittifak artık çıkarlarımıza uygun değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_3">
+			<Text>Hayır. Bu ittifakı yenilemeye gerek yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_GILGAMESH">
+			<Text>Hayır. Eskisi gibi olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_ALEXANDER">
+			<Text>Hayır. Eskisi gibi olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_TEDDY">
+			<Text>Amerika, birinci sınıf bir güce yakışır şekilde kendi yolunu çizecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CATHERINE">
+			<Text>Yakın şirketinizi reddetmek zorundayım. Şimdilik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CLEOPATRA">
+			<Text>Hayır. Bu ittifaka olan sevgim söndü.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_1">
+			<Text>İttifakımız uygarlıklarımıza barış ve refah getirdi. Haydi yenileyelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_2">
+			<Text>Her iki uygarlığımıza da bu kadar faydalı olan ittifakı yenilemeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_3">
+			<Text>İttifakımızı yenileyelim mi? Bu anlaşmadan ikimiz de kazançlı çıkıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_GILGAMESH">
+			<Text>Yenileyelim ittifakımızı dostum! Düşmanlarımızı alt ederken birlikte sevinç bulacağız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_ALEXANDER">
+			<Text>Yenileyelim ittifakımızı dostum! Düşmanlarımızı alt ederken birlikte sevinç bulacağız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_TEDDY">
+			<Text>Hadi ittifakımızı yenileyelim! Ardından bu anı güçlü bir güreş maçıyla kutlayalım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CATHERINE">
+			<Text>İttifakımıza devam edelim mi? Partilerimi kaçırırsanız üzülürsünüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CLEOPATRA">
+			<Text>Bu ittifakta birbirimize çok yakınlaştık. Şimdi benden uzaklaşmazsınız, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_1">
+			<Text>Harika. Bu sayede her iki uygarlığımız da güçlenecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_2">
+			<Text>Çok iyi. Barış ve refah devam edecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_3">
+			<Text>Bu ittifakın bize getirdiği faydaları gördüğünüze memnun oldum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_GILGAMESH">
+			<Text>Birleşik gücümüzle sevinelim! Düşmanlarımızın korkudan dişlerinin takırdadığını duyuyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_ALEXANDER">
+			<Text>Birleşik gücümüzle sevinelim! Düşmanlarımızın korkudan dişlerinin takırdadığını duyuyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_TEDDY">
+			<Text>Şahane!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CATHERINE">
+			<Text>Oh ne güzel. Önemli bir şeyi kaçırmanızdan nefret ederdim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CLEOPATRA">
+			<Text>Memnun oldum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_1">
+			<Text>Hayal kırıklığı yaratan bir karar, elbette.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_2">
+			<Text>Umarım bu karardan pişman olmazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_3">
+			<Text>Böyle hissetmeniz ne yazık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_GILGAMESH">
+			<Text>Fark etmez. Sensiz de yeterince gücüm var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_ALEXANDER">
+			<Text>Fark etmez. Sensiz de yeterince gücüm var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_TEDDY">
+			<Text>Amerika'nın gücü giderek artıyor. Teklifimi kabul etmek akıllıca olurdu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CATHERINE">
+			<Text>Ne kadar hayal kırıklığı yaratıcı ve dar görüşlüsünüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CLEOPATRA">
+			<Text>Kuşkusuz başka bir uygarlık gözünüze çarptı. O halde rahatınızı onlarla bulun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_ACCEPT">
+			<Text>İttifakı Yenile</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_REJECT">
+			<Text>İttifakı Sona Erdir</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_GOLDEN_AGE_WAR">
+			<Text>(Size Altın Çağ Savaşı ilan ediyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_EMERGENCY_WAR">
+			<Text>(Size karşı bir Acil Durum'a katıldı)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_WAR_OF_RETRIBUTION">
+			<Text>(Size İntikam Savaşı ilan ediyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_IDEOLOGICAL_WAR">
+			<Text>(Size İdeolojik Savaş ilan ediyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_GOLDEN_AGE_WAR">
+			<Text>(Size ortak bir Altın Çağ Savaşı ilan ediyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_WAR_OF_RETRIBUTION">
+			<Text>(Size ortak bir İntikam Savaşı ilan ediyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_IDEOLOGICAL_WAR">
+			<Text>(Size ortak bir İdeolojik Savaş ilan ediyor)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>İlişkimizin başkalarının sırlarını bilme gücü üzerine inşa edilmiş olması ne güzel.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Elçilerinizin ve casuslarınızın raporlarından benim kadar keyif alıyor olmalısınız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Bir dahaki sefere size bir heyet gönderdiğimde, liderin elinde iyi sırlarla dolu koskocaman bir dosya olacak. Açarken etrafta kimsenin olmadığından emin olun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Belki de sizi en iyi kaynaklarımdan biri olarak gördüğüme dair fısıltılar duymuşsunuzdur. Ama kim insanların ne dediğine kulak verir ki? Siz ve ben dışında, elbette.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>Neden bu kadar az konuştuğunuzu sık sık merak ediyorum. Hiç ilginç bir şey söyleyecek bilgiye sahip olmadığınıza inanıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Şairlerimiz ve filozoflarımız uygarlığınızı dünyanın ışığı olarak görüyor ve ben de onlara katılıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Kişisel ihtişamınız, uygarlığınızın görkeminde yansımasını buluyor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Her uygarlığın insanı size hayranlıkla bakıyor. Dünyaya ilham kaynağı oluyorsunuz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Uygarlığınıza ve onun eserlerine baktığımda, halkınızın neden dünyanın dört bir yanında şarkılarda ve hikâyelerde övüldüğünü anlıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Uygarlığınız, yeni Rusya'yı inşa ederken örnek alacağım modeldir!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Kişinin etrafını bu tür şairler, oyun yazarları, azizler ve bilim insanlarıyla çevrelemesinden daha iyi ne olabilir ki? Büyük bir ulusun, Yüce Allah'ın lütuflarının bir tecellisi olduğunu her zaman düşünmüşümdür.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Evet! Sizin üstünlüğünüz—yani Arete'niz—gerçekten taklit edilmeye değer!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>Dünyaya örnek olacak daha layık bir lider olmaya çalış! Halkın seni ancak onları zafere taşırsan sevecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Uygarlığımız, mevcut sıkıntılarınızı metanet ve kararlılıkla karşılayışınıza hayranlık duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Karanlık Çağ'ınızın acılarını ne kadar asil bir edayla taşıyorsunuz! Keşke tebaam da sizin kadar sadık olsa!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Size bir hediye gönderiyorum: Üzerinde 'Bu da Geçer' yazılı bir yüzük. Sıkıntılı zamanlarınızda size teselli olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Sizin yaptığınızı daha sıradan bir lider asla başaramazdı: Bir kriz anında uygarlığınızın dizginlerini sıkı sıkıya tutmak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_GENGHIS_KHAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Yönetim biçiminize hayranım. Uygarlığınızı fethetmek için karmaşık bir strateji geliştirmek zorunda kalmamak da ayrıca güzel.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Halkınızın çektiği acılardan içiniz kan ağlıyor olmalı. Polonya, içinde bulunduğunuz durumu anlıyor ve sizin için dua ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LAUTARO_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Siz de güçlülerin zulmüne direnmenin ne demek olduğunu bilirsiniz. Mapuçe, yaptıklarınıza saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_JAYAVARMAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Artık samsara döngüsüne bağlısınız. Durmaksızın, yakında özgürleşip huzura kavuşmanız için dua ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Halkınızın 'muhteşem çağı' bana göre daha çok bir böbürlenme. Düşüşünüzü dört gözle bekliyorum.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>(Yeterince dedikodu yapmıyorsunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>(Bir Karanlık Çağ'ın içindesiniz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>(Bir Altın Çağ'ın içindesiniz.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

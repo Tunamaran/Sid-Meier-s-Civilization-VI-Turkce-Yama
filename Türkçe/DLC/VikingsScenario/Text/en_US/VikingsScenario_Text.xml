@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- City-State Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_DESCRIPTION">
+			<Text>Apuolė Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ARLES_DESCRIPTION">
+			<Text>Arles Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_DESCRIPTION">
+			<Text>Asilah Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BALARM_DESCRIPTION">
+			<Text>Sicilya Emirliği</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_DESCRIPTION">
+			<Text>Alt Clut</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GIJON_DESCRIPTION">
+			<Text>Asturias Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_DESCRIPTION">
+			<Text>Zirid Hanedanı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_DESCRIPTION">
+			<Text>Navarre Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PISA_DESCRIPTION">
+			<Text>Pisa Cumhuriyeti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_DESCRIPTION">
+			<Text>Bulgar Hanlığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ROME_DESCRIPTION">
+			<Text>Papalık Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_DESCRIPTION">
+			<Text>Mercia Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_DESCRIPTION">
+			<Text>Doğu Anglia Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_DESCRIPTION">
+			<Text>Tmutarakan Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VENICE_DESCRIPTION">
+			<Text>Venedik Cumhuriyeti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_DESCRIPTION">
+			<Text>Wessex Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_DESCRIPTION">
+			<Text>Wolin Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_YORK_DESCRIPTION">
+			<Text>Northumbria Krallığı</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ALCAZAR_NAME">
+			<Text>Endülüs'e özgü geliştirme: Alkazar</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_UNIT_MOORISH_FARFANES_NAME">
+			<Text>Endülüs'e özgü birim: Farfanlar</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_IMPROVEMENT_MONASTERY_NAME">
+			<Text>Eşsiz geliştirme: Manastır</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_UNIT_QUADRIREME_NAME">
+			<Text>Bizans eşsiz birimi: Dört Kürekli</Text>
+		</Row>
+		<Row Tag="TRAIT_CIVILIZATION_UNIT_FRANKISH_CABALLARII_NAME">
+			<Text>Frankların eşsiz birimi: Caballarii</Text>
+		</Row>
+		<!--Denmark City Names-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ODENSE">
+			<Text>Odense</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_RIBE">
+			<Text>Ribe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ROSKILDE">
+			<Text>Roskilde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CAEN">
+			<Text>Caen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LUND">
+			<Text>Lund</Text>
+		</Row>
+		<!--Sweden-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KOPINGSVIK">
+			<Text>Köpingsvik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BIRKA">
+			<Text>Birka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LADOGA">
+			<Text>Ladoga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KIEV">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GNEZDOVO">
+			<Text>Gnezdovo</Text>
+		</Row>
+		<!--Byzantium-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_CONSTANTINOPLE">
+			<Text>Konstantinopolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ATTALEIA">
+			<Text>Attaleia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DYRRACHIUM">
+			<Text>Dyrrhachium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PHILIPPOPOLIS">
+			<Text>Philippopolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TREBIZOND">
+			<Text>Trabzon</Text>
+		</Row>
+		<!--Al-Andalus-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SEVILLE">
+			<Text>İşbiliye</Text>
+		</Row>
+		<!--Francia-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_AACHEN">
+			<Text>Aix-la-Chapelle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NARBONNE">
+			<Text>Narbonne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_POITIERS">
+			<Text>Poitiers</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_RUSTRINGEN">
+			<Text>Rüstringen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_UTRECHT">
+			<Text>Utrecht</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_APUOLE">
+			<Text>Apuolė</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ARLES">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ASILAH">
+			<Text>Asilah</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BALARM">
+			<Text>Balarm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DUMBARTON">
+			<Text>Dùn Breatann</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GIJON">
+			<Text>Xixón</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KAIROUAN">
+			<Text>Al-Qayrawan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PAMPLONA">
+			<Text>Iruñea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PISA">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ROME">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TAMWORTH">
+			<Text>Tamworth</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_THETFORD">
+			<Text>Thetford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TMUTARAKAN">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VENICE">
+			<Text>Venèxia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WINCHESTER">
+			<Text>Wintanceaster</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_WOLIN">
+			<Text>Wòlin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_YORK">
+			<Text>Eoforwic</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_NAME">
+			<Text>Apuole</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ARLES_NAME">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_NAME">
+			<Text>Asilah</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BALARM_NAME">
+			<Text>Sicilya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_NAME">
+			<Text>Dun Breatann</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GIJON_NAME">
+			<Text>Asturias</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_NAME">
+			<Text>Zirid</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_NAME">
+			<Text>Navarra</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PISA_NAME">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_NAME">
+			<Text>Bulgaristan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ROME_NAME">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_NAME">
+			<Text>Mercia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_NAME">
+			<Text>East Anglia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_NAME">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VENICE_NAME">
+			<Text>Venedik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_NAME">
+			<Text>Wessex</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_NAME">
+			<Text>Wolin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_YORK_NAME">
+			<Text>Northumbria</Text>
+		</Row>
+		<!-- Civilizations Adj-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_ADJECTIVE">
+			<Text>Danimarka</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_ADJECTIVE">
+			<Text>İsveç</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_ADJECTIVE">
+			<Text>Endülüs</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_ADJECTIVE">
+			<Text>Bizans</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_ADJECTIVE">
+			<Text>Frank</Text>
+		</Row>
+		<!--City-States Adj-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_APUOLE_ADJECTIVE">
+			<Text>Kuronya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ARLES_ADJECTIVE">
+			<Text>Arles</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASILAH_ADJECTIVE">
+			<Text>Asilah</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BALARM_ADJECTIVE">
+			<Text>Sicilya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DUMBARTON_ADJECTIVE">
+			<Text>Dùn Breatann</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GIJON_ADJECTIVE">
+			<Text>Asturya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAIROUAN_ADJECTIVE">
+			<Text>Ziri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAMPLONA_ADJECTIVE">
+			<Text>Iruñe</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PISA_ADJECTIVE">
+			<Text>Piza</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ROME_ADJECTIVE">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PRESLAV_ADJECTIVE">
+			<Text>Bulgar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TAMWORTH_ADJECTIVE">
+			<Text>Mersiya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THETFORD_ADJECTIVE">
+			<Text>Doğu Anglia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TMUTARAKAN_ADJECTIVE">
+			<Text>Tmutarakan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VENICE_ADJECTIVE">
+			<Text>Venedik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WINCHESTER_ADJECTIVE">
+			<Text>Wessex</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WOLIN_ADJECTIVE">
+			<Text>Wòlin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_YORK_ADJECTIVE">
+			<Text>Northumbrian</Text>
+		</Row>
+		<!--Denmark-->
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_1">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_2">
+			<Text>Bjørk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_3">
+			<Text>Hrólfr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_4">
+			<Text>Gorm</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_MALE_5">
+			<Text>Fróði</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_1">
+			<Text>Helga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_2">
+			<Text>Tófa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_3">
+			<Text>Wealhþeow</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_4">
+			<Text>Aslaug</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_DENMARK_SCENARIO_FEMALE_5">
+			<Text>Thyra</Text>
+		</Row>
+		<!--Sweden-->
+		<Row Tag="LOC_CITIZEN_SWEDEN_MALE_1">
+			<Text>Eric</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_2">
+			<Text>Håkan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_3">
+			<Text>Anund</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_4">
+			<Text>Sven</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_MALE_5">
+			<Text>Alf</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_1">
+			<Text>Astrid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_2">
+			<Text>Gunnhildr</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_3">
+			<Text>Ingeborg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_4">
+			<Text>Þóra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SWEDEN_SCENARIO_FEMALE_5">
+			<Text>Christina</Text>
+		</Row>
+		<!--Great Admirals-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_BJARNI_NAME">
+			<Text>Bjarni Herjolfsson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ERIK_NAME">
+			<Text>Kızıl Erik</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_INGVAR_NAME">
+			<Text>Yngvarr víðförli</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_FREYDIS_NAME">
+			<Text>Freydís Eiríksdóttir</Text>
+		</Row>
+		<!--Great Generals  -->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_HALFDAN_NAME">
+			<Text>Hálfdan Ragnarsson</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_RORIK_NAME">
+			<Text>Dorestadlı Rorik</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_SVIATOSLAV_NAME">
+			<Text>Cesur Svyatoslav</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_OLAF_NAME">
+			<Text>Olaf Tryggvason</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_WILLIAM_NAME">
+			<Text>Fatih William</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_THORFIN_NAME">
+			<Text>Kudretli Thorfinn</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCENARIO_ROGER_NAME">
+			<Text>Sicilya Kralı I. Roger</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ADJACENT_PIOPIOTAHI_GOLD">
+			<Text>Vinland'a bitişikken, etkinleştirme sırasına bağlı olarak +500 [ICON_Gold] Altın ve Zafer Puanı kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HALFDAN_ACTIVE">
+			<Text>1 Berserker birimi verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OLAF_ACTIVE">
+			<Text>1 Misyoner birimi verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WILLIAM_ACTIVE">
+			<Text>+1 [ICON_TradeRoute] Ticaret Yolu kapasitesi. Bir Tüccar birimi verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ROGER_ACTIVE">
+			<Text>1 terfi seviyesine sahip 1 Mancınık birimi verir.</Text>
+		</Row>
+		<!--Technologies Name-->
+		<Row Tag="LOC_TECH_SCENARIO_LONGSHIPS_NAME">
+			<Text>Uzun Gemiler</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_MEAD_HALLS_NAME">
+			<Text>Bal Salonları</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_PORTAGE_NAME">
+			<Text>Karadan Taşıma</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_SHIELDWALL_NAME">
+			<Text>Kalkan Duvarı</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_KNARRS_NAME">
+			<Text>Knarrlar</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_LANCES_NAME">
+			<Text>Mızraklar</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_GREAT_HEATHEN_ARMY_NAME">
+			<Text>Büyük Pagan Ordusu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_HACKSILVER_NAME">
+			<Text>Gümüş Parçaları</Text>
+		</Row>
+		<!--Technologies Description-->
+		<Row Tag="LOC_TECH_SCENARIO_SAILING_DESCRIPTION">
+			<Text>Tüm deniz birimlerine +1 Hareket kazandırır ve tüm kara birimlerinin gemiye binmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_PORTAGE_DESCRIPTION">
+			<Text>Nehir geçişleri fazladan hareket harcamaz.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_KNARRS_DESCRIPTION">
+			<Text>Tüm birimler Okyanus'a hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCENARIO_HACKSILVER_DESCRIPTION">
+			<Text>Ticaret Merkezleri ve Limanlar +1 Ticaret Yolu kazanır.</Text>
+		</Row>
+		<!--Technologies Boost-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PORTAGE">
+			<Text>2 Okçuya sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_STIRRIPS">
+			<Text>Bir bölgeyi yağmala.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIELDWALL">
+			<Text>Bir Yerleşimci birimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_KNARRS">
+			<Text>Deniz İmparatorluğu Sosyal Politikasına sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+			<Text>5 Şehre sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LANCES">
+			<Text>Bir Şövalye birimini öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GREAT_HEATHEN_ARMY">
+			<Text>3 Uzun Gemi birimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_HACKSILVER">
+			<Text>4 Ticaret Yolu kur.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
+			<Text>2 Ahır inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TACTICS">
+			<Text>2 Şövalye birimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_SHIPBUILDING">
+			<Text>Bir Büyük Amiral kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MEDIEVAL_FAIRES">
+			<Text>12 Nüfuslu bir şehre sahip olun.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_ENGINEERING">
+			<Text>Bir şehir ele geçirin.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CASTLES">
+			<Text>2 Tatar Okçusuna sahip olun.</Text>
+		</Row>
+		<!--Technologies Boost Description-->
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_PORTAGE">
+			<Text>Okçular inşa ettikten sonra, daha büyük ordunuz nehirlerin ötesinde ne olduğunu görmeyi umuyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_STIRRIPS">
+			<Text>Belki süvari birlikleri daha fazla bölgeyi yağmalamanıza yardımcı olabilir?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIELDWALL">
+			<Text>Yeni şehirler kendilerini savunmak için yeni bir birim oluşturuyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_KNARRS">
+			<Text>Daha büyük bir donanma filosuyla okyanusa doğru genişleyebilirler mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_ENGINEERING">
+			<Text>Mühendisleriniz, çok sayıda şehir için daha iyi sıhhi tesisat geliştiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_LANCES">
+			<Text>Bir Şövalyeyi öldürdünüze göre, belki de Vikingleriniz bir şövalyeyle fetih yapabilir?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_GREAT_HEATHEN_ARMY">
+			<Text>3 uzun gemiyle ordunuz herhangi bir kasabayı işgal edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_HACKSILVER">
+			<Text>Dört ticaret yolu oluşturdunuz; ticaret imparatorluğunuz nasıl genişleyecek?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TACTICS">
+			<Text>Ordunuz artık daha fazla süvariye sahip; belki piyade eklemelisiniz?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_SHIPBUILDING">
+			<Text>Bir Büyük Amiral, halkınıza gemileri inşa etmek için yeni yollar geliştirme konusunda ilham verdi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MEDIEVAL_FAIRES">
+			<Text>Daha fazla vatandaşla belki eğlence isterler?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_ENGINEERING">
+			<Text>İlham verici bir şehir ele geçirilişinin ardından, halkınız daha da verimli kuşatma fikirleri üretmek için ilham alıyor.</Text>
+		</Row>
+		<!--Civics Name-->
+		<Row Tag="LOC_CIVIC_SCENARIO_NAVAL_EMPIRE_NAME">
+			<Text>Deniz İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_MONOTHEISM_NAME">
+			<Text>Tek Tanrıcılık</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_VIKING_NAME">
+			<Text>Viking</Text>
+		</Row>
+		<!--Civics Description-->
+		<Row Tag="LOC_CIVIC_SCENARIO_VIKING_DESCRIPTION">
+			<Text>Tüm yakın dövüş birimlerine kanatlama ve destek muharebe bonusları sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCENARIO_FEUDALISM_DESCRIPTION">
+			<Text>Çiftlikler, 3 Çiftlik birbirine bitişik olduğunda [ICON_Food] Besin bonusu kazanır.</Text>
+		</Row>
+		<!--Civics Boost-->
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_TRADITION">
+			<Text>3 Liman inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRADITION">
+			<Text>Bir Berserker birimiyle bir birimi öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_NAVAL_EMPIRE">
+			<Text>Bir Viking Uzun Gemisi ile bir savaşı kazan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MILITARY_TRAINING">
+			<Text>6 Kara birimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MONOTHEISM">
+			<Text>Bir Çoğunluk Dinine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_VIKING">
+			<Text>2 Huskar'a sahip ol</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
+			<Text>6 Çiftliğe sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
+			<Text>2 Kutsal Alana sahip ol</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MERCENARIES">
+			<Text>10 Kara birimine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_RECORDED_HISTORY">
+			<Text>Makine Mühendisliğini araştır</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_GUILDS">
+			<Text>4 Pazar inşa et</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
+			<Text>4 yuvalı bir Hükümete sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_EXPLORATION">
+			<Text>Doğa Harikası'nı bul.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_REFORMED_CHURCH">
+			<Text>2 Misyonere sahip ol.</Text>
+		</Row>
+		<!--Civics Boost Description-->
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRADITION">
+			<Text>Bir Berserker ile öldürdüğüne göre, ordunu büyütebilecek misin?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_NAVAL_TRADITION">
+			<Text>Limanlar inşa ettikten sonra donanman genişledi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MILITARY_TRAINING">
+			<Text>Büyük bir orduyla, ordun çeşitlenmek istiyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_MONOTHEISM">
+			<Text>Halkın, Pagan inançlarından uzaklaşmaya başladı. Artık ahşap kiliseler inşa etmeye koyuluyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_VIKING">
+			<Text>Ordun büyüdüğüne göre, Viking seferine çıkma zamanı!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_THEOLOGY">
+			<Text>Daha fazla Kutsal Alanla ilahiyatçılarınız yayılmaya başladı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_RECORDED_HISTORY">
+			<Text>Makine Mühendisliğini keşfiniz, kaybolmuş Kilise kayıtlarıyla çelişiyor olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_EXPLORATION">
+			<Text>Artık Vinland'ı buldunuz, peki hükümetiniz nasıl değişecek?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCENARIO_REFORMED_CHURCH">
+			<Text>İlahiyatçılar topladıktan sonra halkınız yeni dini uygulamalar oluşturmaya başlıyor.</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="LOC_CATEGORY_SCENARIO_VINLAND_NAME">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="LOC_LINE_ITEM_PLUNDER_NAME">
+			<Text>Yağma</Text>
+		</Row>
+		<Row Tag="LOC_LINE_ITEM_TRADE_NAME">
+			<Text>Ticaret</Text>
+		</Row>
+		<Row Tag="LOC_LINE_ITEM_VINLAND_NAME">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_RELIGION_DESCRIPTION">
+			<Text>Senaryoda [ICON_Faith] İnanç kazanacaksınız, başlıca Kutsal Alanları, Alkazarları, Manastırları ve Plantasyonları yağmalayarak. Her [ICON_Faith] İnanç kazandığınızda şehirleriniz Katolikliği benimseme yönünde daha fazla baskı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1">
+			<Text>Şehirler yerle bir edilemez. Tüccarlar ve Amiraller şehirler arasında transfer edilemez. Zafer Puanları şu şekilde kazanılır:[NEWLINE][ICON_Bullet]İmparatorluk: Şehir başına {1_CityVP} VP. Nüfus başına {2_PopVP} VP.[NEWLINE][ICON_Bullet]Prestij: Kazanılan her [ICON_GreatPerson] Büyük Kişi için {3_GPVP} VP.[NEWLINE][ICON_Bullet]Ticaret: [ICON_TradeRoute] Ticaret Yolu kapasitesi başına {4_TradeVP} VP.[NEWLINE][ICON_Bullet]Yağma: Yağmalanan her bölge başına {5_PillageVP} VP.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
+			<Text>[NEWLINE][ICON_Bullet]Vinland: Vinland'a bitişik bir [ICON_GreatAdmiral] Büyük Amiral etkinleştiren ilk oyuncuya {1_VinlandA} VP, ikinciye {2_VinlandB} VP, üçüncüye {3_VinlandC} VP, daha sonraki oyunculara {4_VinlandD} VP.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
+			<Text>[NEWLINE][ICON_Bullet]Din: Şehirlerinizin yarısından azı aynı dine sahipken bir bölgeyi yağmalayarak kazanılan her [ICON_Faith] İnanç başına {1_PillageEarly} VP. Şehirlerinizin yarısı veya daha fazlası aynı dine sahip olduğunda eklenen nüfus başına {2_PopLate} VP.[NEWLINE][ICON_Bullet]Bonus: Son turda, bir Viking oyuncusunun hazinesindeki her {4_GoldPer} [ICON_Gold] Altın için {3_GoldEnd} VP ve bir Viking oyuncusunun sahip olduğu her {6_FaithPer} [ICON_Faith] İnanç için {5_FaithEnd} VP.</Text>
+		</Row>
+		<!--Features-->
+		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME">
+			<Text>Vinland</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_DESCRIPTION">
+			<Text>VP Puanları: Birinciye 1000, ikinciye 500, üçüncüye 300, dördüncüye 100 ve beşinciye 100.</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_SCENARIO_LEIDANGR_NAME">
+			<Text>Leiðangr</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_VOLLEY_NAME">
+			<Text>Yaylım Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_THING_NAME">
+			<Text>Thing</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_NAME">
+			<Text>Gezgin Keşişler</Text>
+		</Row>
+		<!--Policies Descriptions-->
+		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSERIES_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_CHIVALRY_DESCRIPTION">
+			<Text>Atlı birlikler için [ICON_Production] Üretim +%100.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_FEUDAL_CONTRACT_DESCRIPTION">
+			<Text>+%50 [ICON_Production] Yakın dövüş birimlerine Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MARITIME_INDUSTRIES_DESCRIPTION">
+			<Text>+%100 [ICON_Production] Deniz birimlerine Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
+			<Text>Her şehir, inşa ettiği her Uzmanlık Bölgesi başına +1 [ICON_Faith] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_NATURAL_PHILOSOPHY_DESCRIPTION">
+			<Text>+%100 Ordugah [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_SIEGE_TACTICS_DESCRIPTION">
+			<Text>+%100 [ICON_Production] Kuşatma ve destek birimlerine Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yollarından +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_TRAVELING_MONKS_DESCRIPTION">
+			<Text>Yurt içi [ICON_TradeRoute] Ticaret Yolları +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCENARIO_VOLLEY_DESCRIPTION">
+			<Text>+%100 [ICON_Production] Menzilli birimlere Üretim.</Text>
+		</Row>
+		<!--Units Name-->
+		<Row Tag="LOC_UNIT_SCENARIO_HUSCARL_NAME">
+			<Text>Huskar</Text>
+		</Row>
+		<!--Units Description-->
+		<Row Tag="LOC_UNIT_SCENARIO_HUSCARL_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı güçlü olan bir yakın dövüş birimi. Düşük [ICON_Production] Üretim maliyeti.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_MISSIONARY_DESCRIPTION">
+			<Text>Vatandaşları kendi dinine dönüştürebilen Viking eşsiz birimi.</Text>
+		</Row>
+		<!--Unit Abilities-->
+		<Row Tag="LOC_ABILITY_GREAT_GENERAL_POINTS_DESCRIPTION">
+			<Text>Öldürülen her birim için +10 Büyük General puanı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_ADMIRAL_POINTS_DESCRIPTION">
+			<Text>Öldürülen her birim için +10 Büyük Amiral puanı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RANGED_DEFENSE_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı savunma yaparken +10 [ICON_Strength] Muharebe Gücü.</Text>	
+		</Row>
+		<!--Continent Descriptions-->
+		<Row Tag="LOC_CONTINENT_SCENARIO_BRITAIN_DESCRIPTION">
+			<Text>Büyük Britanya</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_FAROE_DESCRIPTION">
+			<Text>Faroe Adaları</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_GREENLAND_DESCRIPTION">
+			<Text>Grönland</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_HEBRIDES_DESCRIPTION">
+			<Text>Hebridler</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_ICELAND_DESCRIPTION">
+			<Text>İzlanda</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_IRELAND_DESCRIPTION">
+			<Text>İrlanda</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_NORTHERN_ISLES_DESCRIPTION">
+			<Text>Kuzey Adaları</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_SCANDINAVIA_DESCRIPTION">
+			<Text>İskandinavya</Text>
+		</Row>
+		<Row Tag="LOC_CONTINENT_SCENARIO_VINLAND_DESCRIPTION">
+			<Text>Vinland</Text>
+		</Row>
+		<!--Continent Cities-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_TORSHAVN">
+			<Text>Tórshavn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_FUNNINGUR">
+			<Text>Funningur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_LEIRVIK">
+			<Text>Leirvik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BRATTAHLID">
+			<Text>Brattahlíð</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HVALSEY">
+			<Text>Hvalsey</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SANDNAES">
+			<Text>Sandnæs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GARDAR">
+			<Text>Garðar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HERJOLFSNES">
+			<Text>Herjolfsnes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SKID">
+			<Text>Skíð</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_MYL">
+			<Text>Myl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BARR_OY">
+			<Text>Bjarnar-øy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_REYKJAVIK">
+			<Text>Reykjavík</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_HUSAVIK">
+			<Text>Húsavík</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_AKRANES">
+			<Text>Akranes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SKALHOLT">
+			<Text>Skálaholt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DYFLIN">
+			<Text>Dyflin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_INIS_SIBHTONN">
+			<Text>Inis Sibhtonn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VEDRAFJORDR">
+			<Text>Veðrafjǫrðr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VEISAFJORDR">
+			<Text>Veisafjǫrðr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KIRKJUVAGR">
+			<Text>Kirkjuvagr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SKALAVAGR">
+			<Text>Skálavágr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BIRGISHERD">
+			<Text>Birgisherað</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_EID">
+			<Text>Eið</Text>
+		</Row>
+		<!--Religion-->
+		<Row Tag="LOC_BELIEF_ODIN_NAME">
+			<Text>Odin</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ODIN_DESCRIPTION">
+			<Text>Baskın bir dinin yoksa, bir bölgeyi yağmaladığında +100 [ICON_Gold] Altın kazanırsın.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_POPULATION_GROWTH_NAME">
+			<Text>Nüfus Artışı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_POPULATION_GROWTH_DESCRIPTION">
+			<Text>Bu din baskın din ise, nüfustan kazanılan zafer puanlarını ikiye katlar.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_BUILDING_SCENARIO_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Bizans için eşsiz harika.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_ALHAMBRA_DESCRIPTION">
+			<Text>Endülüs için eşsiz harika.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SCENARIO_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>Francia için eşsiz harika.</Text>
+		</Row>
+		<!--Float-->
+		<Row Tag="LOC_PILLAGE_GOLD_DESCRIPTION">
+			<Text>+100 [COLOR_FLOAT_GOLD]Altın[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_VINLAND_GOLD_DESCRIPTION">
+			<Text>+500 [COLOR_FLOAT_GOLD]Altın[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_POINTS_FLOATER">
+			<Text>[COLOR_GREEN]+{1_Num} Puan[ENDCOLOR]</Text>
+		</Row>
+		<!--District-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_ENCAMPMENT_DESCRIPTION">
+			<Text>Şehrinde askeri tesisler için bir bölgedir. Ayrıca bilim getirisi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SCENARIO_HOLY_SITE_DESCRIPTION">
+			<Text>Şehrinde dini ibadetler için bir bölgedir. Ayrıca kültür getirisi sağlar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

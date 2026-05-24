@@ -1,0 +1,3318 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Rivers-->
+		<Row Tag="LOC_RIVER_CONCATENATION_STRING">
+			<Text>{1_BaseString}, {2_RiverName}</Text>
+		</Row>
+		<Row Tag="LOC_RIVER_TOOLTIP_STRING">
+			<Text>Nehir(ler): {1_BaseString}</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ABUKUMA_RIVER_NAME">
+			<Text>Abukuma Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ACHELOUS_RIVER_NAME">
+			<Text>Achelous Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AGNO_NAME">
+			<Text>Agno Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ALAZANI_RIVER_NAME">
+			<Text>Alazani Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AMAZON_NAME">
+			<Text>Amazon Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AMISKWASIPI_NAME">
+			<Text>Amiskwasîpi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AMNOK_RIVER_NAME">
+			<Text>Amnok Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AMU_DARYA_NAME">
+			<Text>Amu Derya Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AMUR_NAME">
+			<Text>Amur Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_APURIMAQ_MAYU_NAME">
+			<Text>Apurimaq Mayu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ARAS_RIVER_NAME">
+			<Text>Aras Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ARKANSAS_NAME">
+			<Text>Arkansas Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ARNO_RIVER_NAME">
+			<Text>Arno Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ATBARAH_RIVER_NAME">
+			<Text>Atbarah Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ATHABASCA_RIVER_NAME">
+			<Text>Athabasca Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ATOYAC_RIVER_NAME">
+			<Text>Atoyac Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AWRIQ_MAYU_NAME">
+			<Text>Awriq Mayu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_AYUNG_RIVER_NAME">
+			<Text>Ayung Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BAHR_YUSSEF_NAME">
+			<Text>Bahr Yusuf Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BALSAS_NAME">
+			<Text>Balsas Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BANI_RIVER_NAME">
+			<Text>Bani Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BARADA_RIVER_NAME">
+			<Text>Barada Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BARITO_RIVER_NAME">
+			<Text>Barito Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BASSAC_RIVER_NAME">
+			<Text>Bassac Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BATANGHARI_RIVER_NAME">
+			<Text>Batanghari Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BEIRUT_RIVER_NAME">
+			<Text>Beyrut Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BENGAWAN_SOLO_RIVER_NAME">
+			<Text>Bengavan Solo Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BIO_BIO_NAME">
+			<Text>Bio-Bio Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRAHMAPUTRA_NAME">
+			<Text>Brahmaputra Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BRISBANE_RIVER_NAME">
+			<Text>Brisbane Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BUG_NAME">
+			<Text>Bug Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BUKHAN_RIVER_NAME">
+			<Text>Bukhan Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CHINCHIPE_RIVER_NAME">
+			<Text>Çinçipe Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_COATZACOALCOS_RIVER_NAME">
+			<Text>Coatzacoalcos Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_COLORADO_NAME">
+			<Text>Kolorado Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_COLUMBIA_NAME">
+			<Text>Kolombiya Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CONGO_NAME">
+			<Text>Kongo Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_COOPER_CREEK_NAME">
+			<Text>Cooper Creek</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DAL_NAME">
+			<Text>Dal Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DAMIETTA_RIVER_NAME">
+			<Text>Dimyat Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DANUBE_NAME">
+			<Text>Tuna Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DARLING_NAME">
+			<Text>Darling Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DAUGAVA_NAME">
+			<Text>Daugava Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DELAWARE_NAME">
+			<Text>Delaware Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DIYALA_RIVER_NAME">
+			<Text>Diyala Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DNIEPER_NAME">
+			<Text>Dinyeper Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DNIESTER_NAME">
+			<Text>Dinyester Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DON_NAME">
+			<Text>Don Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DOURO_RIVER_NAME">
+			<Text>Douro Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_DUNAJEC_RIVER_NAME">
+			<Text>Dunajec Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_EBRO_NAME">
+			<Text>Ebro Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ELBE_NAME">
+			<Text>Elbe Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ENGURI_RIVER_NAME">
+			<Text>Enguri Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_EUPHRATES_NAME">
+			<Text>Fırat Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_EUROTAS_NAME">
+			<Text>Eurotas Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_FORTH_NAME">
+			<Text>Forth Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_FRASER_RIVER_NAME">
+			<Text>Fraser Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GAMBIA_RIVER_NAME">
+			<Text>Gambiya Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GANGES_NAME">
+			<Text>Ganj Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GEUM_RIVER_NAME">
+			<Text>Geum Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GLOMMA_NAME">
+			<Text>Glomma Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GODAVARI_NAME">
+			<Text>Godavari Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GREAT_ZAB_RIVER_NAME">
+			<Text>Büyük Zab Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GUADALQUIVIR_RIVER_NAME">
+			<Text>Guadalquivir Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GUADIANA_RIVER_NAME">
+			<Text>Guadiana Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GUDBRANDSDALSLAGEN_NAME">
+			<Text>Gudbrandsdalslågen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HAI_NAME">
+			<Text>Hai Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HALIACMON_RIVER_NAME">
+			<Text>Haliacmon Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HAN_RIVER_NAME">
+			<Text>Han Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HUTT_RIVER_NAME">
+			<Text>Hutt Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_IJSSEL_RIVER_NAME">
+			<Text>IJssel Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_IMJIN_RIVER_NAME">
+			<Text>Imjin Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_INDAL_RIVER_NAME">
+			<Text>Indal Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_INDUS_NAME">
+			<Text>İndus Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_INKISI_RIVER_NAME">
+			<Text>Inkisi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_IRRAWADDY_NAME">
+			<Text>İrravadi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ISHIKARI_RIVER_NAME">
+			<Text>Ishikari Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ITATA_RIVER_NAME">
+			<Text>Itata Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_JAJRUD_RIVER_NAME">
+			<Text>Cācrūd Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_JORDAN_NAME">
+			<Text>Ürdün Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_JUCAR_RIVER_NAME">
+			<Text>Júcar Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KAPUAS_NAME">
+			<Text>Kapuas Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KARKHEH_RIVER_NAME">
+			<Text>Karkheh Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KARUN_NAME">
+			<Text>Karun Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KASAI_NAME">
+			<Text>Kasai Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KATEPWEWI_SIPI_NAME">
+			<Text>Kātēpwēwi-sīpī</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KAVERI_RIVER_NAME">
+			<Text>Kaveri Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KAWARAU_RIVER_NAME">
+			<Text>Kawarau Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KAWATIRI_RIVER_NAME">
+			<Text>Kawatiri Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KERULEN_RIVER_NAME">
+			<Text>Kerülen Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KHABUR_RIVER_NAME">
+			<Text>Habur Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KISISKACIWANI_SIPIY_NAME">
+			<Text>Kisiskāciwani-sīpiy</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KITAKAMI_RIVER_NAME">
+			<Text>Kitakami Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KIZILIRMAK_NAME">
+			<Text>Kızılırmak</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KLARA_RIVER_NAME">
+			<Text>Klara Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KOROS_RIVER_NAME">
+			<Text>Körös Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KSHIPRA_RIVER_NAME">
+			<Text>Kshipra Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_KURA_NAME">
+			<Text>Kura Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LEK_RIVER_NAME">
+			<Text>Lek Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LENA_NAME">
+			<Text>Lena Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LIMPOPO_NAME">
+			<Text>Limpopo Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LITANI_NAME">
+			<Text>Litani Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LOIRE_NAME">
+			<Text>Loire Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_LULE_RIVER_NAME">
+			<Text>Lule Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MACKENZIE_NAME">
+			<Text>Mackenzie Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MADEIRA_NAME">
+			<Text>Madeira Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MAHAKAM_RIVER_NAME">
+			<Text>Mahakam Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MAIPO_RIVER_NAME">
+			<Text>Maipo Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MAMBERAMO_RIVER_NAME">
+			<Text>Mamberamo Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MANTO_SIPIY_NAME">
+			<Text>Mantō-sīpiy Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MAPOCHO_RIVER_NAME">
+			<Text>Mapocho Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MAREB_RIVER_NAME">
+			<Text>Mareb Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MARITSA_RIVER_NAME">
+			<Text>Maritsa Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MATA_AU_RIVER_NAME">
+			<Text>Mata-Au Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MAULE_RIVER_NAME">
+			<Text>Maule Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MEDJERDA_RIVER_NAME">
+			<Text>Medjerda Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MEKONG_NAME">
+			<Text>Mekong Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MEUSE_NAME">
+			<Text>Meuse Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MISSISSIPPI_NAME">
+			<Text>Mississippi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MISSOURI_NAME">
+			<Text>Missouri Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MIXTECO_RIVER_NAME">
+			<Text>Mixteco Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MOGAMI_RIVER_NAME">
+			<Text>Mogami Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MTKVARI_RIVER_NAME">
+			<Text>Mtkvari Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MURAT_RIVER_NAME">
+			<Text>Murat Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MURRAY_NAME">
+			<Text>Murray Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MURRUMBIDGEE_NAME">
+			<Text>Murrumbidgee Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MUSI_RIVER_NAME">
+			<Text>Musi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NAKDONG_NAME">
+			<Text>Nakdong Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NAREW_RIVER_NAME">
+			<Text>Narew Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NARMADA_RIVER_NAME">
+			<Text>Narmada Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NESTOS_RIVER_NAME">
+			<Text>Nestos Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NIGER_NAME">
+			<Text>Nijer Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NILE_NAME">
+			<Text>Nil Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NORTHERN_DVINA_NAME">
+			<Text>Kuzey Dvina</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NOTEC_RIVER_NAME">
+			<Text>Noteć Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_NUMEDAL_RIVER_NAME">
+			<Text>Numedal Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_OB_NAME">
+			<Text>Obi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_OCHEKWI_SIPI_NAME">
+			<Text>Ochekwi-Sipi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ODER_NAME">
+			<Text>Oder Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_OFANTO_RIVER_NAME">
+			<Text>Ofanto Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_OHIO_NAME">
+			<Text>Ohio Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_OKAVANGO_NAME">
+			<Text>Okavango Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ORANGE_NAME">
+			<Text>Orange Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ORINOCO_NAME">
+			<Text>Orinoco Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ORKHON_NAME">
+			<Text>Orhun Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ORONTES_RIVER_NAME">
+			<Text>Orontes Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_OTRA_RIVER_NAME">
+			<Text>Otra Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PAPALOAPAN_RIVER_NAME">
+			<Text>Papaloapan Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PARAGUAY_NAME">
+			<Text>Paraguay Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PARANA_NAME">
+			<Text>Paraná Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PAROO_RIVER_NAME">
+			<Text>Paroo Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PEARL_NAME">
+			<Text>Pearl Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PO_NAME">
+			<Text>Po Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_POTOMAC_NAME">
+			<Text>Potomac Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_POWINIGOW_NAME">
+			<Text>Powinigow Sipi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_PUTUMAYU_NAME">
+			<Text>Putumayu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RABA_RIVER_NAME">
+			<Text>Rába Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RAKAIA_RIVER_NAME">
+			<Text>Rakaia Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RANGATIKEI_RIVER_NAME">
+			<Text>Rangatikei Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RAUMA_RIVER_NAME">
+			<Text>Rauma Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RED_NAME">
+			<Text>Kızıl Nehir</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RHINE_NAME">
+			<Text>Ren Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RHONE_NAME">
+			<Text>Rône Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIO_GRANDE_NAME">
+			<Text>Rio Grande Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIO_NEGRO_NAME">
+			<Text>Río Negro Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIONI_RIVER_NAME">
+			<Text>Rioni Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_AVON_NAME">
+			<Text>Avon Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_CLYDE_NAME">
+			<Text>Clyde Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_DEE_NAME">
+			<Text>Dee Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_EDEN_NAME">
+			<Text>Eden Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_GREAT_OUSE_NAME">
+			<Text>Great Ouse Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_SEVERN_NAME">
+			<Text>Severn Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_SPEY_NAME">
+			<Text>Spey Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_TAY_NAME">
+			<Text>Tay Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_TEES_NAME">
+			<Text>Tees Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_TRENT_NAME">
+			<Text>Trent Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RIVER_WELLAND_NAME">
+			<Text>Welland Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ROSETTA_RIVER_NAME">
+			<Text>Rosetta Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_RUBICON_NAME">
+			<Text>Rubicon Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAINT_LAWRENCE_NAME">
+			<Text>Saint Lawrence Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAKARYA_RIVER_NAME">
+			<Text>Sakarya Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SALWEEN_NAME">
+			<Text>Salween Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAN_RIVER_NAME">
+			<Text>San Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SANKARANI_RIVER_NAME">
+			<Text>Sankarani Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SANKURU_RIVER_NAME">
+			<Text>Sankuru Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAO_FRANCISCO_NAME">
+			<Text>São Francisco Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SARASWATI_NAME">
+			<Text>Saraswati Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SCHELDT_RIVER_NAME">
+			<Text>Scheldt Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SE_KONG_RIVER_NAME">
+			<Text>Se Kong Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEFID_RIVER_NAME">
+			<Text>Sefid Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEINE_NAME">
+			<Text>Seine Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SENEGAL_RIVER_NAME">
+			<Text>Senegal Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SEOMJIN_RIVER_NAME">
+			<Text>Seomjin Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SHINANO_NAME">
+			<Text>Shinano Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SONGHUA_RIVER_NAME">
+			<Text>Songhua Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SREPOK_RIVER_NAME">
+			<Text>Srepok Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_STRUMA_RIVER_NAME">
+			<Text>Struma Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SUSQUEHANNA_NAME">
+			<Text>Susquehanna Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SYR_DARYA_NAME">
+			<Text>Seyhun Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TAGUS_NAME">
+			<Text>Tagus Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TAPISKWAN_SIPI_NAME">
+			<Text>Tapiskwan Sipi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TARIM_NAME">
+			<Text>Tarim Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TE_AWAKAIRANGI_NAME">
+			<Text>Te Awakairangi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TEHUANTEPEC_RIVER_NAME">
+			<Text>Tehuantepec Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TENRYU_RIVER_NAME">
+			<Text>Tenryu Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TESHIO_RIVER_NAME">
+			<Text>Teshio Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_THAMES_NAME">
+			<Text>Thames Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TIBER_NAME">
+			<Text>Tiber Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TIGRIS_NAME">
+			<Text>Dicle Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TISZA_RIVER_NAME">
+			<Text>Tisza Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TOCANTINS_NAME">
+			<Text>Tocantins Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TOLTEN_RIVER_NAME">
+			<Text>Toltén Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TONALA_RIVER_NAME">
+			<Text>Tonalá Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TONE_RIVER_NAME">
+			<Text>Tone Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TONGARIRO_RIVER_NAME">
+			<Text>Tongariro Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TONLE_SAN_RIVER_NAME">
+			<Text>Tonlé San Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TONLE_SAP_RIVER_NAME">
+			<Text>Tonlé Sap Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TORNE_RIVER_NAME">
+			<Text>Torne Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TRUFUL_TRUFUL_RIVER_NAME">
+			<Text>Truful-Truful Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TSHUAPA_RIVER_NAME">
+			<Text>Tshuapa Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TUGELA_RIVER_NAME">
+			<Text>Tugela Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_TUUL_RIVER_NAME">
+			<Text>Tuul Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_UCAYALI_NAME">
+			<Text>Ucayali Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_UMFOLOZI_RIVER_NAME">
+			<Text>Umfolozi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_UMZIMKULU_RIVER_NAME">
+			<Text>Umzimkulu Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_UMZINYATHI_RIVER_NAME">
+			<Text>uMzinyathi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_URAL_NAME">
+			<Text>Ural Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VARDAR_NAME">
+			<Text>Vardar Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VISTULA_NAME">
+			<Text>Vistül Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_VOLGA_NAME">
+			<Text>Volga Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAAL_RIVER_NAME">
+			<Text>Waal Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WADI_AL_BATIN_NAME">
+			<Text>Vadi Al-Batin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WADI_AL_RUMMAH_NAME">
+			<Text>Vadi el-Rummah</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WADI_HANIFA_NAME">
+			<Text>Vadi Hanife</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAIAPU_RIVER_NAME">
+			<Text>Waiapu Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAIAU_RIVER_NAME">
+			<Text>Waiau Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAIKATO_NAME">
+			<Text>Waikato Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAIMAKARIRI_RIVER_NAME">
+			<Text>Waimakariri Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAITAKI_RIVER_NAME">
+			<Text>Waitaki Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WALLAQA_MAYU_NAME">
+			<Text>Wallaqa Mayu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WARREGO_RIVER_NAME">
+			<Text>Warrego Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WARTA_RIVER_NAME">
+			<Text>Warta Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WAZALAFKEN_RIVER_NAME">
+			<Text>Wazalafken Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WEI_NAME">
+			<Text>Wei Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WESER_RIVER_NAME">
+			<Text>Weser Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WHANGANUI_RIVER_NAME">
+			<Text>Whanganui Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WILLKAMAYU_NAME">
+			<Text>Willkamayu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WISLOKA_RIVER_NAME">
+			<Text>Wisłoka Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_WUSKWI_SIPI_NAME">
+			<Text>Wuskwi Sipi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YAMUNA_RIVER_NAME">
+			<Text>Yamuna Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YANGTZE_NAME">
+			<Text>Yangtze Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YELLOW_NAME">
+			<Text>Sarı Irmak</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YENISEI_NAME">
+			<Text>Yenisey Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YESILIRMAK_RIVER_NAME">
+			<Text>Yeşilırmak</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_YUKON_NAME">
+			<Text>Yukon Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ZAGYVA_RIVER_NAME">
+			<Text>Zagyva Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ZAMBEZI_NAME">
+			<Text>Zambezi Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ZAVKHAN_RIVER_NAME">
+			<Text>Zavhan Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ZAYANDE_RIVER_NAME">
+			<Text>Zāyandé Nehri</Text>
+		</Row>
+		<!--Volcanoes-->
+		<Row Tag="LOC_VOLCANO_TOOLTIP_STRING">
+			<Text>{1_VolcanoName}</Text>
+		</Row>
+		<Row Tag="LOC_VOLCANO_ACTIVE_STRING">
+			<Text>(aktif)</Text>
+		</Row>
+		<Row Tag="LOC_VOLCANO_ERUPTING_STRING">
+			<Text>(püskürüyor)</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_AGRI_DAGI_NAME">
+			<Text>Ağrı Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_AGUNG_NAME">
+			<Text>Agung Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ALLARPS_BJAR_VOLCANO_NAME">
+			<Text>Allarps Bjär Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_AMBRYM_NAME">
+			<Text>Ambrym Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ARARAT_NAME">
+			<Text>Ararat Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ARTHURS_SEAT_NAME">
+			<Text>Arthur'un Koltuğu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ASAMA_NAME">
+			<Text>Asama Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ASKJA_NAME">
+			<Text>Askja</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_AVACHINSKY_NAME">
+			<Text>Avachinsky</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BALLS_PYRAMID_NAME">
+			<Text>Ball Piramidi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BARREN_NAME">
+			<Text>Barren Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BAYUDA_NAME">
+			<Text>Bayuda Volkanik Sahası</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BEERENBERG_NAME">
+			<Text>Beerenberg</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BEZYMIANNY_NAME">
+			<Text>Bezymianny</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_BUDJ_BIM_NAME">
+			<Text>Budj Bim</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_CATOCA_VOLCANO_NAME">
+			<Text>Catoca Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_CHHACHANI_NAME">
+			<Text>Chhachani</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_CITLALTEPETL_NAME">
+			<Text>Citlaltépetl</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_CHI_GAG_NAME">
+			<Text>Chi'gag</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_COLIMA_NAME">
+			<Text>Colima Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_COSIGUINA_NAME">
+			<Text>Cosigüina</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_DAMAVAND_NAME">
+			<Text>Damavand</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ELBRUS_NAME">
+			<Text>Elbrus Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_EREBUS_NAME">
+			<Text>Erebus Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ERTA_ALE_NAME">
+			<Text>Erta Ale</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ETNA_NAME">
+			<Text>Etna Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_FRUALID_VOLCANO_NAME">
+			<Text>Frualid Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_FUJI_NAME">
+			<Text>Fuji Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_GALERAS_NAME">
+			<Text>Galeras</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_GALLABJER_VOLCANO_NAME">
+			<Text>Gällabjer Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_GALUNGGUNG_NAME">
+			<Text>Galunggung</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_GRIMSVOTN_NAME">
+			<Text>Grímsvötn</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HAKON_MOSBY_VOLCANO_NAME">
+			<Text>Håkon Mosby Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HALEAKALA_NAME">
+			<Text>Haleakalā</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HALLASAN_NAME">
+			<Text>Hallasan</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HAMPATU_NAME">
+			<Text>Hamp'atu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HARRAT_KHAYBAR_NAME">
+			<Text>Harra Hayber</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HUAYNAPUTINA_NAME">
+			<Text>Waynaputina</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HUDSON_NAME">
+			<Text>Hudson Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ILOPANGO_NAME">
+			<Text>Ilopango Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KAZBEK_NAME">
+			<Text>Kazbek Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KELUD_NAME">
+			<Text>Kelud</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KHORGO_NAME">
+			<Text>Khorgo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KILAUEA_NAME">
+			<Text>Kilauea</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KORYAKSKY_NAME">
+			<Text>Koryakski</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_KRAKATOA_NAME">
+			<Text>Krakatoa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_LAACHER_SEE_NAME">
+			<Text>Laacher See</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_LARDERELLO_VOLCANO_NAME">
+			<Text>Larderello Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_LAUTARO_VOLCANO_NAME">
+			<Text>Lautaro Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_LILLO_VOLCANO_NAME">
+			<Text>Lillö Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_LLAIMA_VOLCANO_NAME">
+			<Text>Llaima Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_LONQUIMAY_VOLCANO_NAME">
+			<Text>Lonquimay Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MAUNA_LOA_NAME">
+			<Text>Mauna Loa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MAWSON_PEAK_NAME">
+			<Text>Mawson Tepesi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MAYON_NAME">
+			<Text>Mayon</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MERAPI_NAME">
+			<Text>Merapi Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_METHANA_VOLCANO_NAME">
+			<Text>Methana Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_ERCIYES_NAME">
+			<Text>Erciyes Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_HASAN_NAME">
+			<Text>Hasan Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_HYPIPAMEE_NAME">
+			<Text>Hypipamee Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_NAPIER_NAME">
+			<Text>Napier Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_SABALAN_NAME">
+			<Text>Sabalan Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_TARANAKI_NAME">
+			<Text>Taranaki Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_TIBROGARGAN_NAME">
+			<Text>Tibrogargan Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_MOUNT_TONGARIRO_NAME">
+			<Text>Tongariro Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NABRO_NAME">
+			<Text>Nabro Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NEMRUT_NAME">
+			<Text>Nemrut</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NEVADO_DEL_RUIZ_NAME">
+			<Text>Nevado del Ruiz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NGAURUHOE_NAME">
+			<Text>Ngauruhoe Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NISYROS_NAME">
+			<Text>Nisyros</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NOVARUPTA_NAME">
+			<Text>Novarupta</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NYIRAGONGO_NAME">
+			<Text>Nyiragongo Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_OJOS_DEL_SALADO_NAME">
+			<Text>Ojos del Salado</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_OSTRZYCA_NAME">
+			<Text>Ostrzyca Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PAEKTU_NAME">
+			<Text>Paektu Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PELEE_NAME">
+			<Text>Pelée Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PHANOM_RUNG_VOLCANO_NAME">
+			<Text>Phanom Rung Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PHLEGRAEAN_FIELDS_NAME">
+			<Text>Phlegraean Fields</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PICO_DO_CABUGI_NAME">
+			<Text>Pico do Cabugi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PIHANGA_NAME">
+			<Text>Pihanga</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PILLANZEGUN_NAME">
+			<Text>Pillañzegüñ</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PINATUBO_NAME">
+			<Text>Pinatubo Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_POPOCATEPETL_NAME">
+			<Text>Popōcatepētl</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PUY_DE_DOME_NAME">
+			<Text>Puy de Dôme</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_QUIZAPU_NAME">
+			<Text>Quizapú</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_QURUPUNA_NAME">
+			<Text>Qurupuna</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RAINIER_NAME">
+			<Text>Rainier Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RALLATE_VOLCANO_NAME">
+			<Text>Rallate Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RANGITOTO_NAME">
+			<Text>Rangitoto</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RUAPEHU_NAME">
+			<Text>Ruapehu Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_RUCAPILLAN_NAME">
+			<Text>Rucapillan</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SAHAND_NAME">
+			<Text>Sahand</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SAINT_HELENS_NAME">
+			<Text>Saint Helens Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SAKURAJIMA_NAME">
+			<Text>Sakurajima</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SANTA_MARIA_NAME">
+			<Text>Gagxanul</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SAWANQAYA_NAME">
+			<Text>Sawanqaya</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SCENERY_NAME">
+			<Text>Scenery Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SEMERU_NAME">
+			<Text>Semeru Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SHIVELUCH_NAME">
+			<Text>Şiveluç</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SOLLIPULLI_NAME">
+			<Text>Sollipulli</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_SOUFRIERE_NAME">
+			<Text>Soufrière Hills Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_STROMBOLI_NAME">
+			<Text>Stromboli</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TAAL_NAME">
+			<Text>Taal Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TAMBORA_NAME">
+			<Text>Tambora Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TARAWERA_NAME">
+			<Text>Tarawera Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TAUPO_NAME">
+			<Text>Taupo Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TEIDE_NAME">
+			<Text>Teide</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_THERA_NAME">
+			<Text>Thera</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TSEAX_CONE_NAME">
+			<Text>Tseax Konisi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ULAWUN_NAME">
+			<Text>Ulawun</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_UNDARA_VOLCANO_NAME">
+			<Text>Undara Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_UNZEN_NAME">
+			<Text>Unzen Dağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_UWINAS_NAME">
+			<Text>Uwinas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VULSINI_NAME">
+			<Text>Vulsini</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_WHAKAARI_NAME">
+			<Text>Whakaari</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_YAK_LOUM_NAME">
+			<Text>Yeak Laom Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_YELLOWSTONE_NAME">
+			<Text>Yellowstone Kalderası</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_ZUIDWAL_VOLCANO_NAME">
+			<Text>Zuidwal Yanardağı</Text>
+		</Row>
+		<!--Mountains-->
+		<Row Tag="LOC_NAMED_MOUNTAIN_AKAISHI_NAME">
+			<Text>Akaishi Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALADAGH_MOUNTAINS_NAME">
+			<Text>Aladağ Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALADAGLAR_MOUNTAINS_NAME">
+			<Text>Aladağlar Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALASKAN_NAME">
+			<Text>Alaska Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALAY_MOUNTAINS_NAME">
+			<Text>Alay Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALBORZ_NAME">
+			<Text>Elbruz Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALEUTIANS_NAME">
+			<Text>Aleut Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALPS_NAME">
+			<Text>Alpler</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ALTAI_NAME">
+			<Text>Altay Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANDES_NAME">
+			<Text>And Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANNAMITES_NAME">
+			<Text>Annamit Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ANTILIBANUS_MOUNTAINS_NAME">
+			<Text>Antilübnan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_APENNINES_NAME">
+			<Text>Apenin Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_APPALACHIANS_NAME">
+			<Text>Appalaş Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ARAKAN_NAME">
+			<Text>Arakan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ARAVALLI_RANGE_NAME">
+			<Text>Aravalli Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ARROCHAR_ALPS_NAME">
+			<Text>Arrochar Alpleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ASIR_NAME">
+			<Text>Asir Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ATLAS_NAME">
+			<Text>Atlas Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BAEKDUDAEGAN_NAME">
+			<Text>Baekdudaegan</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BAIKAL_MOUNTAINS_NAME">
+			<Text>Baykal Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BALKANS_NAME">
+			<Text>Balkan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BALELES_MOUNTAINS_NAME">
+			<Text>Baleles Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BAMBOUK_MOUNTAINS_NAME">
+			<Text>Bambouk Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BANDIAGARA_ESCARPMENT_NAME">
+			<Text>Bandiagara Yamaçları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BARGYLUS_MOUNTAINS_NAME">
+			<Text>Bargylus Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BARISAN_NAME">
+			<Text>Barisan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BESKIDY_MOUNTAINS_NAME">
+			<Text>Beskid Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BIESZCZADY_MOUNTAINS_NAME">
+			<Text>Bieszczady Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BLACK_FOREST_MOUNTAINS_NAME">
+			<Text>Kara Orman Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BLUE_MOUNTAINS_NAME">
+			<Text>Mavi Dağlar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_BUKK_MOUNTAINS_NAME">
+			<Text>Bükk Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CAIRNGORMS_NAME">
+			<Text>Cairngorms Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CANTABRICA_NAME">
+			<Text>Kantabria Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CARPATHIANS_NAME">
+			<Text>Karpat Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CASCADES_NAME">
+			<Text>Kaskat Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CAUCASUS_NAME">
+			<Text>Kafkas Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CHERSKY_NAME">
+			<Text>Çerski Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CHEVIOT_HILLS_NAME">
+			<Text>Cheviot Tepeleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CHIANTI_MOUNTAINS_NAME">
+			<Text>Chianti Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_COAST_NAME">
+			<Text>Sahil Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_QUEULE_NAME">
+			<Text>Cordillera de Queule Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DEL_CONDOR_NAME">
+			<Text>Cordillera del Cóndor Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DEL_MAHUIDANCHE_NAME">
+			<Text>Cordillera del Mahuidanche Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERAS_BETICAS_NAME">
+			<Text>Cordilleras Béticas Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CRYSTAL_MOUNTAINS_NAME">
+			<Text>Kristal Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CUILLIN_NAME">
+			<Text>Cuillin Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CUMBRIAN_FELLS_NAME">
+			<Text>Cumbrian Kayalık Tepeleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DAMREI_MOUNTAINS_NAME">
+			<Text>Dâmrei Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DANGREK_MOUNTAINS_NAME">
+			<Text>Dângrêk Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DINARIDES_NAME">
+			<Text>Dinar Alpleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DOLOMITES_NAME">
+			<Text>Dolomit Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DONGDAE_MOUNTAINS_NAME">
+			<Text>Dongdae Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DOVREFJELL_NAME">
+			<Text>Dovrefjell Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_DRAKENSBERG_NAME">
+			<Text>Drakensberg Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ESPINHACO_MOUNTAINS_NAME">
+			<Text>Espinhaço Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GAGRA_RANGE_NAME">
+			<Text>Gagra Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GALICIAN_MASSIF_NAME">
+			<Text>Galiçya Dağ Kütlesi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GEBEL_AL_AIN_NAME">
+			<Text>Cebel el-Ayn</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GHATS_NAME">
+			<Text>Ghats Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GISSAR_RANGE_NAME">
+			<Text>Gissar Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GRAMPIANS_NAME">
+			<Text>Grampian Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GREAT_DIVIDING_NAME">
+			<Text>Büyük Ayrım Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GWAZHAL_NAME">
+			<Text>Gwazhał</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HAMERSLEY_RANGE_NAME">
+			<Text>Hamersley Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HAMRIN_MOUNTAINS_NAME">
+			<Text>Hamrin Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HARDANGERVIDDA_NAME">
+			<Text>Hardangervidda</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HARZ_NAME">
+			<Text>Harz Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HENGDUAN_NAME">
+			<Text>Hengduan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HIDA_MOUNTAINS_NAME">
+			<Text>Hida Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HIJAZ_MOUNTAINS_NAME">
+			<Text>Hicaz Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HIMALAYAS_NAME">
+			<Text>Himalayalar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HINDU_KUSH_NAME">
+			<Text>Hindu Kuş Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HOGGAR_NAME">
+			<Text>Hoggar Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HOMBORI_MOUNTAINS_NAME">
+			<Text>Hombori Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HONDSRUG_NAME">
+			<Text>Hondsrug</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_HUIARAU_RANGE_NAME">
+			<Text>Huiarau Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_IYANG_ARGAPURA_MOUNTAINS_NAME">
+			<Text>Iyang-Argapura Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JABAL_HARAZ_NAME">
+			<Text>Cebel Haraz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JEBEL_ABYAD_PLATEAU_NAME">
+			<Text>Cebel Abyad Platosu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JEBEL_NAGASHUSH_NAME">
+			<Text>Cebel Nagashush</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JOTUNHEIMEN_NAME">
+			<Text>Jotunheimen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_JURA_MOUNTAINS_NAME">
+			<Text>Jura Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KACKAR_MOUNTAINS_NAME">
+			<Text>Kaçkar Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KAIKOURA_RANGE_NAME">
+			<Text>Kaikoura Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KAIMAI_RANGE_NAME">
+			<Text>Kaimai Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KAMIKOCHI_NAME">
+			<Text>Kamikōchi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KANANASKIS_RANGE_NAME">
+			<Text>Kananaskis Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KARAKORAM_NAME">
+			<Text>Karakoram Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KARKAS_MOUNTAINS_NAME">
+			<Text>Karkas Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KARKONOSZE_MOUNTAINS_NAME">
+			<Text>Karkonosze Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KEBNEKAISE_MASSIF_NAME">
+			<Text>Kebnekaise Masifi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KHANGAI_MOUNTAINS_NAME">
+			<Text>Khangai Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KHENTII_MOUNTAINS_NAME">
+			<Text>Khentii Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KHINGAN_NAME">
+			<Text>Khingan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KISO_MOUNTAINS_NAME">
+			<Text>Kiso Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KOPET_DAG_RANGE_NAME">
+			<Text>Kopet Dağ Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KOSZEG_MOUNTAINS_NAME">
+			<Text>Kőszeg Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KOYTENDAG_RANGE_NAME">
+			<Text>Köýtendag Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KRAVANH_MOUNTAINS_NAME">
+			<Text>Krâvanh Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_KUNLUN_NAME">
+			<Text>Kunlun Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LEBANON_NAME">
+			<Text>Lübnan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LEBOMBO_MOUNTAINS_NAME">
+			<Text>Lebombo Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LEFKA_ORI_NAME">
+			<Text>Lefka Ori</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LIKHI_RANGE_NAME">
+			<Text>Likhi Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_LOWER_RHINE_HEIGHTS_NAME">
+			<Text>Aşağı Ren Yüksekleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MACDONNELL_RANGE_NAME">
+			<Text>MacDonnell Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MACKENZIE_NAME">
+			<Text>Mackenzie Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MANDING_MOUNTAINS_NAME">
+			<Text>Manding Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MANTIQUEIRA_NAME">
+			<Text>Mantiqueira Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MASSIF_CENTRAL_NAME">
+			<Text>Massif Central</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MATRA_MOUNTAINS_NAME">
+			<Text>Mátra Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MERATUS_MOUNTAINS_NAME">
+			<Text>Meratus Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MESKHETI_RANGE_NAME">
+			<Text>Meskheti Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MONADH_LIATH_NAME">
+			<Text>Monadh Liath</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MONT_BLANC_MASSIF_NAME">
+			<Text>Mont Blanc Masifi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MONTES_DE_TOLEDO_NAME">
+			<Text>Montes de Toledo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NAHUELBUTA_RANGE_NAME">
+			<Text>Nahuelbuta Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NEBLINA_MASSIF_NAME">
+			<Text>Neblina Masifi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NIKANASSIN_RANGE_NAME">
+			<Text>Nikanassin Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NORRA_STORFJALLET_NAME">
+			<Text>Norra Storfjället</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NORTH_YORK_MOORS_NAME">
+			<Text>North York Bozkırları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NUBA_NAME">
+			<Text>Nuba Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_NUR_MOUNTAINS_NAME">
+			<Text>Nur Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_OWEN_STANLEY_NAME">
+			<Text>Owen Stanley Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ORE_MOUNTAINS_NAME">
+			<Text>Cevher Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PACARAIMA_MOUNTAINS_NAME">
+			<Text>Pacaraima Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PAMIRS_NAME">
+			<Text>Pamir Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PATKAI_NAME">
+			<Text>Patkai Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PELION_RANGE_NAME">
+			<Text>Pelion Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PENNINE_CHAIN_NAME">
+			<Text>Pennine Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PINDUS_NAME">
+			<Text>Pindos Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PIR_PANJAL_RANGE_NAME">
+			<Text>Pir Panjal Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PONTIC_ALPS_NAME">
+			<Text>Pontus Alpleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PURVANCHAL_RANGE_NAME">
+			<Text>Purvanchal Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PUTORANA_PLATEAU_NAME">
+			<Text>Putorana Platosu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_PYRENEES_NAME">
+			<Text>Pireneler</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_QANDIL_MOUNTAINS_NAME">
+			<Text>Kandil Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_QINLING_NAME">
+			<Text>Çinling Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RAUKUMARA_RANGE_NAME">
+			<Text>Raukumara Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RED_SEA_HILLS_NAME">
+			<Text>Kızıldeniz Tepeleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RHODOPES_NAME">
+			<Text>Rodop Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RIMUTAKA_RANGE_NAME">
+			<Text>Rimutaka Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ROCKIES_NAME">
+			<Text>Kayalık Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RONDANE_MASSIF_NAME">
+			<Text>Rondane Dağ Kütlesi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_RWENZORIS_NAME">
+			<Text>Rwenzori Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SALLANDSE_HILL_RIDGE_NAME">
+			<Text>Sallandse Tepe Sırtı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SARAWAT_MOUNTAINS_NAME">
+			<Text>Saravat Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SATPURA_RANGE_NAME">
+			<Text>Satpura Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SAYAN_MOUNTAINS_NAME">
+			<Text>Sayan Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SCANDES_NAME">
+			<Text>Skand Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SEMIENS_NAME">
+			<Text>Semien Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SERRA_DA_CHELA_NAME">
+			<Text>Serra da Chela</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SERRA_DA_LEBA_NAME">
+			<Text>Serra da Leba</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SERRA_DO_MAR_NAME">
+			<Text>Serra do Mar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SERRA_DO_MOCO_NAME">
+			<Text>Serra do Môco</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SERRA_DOS_ORGAOS_NAME">
+			<Text>Serra dos Órgãos</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SERRA_LONDANUIMA_NAME">
+			<Text>Serra Londanuima</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SHROPSHIRE_HILLS_NAME">
+			<Text>Shropshire Tepeleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIBILLINI_MOUNTAINS_NAME">
+			<Text>Sibillini Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_CHICHINAUTZIN_NAME">
+			<Text>Sierra Chichinautzin</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_LOS_TUXTLAS_NAME">
+			<Text>Sierra de Los Tuxtlas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_TAMAULIPAS_NAME">
+			<Text>Sierra de Tamaulipas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_MADRES_NAME">
+			<Text>Sierra Madre</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_NEVADAS_NAME">
+			<Text>Sierra Nevada</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SINAI_HIGH_MOUNTAINS_NAME">
+			<Text>Sina Yüksek Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SINJAR_MOUNTAINS_NAME">
+			<Text>Sinjar Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SNOWY_MOUNTAINS_NAME">
+			<Text>Karlı Dağlar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SOBAEK_MOUNTAINS_NAME">
+			<Text>Sobae Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_STANOVOY_MOUNTAINS_NAME">
+			<Text>Stanovoy Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SYLAN_NAME">
+			<Text>Sylan</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TAEBAEK_MOUNTAINS_NAME">
+			<Text>Taebaek Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TALYSH_MOUNTAINS_NAME">
+			<Text>Talış Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TARARUA_RANGE_NAME">
+			<Text>Tararua Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TATRA_MOUNTAINS_NAME">
+			<Text>Tatra Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TAURUS_NAME">
+			<Text>Toros Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TAYGETUS_MASSIF_NAME">
+			<Text>Taygetus Masifi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TENGGER_MASSIF_NAME">
+			<Text>Tengger Masifi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_THURINGIAN_FOREST_MOUNTAINS_NAME">
+			<Text>Türingiya Orman Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TIBESTI_NAME">
+			<Text>Tibesti Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TIEN_SHAN_NAME">
+			<Text>Tanrı Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TIRITIRI_O_TE_MOANA_NAME">
+			<Text>Tiritiri-o-te-moana</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TITIWANGSA_NAME">
+			<Text>Titiwangsa Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_TRIALETI_RANGE_NAME">
+			<Text>Trialeti Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_URALS_NAME">
+			<Text>Ural Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_URUPAMPA_RANGE_NAME">
+			<Text>Urupampa Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_UTRECHT_HILL_RIDGE_NAME">
+			<Text>Utrecht Tepelik Sırtı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VELUWE_NAME">
+			<Text>Veluwe</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VERKHOYANSK_NAME">
+			<Text>Verkhoyansk Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VERMILION_RANGE_NAME">
+			<Text>Vermilion Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VERMIO_MOUNTAINS_NAME">
+			<Text>Vermio Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VINDHAYA_RANGE_NAME">
+			<Text>Vindhya Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VORAS_MOUNTAIN_RANGE_NAME">
+			<Text>Voras Dağ Sırası</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_VOSGES_NAME">
+			<Text>Vosges</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WAYTAPALLANA_WALLA_NAME">
+			<Text>Waytapallana Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WAYWASH_WALLA_NAME">
+			<Text>Waywash Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WILLKANUTA_RANGE_NAME">
+			<Text>Willkanuta Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_WILLKAPAMPA_RANGE_NAME">
+			<Text>Willkapampa Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_YANA_WALLA_NAME">
+			<Text>Yana Walla</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_YEONGNAM_ALPS_NAME">
+			<Text>Yeongnam Alpleri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_YURAQ_WALLA_NAME">
+			<Text>Yuraq Walla</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ZAGROS_NAME">
+			<Text>Zagros Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ZARAFSHAN_RANGE_NAME">
+			<Text>Zarafshan Sıradağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_ZEMPOALTEPETL_NAME">
+			<Text>Zempoaltépetl</Text>
+		</Row>
+		<!--Deserts-->
+		<Row Tag="LOC_NAMED_DESERT_ACCONA_DESERT_NAME">
+			<Text>Accona Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_AL_DAHNA_DESERT_NAME">
+			<Text>El Dahna Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_AL_NAFUD_NAME">
+			<Text>Al-Nafūd</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ARABIAN_NAME">
+			<Text>Arap Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_ATACAMA_NAME">
+			<Text>Atacama Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BAYUDA_DESERT_NAME">
+			<Text>Bayuda Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_BLEDOWSKA_DESERT_NAME">
+			<Text>Błędowska Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_CHIHUAHUAN_NAME">
+			<Text>Chihuahua Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_COLORADO_PLATEAU_NAME">
+			<Text>Colorado Platosu Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_DANAKIL_NAME">
+			<Text>Danakil Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_DASHT_E_MARGO_NAME">
+			<Text>Dasht-e Margo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_EL_DJOUF_NAME">
+			<Text>El Djouf</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_GIBSON_NAME">
+			<Text>Gibson Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_GOBI_NAME">
+			<Text>Gobi Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_GREAT_BASIN_NAME">
+			<Text>Büyük Havza Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_GREAT_SAND_SEA_NAME">
+			<Text>Büyük Kum Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_GREAT_SANDY_NAME">
+			<Text>Büyük Kumlu Çöl</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_GREAT_VICTORIA_NAME">
+			<Text>Büyük Victoria Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_HAMAD_NAME">
+			<Text>Hamed Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_KALAHARI_NAME">
+			<Text>Kalahari Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_KARAKUM_NAME">
+			<Text>Karakum Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_KARAPINAR_DESERT_NAME">
+			<Text>Karapınar Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_KAVIR_NAME">
+			<Text>Deşt-i Kavir</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_KYZYLKUM_NAME">
+			<Text>Kızılkum Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_LEMNOS_DESERT_NAME">
+			<Text>Limni Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_LIBYAN_NAME">
+			<Text>Libya Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_LUT_NAME">
+			<Text>Deşt-i Lut</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_MANIOTOTO_NAME">
+			<Text>Maniototo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_MOJAVE_NAME">
+			<Text>Mojave Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_NAMIB_NAME">
+			<Text>Namib Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_NUBIAN_NAME">
+			<Text>Nübye Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_OGADEN_NAME">
+			<Text>Ogaden Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_PATAGONIAN_NAME">
+			<Text>Patagonya Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_QATTARA_DEPRESSION_NAME">
+			<Text>Kattara Çöküntüsü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_QOZ_ABU_DULU_NAME">
+			<Text>Koz Ebu Dulu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_RANGIPO_NAME">
+			<Text>Rangipo Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_REGISTAN_NAME">
+			<Text>Registan Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_RUB_AL_KHALI_NAME">
+			<Text>Rubülhali</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SAHARA_NAME">
+			<Text>Sahra Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SECHURA_NAME">
+			<Text>Sechura Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SIMPSON_NAME">
+			<Text>Simpson Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SINAI_NAME">
+			<Text>Sina Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_SONORAN_NAME">
+			<Text>Sonora Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TABERNAS_NAME">
+			<Text>Tabernas Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TAKLAMAKAN_NAME">
+			<Text>Taklamakan Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TANAMI_NAME">
+			<Text>Tanami Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TANEZROUFT_BASIN_NAME">
+			<Text>Tanezruft Havzası</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TENGGER_SAND_SEA_NAME">
+			<Text>Tengger Kum Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_THAL_NAME">
+			<Text>Thal Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_THAR_NAME">
+			<Text>Thar Çölü</Text>
+		</Row>
+		<!--Lakes-->
+		<Row Tag="LOC_NAMED_LAKE_AGUA_VERMELHA_NAME">
+			<Text>Agua Vermelha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ALTYEVATNET_NAME">
+			<Text>Altyevatnet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_AMANZAMNYAMA_NAME">
+			<Text>aManzamnyama</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ARAL_SEA_NAME">
+			<Text>Aral Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BAENGNOKDAM_NAME">
+			<Text>Baengnokdam</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BAKHTEGAN_LAKE_NAME">
+			<Text>Bakhtegan Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BASSENTHWAITE_LAKE_NAME">
+			<Text>Bassenthwaite Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BLASJO_NAME">
+			<Text>Blåsjø</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BOEUNG_KAK_NAME">
+			<Text>Boeung Kak</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BOURGET_LAKE_NAME">
+			<Text>Bourget Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BUDI_LAKE_NAME">
+			<Text>Budi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_BUWELNO_LAKE_NAME">
+			<Text>Buwełno Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CABURGUA_LAKE_NAME">
+			<Text>Caburgua Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CHAO_LAKE_NAME">
+			<Text>Chao Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CHINCHAYQUCHA_NAME">
+			<Text>Chinchayqucha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_CONISON_LAKE_NAME">
+			<Text>Conison Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DABIE_LAKE_NAME">
+			<Text>Dąbie Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DAL_LAKE_NAME">
+			<Text>Dal Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DERWENTWATER_LAKE_NAME">
+			<Text>Derwentwater Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DIPOR_BIL_NAME">
+			<Text>Dipor Bil</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DOBSKIE_LAKE_NAME">
+			<Text>Dobskie Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DOIRAN_LAKE_NAME">
+			<Text>Doiran Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_DONGTING_LAKE_NAME">
+			<Text>Dongting Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_EL_BRICIAL_NAME">
+			<Text>El Bricial</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FELDGES_LAKE_NAME">
+			<Text>Feldges Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FEMUNDEN_NAME">
+			<Text>Femunden Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_FUCINE_LAKE_NAME">
+			<Text>Fucino Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GALLETU_LAKE_NAME">
+			<Text>Galletué Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GREAT_BEAR_LAKE_NAME">
+			<Text>Büyük Ayı Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GREAT_BITTER_LAKE_NAME">
+			<Text>Büyük Acı Göl</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GREAT_SALT_LAKE_NAME">
+			<Text>Büyük Tuz Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GREAT_SLAVE_LAKE_NAME">
+			<Text>Büyük Esir Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GREENLEE_LOUGH_NAME">
+			<Text>Greenlee Lough</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_GUARAPIRANGA_NAME">
+			<Text>Guarapiranga Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HAMUN_LAKE_NAME">
+			<Text>Hamun Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HAWR_AS_SADIYAH_NAME">
+			<Text>Havr es-Sa'diye Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HEAVEN_LAKE_NAME">
+			<Text>Cennet Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HJALMAREN_NAME">
+			<Text>Hjälmaren Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HONGZE_LAKE_NAME">
+			<Text>Hongze Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HORNINDALSVATNET_NAME">
+			<Text>Hornindalsvatnet Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_HULUN_LAKE_NAME">
+			<Text>Hulun Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ICHKEUL_LAKE_NAME">
+			<Text>İşkul Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ILIAMNA_LAKE_NAME">
+			<Text>Iliamna Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ISSYK_KUL_LAKE_NAME">
+			<Text>Issık Göl</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KARTSAKHI_LAKE_NAME">
+			<Text>Kartsakhi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KHAR_US_LAKE_NAME">
+			<Text>Khar-Us Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KHOVSGOL_LAKE_NAME">
+			<Text>Khövsgöl Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KHYARGAS_LAKE_NAME">
+			<Text>Khyargas Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KILUNDA_LAKE_NAME">
+			<Text>Kilunda Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KOLLERU_LAKE_NAME">
+			<Text>Kolleru Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KONIGSSEE_NAME">
+			<Text>Königssee</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_KOSI_LAKE_NAME">
+			<Text>Kosi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAC_DE_GRAND_LIEU_NAME">
+			<Text>Lac de Grand-Lieu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAGOA_DOS_PATOS_NAME">
+			<Text>Lagoa dos Patos</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAGUNA_DE_BAY_NAME">
+			<Text>Laguna de Baý</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ADAPASKAW_NAME">
+			<Text>Aðapaskāw Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AIGUEBELETTE_NAME">
+			<Text>Aiguebelette Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ALAKOL_NAME">
+			<Text>Alakol Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ALBERT_NAME">
+			<Text>Albert Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AMADEUS_NAME">
+			<Text>Amadeus Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AMMER_NAME">
+			<Text>Ammer Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ANNECY_NAME">
+			<Text>Annecy Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ANTOGO_NAME">
+			<Text>Antogo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AOUGOUNDOU">
+			<Text>Aougoundou Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ATITLAN_NAME">
+			<Text>Atitlán Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BAIKAL_NAME">
+			<Text>Baykal Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BALATON_NAME">
+			<Text>Balaton Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BALKHASH_NAME">
+			<Text>Balkaş Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BANGWEULU_NAME">
+			<Text>Bangweulu Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BARDAWIL_NAME">
+			<Text>Bardawil Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BENACUS_NAME">
+			<Text>Benacus Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BEYSEHIR_NAME">
+			<Text>Beyşehir Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BIWA_NAME">
+			<Text>Biwa Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BOLSENA_NAME">
+			<Text>Bolsena Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BRACCIANO_NAME">
+			<Text>Bracciano Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BUJO_NAME">
+			<Text>Bujon Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_BURDUR_NAME">
+			<Text>Burdur Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CARNEGIE_NAME">
+			<Text>Carnegie Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CHALCO_NAME">
+			<Text>Chalco Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CHAMPLAIN_NAME">
+			<Text>Champlain Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CHIEMSEE_NAME">
+			<Text>Chiemsee Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CHON_NAME">
+			<Text>Chon Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_CONSTANCE_NAME">
+			<Text>Konstanz Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_COPAIS_NAME">
+			<Text>Copais Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_DEBO_NAME">
+			<Text>Débo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_DISAPPOINTMENT_NAME">
+			<Text>Disappointment Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_EGIRDIR_NAME">
+			<Text>Eğirdir Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ENOL_NAME">
+			<Text>Enol Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ERCINA_NAME">
+			<Text>Ercina Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ERIE_NAME">
+			<Text>Erie Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_EYRE_NAME">
+			<Text>Eyre Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_FAGUIBINE_NAME">
+			<Text>Faguibine Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_FERTO_NAME">
+			<Text>Fertő Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_FROME_NAME">
+			<Text>Frome Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_GENEVA_NAME">
+			<Text>Cenevre Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_GOPLO_NAME">
+			<Text>Gopło Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_GREVELINGEN_NAME">
+			<Text>Grevelingen Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HABBANIYAH_NAME">
+			<Text>Habbaniyah Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HAMMAR_NAME">
+			<Text>Hammar Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HAUROKO_NAME">
+			<Text>Hauroko Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HEVIZ_NAME">
+			<Text>Hévíz Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HURON_NAME">
+			<Text>Huron Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_IDKU_NAME">
+			<Text>Idku Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_INAWASHIRO_NAME">
+			<Text>Inawashiro Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ISEO_NAME">
+			<Text>Iseo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_IZNIK_NAME">
+			<Text>İznik Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KARLA_NAME">
+			<Text>Karla Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KASUMIGAURA_NAME">
+			<Text>Kasumigaura Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KAWAGUCHI_NAME">
+			<Text>Kawaguchi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KHANKA_NAME">
+			<Text>Hanka Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KHASAN_NAME">
+			<Text>Hasan Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KIVU_NAME">
+			<Text>Kivu Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KORONEIA_NAME">
+			<Text>Koroneia Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KUMMEROW_NAME">
+			<Text>Kummerow Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_LADOGA_NAME">
+			<Text>Ladoga Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_LARIUS_NAME">
+			<Text>Larius Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_LOUISE_NAME">
+			<Text>Louise Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MACKAY_NAME">
+			<Text>Mackay Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MAI_NDOMBE_NAME">
+			<Text>Mai-Ndombe Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MAMRY_NAME">
+			<Text>Mamry Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MANAPOURI_NAME">
+			<Text>Manapouri Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MANZALA_NAME">
+			<Text>Manzala Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MARIOUT_NAME">
+			<Text>Mariout Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MARKEN_NAME">
+			<Text>Marken Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MATANO_NAME">
+			<Text>Matano Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MER_WER_NAME">
+			<Text>Mer-Wer Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MICHIGAN_NAME">
+			<Text>Michigan Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MISTASSINI_NAME">
+			<Text>Mistassini Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MURITZ_NAME">
+			<Text>Müritz Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MWERU_NAME">
+			<Text>Mweru Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NAKAUMI_NAME">
+			<Text>Nakaumi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NHLABANE_NAME">
+			<Text>Nhlabane Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NIANGAY_NAME">
+			<Text>Niangay Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NICARAGUA_NAME">
+			<Text>Nikaragua Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NIEGOCIN_NAME">
+			<Text>Niegocin Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NIPIGON_NAME">
+			<Text>Nipigon Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_NYASA_NAME">
+			<Text>Nyasa Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_OF_BANYOLES_NAME">
+			<Text>Banyoles Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_OF_NAARDEN_NAME">
+			<Text>Naarden Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_OF_THE_WOODS_NAME">
+			<Text>Ormanlar Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_OKEECHOBEE_NAME">
+			<Text>Okeechobee Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ONEGA_NAME">
+			<Text>Onega Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ONTARIO_NAME">
+			<Text>Ontario Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PALIASTOMI_NAME">
+			<Text>Paliastomi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PEIPUS_NAME">
+			<Text>Peipus Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_POSO_NAME">
+			<Text>Poso Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PRESPA_NAME">
+			<Text>Prespa Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PUKAKI_NAME">
+			<Text>Pukaki Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PUWPU_NAME">
+			<Text>Puwpu Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ROTOITI_NAME">
+			<Text>Rotoiti Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ROTOMAHANA_NAME">
+			<Text>Rotomahana Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ROTORUA_NAME">
+			<Text>Rotorua Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SAIMAA_NAME">
+			<Text>Saimaa Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SAINT_LUCIA_NAME">
+			<Text>Saint Lucia Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SCHWERIN_NAME">
+			<Text>Schwerin Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SENTARUM_NAME">
+			<Text>Sentarum Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SEVAN_NAME">
+			<Text>Sevan Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SHINJI_NAME">
+			<Text>Shinji Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SIBHAYI_NAME">
+			<Text>Sibhayi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_STARNBERG_NAME">
+			<Text>Starnberg Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SUPERIOR_NAME">
+			<Text>Superior Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SZELID_NAME">
+			<Text>Szelid Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TAHOE_NAME">
+			<Text>Tahoe Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TAI_NAME">
+			<Text>Tai Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TANA_NAME">
+			<Text>Tana Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TANGANYIKA_NAME">
+			<Text>Tanganyika Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TAUPO_NAME">
+			<Text>Taupo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TAYMYR_NAME">
+			<Text>Taymir Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TE_ANAU_NAME">
+			<Text>Te Anau Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TEXCOCO_NAME">
+			<Text>Texcoco Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TITIQAQA_NAME">
+			<Text>Titicaca Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TOBA_NAME">
+			<Text>Toba Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TORRENS_NAME">
+			<Text>Torrens Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TOWUTI_NAME">
+			<Text>Towuti Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TRASIMENE_NAME">
+			<Text>Trasimene Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TRICHONIDA_NAME">
+			<Text>Trichonida Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TUMBA_NAME">
+			<Text>Tumba Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TURKANA_NAME">
+			<Text>Turkana Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TUZ_NAME">
+			<Text>Tuz Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_URMIA_NAME">
+			<Text>Urmiye Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VAN_NAME">
+			<Text>Van Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VEGORITIDA_NAME">
+			<Text>Vegoritida Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VELENCE_NAME">
+			<Text>Velence Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VERBANUS_NAME">
+			<Text>Verbanus Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VICTORIA_NAME">
+			<Text>Victoria Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VISTONIDA_NAME">
+			<Text>Vistonida Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VOLVI_NAME">
+			<Text>Volvi Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WAIKAREMOANA_NAME">
+			<Text>Waikaremoana Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WAKATIPU_NAME">
+			<Text>Wakatipu Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WALCHEN_NAME">
+			<Text>Walchen Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WANAKA_NAME">
+			<Text>Wanaka Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WIGRY_NAME">
+			<Text>Wigry Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WINDERMERE_NAME">
+			<Text>Windermere Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WINNEBAGO_NAME">
+			<Text>Winnebago Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WINNIPEG_NAME">
+			<Text>Winnipeg Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_WINNIPEGOSIS_NAME">
+			<Text>Winnipegosis Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_XALTOCAN_NAME">
+			<Text>Xaltocan Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_XOCHIMILCO_NAME">
+			<Text>Xochimilco Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_YEAK_LAOM_NAME">
+			<Text>Yeak Laom Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ZUMPANGO_NAME">
+			<Text>Zumpango Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_IJSSEL_NAME">
+			<Text>IJssel Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAUWERS_LAKE_NAME">
+			<Text>Lauwers Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LIMINGEN_NAME">
+			<Text>Limingen Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_AWE_NAME">
+			<Text>Awe Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_CORUISK_NAME">
+			<Text>Loch Coruisk</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_FINLAGGAN_NAME">
+			<Text>Loch Finlaggan</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_LOMOND_NAME">
+			<Text>Loch Lomond</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_MAREE_NAME">
+			<Text>Loch Maree</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_MORAR_NAME">
+			<Text>Loch Morar</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_NESS_NAME">
+			<Text>Loch Ness</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOCH_TAY_NAME">
+			<Text>Loch Tay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LOKTAK_LAKE_NAME">
+			<Text>Loktak Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LUKNAJNO_LAKE_NAME">
+			<Text>Łuknajno Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MAHARLOO_LAKE_NAME">
+			<Text>Maharloo Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MALAREN_NAME">
+			<Text>Mälaren</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MALLALAFQUEN_NAME">
+			<Text>Mallalafquén</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MJOSA_NAME">
+			<Text>Mjøsa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MOSVATNET_NAME">
+			<Text>Møsvatnet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_MUNDAU_LAGOON_NAME">
+			<Text>Mundaú Lagoon</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_NAMAK_LAKE_NAME">
+			<Text>Namak Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_NISSER_NAME">
+			<Text>Nisser</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_NORSJO_NAME">
+			<Text>Norsjø</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ORETI_LAKE_NAME">
+			<Text>Oreti Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_OROS_LAKE_NAME">
+			<Text>Oros Lake</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_OYEREN_NAME">
+			<Text>Oyeren</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_PALLQAQUCHA_NAME">
+			<Text>Pallqaqucha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_PANGONG_TSO_NAME">
+			<Text>Pangong Tso</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_PARAVANI_LAKE_NAME">
+			<Text>Paravani Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_PARIWANAQUCHA_NAME">
+			<Text>Pariwanaqucha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_PLAUER_SEE_NAME">
+			<Text>Plauer See</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_POYANG_LAKE_NAME">
+			<Text>Poyang Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_QINGHAI_LAKE_NAME">
+			<Text>Çinghay Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_REINDEER_LAKE_NAME">
+			<Text>Ren Geyiği Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_REPRESA_DE_ENG_SOUZA_DIAS_NAME">
+			<Text>Represa de Eng Souza Dias</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_RINIHUE_LAKE_NAME">
+			<Text>Rinihue Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ROSSVATNET_NAME">
+			<Text>Røssvatnet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SAALER_BODDEN_NAME">
+			<Text>Saaler Bodden</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SAMJI_LAKE_NAME">
+			<Text>Samji Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SANABRIA_LAKE_NAME">
+			<Text>Sanabria Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SARYGAMYSH_LAKE_NAME">
+			<Text>Sarygamysh Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SCHAALSEE_NAME">
+			<Text>Schaalsee</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SEA_OF_GALILEE_NAME">
+			<Text>Celile Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SELBUSJOEN_NAME">
+			<Text>Selbusjøen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SHUSWAP_LAKE_NAME">
+			<Text>Shuswap Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SNASAVATNET_NAME">
+			<Text>Snåsavatnet</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_SNIARDWY_NAME">
+			<Text>Śniardwy</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_STEINHUDER_MEER_NAME">
+			<Text>Steinhuder Meer</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_STORSJON_NAME">
+			<Text>Storsjön</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_TABATSKURI_LAKE_NAME">
+			<Text>Tabatskuri Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_TE_WAIHORA_NAME">
+			<Text>Te Waihora Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_TINNSJOEN_NAME">
+			<Text>Tinnsjøen</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_TONLE_BATI_LAKE_NAME">
+			<Text>Tonle Bati Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_TONLE_SAP_NAME">
+			<Text>Tonlé Sap Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_TYRIFJORDEN_NAME">
+			<Text>Tyrifjorden</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_ULLSWATER_LAKE_NAME">
+			<Text>Ullswater Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_UTIKUMA_LAKE_NAME">
+			<Text>Utikuma Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_UVS_LAKE_NAME">
+			<Text>Uvs Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_VANERN_NAME">
+			<Text>Vänern Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_VATTERN_NAME">
+			<Text>Vättern Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_VEMBANAD_LAKE_NAME">
+			<Text>Vembanad Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WABAMUN_LAKE_NAME">
+			<Text>Wabamun Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WAKAW_LAKE_NAME">
+			<Text>Wakaw Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WASKESIU_LAKE_NAME">
+			<Text>Waskesiu Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WEST_LAKE_NAME">
+			<Text>Batı Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WEST_NUBIAN_LAKE_NAME">
+			<Text>Batı Nübye Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WOJNOWO_LAKE_NAME">
+			<Text>Wojnowo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_WOLLASTON_LAKE_NAME">
+			<Text>Wollaston Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_YANAQUCHA_NAME">
+			<Text>Yanaqucha Gölü</Text>
+		</Row>
+		<!--Seas-->
+		<Row Tag="LOC_NAMED_SEA_ABU_QIR_BAY_NAME">
+			<Text>Abu Qir Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ADRIATIC_SEA_NAME">
+			<Text>Adriyatik Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_AEGEAN_SEA_NAME">
+			<Text>Ege Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_AGO_BAY_NAME">
+			<Text>Ago Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ALAUQUEN_NAME">
+			<Text>Alauquén Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ALBORAN_SEA_NAME">
+			<Text>Alboran Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ALL_SAINTS_BAY_NAME">
+			<Text>Tüm Azizler Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ANDAMAN_SEA_NAME">
+			<Text>Andaman Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ARABIAN_SEA_NAME">
+			<Text>Umman Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ARAFURA_SEA_NAME">
+			<Text>Arafura Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAFFIN_BAY_NAME">
+			<Text>Baffin Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAIA_DE_SAO_JOSE_NAME">
+			<Text>Baía de São José Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAIA_DE_SAO_MARCOS_NAME">
+			<Text>Baía de São Marcos Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAIE_DE_LA_SEINE_NAME">
+			<Text>Baie de la Seine Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAIE_DE_SOMME_NAME">
+			<Text>Baie de Somme Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BALTIC_SEA_NAME">
+			<Text>Baltık Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BANDA_SEA_NAME">
+			<Text>Banda Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_ARAUCO_NAME">
+			<Text>Arauco Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_ARGUIN_NAME">
+			<Text>Arguin Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_BEIRUT_NAME">
+			<Text>Beyrut Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_BENGAL_NAME">
+			<Text>Bengal Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_BISCAY_NAME">
+			<Text>Biskay Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_CAMPECHE_NAME">
+			<Text>Campeche Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_CONCEPCION_NAME">
+			<Text>Concepción Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_FUNDY_NAME">
+			<Text>Fundy Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_GIBRALTAR_NAME">
+			<Text>Cebelitarık Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_KOMPONG_SOM_NAME">
+			<Text>Kompong Som Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_MECKLENBURG_NAME">
+			<Text>Mecklenburg Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_POMERANIA_NAME">
+			<Text>Pomeranya Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BAY_OF_SANTANDER_NAME">
+			<Text>Santander Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BEAUFORT_SEA_NAME">
+			<Text>Beaufort Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BERING_SEA_NAME">
+			<Text>Bering Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BISMARCK_SEA_NAME">
+			<Text>Bismarck Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BLACK_SEA_NAME">
+			<Text>Karadeniz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BO_HAI_NAME">
+			<Text>Bo Hai</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BOTANY_BAY_NAME">
+			<Text>Botany Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BRACKLESHAM_BAY_NAME">
+			<Text>Bracklesham Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BRIDGWATER_BAY_NAME">
+			<Text>Bridgwater Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BRISTOL_CHANNEL_NAME">
+			<Text>Bristol Kanalı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_BUSAN_BAY_NAME">
+			<Text>Busan Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CARIBBEAN_SEA_NAME">
+			<Text>Karayip Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CASPIAN_SEA_NAME">
+			<Text>Hazar Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CAULIN_BAY_NAME">
+			<Text>Caulín Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CELEBES_SEA_NAME">
+			<Text>Celebes Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CELTIC_SEA_NAME">
+			<Text>Kelt Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CERAM_SEA_NAME">
+			<Text>Ceram Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CHESAPEAKE_BAY_NAME">
+			<Text>Chesapeake Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CHUKCHI_SEA_NAME">
+			<Text>Çukçi Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_CORAL_SEA_NAME">
+			<Text>Mercan Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_DOLLART_NAME">
+			<Text>Dollart Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_EAST_CHINA_SEA_NAME">
+			<Text>Doğu Çin Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_EAST_SIBERIAN_SEA_NAME">
+			<Text>Doğu Sibirya Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_EDSVIKEN_NAME">
+			<Text>Edsviken Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ENGLISH_CHANNEL_NAME">
+			<Text>Manş Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FIRTH_OF_CLYDE_NAME">
+			<Text>Clyde Haliçi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FIRTH_OF_FORTH_NAME">
+			<Text>Forth Haliçi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FLENSBURG_FIRTH_NAME">
+			<Text>Flensburg Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FLORES_SEA_NAME">
+			<Text>Flores Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FOUL_BAY_NAME">
+			<Text>Foul Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_FROBISHER_BAY_NAME">
+			<Text>Frobisher Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GDANSK_BAY_NAME">
+			<Text>Gdańsk Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GENKAI_SEA_NAME">
+			<Text>Genkai Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GEORGIAN_BAY_NAME">
+			<Text>Georgian Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GERMAN_BIGHT_NAME">
+			<Text>Alman Koyu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GREAT_AUSTRALIAN_BIGHT_NAME">
+			<Text>Büyük Avustralya Koyu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GREENLAND_SEA_NAME">
+			<Text>Grönland Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GUANABARA_BAY_NAME">
+			<Text>Guanabara Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_ADEN_NAME">
+			<Text>Aden Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_ALASKA_NAME">
+			<Text>Alaska Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_AQABA_NAME">
+			<Text>Akabe Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_BOTHNIA_NAME">
+			<Text>Botniya Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_CADIZ_NAME">
+			<Text>Cádiz Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_CALIFORNIA_NAME">
+			<Text>Kaliforniya Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_CARPENTARIA_NAME">
+			<Text>Carpentaria Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_CORINTH_NAME">
+			<Text>Korint Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_FINLAND_NAME">
+			<Text>Finlandiya Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_GABES_NAME">
+			<Text>Gabes Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_GUAYAQUIL_NAME">
+			<Text>Guayaquil Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_GUINEA_NAME">
+			<Text>Gine Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_HAMMAMET_NAME">
+			<Text>Hammamet Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_IZMIR_NAME">
+			<Text>İzmir Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_LION_NAME">
+			<Text>Lion Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_MANNAR_NAME">
+			<Text>Mannar Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_MEXICO_NAME">
+			<Text>Meksika Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_MORBIHAN_NAME">
+			<Text>Morbihan Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_OMAN_NAME">
+			<Text>Umman Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_PANAMA_NAME">
+			<Text>Panama Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_PAPUA_NAME">
+			<Text>Papua Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_ROSES_NAME">
+			<Text>Roses Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_SAINT_LAWRENCE_NAME">
+			<Text>Saint Lawrence Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_SUEZ_NAME">
+			<Text>Süveyş Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_TEHUANTEPEC_NAME">
+			<Text>Tehuantepec Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_THAILAND_NAME">
+			<Text>Tayland Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_TONKIN_NAME">
+			<Text>Tonkin Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_TORONEOS_NAME">
+			<Text>Toroneos Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_TUNIS_NAME">
+			<Text>Tunus Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_VALENCIA_NAME">
+			<Text>Valencia Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GWANGPO_BAY_NAME">
+			<Text>Gwangpo Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_HANN_BAY_NAME">
+			<Text>Hann Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_HANOBUKTEN_NAME">
+			<Text>Hanö Koyu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_HARDANGERFJORDEN_NAME">
+			<Text>Hardanger Fiyordu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_HELIGOLAND_BIGHT_NAME">
+			<Text>Heligoland Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_HUDSON_BAY_NAME">
+			<Text>Hudson Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_IONIAN_SEA_NAME">
+			<Text>İyonya Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_IRISH_SEA_NAME">
+			<Text>İrlanda Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_JADE_BIGHT_NAME">
+			<Text>Yeşim Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_JAWA_SEA_NAME">
+			<Text>Cava Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_JERVIS_BAY_NAME">
+			<Text>Jervis Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_JOSEPH_BONAPARTE_GULF_NAME">
+			<Text>Joseph Bonaparte Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_KANHOLMSFJARDEN_NAME">
+			<Text>Kanholm Koyu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_KARA_SEA_NAME">
+			<Text>Kara Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_KOREA_BAY_NAME">
+			<Text>Kore Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_KOSI_BAY_NAME">
+			<Text>Kosi Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LABRADOR_SEA_NAME">
+			<Text>Labrador Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LAKE_MARACAIBO_NAME">
+			<Text>Maracaibo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LAKSHADWEEP_SEA_NAME">
+			<Text>Lakşadvip Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LAPTEV_SEA_NAME">
+			<Text>Laptev Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LEVANTINE_SEA_NAME">
+			<Text>Levant Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LIBYAN_SEA_NAME">
+			<Text>Libya Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LIGURIAN_SEA_NAME">
+			<Text>Ligurya Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_LINCOLN_SEA_NAME">
+			<Text>Lincoln Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MASSACHUSETTS_BAY_NAME">
+			<Text>Massachusetts Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MEDITERRANEAN_SEA_NAME">
+			<Text>Akdeniz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MOLUCCA_SEA_NAME">
+			<Text>Maluku Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MONT_SAINT_MICHEL_BAY_NAME">
+			<Text>Mont-Saint-Michel Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MORAY_FIRTH_NAME">
+			<Text>Moray Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MORECAMBY_BAY_NAME">
+			<Text>Morecambe Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MOZAMBIQUE_CHANNEL_NAME">
+			<Text>Mozambik Kanalı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_MUTSU_BAY_NAME">
+			<Text>Mutsu Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_NORDFRIESISCHES_WATTENMEER_NAME">
+			<Text>Kuzey Frizya Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_NORTH_SEA_NAME">
+			<Text>Kuzey Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_NORWEGIAN_SEA_NAME">
+			<Text>Norveç Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_PARACAS_BAY_NAME">
+			<Text>Paracas Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_PERSIAN_GULF_NAME">
+			<Text>Basra Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_PHILIPPINE_SEA_NAME">
+			<Text>Filipin Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_PITSUNDA_BAY_NAME">
+			<Text>Pitsunda Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_PUNIHUIL_NAME">
+			<Text>Puñihuil</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_RED_SEA_NAME">
+			<Text>Kızıldeniz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SAGAMI_BAY_NAME">
+			<Text>Sagami Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SALTSJON_NAME">
+			<Text>Saltsjön</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SAN_FRANCISCO_BAY_NAME">
+			<Text>San Francisco Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SANGAREYA_BAY_NAME">
+			<Text>Sangareya Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SARGASSO_SEA_NAME">
+			<Text>Sargasso Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SARONIC_GULF_NAME">
+			<Text>Saronik Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SCOTIA_SEA_NAME">
+			<Text>Scotia Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_AZOV_NAME">
+			<Text>Azak Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_CRETE_NAME">
+			<Text>Girit Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_HYUGA_NAME">
+			<Text>Hyūga Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_JAPAN_NAME">
+			<Text>Japon Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_MARMARA_NAME">
+			<Text>Marmara Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_OKHOTSK_NAME">
+			<Text>Ohotsk Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SEA_OF_THE_HEBRIDES_NAME">
+			<Text>Hebridler Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SETO_SEA_NAME">
+			<Text>Seto Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SINGITIC_GULF_NAME">
+			<Text>Singitik Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SODWANA_BAY_NAME">
+			<Text>Sodwana Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SOGNEFJORDEN_NAME">
+			<Text>Sognefjorden</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SOLOMON_SEA_NAME">
+			<Text>Solomon Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SOLWAY_FIRTH_NAME">
+			<Text>Solway Firth</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SOUTH_CHINA_SEA_NAME">
+			<Text>Güney Çin Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_STORFJORDEN_NAME">
+			<Text>Storfjorden</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_STRYMONIAN_GULF_NAME">
+			<Text>Strimon Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SUKHUMI_BAY_NAME">
+			<Text>Sohum Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_SULU_SEA_NAME">
+			<Text>Sulu Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TASMAN_SEA_NAME">
+			<Text>Tasman Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_ARA_A_KIWA_NAME">
+			<Text>Te Ara a Kiwa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_MATAU_A_MAUI_NAME">
+			<Text>Te Matau-a-Māui</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_MOANA_A_TOI_NAME">
+			<Text>Te Moana-a-Toi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_MOANA_O_RAUKAWA_NAME">
+			<Text>Te Moana-o-Raukawa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_TAI_O_AORERE_NAME">
+			<Text>Te Tai-o-Aorere</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_TAI_O_REHUA_NAME">
+			<Text>Te Tai-o-Rehua</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TE_WHANGANUI_A_TARA_NAME">
+			<Text>Te Whanganui-a-Tara</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_THE_MINCH_NAME">
+			<Text>The Minch</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_THE_WASH_NAME">
+			<Text>The Wash</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_THERMAIC_GULF_NAME">
+			<Text>Termaik Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_THRACIAN_SEA_NAME">
+			<Text>Trakya Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TIKAPA_MOANA_NAME">
+			<Text>Tīkapa Moana</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TIMOR_SEA_NAME">
+			<Text>Timor Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TRONDHEIMSFJORDEN_NAME">
+			<Text>Trondheimsfjorden</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TYRRHENIAN_SEA_NAME">
+			<Text>Tiren Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_UMZINTO_BAY_NAME">
+			<Text>Umzinto Koyu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_VESTFJORDEN_NAME">
+			<Text>Vestfjorden</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_WADDEN_SEA_NAME">
+			<Text>Wadden Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_WAITEMATA_NAME">
+			<Text>Waitematā</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_WHITE_SEA_NAME">
+			<Text>Beyaz Deniz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_WINIPEKW_NAME">
+			<Text>Wînipekw</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_YATSUSHIRO_SEA_NAME">
+			<Text>Yatsushiro Denizi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_YELLOW_SEA_NAME">
+			<Text>Sarı Deniz</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_YOF_BAY_NAME">
+			<Text>Yof Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_ZUIDERZEE_NAME">
+			<Text>Zuyderzee</Text>
+		</Row>
+		<!--Seas-->
+		<Row Tag="LOC_NAMED_OCEAN_ANTARCTIC_OCEAN_NAME">
+			<Text>Antarktika Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_ARCTIC_OCEAN_NAME">
+			<Text>Arktik Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_ATLANTIC_OCEAN_NAME">
+			<Text>Atlas Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_IAPETUS_OCEAN_NAME">
+			<Text>İyapetus Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_INDIAN_OCEAN_NAME">
+			<Text>Hint Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_PACIFIC_OCEAN_NAME">
+			<Text>Pasifik Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_PANTHALASSIC_OCEAN_NAME">
+			<Text>Pantalasa Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_RHEIC_OCEAN_NAME">
+			<Text>Rheic Okyanusu</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_OCEAN_TETHYS_OCEAN_NAME">
+			<Text>Tethys Okyanusu</Text>
+		</Row>
+	</EnglishText>
+</GameData>

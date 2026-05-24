@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>Bu şehirde eğitilen hava birlikleri için +%50 muharebe tecrübesi. Hava Meydanı bölgesinde +2 hava aracı yuvası. Hızlı Konuşlandırma sosyal politikası araştırıldıktan sonra, Havaalanı bulunan Hava Meydanı bölgeleri arasında kara birliklerinin hava yoluyla nakledilmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm kara birlikleri için +%25 muharebe tecrübesi.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm yakın dövüş ve menzilli kara birlikleri için +%25 muharebe tecrübesi.[NEWLINE][NEWLINE]Halihazırda bir Ahır bulunan Ordugâh bölgesinde inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_DESCRIPTION">
+			<Text>Dış savunmalarınızın gücünü artırır. Koruma sosyal politikasına ilerledikten sonra 2 [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
+			<Text>Japonya'ya özgü bir bina. 6 bölge mesafedeki tüm şehir merkezlerine +4 [ICON_Production] Üretim sağlar. Elektrik teknolojisi araştırıldıktan sonra bu bina, bulunduğu şehre ek olarak +4 [ICON_Culture] Kültür sağlar. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
+			<Text>Bonus, 6 bölge mesafedeki tüm şehir merkezlerine uygulanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
+			<Text>Amerika'ya özgü bir bina. Bu şehirden diğer uygarlıklara yönelik Modern çağdaki [ICON_Tourism] Turizm baskısı +%100.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>Bu şehirde eğitilen hava birlikleri için +%25 muharebe tecrübesi. Hava Meydanı bölgesinde +2 hava aracı yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm deniz birlikleri için +%25 muharebe tecrübesi. Bu şehirdeki tüm Kıyı bölgelerinde +1 [ICON_FOOD] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
+			<Text>Arabistan'a özgü bir bina. Kampüs bölgesinin komşuluk bonusuna eşit miktarda bonus [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm kara birlikleri için +%25 muharebe tecrübesi. Kolordu ve Orduların doğrudan eğitilmesine olanak tanır. Kolordu ve Ordu eğitim maliyetleri %25 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MOSQUE_DESCRIPTION">
+			<Text>Burada oluşturulan Misyoner ve Havariler +1 yayma hakkına sahip olur.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DAR_E_MEHR_DESCRIPTION">
+			<Text>İnşa edildiği veya son onarıldığı çağdan itibaren her çağ için +1 ek [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ART_DESCRIPTION">
+			<Text>[ICON_GreatWork_Landscape] Sanat Büyük Eserlerini barındırır. Halihazırda bir Arkeoloji Müzesi bulunan Tiyatro Meydanı bölgesinde inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MUSEUM_ARTIFACT_DESCRIPTION">
+			<Text>[ICON_GreatWork_Artifact] Tarihi Eserleri barındırır. Halihazırda bir Sanat Müzesi bulunan Tiyatro Meydanı bölgesinde inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
+			<Text>Bonus, 6 bölge mesafedeki her şehir merkezine uygulanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm deniz birlikleri için +%25 muharebe tecrübesi. Donanma ve Armadaların doğrudan eğitilmesine olanak tanır. Donanma ve Armada eğitim maliyetleri %25 azalır. Bu şehirdeki tüm Kıyı bölgelerinde +2 [ICON_GOLD] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Misyoner satın alınmasına olanak tanır. Misyonerler yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm süvari ve kuşatma sınıfı birlikler için +%25 muharebe tecrübesi. Halihazırda bir Kışla bulunan Ordugâh bölgesinde inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm deniz birlikleri için +%25 muharebe tecrübesi. Liman bölgesinin komşuluk bonusuna eşit miktarda bonus [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
+			<Text>Bonus, 6 kare içindeki her şehir merkezine uygulanır. Bu bonus bir şehre bir defa uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Dış savunmalarınızın gücünü mümkün olan en yüksek seviyeye çıkarır. Koruma Sosyal Politikası'na ilerledikten sonra 3 [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
+			<Text>Norveç'e özgü bir bina. Havarileri ve Engizisyoncuları [ICON_Faith] İnanç ile satın almak için gereklidir. Kutsal Alan bölgeleri, Ormanlardan ek bir standart komşuluk bonusu alır. Bu şehirdeki her kıyı kaynak karesine +1 [ICON_PRODUCTION] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Havariler, Gurular, Engizisyoncular ve uygun inançla Savaşçı Keşişler satın alınmasına olanak tanır. Bu birimler yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WALLS_DESCRIPTION">
+			<Text>Şehir Merkezi ve Ordugâh Bölgesi çevresinde Surlar sağlar. Surlar, Şehir Merkezi ve Ordugâh Bölgesi'nden [ICON_Ranged] Menzilli Saldırılara izin verir ve bir şehre saldırılabilmesi için Surların aşılması gerekir. Koruma Sosyal Politikası'na ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_WATER_MILL_DESCRIPTION">
+			<Text>Çiftliklerle iyileştirilen bonus kaynakların her biri +1 [ICON_Food] Besin kazanır. Şehir bir Nehir'e bitişik olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_DESCRIPTION">
+			<Text>Bonus, 6 kare içindeki her şehir merkezine uygulanır. Bu bonus bir şehre bir defa uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+		</Row>
+		<!-- Wonders -->
+		<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
+			<Text>+1 Askeri politika yuvası[NEWLINE][NEWLINE]Kale iyileştirmesiyle aynı savunma bonuslarını sağlar. Bir Ordugâh Bölgesi'ne bitişik Tepeler üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 Ekonomik politika yuvası[NEWLINE][NEWLINE]Mevcut hazineyi ikiye katlar. Bir Ticaret Merkezi Bölgesi'ndeki Banka'ya bitişik bir Nehir'in yanına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATRE_DESCRIPTION">
+			<Text>Tamamlandığında rastgele seçilen 2 ücretsiz sosyal politika kazandırır. Bir Tiyatro Meydanı Bölgesi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_DESCRIPTION">
+			<Text>Bu şehirde +%20 [ICON_Culture] Kültür. 1 ücretsiz rastgele Atom Çağı yönetim sıçraması. Bir Tiyatro Meydanı Bölgesi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_DESCRIPTION">
+			<Text>Bu şehirdeki tüm Yağmur Ormanı karelerine +2 [ICON_Culture] Kültür. Bu şehirdeki tüm Yağmur Ormanı karelerine +1 [ICON_Production] Üretim. Yağmur Ormanı üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Kolezyum'un [ICON_Culture] Kültür ve [ICON_Amenities] Olanakları, 6 kare içindeki her şehir merkezine uygulanır. Bir Eğlence Kompleksi Bölgesi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Ticaret Yolu kapasitesi. Bir Tüccar birimi verir. Kıyı üzerine, karaya ve bir Liman Bölgesi'ne bitişik olarak inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_DESCRIPTION">
+			<Text>[ICON_GreatWork_Relic] Kutsal Emanetler ve Kutsal Şehirlerden gelen [ICON_Tourism] Turizm çıktısı, Aydınlanma sosyal politikasını araştırmış diğer uygarlıklar tarafından azaltılmaz. Uygarlığınız genelindeki Sahil Tatil Beldelerinden +%100 [ICON_Tourism] Turizm. Tepeler üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_DESCRIPTION">
+			<Text>Uygarlığınızdaki tüm kareler +2 Çekicilik kazanır. Şehir Merkezi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_DESCRIPTION">
+			<Text>Uygarlığınızdaki her şehirde +2 [ICON_Amenities] Olanaklar. Bir Stadyum içeren Eğlence Kompleksi Bölgesi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_DESCRIPTION">
+			<Text>+1 Joker politika yuvası[NEWLINE][NEWLINE]Şehir Merkezi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Tüm Antik ve Klasik Çağ teknolojilerine sıçramalar alırsınız. Kütüphane bulunan bir Kampüs Bölgesi'ne bitişik düz arazi üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_DESCRIPTION">
+			<Text>Tüm deniz birimlerine +1 [ICON_Movement] Hareket[NEWLINE][NEWLINE]Kıyı üzerine, karaya ve bir Deniz Feneri bulunan Liman Bölgesi'ne bitişik olarak inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Ticaret Yolu kapasitesi[NEWLINE][NEWLINE]Bu şehirden başlayan [ICON_TradeRoute] Ticaret Yollarınız, şehrin 3 bölge içindeki ve şehir topraklarındaki her Bonus kaynağı için +2 [ICON_Gold] Altın kazandırır. Bir Ticaret Merkezi bölgesinin ve bu bölgedeki bir Pazarın bitişiğine, ayrıca [ICON_RESOURCE_CATTLE] Sığır kaynağının yanına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
+			<Text>Misyonerler ve Havariler, Dini 1 kez daha yayabilir. Bir Kutsal Alan bölgesinin bitişiğindeki düz araziye inşa edilmelidir ve bir Din kurmuş olmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Tüm şehirlerdeki büyümeyi %15 artırır. Bir Nehrin yanına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_DESCRIPTION">
+			<Text>Bir Nehir boyunca inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_DESCRIPTION">
+			<Text>2 Havari verir. Bir Tapınağa sahip Kutsal Alan bölgesinin bitişiğindeki Ormanlık alana inşa edilmelidir ve bir Din kurmuş olmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_DESCRIPTION">
+			<Text>Oluşturduğunuz tüm Havariler, normalde seçtiğiniz ikinci bir yeteneğe ek olarak Şehit yeteneği kazanır. Taşkın Yatağı veya Bataklık üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Büyük Kişi Hamiliği %25 daha az [ICON_Faith] İnanç harcar. Bu şehirdeki bölgeler, türlerine uygun +2 [ICON_GreatPerson] Büyük Kişi puanı sağlar (örneğin, Tiyatro Meydanı bölgesinden [ICON_GreatWriter] Büyük Yazar puanı). Tepelere inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_DESCRIPTION">
+			<Text>Bu şehirde +%20 [ICON_Science] Bilim sağlar ve tamamlandığında rastgele seçilen 2 ücretsiz teknoloji verir. Bir Üniversiteye sahip Kampüs bölgesinin bitişiğindeki Otlak veya Ova üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_DESCRIPTION">
+			<Text>+1 Diplomatik politika yuvası[NEWLINE][NEWLINE]Bir Dağın bitişiğindeki Tepeye inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>Bu şehirdeki tüm Çöl bölgelerinde (Taşkın Yatağı olmayan) +2 [ICON_Food] Besin, +2 [ICON_Gold] Altın ve +1 [ICON_Production] Üretim sağlar. Tepe olmayan Çöl veya Taşkın Yatağı üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Bedava bir İşçi verir. Tüm İşçiler 1 ek iyileştirme inşa edebilir. Tepe olmayan Çöl (Taşkın Yatağı dahil) üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_DESCRIPTION">
+			<Text>Bu şehirde +%20 [ICON_Production] Üretim ve bu şehirdeki her Maden Ocağı ve Taş Ocağı için +1 [ICON_Production] Üretim sağlar. Bir Fabrikaya sahip Sanayi Bölgesinin bitişiğinde, bir Nehir boyunca inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_DESCRIPTION">
+			<Text>Bedava bir [ICON_GreatProphet] Büyük Peygamber verir. [ICON_GreatProphet] Büyük Peygamberler, bir Kutsal Alan yerine Stonehenge'de bir Din kurabilir. [ICON_RESOURCE_STONE] Taş kaynağının bitişiğinde ve düz arazide olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_DESCRIPTION">
+			<Text>Kıyıda, karaya ve bir Liman bölgesine bitişik olarak inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_DESCRIPTION">
+			<Text>Mevcut tüm birimler bir terfi seviyesi kazanır. Sahibinin tüm Arkeologları, Açık Sınırlar olmaksızın yabancı topraklara girebilir. Bir Kışla veya Ahıra sahip Ordugâh bölgesinin bitişiğindeki düz Otlak veya Ova üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION">
+			<Text>Her deniz birliği eğittiğinizde ikinci bir deniz birliği alırsınız. Bir Sanayi Bölgesinin bitişiğindeki Kıyı bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<!--Theming Bonuses-->
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ART">
+			<Text>Tema bonusu, farklı sanatçılardan aynı türdeki nesneler sergilendiğinde çıktıyı ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_ARCHAEOLOGY">
+			<Text>Tema bonusu, farklı uygarlıklardan aynı çağa ait [ICON_GreatWork_Artifact] Tarihi Eserler sergilendiğinde çıktıyı ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
+			<Text>Tema bonusu, müze dolduğunda çıktıyı ikiye katlar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

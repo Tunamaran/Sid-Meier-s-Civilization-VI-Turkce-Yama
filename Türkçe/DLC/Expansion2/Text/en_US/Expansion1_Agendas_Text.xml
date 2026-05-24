@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_GOSSIP_NAME">
+			<Text>Dedikodu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SYCOPHANT_NAME">
+			<Text>Dalkavuk</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SYMPATHIZER_NAME">
+			<Text>Sempatizan</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_UNKNOWN_NAME">
+			<Text>Bilinmeyen</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
+			<Text>Dostluk bağları, açık sınırlar, elçi heyetleri ve büyükelçilikler vasıtasıyla herkes hakkında her şeyi bilmek ister. Bilgi paylaşmayan uygarlıklara tahammül edemez.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SYCOPHANT_DESCRIPTION">
+			<Text>Altın Çağ'a ulaşan uygarlıkları takdir eder, Karanlık Çağ'dakileri ise hor görür.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SYMPATHIZER_DESCRIPTION">
+			<Text>Karanlık Çağ'ın zorluklarını yaşayanlara acır; Altın Çağ'dakileri ise sevmez.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_UNKNOWN_DESCRIPTION">
+			<Text>Bilinmeyen Gündem.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

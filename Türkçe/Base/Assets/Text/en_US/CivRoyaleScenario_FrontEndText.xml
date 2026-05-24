@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- CivRoyale Main Menu Multiplayer Buttons -->
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE">
+			<Text>Kızıl Ölüm (Battle Royale) Oyna</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE">
+			<Text>[ICON_CheckFail]Kızıl Ölüm'e Katıl</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_NEW_MODE">
+			<Text>[ICON_Exclamation]Kızıl Ölüm'e Katıl</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_TT">
+			<Text>Otomatik olarak bir Kızıl Ölüm oyunu bul ve katıl.[NEWLINE][NEWLINE]Kızıl Ölüm, Civilization VI'nın Battle Royale türüne getirdiği yorumdur. Ölmekte olan bir gezegenden tek bileti almak için yarışan hayatta kalanlar olarak oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
+			<Text>Steam çevrimdışıyken Kızıl Ölüm oyunları mevcut değildir.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_CIVROYALE">
+			<Text>Kızıl Ölüm Nasıl Oynanır</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_CIVROYALE_TT">
+			<Text>Kızıl Ölüm hakkında hızlı bir öğretici izleyin.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_CIVROYALE_NEW_MODE_TT">
+			<Text>Yeni Kızıl Ölüm (Battle Royale) modu mevcut!</Text>
+		</Row>
+		
+		<!-- CivRoyale How to Play -->
+		<Row Tag="LOC_CIVROYALE_INTRO_NEXT">
+			<Text>İleri</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_INTRO_PREVIOUS">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_INTRO_PLAY">
+			<Text>Kızıl Ölüm (Battle Royale) Oyna</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_INTRO_BODY">
+			<Text>Dünyanın sonuna hoş geldiniz! Kızıl Ölüm, ölmekte olan bir gezegende uygarlığın alacakaranlığında son fraksiyona kadar süren bir serbest mücadeledir. Amaç, hayatta kalan son fraksiyon olmak ve harap olmuş gezegenden kalkan son nakliye gemisine binmektir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_INTRO_DETAILS">
+			<Text>Şehirler yok. Diplomasi yok. Son Sivil birliğiniz esir alındığında veya öldürüldüğünde kaybedersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_RED_DEATH_BODY">
+			<Text>Kızıl Ölüm, büyüyen bir radyoaktivite fırtınasıdır. Zamanla, Kızıl Ölüm dünyayı sardıkça güvenli alan küçülür. Güvenli alanlar ve Kızıl Ölüm'den etkilenen alanlar haritada işaretlenmiştir. Kızıl Ölüm'ün size yetişmemesine dikkat edin!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_RED_DEATH_DETAILS">
+			<Text>Kızıl Ölüm'deki birimler her turda hasar alır. Suda bulunan birimler de her turda hasar alır. Gezegenden ayrılmaya çalışmanızın bir sebebi var.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_UNITS_BODY">
+			<Text>Harap olmuş şehirleri araştırarak, Akıncı Karakollarını temizleyerek ve İkmal İndirmeleri ele geçirerek yeni birimler bulun ve deneyim kazanın. Yeni birimler elde etmenin tek yolu budur, bu yüzden saldırılarınızı dikkatle değerlendirin!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_UNITS_DETAILS">
+			<Text>Birimleri, Sivillerinize refakat etmek üzere atayabileceğinizi unutmayın; bu, onların esir alınmasını veya öldürülmesini zorlaştırır. Bu senaryodaki birimler, bu kanunsuz gezegende hayatta kalmanıza yardımcı olacak yeni terfiler kazanabilir.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

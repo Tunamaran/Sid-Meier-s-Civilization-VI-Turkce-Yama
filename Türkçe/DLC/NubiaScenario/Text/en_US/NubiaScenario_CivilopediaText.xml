@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Civs-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Hiksoslar, Nil bölgesine doğudaki topraklardan geldi. Teorilere göre ya siyasi olarak parçalanmış bir Mısır'a direnişle karşılaşmadan göç ettiler ya da … pek çok belayla boğuşan bir diyarı fethetmek için yola çıktılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCYTHIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Mevcut Mısır hanedanlarının MÖ 1650'de çöktüğünü biliyoruz. Ardından oluşan iktidar boşluğunda Hiksoslar On Beşinci Hanedan'ı kurdular. Bölgeyi bir yüzyıl daha ellerinde tutsalar da Mısırlılar sonunda onları kovdu ve yönetimlerine dair tüm izleri sildi. Kayıtlı tüm anlatılar, onları Mısır topraklarına sonradan giren yabancılar olarak tasvir etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Asur ve Mısır çıkarları, özellikle Kenan topraklarının denetimi konusunda sık sık çatışırdı. Asurlulara göre Mısırlılar, kendi topraklarına karışmaya çalışan yabancı müdahalecilerdi. Mısırlılar ise Asurluları, emperyal hırsları olan küçük ama ölümcül bir krallık olarak görüyordu. İki taraf da haklıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SUMERIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Yüzyıllar boyunca iki bölgesel güç, vekalet savaşları, diplomatik oyunlar ve epeyce kılıç şakırdatmayla uğraştı, ancak her şey MÖ 671'e kadar doruk noktasına ulaşmadı. O dönemde Nübye Krallığı Kuş tarafından yönetilen Mısır, Asur Kralı Esarhaddon tarafından fethedildi. Mısır, sonraki 50 yıl boyunca Asur'un vasalı olarak kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük Kiros'un oğlu II. Kambises, MÖ 526'da evlilik yoluyla Pers ve Mısır'ın geleceğini birleştirmeye kalkıştığında Firavun Amasis, öldürülmesini emrettiği bir ailenin hayatta kalan kızını, kendi soyundan olduğunu iddia ederek gönderdi. Sahte kız, firavunun hilesini derhal Pers kralına anlattı; çünkü birinin tüm ailesini öldürdükten sonra onu saçma bir plana ikna etmek neredeyse imkansızdır. Kambises derhal Mısır'ı işgal edip fethetti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Mısır bir yüzyıldan fazla bir süre Ahameniş egemenliği altında kaldı. II. Darius'un MÖ 404'teki ölümü Mısır'ın isyanına yol açtı ve Pers, kaybettiği satraplığı geri kazanmak için onlarca yıl uğraştı. Mısır, Ahamenişleri MÖ 343'e kadar uzak tutmayı başardı; ta ki III. Artaserhas 350.000 deneyimli askerle gelip son gerçek Mısır hanedanını ülkeden sürünceye kadar. Persler, görece istikrarlı bir Mısır'ı bir on yıl daha ellerinde tuttular; ta ki Büyük İskender'in gelişine kadar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_1">
+			<Text>Pers işgali altındaki Mısırlıların sevincine, Büyük İskender MÖ 332'de Mısır'ı işgal etti ve Makedonya adına toprakları ele geçirdi. Memfis'teki kahin onu tanrı Amun'un yaşayan oğlu ilan edince kalan kırgınlıklar da yatıştı. Mısır'ın zenginlikleriyle doğudaki fetihlerine devam eden İskender, oradan Makedonya'nın yeni satrapı olarak fatih bir kahraman gibi ayrıldı. MÖ 322'deki ölümünün ardından İskender'in güvendiği general Ptolemaios, Mısır işlerini üstlendi. Parçalanan imparatorluktaki veraset krizi, Mısır'ı özellikle büyük ve kendi kendine yeten bir parça haline getirdi; artık kendini Kral I. Ptolemaios Soter ilan eden adam tarafından yönetiliyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GREECE_CHAPTER_HISTORY_PARA_2">
+			<Text>Ptolemaios Mısır'ı üç yüzyıl sürdü, ancak gerilemesi çok daha erken başlamıştı. Giderek zayıflayan yöneticiler kısa görüşlü kararlara yol açtı. Makedonya'nın en iyisiyle Mısır'ın bin yıllık firavun soyunun bir zamanlar güçlü birleşimi, sayısız lejyonunu beslemekle yükümlü, sonradan türeyen Roma Cumhuriyeti'nin bir himayesi durumuna düşmüştü. Ancak Ptolemaios Mısır'ının gerçek sonu, MÖ 30'da Kleopatra ile birlikte öldü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_1">
+			<Text>Yeni yükselen Roma Cumhuriyeti'nin fetih iştahı kabarıktı. Bu, hem seferdeki lejyonları hem de topraklarında yaşayan kalabalık için güvenilir bir besin kaynağı gerektiriyordu. Akdeniz'in tahıl ambarı Mısır, Makedonya ve Selevkos İmparatorluğu karşısında özellikle ağır bir kayba uğradığında Roma, bir ittifak ilan etme fırsatını yakaladı. Yıllar geçtikçe ve Mısır tökezlemeye devam ederken, Roma kendini giderek daha vazgeçilmez kıldı; ta ki iyice zayıflamış Mısır, kendi işlerinin Romalı kukla ustalarının meselesi haline geldiğini görene kadar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ROME_CHAPTER_HISTORY_PARA_2">
+			<Text>Roma'nın kendi himayesini işgal etmesine neyin yol açtığı Kleopatra'nın hikayesinde ayrıntılı olarak anlatılır, ancak bu eylem üç bin yıllık hanedan Mısır yönetimine fiilen son verdi. Hızla bir Roma eyaleti statüsüne yükseltilen Mısır, nihai çöküşüne kadar Roma'yı besledi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Mısır, MÖ 13. yüzyıla gelindiğinde Libya kabileleriyle yaşadığı çatışmalar nedeniyle kıyı şehirlerinde kaleler inşa etmişti. Nil Deltası'nın çok batısına uzanan bu kaleler, batıdan gelecek herhangi bir Libya saldırısını geciktirebilir ve başkenti bir istilaya karşı uyarabilirdi. Teori böyleydi. Kaleler, MÖ 1208'de Libu kabilesinin gizemli Deniz Kavimleri'nin yardımıyla Libya birliklerini Nil Deltası'na saldırmaya yönlendirmesiyle kesinlikle etkili olmadı. Mısır'ın saldırıyı hızla püskürtmesinin bir önemi yoktu. Mısır'ın kalbine yapılan doğrudan bir akın, hayatta kalan Libyalılar için güçlü bir ders oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARABIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Libya ve Mısır arasında on yıllardır süren için için yanan çatışmanın ardından, Meşveş olarak bilinen Libya Berberi kabilesi bu dersi dikkate aldı. Bir kez daha Deniz Kavimleri'nin de dahil olduğu müttefiklerini topladı ve MÖ 1181'de işgale girişti. Mısır, orduları durdurdu ve Nil kıyılarına okçular yerleştirerek Deniz Kavimleri'ni oklara boğdu. MÖ 1175'te yalnızca Meşveş'in öncülük ettiği bir işgal, onların tamamen yenilgiye uğramasına, enterne edilmelerine ve ardından Mısır'a katılmalarına yol açtı.</Text>
+		</Row>
+		<!-- City States -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ASHMUNEIN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Bir zamanlar Mısır'ın Eski Krallığı'nın bir parçası olan Ashmunein şehri, şimdi Yukarı ve Aşağı Mısır arasındaki sınırın üzerinde yer alır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BAHARIYA_CHAPTER_HISTORY_PARA_1">
+			<Text>"Nil deltasının batısında Bahariya vahası bulunur. Erişim sağlayabilirsek Libya kabileleriyle ticaret yapabiliriz."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BYBLOS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Sedir ağaçlarının şehri, Nil'de insan yaşamından daha uzun süredir var. İçinden yalnızca en iyi mallar akar."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DAKHLA_CHAPTER_HISTORY_PARA_1">
+			<Text>"Dakhla vahası, Batı Çölü'nün derinliklerinde yer alır. Nil'in kucağından uzaklara yolculuk eden tüccarlar için hayati bir duraktır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IHNASIYA_CHAPTER_HISTORY_PARA_1">
+			<Text>"Kraliyet Çocuğu'nun Evi olan İhnasiya, Eski Krallık'ın çöküşünden bu yana Aşağı Mısır'ın sözde başkenti olmuştur."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_IREM_CHAPTER_HISTORY_PARA_1">
+			<Text>"Altıncı Katarakt'ın ötesinde Nil kıyısına tünemiş olan uzak İrem, fildişi ticaretiyle tanınır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KHARGA_CHAPTER_HISTORY_PARA_1">
+			<Text>"Kharga'dan bol miktarda altın akar. Bu hayati vaha, Birinci Katarakt'ın kuzeybatısında yer alır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_NEKHEN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Firavun Khasekhemwy, Nekhen Mısır'ın Eski Krallığı'nın bir parçasıyken burayı geliştirdi. Boyalı mezarları ilham verici bir manzaradır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ON_CHAPTER_HISTORY_PARA_1">
+			<Text>Mısır'ın Eski Krallık piramitleri, Nil'in sona erip deltasının başladığı yere yakın olan On şehrine gölgelerini düşürüyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PUNT_CHAPTER_HISTORY_PARA_1">
+			<Text>Doğudan gelen baharatlar Punt şehrinden geçer. Kızıldeniz'deki bir ticaret kaynağı, sahip olunması gereken değerli bir ortaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SHARUHEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Filistin ile ticaret yapmak mı istiyorsun? Şaruhen, bir vahadaki aslanlar gibi yola hükmediyor. Onlarla tokken anlaşmak en iyisi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SERABIT_EL_KHADIM_CHAPTER_HISTORY_PARA_1">
+			<Text>Serabit el-Hadim maden kasabası, topraktan çıkarılan zenginliklerle kutsanmıştır. Müttefikleri bu fazlalıktan yararlanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THINIS_CHAPTER_HISTORY_PARA_1">
+			<Text>En eski firavun hanedanları, Thinis'i Mısır'ın başkenti olarak kabul ederdi. Burası, Batı Çölü'ndeki hayati vahalara açılan bir kapı olmaya devam ediyor.</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANDHI_CHAPTER_HISTORY_PARA_1">
+			<Text>II. Kambises, Büyük Kiros'un oğluydu. MÖ 525'teki Pelusium Muharebesi'nde Mısır'ı fethetti ancak seferini Nil boyunca Nübye'ye doğru ilerletmeye çalıştığında daha az başarılı oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GILGAMESH_CHAPTER_HISTORY_PARA_1">
+			<Text>Asurbanipal, MÖ 668'de, Nübye'nin Mısır'ı yönettiği bir dönemde Asur İmparatorluğu'nu miras aldı. Bir dizi sefer sonucunda orduları Nübyelileri Mısır'dan sürdü ve Thebes'in zenginliklerini yağmalamasına olanak tanıdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PERICLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük İskender, MÖ 332'de Mısır'ı fethederek Pers egemenliğinden kurtardı ve İskenderiye'yi Ptolemaios Mısırı'nın başkenti olarak kurdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Osorkon'un Mısır'daki otuz beş yıllık saltanatı MÖ 922'de başladı ve onu 22. Hanedanlığın bir parçası olarak Mısır'ı yöneten en büyük Libyalılardan biri yaptı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMYRIS_CHAPTER_HISTORY_PARA_1">
+			<Text>Kral Sakir-Har, Hiksos egemenliği dönemi olan 15. Hanedan Mısır'ın ilk üç hükümdarından biri olarak anılır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TRAJAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Octavianus, kısa süre sonra kudretli Augustus Caesar olarak anılacaktı, MÖ 31'deki Actium Muharebesi'nde Marcus Antonius ve Kleopatra'nın güçlerini yendi. Hemen ardından İskenderiye'ye asker çıkararak Mısır'ı Roma'nın en yeni eyaleti yaptı.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_HIGH_PRIESTESS_CHAPTER_HISTORY_PARA_1">
+			<Text>Yüksek rahibeler, Nil boyunca dini gelenekleri ayakta tuttular ve tapınakları muhafaza ettiler. Nil halkı arasında önemli bir nüfuza sahiptiler, zaman zaman Nübye kraliyet soyları ve Mısır hanedanlarından daha fazla güçleri vardı. Sonraki hükümdarlar, ülkenin servetinin büyük kısmını rahiplik tarafından kontrol edilen yapılara koymamayı öğreneceklerdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MEDJAY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir zamanlar Nübye'nin Medja topraklarından gelen halkı ifade eden 'medjay' adı, MÖ 16. yüzyıla gelindiğinde hem Nübyeli hem de Mısırlıları bünyesinde barındıran seçkin bir güçle eş anlamlı hale gelmişti. Anıtları, sarayları ve mezarları korumakla görevli, büyük ölçüde özerk olan medjayler, tahsislerini denetleyen bölgesel kaptanlara rapor verirdi.</Text>
+		</Row>
+		<!-- NPC Civs -->
+		<!-- Buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OBELISK_CHAPTER_HISTORY_PARA_1">
+			<Text>Bu büyük taş sütun çiftleri, Nil bölgesindeki tapınakların girişlerini yaygın olarak çevrelerdi. MÖ İkinci Binyıla gelindiğinde güneş tanrısı Ra (daha sonra sırasıyla Amun ve nihayet Amun-Ra) ile ilişkilendirilirlerdi. Dikilitaşları tek parça halinde yontmak, taşımak ve nihayet yerlerine dikmek, antik mühendisliğin etkileyici başarılarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NUBIAN_SHRINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil bölgesini küçük tapınak mabetleri süslerdi; hem tanrılara hem de tanrısal görülen kişilere adanmışlardı—her ne kadar ikinciler görünüşte dini olsa da, bu adanmalar kesinlikle oldukça politikti. Bu mabetler dini eserler barındırır ve kendilerine atanan rahipler ile hırsızları uzak tutan muhafızlar tarafından gözetilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TEMPLE_AMUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Tanrı Amun'un Nil bölgesi için önemini anlamak için tapınaklarına bakmak yeter. Karnak'taki Amun Tapınağı o kadar büyüktür ki içine beş Büyük Piramit sığabilir. Nübye'deki Cebel Barkal'daki Amun Tapınağı, Romalılar MÖ 25'te onu paramparça etmemiş olsaydı belki de böyle bir ihtişama erişebilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_NILOMETER_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil Vadisi halkı, hayatta kalmak için Nil'in yıllık taşkınlarına (ya da 'su baskınlarına') bağımlıydı. Dâhiyane nilometreler taşkın sularının yüksekliğini ölçerdi: çok yüksekse halk tehlikeli seller bekleyebilirdi. Çok düşükse kıtlık görürlerdi. Bu işaretlerin arasındaki herhangi bir değer görece bereketli bir mevsimin habercisiydi.</Text>
+		</Row>
+		<!-- Terrain/Features-->
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CATARACT_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil nehrinin altı çağlayanı, sığlıklar ve akıntılar arasında değişir. Su seviyesine bağlı olarak, çağlayanları geçitlerden veya tekneyle geçmek mümkündü. Geleneksel olarak Mısır, Nil'in Birinci Çağlayan'ın kuzeyindeki kısmını, Nübye ise güneyindeki kısmını sahiplenirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_TERRAIN_NILE_RIVER_CHAPTER_HISTORY_PARA_1">
+			<Text>Doğu-orta Afrika'dan Akdeniz'deki kuzey deltasına akan Nil'in taşkın ovalarındaki düzenli su baskınları, aksi halde yaşanmaz çöl arazisi olacak yerlere hayat getirdi. Nil olmasaydı Mısır ve Nübye asla var olmazdı.</Text>
+		</Row>
+		<!-- Techs -->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FISHING_CHAPTER_HISTORY_PARA_1">
+			<Text>İyi nişanlanmış bir mızrakla, geçimini Nil'e borçlu olan insanlar kendilerini beslemek için balık tutabilirdi. Basit bir olta, biraz yem ve elde tutulan bir misina ailelerini doyurmaya yeterdi. Ancak balık ağları, tüm şehirleri beslemek için gereken toplu avlanmayı sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_MEDICINE_CHAPTER_HISTORY_PARA_1">
+			<Text>Yöntemleri ilkel olsa da Nil bölgesindeki tıp bilgisi şaşırtıcı derecede kapsamlıydı. Anatomiye dair engin bilgi, hijyenik uygulamalara, cerrahi bilgiye ve hastalık yaydığı düşünülen cinlere karşı büyülere yol açtı. MÖ 1550 itibarıyla tıbbi bir papirüs, kanseri "tanrı Xenus'a karşı bir tümör" olarak tanımlıyordu. Ne yazık ki bilinen bir tedavisi yoktu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil halkının refahı arttıkça, komşularının kıskançlığı da arttı. Sonuç olarak Mısırlılar ve Nubyalılar, en azından MÖ 2. binyıl kadar erken bir tarihte kalıcı kaleler inşa ettiler. Bu kale yerleşimleri genellikle devasa kerpiç duvarlara sahipti ve Nil'in stratejik noktalarında kontrol sağlamalarına olanak tanıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_TOMB_BUILDING_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil halkı, dini ve pratik nedenlerle masrafını karşılayabildikleri ölülerini gömerdi. İster basit kuyu mezarlar, ister devasa Mısır piramitleri, isterse çok daha gösterişsiz Nubiya piramitleri olsun, kalın bir taş ve toprak tabakası, kişinin ölümden sonraki varlığını ve abartılı bir mezar eşyası koleksiyonunu korurdu.</Text>
+		</Row>
+		<!-- Civics -->
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_ROYAL_DYNASTIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Kavramsal olarak bir kraliyet hanedanı basittir: Bir hükümdar, iktidarı kendi kanından gelen bir varise devreder ve böylece istikrarlı bir güç standardını korur. Mısır, bu kanıtlanmış istikrar kavramından o kadar hoşlandı ki, MÖ 343'te Pers kralı Artakserkses'in onlara saldırgan bir şekilde satraplık kavramını tanıtmasına kadar 30 farklı kraliyet hanedanı yaşadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_HIEROGLYPHICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Sözlerinizin sonsuza dek kalmasını istiyorsanız, neden onları taşa kazımıyorsunuz? Eski Mısırlılar böyle düşünmüştü; onların stilize logogramları dört bin yıl sonra hâlâ duruyor. Meroë Krallığı, MÖ 2. yüzyıldan sonra inşa edilen Nubiya anıt ve mezarlarında hâlâ görülebilen çok daha anlaşılır bir varyant geliştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_MUMMIFICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil halkının defin uygulamaları, ölüleri mumyalama süreciyle korumayı amaçlıyordu. Bu süreç, iç organların çıkarılmasını, iç kısmın baharatlarla yıkanmasını ve cesedin birkaç ay boyunca tuzla kapatılmasını içeriyordu. Bu, vücudu kurutuyor ve onu aç böceklere karşı dayanıklı hale getiriyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SCRIBES_CHAPTER_HISTORY_PARA_1">
+			<Text>Uygarlığınız bilgi, yazı ve matematik tanrısına tapıyorsa, okuma, yazma ve aritmetikle görevlendirilen insanlar ayrıcalıklı bir kast olarak görülürdü. Nil bölgesindeki kâtipler için durum buydu; Mısırlılar onları kraliyet sarayının üyeleri olarak bile görüyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOOK_OF_THE_DEAD_CHAPTER_HISTORY_PARA_1">
+			<Text>Ölüler Kitabı, cesetlerin tedavisi için pratik tavsiyeler ve yeni ölenleri Yeraltı Dünyası'nda yönlendirmek için tasarlanmış ritüel büyüler sunan cenaze talimatları koleksiyonlarıydı. Bunları sipariş edebilecek gücü olanlar, mezarlarında bir kopya bulundururlardı; hazır bir öteki dünya kullanım kılavuzu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_INSTITUTION_OF_THE_MUSES_CHAPTER_HISTORY_PARA_1">
+			<Text>Yaklaşık MÖ 3. yüzyılda kurulan İskenderiye'deki 'Musa Enstitüsü', en parlak bilimsel, sanatsal ve felsefi zihinleri bir araya getirerek öğretmelerini, yaratmalarını ve felsefi tartışmalar yapmalarını sağlamıştır. Modern üniversite kavramına benzer şekilde, 'Musaeum' genç Arşimet'e (kendi Buluş anından önce) ev sahipliği yapmış olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_SEPATS_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil'in yolunu izleyen uygarlıklar, topraklarının her bölümünü merkezi bir konumdan kolayca yönetemiyordu. Nil halkları bunu, daha sonra Yunanca konuşan Ptolemaioslar'ın 'nomos' dediği sepats adlı idari bölgelerle çözdü. Bu idari bölgeler, Nil'in her bir bölümünden veya Nil Deltası'nın bir kısmından sorumluydu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_BOARDGAMES_ATHLETICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil halkı, masa oyunlarını ve atletizmi savaşın bir uzantısı olarak geliştirdi. Yarış koşabilen, rakiplerle güreşebilen ve sapan taşı veya okla uzak hedefleri vurabilen tebaa, bu dersleri savaşa uygulayabilirdi. Benzer şekilde, senet veya mehen'de rakiplerini alt edebilenler, savaş alanı stratejilerinin önemini anlayabilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_AMUN_LORD_OF_ALL_GODS_CHAPTER_HISTORY_PARA_1">
+			<Text>Teb'in koruyucu tanrısı Amun, Nil halkı için büyük önem taşıyordu. Rüzgar tanrısı, sonunda Mısırlılar ve daha sonra Nubiya halkı tarafından tanrıların kralı olarak kabul edildi. Tüm iyi ve adil şeyleri savunduğu düşünülen Amun, ezilenleri onlara haksızlık edenlere karşı korurdu.</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_GOLD_CHAPTER_HISTORY_PARA_1">
+			<Text>Nil halkı, topraklarındaki altın cevherinden büyük bir servet elde etti. Mısır birçok altın kaynağına sahip olduğunu iddia etse de firavunları ve rahipleri her zaman daha fazlasına açtı. Güneydeki Nubiya'nın zengin altın madenleri, iki uygarlık arasında sürekli bir anlaşmazlık konusuydu: Mısır onları istiyordu ve Nubiya vermeyi reddediyordu.</Text>
+		</Row>
+		<!-- Governments -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_KANDAKE_CHAPTER_HISTORY_PARA_1">
+			<Text>Nubiya hükümdarları, kraliyet karı koca arasında ortak yönetim uyguluyordu. Bir kandake ya da kraliçe, kocası kadar veya daha fazla güce sahipti ve nihai veto yetkisine sahipti: Kral, kandake'yi memnun etmezse, ona kendi canına kıymasını emredebilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_PHARAOH_CHAPTER_HISTORY_PARA_1">
+			<Text>Mısır hükümdarlarının uzun soyu, kabaca 'Büyük Ev' anlamına gelen firavun unvanını taşıyordu. Bu hükümdarlar Mısır'da neredeyse mutlak güce sahipti, ancak bu güç, Mısır yüksek rahiplerinin firavun otoritesine karşı bir denge oluşturmasıyla bin yıllar boyunca azaldı.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ABU_SIMBEL_CHAPTER_HISTORY_PARA_1">
+			<Text>"Büyük bir tapınak, komşularımızı etkilemekten daha fazlasını yapacak; onu gören herkese üstünlüğümüzü ilan edecek. Zamanla komşularımız bunu sorgusuz sualsiz kabul edecek."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_FRONTIER_FORTRESSES_CHAPTER_HISTORY_PARA_1">
+			<Text>"Zenginliğimiz arttıkça, onu bizden almak isteyen düşmanlar da artıyor. Uygarlığımızın sınırlarına inşa edilmiş bir dizi kale, bize yaklaşan ordular hakkında uyarıda bulunacak."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INUNDATION_CALENDAR_CHAPTER_HISTORY_PARA_1">
+			<Text>"Nil hem yaşam hem de ölüm getirir. Bu yılki sellerin ne zaman geldiğini bilmek, gelecek yılki taşkınları tahmin etmemizi sağlar. Daha fazla yaşam, daha az ölüm."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MERCENARIES_CHAPTER_HISTORY_PARA_1">
+			<Text>"Orduları beslemek pahalıdır. Güçlerimizi geçici olarak bir kısmı maliyetle paralı askerlerle takviye edebiliriz; ve eğer onların hizmetini ilk satın alırsak, düşmanlarımız alamaz."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MILITARY_COMMUNICATION_CHAPTER_HISTORY_PARA_1">
+			<Text>"Orduları çöl çorak arazilerine göndermenin bir faydası yok, eğer hareketlerini koordine edemiyorlarsa. Hızlı savaş arabalarımız, komutanlarımıza hayati mesajlar iletebilir."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MUSAEUM_CHAPTER_HISTORY_PARA_1">
+			<Text>"Bilimsel keşiflerden uzun süredir faydalanıyoruz. Bilginlerin bir araya gelip keşfetmesi için ödeme yapmak, onların entelektüel bahçelerinin meyvelerini toplamaktır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_RECORDKEEPING_CHAPTER_HISTORY_PARA_1">
+			<Text>"Titiz kayıtlar, kâtiplerimizin askerlerimizin ve erzaklarının durumunu takip etmesine olanak tanır. Böylece arabalarımızdan birkaç khopesh daha az kaybolur."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROYAL_BODYGUARDS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Kraliyet ailemize zarar vermek isteyeceklerin olması acı bir gerçektir. Onları, taca sadık eşsiz bir asker kadrosuyla korumalıyız."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SCORPION_KING_CHAPTER_HISTORY_PARA_1">
+			<Text>"Neden sadece hasat bittiğinde savaşa gitmek zorundayız? Bir grup askeri besleyip savaştırmaya devam edersek, yılın hangi zamanı olursa olsun topraklarımızı birleştirebiliriz."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TRADE_AGREEMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>"Tüccarlarımız uzak diyarlarla uzun süredir ticaret yapmaktadır. Resmî bir anlaşma hem hazinelerimizi dolduracak hem de yabancı komşularımızı savaştan caydıracaktır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_VALLEY_OF_THE_KINGS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Bu dünyadan öteki dünyaya geçişlerinin ardından liderlerimizin mezarlarını hazinelerle doldururuz. Bunu, sürekli gözetim altında tutabileceğimiz bir yerde yapmak en iyisidir."</Text>
+		</Row>
+		<!-- Beliefs -->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_CREATION_ATUM_CHAPTER_HISTORY_PARA_1">
+			<Text>"İlk tanrı Atum, kendisini suların dipsiz karanlığından yarattı. Kehanet, dünyanın sonunda da hazır bulunacağını söyler."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WATERY_ABYSS_NUN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Suların dipsiz karanlığı Nun, tüm yaratılışın kaynaklandığı biçimsiz kütledir."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_MUMMIFICATION_ANUBIS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Mumyalama tanrısı köpek başlı Anubis, ruhları öteki dünyaya yönlendirir. Mezarlıkları ve türbeleri gözetir."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_THE_OASES_ASH_CHAPTER_HISTORY_PARA_1">
+			<Text>"Vahaların tanrısı Aş, sert çöllerde bulunan yaşam adalarını gözetir. Set ile bağlantılı hayvanların başlarını taşır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GOD_OF_WAR_APEDEMAK_CHAPTER_HISTORY_PARA_1">
+			<Text>"Savaş tanrısı Apedemak, Nubya halkının şampiyonudur. Bir aslan başı taşır—bazen üç."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GODDESS_OF_FERTILITY_ISIS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Bereket tanrıçası İsis, sadece çocuklar için bereketinden fazlasını sağlar. Gerçekten de Nil'in yıllık taşkınları onun gözyaşlarından kaynaklanır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_GUARDIAN_GOD_SEBIUMEKER_CHAPTER_HISTORY_PARA_1">
+			<Text>"Antik Kuş'un Koruyucu Tanrısı Sebiumeker, Nubya tapınaklarını davetsiz misafirlerden korur."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_BELIEF_HOUSE_GOD_BES_CHAPTER_HISTORY_PARA_1">
+			<Text>"Ev tanrısı Bes, çeşitli haneleri yılanlara karşı korur. Aslanımsı bir çehresi vardır."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_LORD_OF_ALL_GODS_AMUN_CHAPTER_HISTORY_PARA_1">
+			<Text>"Tüm tanrıların efendisi Amun, öyle bir öneme ulaşmıştır ki diğer tüm tanrılar onun yönleri olarak görülür."</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGION_PAGE_BELIEFS_PROTECTOR_OF_THE_PHARAOHS_HORUS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Firavunların koruyucusu Horus, İsis ile Osiris'in oğludur. Bir şahin başı taşır—gökyüzü tanrısına yakışır şekilde."</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GREAT_WARLORDS_MOD_TITLE">
+			<Text>Büyük Komutanlar Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WARLORDS_MOD_TEASER">
+			<Text>Yeni Alternatif Liderler – Japonya'dan Tokugawa, İran'dan Nadir Şah ve Osmanlı'dan Süleyman (Muhteşem)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_WARLORDS_MOD_DESCRIPTION">
+			<Text>Mevcut Uygarlıklar için 3 yeni alternatif Lider içerir. Tokugawa, Nadir Şah ve Süleyman (Muhteşem) bunların arasındadır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

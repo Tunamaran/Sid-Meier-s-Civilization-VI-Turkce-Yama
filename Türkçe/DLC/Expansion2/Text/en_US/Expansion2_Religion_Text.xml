@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Pantheon-->
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
+			<Text>Ateş Tanrıçası</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
+			<Text>Jeotermal Çatlaklar ve Volkanik Toprak'tan +2 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
+			<Text>Geliştirilmiş Stratejik kaynaklardan +1 [ICON_Production] Üretim ve +1 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
+			<Text>Kutsal Alanlardan (Peygamber), Kütüphaneli Kamplüslerden (Bilim İnsanı) ve Amfi Tiyatrolu Tiyatro Meydanlarından (Yazar) +1 [ICON_GreatPerson] Büyük Şahsiyet Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
+			<Text>Nefes Kesen Çekiciliğe sahip bölgelerden +1 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
+			<Text>Kamplardan +1 [ICON_Food] Besin ve +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
+			<Text>Plantasyonlardan +1 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
+			<Text>Seçildiğinde başkentte bir İşçi alırsınız. Şehir büyüme hızı %10 daha yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
+			<Text>Seçildiğinde başkentte bir Yerleşimci alırsınız. Sınır genişleme hızı %15 daha hızlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
+			<Text>Bir Nehir'e bitişik Kutsal Alan bölgesi olan şehirlere +2 [ICON_Amenities] Olanak ve +2 [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
+			<Text>Temizlenen her Barbar Karakolu için +50 [ICON_Faith] İnanç. Barbar Karakolu'nu temizleyen birlik +100 Can iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
+			<Text>Bataklık, Vaha ve Çöl Taşkın Yatakları'ndan +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<!-- Follower-->
+		<Row Tag="LOC_BELIEF_HOLY_WATERS_NAME">
+			<Text>Kutsal Sular</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HOLY_WATERS_DESCRIPTION">
+			<Text>Çoğunluk dininize sahip şehirlerdeki Kutsal Alan bölgelerinde veya bu bölgelere bitişik hücrelerde dinî birimlerinizin iyileşmesini +10 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FEED_THE_WORLD_EXPANSION2_DESCRIPTION">
+			<Text>Mabetler ve Tapınaklar her biri için +3 [ICON_FOOD] Besin ve +2 [ICON_HOUSING] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_EXPANSION2_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları, Kutsal Alanı olan şehirlere +2 [ICON_GOLD] Altın ve Kutsal Alan bölgesindeki her bina için ek +2 [ICON_GOLD] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WARRIOR_MONKS_EXPANSION2_DESCRIPTION">
+			<Text>Savaşçı Keşişleri (bir kara muharebe birimi) eğitmek için [ICON_FAITH] İnanç harcanmasına ve bir Kutsal Alan tamamlandığında bitişik hücrelerde Kültür Bombası kullanılmasına olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORK_ETHIC_EXPANSION2_DESCRIPTION">
+			<Text>Kutsal Alan bölgesinin [ICON_Faith] İnanç komşuluk bonusu aynı zamanda [ICON_Production] Üretim de sağlar.</Text>
+		</Row>
+		<!-- Founder-->
+		<Row Tag="LOC_BELIEF_SACRED_PLACES_NAME">
+			<Text>Kutsal Mekânlar</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SACRED_PLACES_DESCRIPTION">
+			<Text>Bu Dini takip eden ve bir Dünya Harikası'na sahip olan her şehir için +2 [ICON_SCIENCE] Bilim, [ICON_CULTURE] Kültür, [ICON_GOLD] Altın ve [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_EXPANSION2_DESCRIPTION">
+			<Text>Bu dine mensup her 4 takipçi için +1 [ICON_SCIENCE] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_LAY_MINISTRY_EXPANSION2_DESCRIPTION">
+			<Text>Bu dini benimseyen her şehirdeki her Kutsal Alan veya Tiyatro Meydanı bölgesinden sırasıyla +1 [ICON_FAITH] İnanç veya +1 [ICON_CULTURE] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PILGRIMAGE_EXPANSION2_DESCRIPTION">
+			<Text>Bu dini benimseyen her şehir için +2 [ICON_FAITH] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_STEWARDSHIP_EXPANSION2_DESCRIPTION">
+			<Text>Bu dini benimseyen her şehirdeki her Kampüs veya Ticaret Merkezi bölgesinden sırasıyla +1 [ICON_SCIENCE] Bilim veya +1 [ICON_GOLD] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_TITHE_EXPANSION2_DESCRIPTION">
+			<Text>Bu dini benimseyen her şehir için +3 [ICON_GOLD] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_WORLD_CHURCH_EXPANSION2_DESCRIPTION">
+			<Text>Bu dine mensup her 4 takipçi için +1 [ICON_CULTURE] Kültür.</Text>
+		</Row>
+		<!-- Worship-->
+		<Row Tag="LOC_BELIEF_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
+			<Text>Dar-e Mehr inşasına izin verir (+3 [ICON_Faith] İnanç, inşa edildiği veya son onarımından itibaren her çağ için +1 ek [ICON_FAITH] İnanç. Doğal afetler tarafından yağmalanamaz.)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GURDWARA_EXPANSION2_DESCRIPTION">
+			<Text>Gurdwara inşasına izin verir (+3 [ICON_Faith] İnanç, +2 [ICON_Food] Besin, +1 [ICON_Housing] Konut).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_PAGODA_EXPANSION2_DESCRIPTION">
+			<Text>Pagoda inşasına izin verir (+3 [ICON_Faith] İnanç, tur başına +1 [ICON_Favor] Diplomatik Destek.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

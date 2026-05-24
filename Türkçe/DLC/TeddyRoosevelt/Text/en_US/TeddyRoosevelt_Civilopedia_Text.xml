@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_CAPSULE_BODY">
+			<Text>Kaba Süvari Teddy, kendi kıtasında sert müdahaleden çekinmez; ancak dokunulmadığı takdirde barışçıl bir tutum sergiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_ROUGHRIDER_CHAPTER_DETAILED_BODY">
+			<Text>Kaba Süvari Teddy Roosevelt, kendi kıtasında +5 [ICON_Strength] Muharebe Gücü kazanır ve şehir devletlerini ticaret yoluyla etkisi altına alabilir. Kıtasında hızla yayılırken çevredeki tüm şehir devletlerinin desteğini almayı hedefler. Kurucu Babalar uygarlık yeteneği, hükümet seçimini kritik hale getirir ve onu her türlü zafere hazır hale getirebilir. Sanayi sonrası iki eşsiz birimi, özellikle de gözde birimi Kaba Süvariler sayesinde, 20. yüzyıldan itibaren son derece ağır darbeler indirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_CAPSULE_BODY">
+			<Text>Boğa Sığını Teddy, nefes kesici manzaraların korunmasından daha büyük bir mesele olamayacağını bilir; zira Amerika, büyük şehirlerinin hemen dışında Milli Parklar kurduğunda hızla ilerler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY">
+			<Text>Boğa Sığını Teddy, Klasik Cumhuriyet, Tüccar Cumhuriyeti ve ardından Demokrasi hükümet seçeneklerini tercih eder; çünkü bunlar, Kültür Zaferine ilerlerken ihtiyaç duyduğu Ekonomi ve Joker politika yuvalarını sağlar. Film Stüdyosu, Milli Park bonusu ve Nefes Kesici bölgelerden [ICON_Science] Bilim ve [ICON_Culture] Kültür kazanma yeteneğiyle Teddy, özellikle büyük doğal güzelliklere sahip topraklara hükmettiğinde kültürel bir dev gibidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_BULL_MOOSE_QUOTE">
+			<Text>Soyundan gelenlere daha yaşanabilir bir vatan bırakmak büyük önem taşır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_TITLE">
+			<Text>Teddy Roosevelt (Boğa Sığını)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

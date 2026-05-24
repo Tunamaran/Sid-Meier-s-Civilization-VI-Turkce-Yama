@@ -1,0 +1,111 @@
+<GameData>
+	<EnglishText>
+    <!--Historic Agendas-->
+    <Row Tag="LOC_AGENDA_LADY_SIX_SKY_NAME">
+      <Text>Münzevi</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION">
+      <Text>Başkentine yakın bölgelere yerleşir. Uzak diyarlara yayılan uygarlıkları takdir eder. Maya topraklarına göz diken uygarlıklardan hazzetmez.</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_SIMON_BOLIVAR_NAME">
+      <Text>Carabobo</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION">
+      <Text>Yüksek terfiye sahip birlikleri olan uygarlıkları sever. Yüksek terfiye sahip birliği az olan uygarlıklardan hoşlanmaz.</Text>
+    </Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_NAME">
+			<Text>Caguana</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_DESCRIPTION">
+			<Text>Caguana Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_ADJECTIVE">
+			<Text>Caguana</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAGUANA_NAME">
+			<Text>Caguana Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAGUANA_DESCRIPTION">
+			<Text>İşçileriniz artık Batey iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kültür. Her bitişik Bonus kaynağı ve Eğlence Kompleksi için +1 [ICON_Culture] Kültür (Keşif araştırıldığında +2 [Icon_Culture] Kültüre yükselir). Uçuş araştırıldıktan sonra [Icon_Tourism] Turizm sağlar. Başka bir Batey'in bitişiğine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_NAME">
+			<Text>Hunza</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_DESCRIPTION">
+			<Text>Hunza Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_ADJECTIVE">
+			<Text>Hunza</Text>
+		</Row>
+    <Row Tag="LOC_LEADER_TRAIT_HUNZA_NAME">
+      <Text>Hunza Süzeren Bonusu</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_TRAIT_HUNZA_DESCRIPTION">
+      <Text>[ICON_TradeRoute] Ticaret Yollarınız, kat ettikleri her 5 bölge başına +1 [ICON_Gold] Altın üretir.</Text>
+    </Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_NAME">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_DESCRIPTION">
+			<Text>Lahore Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_ADJECTIVE">
+			<Text>Lahorlu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LAHORE_NAME">
+			<Text>Lahore Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LAHORE_DESCRIPTION">
+			<Text>Şehirleriniz artık Nihang birlikleri eğitebilir.[NEWLINE][NEWLINE]Eşsiz bir Terfi ağacına sahip olan ve [ICON_Faith] İnanç ile satın alınabilen bir birimdir. Kışla, Cephanelik ve Askeri Akademi binaları ilk inşa edildiğinde [ICON_Strength] Muharebe Gücü artar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_NAME">
+			<Text>Singapur</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_DESCRIPTION">
+			<Text>Singapur şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE">
+			<Text>Singapurlu</Text>
+		</Row>
+    <Row Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME">
+      <Text>Singapur Süzeren Bonusu</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_TRAIT_SINGAPORE_DESCRIPTION">
+      <Text>Şehirleriniz, [ICON_TradeRoute] Ticaret Yolu'na sahip oldukları her yabancı uygarlık için +2 [ICON_Production] Üretim kazanır.</Text>
+    </Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_NAME">
+			<Text>Taruga</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_DESCRIPTION">
+			<Text>Taruga şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_ADJECTIVE">
+			<Text>Taruga</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TARUGA_NAME">
+			<Text>Taruga Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TARUGA_DESCRIPTION">
+			<Text>Sahip olunan her farklı geliştirilmiş Stratejik Kaynak için tüm şehirlerde %5 [ICON_SCIENCE] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_NAME">
+			<Text>Vatikan Şehri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_DESCRIPTION">
+			<Text>Vatikan Şehri şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_ADJECTIVE">
+			<Text>Vatikan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VATICAN_CITY_NAME">
+			<Text>Vatikan Şehri Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VATICAN_CITY_DESCRIPTION">
+			<Text>Bir [ICON_GreatPerson] Büyük Kişi'yi etkinleştirdiğinizde, kurduğunuz (veya çoğunluk) dinin 400 Dini Baskı'sını 10 kare içindeki şehirlere yayar.</Text>
+		</Row>
+    <Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SIMON_BOLIVAR">
+      <Text>Kendisinden daha fazla terfi etmiş birliğe sahip uygarlıkları sever.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

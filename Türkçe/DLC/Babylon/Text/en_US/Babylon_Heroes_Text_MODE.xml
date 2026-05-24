@@ -1,0 +1,704 @@
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_GREAT_PEOPLE_TITLE"/>
+		<Delete Tag="LOC_HUD_GREATPEOPLE_TOOLTIP"/>
+		<Delete Tag="LOC_BUILDING_ORACLE_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_SHRINE_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION"/>
+		<Delete Tag="LOC_BUILDING_TEMPLE_DESCRIPTION"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- REPLACEMENTS -->
+		<Row Tag="LOC_GREAT_PEOPLE_TITLE">
+			<Text>Kahramanlar ve Büyük Şahsiyetler</Text>
+		</Row>
+		<Row Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
+			<Text>Kahramanlar ve Büyük Şahsiyetler[NEWLINE][NEWLINE]Mevcut [ICON_GreatPerson] Büyük Şahsiyetleri ve bir [ICON_GreatPerson] Büyük Şahsiyet kazanma yolundaki ilerlemenizi görüntüleyin[NEWLINE]Keşfedilen tüm Kahramanları mevcut durumları ve yetenekleriyle birlikte görüntüleyin</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_DESCRIPTION">
+			<Text>Kahramanları Geri Çağırma %15 daha az [ICON_Faith] İnanç maliyetlidir ve Büyük Şahsiyetlerin Hamiliği %25 daha az [ICON_Faith] İnanç maliyetlidir. Bu şehirdeki Bölgeler, türlerine göre +2 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar (örneğin, Tiyatro Meydanı bölgesinden [ICON_GreatWriter] Büyük Yazar puanı). Tepelere inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHRINE_DESCRIPTION">
+			<Text>Bu Şehirde hak iddia edilen veya geri çağrılan Kahraman birimlerinin [ICON_Lifespan] Ömür Süreleri %10 daha uzun olur. Misyoner satın alınmasını sağlar. Misyonerler yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION">
+			<Text>Tüm Kahraman birimlerinin [ICON_Lifespan] Ömür Süreleri %10 daha uzun olur. Tüm şehirlerde büyüme %15 artar. Bir Nehir kenarına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_DESCRIPTION">
+			<Text>Bu şehirde Kahramanları Geri Çağırma, %15 daha az [ICON_Faith] İnanç maliyetlidir. Havariler, Gurular, Engizisyoncular ve uygun inançla Savaşçı Keşişler satın alınmasını sağlar. Bu birimler yalnızca [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<!--Hero Units-->
+		<Row Tag="LOC_UNIT_HERO_ANANSI_NAME">
+			<Text>Anansi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_ANANSI_DESCRIPTION">
+			<Text>Afrika folklorundan yarı tanrı ve gezgin, zekası ve hilekarlığıyla ünlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_ARTHUR_NAME">
+			<Text>Arthur</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_ARTHUR_DESCRIPTION">
+			<Text>Yuvarlak Masa Şövalyeleri'nin kralı ve kurucusu, erdemi ve şövalyeliğiyle ünlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_BEOWULF_NAME">
+			<Text>Beowulf</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_BEOWULF_DESCRIPTION">
+			<Text>Uzak Kuzey'in güçlü savaşçısı, teke tek çarpışmadaki gücü ve cesaretiyle ünlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HERCULES_NAME">
+			<Text>Hercules</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HERCULES_DESCRIPTION">
+			<Text>İnsanüstü güce sahip yarı tanrı, ünlü Görevleriyle tanınır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIMIKO_NAME">
+			<Text>Himiko</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIMIKO_DESCRIPTION">
+			<Text>Antik Japonya'nın Şaman Kraliçesi, bilgeliği ve mistik gücüyle ünlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIPPOLYTA_NAME">
+			<Text>Hippolyta</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HIPPOLYTA_DESCRIPTION">
+			<Text>Amazonların Savaşçı Kraliçesi, liderliği ve savaş becerisiyle ünlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HUNAHPU_NAME">
+			<Plurality>2</Plurality>
+			<Text>Hunahpu ve Xbalanque</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_HUNAHPU_DESCRIPTION">
+			<Text>Maya'nın efsanevi atletleri ve kahramanları, ölüm ve Yeraltı Dünyası üzerindeki güçleriyle ünlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_OYA_NAME">
+			<Text>Oya</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_OYA_DESCRIPTION">
+			<Text>Rüzgarların, fırtınaların ve yıldırımların Orisha'sı; müthiş kudretiyle anılan efsanevi bir varlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MAUI_NAME">
+			<Text>Maui</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MAUI_DESCRIPTION">
+			<Text>Polinezya söylencelerinin yarı tanrı kahramanı; insanlığa sunduğu olağanüstü başarılarla ve hediyelerle nam salmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MULAN_NAME">
+			<Text>Mulan</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_MULAN_DESCRIPTION">
+			<Text>Sadakati ve bağlılığıyla şöhret bulmuş, fedakâr ve mahir bir savaşçı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_SINBAD_NAME">
+			<Text>Sinbad</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_SINBAD_DESCRIPTION">
+			<Text>[COLOR_LIGHTBLUE]Deniz Kahramanı.[ENDCOLOR] Gördüğü tuhaf ve olağanüstü yolculuklarla nam salmış, maceraperest bir talih avcısı.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_WUKONG_NAME">
+			<Text>Sun Wukong</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HERO_WUKONG_DESCRIPTION">
+			<Text>Maymun Kral; kadim Çin'in efsanevi kahramanı; kurnazlığı ve ölümsüzlüğüyle anılır.</Text>
+		</Row>
+		<!--Other Units-->
+		<Row Tag="LOC_UNIT_QUESTING_KNIGHT_NAME">
+			<Text>Arayış Şövalyesi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_QUESTING_KNIGHT_DESCRIPTION">
+			<Text>Ağır Süvari. Kral Arthur'un seçkin şövalyelerinden biridir ve hücum kabiliyetiyle güçlenir.</Text>
+		</Row>
+		<!--Abilities and Classes-->
+		<Row Tag="LOC_HERO_CLASS_NAME">
+			<Text>Kahraman</Text>
+		</Row>
+		<Row Tag="LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE_NAME">
+			<Text>İlham Verici</Text>
+		</Row>
+		<Row Tag="LOC_HERO_ABILITY_COMBAT_STRENGTH_AOE">
+			<Text>2 hücre içindeki tüm birimlere +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_HERO_COMBAT_STRENGTH_UNIT_MODIFIER">
+			<Text>Yakındaki bir İlham Verici Kahraman'dan +{1_Amount} [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HIPPOLYTA_HEAL_PER_TURN_NAME">
+			<Text>Hippolyta'nın Lütfu</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_HIPPOLYTA_HEAL_PER_TURN">
+			<Text>Hippolyta her tur {1_Amount} HP'yi otomatik olarak iyileştirir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUNAHPU_RESURRECT_KILL_NAME">
+			<Text>İkizlerin Dirilişi</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_HUNAHPU_RESURRECT_KILL">
+			<Text>Hunahpu ve Xbalanque tarafından öldürülen herhangi bir sıradan kara birliği, tam can ve hareket puanıyla sizin kontrolünüzde diriltilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MULAN_STRENGTH_PER_TURN_NAME">
+			<Text>Mulan'ın Adanışı</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_MULAN_STRENGTH_PER_TURN">
+			<Text>Mulan, her turda {1_Amount} [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MULAN_FORTIFY_NAME">
+			<Text>Mulan'ın Meydan Okuması</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_MULAN_FORTIFY">
+			<Text>Mulan, her turun sonunda otomatik olarak tamamen tahkim olur.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WUKONG_STEALTH_NAME">
+			<Text>Sun Wukong'un Kılık Değiştirmesi</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_WUKONG_STEALTH">
+			<Text>Sun Wukong, bir düşman birimine bitişik olmadığı sürece gizlidir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WUKONG_LIFESPAN_NAME">
+			<Text>Sun Wukong'un Ölümsüzlüğü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WUKONG_LIFESPAN">
+			<Text>Sun Wukong, önemli ölçüde artırılmış [ICON_Lifespan] Ömür Süresine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SINBAD_GOLD_FOR_DISCOVERY_NAME">
+			<Text>Sinbad'ın Yolculukları</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_SINBAD_GOLD_FOR_DISCOVERY">
+			<Text>Sinbad, bir Kıta veya Doğa Harikası keşfettiğinde {1_GoldReward} [ICON_GOLD] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN_NAME">
+			<Text>Denizci</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SINBAD_OCEAN_VALID_TERRAIN">
+			<Text>Okyanus bölgelerine girebilir.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_TRAIT_SUMERIA_HEROES_LIFESPAN">
+			<Text>Tüm Kahraman birimleri, {1_Amount} daha uzun [ICON_Lifespan] Ömür Süresine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_MODIFIER_TRAIT_SUMERIA_HEROES_FASTER_CLAIM">
+			<Text>{1_Amount}% [ICON_Production] Kahramanlık Görevlerinden Üretim artışı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST_NAME">
+			<Text>Çevik</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_FOREST_TERRAIN_COST">
+			<Text>Orman ve Yağmur Ormanı arazilerindeki [ICON_Movement] Hareket cezalarını yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST_NAME">
+			<Text>Engebeli</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_HILLS_TERRAIN_COST">
+			<Text>Tepelik arazilerdeki [ICON_Movement] Hareket cezalarını yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST_NAME">
+			<Text>Süratli</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_IGNORE_ALL_TERRAIN_COST">
+			<Text>Tüm arazi [ICON_Movement] Hareket cezalarını yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Diplomatik</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HERO_ENTER_FOREIGN_LANDS_MODIFIER">
+			<Text>Savaşta olmadığında yabancı topraklara girebilir.</Text>
+		</Row>
+		<!--Building Modifier strings-->
+		<Row Tag="LOC_MODIFIER_ORACLE_RECALL_FAITH_COST_DISCOUNT">
+			<Text>{1_Amount} [ICON_Faith] İnanç karşılığında Kahramanları geri çağırma.</Text>
+		</Row>
+		<!--Unit Commands-->
+		<Row Tag="LOC_UNITCOMMAND_KILL_WEAKER_UNIT_DESCRIPTION">
+			<Text>Beowulf'un Mücadelesi</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_KILL_WEAKER_UNIT_HELP">
+			<Text>Beowulf'un [ICON_Strength] Muharebe Gücü'nden daha düşük olan bitişik bir düşman birimini hedef al. Beowulf hedefi anında yok eder. 1 Kullanım Hakkı ve 1 [ICON_MOVEMENT] Hareket harcar.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TRANSFORM_UNIT_DESCRIPTION">
+			<Text>Arthur'un Şeref Payesi</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_TRANSFORM_UNIT_HELP">
+			<Text>Kontrol ettiğin bitişik bir kara askeri birimini hedef al. Arthur, birimi Arayış Şövalyesi'ne dönüştürür: artırılmış [ICON_Strength] Muharebe Gücü ve {1_LifespanVal} [ICON_Lifespan] Ömür Süresi'ne sahip eşsiz bir Ağır Süvari birimi. 1 Kullanım Hakkı ve 1 [ICON_MOVEMENT] Hareket harcar.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_DESCRIPTION">
+			<Text>Anansi'nin Hileleri</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESOURCE_INSPIRE_HELP">
+			<Text>Bir Bonus veya Lüks Kaynak üzerindeyken kullan. Anansi kaynağı tüketir ve {1_ScienceReward} [ICON_SCIENCE] Bilim ve {2_CultureReward} [ICON_CULTURE] Kültür üretir. Mevcut herhangi bir iyileştirme yok edilir. 1 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_DESCRIPTION">
+			<Text>Hercules'in Görevi</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_COMPLETE_DISTRICT_HELP">
+			<Text>İnşa halindeki bir dost Bölge üzerindeyken kullan. Hercules, Bölgenin inşasını anında tamamlar. 2 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_DESTROY_DEVELOPMENT_DESCRIPTION">
+			<Text>Hercules'in Gazabı</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_DESTROY_DEVELOPMENT_HELP">
+			<Text>Bir düşman Bölgesi üzerindeyken kullan. Hercules, mevcut tüm binaları yok eder ve Bölgeyi yağmalar. 1 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_GRANT_ENVOY_DESCRIPTION">
+			<Text>Himiko'nun Cazibesi</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_GRANT_ENVOY_HELP">
+			<Text>Bitişik herhangi bir Şehir Devleti'ni hedef al. Himiko, Şehir Devleti'ne anında 1 ücretsiz [ICON_Envoy] Elçi yerleştirir. Orada zaten Süzeren isen, Himiko ayrıca {1_FaithChange} [ICON_FAITH] İnanç kazanır. 1 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FORCE_LEVY_MILITARY_DESCRIPTION">
+			<Text>Himiko'nun Hükmü</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FORCE_LEVY_MILITARY_HELP">
+			<Text>Süzereni olduğun bir Şehir Devleti'nin toprakları içindeyken kullan. Himiko, ordusunu hiçbir maliyet olmadan anında kiralar. 1 Kullanım Hakkı harcar ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESTORE_UNIT_MOVES_DESCRIPTION">
+			<Text>Hippolyta'nın Emri</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RESTORE_UNIT_MOVES_HELP">
+			<Text>Bu turda hareket etmiş veya saldırmış herhangi bir bitişik dost birimi hedef al. Hippolyta, birimin hareketlerini ve saldırılarını anında geri yükler. Tur başına bir kez kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_NAVAL_GOLD_RAID_DESCRIPTION">
+			<Text>Sinbad'ın Hazineleri</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_NAVAL_GOLD_RAID_HELP">
+			<Text>Hedef: bitişikteki herhangi bir düşman deniz birliği veya Barbar Kampı. Hedef ya tamamen temizlenir ya da %50 hasar alır ve Sinbad anında {1_GoldReward} [ICON_GOLD] Altın kazanır. 1 Kullanım hakkına mal olur ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_DESCRIPTION">
+			<Text>Maui'nin İcatları</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CREATE_RANDOM_RESOURCE_HELP">
+			<Text>Sahipsiz, boş bir parselde bulunuyorken kullanılır. Maui, parselde rastgele bir Bonus veya Lüks Kaynak oluşturur. 1 Kullanım hakkına mal olur ve turu sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_DESCRIPTION">
+			<Text>Oya'nın Fırtınası</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_AREA_DAMAGE_HEAL_HELP">
+			<Text>Bitişikteki tüm düşmanlara hasar verir ve tüm bitişikteki dost birlikleri {1_DamageAmount} kadar iyileştirir. 1 Kullanım hakkına mal olur ve turu sonlandırır.</Text>
+		</Row>
+		<!--Projects-->
+		<!--Create Anansi-->
+		<Row Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_NAME">
+			<Text>Kahramanlık Destanları</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_SHORT_NAME">
+			<Text>Kahramanlık Destanları</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DISCOVER_NEXT_HERO_DESCRIPTION">
+			<Text>Yeni bir Kahraman keşfet.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ANANSI_NAME">
+			<Text>Anansi'ye Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ANANSI_SHORT_NAME">
+			<Text>Anansi'ye Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ANANSI_DESCRIPTION">
+			<Text>Bu şehri Kahraman Anansi'ye ada. Tamamlandığında Anansi, şehir merkezinde belirecek.</Text>
+		</Row>
+		<!--Create Arthur-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_NAME">
+			<Text>Arthur'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_SHORT_NAME">
+			<Text>Arthur'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_ARTHUR_DESCRIPTION">
+			<Text>Bu şehri Kahraman Arthur'a ada. Tamamlandığında Arthur, şehir merkezinde belirecek.</Text>
+		</Row>
+		<!--Create Beowulf-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_NAME">
+			<Text>Beowulf'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_SHORT_NAME">
+			<Text>Beowulf'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_BEOWULF_DESCRIPTION">
+			<Text>Bu şehri Kahraman Beowulf'a ada. Tamamlandığında Beowulf, şehir merkezinde belirecek.</Text>
+		</Row>
+		<!--Create Hercules-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HERCULES_NAME">
+			<Text>Herkül'e Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HERCULES_SHORT_NAME">
+			<Text>Herkül'e Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HERCULES_DESCRIPTION">
+			<Text>Bu şehri Kahraman Herkül'e ada. Tamamlandığında Herkül, şehir merkezinde belirecek.</Text>
+		</Row>
+		<!--Create Himiko-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_NAME">
+			<Text>Himiko'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_SHORT_NAME">
+			<Text>Himiko'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIMIKO_DESCRIPTION">
+			<Text>Bu şehri Kahraman Himiko'ya ada. Tamamlandığında Himiko şehir merkezinde görünecek.</Text>
+		</Row>
+		<!--Create Hippolyta-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_NAME">
+			<Text>Hippolyta'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_SHORT_NAME">
+			<Text>Hippolyta'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HIPPOLYTA_DESCRIPTION">
+			<Text>Bu şehri Kahraman Hippolyta'ya ada. Tamamlandığında Hippolyta şehir merkezinde görünecek.</Text>
+		</Row>
+		<!--Create Hunahpu-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_NAME">
+			<Text>Hunahpu ve Xbalanque'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_SHORT_NAME">
+			<Text>Hunahpu ve Xbalanque'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_HUNAHPU_DESCRIPTION">
+			<Text>Bu şehri Kahraman İkizler Hunahpu ve Xbalanque'ye ada. Tamamlandığında Hunahpu ve Xbalanque şehir merkezinde görünecek.</Text>
+		</Row>
+		<!--Create Oya-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_OYA_NAME">
+			<Text>Oya'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_OYA_SHORT_NAME">
+			<Text>Oya'ya Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_OYA_DESCRIPTION">
+			<Text>Bu şehri Kahraman Oya'ya ada. Tamamlandığında Oya şehir merkezinde görünecek.</Text>
+		</Row>
+		<!--Create Maui-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MAUI_NAME">
+			<Text>Maui'ye Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MAUI_SHORT_NAME">
+			<Text>Maui'ye Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MAUI_DESCRIPTION">
+			<Text>Bu şehri Kahraman Maui'ye ada. Tamamlandığında Maui şehir merkezinde görünecek.</Text>
+		</Row>
+		<!--Create Mulan-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MULAN_NAME">
+			<Text>Mulan'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MULAN_SHORT_NAME">
+			<Text>Mulan'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_MULAN_DESCRIPTION">
+			<Text>Bu şehri Kahraman Mulan'a ada. Tamamlandığında Mulan şehir merkezinde görünecek.</Text>
+		</Row>
+		<!--Create Sinbad-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_SINBAD_NAME">
+			<Text>Sinbad'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_SINBAD_SHORT_NAME">
+			<Text>Sinbad'a Adanma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_SINBAD_DESCRIPTION">
+			<Text>Bu şehri Kahraman Sinbad'a adayın. Tamamlandığında Sinbad, şehir merkezinde belirecektir.</Text>
+		</Row>
+		<!--Create Wukong-->
+		<Row Tag="LOC_PROJECT_CREATE_HERO_WUKONG_NAME">
+			<Text>Sun Wukong'a Adanmışlık</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_WUKONG_SHORT_NAME">
+			<Text>Sun Wukong'a Adanmışlık</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CREATE_HERO_WUKONG_DESCRIPTION">
+			<Text>Bu şehri Kahraman Sun Wukong'a adayın. Tamamlandığında Sun Wukong, şehir merkezinde belirecektir.</Text>
+		</Row>
+		<!--Great Works-->
+		<Row Tag="LOC_GREATWORKOBJECT_HERO">
+			<Text>[ICON_GreatWork_HeroRelic] Kahraman Yadigârı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_ANANSI_NAME">
+			<Text>Anansi'nin Davulları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_ANANSI_NAME">
+			<Text>Anansi Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_ARTHUR_NAME">
+			<Text>Arthur'un Kadehi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_ARTHUR_NAME">
+			<Text>Arthur Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_BEOWULF_NAME">
+			<Text>Beowulf'un Kılıcı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_BEOWULF_NAME">
+			<Text>Beowulf Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HERCULES_NAME">
+			<Text>Herakles'in Topuzu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HERCULES_NAME">
+			<Text>Herakles Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HIMIKO_NAME">
+			<Text>Himiko'nun Tacı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HIMIKO_NAME">
+			<Text>Himiko Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HIPPOLYTA_NAME">
+			<Text>Hippolyta'nın Kemeri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HIPPOLYTA_NAME">
+			<Text>Hippolyta Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_HUNAHPU_NAME">
+			<Text>Kahraman İkizlerin Pelerinleri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_HUNAHPU_NAME">
+			<Text>Kahraman İkizler Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_OYA_NAME">
+			<Text>Oya'nın Bıçağı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_OYA_NAME">
+			<Text>Oya Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_MAUI_NAME">
+			<Text>Maui'nin Meşalesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_MAUI_NAME">
+			<Text>Maui Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_MULAN_NAME">
+			<Text>Mulan'ın Zırhı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_MULAN_NAME">
+			<Text>Mulan Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_SINBAD_NAME">
+			<Text>Sinbad'ın Pusulası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_SINBAD_NAME">
+			<Text>Sinbad Destanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_SYMBOL_WUKONG_NAME">
+			<Text>Sun Wukong'un Asası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HERO_EPIC_WUKONG_NAME">
+			<Text>Sun Wukong Destanı</Text>
+		</Row>
+		<!--UI-->
+		<Row Tag="LOC_BUILDING_NAME_FOR_HERO">
+			<Text>{2_HeroName}'ın {1_BuildingName}'i</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_TARGETS">
+			<Text>Hedef bulunamadı</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HERO_FAILURE_NOT_ENOUGH_CHARGES">
+			<Text>Yeterli Eylem Hakkı kalmadı</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HERO_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Tam hareket gerektirir</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_HERO_FAILURE_NO_MOVES">
+			<Text>Kalan hareket yok</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_ONCE_PER_TURN">
+			<Text>Bu tur zaten kullanıldı</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_OWNED_PLOT">
+			<Text>Size ait bir bölgede kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_USED_CITY">
+			<Text>Bu yetenek {1_CityName} şehrinde zaten kullanıldı.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_USED_FEATURE">
+			<Text>Bu yetenek bu {1_FeatureName} üzerinde zaten kullanıldı.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_AT_WAR">
+			<Text>Savaş halinde olduğumuz bir şehirdeki bölge hedef alınamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_CITY_AT_WAR">
+			<Text>Savaş halinde olduğumuz bir şehir hedef alınamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_LEVY_AVAILABLE">
+			<Text>Bu Şehir Devleti'nin kiralanabilecek bir birliği bulunmamaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_IN_SUZERAIN_TERRITORY">
+			<Text>Süzereni olduğunuz bir Şehir Devleti'nin topraklarında bulunmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_LEVY_ACTIVE">
+			<Text>Bu Şehir Devleti'nin ordusu hâlihazırda kiralanmış durumda.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_SUZERAIN_OF_CITY">
+			<Text>{1_CityName} şehrinin Süzereni değilsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_INCOMPLETE_DISTRICT">
+			<Text>İnşaat hâlindeki bir bölge üzerinde kullanılmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DISTRICT">
+			<Text>Bir bölge üzerinde kullanılmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_DEVELOPMENT">
+			<Text>Bir bölge veya iyileştirme üzerinde kullanılmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NOT_ON_LUXURY_OR_BONUS_RESOURCE">
+			<Text>Bir Lüks veya Bonus Kaynak üzerinde kullanılmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_DISTRICT_PILLAGED">
+			<Text>Bu bölge zaten yağmalanmış durumda.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_CITY_CENTER">
+			<Text>Bir Şehir Merkezinde kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_RESOURCE">
+			<Text>Mevcut bir kaynak üzerinde kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_IMPROVEMENT">
+			<Text>İyileştirilmiş bir bölgede kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_WONDER">
+			<Text>Bir Harika üzerinde kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_NO_VALID_RESOURCES">
+			<Text>Bu konumda geçerli herhangi bir kaynak bulunmamaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_FAILURE_HERO_ON_ALLIED_PLOT">
+			<Text>Bir müttefik uygarlığa ait bölgede kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_HEROIC_RELIC">
+			<Text>Arkeologunuz {1_UnitName}, {2_ActingCiv} uygarlığının kadim bir Kahramanından kalma simgesel bir nesneyi gün yüzüne çıkardı.</Text>
+		</Row>
+		<Row Tag="LOC_CAN_TRAIN_FAILURE_SAME_ERA">
+			<Text>Kahramanlar her Çağda yalnızca bir kez ortaya çıkabilir.</Text>
+		</Row>
+		<!--Heroes Popup-->
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_GOODY_HUT">
+			<Text>Kabile köylüleri mitlerini ve efsanelerini bizimle paylaştı. {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR] keşfettik!</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_PROJECT">
+			<Text>Kahramanlık Destanları, halkımız arasında efsanevi işlerin sözünü yaydı. {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR] keşfettik!</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_CITY_STATE">
+			<Text>{2_SourcePlayerName} üzerindeki etkimiz arttıkça onlar mitlerini ve efsanelerini bizimle paylaştı. {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR] keşfettik!</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_CITY_STATE_SUZERAIN">
+			<Text>{2_SourcePlayerName} üzerindeki Süzerenliğimiz, onların mitlerini ve efsanelerini daha da aydınlattı. {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR] keşfettik!</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_NEW_CONTINENT">
+			<Text>{2_ContinentName} kıtasını keşfettik ve onunla birlikte yeni mitler ve efsaneler bulduk. {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR] keşfettik!</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_NATURAL_WONDER">
+			<Text>{2_FeatureName}'in görkemli manzarası, yerel mitlere ve efsanelere ilham kaynağı oldu. {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}![ENDCOLOR] keşfettik!</Text>
+		</Row>
+		<Row Tag="LOC_HERO_DISCOVERED_DESC_ENCOUNTER">
+			<Text>Bir efsane karşımızda duruyor! Güçlerimiz, {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} [COLOR_LIGHTBLUE]{1_HeroName}[ENDCOLOR] ile bizzat karşılaştı!</Text>
+		</Row>
+		<Row Tag="LOC_DISCOVER_HERO_HELP">
+			<Text>Bu Kahraman'ı, [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] binasına sahip herhangi bir şehirde bir Kahraman Adanmışlık Projesi tamamlayarak talep edebilirsiniz. Her şehirde yalnızca bir Kahraman Adanmışlığı yapılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISCOVER_HERO_NAVAL_HELP">
+			<Text>Bu Kahraman'ı, [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR] binasına sahip ve deniz birimleri eğitebilen herhangi bir şehirde bir Kahraman Adanmışlık Projesi tamamlayarak talep edebilirsiniz. Her şehirde yalnızca bir Kahraman Adanmışlığı yapılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISCOVER_CLAIMED_HERO_HELP">
+			<Text>Bu Kahraman daha önce {1_PlayerName} tarafından talep edilmiş.</Text>
+		</Row>
+		<Row Tag="LOC_HERO_EXPIRED_MESSAGE">
+			<Text>Kahraman [ICON_Lifespan] Ömür Süresi Doldu</Text>
+		</Row>
+		<Row Tag="LOC_HERO_EXPIRED_DESC">
+			<Text>{1_UnitName: plural 1?Kahramanımız; other?Kahramanlarımız;} [COLOR_LIGHTBLUE]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?[ICON_Lifespan] Ömür Süresi'nin sonuna ulaştı; other?[ICON_Lifespan] Ömür Süreleri'nin sonuna ulaştılar;} ve ülkemizi terk etti.</Text>
+		</Row>
+		<Row Tag="LOC_HERO_KILLED_MESSAGE">
+			<Text>Kahraman Öldürüldü</Text>
+		</Row>
+		<Row Tag="LOC_HERO_KILLED_DESC">
+			<Text>{1_UnitName: plural 1?Kahramanımız; other?Kahramanlarımız;} [COLOR_LIGHTBLUE]{1_UnitName}[ENDCOLOR] {1_UnitName: plural 1?savaşta düştü; other?savaşta düştüler;}.</Text>
+		</Row>
+		<Row Tag="LOC_HEROES_HELP_RECALL_DESC">
+			<Text>Bir Kahraman'ın ömrü dolduğunda veya öldürüldüğünde, [COLOR:Civ6Yellow]{1_OriginBuilding}[ENDCOLOR]'nin bulunduğu şehirde [ICON_Faith] İnanç karşılığında satın alınarak geri çağrılabilir.[NEWLINE][NEWLINE]Geri çağrılan Kahramanlar, [ICON_Lifespan] Ömür Süreleri ve Eylem Hakları yenilenmiş olarak döner, ancak onları geri çağırmanın [ICON_Faith] İnanç maliyeti her görünüşte artar. Kahramanlar her Çağ'da bir kez geri çağrılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_LOOK_AT_HERO">
+			<Text>Kahraman'a Bak</Text>
+		</Row>
+		<!--Notifications-->
+		<Row Tag="LOC_NOTIFICATION_HERO_DISCOVERED_MESSAGE">
+			<Text>Kahraman Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_DISCOVERED_SUMMARY">
+			<Text>{1_HeroName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroName}'i keşfettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOW_LIFESPAN_MESSAGE">
+			<Text>Kahraman [ICON_Lifespan] Ömür Süresi Azalıyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOW_LIFESPAN_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Kahramanımız; other?Kahramanlarımız;} {1_HeroClassName}'in [ICON_Lifespan] Ömür Süresi'nde {2_NumTurns} turdan az kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOST_LIFESPAN_EXPIRED_MESSAGE">
+			<Text>Kahraman Kaybedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_LOST_LIFESPAN_EXPIRED_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Kahramanımız; other?Kahramanlarımız;} {1_HeroClassName}, [ICON_Lifespan] Ömür Süresi'nin sonuna ulaştı. Onları geri çağırmak için yeterli [ICON_Faith] İnanç toplayana kadar tarihe karıştılar.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>Kahraman Geri Çağrılabilir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>Yeterli miktarda [ICON_Faith] İnanç biriktirerek {1_HeroClassName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroClassName}'ı {2_CityName} şehrinde geri çağırabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_KILLED_OTHER_MESSAGE">
+			<Text>Kahraman Öldürüldü</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_KILLED_OTHER_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroClassName} {1_HeroClassName: plural 1?savaşta öldü; other?savaşta öldüler;}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_EXPIRED_OTHER_MESSAGE">
+			<Text>Kahraman Ayrıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_EXPIRED_OTHER_SUMMARY">
+			<Text>{1_HeroClassName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroClassName} {1_HeroClassName: plural 1?[ICON_Lifespan] Ömür Süresi'nin sonuna ulaştı; other?[ICON_Lifespan] Ömür Süreleri'nin sonuna ulaştı;}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_MESSAGE">
+			<Text>Kahraman Sahiplenildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_SUMMARY">
+			<Text>{1_CivName} {2_HeroName: plural 1?Kahraman; other?Kahramanlar;} {2_HeroName}'ı sahiplendi!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIMED_OTHER_UNMET_SUMMARY">
+			<Text>Tanımadığınız bir oyuncu, {1_HeroName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroName}'ı sahiplendi!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_RECALLED_OTHER_MESSAGE">
+			<Text>Kahraman Geri Çağrıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_RECALLED_OTHER_SUMMARY">
+			<Text>{1_CivName} {2_HeroName: plural 1?Kahraman; other?Kahramanlar;} {2_HeroName}'ı geri çağırdı!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIM_FAILED_MESSAGE">
+			<Text>Üretim Kurtarıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HERO_CLAIM_FAILED_SUMMARY">
+			<Text>{1_HeroName: plural 1?Kahraman; other?Kahramanlar;} {1_HeroName}'ı zamanında sahiplenemediniz. Ancak bu girişimden {2_Production} [ICON_Production] Üretim kurtarılarak {3_CityName} şehrine verilmiştir.</Text>
+		</Row>
+		<!--GreatPeoplePopup-->
+		<Row Tag="LOC_GREAT_PEOPLE_TAB_HEROES">
+			<Text>Kahramanlar</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_RECRUITED_STATE">
+			<Text>SAHİPLENEN:</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_DISCOVERED_STATE">
+			<Text>KEŞFEDİLDİ</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_LOOK_AT_HERO_TT">
+			<Text>Bu paneli kapatıp bu kahraman birimini seçin.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_LOOK_AT_CITY_TT">
+			<Text>Bu paneli kapatıp bu kahramanın geldiği şehri seçin.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_CIVILOPEDIA_ENTRY_TT">
+			<Text>Bu kahraman biriminin Civilopedia girişini açın.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_FAITH_RECALL">
+			<Text>İnançla Geri Çağır</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_FAITH_RECALL_TT">
+			<Text>Bu kahraman, {1_Faith} [ICON_Faith] İnanç karşılığında geri çağrılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_INSUFFICIENT_FAITH_TT">
+			<Text>[COLOR_RED]Geri çağırmak için yeterli [ICON_Faith] İnanç bulunmuyor.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_HEROES_DECEASED">
+			<Text>[COLOR_RED]ÖLDÜ[ENDCOLOR]</Text>
+		</Row>
+	</EnglishText>
+</GameData>

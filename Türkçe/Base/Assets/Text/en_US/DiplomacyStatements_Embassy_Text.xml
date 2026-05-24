@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_HUMAN_ANY_ANY">
+			<Text>Başkentimizde bir büyükelçilik inşa etmenize izin vermekten mutluluk duyarız.</Text>
+		</Row>
+		
+		<!-- AI rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_HUMAN_ANY_ANY">
+			<Text>Şu an için böyle bir niyetimiz yok.</Text>
+		</Row>
+
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_EMBASSY_FROM_AI_ANY_ANY">
+			<Text>Başkentinizde bir büyükelçilik kurmamıza izin verir misiniz?</Text>
+		</Row>
+
+		<!-- Human accepts AI, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_EMBASSY_FROM_AI_ANY_ANY">
+			<Text>Ah, ne mutlu gün!</Text>
+		</Row>
+
+		<!-- Human rejects AI, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_EMBASSY_FROM_AI_ANY_ANY">
+			<Text>Hayal kırıklığı.</Text>
+		</Row>
+
+		<!-- Choices -->
+		<Row Tag="LOC_DIPLO_EMBASSY_CHOICE_NEGATIVE">
+			<Text>Başkentimiz şu an itibarıyla yeni sakinleri kabul etmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_EMBASSY_CHOICE_POSITIVE">
+			<Text>Elçiliğiniz başkentimize memnuniyetle karşılanan bir eklemedir.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

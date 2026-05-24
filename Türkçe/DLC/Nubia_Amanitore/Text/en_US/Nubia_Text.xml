@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_DESCRIPTION">
+			<Text>Nübye İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_ADJECTIVE">
+			<Text>Nübye</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_LOCATION">
+			<Text>Afrika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_SIZE">
+			<Text>En geniş sınırlarında, yaklaşık 486.000 mil kare (1,26 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_POPULATION">
+			<Text>Zirve döneminde yaklaşık 1,15 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_CAPITAL">
+			<Text>Kerma, Nepata, Meroë</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMANITORE">
+			<Text>Amanitore, Nübye'nin uyanık Kraliçesi, komuta ettiğin imparatorluk ufku kendi sınırı olarak görecek. Bol altınına göz dikenlerden korkma, çünkü okçuların beş yüz adımdan saçlarını ikiye ayırır. Bilge kraliçe, şehirlerin refah ve dindarlık bilecek; çünkü Yay Diyarı, geçmişini onurlandırdığı kadar kendi geleceğini de inşa eder.</Text>
+		</Row>
+		<!-- Leader Agenda-->
+		<Row Tag="LOC_AGENDA_CITY_PLANNER_NAME">
+			<Text>Şehir Plancısı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_PLANNER_DESCRIPTION">
+			<Text>Her şehirde maksimum sayıda bölge bulundurmaya çalışır. Şehirlerini bu şekilde geliştiren diğer uygarlıklara saygı duyar.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_MEROE">
+			<Text>Meroë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KERMA">
+			<Text>Kerma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAPATA">
+			<Text>Napata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NURI">
+			<Text>Nuri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EL_KURRU">
+			<Text>El-Kurru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAWA">
+			<Text>Kawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEDEINGA">
+			<Text>Sedeinga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEH">
+			<Text>Heh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QASR_IBRIM">
+			<Text>Qasr Ibrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARAS">
+			<Text>Faras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAAT">
+			<Text>Shaat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IKEN">
+			<Text>İken</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ABU_SIMBEL">
+			<Text>Ebu Simbel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUHEN">
+			<Text>Buhen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DANGEIL">
+			<Text>Dangeil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIAM">
+			<Text>Miyam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOMBOS">
+			<Text>Tombos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KURGUS">
+			<Text>Kurgus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOSHKA">
+			<Text>Toşka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOLEB">
+			<Text>Soleb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAD_BAN_NAQA">
+			<Text>Vad ban Naka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEBBA">
+			<Text>Debba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUGDUMBUSH">
+			<Text>Bugdumbuş</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAKI">
+			<Text>Baki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMARA">
+			<Text>Amara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUSAWWARAT_ES_SUFRA">
+			<Text>Musavvarat es-Sufra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EL_FURA">
+			<Text>El Fura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UKMA">
+			<Text>Ukma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEDEME">
+			<Text>Pedeme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEFEIA">
+			<Text>Defeya</Text>
+		</Row>
+		<!-- Citizen Names -->
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_1">
+			<Text>Alara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_2">
+			<Text>Amanislo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_3">
+			<Text>Apedemak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_4">
+			<Text>Arensnuphis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_5">
+			<Text>Arqamani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_6">
+			<Text>Dedun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_7">
+			<Text>Mandulis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_8">
+			<Text>Mut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_9">
+			<Text>Piye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_10">
+			<Text>Sebiumeker</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_1">
+			<Text>Amanikhatashan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_2">
+			<Text>Amanirenas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_3">
+			<Text>Amanishakheto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_4">
+			<Text>Amenirdis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_5">
+			<Text>Amesemi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_6">
+			<Text>Kadimalo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_7">
+			<Text>Khalese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_8">
+			<Text>Nasala</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_9">
+			<Text>Shanakdakheto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_10">
+			<Text>Tabiry</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_1">
+			<Text>Barschanbu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_2">
+			<Text>Douddil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_3">
+			<Text>Eirpanome</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_4">
+			<Text>Mashshouda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_5">
+			<Text>Orinourta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_6">
+			<Text>Qalidurut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_7">
+			<Text>Semamun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_8">
+			<Text>Shekanda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_9">
+			<Text>Siti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_10">
+			<Text>Tapara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_1">
+			<Text>Aideosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_2">
+			<Text>Anthelia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_3">
+			<Text>Damasti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_4">
+			<Text>Eikkir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_5">
+			<Text>Eitou</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_6">
+			<Text>Genseoua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_7">
+			<Text>Iesousyko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_8">
+			<Text>Kel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_9">
+			<Text>Ouareno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_10">
+			<Text>Pongita</Text>
+		</Row>
+		<!-- Wonders-->
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_NAME">
+			<Text>Cebel Barkal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_DESCRIPTION">
+			<Text>2 [ICON_RESOURCE_IRON] Demir kazandırır. 6 kare içindeki tüm şehirlerinize +4 [ICON_Faith] İnanç sağlar.[NEWLINE][NEWLINE]Çöl (Tepelik) arazide inşa edilmelidir.</Text>
+		</Row>
+		<!-- Trait Info-->
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LEADING">
+			<Text>Amanitore, şehirlerinizi bölgelerle donatmanızdan memnuniyet duyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LAGGING">
+			<Text>Amanitore, bölge inşa etme konusunda geride kalmanızdan rahatsızlık duyuyor.</Text>
+		</Row>
+		<!-- Dialog Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Sıcak sözleriniz, akşam güneşi gibi gönlümüzde yer ediyor. Size dost diyebildiğimiz için kendimizi ayrıcalıklı sayıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Belki bir gün, sizin çok çaba göstermeniz halinde, Nübye sizi dost olarak görebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Nübye halkı sizin halkınızdan övgüyle söz ediyor. Dostluğumuzu açık bir bildiriyle resmileştirelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Ne kadar lütufkârsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Yazık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Tahmin edildiği gibi, yalnızca almayı biliyorsunuz. Öyleyse gelin—yenilginizin şeklini seçin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Oklarımız son derece keskindir. Onları size, gırtlağınıza kadar, ücretsiz teslim edeceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Heyetimiz iyi niyet getiriyor. Ayrıca taze deve ciğeri. Pişirme hatasına düşmeyin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Reddetmek zorundayız. Mevsimsel taşkınlar konuk ağırlamak için uygunsuz bir zaman yarattı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Heyetiniz sağ salim ulaştı. Onlara başkentimizi gezdirmek gerçekten bir zevkti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Böyle alçakça bir sözü söylemeye nasıl cüret ettiğinizi sorgulamayacağım. Sizden her zaman en kötüsünü beklerim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Sen en kötü taşkın türüsün—ortaya çıkmaya tenezzül ettiğinde dokunduğun her şeyi çamura buluyorsun. (Sizi kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMANITORE_ANY">
+			<Text>Ben Nübye'nin hükümdarı Amanitore. Görkemli şehirlerimizde herkese kapımız açıktır—tabii dost olarak gelirlerse.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMANITORE_ANY">
+			<Text>Yakındayken şehrimizi ziyaret eder misiniz? Piramitlerimiz özellikle şafak vakti etkileyici bir silüet sunuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>Makul bir teklif.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMANITORE_ANY">
+			<Text>Görkemli başkentimden size bahsedeceğim, siz de kendi başkentinizin hikâyelerini anlatırsanız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AMANITORE_ANY">
+			<Text>Konuşabilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Şehirleriniz usulüne uygun inşa edilmiş. Her vazife için ona uygun bir mekân.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AMANITORE_REASON_ANY">
+			<Text>(Şehirlerinizi bölgelerle doldurdunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Şehirleriniz pislikle boğuluyor. Neden arazinizi daha verimli işlere tahsis etmiyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AMANITORE_REASON_ANY">
+			<Text>(Şehirlerinizi mümkün olan tüm bölgelerle doldurmuyorsunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Evet. Çok fazla yıkım var. Her birimiz kaybettiklerimizi yeniden inşa etmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Bu mümkün değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Halkımız savaşmaktan yoruldu. Bu savaşın sona ermesini istiyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Elbette. Bizim şehir yönetimi prensiplerimizi benimseyin ve kendinize mal edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Nübye toprakları kutsaldır. Daha kuşkucu bir hükümdar, bir işgal hazırlığı yaptığınızı düşünürdü.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Açık sınırlarla, medeni planlamaya dair farklı yaklaşımlarımızdan öğrenebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMANITORE_ANY">
+			<Text>Yay Diyarı, ordunuzun bu kadar yakında bulunmasını onaylamıyor. Onları geri çağırmanızı rica ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMANITORE_ANY">
+			<Text>Nübyeli paralı askerler istedikleri yere gider. Hareketlerini ben kontrol etmem!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>Bu talihsiz hatayı bildirdiğiniz için nezaket gösterdiniz. İyi niyetimizi göstermek için onları geri çekeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Nübye gerilese de, sizin planlarınız yıkılıp gittikten sonra da piramitlerimiz ayakta kalacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Ne kadar hayal kırıklığı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Ne kadar naziksiniz.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

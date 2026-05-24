@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
+			<Text>Beş Güneş Efsanesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
+			<Text>İşçi kullanım hakkı harcayarak, orijinal bölge maliyetinin %20'sini tamamla.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_NAME">
+			<Text>Tlatoani'ye Armağanlar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
+			<Text>Bölgesindeki lüks kaynaklar, 2 ek şehre [ICON_Amenities] Olanak sağlar. Aztek topraklarında iyileştirilmiş her farklı lüks kaynak için, askeri birlikler saldırırken +1 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
+			<Text>Kartal Savaşçısı</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
+			<Text>Azteklere özgü Antik Çağ birimi olup Savaşçı'nın yerini alır. Diğer uygarlıkların askeri birliklerini yakalayarak onları İşçi'ye dönüştürme şansına sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_NAME">
+			<Text>Tlachtli</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
+			<Text>Azteklere özgü bir yapıdır. 2 [ICON_Amenities] Olanak, +1 [ICON_Culture] Kültür, +2 [ICON_Faith] İnanç ve 1 [ICON_GreatGeneral] Büyük General Puanı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_XP1_DESCRIPTION">
+			<Text>Azteklere özgü bir yapıdır. 2 [ICON_Amenities] Olanak, +2 [ICON_Culture] Kültür, +2 [ICON_Faith] İnanç ve 1 [ICON_GreatGeneral] Büyük General Puanı sağlar. Koruma Sosyal Politikası'na ilerledikten sonra +1 [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

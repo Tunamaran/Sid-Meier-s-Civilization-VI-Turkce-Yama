@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GREAT_BUILDERS_MOD_TITLE">
+			<Text>Büyük İnşacılar Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_BUILDERS_MOD_TEASER">
+			<Text>Yeni Alternatif Liderler – Kore'den Sejong, Almanya'dan II. Ludwig ve Bizans'tan Theodora</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_BUILDERS_MOD_DESCRIPTION">
+			<Text>Mevcut Uygarlıklar için 3 yeni alternatif Lider içerir. Sejong, II. Ludwig ve Theodora'yı kapsar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

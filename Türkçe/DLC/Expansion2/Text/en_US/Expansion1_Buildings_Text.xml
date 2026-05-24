@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Government Buildings -->
+		<Row Tag="LOC_BUILDING_GOV_TALL_NAME">
+			<Text>Divan Salonu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_WIDE_NAME">
+			<Text>Ecdat Salonu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+			<Text>Komutan Tahtı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_FAITH_NAME">
+			<Text>Büyük Üstadın Şapeli</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+			<Text>Dışişleri Bakanlığı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SPIES_NAME">
+			<Text>İstihbarat Teşkilatı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+			<Text>Savaş Bakanlığı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+			<Text>Ulusal Tarih Müzesi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+			<Text>Kraliyet Cemiyeti</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+			<Text>[ICON_Governor] Vali bulunan şehirlerde +2 [ICON_Amenities] Olanak ve +4 [ICON_Housing] Konut.[NEWLINE][ICON_Governor] Vali bulunmayan şehirlerde -2 Bağlılık.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+			<Text>Bu Şehirde Yerleşimcilere yönelik [ICON_Production] Üretim %50 artar.[NEWLINE]Yeni şehirler ücretsiz bir İşçi kazanır.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+			<Text>Bir düşman Şehri ele geçirmek, 5 tur boyunca tüm şehirlerde %20 bonus [ICON_Production] Üretim sağlar.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+			<Text>Şehir Devletlerini kiralama maliyeti yarı yarıya [ICON_Gold] Altın düşer.[NEWLINE]Bir Şehir Devleti'nin Süzereni iseniz, o şehir devletinin birimleri (kiralanan birimler dahil) +4 [ICON_Strength] Muharebe Gücü kazanır.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>Dışişleri Bakanlığından +4</Text>
+		</Row>
+		<Row Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>Dışişleri Bakanlığından +4</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+			<Text>+1 Casus ve Casus kapasitesi.[NEWLINE]Tüm Casusluk Operasyonlarının başarı şansı artar.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+			<Text>[ICON_Faith] İnanç ile kara birimleri satın alma yeteneği verir.[NEWLINE]İyileştirmeleri ve Bölgeleri yağmalamak bonus [ICON_Faith] İnanç sağlar.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+			<Text>Bir birimi yok eden tüm birimler 20 can puanına kadar iyileşir.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+			<Text>Herhangi bir Büyük Eser için 4 yuva sağlar.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+			<Text>İşçiler, tüm kullanım haklarını bir Bölge Projesine bonus [ICON_Production] Üretim sağlamak için kullanma yeteneği kazanır. Şehir başına turda bir kez.[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<!-- Water Entertainment Complex Buildings -->
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
+			<Text>Dönme Dolap</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
+			<Text>+2 [ICON_Tourism] Turizm.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_NAME">
+			<Text>Akvaryum</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities] Olanak, 9 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 9 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +1 [ICON_SCIENCE] Bilim, bu şehirdeki her bir kıyı kaynağı, Gemi Batığı ve Resif bölgesine.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
+			<Text>Su Sporları Merkezi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities] Olanaklar, 9 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 9 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +2 [ICON_Tourism] Turizm, bu şehirde bir Kıyı bölgesinde veya bitişiğinde inşa edilen her Harika için.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
+			<Text>Koruma Yönetim Bilimi'ne ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+			<Text>Koruma Yönetim Bilimi'ne ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities] Olanak, 6 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +1 [ICON_SCIENCE] Bilim, bu şehirdeki her bir Yağmur Ormanı ve Bataklık bölgesine.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities] Olanaklar, 6 kare mesafedeki her şehir merkezine uzanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz. +2 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse ve +5 [ICON_Tourism] Turizm, şehrin [ICON_CITIZEN] nüfusu 20 veya daha yüksekse.</Text>
+		</Row>
+		<!-- Neighborhood Buildings -->
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_NAME">
+			<Text>Gıda Pazarı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
+			<Text>Bir şehirde yalnızca bir kez inşa edilebilir, şehrin birden fazla Mahallesi olsa bile.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
+			<Text>Alışveriş Merkezi</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
+			<Text>+4 [ICON_Tourism] Turizm. Bir şehirde yalnızca bir kez inşa edilebilir, şehrin birden fazla Mahallesi olsa bile.</Text>
+		</Row>
+		<!-- Wonders -->
+		<Row Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
+			<Text>Amundsen-Scott Araştırma İstasyonu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
+			<Text>+20% [ICON_SCIENCE] Bilim ve %10 [ICON_PRODUCTION] Üretim tüm şehirlerde. Eğer bir şehrin 3 kare yakınında bu oyuncuya ait 5 adet Kar veya Kar Tepesi bölgesi varsa bu getiriler iki katına çıkar. Bir Kar veya Kar Tepesi bölgesinde, Araştırma Laboratuvarı bulunan bir Kampüs'ün yanına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
+			<Text>Casa de Contratación</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+			<Text>3 [ICON_Governor] Vali terfisi kazanın. Orijinal [ICON_Capital] Başkentinizin kıtasında olmayan ve [ICON_Governor] Vali bulunan tüm şehirleriniz +15% [ICON_Production] Üretim, +15% [ICON_Faith] İnanç ve +15% [ICON_Gold] Altın kazanır. Bir Hükümet Meydanı'na bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>Kolezyum, 6 kare mesafedeki her şehir merkezine şunlardan 2'sini sağlar: [ICON_Culture] Kültür, Tur başına Bağlılık ve [ICON_Amenities] Olanaklar. Bir Arena bulunan bir Eğlence Kompleksi'ne bitişik düz arazide inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Tüm Antik ve Klasik Çağ teknolojilerinde hızlandırma alın. Başka bir oyuncu bir [ICON_GreatScientist] Büyük Bilim İnsanı işe aldıktan sonra rastgele bir teknoloji hızlandırması alın. Bir Kütüphane bulunan bir Kampüs Bölgesi'ne bitişik düz arazide inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
+			<Text>Kilwa Kisiwani</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
+			<Text>İnşa edildiğinde +3 [ICON_ENVOY] Elçi kazandırır. Bir Şehir Devleti'nin Süzereni olduğunuzda bu şehir, o Şehir Devleti'nin sağladığı Tür bonuslarında %15'lik bir artış elde eder. Eğer aynı türden 2 veya daha fazla Şehir Devleti'nin Süzereni iseniz tüm şehirlerinize ek %15'lik bir bonus daha verilir. Kıyıya bitişik düz bir bölgeye inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KOTOKU_IN_NAME">
+			<Text>Kotoku-in</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
+			<Text>Bu şehirde +%20 [ICON_Faith] İnanç sağlar. 4 Savaşçı Keşiş bahşeder.[NEWLINE][NEWLINE]Tapınak bulunan bir Kutsal Alan bölgesine bitişik inşa edilmelidir. Savaşçı Keşişler yalnızca oyuncu bir din kurmuşsa veya bu oyuncu ya da şehir için çoğunluk dini varsa alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
+			<Text>Aziz Basil Katedrali</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
+			<Text>Bu şehirden gelen [ICON_Tourism] Dinî Turizm +%100 artar. Bu şehirdeki tüm Tundra bölgeleri +1 [ICON_Food] Besin, +1 [ICON_Production] Üretim ve +1 [ICON_Culture] Kültür sağlar. Bir Şehir Merkezine bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
+			<Text>Özgürlük Heykeli</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
+			<Text>2 Yerleşimci kazandırır. 6 bölge mesafesindeki tüm şehirleriniz her zaman %100 Bağlılık içindedir. Kıyıda, karaya ve bir Liman bölgesine bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
+			<Text>Tac Mahal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
+			<Text>Bu harika tamamlandıktan sonra kazanılan bir Tarihi An, genellikle 2 veya daha fazla Çağ Puanı değerindeyse, bu Harika +1 Çağ Puanı daha sağlar. Bir Nehrin yanına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
+			<Text>Artemis Tapınağı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
+			<Text>Bu harikaya 4 bölge mesafesindeki her Av Kampı, Mera ve Plantasyon geliştirmesi +1 [ICON_AMENITIES] Olanak sağlar. Bir Av Kampı geliştirmesine bitişik yerleştirilmelidir.</Text>
+		</Row>
+		<!-- Trade balance changes -->
+		<Row Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
+			<Text>Eğer bu şehirde henüz bir Deniz Feneri (Lighthouse) binası yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm deniz birlikleri için +%25 muharebe tecrübesi. Bu şehirdeki tüm Kıyı bölgelerine +1 [ICON_FOOD] Besin. Eğer bu şehirde henüz bir Pazar (Market) binası yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+		<!-- Other balance changes -->
+		<Row Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
+			<Text>Bu şehirde tur başına +1 Bağlılık sağlar. Şehir zaten maksimum Bağlılığa sahipse ayrıca +1 [ICON_Culture] Kültür daha sağlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

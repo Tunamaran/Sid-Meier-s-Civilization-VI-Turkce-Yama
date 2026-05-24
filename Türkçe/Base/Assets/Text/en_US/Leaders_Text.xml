@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Leader Names-->
+		<Row Tag="LOC_REPRESENTATIVE">
+			<Text>bir temsilci</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text>Frederick Barbarossa</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>Catherine de Medici</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>Kleopatra</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GANDHI_NAME">
+			<Text>Gandhi</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Gılgamış</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Gorgo</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Harald Hardrada</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Hojo Tokimune</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Mvemba a Nzinga</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>II. Pedro</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Perikles</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Petro</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>II. Filip</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_QIN_NAME">
+			<Text>Çin Şi Huang</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Selahaddin</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Tomris</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Trajan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Teddy Roosevelt</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Victoria</Text>
+		</Row>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_NAME">
+			<Text>Enkidu'nun Müttefiki</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_NAME">
+			<Text>Eyyubi Hanedanı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTAB_AVERSE_NAME">
+			<Text>Hainlik Karşıtı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_NAME">
+			<Text>Büyük Sopa Politikası</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BLACK_QUEEN_NAME">
+			<Text>Kara Kraliçe</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BUSHIDO_NAME">
+			<Text>Buşido</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_NAME">
+			<Text>Şehir Devleti Müttefiki</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_NAME">
+			<Text>Karşı Reformcu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_NAME">
+			<Text>Delos Birliği</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_NAME">
+			<Text>Coşkulu Mürit</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_NAME">
+			<Text>Sanat Hamisi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CROWN_NAME">
+			<Text>Demir Taç</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_NAME">
+			<Text>Son Viking Kralı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_NAME">
+			<Text>Optimus Princeps</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PARANOID_NAME">
+			<Text>Paranoyak</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PEACEKEEPER_NAME">
+			<Text>Barış Muhafızı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_NAME">
+			<Text>Nil Kraliçesi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUN_NEVER_SETS_NAME">
+			<Text>Güneş Batmaz</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TLATOANI_NAME">
+			<Text>Tlatoani</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WESTERNIZER_NAME">
+			<Text>Batılılaştırıcı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_NAME">
+			<Text>Ya Kalkanınla Ya Da Kalkanın Üzerinde</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_NAME">
+			<Text>10.000 Li Duvarı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AIRPOWER_NAME">
+			<Text>Hava Gücü</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_NAME">
+			<Text>Barbar Müttefiki</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_NAME">
+			<Text>Şehir Devleti Koruyucusu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CIVILIZED_NAME">
+			<Text>Medeni</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CULTURED_NAME">
+			<Text>Kültürlü</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DARWINIST_NAME">
+			<Text>Darwinist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DEVOUT_NAME">
+			<Text>Dindar</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_NAME">
+			<Text>Çevreci</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLOITATIVE_NAME">
+			<Text>Sömürücü</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLORER_NAME">
+			<Text>Kâşif</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FUN_LOVING_NAME">
+			<Text>Eğlenceyi Seven</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_ADVOCATE_NAME">
+			<Text>Büyük Kişi Savunucusu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IDEOLOGUE_NAME">
+			<Text>İdeolog</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIALIST_NAME">
+			<Text>Ağır Sanayi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_NAME">
+			<Text>Para Düşkünü</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NATURALIST_NAME">
+			<Text>Doğa Sever</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NUKE_LOVER_NAME">
+			<Text>Nükleer Düşkünü</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_POPULOUS_NAME">
+			<Text>Nüfuslu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_STANDING_ARMY_NAME">
+			<Text>Düzenli Ordu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TECHNOPHILE_NAME">
+			<Text>Teknoloji Tutkunu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_ADVOCATE_NAME">
+			<Text>Harika Tutkunu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ZEALOT_NAME">
+			<Text>Bağnaz</Text>
+		</Row>
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_ALLY_OF_ENKIDU_DESCRIPTION">
+			<Text>Uzun vadeli ittifak kurmaya istekli uygarlıkları takdir eder. Dostlarını veya müttefiklerini kınayan ya da onlara saldıranlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYYUBID_DYNASTY_DESCRIPTION">
+			<Text>İbadet yapısının birçok şehrinde bulunmasını ister ve buna sahip uygarlıkları takdir eder. Başka dinlere mensup uygarlıklardan ya da kendi dininin takipçilerine savaş açan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTAB_AVERSE_DESCRIPTION">
+			<Text>Kendisine dost ilan eden uygarlıkları takdir eder. İhanet eden ya da sürpriz savaş ilan eden uygarlıklardan nefret eder.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BIG_STICK_POLICY_DESCRIPTION">
+			<Text>Kendi kıtasında bir şehri olan barışçıl uygarlıkları takdir eder. Kendi kıtasındaki bir şehir devletine ya da uygarlığa karşı savaş başlatanlardan nefret eder.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BLACK_QUEEN_DESCRIPTION">
+			<Text>Mümkün olduğunca çok casus edinir ve diplomatik erişim sağlar. Bu casusluk faaliyetlerini görmezden gelen uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BUSHIDO_DESCRIPTION">
+			<Text>Güçlü bir orduya ve yüksek [ICON_Faith]İnanç ile [ICON_Culture]Kültür üretimine sahip uygarlıkları takdir eder. Askeri açıdan güçlü ancak [ICON_Faith]İnanç ve [ICON_Culture]Kültür üretimi zayıf uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_ALLY_DESCRIPTION">
+			<Text>Aynı şehir devleti bağlılığı için rekabet etmeyen uygarlıkları takdir eder. Doğrudan şehir devleti bağlılığı için rekabet eden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COUNTER_REFORMER_DESCRIPTION">
+			<Text>Aynı dini takip eden uygarlıkları takdir eder ve şehirlerinin tamamının aynı dini takip etmesini ister. İmparatorluklarına dinlerini yaymaya çalışanlardan nefret eder.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DELIAN_LEAGUE_DESCRIPTION">
+			<Text>Aynı şehir devleti bağlılığı için rekabet etmeyen uygarlıkları takdir eder. Doğrudan şehir devleti bağlılığı için rekabet eden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENTHUSIASTIC_DISCIPLE_DESCRIPTION">
+			<Text>Kongo'ya din getiren uygarlıkları takdir eder. Bir din kurmuş ancak bu dini bir Kongo şehrine ulaştırmamış uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_PERSON_OBSESSED_DESCRIPTION">
+			<Text>[ICON_GreatPerson] Büyük Kişiler için rekabet etmeyen uygarlıkları takdir eder ve mümkün olduğunda [ICON_GreatPerson] Büyük Kişileri işe alır. Bir [ICON_GreatPerson] Büyük Kişiyi başka bir uygarlığa kaptırmaktan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CROWN_DESCRIPTION">
+			<Text>Şehir devletleriyle ilişki kurmayan uygarlıkları takdir eder. Şehir devletlerinin süzerenlerinden veya şehir devletlerini fetheden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAST_VIKING_KING_DESCRIPTION">
+			<Text>Büyük bir donanma kurar ve onun izinden giden uygarlıklara saygı duyar. Zayıf donanmaya sahip uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_OPTIMUS_PRINCEPS_DESCRIPTION">
+			<Text>İmparatorluğuna mümkün olduğunca fazla toprak katmaya çalışır. Az toprak kontrol eden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PARANOID_DESCRIPTION">
+			<Text>Tehdit oluşturmayan uygarlıkları takdir eder. Güçlü ordulara sahip ya da yakınında şehirleri olan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_QUEEN_OF_THE_NILE_DESCRIPTION">
+			<Text>Güçlü ordulara sahip uygarlıkları takdir eder ve zarar verici askeri çatışmalardan kaçınmak için onlarla ittifak kurmaya çalışır. Zayıf ordulara sahip uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PEACEKEEPER_DESCRIPTION">
+			<Text>Asla savaş kışkırtıcısı olarak damgalanmasına yol açacak savaşlar ilan etmez ve barışı koruyanlarla dost olmaya çalışır. Savaş kışkırtıcılarından nefret eder.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SUN_NEVER_SETS_DESCRIPTION">
+			<Text>Kendi ana kıtasındaki uygarlıkları sever ve tüm kıtalara yayılmak ister. İngiltere'nin hiçbir şehrinin bulunmadığı kıtalardaki uygarlıkları sevmez.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TLATOANI_DESCRIPTION">
+			<Text>Kendisiyle aynı Lüks Kaynaklara sahip uygarlıkları sever ve mevcut her lüks kaynağı toplamaya çalışır. Henüz toplamadığı yeni bir lüks kaynağa sahip olan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WESTERNIZER_DESCRIPTION">
+			<Text>[ICON_Science] Bilim ve [ICON_Culture] Kültür alanlarında kendisinden ileri olan uygarlıklara dostane yaklaşır. [ICON_Science] Bilim ve [ICON_Culture] Kültür bakımından geride kalmış uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Barış anlaşmasında asla ödün vermez ve bu yaklaşımı benimseyen uygarlıkları sever. Teslim olmuş ya da hiç savaşa girmemiş uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_WONDER_OBSESSED_DESCRIPTION">
+			<Text>Harikalar için rekabet etmeyen uygarlıkları sever ve mümkün olduğunda harikalar inşa eder. Bir harikayı başka bir uygarlığa kaptırmaktan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BARBARIAN_LOVER_DESCRIPTION">
+			<Text>Barbarlara sempati duyar. Barbar karakollarını yok eden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CIVILIZED_DESCRIPTION">
+			<Text>Barbarlardan nefret eder. Barbar karakollarını temizleyen uygarlıkları sever. Barbar karakollarını görmezden gelen uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CULTURED_DESCRIPTION">
+			<Text>[ICON_Culture] Kültürünü geliştirmeye çalışır ve aynı şekilde [ICON_Culture] Kültüre odaklanan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DARWINIST_DESCRIPTION">
+			<Text>Uygarlıkların savaş halinde olmasını görmekten hoşlanır ve sürekli mücadeleye inanır.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FUN_LOVING_DESCRIPTION">
+			<Text>Her şehirdeki vatandaşları olabildiğince mutlu etmeye çalışır. Aynı şekilde gelişen uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INDUSTRIALIST_DESCRIPTION">
+			<Text>Sanayiyi geliştirmeye çalışır ve aynı şekilde [ICON_Production] Üretime odaklanan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MONEY_GRUBBER_DESCRIPTION">
+			<Text>Mümkün olan en yüksek [ICON_Gold] Tur Başına Altın gelirine sahip olmaya çalışır. Diğer yüksek gelirli uygarlıklara saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NATURALIST_DESCRIPTION">
+			<Text>Tüm doğa harikalarını bulmaya çalışır. Ormanları ve Yağmur Ormanlarını kesilmemiş bırakan ve Milli Park kuran uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NUKE_LOVER_DESCRIPTION">
+			<Text>Nükleer silah kullanmaktan hiç tereddüt etmez. Nükleer silahlarla güç sergileyen diğer uygarlıklara saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_POPULOUS_DESCRIPTION">
+			<Text>En yüksek toplam nüfusa sahip olmaya çalışır. Diğer yüksek nüfuslu uygarlıklara saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_STANDING_ARMY_DESCRIPTION">
+			<Text>Her zaman büyük bir düzenli ordu bulundurmaya çalışır. Büyük orduları olan diğer uygarlıklara saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TECHNOPHILE_DESCRIPTION">
+			<Text>[ICON_Science] Bilimi geliştirmeye çalışır ve aynı şekilde [ICON_Science] Bilime odaklanan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AIRPOWER_DESCRIPTION">
+			<Text>Hava gücünü geliştirmeye çalışır. Daha büyük hava gücüne sahip uygarlıklara hayranlık duyar. Daha zayıf hava gücüne sahip uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_STATE_PROTECTOR_DESCRIPTION">
+			<Text>Koruma savaşlarına önem verir. Koruma savaşı başlatan uygarlıklara hayranlık duyar. Şehir Devletlerine saldıran uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLOITATIVE_DESCRIPTION">
+			<Text>Tüm doğal özellikleri kaldırır ve geliştirilebilir tüm bölgeleri imar eder. Geliştirilmiş bölge oranı yüksek olan medeniyetleri takdir eder; düşük orana sahip olanlardan veya Milli Park kuranlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ENVIRONMENTALIST_DESCRIPTION">
+			<Text>Milli Parklar inşa eder, doğal özellikleri kaldırmaz, ağaç diker. Orman diken veya Milli Park kuran medeniyetleri sever; doğal özellikleri kaldıranlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IDEOLOGUE_DESCRIPTION">
+			<Text>Kendisiyle aynı hükümet türüne sahip medeniyetleri kayırır, farklı hükümetleri olanları sevmez ve kendi çağındaki farklı hükümetlere sahip medeniyetlerden ise hiç hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DEVOUT_DESCRIPTION">
+			<Text>[ICON_Faith] İnanç biriktirmeye çalışır ve [ICON_Faith] İnanca odaklanan medeniyetleri sever.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPLORER_DESCRIPTION">
+			<Text>Haritayı keşfetmeye çalışır ve kendisinden daha azını keşfetmiş medeniyetleri sever; daha fazlasını keşfetmiş olanlardan ise hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
+			<Text>Dini bir zafer kazanmaya çalışır. Kendi dinini benimsemiş medeniyetleri sever.</Text>
+		</Row>
+		<!-- City-State Traits-->
+		<Row Tag="LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS">
+			<Text>1 [ICON_Envoy] Elçi:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS">
+			<Text>3 [ICON_Envoy] Elçi:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS">
+			<Text>6 [ICON_Envoy] Elçi:</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_NAME">
+			<Text>Bilim Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'inizde +2 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Kampüs bölgesinde +2 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Kampüs bölgesinde ek +2 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_NAME">
+			<Text>Din Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Kutsal Alan bölgesinde +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Kutsal Alan bölgesinde ek +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_NAME">
+			<Text>Ticaret Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Ticaret Merkezi bölgesinde +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Ticaret Merkezi bölgesinde ek olarak +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_NAME">
+			<Text>Kültürel Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Tiyatro Meydanı bölgesinde +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Tiyatro Meydanı bölgesinde ek olarak +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_NAME">
+			<Text>Militarist Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>Birim üretirken [ICON_Capital] Başkent'te +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Birim üretirken her Ordugâh bölgesinde +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Birim üretirken her Ordugâh bölgesinde ek olarak +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_NAME">
+			<Text>Endüstriyel Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_DESCRIPTION">
+			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>Harikalar, binalar ve bölgeler üretirken [ICON_Capital] Başkent'te +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Harikalar, binalar ve bölgeler üretirken her Sanayi Bölgesi bölgesinde +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Harikalar, binalar ve bölgeler üretirken her Sanayi Bölgesi bölgesinde ek olarak +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
+			<Text>Amsterdam Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
+			<Text>Yabancı şehirlere gönderdiğiniz [ICON_TradeRoute] Ticaret Yollarınız, varış şehrindeki her Lüks Kaynak için +1 [ICON_Gold] Altın kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
+			<Text>Bandar Brunei Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
+			<Text>Brüksel Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
+			<Text>Şehirleriniz Harikalar için +15% [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
+			<Text>Buenos Aires Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
+			<Text>Bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi davranır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
+			<Text>Kartaca Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Ordugâh Bölgelerinizin her biri +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
+			<Text>Cenevre Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
+			<Text>Herhangi bir uygarlıkla savaş halinde olmadığınızda şehirleriniz +15% [ICON_Science] Bilim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
+			<Text>Hattuşa Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
+			<Text>Keşfettiğiniz ancak sahip olmadığınız her Stratejik Kaynaktan size 1 adet sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
+			<Text>Hong Kong Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
+			<Text>Şehirleriniz şehir projeleri için +20% [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
+			<Text>Jakarta Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
+			<Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, o şehirden geçen veya o şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
+			<Text>Kudüs Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
+			<Text>Kurduğunuz Din'e otomatik olarak dönüşür ve sanki bir Kutsal Şehir'miş gibi o Din için baskı uygular.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KABUL_NAME">
+			<Text>Kabil Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
+			<Text>Birimleriniz başlattıkları muharebelerden iki kat tecrübe kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KANDY_NAME">
+			<Text>Kandy Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
+			<Text>Her yeni bir doğa harikası keşfettiğinizde bir [ICON_GreatWork_Relic] Kutsal Emanet kazanırsınız ve tüm [ICON_GreatWork_Relic] Kutsal Emanetlerden %50 fazla [ICON_Faith] İnanç elde edersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
+			<Text>Kumasi Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
+			<Text>Bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, çıkış şehrindeki her bir uzmanlık bölgesi için +2 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
+			<Text>La Venta Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
+			<Text>İşçileriniz artık Dev Baş geliştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Dev Başlar +2 [ICON_Faith] İnanç sağlar. Her 2 bitişik Yağmur Ormanı için +1 [ICON_Faith] İnanç. Her 2 bitişik Orman için +1 [ICON_Faith] İnanç. Kar veya Karlı Tepeler üzerine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LISBON_NAME">
+			<Text>Mogadişu Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
+			<Text>Tüccar birimleriniz su bölgelerinde yağmalanmaya karşı bağışıktır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
+			<Text>Mohenjo-Daro Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
+			<Text>Şehirleriniz, hepsi bir Nehir'in yanındaymış gibi sudan tam [ICON_Housing] Konut elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
+			<Text>Nan Madol Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
+			<Text>Kıyı veya Göl bölgelerinde ya da bitişiğinde bulunan bölgeleriniz +2 [ICON_Culture] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
+			<Text>Preslav Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Hafif ve ağır süvari birimleriniz, tepe bölgelerinde savaşırken +5 [ICON_Strength] Güç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
+			<Text>Seul Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
+			<Text>Yeni bir çağa girdiğinizde, o çağdan rastgele 1 [ICON_TechBoosted] Buluş kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
+			<Text>Stokholm Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen - Tiyatro Meydanı bölgeleri için).</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
+			<Text>Toronto Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
+			<Text>Sanayi Bölgesi ve Eğlence Kompleksi bölgelerinizden gelen bölgesel etkiler 3 bölge daha uzağa ulaşır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
+			<Text>Valletta Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
+			<Text>Şehir Merkezi binaları ve Ordugah Bölgesi binaları [ICON_Faith] İnanç ile satın alınabilir. Antik, Orta Çağ ve Rönesans Surlarının satın alma maliyeti düşer ancak yalnızca [ICON_Faith] İnanç ile satın alınabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
+			<Text>Vilnius Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>Yeni bir çağa girdiğinde, o çağdan rastgele 1 [ICON_CivicBoosted] İlham kazanırsın.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
+			<Text>Yerevan Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
+			<Text>Havari birimlerin, rastgele bir terfi almak yerine olası tüm terfiler arasından seçim yapabilir.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
+			<Text>Zanzibar Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
+			<Text>[ICON_RESOURCE_CINNAMON] Tarçın ve [ICON_RESOURCE_CLOVES] Karanfil Lüks kaynaklarını alırsın. Bunlar oyunda başka hiçbir şekilde elde edilemez ve her biri 6 [ICON_Amenities] Olanak sağlar.</Text>
+		</Row>
+		<!--Leader Trait Names-->
+		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Termopil</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Enkidu'nun Maceraları</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>Akdeniz'in Gelini</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>İlahi Rüzgar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>El Escorial</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>Büyük Elçilik</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text>Kutsal Roma İmparatoru</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Pax Britannica</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>İmanın Doğruluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Din Değiştirme</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Roosevelt Sonucu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_NAME">
+			<Text>Satyagraha</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Kuzeyin Yıldırımı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>İlk İmparator</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>Catherine'in Uçan Filosu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Trajan Sütunu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Cyrus'un Katili</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Yüce Gönüllü</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>İhtişamla Kuşatılmış</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_ENGLISH_REDCOAT_NAME">
+			<Text>Victoria'ya özel birim: Kızıl Ceketli</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_NORWEGIAN_LONGSHIP_NAME">
+			<Text>Harald Hardrada'ya özel birim: Viking Uzun Gemisi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Theodore Roosevelt'e özel birim: Kaba Süvari</Text>
+		</Row>
+		<!--Leader Trait Descriptions-->
+		<Row Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Muharebe zaferleri, mağlup edilen birimin [ICON_Strength] Muharebe Gücü'nün %50'si kadar [ICON_Culture] Kültür sağlar. (Standart Hızda) Her bir Askeri Politika yuvası için +1 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_DESCRIPTION">
+			<Text>Müttefikleriyle savaşan herhangi birine savaş kışkırtıcılığı cezası olmadan savaş ilan edebilir. Ortak bir düşmana karşı savaşırken, 5 kare içinde olduklarında, kendileri ve müttefikleri yağma ödüllerini ve muharebe tecrübesi kazanımlarını paylaşırlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_DESCRIPTION">
+			<Text>Diğer uygarlıklara olan [ICON_TradeRoute] Ticaret Yollarınız, Mısır için +4 [ICON_Gold] Altın sağlar. Diğer uygarlıkların Mısır'a olan [ICON_TradeRoute] Ticaret Yolları, onlara +2 [ICON_Food] Besin ve Mısır'a +2 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>Kara birimleri, Kıyıya bitişik kara karelerinde +5 [ICON_Strength] Muharebe Gücü alır; deniz birimleri sığ su karelerinde +5 [ICON_Strength] Muharebe Gücü alır. Ordugâh, Kutsal Alan ve Tiyatro Meydanı bölgelerini yarı sürede inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Engizisyoncular bir defa daha Sapkınlığı Temizleme yapabilir. Muharebe ve Dinî birimler, başka Dinlere inanan oyunculara karşı +5 [ICON_Strength] Muharebe Gücü bonusuna sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>Rusya'dan daha ileri uygarlıklara olan [ICON_TradeRoute] Ticaret Yollarından [ICON_Science] Bilim veya [ICON_Culture] Kültür alır. Her 3 teknoloji veya yönetim bilimi ileride olması başına +1.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text>Ek bir Askeri Politika yuvası. Şehir devletlerine saldırırken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_DESCRIPTION">
+			<Text>Ana kıtanız dışındaki bir kıtada kurulan tüm şehirler ücretsiz bir yakın dövüş birimi alır. O şehirde bir Kraliyet Donanma Tersanesi inşa etmek, fazladan bir ücretsiz yakın dövüş birimi kazandırır. Askeri Bilim teknolojisi araştırıldığında Kızıl Ceketli eşsiz birimini kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>Dinlerine ait ibadet yapısı, herhangi bir oyuncu tarafından normal [ICON_Faith] İnanç maliyetinin yalnızca onda biri karşılığında satın alınabilir. Bu ibadet yapısı, Arabistan şehirlerinin [ICON_Science] Bilim, [ICON_Faith] İnanç ve [ICON_Culture] Kültür üretimine %10 eklemek üzere güçlendirilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>Kutsal Alan bölgeleri inşa edemez, Büyük Peygamber kazanamaz veya Din kuramaz. Şehirlerinin çoğunluğunda yerleşmiş olan herhangi bir Dinin tüm İnançlarını kazanır. Her bir M'banza veya Tiyatro Meydanı bölgesini tamamladığında (o şehrin çoğunluk Dinine ait) bir Havari alır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Birimler, kendi kıtalarında +5 [ICON_Strength] Muharebe Gücü kazanır. Millî Park bulunan bir şehirdeki tüm bölgelere +1 Çekicilik sağlanır. Yivli Tüfek teknolojisi araştırıldığında eşsiz Kaba Süvari birimi elde edilir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
+			<Text>Tanışılan ve savaş halinde olunmayan, din kurmuş her uygarlık (Hindistan dahil) başına +5 [ICON_Faith] İnanç sağlanır. Gandhi'ye karşı savaşan uygarlıklar iki kat savaş yorgunluğu yaşar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Tüm deniz yakın dövüş birimlerine kıyı baskını yeteneği verir ve bu birimlere yönelik [ICON_PRODUCTION] Üretim %50 artar. Yelken teknolojisiyle birlikte eşsiz Viking Uzun Gemisi birimi elde edilir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>Antik ve Klasik çağ harikaları inşa edilirken İşçi kullanım hakkı harcanarak harikanın orijinal maliyetinin %15'i karşılanabilir. İşçiler fazladan bir kullanım hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>Tanıştığı her uygarlıkla normalden 1 seviye daha yüksek [ICON_VisLimited] Diplomatik Görünürlüğe sahiptir. Kale teknolojisiyle birlikte ücretsiz bir Casus ve ek casus kapasitesi kazanır. Tüm casuslar, ücretsiz bir terfi ile Ajan olarak başlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>Tüm şehirler fazladan bir Şehir Merkezi binasıyla başlar. (Antik çağda Anıt binasıyla başlanır.)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>Tüm birimler, yaralı birimlere saldırırken +5 [ICON_Strength] Muharebe Gücü kazanır. Bir birimi yok ettiklerinde 30 can puanına kadar iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>Bir [ICON_GreatPerson] Büyük Kişi işe alındığında veya hamisi olunduğunda, onun [ICON_GreatPerson] Büyük Kişi puanı maliyetinin %20'si geri ödenir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>Süzereni olduğunuz her şehir devleti başına +%5 [ICON_Culture] Kültür.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

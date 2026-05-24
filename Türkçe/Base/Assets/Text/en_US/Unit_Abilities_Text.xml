@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Names -->
+		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_NAME">
+			<Text>Süvari Savar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_NAME">
+			<Text>Ağır Savaş Arabası</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_NAME">
+			<Text>Arazi Engeli Tanımaz</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_NAME">
+			<Text>Nehir Geçiş Engeli Tanımaz</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_ZOC_NAME">
+			<Text>Kontrol Bölgesini Yok Sayar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_NAME">
+			<Text>Hafif Savaş Arabası</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_NAME">
+			<Text>Hareket Halinde Ateş Edemez</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_OCEAN_NAME">
+			<Text>Yalnızca Kıyı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CANNOT_ATTACK">
+			<Text>Saldıramaz</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
+			<Text>Dost Bölge Avantajı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
+			<Text>Sur Saldırısı Sağlar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYPASS_WALLS_NAME">
+			<Text>Duvarları Aş</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANTI_SPEAR_NAME">
+			<Text>Mızrak Karşıtı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GRANT_RANGE_BONUS_NAME">
+			<Text>Hedef Tespiti</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_NAME">
+			<Text>Engelsiz Görüş</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
+			<Text>Oligarşi Yakın Dövüş Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
+			<Text>Teokrasi Dini Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
+			<Text>Dinî Tarikatlar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
+			<Text>Faşizm Saldırı Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
+			<Text>Komünizm Kara Savunması</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDIC_HEAL_NAME">
+			<Text>Sıhhiye Şifası</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_STEALTH_NAME">
+			<Text>Gizlilik</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SEE_HIDDEN_NAME">
+			<Text>Gizliliği İfşa Et</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COASTAL_RAID_NAME">
+			<Text>Kıyı Baskını</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME">
+			<Text>Yıldırım Kıyı Baskını</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_NAME">
+			<Text>Hedefli Saldırı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_NAME">
+			<Text>Tarafsız Bölgede İyileşme</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_NAME">
+			<Text>Denizde Yağma Bağışıklığı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BERSERKER_RAGE_NAME">
+			<Text>Berserker Hiddeti</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
+			<Text>Berserker Hareketi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+			<Text>Uzun Gemi Hareketi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+			<Text>Ganimet Gemileri</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
+			<Text>Tutsak İşçiler</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_NAME">
+			<Text>Balkan Süvarisi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALTITUDE_TRAINING_NAME">
+			<Text>Yüksek İrtifa Eğitimi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COSSACK_NAME">
+			<Text>Don Sessiz Akar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REDCOAT_NAME">
+			<Text>Küresel Ordu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARU_NAME">
+			<Text>Korku</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAGAO_NAME">
+			<Text>Orman Savaşçısı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONQUISTADOR_NAME">
+			<Text>Zorla Din Değiştirme</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GARDE_NAME">
+			<Text>Napolyon'un Seçkinleri</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HOPLITE_NAME">
+			<Text>Falanks</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UBOAT_NAME">
+			<Text>Kurt Sürüsü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROUGH_RIDER_NAME">
+			<Text>Teddy'nin Kaba Süvarisi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUSTANG_NAME">
+			<Text>Mustang</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAMLUK_NAME">
+			<Text>Furûsiyye</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAMURAI_NAME">
+			<Text>Samuray</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_NAME">
+			<Text>Yurt İçi Yayılma</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Yabancı Topraklara Girme</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_NAME">
+			<Text>Barış Muhafızı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
+			<Text>Dost Bölge Avantajı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Sınırları Yok Sayar</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_NAME">
+			<Text>Engelsiz Yürüyüş</Text>
+		</Row>
+		<!-- Full description -->
+		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_DESCRIPTION">
+			<Text>Hafif ve Ağır süvari birliklerine karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANTI_SPEAR_DESCRIPTION">
+			<Text>Süvari karşıtı birliklere karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_DESCRIPTION">
+			<Text>Çöl, Ova, Otlak veya Tundra'da başlıyorsa +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Orman, Yağmur Ormanı, Tepeler ve Bataklık yalnızca bir [ICON_Movement] Hareket alır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_ZOC_DESCRIPTION">
+			<Text>Düşman kontrol bölgesinden etkilenmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_DESCRIPTION">
+			<Text>Çöl, Ova, Otlak veya Tundra'da başlıyorsa +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_DESCRIPTION">
+			<Text>Aynı turda hareket edip saldıramaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_OCEAN_DESCRIPTION">
+			<Text>Okyanus hücrelerine giremez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Düşmanlara saldıramaz; yalnızca savunma yapabilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_DESCRIPTION">
+			<Text>Dost bölgede muharebe bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_DESCRIPTION">
+			<Text>Bir düşman şehrine bitişikken yakın dövüş birimleri şehrin Surlarına tam hasar verir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYPASS_WALLS_DESCRIPTION">
+			<Text>Bir düşman şehrine bitişikken dost yakın dövüş birimleri şehir surlarını aşarak doğrudan şehre saldırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANIT_SPEAR_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü: Kargıcı ve Mızraklı birliklere karşı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GRANT_RANGE_BONUS_DESCRIPTION">
+			<Text>Yakındaki menzilli kuşatma birimlerine +1 [ICON_Range] Menzil.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
+			<Text>Görüş menzili arazi tarafından engellenmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_DESCRIPTION">
+			<Text>1 hücre içindeki Kuşatma sınıfı birimlere +1 [ICON_Range] Menzil sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
+			<Text>Oligarşi hükümetinden +4 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_DESCRIPTION">
+			<Text>Teokrasi hükümetinden +5 [ICON_Religion] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_DESCRIPTION">
+			<Text>Dinî Tarikatlar politikasından +5 [ICON_Religion] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_DESCRIPTION">
+			<Text>Faşizm hükümetinden saldırırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_DESCRIPTION">
+			<Text>Komünizm hükümetinden savunurken +6 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDIC_HEAL_DESCRIPTION">
+			<Text>1 hücre içindeki oyuncunun birimlerine +20 HP iyileştirme.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_STEALTH_DESCRIPTION">
+			<Text>1 hücreden uzaktaki birimlere karşı gizli kalır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SEE_HIDDEN_DESCRIPTION">
+			<Text>Görüş menzili içinde haritadaki gizli birimleri açığa çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
+			<Text>Kıyı topraklarındaki binaları ve iyileştirmeleri yağmalayabilir ve sivil birimleri ele geçirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME_DESCRIPTION">
+			<Text>Kıyı topraklarındaki binaları ve iyileştirmeleri yağmalayabilir ve sivil birimleri ele geçirebilir. (Hardrada)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
+			<Text>Bir muharebe birimiyle formasyonda olsalar bile destek birimlerine doğrudan saldırır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION">
+			<Text>Tarafsız bölgede iyileşebilir. (Knarr)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRADE_ROUTE_PLUNDER_IMMUNITY_SEA_DESCRIPTION">
+			<Text>Bir su bölgesindeyken [ICON_TradeRoute] Ticaret Yolu düşman birimler tarafından yağmalanamaz. Lizbon Şehir Devleti'nin Süzereni olduğunuzda elde edilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION">
+			<Text>Saldırırken +10 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Savunurken -5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
+			<Text>Bu birim düşman topraklarında başlarsa +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+			<Text>Kıyı sularındayken +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+			<Text>Yenilgiye uğramış düşman deniz araçlarını ele geçirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
+			<Text>Yenilgiye uğramış düşman uygarlık muharebe birimlerini ele geçirip İşçi'ye dönüştürebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_DESCRIPTION">
+			<Text>Preslav Şehir Devleti'nin Süzereni olduğunuzda Tepelerdeki ağır ve hafif süvarilere +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALTITUDE_TRAINING_DESCRIPTION">
+			<Text>Misyonerler, Engizisyoncular ve Havariler, Everest Dağı doğa harikasının yanından geçtikten sonra Tepelerde daha hızlı hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COSSACK_DESCRIPTION">
+			<Text>Saldırdıktan sonra hareket edebilir.[NEWLINE][ICON_Bullet]Kendi topraklarınızda veya bitişiğinde +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REDCOAT_DESCRIPTION">
+			<Text>Başkentinizin ([ICON_Capital]) bulunduğu kıtadan farklı bir kıtada savaşırken +10 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Karaya çıkmak için [ICON_Movement] Hareket maliyeti yok.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARU_DESCRIPTION">
+			<Text>Bitişik düşman birimlerine -5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAGAO_DESCRIPTION">
+			<Text>Menzilli birimlere karşı savunurken +10 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Özelliklerin içini görebilir[NEWLINE][ICON_Bullet]Orman ve Yağmur Ormanı'nda [ICON_Movement] Hareket cezası olmadan hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONQUISTADOR_DESCRIPTION">
+			<Text>Bir hücre yakınında bir dinî birim varken +10 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Bu birim bir şehri ele geçirirse veya ele geçirildiği sırada şehre bitişikse, şehir otomatik olarak Konkistador oyuncusunun çoğunluk Dinine dönüşür.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GARDE_DESCRIPTION">
+			<Text>Başkentle ([ICON_Capital]) aynı kıtadayken +10 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Öldürmeler için +10 [ICON_GreatGeneral] Büyük General puanı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HOPLITE_DESCRIPTION">
+			<Text>En az bir Hoplit bitişikse +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UBOAT_DESCRIPTION">
+			<Text>Okyanus muharebesinde +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROUGH_RIDER_DESCRIPTION">
+			<Text>Başkentinizin ([ICON_Capital]) kıtasında bir düşman birimini yendiğinizde, o birimin temel [ICON_Strength] Muharebe Gücü'nün %50'si kadar [ICON_Culture] Kültür kazanırsınız (Standart Hız'da)[NEWLINE][ICON_Bullet]Tepelerde savaşırken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUSTANG_DESCRIPTION">
+			<Text>Avcı Uçaklarına karşı +5 [ICON_Strength] Muharebe Gücü bonusu[NEWLINE][ICON_Bullet]Muharebeden +%50 tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAMLUK_DESCRIPTION">
+			<Text>Bu birim, hareket veya muharebeden sonra bile her tur iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
+			<Text>Bu birim hasar aldığında muharebe cezasına maruz kalmaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Kışla'dan kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_STABLE_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Ahır'dan kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Cephanelik'ten kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Askeri Akademi'den kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Deniz Feneri'nden kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Tersane'den kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% Liman'dan kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+			<Text>+25% Hangar'dan kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+			<Text>+50% Havaalanı'ndan kazanılan tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Kraliyet Donanma Tersanesi'nden Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROMAN_LEGION_BUILD_DESCRIPTION">
+			<Text>Roma Kalesi eşsiz geliştirmesini inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Büyük Deniz Feneri'nden Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION">
+			<Text>+1 Gemiye Binmiş [ICON_Movement] Büyük Deniz Feneri'nden Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]Bölgelere ve Deniz Birimlerine karşı Menzilli Güç.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR]Birimlere karşı Bombardıman Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]Bölgelere karşı Menzilli Güç.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR]Birimlere karşı Bombardıman Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANTI_AIR_COVER_DESCRIPTION">
+			<Text>1 kare mesafedeki hava saldırılarına karşı savunma sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PREVIEW_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Lüks Kaynaklardan Muharebe Gücü. (Montezuma)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Farklı bir dindeki birimlere karşı Muharebe Gücü. (II. Philip)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Şehir Devletlerine karşı Muharebe Gücü. (Barbarossa)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kendi kıtasında Muharebe Gücü. (Roosevelt)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Yaralı birimlere karşı Muharebe Gücü. (Tomyris)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_DESCRIPTION">
+			<Text>+30 [ICON_Damaged] Düşman bir birimi yendikten sonra Can. (Tomyris)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Gemiye binme ve inme sırasındaki ek hareket maliyetini yok sayar. (Knarr)</Text>
+		</Row>
+		<!--Great People Assigned-->
+		<Row Tag="LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+40% Ticaret yollarını yağmalamadan elde edilen ödüller. (Rajendra Chola)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+50% Ticaret yollarını yağmalamadan elde edilen ödüller. (Francis Drake)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+60% Ticaret yollarını yağmalamadan elde edilen ödüller. (Ching Shih)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+200% Muharebeden kazanılan tecrübe. (Clancy Fernando)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_DESCRIPTION">
+			<Text>+50% Kanatlama bonusu. (Horatio Nelson)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+50% Muharebeden kazanılan tecrübe. (Laskarina Bouboulina)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+100% Muharebeden kazanılan tecrübe (Sergey Gorshkov)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_DESCRIPTION">
+			<Text>+50% Kanatlama bonusu. (Georgy Zhukov)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+75 Muharebeden kazanılan tecrübe. (John Monash)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+100 Muharebeden kazanılan tecrübe. (Vijaya Wimalaratne)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Kıyı bölgesinde savaşırken Muharebe Gücü. (Hojo Tokimune)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sığ suda savaşırken Muharebe Gücü. (Hojo Tokimune)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+			<Text>+1 [ICON_Strength] Sahip olunan her eşsiz lüks kaynak başına Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GORGO_POLICY_SLOT_COMBAT_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Strength] Mevcut hükümette yer alan her Askeri Politika yuvası başına Muharebe Gücü.</Text>
+		</Row>
+		<!-- Combat preview description -->
+		<Row Tag="LOC_COMBAT_DIFFICULTY_SCALING">
+			<Text>+{Amount} [ICON_Strength] Zorluk Seviyesine Bağlı Muharebe Gücü Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Süvariye Karşı Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Avcı Uçağına Karşı Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>Açık arazide harekete geçerken +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
+			<Text>Tüm araziler 1 [ICON_Movement] Hareket'e mal olur.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_ZOC_MODIFIER_DESCRIPTION">
+			<Text>Kontrol Bölgesinden etkilenmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
+			<Text>Açık arazide harekete geçerken +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
+			<Text>Hareket edip saldıramaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_OCEAN_MODIFIER_DESCRIPTION">
+			<Text>Okyanus hücrelerine giremez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CANNOT_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Birliğin saldırmasını engeller.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Dost bölgede [ICON_Strength] Muharebe Gücü bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_MODIFIER_DESCRIPTION">
+			<Text>Yakın dövüş birimlerinin surlara saldırmasına izin verir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYPASS_WALLS_MODIFIER_DESCRIPTION">
+			<Text>Yakın dövüş birimlerinin surları aşmasına izin verir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ANIT_SPEAR_MODIFIER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Süvari Karşıtı Birimlere Karşı Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GRANT_RANGE_BONUS_MODIFIER_DESCRIPTION">
+			<Text>Yakındaki kuşatma topçusuna +1 [ICON_Ranged] Saldırı Menzili.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_MODIFIER_DESCRIPTION">
+			<Text>Engelsiz Görüş</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Oligarşiden +4 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Teokrasiden +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Dinî Tarikatlardan +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Faşizmden +5 Saldırı [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Komünizmden +4 [ICON_Strength] Savunma Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBAT_OTHER_RELIGION_DESCRIPTION">
+			<Text>Başka bir dine mensup uygarlıklara karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBAT_WARS_OF_RELIGION">
+			<Text>Din Savaşları: Başka bir dine mensup uygarlıklara karşı +4 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBAT_HOME_CONTINENT_DESCRIPTION">
+			<Text>Kendi kıtasında +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBAT_VS_CITY_STATES_DESCRIPTION">
+			<Text>Şehir Devletlerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBAT_LAND_ON_COAST_DESCRIPTION">
+			<Text>Kıyı arazisinde +5 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMBAT_SHALLOW_WATER_DESCRIPTION">
+			<Text>Sığ sularda +5 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDIC_HEAL_MODIFIER_DESCRIPTION">
+			<Text>1 kare mesafedeki birimlere +{1_Amount} Can iyileştirme</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_STRONG_WHEN_ATTACKING_DESCRIPTION">
+			<Text>Saldırırken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WEAK_WHEN_DEFENDING_DESCRIPTION">
+			<Text>Savunurken {1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PRIZE_SHIPS_MODIFIER_DESCRIPTION">
+			<Text>Düşmanı ele geçirme şansı: %{1_Amount}.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAPTIVE_WORKERS_MODIFIER_DESCRIPTION">
+			<Text>Düşmanı ele geçirme şansı: %{1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BALKAN_CAVALRY_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>Tepelerde savaşırken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COSSACK_LOCAL_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Kendi topraklarında veya topraklarına bitişikken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REDCOAT_FOREIGN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Başkentinin bulunduğu kıtadan farklı bir kıtada savaşırken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_VARU_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Düşman bir Varu'ya bitişikken {1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NAGAO_RANGED_DEFENSE_MODIFIER_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı savunurken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CONQUISTADOR_SPECIFIC_UNIT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Bir kare mesafede dini bir birim varken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GARDE_CONTINENT_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Başkentinizle aynı kıtada +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HOPLITE_NEIGHBOR_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Başka bir Hoplit'in yanındayken +{1_Amount} [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UBOAT_OCEAN_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Okyanus Arazisinde Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROUGH_RIDER_BONUS_IN_HILLS_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Strength] Tepelik Arazide Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NO_FOREIGN_SPREAD_DESCRIPTION">
+			<Text>Dinlerini yalnızca kendi imparatorluklarındaki şehirlere yayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_CANNOT_ATTACK_DESCRIPTION">
+			<Text>Teolojik Muharebe başlatamaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_DESCRIPTION">
+			<Text>Kendi imparatorluklarında Teolojik Muharebede önemli avantaj sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Açık Sınırlar olmasa bile bu birim yabancı topraklara girebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_DESCRIPTION">
+			<Text>Orman, Yağmur Ormanı, Tepeler ve Bataklık yalnızca bir [ICON_Movement] Hareket gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IGNORE_CROSSING_RIVERS_COST_DESCRIPTION">
+			<Text>Nehir geçişinde hareket maliyetini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ARCHAEOLOGIST_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Açık Sınırlar olmasa bile bu birim yabancı topraklara girebilir.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

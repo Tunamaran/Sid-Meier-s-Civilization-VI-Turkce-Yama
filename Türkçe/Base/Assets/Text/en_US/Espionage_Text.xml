@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_ESPIONAGE_CONFIRMATION">
+			<Text>{1_Name}[NEWLINE][NEWLINE]{2_Yield}[NEWLINE]{3_Header}[NEWLINE]{4_Success}[NEWLINE]{5_SuccessEscape}[NEWLINE]{6_Fail}[NEWLINE]{7_FailEscape}[NEWLINE]{8_Capture}[NEWLINE]{9_Killed}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_MISSION_HEADER">
+			<Text>GÖREV TANITIMI[NEWLINE][NEWLINE]Göreviniz: {1_Mission}[NEWLINE]Süre: {2_Num} Tur</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_OPERATION_YIELD">
+			<Text>Başarı, {1_Award} kazandıracaktır.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_OPERATION_CHANCES">
+			<Text>Olası Sonuçlar:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SUCCESS">
+			<Text>{1_Num}% - Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SUCCESS_ESCAPE">
+			<Text>{1_Num}% - Şehirden kaçarsa başarılı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FAILURE">
+			<Text>{1_Num}% - Başarısız</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FAILURE_ESCAPE">
+			<Text>{1_Num}% - Başarısız, şehirden kaçmak zorunda</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_CAPTURED">
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Casus Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_KILLED">
+			<Text>[COLOR_RED]{1_Num}%[ENDCOLOR] - Casus Öldürüldü</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_START_MISSION">
+			<Text>Kabul Et</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ABORT_MISSION">
+			<Text>İptal Et</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_HEIST_REWARD">
+			<Text>bölgeden bir Büyük Eser</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_PARTISAN_REWARD">
+			<Text>hoşnutsuz partizanların ayaklanması</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SABOTAGE_REWARD">
+			<Text>Sanayi Bölgesi'ndeki tüm binaları yağmalama</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SIPHON_REWARD">
+			<Text>şehrin önümüzdeki {1_Num} tur boyunca [ICON_Gold] Altın üretimi</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ROCKETRY_REWARD">
+			<Text>düşman Uzay Limanı bölgesini yağmalama</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_TECH_REWARD">
+			<Text>bir teknoloji sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_GAIN_SOURCES">
+			<Text>GÖREV TANITIMI[NEWLINE][NEWLINE]Göreviniz: Kaynak Edinme[NEWLINE]Süre: {1_Num} Tur[NEWLINE][NEWLINE]Casus, yerel bağlantılar bulmak için gereken süreyi harcadığında bu görev otomatik olarak başarılı olacaktır. Bu, önümüzdeki {2_Duration} tur boyunca bu şehirdeki tüm saldırgan casus operasyonlarının şansını artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LISTENING_POST">
+			<Text>GÖREV TANITIMI[NEWLINE][NEWLINE]Göreviniz: Dinleme Noktası[NEWLINE]Süre: {1_Num} Tur[NEWLINE][NEWLINE]Bu görev otomatik olarak başarılıdır. Yürütüldüğü sürece bu uygarlık üzerindeki diplomatik görünürlüğünüzü 1 seviye artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PANEL_HEADER">
+			<Text>KOVALAMACA DİZİSİ</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CITY_HEADER">
+			<Text>{1_CityName} şehrinde</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_AGENT_LABEL">
+			<Text>Ajan:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NO_LOOT">
+			<Text>Hiçbiri</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_LOOT_LABEL">
+			<Text>Ganimet:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_BOOST_LOOT">
+			<Text>{1_TechName} sırları</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_LABEL">
+			<Text>Takip eden:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_POLICE">
+			<Text>Polis</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_PURSUIT_COUNTERSPY">
+			<Text>Polis ve {1_Counterspy} ajanı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_HEADER">
+			<Text>Ajanınızın kaçış yöntemini seçin:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_1">
+			<Text>Uçak</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_2">
+			<Text>Tekne</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_3">
+			<Text>Araç</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_CHOICE_4">
+			<Text>Yaya</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_NO_DISTRICT">
+			<Text>Şehirde {1_DistrictName} bulunmuyor</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_TURNS">
+			<Text>Dönüş için kalan tur: {1_Turns}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_ESCAPE_TOOLTIP">
+			<Text>Ajanınız için şehirden kaçış rotasını seçin. Polis, Hava Meydanı veya Liman gibi hızlı çıkış noktalarında devriye geziyor olacaktır. Yaya olarak kaçış her zaman en güvenli seçenektir.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_1_NAME">
+			<Text>Casus Acemisi</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_2_NAME">
+			<Text>Ajan</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_3_NAME">
+			<Text>Gizli Ajan</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_LEVEL_4_NAME">
+			<Text>Usta Casus</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_SIPHON_ESTIMATE">
+			<Text>+{1_Amount} [ICON_Gold]</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_STEAL_TECH_ESTIMATE">
+			<Text>Çal {1_Amount} {1_Amount : plural 1?hızlandırma; other?hızlandırmalar;} dahil olmak üzere {2_TechName}.</Text>
+		</Row>
+		<!-- ==================== Espionage Text ==================== -->
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_HEADER">
+			<Text>{1_CivName} için Casuslar</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_NAME">
+			<Text>CASUS ADI</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_LEVEL">
+			<Text>SEVİYE</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_PROMOTION">
+			<Text>TERFİ</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_CITY">
+			<Text>ŞEHİR</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_MISSION">
+			<Text>GÖREV</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_PANEL_TURNS">
+			<Text>KALAN TUR</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPANEL_NO_MISSION">
+			<Text>yok</Text>
+		</Row>
+		<!-- ==================== EspionageChooser ==================== -->
+		<Row Tag="LOC_ESPIONAGECHOOSER_PANEL_HEADER">
+			<Text>CASUS YERLEŞTİR</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_SELECT_A_CITY">
+			<Text>Casusluk için bir şehir seçin.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_POSSIBLE_MISSIONS">
+			<Text>OLASI GÖREVLER:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_CONFIRM_PLACEMENT">
+			<Text>YERLEŞTİRMEYİ ONAYLA</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_CANCEL">
+			<Text>İPTAL</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_CHOOSE_MISSION">
+			<Text>GÖREV SEÇ</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_GAIN_SOURCES_ACTIVE">
+			<Text>Kaynak Edinme Aktif! ({1_Turns}[Icon_Turn])</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_SUCCESS_BOOSTED">
+			<Text>Görev başarısı artırıldı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_NO_BOOST_ACTIVE">
+			<Text>Aktif Hızlandırma Yok</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_TRAVEL_TIME_TOOLTIP">
+			<Text>{1_TravelTime} {1_TravelTime : plural 1?tur; other?tur;} şehre seyahat için[NEWLINE]{2_EstablishTime} {2_EstablishTime : plural 1?tur; other?tur;} şehirde yerleşmek için</Text>
+		</Row>
+		<!-- ==================== Spy Operation Details ==================== -->
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
+			<Text>[ICON_VisLimited] Diplomatik Görünürlüğü 1 seviye artırır.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GAIN_SOURCES">
+			<Text>Casuslar, {1_Levels} {1_Levels : plural 1?seviye; other?seviye;} daha yüksek seviyede, {2_Turns} {2_Turns : plural 1?tur; other?tur;} boyunca faaliyet gösterecek.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_GREAT_WORK_HEIST">
+			<Text>Bu şehirden {1_GreatWorkName} çal</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SABOTAGE_PRODUCTION">
+			<Text>Sanayi Bölgesi'ndeki tüm binaları yağmala.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_SIPHON_FUNDS">
+			<Text>Görev süresince {1_CityName} şehrinin [ICON_Gold] Altın getirilerini elde et. ({2_GoldString})</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_DISRUPT_ROCKETRY">
+			<Text>Bu şehirdeki Uzay Limanı'nı devre dışı bırak.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_RECRUIT_PARTISANS">
+			<Text>Şehir içinde isyancı birlikler oluştur.</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_STEAL_TECH_BOOST">
+			<Text>Bir Teknoloji Sıçraması çal.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGECHOOSER_COUNTERSPY">
+			<Text>{1_District} bölgesini (ve tüm bitişik bölgeleri) düşman casuslarına karşı koru.</Text>
+		</Row>
+		<!-- ==================== EspionagePopup ==================== -->
+		<Row Tag="LOC_ESPIONAGEPOPUP_MISSION_BRIEFING">
+			<Text>GÖREV BİLGİLENDİRMESİ: {1_MissionName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_CURRENT_MISSION">
+			<Text>GÜNCEL GÖREV: {1_MissionName}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_MISSION_OBJECTIVE">
+			<Text>GÖREV AMACI</Text>
+		</Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_MISSION_DETAILS">
+      <Text>GÖREV DETAYLARI</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_MISSION_OUTCOME">
+      <Text>GÖREV SONUCU</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_SUCCESS">
+      <Text>BAŞARILI!</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_FAILURE">
+      <Text>BAŞARISIZLIK</Text>
+    </Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_MISSION_DURATION">
+			<Text>GÖREV SÜRESİ</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_TURNS">
+			<Text>{1_NumberOfTurns} {1_NumberOfTurns : plural 1?Tur; other?Tur;}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_TURNS_REMAINING">
+			<Text>{1_RemainingTurns} {1_RemainingTurns : plural 1?tur; other?tur;} kalan</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_POSSIBLE_OUTCOMES">
+			<Text>OLASI SONUÇLAR</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_OUTCOME_DETAILS">
+			<Text>İstihbarat birimimiz aşağıdaki olasılıkları öngörmektedir:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_SUCCESS_OUTCOME_CHANCE">
+			<Text>Görevin başarılı olma şansı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_FAILURE_OUTCOME_CHANCE">
+			<Text>Görevin başarısız olma şansı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_CAPTUREDORKILLED_OUTCOME_CHANCE">
+			<Text>Yakalanma veya öldürülme şansı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_DISCOVERED_WARNING">
+			<Text>FARK EDİLİRSEK {1_TargetName} bize olan saygısını kaybeder</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_TARGET">
+			<Text>HEDEF</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_ACCEPT_MISSION">
+			<Text>GÖREVİ KABUL ET</Text>
+		</Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_RENEW_MISSION">
+      <Text>GÖREVİ YENİLE</Text>
+    </Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_ABORT_MISSION">
+			<Text>GÖREVİ İPTAL ET!</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_CANCEL">
+			<Text>İPTAL</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEPOPUP_GAIN_SOURCES_OUTCOME">
+			<Text>Bu, bu şehirdeki sonraki tüm operasyonlarınızın başarı şansını artıracaktır. Casusunuz için herhangi bir risk bulunmamaktadır.</Text>
+		</Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_SUCCESSBUTTON">
+      <Text>TAMAM</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_FAILUREBUTTON">
+      <Text>ANLIYORUM.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_REWARDS">
+      <Text>ÖDÜLLER</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_PROMOTIONREADY">
+      <Text>{1_NextRank} rütbesine terfi</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_AGENTREADYFORPROMOTION">
+      <Text>Ajan terfiye hazır. Özel bir bonus seçmek için birim eylem düğmesini kullanın. {1_SpyName} ayrıca gelecekteki tüm operasyonlarda artırılmış başarı şansına sahip olacaktır.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_LOOTREWARD_TITLE">
+      <Text>{1_LootName} çalındı</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_LOOTREWARD_DESCRIPTION">
+      <Text>{1_LootName} başarıyla ele geçirildi.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_CONSEQUENCES">
+      <Text>SONUÇLAR</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_RELATIONSHIP_DAMAGED_TITLE">
+      <Text>İlişki Zedelendi</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_RELATIONSHIP_DAMAGED_DESC">
+      <Text>Rakibimiz bize duyduğu saygıyı yitirdi.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_AGENT_CAPTURED_TITLE">
+      <Text>Casus Yakalandı</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_AGENT_CAPTURED_DESC">
+      <Text>{1_AgentName}, {2_CityName} şehrinde yakalandı. Serbest bırakılması için takas yapmayı deneyebilirsiniz.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_AGENT_KILLED_TITLE">
+      <Text>Casus Öldürüldü</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEPOPUP_AGENT_KILLED_DESC">
+      <Text>{1_AgentName}, {2_CityName} şehrinde öldürüldü.</Text>
+    </Row>
+		<!-- ==================== EspionageOverview ==================== -->
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_HEADER">
+			<Text>Casuslar</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_OPERATIVES_SUBHEADER">
+			<Text>CASUSLAR ({1_NumberOfSpies}/{2_SpyCapacity})</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_AWAITING_ASSIGNMENT">
+			<Text>Atama Bekleniyor...</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_MORE_TURNS">
+			<Text>{1_RemainingTurns} {1_RemainingTurns : plural 1?tur; other?tur;} daha</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_HEADER">
+			<Text>Şehir Faaliyeti</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY_ACTIVITY_SUBHEADER">
+			<Text>ŞEHİR FAALİYETİ</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CITY">
+			<Text>Şehir</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_TRANSIT_TO">
+			<Text>{1_DestinationName}'e Seyahat Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED">
+			<Text>Tarafından Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_ASK_FOR_TRADE">
+			<Text>Takas İste</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_TRAVELING">
+			<Text>Seyahat Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NO_GREAT_WORK_TO_STEAL">
+			<Text>Çalınacak Büyük Eser Yok</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NO_TECH_BOOST_TO_STEAL">
+			<Text>Çalınacak Teknoloji Sıçraması Yok</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_HEADER">
+			<Text>Görev Geçmişi</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_MISSION_HISTORY_SUBHEADER">
+			<Text>GÖREV GEÇMİŞİ</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES">
+			<Text>YAKALANAN CASUSLAR:</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_OFFER_TRADE">
+			<Text>Ticaret Teklif Et</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_VIEW_CITY">
+			<Text>Bu şehri haritada görüntüle.</Text>
+		</Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_TURNS_AGO">
+      <Text>{1_RemainingTurns} {1_RemainingTurns : plural 1?tur; other?tur;} önce</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME">
+      <Text>Görev Sonucu:</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_TARGETACQUIRED">
+      <Text>Hedef Edinildi</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_FAILURE">
+      <Text>Başarısızlık</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_SUCCESS">
+      <Text>Başarı</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_SPYCAUGHT">
+      <Text>Casus Yakalandı!</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_SPYKILLED">
+      <Text>Casus Öldürüldü!</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_SPYAPPREHENDED">
+      <Text>Casus Tutuklandı</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_COUNTERSPY">
+      <Text>{1_CityName} şehrinde düşman faaliyetlerini izleme görevi, herhangi bir casus tespit edilmeden tamamlandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_UNDETECTED">
+      <Text>Görev, {1_CityName} şehrinde başarıyla tamamlandı ve casus fark edilmedi.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_UNDETECTED_STOLELOOT">
+      <Text>{2_CityName} şehrinden {1_LootName} çalındı ve casus fark edilmedi.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_STOLELOOT">
+      <Text>Tespit edilmekten kurtularak {2_CityName} şehrinden {1_LootName} çalındı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_ESCAPED">
+      <Text>Görev, {1_CityName} şehrinde başarıyla tamamlandı ve casus, tespit edilmesine rağmen yakalanmaktan kurtuldu.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_CAPTURED">
+      <Text>Görev, {1_CityName} şehrinde başarıyla tamamlandı ancak casus, tespit edildikten sonra yakalandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_CAPTURED_STOLELOOT">
+      <Text>{2_CityName} şehrinden {1_Loot} çalma görevi başarıyla tamamlandı ancak casus, tespit edildikten sonra yakalandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_KILLED">
+      <Text>Görev, {1_CityName} şehrinde başarıyla tamamlandı ancak casus, tespit edildikten sonra öldürüldü.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_SUCCESS_DETECTED_KILLED_STOLELOOT">
+      <Text>{1_Loot} çalmak için düzenlenen görev {2_CityName} şehrinde başarıyla sonuçlandı ancak casus tespit edildikten sonra hayatını kaybetti.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_UNDETECTED">
+      <Text>{1_CityName} şehrinde görev başarısız oldu ancak casus fark edilmedi.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_UNDETECTED_STOLELOOT">
+      <Text>{1_Loot} çalmak için düzenlenen görev {2_CityName} şehrinde başarısız oldu ancak casus fark edilmedi.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_ESCAPED">
+      <Text>{1_CityName} şehrinde görev başarısız oldu ancak casus tespit edilmesine rağmen yakalanmaktan kurtuldu.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_ESCAPED_STOLELOOT">
+      <Text>{1_Loot} çalmak için düzenlenen görev {2_CityName} şehrinde başarısız oldu ancak casus tespit edilmesine rağmen yakalanmaktan kurtuldu.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_CAPTURED">
+      <Text>{1_CityName} şehrinde görev başarısız oldu ve casus tespit edildikten sonra yakalandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_CAPTURED_STOLELOOT">
+      <Text>{1_Loot} çalmak için düzenlenen görev {2_CityName} şehrinde başarısız oldu ve casus tespit edildikten sonra yakalandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_KILLED">
+      <Text>{1_CityName} şehrinde görev başarısız oldu ve casus tespit edildikten sonra öldürüldü.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_FAILURE_DETECTED_KILLED_STOLELOOT">
+      <Text>{1_Loot} çalmak için düzenlenen görev {2_CityName} şehrinde başarısız oldu ve casus tespit edildikten sonra öldürüldü.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_GOLD">
+      <Text>[ICON_Gold] {1_AmountOfGold} Altın</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_NO_GOLD">
+      <Text>[ICON_Gold] Altın</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED">
+      <Text>{1_CityName} şehrinde bir görev sırasında casus hayatını kaybetti.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_KILLED_STOLELOOT">
+      <Text>{2_CityName} şehrinde {1_Loot} çalma görevi sırasında casus hayatını kaybetti.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_CAPTURED">
+      <Text>{1_CityName} şehrinde bir görev sırasında casus yakalandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_MISSIONOUTCOME_CAPTURED_STOLELOOT">
+      <Text>{2_CityName} şehrinde {1_Loot} çalma görevi sırasında casus yakalandı.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGEOVERVIEW_NOMISSIONHISTORY">
+      <Text>Yakın Tarihli Casusluk Görevi Yok</Text>
+    </Row>
+		<!-- ==================== Speculative text for temporary Captured Spies tab (which would become part of Mission History) ==================== -->
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_HEADER">
+			<Text>Yakalanan Casuslar</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGEOVERVIEW_CAPTURED_SPIES_SUBHEADER">
+			<Text>YAKALANAN CASUSLAR</Text>
+		</Row>
+		<!-- ==================== UnitPanel - Espionage ==================== -->
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_LOCATED_IN">
+			<Text>Konumu:</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_MORE_TURNS">
+			<Text>{1_RemainingTurns} daha {1_RemainingTurns : plural 1?tur; other?tur;}</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_AWAITING_ASSIGNMENT">
+			<Text>Görev Bekleniyor...</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_SPY_RANK">
+			<Text>{1_RankName} (Seviye {2_RankLevel})</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_CANCEL_MISSION">
+			<Text>Görevi İptal Et</Text>
+		</Row>
+		<Row Tag="LOC_UNITPANEL_ESPIONAGE_CHOOSE_MISSION">
+			<Text>Görev Seç</Text>
+		</Row>
+    <Row Tag="LOC_ESPIONAGE_SPY_TRADE_DISABLED_AT_WAR">
+      <Text>[COLOR_RED]{1_SpyName} için ticaret şu an mümkün değil. {2_CivName} ile savaş halindesiniz.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGE_NO_OPERATIVES">
+      <Text>Bir şehrinde bir casus yetiştirerek durumunu buradan gözlemleyebilirsin.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGE_NO_CITIES">
+      <Text>Kendi şehrini kur veya başka bir uygarlığın şehrini keşfederek casusluk faaliyetini buradan gözlemleyebilirsin.</Text>
+    </Row>
+    <Row Tag="LOC_ESPIONAGE_NO_HISTORY">
+      <Text>Casusluk görevleri düzenleyerek görev geçmişini buradan görüntüleyebilirsin.</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

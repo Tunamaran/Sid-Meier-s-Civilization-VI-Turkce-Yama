@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_TITLE">
+			<Text>Tokugawa</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_QUOTE">
+			<Text>Şimdi olduğumdan daha güçlü olabileceğimi düşünüyorum, ama beni bugünlere getiren uzun bir sabırdır. Soyumdan gelenler güçlü olmak istiyorlarsa, sabrı öğrenmelidirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_1">
+			<Text>Tokugawa (soyadı, adı İeyasu) hem savaşta hem de barışta parlak bir stratejisttir. Japonya'nın kaotik Sengoku Dönemi'nin belirleyici galibi ve ardından gelen Edo Dönemi'nin mimarıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_2">
+			<Text>Japon tarihindeki Sengoku Dönemi'nin kaosu efsaneleşmiştir. Ardından gelen Edo Dönemi'nin refah ve barışı içinde samurayların yapacak pek bir şeyi kalmamış, birbirlerini o devrin büyük savaşları, liderleri ve olaylarıyla – ninjalar, generaller, ordular, kuşatmalar ve benzeriyle – ilgili hikâyeler anlatarak eğlendirmişlerdir. Feodal Japonya hakkında hayal ettiklerimizin çoğu, süslenip romantikleştirilmiş bu hikâyelerin bir ürünüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_3">
+			<Text>Sengoku Dönemi, rakip boylar arasında iktidar için yapılan devasa bir savaştı. Zayıf Aşikaga Şogunluğu çökmüş, imparatoru yalnızca bir kukla olarak bırakmış ve daha güçlü bir konum olan şogunluk (İmparator'un askeri koruyucusu) makamını boşta bırakmıştı. Bir asırdan fazla bir süre boyunca rakip daimyo (bölgesel lordlar) ve samuraylar (şövalyeler) bu unvan için savaştı. Kavgaya başka unsurlar da katıldı: Avrupalılar tarafından tüfeklerle donatılmış Hristiyanlar, monarşi karşıtı ikkō-ikki ve ninjalar – bunlar sonuncusu, onur kavramı olmayan, efendilerinin yararına skandal eylemlerde bulunabilen askeri stratejistlerdi. Üç samuray ön plana çıktı: Oda Nobunaga, Toyotomi Hideyoşi ve Tokugawa İeyasu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_4">
+			<Text>Bu liderlerin kişiliklerinin ve motivasyonlarının bir yönünü yansıtan bir hikâye vardır. Üçünün birlikte oturup şarkı söylemeyi reddeden küçük bir kuşa baktığını hayal edin. Oda bir tehditle başlar: “Kuş, eğer şarkı söylemezsen seni öldürürüm.” Hideyoşi manipülasyonu dener: “Kuş, eğer şarkı söylemezsen seni ikna ederim.” Ama üçünün en kurnazı olan Tokugawa sadece şöyle der: “Kuş, ben bekleyebilirim.” Burada sabır ve soğukkanlılık kazanır – ve Japonya için de böyle oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_5">
+			<Text>Oda, “şeytan kral”, namına yakışır bir şekilde yaşadı. Nobunaga, Oda boyunun reisi olarak birliklerini toplayıp Japonya'nın ana adasını silip süpürdü, ikkō-ikki'yi yendi ve Aşikaga Şogunluğu'nu tamamen ortadan kaldırdı. Geriye kalan son engel, güçlü batı boyu Mōri idi; Oda'nın kendi saflarından bir ihanet olmasaydı muhtemelen onlar da yenilmiş olacaktı. Oda, Kyoto'daki bir tapınakta nispeten korumasız bir şekilde çay içerken hain general Akeçi'nin kendisine doğru geldiğini görünce intihar etti. Geleceğin şogunu Tokugawa da ninja (o zamanlar samuray) Hattori Hanzō'nun eşliğinde kaçtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_6">
+			<Text>Toyotomi boyu, Oda'nın bayrağını devralan bir sonraki güç oldu. Eski bir hizmetkâr olan Toyotomi Hideyoşi bayrağı aldı ve geçici bir kontrol sağladı. Nitekim Japon kuvvetleri Kore'yi ele geçirmeye ilk kez Hideyoşi döneminde kalkıştı – ve bu son sefer olmayacaktı. Ama en büyük krallar bile ölür ve Hideyoşi, denizaşırı yayılmaya odaklanmışken hazineyi tüketmişti. Boy sadıkları ile Oda'nın bölgesel bir vasal boyundan oluşan yeni Tokugawa boyu arasında bir veraset krizi çıktı. Dönüm noktası olan Sekigahara Muharebesi'nde Tokugawa üstünlük sağladı ve parçaları birleştirmeye koyuldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_7">
+			<Text>Japonya berbat bir durumdaydı. Yeni fikirler akın ediyordu – cumhuriyetçilik (burada halkın yönetimi anlamında) ve Hristiyanlık. Silahlar ve Avrupa ticareti de bir sorun teşkil ediyordu. Tokugawa, sakoku'yu – tecridi – uygulayarak bunu tek başına durdurdu. Japonya'nın sınırları Nagazaki dışında kapatılacaktı. Bu hem yeni Tokugawa Şogunluğu'na yönelik yeni ve tehlikeli meydan okumaların akışını sonlandıracak, hem de Hideyoşi'nin mali sıkıntılarına yol açan türden dış maceralara bir son verecekti. Sakoku… Japonya için felaket olmadı. Yerel üretim gelişti ve Edo Dönemi olarak bilinen dönemde (Edo şogunluğun merkeziydi) Japonya barış ve refah yaşadı… ve komşuları artık kıyılarında samurayların belirmesinden endişe etmek zorunda kalmadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_8">
+			<Text>Buradaki kontrol sistemi acımasızdı. Hâlâ soylular vardı, ancak Tokugawa onları kontrol etmek için dâhiyane bir stratejiye sahipti. Soylular kendi eyaletlerini yönetirken aileleri Edo'da bir tür rehine olarak kalıyordu. Bu, herhangi bir isyanın, isyancının ailesine basit bir tehditle hemen bastırılabileceği ve aynı zamanda Edo'da saray yaşamının gelişmesi anlamına geliyordu. Canı sıkılan ama zengin samuraylar hikâyeler anlatıyor, potansiyel savaşçılar toprak yerine onur için düellolar yapıyordu. Ünlü ukiyo-e, yani eğlencenin “yüzen dünyası” ve onunla bağlantılı sanatçı ve yazarlar gelişti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_HISTORY_PARA_9">
+			<Text>Bu durum 1800'lerde, ticaret talep eden Amerikan gemilerinin gelişiyle (ve önemli ölçüde gitmekle tehdit etmeleriyle) çatırdamaya başladı. Japonya, dünyanın onlarsız geliştiğini ve silahların, topların oldukça tehlikeli hale geldiğini fark etti. Açılış travmatik olsa da ve ardından gelen Meiji Dönemi, Japonya'nın feodal sisteminin büyük kısmını ortadan kaldırsa da, Meiji'nin birkaç on yıl içinde dünyanın en güçlü devletlerinden bazılarıyla mücadele edip onları yenmesini sağlayacak altyapı zaten mevcuttu. Ama bu başka bir zamanın hikâyesidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_CAPSULE_BODY">
+			<Text>Tokugawa yönetimindeki Japonya, çok sayıda Yurt İçi [ICON_TradeRoute] Ticaret Yolu ve bölge oluşturarak kendini izole etmeyi sever.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOKUGAWA_CHAPTER_DETAILED_BODY">
+			<Text>Meiji Restorasyonu yeteneği, Japonya'nın bölgelerine büyük komşuluk bonusları verir. Bölgeler ayrıca Tokugawa'nın yeteneği sayesinde [ICON_Capital] Başkent'e yakın bir şehirdeyse +1 [ICON_Tourism] Turizm alır. Yeteneği ayrıca her bölge için Yurt İçi [ICON_TradeRoute] Ticaret Yolu getirilerini büyük ölçüde artırır. Ancak Uluslararası [ICON_TradeRoute] Ticaret Yolları'nın çok daha zayıf olduğunu unutmayın. Elektronik Fabrikası, onu Kültür veya Bilim Zaferi'ne doğru yönlendirecektir.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_TITLE">
+			<Text>Nadir Şah</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_QUOTE">
+			<Text>Cennette savaş yoksa, orada nasıl herhangi bir zevk olabilir?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_HISTORY_PARA_1">
+			<Text>Nadir Şah, Kralların Kralı, Şahların Şahı, 18. yüzyılda Orta Asya'da Pers'i (Yunancada böyle anılır, yerel halk devletine her zaman İran demiştir) yeniden kurmak için ortaya çıktı. Yükselişi acımasız ama kararlıydı; İran'ı Osmanlı egemenliğinden kurtarıp bağımsızlığını kazandırdı. Cengiz Han'dan Timur'a uzanan bir zincirde Nadir Şah son halkadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_HISTORY_PARA_2">
+			<Text>Safevi İran'ı, 1500'lerde ortaya çıkan ve Sünni kontrolündeki bir bölgenin ve aynı zamanda güçlü ve kalıcı Hristiyan etkilerine sahip bir alanın ortasında bir Şii kalesi olarak 200 yıl hüküm süren güçlü bir devletti. Ancak Safeviler, Orta Asya savaş ağalarının eski tehditlerini kontrol altında tutabilseler de, iki yandan baskı yapan Osmanlıların ve Rusya'nın yükselişini kontrol edemediler. Ayrıca, Avrupa deniz ticareti ağlarının büyümesi, Orta Asya devletleri için hayati bir gelir kaynağını kesti – erken sömürgeciliğin amacı buydu, Çin ile ticarette aracıları ortadan kaldırmak. İflas eden Safevilerin çöküşü her cepheden geldi – Rusya, Türkiye ve nihayet yükselen bir Afgan gücünden.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_HISTORY_PARA_3">
+			<Text>Nadir bir köleydi, Türkçe konuşan bir göçebeydi ve askeri becerisiyle ün kazandı. Safeviler çöktüğünde Nadir tüfeğini alıp isyana girişti. Önce Afganları yendi, sonra Osmanlılara ve Ruslara yöneldi. Osmanlı generalini öldürüp Rusya ile bir barış antlaşması imzaladıktan sonra Nadir kendini Şah ilan etti. Burada, kişisel putları olan Timur ve Cengiz Han'ı yankıladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_HISTORY_PARA_4">
+			<Text>Safeviler münhasıran bir Şii grupken, Nadir yönetiminde İran çok dinli ve daha hoşgörülü hale geldi. Bu, bir çıkmaza girdikleri Sünni Osmanlılar için bir pazarlık noktasıydı ve Nadir Şah onlarla daha yakın ilişkiler aradı. Dini hoşgörü kısmen kendi geçmişinden kaynaklanıyordu – eski bir köle ve o zamanki askeri komutan olarak dinle pek ilgilenmiyordu ve kendi hayatında uygun olduğu gibi Sünnilik ile Şiilik arasında gidip geliyordu. Rahiplere yatırım yapmaktansa orduya yatırım yapmak daha iyiydi, çünkü ordu barışı güvence altına alırdı. İmparatorluğun başka yerlerinde Nadir Şah, Babür rupisine sabitlenmiş standart bir para sistemi oluşturdu ve bölgedeki göçebe kabileleri yeniden yerleştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_HISTORY_PARA_5">
+			<Text>Nadir, hükümdarlığını sağlamlaştırdıktan sonra Orta Asya'da bir terör saltanatına girişti. Hindistan'ı işgal etti ve Delhi'yi ele geçirdi, çünkü Babürler zayıflamıştı – önümüzdeki on yıllarda, Britanyalılar Bengal üzerinden işgal ederken daha da zayıflayacaklardı. Tavus Kuşu Tahtı'nı ele geçirdi ve onu elinde tutamasa da işgali o diyarın zenginliklerini yağmalamak için kullandı. Sefer, Nadir'in alametifarikası olan askeri zekâsıyla damgasını vurdu; askerlerini hem stratejik olarak diyarda hem de taktiksel olarak savaş alanında düşmanı kuşatmaya zorladı. Osmanlı'nın Arabistan topraklarına yönelik daha sonraki seferler de aynı derecede başarılıydı, ancak neredeyse o kadar cesur değildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_HISTORY_PARA_6">
+			<Text>Hayatının sonlarına doğru Nadir Şah giderek dengesizleşti. Kendi oğlunun gözlerine mil çekilmesini emretti, ardından pişman oldu. Düşmanlarının kafataslarından kuleler inşa ettirdi. Fetihlerinin sonunda dünyanın en zengin adamıydı. Ancak birçok düşman edinmişti – yeğeni de dahil olmak üzere komplocular tarafından suikasta uğradı ve imparatorluk çöktü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_CAPSULE_BODY">
+			<Text>Nadir Şah'ın tam cana sahip birimlere karşı savaş bonusuyla rakip Uygarlıklarla savaşın ve İran'ın Yurt İçi [ICON_TradeRoute] Ticaret Yollarından gelen zenginliğin tadını çıkarın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NADER_SHAH_CHAPTER_DETAILED_BODY">
+			<Text>Nadir Şah, daha başlangıçtan itibaren Demir İşçiliği ve Politik Felsefe'ye yönelmelidir. Demir İşçiliği ona güçlü Ölümsüzlerine erişim sağlar. Bu Ölümsüzler, Menzilli Saldırıları ve tam cana sahip rakiplere karşı +5 [ICON_Strength] Muharebe Gücü ile düşmanlarını ezip geçebilir. Politik Felsefe'ye giden yolda Dış Ticaret ve Erken İmparatorluk'u açacaksınız. Bunlardan ilki olan Dış Ticaret, hem Nadir Şah'ın hem de İran'ın yeteneklerinden fayda sağlayan [ICON_TradeRoute] Ticaret Yollarına erişim sağlar. Dış Ticaret'in ardından [ICON_Gold] Altın ve [ICON_Culture] Kültür için harika olan Pairidaeza iyileştirmesini açacaksınız. Politik Felsefe'yi açtığınızda ise ödülünüz fazladan bir [ICON_TradeRoute] Ticaret Yolu olacaktır. İran'ın en iyi olduğu iki zafer, Pairidaezalarıyla Kültür veya Ölümsüzleriyle Hakimiyet'tir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SULEIMAN_TITLE">
+			<Text>Süleyman (Kanuni)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SULEIMAN_ALT_TITLE">
+			<Text>Süleyman (Muhteşem)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SULEIMAN_ALT_QUOTE">
+			<Text>Yoldaşım, her şeyim, parlak ayım.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SULEIMAN_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>Süleyman, Osmanlı'nın Altın Çağı'nı artan [ICON_Science] Bilim ve [ICON_CULTURE] Kültür ile kutlar. Eğer bir Karanlık Çağ'a düşerse rakipleri tetikte olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SULEIMAN_ALT_CHAPTER_DETAILED_BODY">
+			<Text>Süleyman'ın stratejisi, Altın Çağ'da mı yoksa Karanlık Çağ'da mı olduğuna bağlıdır. Bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ'dayken +%15 [ICON_Science] Bilim ve [ICON_CULTURE] Kültür kazanır, bu nedenle imparatorluğunuzu ilerletmeye ve aydınlatmaya odaklanın. Karanlık veya Normal bir Çağ'a düştüğünde ise [ICON_GLORY_GOLDEN_AGE] Altın Çağ'da olmayan diğer uygarlıklara karşı +4 [ICON_Strength] Muharebe Gücü'nü kullanın. Kuşatma savaşındaki bonusları, düşmanlarını fethetmek için ek bir itici güç sağlar. Kapalıçarşı, büyüyen bir imparatorluğa fazladan [ICON_Amenities] Olanaklar, [Icon_Gold] Altın ve Stratejik Kaynaklar sağlayarak Osmanlı'ya istikrar ve refah getirir. Berberi Korsanlarını su yollarının kontrolünü elinde tutmak için kullanın. Osmanlılar çoğunlukla Hakimiyet Zaferlerine yöneliktir, ancak yeterince Altın Çağ'ı arka arkaya yakalarlarsa bunun yerine bir Bilim Zaferi elde edebilirler.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

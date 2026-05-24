@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_BILLIONAIRE_NAME">
+			<Text>Milyarder</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CHEOMSEONGDAE_NAME">
+			<Text>Cheomseongdae</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME">
+			<Text>İskoçya'nın Çiçeği</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HORSE_LORD_NAME">
+			<Text>At Lordu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HORN_CHEST_LOINS_NAME">
+			<Text>Boynuz, Göğüs, Böğür</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CONFEDERACY_NAME">
+			<Text>Demir Konfederasyonu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MAURYA_EMPIRE_NAME">
+			<Text>Maurya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NARIKALA_FORTRESS_NAME">
+			<Text>Narikala Kalesi</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
+			<Text>Tucapel Ruhu</Text>
+		</Row>
+
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Ticaret Yollarını azami seviyeye çıkarmaya çalışır. Kendisiyle ticaret yapan uygarlıkları sever, yapmayanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
+			<Text>[ICON_Science] Bilimi geliştirmeye çalışır ve yine [ICON_Science] Bilime odaklanan uygarlıkları sever. Düşük [ICON_Science] Bilime sahip olanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
+			<Text>Kendisine verdikleri sözü bozmadıkça komşularına saldırmaz. Komşularıyla savaşmayan uygarlıkları sever, savaşanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
+			<Text>Dünyanın en baskın süvari gücünü kurmak ister. Süvari alanında rekabet etmeyenleri sever. Süvari gücünde kendisine rakip olanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
+			<Text>Mümkün olduğunca çok sayıda kolordu ve ordu kullanmaya çalışır ve onun liderliğini izleyen uygarlıklara saygı duyar. Kolordu oluşturamayan veya kullanmayan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
+			<Text>Birden fazla ittifak kurmaya çalışır ve aynısını yapanlara saygı duyar. Az sayıda ittifaka sahip olanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
+			<Text>Komşu uygarlıkları fethetmeye çalışır ve henüz komşusu olmayan uygarlıkları sever. Komşularından hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
+			<Text>Şehirlerinin etrafına yüksek seviye surlar inşa etmeye çalışır ve onun yolunu izleyen uygarlıklara saygı duyar. Şehirlerini tahkim etmeyen uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
+			<Text>Yüksek düzeyde bir kültürel bağlılık yaratmaya ve sürdürmeye çalışır. Halkının bağlılığını sağlayamayarak şehir kaybeden uygarlıklardan hoşlanmaz, bağlılık yoluyla şehir kazananları sever.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

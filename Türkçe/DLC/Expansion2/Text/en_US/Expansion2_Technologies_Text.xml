@@ -1,0 +1,113 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_TECH_BUTTRESS_NAME">
+			<Text>Payanda</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REFINING_NAME">
+			<Text>Rafinaj</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Ek bir Casus inşa etme yeteneği kazandırır. İmparatorluğunuz genelinde [ICON_Tourism] Turizm %25 artar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SEASTEADS_NAME">
+			<Text>Deniz Yerleşkeleri</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SEASTEADS_DESCRIPTION">
+			<Text>1 Diplomatik Zafer puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_AI_NAME">
+			<Text>Gelişmiş Yapay Zeka</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_AI_DESCRIPTION">
+			<Text>Dev Ölüm Robotu yükseltmesini açar: İnsansız Hava Savunması[NEWLINE]+100 [ICON_AntiAir_Large] Hava Savunma Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_POWER_CELLS_NAME">
+			<Text>Gelişmiş Güç Hücreleri</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_POWER_CELLS_DESCRIPTION">
+			<Text>Birimlerden kaynaklanan CO2 emisyonları %50 azalır. Dev Ölüm Robotu yükseltmesini açar: Parçacık Demeti Kuşatma Topu[NEWLINE]Şehirlere ve Ordugahlara yönelik menzilli saldırılar %100 etkili olur ve +30 [ICON_Ranged] Menzil Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CYBERNETICS_NAME">
+			<Text>Sibernetik</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CYBERNETICS_DESCRIPTION">
+			<Text>Dev Ölüm Robotu yükseltmesini açar: Gelişmiş Hareket Kabiliyeti[NEWLINE]+3 [ICON_Movement] Hareket. Dağlık arazinin üzerinden geçmek için Sıçrama eylemi gerçekleştirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SMART_MATERIALS_NAME">
+			<Text>Akıllı Malzemeler</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SMART_MATERIALS_DESCRIPTION">
+			<Text>Dev Ölüm Robotu yükseltmesini açar: Güçlendirilmiş Zırh Kaplaması[NEWLINE]Kara ve deniz birimlerine karşı savunma yaparken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PREDICTIVE_SYSTEMS_NAME">
+			<Text>Tahmin Sistemleri</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PREDICTIVE_SYSTEMS_DESCRIPTION">
+			<Text>Taş Ocağı, Petrol Kuyusu ve Petrol Platformu iyileştirmelerine +1 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_OFFWORLD_MISSION_NAME">
+			<Text>Dünya Dışı Görev</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_XP2_DESCRIPTION">
+			<Text>Birden çok kez tamamlanabilir ve her tamamlanışında Puan Zaferi'ne yönelik puanlarınızı artırır. Ayrıca, her tamamlanışında tüm şehirlerinize şehir projelerinde +%5 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>1 Petrol Santrali inşa et</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BUTTRESS">
+			<Text>Klasik Çağ veya sonrasına ait bir Harika inşa et</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BUTTRESS">
+			<Text>Artık klasik dünyanın bir harikasını tamamladığına göre, mimarların sırada ne inşa edecek?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REFINING">
+			<Text>1 Kömür Santrali inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REFINING">
+			<Text>Ulusun artık enerjiye kavuştu. Ancak bilim insanların şimdiden alternatif enerji kaynakları geliştirmek için var güçleriyle çalışıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Doğasında 6 politika yuvası bulunan bir hükümet benimse.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Doğasında 8 politika yuvası bulunan bir hükümet benimse.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL_NO_GREAT_SCIENTIST">
+			<Text>Casus aracılığıyla Hızlandırma.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT_XP2">
+			<Text>2 Çift Kanatlı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY_XP2">
+			<Text>2 Korsan'a sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION_XP2">
+			<Text>2 Atölye inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LASERS_XP2">
+			<Text>2 Drone inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_LASERS_XP2">
+			<Text>Dronelarımız havadayken, ışığı rafine etmek ve odaklamak giderek daha önemli hale geliyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NUCLEAR_FUSION_XP2">
+			<Text>Bir Nükleer Santral inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_FUSION_XP2">
+			<Text>Atomu parçaladık, şimdi onları birbirine çarpıştıralım!</Text>
+		</Row>
+		<!--Updates-->
+		<Row Tag="LOC_TECH_GUNPOWDER_DESCRIPTION">
+			<Text>Taş Ocakları iyileştirmeleri +1 [ICON_Production] Üretim kazanır. Süleyman (Kanuni) için bir [ICON_GOVERNOR] Vali unvanının kilidini açar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Çiftlik iyileştirmelerini Mekanize Tarım'a yükseltir. Komşu oldukları her bir Çiftlik iyileştirmesi için +1 [ICON_Food] Besin Komşuluk bonusu sağlar. Mera iyileştirmeleri +1 [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>Mera iyileştirmeleri +1 [ICON_Food] Besin kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>Kamplara +2 [ICON_Gold] Altın.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

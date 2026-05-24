@@ -1,0 +1,130 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MATTHEW_PERRY_NAME">
+			<Text>Matthew Perry</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_NAME">
+			<Text>Himerios</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_NAME">
+			<Text>Denizci Hanno</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAMAL_UD_DIN_BEHZAD_NAME">
+			<Text>Kemâlüddin Behzad</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HASEGAWA_TOHAKU_NAME">
+			<Text>Hasegawa Tōhaku</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_WASSILY_KANDINSKY_NAME">
+			<Text>Vasili Kandinski</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEPI_NAME">
+			<Text>İmhotep</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SHAH_JAHAN_NAME">
+			<Text>Şah Cihan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KENZO_TANGE_NAME">
+			<Text>Kenzo Tange</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_NAME">
+			<Text>Dandara</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_NAME">
+			<Text>Trung Trac</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_NAME">
+			<Text>Tupac Amaru</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHOU_DAGUAN_NAME">
+			<Text>Zhou Daguan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_FADLAN_NAME">
+			<Text>İbn Fadlan</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STAMFORD_RAFFLES_NAME">
+			<Text>Stamford Raffles</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ZHANG_HENG_NAME">
+			<Text>Zhang Heng</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_NAME">
+			<Text>İbn Haldun</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARGARET_MEAD_NAME">
+			<Text>Margaret Mead</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DIMITRIE_CANTEMIR_NAME">
+			<Text>Dimitrie Cantemir</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SCOTT_JOPLIN_NAME">
+			<Text>Scott Joplin</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_VALMIKIY_NAME">
+			<Text>Valmiki</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_RUMI_NAME">
+			<Text>Rumi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BEATRIX_POTTER_NAME">
+			<Text>Beatrix Potter</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GABRIELA_MISTRAL_NAME">
+			<Text>Gabriela Mistral</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_DANDARA_ACTIVE">
+			<Text>1 terfi ile bir Savaşçı Keşiş verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TRUNG_TRAC_PERMANENT_ACTIVE">
+			<Text>İmparatorluğunuzun Savaş Yorgunluğunu kalıcı olarak %25 azaltır.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TUPAC_AMARU_ACTIVE">
+			<Text>Hedef şehrin savunmasız Bölgelerine bir Tüfekçi verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BOOST_OR_GRANT_MATHEMATICS">
+			<Text>[ICON_TechBoosted] Göksel Seyrüsefer, Matematik ve Mühendislik için Buluş tetikler. Zaten tetiklenmişlerse, teknolojiyi tamamlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IBN_KHALDUN_CAMPUS_HOUSING">
+			<Text>Seçilen Kampüs 2 [ICON_Housing] Konut ve 1 [ICON_AMENITIES] Olanak kazanır. İmparatorluğunuzdaki Mutluluğun [ICON_Food]Besin dışı getiri faydalarını %40 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_GRANT_LOTSO_SCIENCE">
+			<Text>1000 [ICON_SCIENCE] Bilim ve [ICON_CULTURE] Kültür verir (Standart hızda).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_STATE_STEAL_ENVOYS">
+			<Text>Bu Şehir Devletinde Süzeren olmak için yeterli [ICON_ENVOY] Elçi verir. Ardından diğer tüm oyuncuların [ICON_ENVOY] Elçilerini kaldırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIMERIOS_ACTIVE">
+			<Text>Bir askeri deniz birliğine 1 terfi seviyesi ve +%25 muharebe tecrübesi verir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HIMERIOS_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>Muharebeden kazanılan tecrübede +%25. (Himerios)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HANNO_THE_NAVIGATOR_FREE_UNIT">
+			<Text>+2 [ICON_Movement] Hareket ile bir deniz yakın dövüş birliği oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_IMHOTEP_PRODUCTION_ANCIENT_CLASSICAL">
+			<Text>Harika inşasına yönelik 175 [ICON_Production] Üretim verir; Harika Antik veya Klasik Çağ'dan ise iki katına çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WONDER_PURCHASE">
+			<Text>Harika inşasına yönelik [ICON_Production] Üretim verir, mevcut hazinenizin yarısı ile sınırlıdır. Ardından [ICON_Gold] Altınınızı satın alınan [ICON_Production] Üretim miktarının iki katı kadar azaltır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DISTRICT_SCIENCE_ADJACENCY_AS_TOURISM">
+			<Text>Bu şehrin her Bölgesine, komşuluk bonusuna eşit [ICON_Tourism] Turizm verir ([ICON_Gold] Altın için yarılanır).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GAIN_THREE_ENVOYS_HERE">
+			<Text>Bu Şehir Devletinde 3 [ICON_ENVOY] Elçi verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HAVE_A_FREE_TRADE_ROUTE">
+			<Text>[ICON_TradeRoute] Ticaret Yolu kapasitesini 1 artırır. Şehir Devletlerine giden [ICON_TradeRoute] Ticaret Yollarınız artık size +2 [ICON_Faith] İnanç kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_EXPANSIONS">
+			<Text>Bu Şehir Devletini imparatorluğunuza ilhak eder. Şehirde tur başına +10 Bağlılık kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_STATE_ABSORB_BASE_GAME">
+			<Text>Bu şehir devletini imparatorluğunun topraklarına katar.</Text>
+		</Row>
+		<Row Tag ="LOC_GREATPERSON_IGNORE_CLOSED_BORDERS">
+			<Text>This Great Person ignores closed borders.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

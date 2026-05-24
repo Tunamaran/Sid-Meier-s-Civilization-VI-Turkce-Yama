@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- OVERRIDES-->
+		<Row Tag="LOC_UI_RELIGION_WORKING_TOWARDS_RELIGION">
+			<Text>Dinim</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_EARN_PROPHET">
+			<Text>Din iniz bir Panteon İnancı ile başlar. Şu Yönetim Bilimlerinin her birini tamamladığınızda dininize bir İnanç daha ekleyin: Mumyalama, Ölüler Kitabı ve Amun: Tüm Tanrıların Efendisi.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
+			<Text>Bu senaryoda [COLOR:NeutralCS]PUAN[ENDCOLOR] zaferi gerçekleşemez. Puanlar yalnızca, Amun'a 7 Tapınak inşa ettiğiniz anda zafer seviyesini belirlemek için takip edilir.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Kutsal Alan bölgesinde +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Kutsal Alan bölgesinde ek +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Kutsal Alan bölgesinde +2 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Kutsal Alan bölgesinde ek +2 [ICON_Science] Bilim.</Text>
+		</Row>
+		<!-- Beliefs-->
+		<Row Tag="LOC_BELIEF_NUN_NAME">
+			<Text>Suların Uçurumu Tanrısı (Nun)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ATUM_NAME">
+			<Text>Yaratılış Tanrısı (Atum)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_AMON_NAME">
+			<Text>Tüm Tanrıların Efendisi (Amun)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ISIS_NAME">
+			<Text>Bereket Tanrıçası (İsis)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_APEDEMAK_NAME">
+			<Text>Savaş Tanrısı (Apedemak)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ANUBIS_NAME">
+			<Text>Mumyalama Tanrısı (Anubis)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HORUS_NAME">
+			<Text>Firavunların Koruyucusu (Horus)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SEBIUMEKER_NAME">
+			<Text>Koruyucu Tanrı (Sebiumeker)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BES_NAME">
+			<Text>Ev Tanrısı (Bes)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ASH_NAME">
+			<Text>Vahaların Tanrısı (Ash)</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_NUN_DESCRIPTION">
+			<Text>Balıkçı Teknelerinden +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ATUM_DESCRIPTION">
+			<Text>Tüm İşçiler 1 ek iyileştirme inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_AMON_DESCRIPTION">
+			<Text>Harikalara yönelik Üretim %30 [ICON_Production] artar. [ICON_Faith] İnançla satın alma maliyetleri %30 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ISIS_DESCRIPTION">
+			<Text>Şehir büyüme hızı %15 daha yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_APEDEMAK_DESCRIPTION">
+			<Text>Muharebe zaferleri, mağlup edilen birimin [ICON_Strength] Muharebe Gücü'nün %50'si kadar [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ANUBIS_DESCRIPTION">
+			<Text>Tüm Kutsal Alan binaları +2 [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_HORUS_DESCRIPTION">
+			<Text>Herhangi bir hükümette bir adet fazladan Joker Politika Yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SEBIUMEKER_DESCRIPTION">
+			<Text>Muharebe birimleri, dost şehirlerin sınırları içindeyken +10 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_BES_DESCRIPTION">
+			<Text>Tüm dost şehirler +1 [ICON_Amenities] Olanak alır.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ASH_DESCRIPTION">
+			<Text>Vaha bölgelerinde +3 [ICON_Culture] Kültür, +3 [ICON_Faith] İnanç ve +2 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SEBIUMEKER_DESCRIPTION">
+			<Text>+{1_Value} Koruyucu Tanrı (Sebiumeker) İnancı</Text>
+		</Row>
+		<!-- Buildings-->
+		<Row Tag="LOC_BUILDING_OBELISK_NAME">
+			<Text>Dikilitaş</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUBIAN_SHRINE_NAME">
+			<Text>Mabet</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_AMUN_NAME">
+			<Text>Amun Tapınağı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NILOMETER_NAME">
+			<Text>Nilometre</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NILOMETER_DESCRIPTION">
+			<Text>+1 [ICON_Food] Besin ve +1 [ICON_Production] Üretim tüm Taşkın Yatağı bölgelerinde. Yalnızca bir Nil Nehri bölgesine bitişik bir şehirde inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUBIA_SCENARIO_WALLS_DESCRIPTION">
+			<Text>Şehir Merkezi ve Ordugâh Bölgesi etrafında Surlar sağlar. Surlar, Şehir Merkezi ve Ordugâh Bölgesi'nden [ICON_Ranged] Menzilli Saldırı yapılmasına olanak tanır ve bir şehre saldırılabilmesi için önce surların düşürülmesi gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUBIA_SCENARIO_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Tüm Antik ve Klasik Çağ teknolojilerine hızlandırma sağlar. Düz arazide inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUBIA_SCENARIO_GREAT_LIGHTHOUSE_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Hareket tüm deniz birimleri için[NEWLINE][NEWLINE]Kıyıda, karaya ve bir Deniz Feneri bulunan Liman Bölgesi'ne bitişik olarak inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_NUBIA_SCENARIO_PYRAMIDS_DESCRIPTION">
+			<Text>Senaryo başlamadan önce Giza'da, On şehir devletinin yakınındaki bir alanda önceden inşa edilmiştir. Ele geçirildiğinde büyük miktarda İnanç kaynağı sağlar ve tüm yeni İşçilere 1 adet fazladan iyileştirme inşa etme yeteneği kazandırır.</Text>
+		</Row>
+		<!-- City State-->
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ASHMUNEIN">
+			<Text>Ashmunein</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BAHARIYA">
+			<Text>Bahariya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_BYBLOS">
+			<Text>Biblos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_DAKHLA">
+			<Text>Dakhla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_IHNASIYA">
+			<Text>Ihnasiya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_IREM">
+			<Text>Irem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_KHARGA">
+			<Text>Kharga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_NEKHEN">
+			<Text>Nekhen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_ON">
+			<Text>On</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PUNT">
+			<Text>Punt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SHARUHEN">
+			<Text>Sharuhen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_SERABIT_EL_KHADIM">
+			<Text>Serabit el-Khadim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_THINIS">
+			<Text>Thinis</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASHMUNEIN_DESCRIPTION">
+			<Text>Ashmunein Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BAHARIYA_DESCRIPTION">
+			<Text>Bahariya Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BYBLOS_DESCRIPTION">
+			<Text>Byblos Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DAKHLA_DESCRIPTION">
+			<Text>Dakhla Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_IHNASIYA_DESCRIPTION">
+			<Text>Ihnasiya Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_IREM_DESCRIPTION">
+			<Text>Irem Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_KHARGA_DESCRIPTION">
+			<Text>Kharga Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_NEKHEN_DESCRIPTION">
+			<Text>Nekhen Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ON_DESCRIPTION">
+			<Text>On Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PUNT_DESCRIPTION">
+			<Text>Punt Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SHARUHEN_DESCRIPTION">
+			<Text>Sharuhen Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SERABIT_EL_KHADIM_DESCRIPTION">
+			<Text>Serabit el-Khadim Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_THINIS_DESCRIPTION">
+			<Text>Thinis Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_IREM_NAME">
+			<Text>Irem Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_BYBLOS_NAME">
+			<Text>Byblos Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_SERABIT_NAME">
+			<Text>Serabit el-Khadim Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_OASES_NAME">
+			<Text>Çöl Vahası Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_PUNT_NAME">
+			<Text>Punt Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NONE_NAME">
+			<Text>Süzeren Bonusu Yok</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NONE_DESCRIPTION">
+			<Text>Bu şehir devletinin süzereni olmanın herhangi bir eşsiz bonusu bulunmamaktadır.</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_HYKSOS_DESCRIPTION">
+			<Text>Hiksos İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_LIBYANS_DESCRIPTION">
+			<Text>Libya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASSYRIA_DESCRIPTION">
+			<Text>Asur İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PERSIA_DESCRIPTION">
+			<Text>Pers İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_MACEDON_DESCRIPTION">
+			<Text>Makedon İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_HYKSOS_ADJECTIVE">
+			<Text>Hiksos</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_LIBYANS_ADJECTIVE">
+			<Text>Libya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_ASSYRIA_ADJECTIVE">
+			<Text>Asur</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PERSIA_ADJECTIVE">
+			<Text>Pers</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_MACEDON_ADJECTIVE">
+			<Text>Makedon</Text>
+		</Row>
+		<!-- Civics-->
+		<Row Tag="LOC_CIVIC_ROYAL_DYNASTIES_NAME">
+			<Text>Kraliyet Hanedanları</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HIEROGLYPHICS_NAME">
+			<Text>Hiyeroglifler</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MUMMIFICATION_NAME">
+			<Text>Mumyalama</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCRIBES_NAME">
+			<Text>Kâtipler</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOK_OF_THE_DEAD_NAME">
+			<Text>Ölüler Kitabı</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INSTITUTION_OF_THE_MUSES_NAME">
+			<Text>İlham Perileri Kurumu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SEPATS_NAME">
+			<Text>Sepatlar</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOARDGAMES_ATHLETICS_NAME">
+			<Text>Masa Oyunları ve Atletizm</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AMUN_LORD_OF_ALL_GODS_NAME">
+			<Text>Amun: Tüm Tanrıların Efendisi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ROYAL_DYNASTIES_DESCRIPTION">
+			<Text>Tamamlandığında [ICON_Capital] Başkentinizde bedava bir Yerleşimci kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HIEROGLYPHICS_DESCRIPTION">
+			<Text>1 [ICON_Envoy] Elçi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MUMMIFICATION_DESCRIPTION">
+			<Text>Dinize bir İnanç eklemenizi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUBIA_SCENARIO_STATE_WORKFORCE_DESCRIPTION">
+			<Text>Tamamlandığında [ICON_Capital] Başkentinizde bedava bir Yerleşimci kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUBIA_SCENARIO_FOREIGN_TRADE_DESCRIPTION">
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu daha oluşturmanıza olanak tanır. 1 [ICON_Envoy] Elçi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCRIBES_DESCRIPTION">
+			<Text>1 [ICON_Envoy] Elçi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOK_OF_THE_DEAD_DESCRIPTION">
+			<Text>Dinize bir İnanç eklemenizi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INSTITUTION_OF_THE_MUSES_DESCRIPTION">
+			<Text>1 [ICON_Envoy] Elçi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SEPATS_DESCRIPTION">
+			<Text>Tamamlandığında [ICON_Capital] Başkentinizde bedava bir Yerleşimci kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOARDGAMES_ATHLETICS_DESCRIPTION">
+			<Text>Tamamlandığında [ICON_Capital] Başkentinizde bedava bir [ICON_GreatGeneral] Büyük General kazanırsınız. Tüm muharebe birimlerine kanatlama ve destek muharebe bonusları sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_AMUN_LORD_OF_ALL_GODS_DESCRIPTION">
+			<Text>Dinize bir İnanç eklemenizi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUBIA_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+			<Text>Birden çok kez tamamlanabilir.</Text>
+		</Row>
+		<!-- Districts-->
+		<Row Tag="LOC_DISTRICT_NUBIA_SCENARIO_HARBOR_DESCRIPTION">
+			<Text>Şehrinde deniz faaliyetleri için bir bölge. Bu bölgeye çıkarma ve bu bölgeden denize açılma sırasında [ICON_Movement] Hareket cezasını kaldırır. Kıyı, Nil Nehri veya Göl Arazisi üzerine ve karaya bitişik inşa edilmelidir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NILE_RIVER_FAITH">
+			<Text>+{1_num} [ICON_Faith] İnanç, bitişik Nil Nehri {1_Num : plural 1?bölgesinden; other?bölgelerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NILE_RIVER_GOLD">
+			<Text>+{1_num} [ICON_Gold] Altın, bitişik Nil Nehri {1_Num : plural 1?bölgesinden; other?bölgelerinden;}.</Text>
+		</Row>
+		<!-- Governments-->
+		<Row Tag="LOC_GOVERNMENT_KANDAKE_NAME">
+			<Text>Kandake</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_PHARAOH_NAME">
+			<Text>Firavun</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_KANDAKE">
+			<Text>+1 [ICON_TradeRoute] Ticaret Yolu.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_PHARAOH">
+			<Text>[ICON_Capital] Başkent, tüm getirilerde +2 artış alır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATING_BONUS_KANDAKE">
+			<Text>[ICON_Gold] Altın ile yapılan satın almalarda %15 indirim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATING_BONUS_PHARAOH">
+			<Text>Kutsal Alan bulunan her şehirde +2 [ICON_Housing] Konut.</Text>
+		</Row>
+		<!-- Great People-->
+		<Row Tag="LOC_NUBIA_SCENARIO_DOUBLE_COMBAT_STRENGTH_AOE_LAND">
+			<Text>2 bölge içindeki tüm birimlere +10 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_DOUBLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
+			<Text>[ICON_GreatGeneral] Büyük General'den +10 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MONTUHOTEP_NAME">
+			<Text>Mentuhotep II</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIYE_NAME">
+			<Text>Piye</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMANIRENAS_NAME">
+			<Text>Amanirenas</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SHA_NABU_SHU_NAME">
+			<Text>Sha-Nabu-shu</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CAMBYSES_NAME">
+			<Text>Cambyses II</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_NAME">
+			<Text>Alexander</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AMANISHAKETO_NAME">
+			<Text>Amanishaketo</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOREMHEB_NAME">
+			<Text>Horemheb</Text>
+		</Row>
+		<!-- Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_NUBIA_SCENARIO_SPHINX_DESCRIPTION">
+			<Text>Mısır'a özgü Sfenks inşa etme yeteneğini Yüksek Rahibe için açar.[NEWLINE][NEWLINE]+1 [ICON_Faith] İnanç ve +1 [ICON_Culture] Kültür. +1 Çekicilik. Bir Harika veya Kutsal Alan'ın yanındaysa +2 [ICON_Faith] İnanç. Başka bir Sfenks'in yanına inşa edilemez. Taşkın Yatakları'na inşa edilebilir.</Text>
+		</Row>
+		<!-- Policies-->
+		<Row Tag="LOC_POLICY_ABU_SIMBEL_NAME">
+			<Text>Abu Simbel</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FRONTIER_FORTRESSES_NAME">
+			<Text>Hudut Kaleleri</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INUNDATION_CALENDAR_NAME">
+			<Text>Taşkın Takvimi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCENARIES_NAME">
+			<Text>Paralı Askerler</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_COMMUNICATION_NAME">
+			<Text>Askeri İletişim</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MUSAEUM_NAME">
+			<Text>Müze</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RECORDKEEPING_NAME">
+			<Text>Kayıt Tutma</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROYAL_BODYGUARDS_NAME">
+			<Text>Kraliyet Muhafızları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCORPION_KING_NAME">
+			<Text>Akrep Kral</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRADE_AGREEMENT_NAME">
+			<Text>Ticaret Anlaşması</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VALLEY_OF_THE_KINGS_NAME">
+			<Text>Krallar Vadisi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NUBIA_SCENARIO_CONSCRIPTION_DESCRIPTION">
+			<Text>Antik ve Klasik Çağ yakın dövüş ve menzilli birimlerine +%50 [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NUBIA_SCENARIO_GOD_KING_DESCRIPTION">
+			<Text>[ICON_Capital] Başkent'te +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NUBIA_SCENARIO_MANEUVER_DESCRIPTION">
+			<Text>Antik ve Klasik Çağ ağır ve hafif süvari birimlerine +%100 [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ABU_SIMBEL_DESCRIPTION">
+			<Text>Kutsal Alan binalarından +%100 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FRONTIER_FORTRESSES_DESCRIPTION">
+			<Text>Tüm [ICON_TradeRoute] Ticaret Yolları'ndan +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INUNDATION_CALENDAR_DESCRIPTION">
+			<Text>Bir su bölgesine komşu olan her şehir için +1 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MERCENARIES_DESCRIPTION">
+			<Text>Şehir devleti birimlerini kiralamak için normal maliyetin yarısını öde.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_COMMUNICATION_DESCRIPTION">
+			<Text>Tüm kara birimleri için +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MUSAEUM_DESCRIPTION">
+			<Text>Tüm şehirlerinin [ICON_Science] Bilim çıktısını iki katına çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RECORDKEEPING_DESCRIPTION">
+			<Text>Birim başına, tur başına bakım maliyeti 1 [ICON_Gold] Altın azalır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROYAL_BODYGUARDS_DESCRIPTION">
+			<Text>[ICON_Capital] Başkentte +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SCORPION_KING_DESCRIPTION">
+			<Text>Tüm birimler için +4 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_SCORPION_KING_COMBAT_STRENGTH">
+			<Text>Akrep Kral'dan +{1_Value}.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TRADE_AGREEMENT_DESCRIPTION">
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VALLEY_OF_THE_KINGS_DESCRIPTION">
+			<Text>Kutsal Alan bölgesi komşuluk bonusları +%100.</Text>
+		</Row>
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_NUBIA_SCENARIO_NUBIA_NAME">
+			<Text>Nübye Tanrıları</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_NUBIA_SCENARIO_EGYPT_NAME">
+			<Text>Mısır Tanrıları</Text>
+		</Row>
+		<!-- Resources-->
+		<Row Tag="LOC_RESOURCE_SCENARIO_GOLD_NAME">
+			<Text>Altın Cevheri</Text>
+		</Row>
+		<!-- Routes-->
+		<Row Tag="LOC_ROUTE_NUBIA_SCENARIO_ROAD_DESCRIPTION">
+			<Text>[ICON_TradeRoute] Ticaret Yolları aracılığıyla inşa edilebilir. Bir yol hücresinden diğerine hareket eden herhangi bir birimin [ICON_Movement] Hareket hızını artırır.</Text>
+		</Row>
+		<!-- Technologies-->
+		<Row Tag="LOC_TECH_FISHING_NAME">
+			<Text>Balıkçılık</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MEDICINE_NAME">
+			<Text>Tıp</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATION_NAME">
+			<Text>Tahkimat</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TOMB_BUILDING_NAME">
+			<Text>Mezar İnşası</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FISHING_DESCRIPTION">
+			<Text>İşçilerin gemiye binmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUBIA_SCENARIO_SAILING_DESCRIPTION">
+			<Text>Tüm kara birimlerinin gemiye binmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUBIA_SCENARIO_MATHEMATICS_DESCRIPTION">
+			<Text>Tüm deniz birimleri için +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MEDICINE_DESCRIPTION">
+			<Text>Tamamlandığında [ICON_Capital] Başkentinde 2 bedava Yerleşimci alırsınız.</Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_UNIT_NUBIA_SCENARIO_GREAT_GENERAL_DESCRIPTION">
+			<Text>Bu senaryoda her [ICON_GreatGeneral] Büyük General, yakındaki birimler üzerinde pasif bir muharebe etkisine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUBIA_SCENARIO_GREAT_PROPHET_DESCRIPTION">
+			<Text>Büyük [ICON_GreatProphet] Peygamberler bu senaryoda bulunmaz. Hem Mısır hem de Nübye, başkentleri kurulur kurulmaz otomatik olarak bir din kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUBIA_SCENARIO_EGYPTIAN_CHARIOT_ARCHER_DESCRIPTION">
+			<Text>Mısır'a özgü, Antik Çağ menzilli birimi olup Ağır Savaş Arabası'nın yerini alır. Açık arazide başladığında 6 [ICON_Movement] Hareket puanına sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUBIA_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>Yeni şehirler kurabilir. Bu senaryoda Yerleşimciler yalnızca Yönetim Bilimleri ve Tıp Teknolojisi tamamlanarak elde edilir. Asla inşa edilemezler.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HIGH_PRIESTESS_NAME">
+			<Text>Yüksek Rahibe</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDJAY_NAME">
+			<Text>Medjay</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HIGH_PRIESTESS_DESCRIPTION">
+			<Text>Tek işlevi bir Sfenks veya Nübye Piramidi inşa etmek olan eşsiz bir İşçi birimidir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MEDJAY_DESCRIPTION">
+			<Text>Dost bölgedeyken ve bir Kutsal Alan'a 1 kare mesafedeyken büyük muharebe bonusu alan güçlü bir yakın dövüş birimi. Medjay yalnızca içinde Mabet bulunan bir Kutsal Alan'a sahip şehirde inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDJAY_HOLY_SITE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>Kutsal Alan yakınındaki dost bölgede +{1_Value} Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_NAME">
+			<Text>Yakındaki Büyük General</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_DESCRIPTION">
+			<Text>Büyük General'den +10 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDJAY_DESCRIPTION">
+			<Text>Kutsal Alan Mabet'ine bitişikken +20 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<!-- Civic Boosts-->
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_STATE_WORKFORCE">
+			<Text>8 bölgeyi iyileştir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_FOREIGN_TRADE">
+			<Text>6 şehir devletiyle tanış.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_SCRIBES">
+			<Text>2 farklı uzmanlık bölgesi inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_BOOK_OF_THE_DEAD">
+			<Text>Bir şehri fethet.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_INSTITUTION_OF_THE_MUSES">
+			<Text>Matematik teknolojisini araştır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_SEPATS">
+			<Text>2 Ordugâh bölgesi inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_BOARDGAMES_ATHLETICS">
+			<Text>Uygarlığını en az 24 nüfusa ulaştır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_AMUN_LORD_OF_ALL_GODS">
+			<Text>3 Mabet inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_STATE_WORKFORCE">
+			<Text>İlk şehirlerimizin çevresindeki topraklar güzelce gelişirken, üretim tekniklerimizi iyileştirebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Diğer devletlerle kurduğumuz temaslar, kazançlı ticaret için yeni ufuklar açtı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_SCRIBES">
+			<Text>Şehrimiz öylesine hızlı büyüyor ki, her şeyin kaydını tutmamıza yardımcı olacak yeni bir işçi sınıfına ihtiyacımız var.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_BOOK_OF_THE_DEAD">
+			<Text>Şehir fetihlerimizden bazı düşmüş kahramanlarımız var. Yeraltı dünyasındaki yolculuklarını kolaylaştıralım.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_INSTITUTION_OF_THE_MUSES">
+			<Text>Bilgili matematikçilerimiz, ilim yolunda birer örnektir. Dünyanın tüm bilgisini tek bir çatı altında toplayarak onlara yardım edelim.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_SEPATS">
+			<Text>Artık topraklarımızı savunacak ve sınırlarımızı denetleyecek bir Ordugahımız olduğuna göre, bölgesel otoritemizi ilan edebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_BOARDGAMES_ATHLETICS">
+			<Text>Topraklarınızdaki artan vatandaş sayısı daha fazla eğlenceye ihtiyaç duyuyor. Senet oynayalım mı, yoksa okçulukta şansımızı mı deneyelim?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_AMUN_LORD_OF_ALL_GODS">
+			<Text>Halkımız artık tek yüce tanrı olan Amun'u tanıyor. Hayat asasının yaratıcısını onurlandırmak için büyük tapınaklar inşa edelim.</Text>
+		</Row>
+		<!-- Tech Boosts-->
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_SAILING">
+			<Text>2 deniz kaynağını geliştir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_IRRIGATION">
+			<Text>4 Çiftlik inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_THE_WHEEL">
+			<Text>Bir Mera inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_MEDICINE">
+			<Text>2 Plantasyon inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_FORTIFICATION">
+			<Text>Bir Savaş İlanı'nın hedefi ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_TOMB_BUILDING">
+			<Text>Ölüler Kitabı sosyal politikasına sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>2 Kadırga'ya sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_MATHEMATICS">
+			<Text>3 Nilometre inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_IRON_WORKING">
+			<Text>Bir düşman Kılıçlı'sını öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_HORSEBACK_RIDING">
+			<Text>Bir düşman Süvari'sini öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_SAILING">
+			<Text>Balıkçılarınız, askeri amaçlarla tekne inşa etmeyi öğrenmemize yardımcı oluyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Sayısız çiftliğiniz, ekinlerinizi sulamanın önemini kavramanızı sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Hayvanları evcilleştirmek faydalı olacaktır. Onları savaşa birlik taşımak için kullanabilir miyiz?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_MEDICINE">
+			<Text>Plantasyonlarınızdaki ekinlere şifalı otlar karıştırıyorsunuz. Acaba bunlardan bazılarının tıbbi faydaları olabilir mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_FORTIFICATION">
+			<Text>İstila tehdidiyle karşı karşıya kalan halkınız, yenilikçi savunma yöntemleri geliştirmeye hazırlanıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_TOMB_BUILDING">
+			<Text>Uygun dualar kaydedildiğine göre, artık en büyük insanlarımızı onurlandırmak için anıt mezarlar inşa edebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Kadırga mürettebatınız, gece gökyüzünü inceleyerek seyirlerini nasıl yönlendireceklerini öğreniyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>En iyi bilim insanlarınız, Nil taşkınlarına dair tahminlerinde oldukça isabetli hale geliyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>Yeterince Kılıçlıyı alt ettik; yakında benzer birlikleri sahaya sürebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Yeterince Atlıyı alt ettik; yakında benzer birlikleri sahaya sürebiliriz.</Text>
+		</Row>
+		<!-- Terrain/Features-->
+		<Row Tag="LOC_FEATURE_CATARACT_NAME">
+			<Text>Katarakt</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_NILE_RIVER_NAME">
+			<Text>Nil Nehri</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_VICTORY_NUBIA_SCENARIO_TEXT">
+			<Text>Yüce tanrı Amun'un şanına 7 Tapınak inşa eden ilk oyuncu oldunuz. Başarılarınızı kutlamak için mutlaka büyük bir piramit inşa edilmelidir!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_TEMPLE_COUNT">
+			<Text>{1_Player} - Tarafından inşa edilen Amun Tapınakları: {2_Num}</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Amun'un Canlı Sureti</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>İsis Tarafından Yüceltilmiş</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Anubis Tarafından Kutsanmış</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Horus'un Müridi</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Bes Tarafından Unutulmuş</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Ash Tarafından Dışlanmış</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Tüm tanrıların efendisi seni onurlandırıyor. (Bunu kibrine sebep vermesin.)</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Başarın için sevinç gözyaşları döküyor.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>İç organların için özel kanopik kavanozlar hazırlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Onun eserlerine saygı gösterdiğin için hiçbir kum fırtınasına yakalanmayacaksın.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Belki bir dahaki sefere yılanlar konusunda seni uyarmayı hatırlar.</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_SCENARIO_ENDGAME_RANKING_LEADER_6_QUOTE">
+			<Text>Hiçbir çölde vaha bulamayacaksın – sadece kum üstüne kum, kum üstüne kum.</Text>
+		</Row>
+		<!-- Events-->
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_1">
+			<Text>Eski Krallığı Yeniden İnşa Et</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_2">
+			<Text>Nübye Yayını Çekiyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_3">
+			<Text>Pítati Nübye'ye Dönüyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_4">
+			<Text>Pítati Hizmetimize Dönüyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_5">
+			<Text>Firavun II. Mentuhotep Tahta Çıkıyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_6">
+			<Text>Firavun II. Mentuhotep Osiris'e Kavuşuyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_7">
+			<Text>Yüksek Rahibe Kutsal Alanı Adıyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_8">
+			<Text>Kral Piye Tahta Çıkıyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_9">
+			<Text>Kral Piye Osiris'e Kavuşuyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_10">
+			<Text>Kraliçe Amanirenas Tahta Çıkıyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_11">
+			<Text>Kraliçe Amanirenas Osiris'e Kavuşuyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_12">
+			<Text>Hiksos İstila Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_13">
+			<Text>Libya İstila Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_14">
+			<Text>Asur İstila Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_15">
+			<Text>Pers İmparatorluğu İstila Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_16">
+			<Text>Makedonya İstila Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_17">
+			<Text>Roma İstila Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_TITLE_18">
+			<Text>Gizli Savaş Filleri</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_1">
+			<Text>Eski Krallık artık yok. İç savaş toprakları sarsa da, ailenizin kaderi birleşmiş bir Mısır'dır. Belki de Nübyeli paralı askerlerin kısa vadeli yardımı, Nil nehri boyunca uzanan şehirleri geri almanıza yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_2">
+			<Text>Aileniz Nil nehrinin hayati bir bölümünü kontrol ediyor. Kuzeydeki Mısırlı komşularınız iç çekişmelerle boğuşurken, Yay Ülkesi kendini bir imparatorluğun eşiğinde buluyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_3">
+			<Text>Nübyeli paralı askerler sözleşmelerini tamamladı. Yay Ülkesi'ne geri dönüyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_4">
+			<Text>Paralı okçularımız Mısır'la olan sözleşmelerini tamamladı. Eve tecrübeli ve iyi ücretli olarak dönüyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_5">
+			<Text>Büyük Mentuhotep II, Yukarı ve Aşağı Mısır'ın yeniden birleşmesinden başka bir şey istemiyor. Başarılı olursa, ona 'İki Ülkeyi Birleştiren Horus' unvanını vereceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_6">
+			<Text>Mentuhotep II'nin ölümüyle yaşam gücü bedenini terk eder ve öbür dünyaya yeni bir yolculuğa başlar. Orada Osiris'in yargısıyla karşılaşacaktır. Umarız eylemleri ona sonsuz yaşam kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_7">
+			<Text>Dini bir lider, yeni ibadethanenizi tamamlamak için ortaya çıkıyor. Onun yardımıyla tanrılarımızın sahip olduğu ilahi güçlerin yeni sembollerini yaratabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_8">
+			<Text>Adil Kral Piye, Mısır halkını efendilerinin kalbindeki çürümüşlükten kurtarmak istiyor. Bunu yaparken Nübye egemenliğinin Mısır topraklarının derinliklerine uzanması gerekiyor olsa bile.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_9">
+			<Text>Piye'nin ölümüyle yaşam gücü bedenini terk eder ve öbür dünyaya yeni bir yolculuğa başlar. Orada Osiris'in yargısıyla karşılaşacaktır. Umarız eylemleri ona sonsuz yaşam kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_10">
+			<Text>Savaşçı Kraliçe Amanirenas, yabancı işgalcilerden korkmuyor. Eğer biri Nübye'yi tehdit ederse, bizzat saldırıyı yönetecektir—dünyanın en güçlü orduları olsalar bile.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_11">
+			<Text>Amanirenas'ın ölümüyle yaşam gücü bedenini terk eder ve öbür dünyaya yeni bir yolculuğa başlar. Orada Osiris'in yargısıyla karşılaşacaktır. Umarız eylemleri ona sonsuz yaşam kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_12">
+			<Text>Kuzeydoğudan yabancı işgalciler geliyor! Hiksoslar, Levant'tan gelen vahşi bir savaş arabası ordusuna komuta ediyor. Nil boyunca daha önce hiç görülmemiş bir savaş aracı getiriyorlar: at.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_13">
+			<Text>Akdeniz'den yabancı işgalciler geliyor! Libyalılar batıdan, kıyı boyunca Nil'e doğru ilerliyor. Doğudan da gizemli müttefikleri geliyor: Deniz Halkları.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_14">
+			<Text>Kuzeydoğudan yabancı işgalciler geliyor! Şa-Nabu-şu liderliğindeki Asurlular Mezopotamya topraklarını çoktan fethetmiş durumda. Bu korkunç düşmandan sakının!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_15">
+			<Text>Kuzeyden yabancı işgalciler geliyor! Persler, Asurluların hemen ardından geliyor. Doğudaki bu krallıklardan herhangi biri Nil boyunca bir yer edinebilecek mi?</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_16">
+			<Text>Kuzeydoğudan yabancı işgalciler geliyor! Makedonyalı III. İskender'in fetihlerinin dünyanın dört bir yanına yayıldığı söyleniyor. Şimdi Nil halkını imparatorluğuna katmayı amaçlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_17">
+			<Text>Kuzeyden yabancı işgalciler geliyor! Roma ordusunun güçlü lejyonları batıdan gelerek Nil'i kendilerine mal etmeye çalışıyor. Bir dönemin en güçlü ordusunu kim durdurabilir?</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_DESCRIPTION_18">
+			<Text>Büyük bir masrafla, gizli bir eğitim sahasında savaş fillerini eğittik. Onları yakından koruyun—yavaş üremelerine rağmen sayılarını koruyabiliriz, ancak daha fazlasını eğitmeyi beklemeyin.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_1">
+			<Text>Bu Nübyeli Pítati Okçuları, önümüzdeki 6 tur boyunca ordunuzda hizmet edecek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_2">
+			<Text>Bir şehir kur ve civardaki zengin maden yataklarını keşfet.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_3">
+			<Text>Pítati Okçu birliklerin geri çekildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_4">
+			<Text>Bu tecrübeli Pítati Okçular artık [ICON_Capital] Başkentimiz yakınlarında hazır. Ayrıca 100 [ICON_Gold] Altın kazandık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_5">
+			<Text>Bu [ICON_GreatGeneral] Büyük General, ordumuza önümüzdeki 15 tur boyunca komuta edecek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_6">
+			<Text>[ICON_GreatGeneral] Büyük General Mentuhotep II görevden alındı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_7">
+			<Text>Bu Yüksek Rahibe, Taş İşçiliği teknolojisini araştırdıktan sonra eşsiz geliştirmeni (Sfenks veya Nübye Piramidi) inşa etmek için kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_8">
+			<Text>Bu [ICON_GreatGeneral] Büyük General, ordumuza önümüzdeki 15 tur boyunca komuta edecek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_9">
+			<Text>[ICON_GreatGeneral] Büyük General Piye görevden alındı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_10">
+			<Text>Bu [ICON_GreatGeneral] Büyük General, ordumuza önümüzdeki 15 tur boyunca komuta edecek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_11">
+			<Text>[ICON_GreatGeneral] Büyük General Amanirenas görevden alındı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_12">
+			<Text>Bu Hyksos istilacıları, şehirleri fethederek Akdeniz kıyısında bir krallık kurmaya çalışacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_13">
+			<Text>Bu Libyalı istilacılar, şehirleri fethederek Akdeniz kıyısında bir krallık kurmaya çalışacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_14">
+			<Text>Bu Asur istilacıları, şehirleri fethederek Akdeniz kıyısında bir krallık kurmaya çalışacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_15">
+			<Text>Bu Pers istilacıları, şehirleri fethederek Akdeniz kıyısında bir krallık kurmaya çalışacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_16">
+			<Text>Bu Makedon istilacıları, şehirleri fethederek Akdeniz kıyısında bir krallık kurmaya çalışacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_17">
+			<Text>Bu Romalı istilacılar, şehirleri fethederek Akdeniz kıyısında bir krallık kurmaya çalışacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_NUBIA_EVENT_EFFECT_18">
+			<Text>Yeni Savaş Fili birimleri artık kullanılabilir. Bunlar bir şehirde inşa edilemez ve yalnızca bu olayla elde edilebilir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

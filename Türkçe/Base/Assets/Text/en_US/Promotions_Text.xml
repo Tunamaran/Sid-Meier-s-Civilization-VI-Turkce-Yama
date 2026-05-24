@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!---->
+		<!-- PROMOTION NAME TEXT -->
+		<!---->
+		<!--Recon-->
+		<Row Tag="LOC_PROMOTION_RANGER_NAME">
+			<Text>Korucu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ALPINE_NAME">
+			<Text>Alp</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SENTRY_NAME">
+			<Text>Nöbetçi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPYGLASS_NAME">
+			<Text>Dürbün</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUERRILLA_NAME">
+			<Text>Gerilla</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMBUSH_NAME">
+			<Text>Pusu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAMOUFLAGE_NAME">
+			<Text>Kamuflaj</Text>
+		</Row>
+		<!--Melee-->
+		<Row Tag="LOC_PROMOTION_BATTLECRY_NAME">
+			<Text>Savaş Narası</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORTOISE_NAME">
+			<Text>Kaplumbağa</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMMANDO_NAME">
+			<Text>Komando</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMPHIBIOUS_NAME">
+			<Text>Amfibi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZWEIHANDER_NAME">
+			<Text>Zweihänder</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_URBAN_WARFARE_NAME">
+			<Text>Şehir Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_GUARD_NAME">
+			<Text>Seçkin Muhafız</Text>
+		</Row>
+		<!--Ranged-->
+		<Row Tag="LOC_PROMOTION_VOLLEY_NAME">
+			<Text>Yaylım Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GARRISON_NAME">
+			<Text>Garnizon</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARROW_STORM_NAME">
+			<Text>Ok Fırtınası</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INCENDIARIES_NAME">
+			<Text>Yangın Çıkaranlar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPPRESSION_NAME">
+			<Text>Bastırma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EMPLACEMENT_NAME">
+			<Text>Mevzi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_MARKSMAN_NAME">
+			<Text>Uzman Nişancı</Text>
+		</Row>
+		<!--Siege-->
+		<Row Tag="LOC_PROMOTION_GRAPE_SHOT_NAME">
+			<Text>Üzüm Saçması</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CREW_WEAPONS_NAME">
+			<Text>Mürettebat Silahları</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHELLS_NAME">
+			<Text>Mermiler</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHRAPNEL_NAME">
+			<Text>Şarapnel</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HEAVY_PROJECTILES_2">
+			<Text>Ağır Mermiler 2</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_NAME">
+			<Text>Gelişmiş Uzaklık Ölçümü</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_CREW_NAME">
+			<Text>Uzman Mürettebat</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FORWARD_OBSERVERS_NAME">
+			<Text>İleri Gözlemciler</Text>
+		</Row>
+		<!--Anti-Cavalry-->
+		<Row Tag="LOC_PROMOTION_ECHELON_NAME">
+			<Text>Kademe</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_THRUST_NAME">
+			<Text>Hücum</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SQUARE_NAME">
+			<Text>Kare Düzeni</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCHILTRON_NAME">
+			<Text>Şiltron</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REDEPLOY_NAME">
+			<Text>Yeniden Konuşlandırma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHOKE_POINTS_NAME">
+			<Text>Boğaz Noktaları</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOLD_THE_LINE_NAME">
+			<Text>Hattı Tut</Text>
+		</Row>
+		<!--Light Cavalry-->
+		<Row Tag="LOC_PROMOTION_ESCORT_MOBILITY_NAME">
+			<Text>Koruma Hareketliliği</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAPARISON_NAME">
+			<Text>Kaparison</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COURSERS_NAME">
+			<Text>Akıncılar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEPREDATION_NAME">
+			<Text>Yağma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_NAME">
+			<Text>Çifte Kuşatma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPIKING_THE_GUNS_NAME">
+			<Text>Topları Etkisiz Kılma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PURSUIT_NAME">
+			<Text>Takip</Text>
+		</Row>
+		<!--Heavy Cavalry-->
+		<Row Tag="LOC_PROMOTION_BREAKTHROUGH_NAME">
+			<Text>Yarma Harekâtı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHARGE_NAME">
+			<Text>Hücum</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BARDING_NAME">
+			<Text>At Zırhı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARAUDING_NAME">
+			<Text>Yağmacılık</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROUT_NAME">
+			<Text>Bozgun</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARMOR_PIERCING_NAME">
+			<Text>Zırh Delici</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REACTIVE_ARMOR_NAME">
+			<Text>Tepkisel Zırh</Text>
+		</Row>
+		<!--Aircraft Fighter-->
+		<Row Tag="LOC_PROMOTION_DOGFIGHTING_NAME">
+			<Text>İt Dalaşı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INTERCEPTOR_NAME">
+			<Text>Önleme Uçağı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRAFE_NAME">
+			<Text>Tarama Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GROUND_CREWS_NAME">
+			<Text>Yer Ekibi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COCKPIT_ARMOR_NAME">
+			<Text>Kokpit Zırhı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TANK_BUSTER_NAME">
+			<Text>Tank Avcısı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DROP_TANKS_NAME">
+			<Text>Harici Yakıt Tankları</Text>
+		</Row>
+		<!--Aircraft Bomber-->
+		<Row Tag="LOC_PROMOTION_BOX_FORMATION_NAME">
+			<Text>Kutu Düzeni</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_NAME">
+			<Text>Kaçamak Manevraları</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORPEDO_BOMBER_NAME">
+			<Text>Torpido Bombardıman Uçağı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_NAME">
+			<Text>Yakın Hava Desteği</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_NAME">
+			<Text>Taktik Bakım</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LONG_RANGE_NAME">
+			<Text>Uzun Menzil</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPERFORTRESS_NAME">
+			<Text>Süper Kale</Text>
+		</Row>
+		<!--Naval Melee-->
+		<Row Tag="LOC_PROMOTION_EMBOLON_NAME">
+			<Text>Mahmuz</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REINFORCED_HULL_NAME">
+			<Text>Güçlendirilmiş Gövde</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HELMSMAN_NAME">
+			<Text>Dümenci</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AUXILIARY_SHIPS_NAME">
+			<Text>Yardımcı Gemiler</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RUTTER_NAME">
+			<Text>Seyir Kılavuzu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CONVOY_NAME">
+			<Text>Konvoy</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CREEPING_ATTACK_NAME">
+			<Text>Sürünme Saldırısı</Text>
+		</Row>
+		<!--Naval Ranged-->
+		<Row Tag="LOC_PROMOTION_LINE_OF_BATTLE_NAME">
+			<Text>Savaş Hattı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARDMENT_NAME">
+			<Text>Bombardıman</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PREPARATORY_FIRE_NAME">
+			<Text>Hazırlık Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROLLING_BARRAGE_NAME">
+			<Text>Kademeli Baraj</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROXIMITY_FUSES_NAME">
+			<Text>Yakınlık Fünyeleri</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_NAME">
+			<Text>Tesadüfi Mesafe Tayini</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPPLY_FLEET_NAME">
+			<Text>İkmal Filosu</Text>
+		</Row>
+		<!--Naval Carrier-->
+		<Row Tag="LOC_PROMOTION_FLIGHT_DECK_NAME">
+			<Text>Uçuş Güvertesi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HANGAR_DECK_NAME">
+			<Text>Hangar Güvertesi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FOLDING_WINGS_NAME">
+			<Text>Katlanır Kanatlar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUT_PLANES_NAME">
+			<Text>Keşif Uçakları</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_ENGINES_NAME">
+			<Text>Gelişmiş Motorlar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DECK_CREWS_NAME">
+			<Text>Güverte Ekipleri</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPER_CARRIER_NAME">
+			<Text>Süper Uçak Gemisi</Text>
+		</Row>
+		<!--Naval Raider-->
+		<Row Tag="LOC_PROMOTION_LOOT_NAME">
+			<Text>Yağma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOARDING_NAME">
+			<Text>Borda Baskını</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SWIFT_KEEL_NAME">
+			<Text>Süratli Salma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_OBSERVATION_NAME">
+			<Text>Gözetleme</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SILENT_RUNNING_NAME">
+			<Text>Sessiz Seyir</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOMING_TORPEDOES_NAME">
+			<Text>Güdümlü Torpidolar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WOLFPACK_NAME">
+			<Text>Kurt Sürüsü</Text>
+		</Row>
+		<!--Apostles-->
+		<Row Tag="LOC_PROMOTION_ORATOR_NAME">
+			<Text>Hatip</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROSELYTIZER_NAME">
+			<Text>Din Yayıcı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSLATOR_NAME">
+			<Text>Tercüman</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PILGRIM_NAME">
+			<Text>Hacı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INDULGENCE_VENDOR_NAME">
+			<Text>Endüljans Satıcısı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HEATHEN_CONVERSION_NAME">
+			<Text>Kâfir Dönüştürme</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEBATER_NAME">
+			<Text>Münazır</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARTYR_NAME">
+			<Text>Şehit</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHAPLAIN_NAME">
+			<Text>Ruhani Lider</Text>
+		</Row>
+		<!--Warrior Monk-->
+		<Row Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
+			<Text>Gölge Darbesi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
+			<Text>Alacakaranlık Peçesi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
+			<Text>Patlayan Avuç</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
+			<Text>Müritler</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
+			<Text>Süpüren Rüzgâr</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
+			<Text>Turna Dansı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
+			<Text>Kobra Darbesi</Text>
+		</Row>
+		<!--Spy-->
+		<Row Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">
+			<Text>Teknoloji Uzmanı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_NAME">
+			<Text>Kedi Hırsızı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DEMOLITIONS_NAME">
+			<Text>Yıkım Uzmanı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CON_ARTIST_NAME">
+			<Text>Düzenbaz</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_NAME">
+			<Text>Gerilla Lideri</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_NAME">
+			<Text>Roket Bilimcisi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SEDUCTION_NAME">
+			<Text>Baştan Çıkarma</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DISGUISE_NAME">
+			<Text>Kılık Değiştirme</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LINGUIST_NAME">
+			<Text>Dil Uzmanı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_QUARTERMASTER_NAME">
+			<Text>İkmal Subayı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ACE_DRIVER_NAME">
+			<Text>As Sürücü</Text>
+		</Row>
+		<!---->
+		<!-- PROMOTION DESCRIPTION TEXT -->
+		<!---->
+		<Row Tag="LOC_PROMOTION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Terfi)</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Politika)</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Hükümet)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Büyük Kişi)</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Din)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Yetenek)</Text>
+		</Row>
+		<Row Tag="LOC_WONDER_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Harika)</Text>
+		</Row>
+		<!--Recon-->
+		<Row Tag="LOC_PROMOTION_RANGER_DESCRIPTION">
+			<Text>Orman ve Yağmur Ormanı arazilerinde daha hızlı [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ALPINE_DESCRIPTION">
+			<Text>Tepe arazilerinde daha hızlı [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SENTRY_DESCRIPTION">
+			<Text>Orman ve Cangıl içini görebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPYGLASS_DESCRIPTION">
+			<Text>+1 Görüş Menzili.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GUERRILLA_DESCRIPTION">
+			<Text>Saldırdıktan sonra hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COMMANDO_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket. Uçurum duvarlarını tırmanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMBUSH_DESCRIPTION">
+			<Text>Tüm durumlarda +20 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAMOUFLAGE_DESCRIPTION">
+			<Text>Yalnızca bitişik düşman birimleri bu birimi açığa çıkarabilir.</Text>
+		</Row>
+		<!--Melee-->
+		<Row Tag="LOC_PROMOTION_BATTLECRY_DESCRIPTION">
+			<Text>Yakın dövüş ve menzilli birimlere karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORTOISE_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı savunurken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AMPHIBIOUS_DESCRIPTION">
+			<Text>Deniz veya nehirden saldırırken [ICON_Strength] Muharebe Gücü ve [ICON_Movement] Hareket cezası yok.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ZWEIHANDER_DESCRIPTION">
+			<Text>Süvari karşıtı birimlere karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_URBAN_WARFARE_DESCRIPTION">
+			<Text>Bir bölgede savaşırken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ELITE_GUARD_DESCRIPTION">
+			<Text>[ICON_Movement] Hareket izin veriyorsa tur başına +1 ek saldırı. Saldırdıktan sonra hareket edebilir.</Text>
+		</Row>
+		<!--Ranged-->
+		<Row Tag="LOC_PROMOTION_VOLLEY_DESCRIPTION">
+			<Text>Kara birliklerine karşı +5 [ICON_Ranged] Menzil Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GARRISON_DESCRIPTION">
+			<Text>[ICON_Strength] Savunma Gücü sağlayan bir iyileştirme veya bir bölgede konuşlandığında +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARROW_STORM_DESCRIPTION">
+			<Text>Kara ve deniz birliklerine karşı +7 [ICON_Ranged] Menzil Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INCENDIARIES_DESCRIPTION">
+			<Text>Bölge savunmalarına karşı +7 [ICON_Ranged] Menzil Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPPRESSION_DESCRIPTION">
+			<Text>Kontrol bölgesi uygular.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EMPLACEMENT_DESCRIPTION">
+			<Text>Şehir saldırılarına karşı savunurken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>Birim hareket etmemişse tur başına 1 ek saldırı hakkı.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EXPERT_CREW_DESCRIPTION">
+			<Text>Hareket ettikten sonra saldırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FORWARD_OBSERVERS_DESCRIPTION">
+			<Text>+1 [ICON_Range] Menzil.</Text>
+		</Row>
+		<!--Anti-Cavalry-->
+		<Row Tag="LOC_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>Süvari birliklerine karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_THRUST_DESCRIPTION">
+			<Text>Yakın dövüş birliklerine karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SQUARE_DESCRIPTION">
+			<Text>Destek bonusunu ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCHILTRON_DESCRIPTION">
+			<Text>Yakın dövüş sınıfı birimlere karşı savunurken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REDEPLOY_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<!--Siege-->
+		<Row Tag="LOC_PROMOTION_CREW_WEAPONS_DESCRIPTION">
+			<Text>Savunurken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GRAPE_SHOT_DESCRIPTION">
+			<Text>Kara birliklerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHRAPNEL_DESCRIPTION">
+			<Text>Kara birliklerine karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SHELLS_DESCRIPTION">
+			<Text>Bölge savunmalarına karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_RANGEFINDING_DESCRIPTION">
+			<Text>Deniz birliklerine karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>Orman, Balta Girmemiş Orman, Tepe veya Bataklıkta savunurken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Farklı bir sınıftan komşu birimler, süvarilere karşı +10 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<!--Light Cavalry-->
+		<Row Tag="LOC_PROMOTION_ESCORT_MOBILITY_DESCRIPTION">
+			<Text>Formasyon birimlerinin tümü, eskortun [ICON_Movement] Hareket hızını miras alır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>Süvari karşıtı birimlere karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>Menzilli ve kuşatma birimlerine saldırırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEPREDATION_DESCRIPTION">
+			<Text>Yağmalama maliyeti yalnızca 1 [ICON_Movement] Hareket puanıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DOUBLE_ENVELOPMENT_DESCRIPTION">
+			<Text>Kanatlama bonusu iki katına çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPIKING_THE_GUNS_DESCRIPTION">
+			<Text>Kuşatma birimlerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PURSUIT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<!--Heavy Cavalry-->
+		<Row Tag="LOC_PROMOTION_CHARGE_DESCRIPTION">
+			<Text>Tahkimli savunmacıya karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BARDING_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı savunurken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARAUDING_DESCRIPTION">
+			<Text>Bölgelerdeki birimlere karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROUT_DESCRIPTION">
+			<Text>Hasar almış birimlere karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>Diğer ağır süvari birimlerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>Ağır süvari ve süvari karşıtı birimlere karşı savunurken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BREAKTHROUGH_DESCRIPTION">
+			<Text>Hareket izin veriyorsa, tur başına +1 ek saldırı.</Text>
+		</Row>
+		<!--Aircraft Fighter-->
+		<Row Tag="LOC_PROMOTION_DOGFIGHTING_DESCRIPTION">
+			<Text>Avcı sınıfı birimlere karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COCKPIT_ARMOR_DESCRIPTION">
+			<Text>Uçaksavar birimlerine karşı savunurken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INTERCEPTOR_DESCRIPTION">
+			<Text>Bombardıman uçağı sınıfı birimlere karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_STRAFE_DESCRIPTION">
+			<Text>Süvari olmayan birimlere karşı +17 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GROUND_CREWS_DESCRIPTION">
+			<Text>Devriye gezerken veya konuşlandırıldığında iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TANK_BUSTER_DESCRIPTION">
+			<Text>Süvari birliklerine karşı +17 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DROP_TANKS_DESCRIPTION">
+			<Text>+2 [ICON_Range] Menzil.</Text>
+		</Row>
+		<!--Aircraft Bomber-->
+		<Row Tag="LOC_PROMOTION_BOX_FORMATION_DESCRIPTION">
+			<Text>Avcı uçağı sınıfı birliklere karşı savunma yaparken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_EVASIVE_MANEUVERS_DESCRIPTION">
+			<Text>Uçaksavar birliklerine karşı savunma yaparken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TORPEDO_BOMBER_DESCRIPTION">
+			<Text>Deniz birliklerine karşı +17 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CLOSE_AIR_SUPPORT_DESCRIPTION">
+			<Text>Kara birliklerine karşı +12 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TACTICAL_MAINTENANCE_DESCRIPTION">
+			<Text>Saldırdıktan sonra iyileşebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LONG_RANGE_DESCRIPTION">
+			<Text>+2 [ICON_Range] Menzil.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPERFORTRESS_DESCRIPTION">
+			<Text>Hava yağmalama için minimum sağlık şartı yoktur.</Text>
+		</Row>
+		<!--Naval Melee-->
+		<Row Tag="LOC_PROMOTION_EMBOLON_DESCRIPTION">
+			<Text>Deniz birliklerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REINFORCED_HULL_DESCRIPTION">
+			<Text>Menzilli saldırılara karşı savunma yaparken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RUTTER_DESCRIPTION">
+			<Text>+1 Görüş menzili.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HELMSMAN_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
+			<Text>Dost bölge dışında iyileşebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
+			<Text>Düzen halindeyken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CREEPING_ATTACK_DESCRIPTION">
+			<Text>Deniz akıncısı birliklerine karşı +14 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<!--Naval Ranged-->
+		<Row Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
+			<Text>Dost bölge dışında iyileşebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
+			<Text>Deniz birliklerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOMBARDMENT_DESCRIPTION">
+			<Text>Bölge savunmalarına karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PREPARATORY_FIRE_DESCRIPTION">
+			<Text>Kara birliklerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROLLING_BARRAGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Bölge savunmalarına karşı Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROXIMITY_FUSES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Hava saldırılarına karşı savunurken Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_COINCIDENCE_RANGEFINDING_DESCRIPTION">
+			<Text>+1 [ICON_Range] Menzil.</Text>
+		</Row>
+		<!--Naval Carrier-->
+		<Row Tag="LOC_PROMOTION_FLIGHT_DECK_DESCRIPTION">
+			<Text>+1 ek uçak yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HANGAR_DECK_DESCRIPTION">
+			<Text>+1 ek uçak yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_FOLDING_WINGS_DESCRIPTION">
+			<Text>+1 ek uçak yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUT_PLANES_DESCRIPTION">
+			<Text>+1 görüş menzili.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ADVANCED_ENGINES_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DECK_CREWS_DESCRIPTION">
+			<Text>Saldırdıktan sonra iyileşebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
+			<Text>Dost bölge dışında iyileşebilir.</Text>
+		</Row>
+		<!--Naval Raider-->
+		<Row Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
+			<Text>+50 [ICON_Gold] Kıyı baskınlarından Altın. (Standart Hızda)</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_BOARDING_DESCRIPTION">
+			<Text>Deniz zaferlerinden [ICON_Gold] Altın elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SWIFT_KEEL_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_OBSERVATION_DESCRIPTION">
+			<Text>+1 görüş menzili.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HOMING_TORPEDOES_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Deniz birimlerine karşı Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SILENT_RUNNING_DESCRIPTION">
+			<Text>Saldırdıktan sonra hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_WOLFPACK_DESCRIPTION">
+			<Text>Tur başına +1 ek saldırı.</Text>
+		</Row>
+		<!--Apostle-->
+		<Row Tag="LOC_PROMOTION_ORATOR_DESCRIPTION">
+			<Text>Dini 2 kez daha yayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PROSELYTIZER_DESCRIPTION">
+			<Text>Din yayma, hedef şehirdeki diğer Dinlerden gelen mevcut baskının %75'ini ortadan kaldırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSLATOR_DESCRIPTION">
+			<Text>Din yayma, diğer uygarlıkların şehirlerinde üç kat güçlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_PILGRIM_DESCRIPTION">
+			<Text>İlk kez bir doğa harikasının yanına hareket ettiğinde 3 ek yayma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INDULGENCE_VENDOR_DESCRIPTION">
+			<Text>Bu birim ilk kez bir şehri kendi dininize dönüştürdüğünde [ICON_Gold] 100 Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_HEATHEN_CONVERSION_DESCRIPTION">
+			<Text>Dini bir kullanım hakkı kullanarak bitişik tüm Barbarları kendi tarafına dönüştürebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_DEBATER_DESCRIPTION">
+			<Text>Teolojik Muharebede +20 [ICON_Religion] Dinî Güç.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MARTYR_DESCRIPTION">
+			<Text>Bu Havari Teolojik Muharebede ölürse bir Kutsal Emanet yaratılır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_CHAPLAIN_DESCRIPTION">
+			<Text>Havari, bir Sıhhiyeci gibi çalışır ve 1 alan içindeki birimlere ek iyileştirme sağlar.</Text>
+		</Row>
+		<!--Warrior Monk-->
+		<Row Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
+			<Text>2x Kanatlama Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
+			<Text>Bu birimi yalnızca bitişik düşman birimleri ortaya çıkarabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_DESCRIPTION">
+			<Text>Tüm durumlarda +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DISCIPLES_DESCRIPTION">
+			<Text>Bu birim, bir düşman birimini yendiğinde dinini yakındaki şehirlere yayar.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_DESCRIPTION">
+			<Text>Eğer [ICON_Movement] Hareket izin veriyorsa tur başına +1 ek saldırı.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_DANCING_CRANE_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_DESCRIPTION">
+			<Text>Tüm durumlarda +15 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<!--Spy-->
+		<Row Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Teknoloji Çal.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CAT_BURGLAR_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Büyük Eser Çal.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DEMOLITIONS_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Üretimi Sabote Et.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_CON_ARTIST_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Fon Sifonla.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_GUERILLA_LEADER_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Partizan Topla.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ROCKET_SCIENTIST_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Roket Bilimini Aksat.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SEDUCTION_DESCRIPTION">
+			<Text>2 seviye daha deneyimliymiş gibi Karşı Casusluk yap.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_DISGUISE_DESCRIPTION">
+			<Text>Bir düşman şehrinde mevcudiyet tesis etmek hiç vakit almaz.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LINGUIST_DESCRIPTION">
+			<Text>Tüm görevleri tamamlama süresi %25 oranında azalır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_QUARTERMASTER_DESCRIPTION">
+			<Text>Bu Casus kendi topraklarında bulunuyorsa, diğer tüm Casuslarınız +1 seviye olarak faaliyet gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_ACE_DRIVER_DESCRIPTION">
+			<Text>Bir görev sırasında yakalanırsa, kaçma şansı oldukça yüksektir (+4 seviye).</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

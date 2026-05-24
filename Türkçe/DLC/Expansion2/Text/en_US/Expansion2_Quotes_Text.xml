@@ -1,0 +1,119 @@
+<GameData>
+	<EnglishText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_CHOCOLATEHILLS_QUOTE">
+			<Text>“Kötü kalpli kral, sevgililer Juan ve Maria'yı en hızlı atıyla kovaladı. Onlara yetişmek üzereyken Maria yüzüğünü yere fırlattı ve birden yedi yüksek tepe yükseldi, böylece kral yavaşladı.”[NEWLINE] - Filipin Halk Masalı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEVILSTOWER_QUOTE">
+			<Text>“Yedi kız ayılar tarafından kovalanıyordu. Ayılar onları yakalamak üzereydi ki kızlar alçak bir kayaya atladı. Kızlardan biri kayaya yalvardı: 'Kaya, bize acı, bizi kurtar!' Kaya onları duydu ve yukarı doğru büyümeye başladı, kızları giderek daha yükseğe itti.”[NEWLINE] - Kiowa Efsanesi</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GOBUSTAN_QUOTE">
+			<Text>“O halde mistik ölçünün ağını örün;[NEWLINE]Gökyüzünün derinliklerinden ve yeryüzünün uçlarından,[NEWLINE]Gelin, kudretin ve hazzın çevik Ruhları,[NEWLINE]Doldurun neşenin dansını ve müziğini.”[NEWLINE] - Percy Bysshe Shelley</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_IKKIL_QUOTE">
+			<Text>“Oğul, Tanrı'nın yağmurunu gördün mü? Geçti ve Tanrı'nın dağlarının altına girdi... Tanrı'nın suyunun geçtiği yerde gökyüzünde bir halka olacak.”[NEWLINE] - Chilam Balam Kitapları</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAMUKKALE_QUOTE">
+			<Text>“Mesogis yakınlarında, Laodikeia'nın karşısında, sıcak su kaynaklarının ve Plutonium'un bulunduğu Hierapolis vardır; her ikisinin de kendine özgü özellikleri vardır. Kaynakların suyu o kadar kolay katılaşır ve taşlaşır ki, su yollarına yönlendirildiğinde tek parça taştan bentler oluşur.”[NEWLINE] - Strabon</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VESUVIUS_QUOTE">
+			<Text>“Deniz kendi üzerine yuvarlanıyor gibiydi ve yerin sarsıcı hareketiyle kıyılarından sürükleniyordu; en azından kıyının oldukça genişlediği ve üzerinde birkaç deniz hayvanının kaldığı kesindi. Diğer tarafta, hızlı, zikzaklı flaşlarla yarılan siyah ve korkunç bir bulut, arkasında çeşitli şekillerde alev kütleleri ortaya çıkarıyordu...”[NEWLINE] - Genç Plinius</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_WHITEDESERT_QUOTE">
+			<Text>“Halkımdan bir su tulumu doldurup çöle gittim,[NEWLINE]Ve kurdun uluduğu boş çorak yerlerde yürüdüm, ailesi açlıktan kıvranan bir kumarbaz gibi.”[NEWLINE] - İmruülkays</Text>
+		</Row>
+		<!-- Technologies -->
+		<Row Tag="LOC_TECH_BUTTRESS_QUOTE_1">
+			<Text>“Bir mimar, bir ressam kadar az yaşamalıdır şehirlerde. Onu tepelerimize gönderin, doğanın bir payandadan ve bir kubbeden ne anladığını orada öğrensin.”[NEWLINE] – John Ruskin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BUTTRESS_QUOTE_2">
+			<Text>“Galip gelene, Tanrım'ın tapınağında bir sütun yapacağım ve o artık dışarı çıkmayacak.”[NEWLINE] – Vahiy 3:12</Text>
+		</Row>
+    <Row Tag="LOC_TECH_REFINING_QUOTE_1">
+      <Text>“Mühendislik, doğadaki büyük güç kaynaklarını insanın kullanımı ve rahatı için yönlendirme sanatıdır.”[NEWLINE] - Thomas Tredgold</Text>
+    </Row>
+		<Row Tag="LOC_TECH_SEASTEADS_QUOTE_1">
+			<Text>“Yeniden denizlere gitmeliyim, başıboş çingene hayatına, Martının yoluna ve balinanın yoluna, rüzgarın bilenmiş bıçak gibi olduğu yere;”[NEWLINE] – John Masefield</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SEASTEADS_QUOTE_2">
+			<Text>“Sonra fırtına bulutlarının yuttuğu yere doğru sürersin, Ve küreklerinin içi boş düşen sesi, Takip edecek aylar boyunca geriye kalan tek şey olarak.”[NEWLINE] – Rudyard Kipling</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_AI_QUOTE_1">
+			<Text>“Hiçbir yalvarış, iyiliğini ve merhametini dileyen yaratığına olumlu bir gözle bakmanı sağlamayacak mı?”[NEWLINE] – Mary Shelley</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_POWER_CELLS_QUOTE_1">
+			<Text>“Eksik tamamlanır; eğri doğrulur; boş dolar; eski yeni olur.”[NEWLINE] - Tao Te Ching, Lao Tzu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CYBERNETICS_QUOTE_1">
+			<Text>“Öteki dünyada herhangi bir iş varsa, onu yapmalısın. Ne zaman çağrılsan beni gör. Orada çalışmak için her an tetikte ol. Tarlalarımı sür, doğuya ve batıya su ve kum taşı. Ne zaman çağrılsan beni gör.”[NEWLINE] – Bir Mısır Uşabti'sindeki Yazıt</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SMART_MATERIALS_QUOTE_1">
+			<Text>“Yerden göğe yükselir ve tekrar yere iner, üstün ve aşağı şeylerin gücünü alır.”[NEWLINE] – Hermes Trismegistus</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PREDICTIVE_SYSTEMS_QUOTE_1">
+			<Text>“Düşman nereden saldırıya uğrayacağını bilmezse, her yönde hazırlık yapmak zorunda kalır ve böylece her yerde zayıf olur.”[NEWLINE] – Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_OFFWORLD_MISSION_QUOTE_1">
+			<Text>“Hayır, dostlarım, dünyaya geri düşmedik; hayır, Meksika Körfezi'ne batmadık. Evet! Uzaya yükseliyoruz. Gecedeki o parlayan yıldızları ve dünya ile aramızda yığılmış o aşılmaz karanlığı görün!”[NEWLINE] – Jules Verne</Text>
+		</Row>
+		<Row Tag="LOC_TECH_OFFWORLD_MISSION_QUOTE_2">
+			<Text>“Bu şiddetli uçuşta on bir günlük bir yolculuktan sonra, Ay dediğimiz o Yıldızın Küresi veya ta kendisi olan bir başka Dünya'ya (öyle diyebilirsem) yaklaşmaya başladığımızı fark ettim.”[NEWLINE] – Francis Godwin</Text>
+		</Row>
+		<!-- Civics -->
+		<Row Tag="LOC_CIVIC_DIGITAL_DEMOCRACY_QUOTE_1">
+			<Text>“Kalabalıklar, kalabalıklar karar vadisinde: çünkü Rab'bin günü karar vadisinde yakındır.”[NEWLINE] – Yoel 3:14</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SYNTHETIC_TECHNOCRACY_QUOTE_1">
+			<Text>"Her yerde mekanik dehaya, büyük bir genel zekâya ve ayırt edici kavrayışa sahip, Otomat'ın hareketlerinde insan müdahalesi olmayan saf bir makine olduğunu tereddütsüz ilan eden ve bu nedenle insanlığın tüm icatlarının kıyas kabul etmez en hayret vericisi olduğunu söyleyen insanlar buluruz."[NEWLINE] – Edgar Allen Poe</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CORPORATE_LIBERTARIANISM_QUOTE_1">
+			<Text>"Kendi üzerinde, kendi bedeni ve zihni üzerinde birey egemendir."[NEWLINE] – John Stuart Mill</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NEAR_FUTURE_GOVERNANCE_QUOTE_1">
+			<Text>"Adalet, devletlerdeki insanların bağıdır; çünkü adaletin idaresi, yani adil olanın belirlenmesi, siyasi toplumda düzenin ilkesidir."[NEWLINE] – Aristoteles</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXODUS_IMPERATIVE_QUOTE_1">
+			<Text>"İşte, Ey Sevgili, bu, Yüksek ve Uzak Zamanların bir başka hikâyesidir."[NEWLINE] – Rudyard Kipling</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HEGEMONY_QUOTE_1">
+			<Text>"Ah, sevgilim, doldur o kadehi ki arındırsın[NEWLINE]Bugünü geçmiş pişmanlıklardan ve gelecek korkularından—[NEWLINE]Yarın mı?—Ne yazık ki yarın ben belki de[NEWLINE]Dünün Yedi Bin Yılıyla bir olurum."[NEWLINE] – Edward FitzGerald</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INFORMATION_WARFARE_QUOTE_1">
+			<Text>"Önceden söylendiği gibi, her iki tarafı da bilenin yüz savaşta korkacak bir şeyi yoktur..."[NEWLINE] – Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INFORMATION_WARFARE_QUOTE_2">
+			<Text>"Düşman nereden saldırıya uğrayacağını bilmezse, her cephede hazırlık yapmak zorunda kalır ve böylece her yerde zayıf olur."[NEWLINE] – Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_QUOTE_1">
+			<Text>"Bu kötücülü sarp kayalara bağlayın[NEWLINE]Kırılmaz elmas zincirlerle."[NEWLINE] – Aiskhylos</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SMART_POWER_DOCTRINE_QUOTE_1">
+			<Text>"Öyle bir zaman gelecek ve kaçınılmaz olarak geliyor ki, güce dayalı tüm kurumlar, yararsızlıkları, aptallıkları ve hatta sakıncaları herkes için apaçık hale gelince ortadan kalkacaklar."[NEWLINE] – Lev Tolstoy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENVIRONMENTALISM_QUOTE_1">
+			<Text>"Güneşin ışığına tekrar döneceğim, senin soyun için bir yuva hazırlamaya."[NEWLINE] – Argonautica, Rodoslu Apollonios</Text>
+		</Row>
+		<!-- World Wonders -->
+		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_QUOTE">
+			<Text>"Uykunun altın kapıları açılır[NEWLINE]Kudret ve Güzelliğin bir araya geldiği yerde,[NEWLINE]Bir yıldız gibi yanar suretleri[NEWLINE]Cam gibi bir deniz havasında!"[NEWLINE] – Percy Bysshe Shelley</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_BATH_QUOTE">
+			<Text>"Yine de bu kusur bulan ve tutmaz eleğe[NEWLINE]Sevgimin sularını dökmeye devam ediyorum[NEWLINE]Yine de kaybetmekten geri kalmam: işte böyle, Hintli gibi,[NEWLINE]Yanılgımda dindar, taparım[NEWLINE]Kendine tapanı gören güneşe,[NEWLINE]Ama ondan artık haberdar değildir."[NEWLINE] – William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_QUOTE">
+			<Text>"...Kartallar uçar, kuleler yuvarlak, gökyüzüyle alay eder gibidir;[NEWLINE]Şimdi çürüyüp yıkılan o surlara göz dikerler,[NEWLINE]Ve huzurlu uykularından korkuturlar kaderlerindeki avlarını."[NEWLINE] – Samuel Prout Hill</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_QUOTE">
+			<Text>"Selamlarız sizi, Devi Meenakshi, bin milyon güneş gibi parlayan, bilezikler ve çelenklerle süslenmiş... O ki mübarektir, o ki varlığın ta kendisidir. Her zaman size boyun eğerim, merhameti bir okyanus olan."[NEWLINE] – Adi Shankara</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORSZAGHAZ_QUOTE">
+			<Text>"Kendi kendini yönetmekle özgürlük gelir, özgürlükle de adalet ve yurtseverlik."[NEWLINE] – Lajos Kossuth</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PANAMA_CANAL_QUOTE">
+			<Text>"Bu nedenle korkmayacağız, yer yüzü yerinden oynasa, dağlar denizin ortasına taşınsa bile; Suları kükreyip çalkalansa, kabarıp dağları sarsa bile."[NEWLINE] - Mezmurlar 46:2-3</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_QUOTE">
+			<Text>"Âlimler, peygamberlerin varisleridir; çünkü peygamberler geride bir zenginlik mirası değil, bilgi mirası bırakmışlardır."[NEWLINE] – Müsnedü'l-Bezzâr 10/68</Text>
+		</Row>
+	</EnglishText>
+</GameData>

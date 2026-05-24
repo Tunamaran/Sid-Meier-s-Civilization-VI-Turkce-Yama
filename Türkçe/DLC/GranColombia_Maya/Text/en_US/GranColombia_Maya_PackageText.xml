@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE">
+			<Text>Maya ve Büyük Kolombiya Paketi</Text>
+		</Row>
+		<Row Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER">
+			<Text>Yeni Uygarlıklar ve Liderler – Maya’nın Altı Gökyüzü Leydisi ve Büyük Kolombiya’dan Simón Bolívar</Text>
+		</Row>
+		<Row Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION">
+			<Text>İki yeni uygarlık ve lider, altı yeni şehir devleti, iki yeni kaynak, üç yeni doğa harikası, ek afetler ve Kıyamet oyun modunu içerir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

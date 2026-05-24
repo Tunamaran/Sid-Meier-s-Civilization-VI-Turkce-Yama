@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_CONTENT_TITLE">
+			<Text>Gizli Cemiyetler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_WELCOME_PARA_1">
+			<Text>Oyun kurulumunda oyuncular, Gizli Cemiyetler oyun modunu etkinleştirerek dünyaya güçlü ve gizemli yeni güçler katabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_TITLE">
+			<Text>Temas Kurmak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_1">
+			<Text>Dünyanın dört bir yanında gölgeler arasında faaliyet gösteren dört Gizli Cemiyet bulunur. Onlarla temas kurmak için etkilerinin gizlenmiş olabileceği yerleri arayın: Barbar Karakolları, Kabile Köyleri, Doğa Harikaları veya Şehir Devletleri. Keşif garantili değildir ancak diğer oyuncuların henüz keşfetmediği bir Cemiyetle veya henüz hiçbir Cemiyetin keşfedilmediği kıtalarda karşılaşma ihtimaliniz daha yüksektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_2">
+			<Text>[ICON_SECRETSOCIETY_OWLS] {LOC_SECRETSOCIETY_OWLS_OF_MINERVA_DESCRIPTION} Halihazırda hiç [ICON_Envoy] Elçinizin bulunmadığı Şehir Devletlerine [ICON_Envoy] Elçi göndererek temas kurmayı deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_3">
+			<Text>[ICON_SECRETSOCIETY_HERMETIC] {LOC_SECRETSOCIETY_HERMETIC_ORDER_DESCRIPTION} Doğa Harikalarını keşfederek temas kurmayı deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_4">
+			<Text>[ICON_SECRETSOCIETY_VOIDSINGERS] {LOC_SECRETSOCIETY_VOIDSINGERS_DESCRIPTION} Kabile Köylerini araştırarak temas kurmayı deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_5">
+			<Text>[ICON_SECRETSOCIETY_SANGUINE] {LOC_SECRETSOCIETY_SANGUINE_PACT_DESCRIPTION} Barbar Kamplarını ele geçirerek temas kurmayı deneyin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DISCOVERY_PARA_6">
+			<Text>Alternatif olarak, başka bir oyuncuya karşı [ICON_VisSecret] Gizli seviyede diplomatik görünürlüğe ulaşmak, o oyuncunun Cemiyetiyle otomatik olarak temas kurmanızı sağlar. Bir Cemiyetle temas kurduktan sonra, ona katılmasanız bile hangi diğer liderlerin üye olduğunu Diplomasi ekranından görebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_TITLE">
+			<Text>İnisiyasyon</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_PARA_1">
+			<Text>Bir Gizli Cemiyetle temas kurmak yalnızca ilk adımdır. Bu, bir şehre atamanız gerekmeyen, güçlü bonuslara sahip eşsiz bir [ICON_Governor] Vali açar. Cemiyetin tam teşekküllü bir üyesi olmak için ilgili Valiyi atayın. Bir Cemiyete üye olduğunuzda, oyunun geri kalanında o Cemiyete bağlı kalırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_INITIATION_PARA_2">
+			<Text>Aynı Cemiyetin üyeleriyle yapılan ittifaklar daha hızlı İttifak Puanı üretir ve bu oyuncuların diplomatide size karşı görüşü iyileşir. Ancak farklı bir Cemiyetin üyesi olan oyuncular, bağlantınızı öğrendiklerinde sizden hoşlanmayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_TITLE">
+			<Text>Daha Derin Sırlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_PARA_1">
+			<Text>Her [ICON_Governor] Valinin sırayla açılan dört terfisi bulunur. Normal Vali terfilerinden farklı olarak, bir terfinin etkisi bir önceki terfi kazanılana kadar açıklanmaz. (Sürpriz olmasını tercih etmezseniz, Civilopedia’yı okumaya devam edebilirsiniz.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SECRETSOCIETIES_CHAPTER_DEEPER_MYSTERIES_PARA_2">
+			<Text>Gizli Cemiyetlerin planlarını hazırlamak için nesiller boyu sürecek zamana ihtiyacı vardır, bu nedenle tüm terfiler hemen kullanıma açılmaz. İkinci terfi oyun Orta Çağ'a girdiğinde kullanılabilir. Üçüncü terfi Sanayi Çağı'nda, son terfi ise Atom Çağı'nda kullanılabilir.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_VAMPIRE_CHAPTER_HISTORY_PARA_1">
+			<Text>Vampir miti, kalıtsal aristokrasinin büyük ölçüde geçmişte kaldığı bir dünyada özel bir yankı uyandırır. Sonsuz gençlik takıntısıyla kendilerinden aşağı gördükleri halkı avlayan, çürümüş ama yozlaşmış bir kültürün içinde debelenen zalim efendiler, monarşilerin birer birer çöküşüne tanıklık eden dünyada büyüleyici birer figür haline gelir. Bazen trajik, bazen dehşet verici kötü adamlar ya da normal hayata mahkûm kitlelerin karşısında anti-kahramanlar olarak belirirler. Bunların arasında, gerçek hayattaki en ünlü vampir, efsaneye göre gençliğini ve güzelliğini kurbanlarının – sayıları 600'ü aşan – kanıyla koruyabileceğine inanan Macar soylusu Kontes Elizabeth Báthory de Ecsed'dir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULTIST_CHAPTER_HISTORY_PARA_1">
+			<Text>Tuhaf kurgularda, nihai gerçeklere göz atanlar deliliğe sürüklenir. Ancak bu delilik, insanı parçalamak yerine tuhaf bir şekilde birleştiren, farklı türden bir deliliktir. H.P. Lovecraft'ın 'Cthulhu'nun Çağrısı' (1928) adlı eserinde, bir dizi korkunç rüya, sanatçıları kabile halklarıyla, hayalperestleri ve kanun kaçaklarını birbirine bağlar; hepsi de ölü bir dilden aynı heceleri görmektedir. İşte bu noktada delilik, psikopati değil, dünyanın altında yatan daha temel bir şeyle bağlantı kurmaktır ve mürit olmak, kişinin hayatını toplumun değil, bu ilkelerin rehberliğinde yaşaması demektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CULTIST_CHAPTER_HISTORY_PARA_2">
+			<Text>Din bilginlerine göre 'kült', yalnızca tek bir ibadet nesnesine odaklanmış dini bir grubu ifade eder. Belirli bir azize adanmış Katolik 'kültlerinden' ya da belirli bir öğretmeni seçen Budist 'kültlerden' bu kelimenin taşıdığı olumsuz çağrışımlar olmadan söz edebiliriz. Kültler genellikle o gruba özgü bir bilgi birikimine sahip olduklarını iddia edebilir ve yeni keşifler sıklıkla yeni kültlerin doğmasına yol açar: Ölü Deniz Parşömenlerinin yayımlanması, bu metinlerdeki bilgilere ayrıcalıklı erişime sahip olduğunu iddia eden gruplarda bir patlamaya neden oldu. Heaven's Gate'in takipçileri, geçmekte olan bir kuyruklu yıldızın kuyruğunda saklanan bir UFO'dan mesaj aldıklarına inanıyorlardı. Tokyo metrosuna sarin gazı salan Aum Shinrikyo kültü ise dünyanın doğası hakkında nihai gerçeğe sahip olduğuna inanıyordu. Bu son iki örnekte sonuç trajedi oldu.</Text>
+		</Row>
+		<!-- buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ALCHEMICAL_SOCIETY_CHAPTER_HISTORY_PARA_1">
+			<Text>Simya ve kimya, büyü ve bilim, ilk bakışta göründükleri kadar birbirinden uzak değildir. Büyü antropologlarına (Marcel Mauss gibi) göre her ikisi de bir etki yaratmak için dünyayı manipüle etmeyi amaçlar. Simya ve kimya söz konusu olduğunda her biri bir maddenin diğerine dönüşümünü içerir; bu dönüşüm, ortaçağ gözlemcilerine bir özün değiştiği izlenimini verirdi. Ortaçağ simyacıları için bu değişimin potansiyeli muazzamdı – kurşunu altına dönüştürmek ya da yaşlı bir bedeni genç bir bedene çevirmek mümkün olabilirdi. Buradaki Simya Cemiyeti, ortaçağ ve Rönesans Avrupa geleneğine dayanmakla birlikte, Çin, Hindistan ve dünyanın diğer bölgeleri de kendi simya gelenek ve uygulamalarını geliştirmişlerdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ALCHEMICAL_SOCIETY_CHAPTER_HISTORY_PARA_2">
+			<Text>Orta Çağ'da İslam bilimi tüm Orta Çağ Avrupası'na yayıldı; zira Müslüman âlimler Latince metinleri muhafaza etmiş, kendi üniversite ve ilim müesseselerini kurmuş, Asya'dan da yeni içgörüler getirmişlerdi. Avrupalılar için bu yeni bilgi yığınları; bilimsel, siyasi, dinî ve tabii ki büyülü olmak üzere baş döndürücü bir dil, önerme, fikir ve ihtimal yelpazesi sunuyordu. Avrupalılar bu sonuncu gaye için okuduklarını uygulamaya koymak ve en azından umut ettikleri üzere evrenin anahtarını çözmek amacıyla cemiyetler kurdular. Simya, bu metinlerde gömülü olan kadim hakikatleri anlamaya odaklanmıştı. Bu sebeple, 18. ve 19. yüzyıldaki bilimsel ekoller tercümeden ziyade deneye, eski bilgiden ziyade yeni bilgiye yöneldikçe, simya cemiyetleri daha da yeraltına çekildi ve Batı düşüncesinin ana akımının dışına itildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GILDED_VAULT_CHAPTER_HISTORY_PARA_1">
+			<Text>18. ve 19. yüzyılların gizli cemiyetlerinin daima gizli bir üssü vardı: üyelerin cüppeler ve maskeler içinde gizli törenler için toplandığı bir yer (ya da daha büyük ihtimalle komik şapkalarla sulandırılmış bira içmek için). Burada, ihtişamlı bir masa etrafında hangi ülkelerin yükselip çökeceğine ve iktidar dizginlerini kimin elinde tutacağına dair kararlar alındığı iddia edilirdi. Bu, popüler kültürden ödünç alınmış bir imgedir; ancak bazı cemiyetler bu tür temaları eğlence olsun ya da kendi gizemlerini artırmak için kullanmıştır ve hâlâ da kullanmaktadır. Örneğin Yale'nin gizli cemiyetleri, dışarıdakilerin dünyayı belirleyen toplantılar olduğuna inandırmak istediği (ama büyük olasılıkla komik şapkalar takıp sulandırılmış bira içmekten ibaret olan) süslü, Oryantalist temalı kasalarda hâlâ bir araya gelir. Bu 'yaldızlı kasalarda' para ve güç, soylu unvanlar ve otorite serbestçe alınıp satılır. En azından öyle söylenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OLD_GOD_OBELISK_CHAPTER_HISTORY_PARA_1">
+			<Text>H.P. Lovecraft ve benzerlerinin 'garip kurgu' türünde ve ondan ilham alan eserlerde, tanrılar çok şükür ki unutulmuştur. Lovecraft'ın Kadim Varlıkları insanlıkla temelde ilgilenmez ve onlarla temas kaçınılmaz olarak deliliğe ya da ölüme yol açar. Ancak herkes unutmamıştır: garip kurgu, Kadim Tanrıların işaretlerini yeniden keşfedip onları ibadet nesnesi haline getiren gizli kültlerin sayısız örneğiyle doludur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_OLD_GOD_OBELISK_CHAPTER_HISTORY_PARA_2">
+			<Text>Her zaman eski inançların dinî kalıntılarını, özellikle de tam olarak anlamadıklarımızı yeniden kullandık. Orta Çağ ve sonrasının Avrupa büyüsü, çoğu zaman Yunan ya da Mısır sembollerine başvurdu; çünkü bu semboller gerçekten bir tür ezoterik bilgi barındırdıklarından değil, anlaşılmazlıklarının içinde fazladan bir güç vaadi taşıyor gibi göründüklerinden. Ve anlaşılmaz olana başvuranlar yalnızca Avrupalılar değildir. Güneydoğu Asya'nın dağlık bölgelerindeki Mien halkı, ilahi bir imparator tarafından yazılmış, dağ tepelerinde rahatsız edilmeden yaşama hakkını garanti eden, Çin karakterleriyle yazılı (çok azının okuyabildiği) ayrıntılı belgeler taşır. Tanzanya'daki köylüler şifa bulmak için yan komşularındansa uzak bir köyden gelen şifacıya gitmeyi tercih eder. Ve popüler fantastik kitaplardaki genç büyücüler, büyülerini nadiren İngilizce söylerler. Bilinmeyenin cazibesi, kavrayışımızın ötesinde bir güç kaynağı barındırma ihtimalidir. O halde ona bir dikilitaş dikmekten zarar gelmez.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_VAMPIRE_CASTLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Stoker'ın Drakula'sı, ölümsüz gelinler bir yana, Erdel'in Karpat Dağları'ndaki bir şatoda yapayalnız yaşıyordu. Jonathan Harker Kont'la işlerini halletmek için geldiğinde, Drakula kendi arabacısı gibi giyinmek, Harker'ın yemeklerini pişirmek ve tabii ki Harker'ın odasına kilitli kalmasını sağlamak zorundaydı. Erdel ormanlarına bakan balkonundan Kont, geçmiş ve gelecek fetihleri üzerine kara kara düşünür. Drakula'nın şatosuna ilham kaynağının bugün yaygın olarak Romanya'daki Bran Şatosu olduğu düşünülür; oysa ne Stoker'ın ne de Drakula'nın gerçek dünyadaki sözde karşılığı olan Vlad Tepeş'in bu yerle bir ilgisi vardı. Bunun yerine şato, Romanya hükümeti tarafından Kont'un evini en iyi çağrıştıran yer olarak seçildi. Yine de, vampir şatosunun en tipik örneği olmaya devam ediyor: kurtların hâlâ dolaştığı karanlık bir ormana bakan uçurumun kenarında kasvetli bir yapı.</Text>
+		</Row>
+		<!-- resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_LEY_LINE_CHAPTER_HISTORY_PARA_1">
+			<Text>İki nokta arasında düz bir çizgi olduğu geometrik bir gerçektir. Bu gerçek, bir İngiliz kır haritasıyla birleşince, 19. ve 20. yüzyıl başlarında İngiltere'yi çaprazlayan ley hatları kavramını doğurdu. İngiliz antikacı Alfred Watkins, İngiliz kırsalındaki kutsal alanları birbirine bağlayan dosdoğru antik yolların yeterince dikkatli bakılırsa bulunabileceğini öne sürdü. Teorisi, gerçek antik yolların genellikle dolambaçlı olduğunu belirten arkeologlar tarafından reddedilse de, 1960'larda New Age meraklıları tarafından yeniden ele alındı. Bu 'ley hatları', antik yollar yerine, kutsal alanları birbirine bağlayan ve Dünya'nın mistik enerjilerinin aktığı damarlar olarak görülüyordu. Hatların kesiştiği noktalar, büyük ruhani ve khtonik gücün merkezleri olacak; ele geçirildiğinde hem doğanın hem de bireyin potansiyelini açığa çıkarabilecek yerlerdi. Ley hatlarının gerçekliğine dair ne arkeolojik bir özellik ne de mistik bir enerji kaynağı olarak hiçbir kanıt bulunamadı ve teori, New Age ile mistik inançlardaki yeni akımların öne çıkmasıyla yavaş yavaş ortadan kalktı.</Text>
+		</Row>
+		<!-- governors -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_CHAPTER_HISTORY_PARA_1">
+			<Text>Siyaset çoğu zaman kaos gibi görünür. Beceriksiz liderler, tüm ulusların güvenliğini tehlikeye atan aptalca hatalar yapabilir ve seçimler çoğu zaman en kısa vadeli hedeflere dayanıyormuş gibi görünür. Öyleyse insanların bunun böyle olmadığı bir dünyayı hayal etmesine şaşmamak gerek. Güç iplerini iyilik ya da daha sık olarak kötülük için çeken gölge örgütlerin söylentileri yüzyıllardır devam etmektedir. Bu tür inançlara çekiliriz çünkü bize görünürdeki kaosun altında bir yapı olduğu hissini verirler (ve komplo teorisyeni için sırrın içine alınmanın verdiği bir önem duygusu), bu gizli gerçek düşmanca görünse bile. Bir bulmacayı çözen biri gibi, birbirine uyuyor gibi görünen parçaları birleştirmenin verdiği bir haz vardır... oysa gerçekte parçalar asla tam olarak istediğimiz gibi uymaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_CHAPTER_HISTORY_PARA_2">
+			<Text>Bu komplo teorilerinin birçoğu Aydınlanma Çağı civarında ortaya çıktı. Yeni düşünce biçimleri Avrupa'yı kasıp kavururken, kilise ve kraliyet otoriteleriyle çatıştı. Daha önce sorgulanamaz olana akılcı düşünceyi uygulama hedefiyle yeni insan grupları (neredeyse her zaman erkekler) oluştu. Bu gruplar – Masonlar, İlluminati (bir Bavyera grubu) ve diğerleri – genellikle güçlü ama soylu olmayan adamlardan oluşuyordu: tüccarlar, toprak sahipleri ve diğerleri. Kilise ve taç, bir grup 'özgür düşünür' tarafından meşruiyetlerinin sorgulanmasından pek hoşnut olmadığından, bu gruplar genellikle gerici güçler tarafından baskıya maruz kalıyordu. Fransız Devrimi'nden sonra – bir kralın sadece tahttan indirilmesi değil, idam edilmesiyle birlikte – laik siyasi/felsefi cemiyetlere karşı panik derinleşti ve 19. yüzyıl boyunca, özellikle Komünist ve Sosyalist grupların yükselişiyle birleşince doruk noktasına ulaştı. Bu cemiyetlerin geleneksel otoriteye meydan okuması ve karşılığında vatana ihanet, dinsizlik ve benzeri suçlamalarla karşılaşmasıyla süregelen bir gerilimdi. Buradaki Minerva Baykuşları – adını Bavyera İlluminati'sinden alır – tarihsel entelektüel cemiyetleri değil, popüler kültürdeki karşılığını temsil etmeyi amaçlar: dünyevi siyasetin perde arkasında sinsice dolaşan bu korkulan güçlü adamlar kumpanyası.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Özellikle büyük toplumsal değişim zamanlarında, yeni bilgi ve yeni varoluş biçimleri yaşama şeklimizi değiştirme potansiyeli gösterdiğinde, bu gizli, dünyayı dönüştüren bilginin yetiştirilmesi ve korunması etrafında şekillenen cemiyetler sıklıkla ortaya çıkar. İlk bakışta bilimsel cemiyetler gibi görünseler de, bu tarikatlar gizli bilginin toplanmasına odaklanmaları, uygulanmasına değil, bakımından farklıydı. Bu tür cemiyetlerin örneklerini Orta Çağ Avrupası'nda, Güneydoğu Asya'da (özellikle tantrik Budizm bağlamında) ve Doğu Asya'da; antik çağlardan günümüze kadar görebiliriz. Buradaki Hermetik Düzen, geç Orta Çağ simya cemiyetinin yanı sıra 19. yüzyıl sonlarında ortaya çıkan mistik/dinî örgütleri modellemeyi amaçlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_CHAPTER_HISTORY_PARA_2">
+			<Text>Altın Şafak Hermetik Düzeni, 20. yüzyıl başlarında ezoterik bilgiyi geliştirmekle ilgilenen bir İngiliz grubuydu. Düzen ilhamını çeşitli kaynaklardan aldı: Orta Çağ Avrupa ('hermetik') büyüsü, Kabala (Yahudi mistisizmi), Mısır ve Yunan miti ve bireysel vahiy. Müritler – en ünlüsü İngiliz okültist Aleister Crowley – astral seyahat, durugörü ve diğer büyülü uygulamalar yoluyla mistik bilgilerini genişletmeye odaklandı ve hareket, giderek daha akılcı ve büyüsü bozulmuş bir toplumda eksikliğini hissettikleri daha büyük bir hakikat arayan bireyleri kendine çekti. Düzen, Arthur Conan Doyle (Sherlock Holmes'un yaratıcısı), İngiliz korku yazarı Algernon Blackwood, İrlandalı yazar Bram Stoker (Drakula'nın yaratıcısı) ve diğerleri dahil olmak üzere çok çeşitli etkili insanları bünyesine kattı. Düzen'in şubeleri bugün de varlığını sürdürmektedir ve uygulamaları, insanlar hâlâ daha büyük bir hakikat arayışında olduğu için birçok New Age dininin gelişiminde etkili olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_CHAPTER_HISTORY_PARA_1">
+			<Text>20. yüzyılın başlarında, özellikle Amerika Birleşik Devletleri ve Birleşik Krallık'ta yeni bir bilimkurgu ve fantazi türü tutunmaya başladı. Birinci Dünya Savaşı'nın dehşeti, yeni bir bilim çağının potansiyel olarak insanlık dışı olabileceğini kanıtlamıştı ve keşif ile bilimsel sorgulama yoluyla ortaya çıkarılan evren, insanlığa ve onun umutlarına ve hayallerine karşı aynı derecede derin bir kayıtsızlık içinde olabilirdi. Buna ek olarak, sömürgeleştiren ülkelerdeki vatandaşlar için, sömürgeleştirilen dünyanın aslında sömürgecileri rahatsız etmek için geri gelebileceğine dair artan farkındalık, bir tür yalnızcılığa yol açtı – bu, o dönemin şiddetli ırkçılığı tarafından da körüklenen bir şeydi. Arthur Machen, H.P. Lovecraft ve diğerleri gibi yazarların kurgularında ortaya çıkan spekülatif dünyalar, ne ahlaki tonlu Gotik ne de 19. yüzyılın kahramanlık keşif öyküleriydi, daha rahatsız edici bir şeydi: yeni, 'garip' bir kurgu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_CHAPTER_HISTORY_PARA_2">
+			<Text>Garip bir gerçeklik, dünyayı şekillendiren güçlerin temelde kayıtsız ve hatta insanlığa düşman olduğu bir gerçekliktir. İlgisizlikleri bugün dünyada var olmamıza izin verse de, izleri unutulmuş yerlerde, sular altında kalmış şehirlerde ya da yıldızların arasındaki boşluklarda varlığını sürdürebilir ve bilimin ilerleyişiyle ortaya çıkarılabilir. Garip kurguda dünya, ait olmadığımız bir yerdir ve dünyayı işleten şeyleri arayacak olanlar yalnızca delilerdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_CHAPTER_HISTORY_PARA_1">
+			<Text>Korku kurgusunu Drakula'yı anmadan hayal etmek zordur. Bram Stoker, Erdel'deki şatosunda hapsolmuş yalnız kan emici Kont'un öyküsünü yazarken İrlanda peri efsanelerinden, Rumen halk masallarından ve Kıta'yı çevreleyen bir dizi Kuzey Avrupa endişesinden yararlandı. Vampirler hakkında yazarken aynı zamanda daha yakınındaki bir edebiyat ve folklor birikiminden de faydalandı; vampirlerin sağlıksız arkadaşlıklar ve takıntılar hakkında uyarıcı masallar olduğu Le Fanu, Lord Byron ve James Rymer gibi Gotik yazarları takip etti. Bunlarda vampirler, ahlaki çöküşü, karanlık şatoları ve çöküşe geçmiş yozlaşmış seçkinleri bir araya getiren Gotik edebiyatın bir tür zirvesidir. Buradaki Kanlı Pakt, Stoker'dan ilham alan bir tür karanlık kardeşliği temsil etmeyi amaçlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_CHAPTER_HISTORY_PARA_2">
+			<Text>Yunanistan, Türkiye ve Romanya'daki vampir miti, kökeninde ölü bir akrabanın – özellikle intihar veya salgın hastalık kurbanının – yaşayan aile üyelerini rahatsız etmek için geri dönmesiyle ilgilidir. Romantik (ve romantik) Gotik vampirin aksine, folkloristik vampir gizemli bir gece soylusundan çok sevilen birinin taze cesedi gibi görünür. Bu daha çok keder ve yas üzerine bir yansımadır ve sevilen bir ölünün, özellikle de bizden çok çabuk alındığında, bize nasıl musallat olabileceğinin bir göstergesidir. Bununla birlikte, Kont gibi, böyle bir varlıktan kurtulmanın geleneksel yöntemi kazık ve haçtır. Günümüz vampiri Güneydoğu Avrupa'dan gelirken, diğer bölgelerin de kendi kan emici hortlakları vardır: Çin jiangshi'si, Tayland phi pop'u, İskandinav draugur'u veya Yahudi folklorundaki Lilith miti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_HERMETIC_ORDER_TAB_NAME">
+			<Text>Hermetik Düzen Unvanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_HERMETIC_ORDER_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Toprağın üzerindeki yazıyı görebiliyor, ama okuyamıyorsun. İşe ermemişlerin göremediği bir ışık, dünyadaki deliklerden sızıyor, ama henüz ne anlama geldiğini bilmiyorsun. Hakikatle parlıyor: dünyanın daha derin gizemlerin üzerindeki bir perde olduğu hakikatiyle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_HERMETIC_ORDER_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Bilinen dünyanın dört bir yanından âlimler, eşyanın tabiatını anlamak için şehirlerine akın ediyor. Binaların üzerine ve köprülerin altına kabalistik işaretler karalanmış. Kuşlar, Pazar günleri havada saat yönünde dönmeye başladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_HERMETIC_ORDER_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Toprağı bir öküz gibi koşumlayıp eyerledin ve senin için çalışıyor. Kurşun altına, yaşlılık gençliğe, ay ışığı inci tozuna dönüşüyor. Laboratuvarlarındaki simya makinelerinin ateşleri yeşil ve mavi dumanlar püskürtüyor. Sarayın güneş ışığında bile uhrevi bir parıltı yayıyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_HERMETIC_ORDER_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Işık artık içimizden akıyor. Sokaklarda, insanlar durup konuşurken ağızlarından büyük ışık huzmeleri fışkırıyor. Bazen, bir heyecan patlamasıyla simyacılarından biri yavaşça hareket eden bir uçuşan zerreler bulutuna dönüşüyor. Diğerleri, önceden katı olan nesnelerin içinin boş olduğunun ani bir farkındalığını bildiriyor: bir kayada yaratılmış bir boşluk, sokağın altında bir genişlik, yer kabuğunun altında yeni kıtalar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_OWLS_OF_MINERVA_TAB_NAME">
+			<Text>Minerva Baykuşları Unvanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Ticaret danışmanınızın bileğinde mor bir bant parıldar. Başrahibinizin dilinde bir kartal dövmesi saklıdır. Tüm maiyetiniz Baykuşlara benzer. Onlar SİZİN maiyetinizdir; yoksa tersi mi... değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Yedi Belanın Sınavı'nı çalışıp geçtiniz. Artık çok daha fazlası sizin için açık – rakibinizin ekonomisi çöktüğünde, bu Baykuşların işidir. Bir barış toplantısı skandal ve suçlamalarla dağıldığında, bu Baykuşların işidir. Yapılanların yalnızca bir kısmını gördüğünüzü hissediyorsunuz, ama o kısım muazzam.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Yaldızlı bir Kasanın alt mahzeninde, demir bir kapıyı anlık görürsünüz. Kapanmadan önce, yerin derinliklerine uzanan uzun bir koridor ve ucunda bir altın ışıltısı görürsünüz. Temasınız Athena (kesinlikle gerçek adı değil, şahin maskesinin altında kim olduğunu kim bilebilir?) gizemli bir şekilde gülümser. 'Bir başka zamana,' der.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_OWLS_OF_MINERVA_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Yer altındaki bir odada, tavanı yaldızlı yıldızlarla süslü, maskeli figürlerin karşısında oturuyorsunuz – baykuş maskeleri, peygamberdevesi maskeleri, tilki maskeleri ve uzak kıyılardan yaratıkların maskeleri. Duvardaki ekranların parıltısı, uzak bir şehir devletinin efendisinin uyku odasına açılan birden çok bakış açısını gösteriyor. Ekrandaki hizmetçi (Baykuşlar arasında olduğunda bir böcek maskesi taktığını biliyorsunuz) kolundan küçük bir şişe çıkarır, emrinizi bekler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_SANGUINE_PACT_TAB_NAME">
+			<Text>Kanlı Pakt Unvanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_SANGUINE_PACT_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Başkaları kitaplara, duaya, sanata ve şiire boğulmayı arzulayabilir, ama her varlığın ilk aşkı yemektir. Pakt'taki yeni müttefikleriniz size tüketmenin (ve tüketilmenin) zevkini öğretti. Ziyafetleriniz bütün gece sürer, av etleri, nadir, çok nadir etler ve koyu kırmızı şarapla. Ertesi gün bazen gün batımına kadar uyursunuz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_SANGUINE_PACT_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Gün batımında sarayınızın kapıları açılır ve gülen bir kalabalık sokaklara dökülür. Pakt üyeleri etrafınızda hareket eder, gölgeleri yoktur ve giderken hiç ses çıkarmazlar. Şehrin üzerine, en azından gündüzleri, bir rehavet çöker. Geceleri vatandaşlar kepenklerini kapatır ve – her şeyden önce – dışarı bakmazlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_SANGUINE_PACT_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Kan yaşamdır. Kan topraktır. Ve siz onun efendisisiniz. Vatandaşlarınız bu topraklarda yaşayıp büyümeden önce burada kim vardı? Siz vardınız. Başkaları yaşar ve ölür, siz ölmezsiniz. Vatandaşlarınız size soru sormaya cesaret ediyor – size, onlar doğmadan yüzyıllar önce ordulara komuta etmiş olan size! Siz topraklarınızın ruhu ve kalbisiz. Ve kanınızı alacaksınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_SANGUINE_PACT_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Pakt toplanır ve fısıldar ki toprağın kendisi Pakt'ı benimsemiştir. Nehirler onun damarlarıdır; dağlar onun kemikleridir. O bizi içer, biz onu içeriz. Gündüzleri yerin derinliklerinde uyumaya başladınız, geceleri siperlerde kara kara düşünür, düşünceleriniz sonsuz gecede bitmeyen açlıkla tüketilir. Halkınız, neredeyse farkında olmadan emirlerinize uyar – ulusunuzu yayar, ailelerini büyütür ve zamanı geldiğinde kendilerini Pakt'a kurban ederler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_VOIDSINGERS_TAB_NAME">
+			<Text>Boşluk Şarkıcıları Unvanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_VOIDSINGERS_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Müzik bir yerden geliyor – her yerden, öyle görünüyor. Boş odaların köşelerinden, gece denizinin üzerindeki rüzgardan, hatta tırnaklarınızın altındaki boşluklardan. En azından müzik gibi görünüyor. Tiz bir boru sesi ve neredeyse bir dile benzeyen bir şeyde ilahi patlaması. Sonra, kayboluyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_VOIDSINGERS_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Boşluğun şarkısı her yerdedir – bir soylu kadının yürürken mırıldandığı ezgi, bir sokak süpürücüsünün şarkısı. Bazen, gözünüzün ucuyla, şarkıcılar var olup yok oluyor. Rüyalarınız yoğunlaştı – karanlık bir denizin kıyısında, dalgaların altında yükselip alçalan jelatinimsi bir kütleyi izleyen pelerinli figürlerin toplantıları, şarkı ağızlarından yükselirken.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_VOIDSINGERS_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Boşluk Şarkıcıları artık açığa çıktı ve yanlarında adı anılamaz şeylerin unutulmuş kalıntılarını getiriyorlar. Devasa bir deniz canavarının bir parçası. Dünyanın gerçek doğasına işaret eden bir kitap – biz sadece daha derin bir boşluğun üzerindeki ışık ve gürültüyüz. Bu içteki uçuruma ne kadar uzun bakarsanız, şarkı o kadar netleşir. Bu, başkalarını deliliğe sürükler. Siz onu duyacak ve kendiniz kalacaksınız... elinizden geldiğince.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_VOIDSINGERS_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Şarkı her şeyin içinden geçer. Bu bir senfonidir, enstrümanlarla çalınmaz, eşyaların arasındaki boşluklarda saklı sayısız küçük ağız tarafından söylenir – döşeme tahtalarındaki çatlaklar, topraktaki çatlaklar, atomlar arasındaki boşluklardaki çatlaklar. Uyuyanları ve uyanacak olanları söyler. Ölü yatan, rüya görenleri söyler.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

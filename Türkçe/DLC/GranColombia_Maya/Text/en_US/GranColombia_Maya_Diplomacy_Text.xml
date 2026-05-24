@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lady Six Sky-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Hizalanmış durumdayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Yıldızlar uygun değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Savaş Yılanı gökyüzünde zayıflıyor ve iyi hisler yükseliyor. Dost olalım mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Sen ve ben, gökyüzünde birlikte parlıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Seni yanlış değerlendirmiş olmalıyım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>İktidarda kalmanı daha fazla kabullenmeyeceğim. Beni çok uzun süredir gücendiriyorsun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Yönetmeye layık değilsin. Şehirlerini ve halkını alıp, onları senin adına ben yöneteceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Heyetinizin başkentimizi ziyaret etmesine izin verildi. Kimsenin Savaş Yılanı'nın büyük sunağına zorla götürülmeyeceğine söz veriyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Heyetiniz hoş karşılanmıyor. Belki... bir kurban olarak hariç?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Elçilerim size, acı biber ve balla öğütülmüş içme çikolatası getiriyor. Onları içeri alacak mısın?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Jaguarlar geceleyin senin için gelecek ve kimse gidişine ağlamayacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Öğütlerimi sabırla sundum, sen ise kulak vermedin. Şimdi öfke ve hayal kırıklığıyla konuşuyorum. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Lady Six Sky'nin, rahibe ve savaşçı, Maya kraliçesinin huzurundasınız. Selamlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Top sahasında en iyi iki takımımız arasında bir eşleşmemiz var. Kazananlar için tapınak meydanında bir şölen düzenledik. Kaybedenler için sunağın tepesinde hazırlıklar yaptık. Gelip bizimle kutlayacak mısın?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Haydi, yurtlarımız hakkında bilgi alışverişinde bulunalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Seni bana ne getirdi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Maya yurdundan uzak durmaya devam ettiğine dikkat et. Şimdilik yıldızlar senin lehine parlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Yıldızlar bile yaptıklarından yüz çeviriyor. Topraklarıma yaklaşma.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Venüs belirlenen işarette batıyor ve ay piramidin üzerinde yükseliyor. İşaretler bir ittifak için uygun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Yıldızlar yeniden barışa dönüyor. Ben de silahlarımı bırakacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Hayır. Yeraltının efendisi Cizin hâlâ kana susamış.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Kan, kan. Çok fazla kan. Son bulsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Halkınız yollarımızda yürümeye hoş geldi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Maya yolları halkınızın ayaklarını taşımayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Maya ayakları sizin yollarınızda yürüyebilir mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Savaşçılarınız Maya topraklarının yakınında toplanıyor. Hemen uzaklaştırın onları!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Savaş Yılanı bizi buraya yönlendirdi. Bizi reddetmeye kimsin sen?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Savaş Yılanı sizin için gelmedi. Geri çekileceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Maya'nın döngüsü sona eriyor. Ama sizin zamanınızın da sonu gelecek. Dua ediyorum ki yakında olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Zamanı değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Yıldızlar uygun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NEIGHBOR">
+			<Text>Lady Six Sky, şehirlerinden birinin yakınına yerleşmenizden rahatsız olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NOT_NEIGHBOR">
+			<Text>Lady Six Sky, imparatorluğundan uzakta yerleşmenizden memnundur.</Text>
+		</Row>
+		<!-- Simon Bolivar-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Evet! Birlikte kulluk zincirlerini kıralım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Özgürlük için savaştığınıza henüz ikna olmadım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>İkimiz de Devrim'e hizmet ediyoruz. Birlikte denizi mi sürelim?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Mükemmel!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Size elimi uzatıyorum, siz ise onu tokatlayıp itiyorsunuz. Ne yazık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Savaşa başvurmak üzücü ama sizin gibi engereklerle uğraşırken zorunludur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Zulmünüz, durdurulmazsa dünyayı karanlığa mahkûm ediyor. Bu nedenle size savaş ilan etmek zorundayım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Heyetinizin şerefine kasaba meydanında bir geçit töreni ve şenlik düzenledik. Uzun bir gece geçirdiler. Bırakın uyusunlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Büyük Kolombiya bugün kendi yolunda yürür.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Size en seçkin süvarilerimden kahve ve şeker taşıyan bir heyet gönderiyorum. Onları içeri alır mısınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Zalim! Halkın celladı! Hürriyet düşmanı! Hesap verme gününüz yaklaşıyor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Belki başkalarını kandırabilirsiniz, ama ben kötü niyetli planlarınız hakkında hiçbir hayal beslemiyorum. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Ben, Başkan Simon Bolivar, sizi Büyük Kolombiya'ya hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Şehrimde özgürlüğün doğası üzerine açık bir tartışma düzenliyoruz. Gelin, konuşmamı dinlemek ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Dostluk ruhuyla, birbirimizin başkentini ziyaret edelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Hoş geldiniz yeniden.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Görünen o ki, hem tarihi hem de devlet yönetimini iyi terfi ettirilmiş bir orduyla anlıyorsunuz. Halkınız liderliğinizden faydalanıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Dostane bir uyarı sözü sunabilir miyim? Yöntemlerinizi değiştirin dostum, yoksa terfi ettirilmiş ordulara liderlik edenler onları sizin için değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Özgürlük mücadeleme katılır mısınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Evet, barışın zamanı geldi. Silahlarımızı bırakalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Geri dönmeyeceğiz! Kurtuluşumuza ve sizin mahvınıza doğru ilerliyoruz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>İşte. Barış adına kılıcımı sunuyorum. Koşulları konuşalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Evet, birlikte yürüyelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kolombiya'nın yollarını özgür olanlara bırakın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kurtuluş orduları topraklarınızdan geçebilir mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Orduların topraklarımızı tehdit ediyor. Derhal geri çek!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Özgürlüğün şanlı orduları yerinden kıpırdamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Özgürlüğün şanlı orduları kendilerini başka yerlere götürecekler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Yaptığım her şey Büyük Kolombiya ulusu içindi. Son nefesime kadar bir vatansever olarak kalacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Kötü bir anlaşmayı görür görmez tanırım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Evet! İkimiz de bundan kâr sağlayalım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_SIMON_BOLIVAR">
+			<Text>Simón Bolívar, birliklerinizin ilerleyişinden memnuniyet duyuyor.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

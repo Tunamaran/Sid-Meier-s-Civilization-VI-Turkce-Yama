@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_DESCRIPTION">
+			<Text>Bu şehrin dış surlarındaki hasarı onarın. Bu proje, ancak şehre en az 3 tur boyunca saldırılmamışsa başlatılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_ENCAMPMENT_DESCRIPTION">
+			<Text>Her tur [ICON_Gold] Altın sağlayan ve tamamlandığında [ICON_GreatGeneral] Büyük General puanı kazandıran Ordugâh Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+			<Text>Her tur [ICON_Gold] Altın sağlayan ve tamamlandığında [ICON_GreatAdmiral] Büyük Amiral puanı kazandıran Liman Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Her tur [ICON_Gold] Altın sağlayan ve tamamlandığında [ICON_GreatEngineer] Büyük Mühendis puanı kazandıran Sanayi Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Her tur büyük miktarda [ICON_Gold] Altın sağlayan ve tamamlandığında [ICON_GreatMerchant] Büyük Tüccar puanı kazandıran Ticaret Merkezi Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+			<Text>Her tur [ICON_Faith] İnanç sağlayan ve tamamlandığında [ICON_GreatProphet] Büyük Peygamber puanı kazandıran Kutsal Alan Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_CAMPUS_DESCRIPTION">
+			<Text>Her tur [ICON_Science] Bilim sağlayan ve tamamlandığında [ICON_GreatScientist] Büyük Bilim İnsanı puanı kazandıran Kampüs Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_THEATER_DESCRIPTION">
+			<Text>Her tur [ICON_Culture] Kültür sağlayan ve tamamlandığında az miktarda [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen puanı kazandıran Tiyatro Meydanı Bölgesi projesi.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARNIVAL_DESCRIPTION">
+			<Text>Brezilya'ya özgü bu proje, aktifken +1 [ICON_Amenities] Olanak sağlar; tamamlandığında ise [ICON_GreatEngineer] Büyük Mühendis, [ICON_GreatMerchant] Büyük Tüccar, [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen için [ICON_GreatPerson] Büyük Kişi Puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_DESCRIPTION">
+			<Text>Uzay Yarışı projesi: Küçük bir uyduyu yörüngeye gönderir. Dünyanın keşfedilmemiş her köşesinin coğrafyasını ortaya çıkarır ve Bilim Zaferi'ne giden yolda ilk adımı işaretler.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_DESCRIPTION">
+			<Text>Uzay Yarışı projesi: Bir insanı Ay'a indirmek için dev bir roket fırlatır. Tur başına [ICON_Science] Bilim üretiminizin 10 katına eşit bir defalık [ICON_Culture] Kültür bonusu sağlar ve Bilim Zaferi'ne giden yolda ikinci adımı işaretler.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_DESCRIPTION">
+			<Text>Uzay Yarışı projesi: Mars Kolonisi görevi için bir Reaktör modülünü yörüngeye gönderir. Üç modülün tamamını fırlatmak Bilim Zaferi'ni kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_DESCRIPTION">
+			<Text>Uzay Yarışı projesi: Mars Kolonisi görevi için bir Yaşam Modülü'nü yörüngeye gönderir. Üç modülün tamamını fırlatmak Bilim Zaferi'ni kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_DESCRIPTION">
+			<Text>Uzay Yarışı projesi: Mars Kolonisi görevi için bir Hidroponik Modülü'nü yörüngeye gönderir. Üç modülün tamamını fırlatmak Bilim Zaferi'ni kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_MANHATTAN_PROJECT_DESCRIPTION">
+			<Text>Nükleer Cihazların üretilmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_OPERATION_IVY_DESCRIPTION">
+			<Text>Termonükleer Cihazların üretilmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_NUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Ulusunuzun envanterine bir Nükleer Cihaz ekler. [ICON_Resource_Uranium] Uranyum gerektirir. Bakım maliyeti 14 [ICON_Gold] Altındır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BUILD_THERMONUCLEAR_DEVICE_DESCRIPTION">
+			<Text>Ulusunuzun envanterine bir Termonükleer Cihaz ekler. [ICON_Resource_Uranium] Uranyum gerektirir. Bakım maliyeti 16 [ICON_Gold] Altındır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EARTH_SATELLITE_POPUP">
+			<Text>Bir uyduyu başarıyla yörüngeye fırlattınız! Dünyanın keşfedilmemiş her köşesinin coğrafyasını ortaya çıkarır ve Bilim Zaferi'ne giden yolda ilk adımı işaretler.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MOON_LANDING_POPUP">
+			<Text>Bir insanı Ay'a başarıyla indirdiniz! Tur başına [ICON_Science] Bilim üretiminizin 10 katına eşit bir defalık [ICON_Culture] Kültür bonusu sağlar ve Bilim Zaferi'ne giden yolda ikinci adımı işaretler.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_REACTOR_POPUP">
+			<Text>Bir Reaktör modülünü başarıyla fırlattınız. Bu modül, Mars Kolonisi uzay aracınızın kilit bileşenlerinden biridir. Üç modülün tümünü yörüngeye fırlatmak, uzay aracını tamamlar ve Bilim Zaferi'ni kazanmanızı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HABITATION_POPUP">
+			<Text>Bir Yaşam Alanı modülünü başarıyla fırlattınız. Bu modül, Mars Kolonisi uzay aracınızın kilit bileşenlerinden biridir. Üç modülün tümünü yörüngeye fırlatmak, uzay aracını tamamlar ve Bilim Zaferi'ni kazanmanızı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_HYDROPONICS_POPUP">
+			<Text>Bir Hidroponik modülünü başarıyla fırlattınız. Bu modül, Mars Kolonisi uzay aracınızın kilit bileşenlerinden biridir. Üç modülün tümünü yörüngeye fırlatmak, uzay aracını tamamlar ve Bilim Zaferi'ni kazanmanızı sağlar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

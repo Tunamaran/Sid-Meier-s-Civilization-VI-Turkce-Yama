@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_EPIC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
+			<Text>Red Death oyunları, Epic çevrimdışıyken kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_MULTIPLAYER_MATCHMAKE_PIRATES_OFFLINE_TT">
+			<Text>Multiplayer Pirates, Epic çevrimdışıyken kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_PBC_OVERVIEW_DESC">
+			<Text>
+				Bulut Üzerinden Oyun, tüm oyuncuların sıralarını barındırılan bir sunucuda saklanan ortak bir kayıt dosyası üzerinden aldığı eş zamansız bir çok oyunculu biçimidir. Bu, arkadaşlar arasında ortak bir kayıt dosyası içeren bir disketi paylaşma şeklindeki kadim uygulamanın (eğer “disket” kavramına aşina değilseniz, lütfen saygıdeğer yaşlı bir yetişkine danışın) daha modern bir versiyonudur.[NEWLINE][NEWLINE]Bir Bulut Üzerinden Oyun, her oyuncunun kendisine uygun bir zamanda sırasını almasıyla uzun sürebilir (günler veya haftalar mertebesinde). Sıra size geldiğinde bildirim alırsınız. Epic etkinse bir Epic bildirimi görebilir veya webhooks kullanabilirsiniz. Webhooks, teknik bilgiye sahip kişilerin diğer mesajlaşma hizmetlerine, e-postaya veya Nesnelerin İnterneti cihazlarına entegre edebileceği genel bir mesaj formatıdır.[NEWLINE][NEWLINE]Eş zamansız çok oyunculuda, oyunun devam etmesi için sıranızı mümkün olan en kısa sürede almanız nezaket gereğidir. Kadim zamanlarda oyuncular, disketi bozulmaya karşı korumakla ahlaken yükümlüydü; vicdansız oyuncular ise içinden çıkılmaz bir durumda kayıt dosyasını “kaybetmeye” başvururdu. Bulut Üzerinden Oyun bu tür düzenbazlıkları ortadan kaldırır.
+			</Text>
+		</Row>		
+		<Row Tag="LOC_EPIC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>İnternet oyunları, Epic çevrimdışıyken kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_INVITE_BUTTON_TT">
+			<Text>Epic arkadaş listenizdeki arkadaşlarınızı bu oyuna davet edin.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_FRIEND_ACTION_PROFILE">
+			<Text>Epic Profili</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_PRIVATE_GAME_DESC">
+			<Text>Özel oyunlar, çok oyunculu lobide görünmez. Özel bir oyuna yalnızca oyun daveti veya Epic arkadaş listesi aracılığıyla erişilebilir. Bu ayar, Yerel Ağ oyunları için geçerli değildir.</Text>
+		</Row>
+		<Row Tag="EPIC_PLAYERACTION_FRIENDREQUEST_TOOLTIP">
+			<Text>Bu oyuncuyu Epic'te arkadaş olarak ekleyin.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EPIC_MY2K_MODE_UNLINKED_TOOLTIP">
+		  <Text>İzci Kedi ve Julius Caesar ödüllerini açmak (oyunu yeniden başlatmanız gerekir) ve platformlar arası bulut kayıtlarını etkinleştirmek için bir 2K Hesabı oluşturun. Böylece oyununuza Epic'te başlayıp diğer platformlarda devam edebilirsiniz. Ayrıca en son Sid Meier's Civilization haberlerini alacaksınız!</Text>
+		</Row>
+	</EnglishText>
+</GameData>

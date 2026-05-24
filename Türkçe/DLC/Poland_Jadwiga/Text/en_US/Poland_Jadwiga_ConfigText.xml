@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_CIVILIZATION_POLAND_NAME">
+			<Text>Polonya</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_JADWIGA_NAME">
+			<Text>Jadwiga</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
+			<Text>Altın Özgürlük</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION">
+			<Text>Dost bölge içinde bir Ordugâh veya Kale tamamlandığında, bitişik bölgelerde Kültür Bombası patlatır. Mevcut hükümetteki bir Askeri politika yuvası Joker yuvasına dönüştürülür.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME">
+			<Text>Litvanya Birliği</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION">
+			<Text>Polonya'nın çoğunluk dini, bir Polonya Kültür Bombası nedeniyle bir bölge kaybeden şehirlerde baskın din haline gelir. Kutsal Alanlar, bitişik Bölgelerden İnanç komşuluk bonusu kazanır. Tüm Kutsal Emanetler, bonus İnanç (+2), Kültür (+2) ve Altın (+4) sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION">
+			<Text>Polonya'nın çoğunluk dini, bir Polonya Kültür Bombası nedeniyle bir bölge kaybeden şehirlerde baskın din haline gelir. Kutsal Alanlar, bitişik Bölgelerden İnanç komşuluk bonusu kazanır. Tüm Kutsal Emanetler, bonus İnanç (+2), Kültür (+2) ve Altın (+4) sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_NAME">
+			<Text>Sukiennice</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION">
+			<Text>Polonya'ya özgü bir bina. Bu şehirden giden Uluslararası [ICON_TradeRoute] Ticaret Yolları +2 [ICON_Production] Üretim kazanır; yurt içi [ICON_TradeRoute] Ticaret Yolları ise +4 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_NAME">
+			<Text>Kanatlı Süvari</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
+			<Text>Polonya'ya özgü Rönesans Çağı birimi. Daha fazla hasar verdikleri her muharebede, savunan düşman birliklerini hücrelerinden geri püskürtür. Geri çekilemeyen savunmacılar ek hasar alır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_POLISH_HUSSAR_EXPANSION2_DESCRIPTION">
+			<Text>Polonya'ya özgü, Zırhlı Süvari'nin yerine geçen Rönesans Çağı birimi. Daha fazla hasar verdikleri her muharebede, savunan düşman birliklerini hücrelerinden geri püskürtür. Geri çekilemeyen savunmacılar ek hasar alır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION">
+			<Text>Polonya'ya özgü bir bina. Bu şehirden giden Uluslararası [ICON_TradeRoute] Ticaret Yolları +2 [ICON_Production] Üretim kazanır; yurt içi [ICON_TradeRoute] Ticaret Yolları ise +4 [ICON_Gold] Altın kazanır. Bu şehirde henüz bir Deniz Feneri binası yoksa, +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

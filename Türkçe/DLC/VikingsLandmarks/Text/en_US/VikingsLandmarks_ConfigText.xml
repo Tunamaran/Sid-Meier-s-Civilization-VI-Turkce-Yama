@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_NAME">
+			<Text>Eyjafjallajökull</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_NAME">
+			<Text>Devler Geçidi</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_NAME">
+			<Text>Lysefjord</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_DESCRIPTION">
+			<Text>Komşu parseller +1 [ICON_Culture] Kültür ve +2 [ICON_Food] Besin getirisi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GIANTS_CAUSEWAY_DESCRIPTION">
+			<Text>Komşu parsellere giren kara muharebe birimleri, 'Fionn'un Mızrağı' yeteneğini kazanır (+5 Muharebe Gücü). Komşu parseller +1 [ICON_Culture] Kültür getirisi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LYSEFJORDEN_DESCRIPTION">
+			<Text>Komşu parsellere giren deniz muharebe birimleri, bir sonraki terfilerini kazanır. Komşu parseller +1 [ICON_Production] Üretim getirisi sağlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

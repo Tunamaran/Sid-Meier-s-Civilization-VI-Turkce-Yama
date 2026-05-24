@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+		<Row Tag="LOC_TEDDY_ROOSEVELT_MOD_TITLE">
+			<Text>Teddy Roosevelt Karakter Paketi</Text>
+		</Row>
+		<Row Tag="LOC_TEDDY_ROOSEVELT_MOD_TEASER">
+			<Text>Teddy Roosevelt (Boğa Sığını) ve Teddy Roosevelt (Kaba Süvari) Karakterleri</Text>
+		</Row>
+		<Row Tag="LOC_TEDDY_ROOSEVELT_MOD_DESCRIPTION">
+			<Text>Teddy Roosevelt (Boğa Sığını) ve Teddy Roosevelt (Kaba Süvari) karakterlerini içerir; her biri kendine özgü görünüm, yetenek ve oyun tarzına sahiptir.</Text>
+		</Row>
+  </EnglishText>
+</GameData>

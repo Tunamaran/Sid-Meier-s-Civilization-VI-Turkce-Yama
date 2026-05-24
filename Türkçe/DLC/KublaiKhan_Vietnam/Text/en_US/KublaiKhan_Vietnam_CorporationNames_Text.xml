@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+  <EnglishText>
+    <Row Tag="LOC_CORPORATIONNAME_BASE_TEMPLATE">
+      <Text>{1_Prefix} {2_Suffix}</Text>
+    </Row>    
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_ACME">
+      <Text>Acme</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_NO_1">
+      <Text>Bir Numara</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_BEST_LUCKY">
+      <Text>En Şanslı</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_UNCLE_DENNIS">
+      <Text>Dennis Amca'nın</Text>
+    </Row>
+		<Row Tag="LOC_CORPORATIONNAME_PREFIX_PARAGON_NEXT">
+      <Text>Sonraki Mükemmeliyet</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_HUNAHPU_AND_XBALANQUE">
+      <Text>Hunahpu ve Xbalanque</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_CONSOLIDATED_TRUST">
+      <Text>Birleşik Güven</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_UNITY_NEXT">
+      <Text>Gelecek Birliği</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_MAMAS_FAVORITE">
+      <Text>Anneciğin Gözdesi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_ATLAS">
+      <Text>Atlas</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_GOLDEN_MILL">
+      <Text>Altın Değirmen</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_WORLDWIDE">
+      <Text>Küresel</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_PRINCE_FELDGES">
+      <Text>Prens Feldges</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_STRENGERS_OWN">
+      <Text>Strenger'in Özel</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_SIDS_CHOICE">
+      <Text>Sid'in Seçimi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_NEW_WORLD">
+      <Text>Yeni Dünya</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_CLASSIC">
+      <Text>Klasik</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_GRAYHEAD">
+      <Text>Ak Saçlı</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_EDS_DISCOUNT">
+      <Text>Ed'in İskontosu</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_MADAME_LUXORS_SELECT">
+      <Text>Madame Luxor Seçkini</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_KING">
+      <Text>Kral</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_ELEPHANT">
+      <Text>Fil</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_ROYAL_SELECT">
+      <Text>Kraliyet Seçkini</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_KAPITAL">
+      <Text>Kapital</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_MCM">
+      <Text>MCM</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_IMPERIAL">
+      <Text>İmparatorluk</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_MONOCORP">
+      <Text>Monokorp</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_DYNASIM">
+      <Text>Dinasim</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_SYNTHETIC">
+      <Text>Sentetik</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_COLLOIDAL">
+      <Text>Kolloidal</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_CONGRUENT">
+      <Text>Kongruent</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_RETICULATED">
+      <Text>Retiküle</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_CROWN_PRODUCTS">
+      <Text>Kraliyet Ürünleri</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_NEW_LAND">
+      <Text>Yeni Diyar</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_DIVINE">
+      <Text>İlahi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_CIVTECH">
+      <Text>CivTech</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_AZIMUTH">
+      <Text>Azimut</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_ICHIBAN">
+      <Text>Ichiban</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_KAEONA">
+      <Text>Kaeona</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_NEW_DAWN">
+      <Text>Yeni Şafak</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_RED_SUN">
+      <Text>Kızıl Güneş</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_TOMORROW_TECH">
+      <Text>Yarın Teknolojisi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_MINERVA">
+      <Text>Minerva</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_HERMES">
+      <Text>Hermes</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_SANGUINE">
+      <Text>Sanguine</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_VOIDTECH">
+      <Text>Boşluk Teknoloji</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_RORSARCH">
+      <Text>Rorsarch</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_KARATANI">
+      <Text>Karatani</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_PURE_LAND">
+      <Text>Saf Toprak</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_ARCADIA">
+      <Text>Arkadya</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_SAVANNAPHUMI">
+      <Text>Savannaphumi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_PREFIX_TRUTRUST">
+      <Text>Gerçek Güven</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_INCORPORATED">
+      <Text>Birleşik</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_CONGLOMERATED">
+      <Text>Konglomera</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_UNITED">
+      <Text>Birleşik</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_DIVISION">
+      <Text>Bölüm</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_SYNDICATE">
+      <Text>Birliği</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_LIMITED">
+      <Text>Sınırlı</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_UNLIMITED">
+      <Text>Sınırsız</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_FAMILY">
+      <Text>Aile</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_HYPERCORPORATION">
+      <Text>Hiperşirket</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_CORPORATION">
+      <Text>Şirket</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_MEGACORP">
+      <Text>Megaşirket</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_TRADING_COMPANY">
+      <Text>Ticaret Şirketi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_COMPANY">
+      <Text>Şirket</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_MERCHANTILE">
+      <Text>Ticari</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_MERCHANT_CORPORATION">
+      <Text>Şirket</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_ASSIMILATED">
+      <Text>Asimile</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_COMBINE">
+      <Text>Kombine</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_ZAIBATSU">
+      <Text>Zaibatsu</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_TONG">
+      <Text>Tong</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_CHAEBOL">
+      <Text>Chaebol</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_PRODUCTIONS">
+      <Text>Üretimler</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_QUALITY_GOODS">
+      <Text>Kaliteli Mallar</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_HEAVY_INDUSTRIES">
+      <Text>Ağır Sanayi</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_LIMITED_LIABILITY_COMPANY">
+      <Text>Sınırlı Sorumlu Şirket</Text>
+    </Row>
+    <Row Tag="LOC_CORPORATIONNAME_SUFFIX_KOMBINAT">
+      <Text>Kombinat</Text>
+    </Row>
+  </EnglishText>
+</GameData>

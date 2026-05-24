@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- District Adjacency -->
+		<Row Tag="LOC_DISTRICT_MINE_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] İnanç, bitişik Maden Ocaklarından.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_1_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Bilim, bitişik Maden Ocaklarından.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_1_GOLD">
+			<Text>+{1_num} [ICON_Gold] Altın, bitişik Maden Ocaklarından.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_1_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür, bitişik Maden Ocaklarından.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINE_1_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Üretim, bitişik Maden Ocaklarından.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STRATEGIC2_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Üretim, bitişik Stratejik {1_Num : plural 1?Kaynaktan; other?Kaynaklardan;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OPPIDUM_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Bir Taş Ocağı geliştirmesi veya stratejik kaynağa bitişikse Büyük [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<!-- AI Agenda Text -->
+		<Row Tag="LOC_AGENDA_AMBIORIX_ARMY_NAME">
+			<Text>Roma'nın Belası</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AMBIORIX_ARMY_DESCRIPTION">
+			<Text>Çok sayıda muharebe birimini sever. Küçük orduları olan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BASIL_ZEALOT_NAME">
+			<Text>İlahi Muhafız</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BASIL_ZEALOT_DESCRIPTION">
+			<Text>Kendisiyle aynı dini takip eden uygarlıkları sever. Dinini baskın olarak takip etmeyen uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY">
+			<Text>Ambiorix, kendisinden daha fazla askeri birliği olan uygarlıkları sever, daha azı olanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_POSITIVE">
+			<Text>Ambiorix, kendisinden daha fazla askeri birliği olan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_AMBIORIX_ARMY_NEGATIVE">
+			<Text>Ambiorix, kendisinden daha az askeri birliği olan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<!-- Dramatic Ages Text -->
+		<Row Tag="LOC_GOVT_FILTER_GOLDEN">
+			<Text>Altın</Text>
+		</Row>
+	</EnglishText>
+</GameData>

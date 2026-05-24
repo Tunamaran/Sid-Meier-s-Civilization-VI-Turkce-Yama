@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_RULERS_OF_ENGLAND_MOD_TITLE">
+			<Text>İngiltere Hükümdarları Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_RULERS_OF_ENGLAND_MOD_TEASER">
+			<Text>Yeni Alternatif Liderler - İngiltere Kraliçesi I. Elizabeth, Norveç Kralı Harald Hardrada (Vareg) ve İngiltere Kraliçesi Victoria (Buhar Çağı)</Text>
+		</Row>
+		<Row Tag="LOC_RULERS_OF_ENGLAND_MOD_DESCRIPTION">
+			<Text>Mevcut Uygarlıklar için 3 yeni alternatif Lider içerir. I. Elizabeth, Harald Hardrada (Vareg) ve Victoria (Buhar Çağı) dahildir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

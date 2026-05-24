@@ -1,0 +1,165 @@
+<GameData>
+	<EnglishText>
+		<!--Nihang Unit Abilities-->
+		<Row Tag="LOC_ABILITY_NIHANG_BARRACKS_STRENGTH_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Kışladan Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NIHANG_ARMORY_STRENGTH_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Cephanelikten Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NIHANG_ACADEMY_STRENGTH_DESCRIPTION">
+			<Text>+15 [ICON_Strength] Askeri Akademiden Muharebe Gücü.</Text>
+		</Row>
+		<!--Nihang Unit Promotions-->
+		<Row Tag="LOC_PROMOTION_CLASS_NIHANG_NAME">
+			<Text>Nihang</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FLANKED_BONUS_NAME">
+			<Text>Tegh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FLANKED_BONUS_DESCRIPTION">
+			<Text>Kanatlandığında +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_NAME">
+			<Text>Trehsool Mukh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_DESCRIPTION">
+			<Text>Bir düşman birimini yendiğinde, o birimin temel [ICON_Strength] Muharebe Gücünün %50'si kadar [ICON_Faith] İnanç kazanırsın. (Standart Hızda)</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_MOVEMENT_BONUS_NAME">
+			<Text>Jangi Mojeh</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_NAME">
+			<Text>Sanjo</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_DESCRIPTION">
+			<Text>Hasar aldığında muharebe cezası yok.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_NAME">
+			<Text>Jangi Kara</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_DESCRIPTION">
+			<Text>Lahor'un Süzereni iken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_LLANERO_ADJACENCY_STRENGTH_DESCRIPTION">
+			<Text>Her bitişik Llanero biriminden +2 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_LLANERO_ADJACENCY_STRENGTH_DESCRIPTION">
+			<Text>Bitişik Llanero'dan +{CalculatedAmount} [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<!--Natural Wonder Unit Abilities-->
+    <Row Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_NAME">
+      <Text>Gizemli Akıntılar</Text>
+    </Row>
+    <Row Tag="LOC_ABILITY_MYSTERIOUS_CURRENTS_DESCRIPTION">
+      <Text>Gizemli Akıntılar: +1 [ICON_Movement] Hareket.</Text>
+    </Row>
+		<Row Tag="LOC_ABILITY_WATER_OF_LIFE_NAME">
+			<Text>Yaşam Suyu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WATER_OF_LIFE_DESCRIPTION">
+			<Text>Yaşam Suyu: Herhangi bir bölgede iyileşirken +10 Can.</Text>
+		</Row>
+		<!--Great People-->
+		<Row Tag="LOC_GREAT_PERSON_CLASS_COMANDANTE_GENERAL_NAME">
+			<Text>Komutan General</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_JOSE_DE_SUCRE_NAME">
+			<Text>Antonio José de Sucre</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PAULA_SANTANDER_NAME">
+			<Text>Francisco de Paula Santander</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_ANTONIO_PAEZ_NAME">
+			<Text>José Antonio Páez</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_URDANETA_NAME">
+			<Text>Rafael Urdaneta</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MARINO_NAME">
+			<Text>Santiago Mariño</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MACGREGOR_NAME">
+			<Text>Gregor MacGregor</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PIAR_NAME">
+			<Text>Manuel Piar</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_NARINO_NAME">
+			<Text>Antonio Nariño</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MONTILLA_NAME">
+			<Text>Mariano Montilla</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_RIBAS_NAME">
+			<Text>José Félix Ribas</Text>
+		</Row>
+		<!--Great People Ability Text-->
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_MOVEMENT_NAME">
+			<Text>Komutan General Lojistiği</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_MOVEMENT_DESCRIPTION">
+			<Text>Komutan General'den +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_STRENGTH_NAME">
+			<Text>Komutan General Liderliği</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMANDANTE_AOE_STRENGTH_DESCRIPTION">
+			<Text>Komutan General'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMANDANTE_STRENGTH_AOE_LAND">
+			<Text>2 bölge içindeki kara birimlerine +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_JOSE_DE_SUCRE_SPAWN_UNIT">
+			<Text>İnşa edebileceğin en güçlü kara muharebe birimini 1 terfi seviyesiyle anında oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_JOSE_DE_SUCRE_SPAWN_UNIT_XP2">
+			<Text>İnşa edebileceğin en güçlü kara muharebe birimini 1 terfi seviyesiyle anında oluşturur. Birimin kaynak bakım maliyeti yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_RANDOM_CIVIC">
+			<Text>1 rastgele Yönetim Bilimi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_GOVERNOR_TITLE">
+			<Text>1 [ICON_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_CAVALRY_BUFF">
+			<Text>2 bölge içindeki Süvari sınıfı birliklere +4 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_CAVALRY_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Muharebe Gücü (José Antonio Páez)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_RESET_UNIT_MOVES">
+			<Text>2 bölge içindeki tüm kara muharebe birimleri [ICON_Movement] Hareket ve saldırı kabiliyetini yeniden kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MELEE_ANTICAV_BUFF">
+			<Text>2 bölge içindeki Yakın Dövüş ve Süvari Karşıtı sınıfı birliklere +4 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_MELEE_ANTICAV_BUFF_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Muharebe Gücü (Santiago Mariño)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_MACGREGOR_PROMOTION_PLUS_GOLD">
+			<Text>Bir kara askeri birliğine 1 terfi seviyesi kazandırır ve birimin satın alma maliyetinin %50'si kadar [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_COMMANDANTE_UNIT_STRENGTH">
+			<Text>Bir kara birliğine +7 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_UNIT_STRENGTH_BUFF_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Muharebe Gücü (Manuel Piar)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NARINO_TRADE">
+			<Text>[ICON_TradeRoute] Ticaret Yolu kapasitesini 1 artırır. En yakın şehirde bir Tüccar birimi sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_MONTILLA_UNIT_STR_VS_DISTRICTS">
+			<Text>2 bölge içindeki kara birimleri, bölgelere saldırırken +4 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_COMMANDANTE_UNIT_STR_VS_DISTRICTS_DESCRIPTION">
+			<Text>Bölgelere saldırırken +4 [ICON_Strength] Muharebe Gücü (Mariano Montilla)</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_RIBAS_DAMAGE_NEARBY_UNITS">
+			<Text>2 bölge içindeki düşman birimleri 30 Can kaybeder.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

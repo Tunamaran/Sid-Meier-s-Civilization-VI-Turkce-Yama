@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_HOF_GRAPH_CITY_BUILDINGS">
+			<Text>Şehir Binaları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_CULTURE">
+			<Text>Şehir Kültürü</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_DISTRICTS">
+			<Text>Şehir Bölgeleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_FAITH">
+			<Text>Şehir İnancı</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_FOOD">
+			<Text>Şehir Besini</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_GOLD">
+			<Text>Şehir Altını</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_POPULATION">
+			<Text>Şehir Nüfusu</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_PRODUCTION">
+			<Text>Şehir Üretimi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_SCIENCE">
+			<Text>Şehir Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_TOURISM">
+			<Text>Şehir Turizmi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_WONDERS">
+			<Text>Şehir Harikaları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_CAMPS">
+			<Text>Temizlenen Barbar Kampları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_KILLS">
+			<Text>Öldürülen Barbarlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BUILDINGS">
+			<Text>İnşa Edilen Binalar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_CAPTURED">
+			<Text>Ele Geçirilen Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_FOUNDED">
+			<Text>Kurulan Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_LOST">
+			<Text>Kaybedilen Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CIVICS">
+			<Text>Elde Edilen Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_COMBATS">
+			<Text>Muharebe Sayısı</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CULTURE">
+			<Text>Oyuncu Kültürü</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_DISTRICTS">
+			<Text>İnşa Edilen Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_FAITH">
+			<Text>Oyuncu İnancı</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOLD">
+			<Text>Oyuncu Altını</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOODY_HUTS">
+			<Text>Keşfedilen Kabile Köyleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GREAT_PEOPLE">
+			<Text>Kazanılan Büyük Şahsiyetler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_NATURAL_WONDERS">
+			<Text>Keşfedilen Doğa Harikaları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_NUKES">
+			<Text>Fırlatılan Nükleer Silahlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCIENCE">
+			<Text>Oyuncu Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCORE">
+			<Text>Oyuncu Puanı</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_TECHS">
+			<Text>Elde Edilen Teknolojiler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_KILLED">
+			<Text>Öldürülen Birimler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_LOST">
+			<Text>Kaybedilen Birimler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_DECLARED">
+			<Text>İlan Edilen Savaşlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_RECEIVED">
+			<Text>Alınan Savaş İlanları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WONDERS">
+			<Text>İnşa Edilen Harikalar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_BELIEFS">
+			<Text>Dini İnançlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_CITIES">
+			<Text>Dini Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_FOLLOWERS">
+			<Text>Dini Takipçiler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS">
+			<Text>Şehir Durumu</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_BUILDINGS">
+			<Text>Binalar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_DISTRICTS">
+			<Text>Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_INITIAL_COLUMN">
+			<Text>Şehir</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_POPULATION">
+			<Text>Nüfus</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_TURN_FOUNDED">
+			<Text>Kuruluş Turu</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_WONDERS">
+			<Text>Harikalar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS">
+			<Text>Şehir Getirileri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_CULTURE">
+			<Text>Kültür</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FAITH">
+			<Text>İnanç</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FOOD">
+			<Text>Besin</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_GOLD">
+			<Text>Altın</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_INITIAL_COLUMN">
+			<Text>Şehir</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_PRODUCTION">
+			<Text>Üretim</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_SCIENCE">
+			<Text>Bilim</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_TOURISM">
+			<Text>Turizm</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS">
+			<Text>Hükümetler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_INITIAL_COLUMN">
+			<Text>Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_TURNS_ACTIVE">
+			<Text>Aktif Turlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS">
+			<Text>Dinler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_BELIEFS">
+			<Text>İnançlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_CITIES">
+			<Text>Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOLLOWERS">
+			<Text>Takipçiler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOUNDER">
+			<Text>Kurucu</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_HOLY_CITY">
+			<Text>Kutsal Şehir</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_INITIAL_COLUMN">
+			<Text>Din</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_TURN_FOUNDED">
+			<Text>Kuruluş Turu</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS">
+			<Text>Birimler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_INITIAL_COLUMN">
+			<Text>Birim</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_KILLS">
+			<Text>Öldürme</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_LOST">
+			<Text>Kayıp</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_TRAINED">
+			<Text>Eğitilen</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BARBARIANS_KILLED">
+			<Text>Öldürülen Barbarlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BARBARIAN_CAMPS">
+			<Text>Temizlenen Barbar Kampları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_CAPTURED">
+			<Text>Fethedilen Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_FOUNDED">
+			<Text>Kurulan Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_LOST">
+			<Text>Kaybedilen Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CIVICS">
+			<Text>Elde Edilen Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CIVIC_BOOSTS">
+			<Text>Hızlandırılan Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_COMBATS">
+			<Text>Yapılan Muharebeler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT">
+			<Text>En Sevilen Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT_ANNOTATION">
+			<Text>Toplam {Amount: plural 1?{Amount} tur;other?{Amount} tur;} süreyle aktif.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT">
+			<Text>Favori Birim</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} birim;other?{Amount} birim;} eğitildi</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GOODY_HUTS">
+			<Text>Keşfedilen Kabile Köyleri</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GOVERNMENT">
+			<Text>Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GREAT_PEOPLE">
+			<Text>Kazanılan Büyük Şahsiyetler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_LARGEST_CITY">
+			<Text>En Büyük Şehir</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_LARGEST_CITY_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} vatandaş;other?{Amount} vatandaş;}</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_NATURAL_WONDERS">
+			<Text>Keşfedilen Doğa Harikaları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_NUKES">
+			<Text>Nükleer Füze Fırlatmaları</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION">
+			<Text>En Çok Takipçisi Olan Din</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} takipçi;other?{Amount} takipçi;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RELGIONS_FOUNDED">
+			<Text>Kurulan Dinler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT">
+			<Text>En Güçlü Birim</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT_ANNOTATION">
+			<Text>Öldürüldü: {Amount: plural 1?{Amount} birim;other?{Amount} birim;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_TECHS">
+			<Text>Elde Edilen Teknolojiler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_TECH_BOOSTS">
+			<Text>Hızlandırılan Teknolojiler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_KILLED">
+			<Text>Öldürülen Birimler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_LOST">
+			<Text>Kaybedilen Birimler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_TRAINED">
+			<Text>Eğitilen Birimler</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WARS_DECLARED">
+			<Text>İlan Edilen Savaşlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WARS_RECEIVED">
+			<Text>Alınan Savaşlar</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT">
+			<Text>En Zayıf Birim</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} birim;other?{Amount} birim;} kaybedildi.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WONDERS">
+			<Text>İnşa Edilen Harikalar</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+			<Text>Oyun Modları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_INTRO_CHAPTER_INTRO_PARA_1">
+			<Text>Sid Meier'in Civilization VI Medeniyetler Ansiklopedisi'ne hoş geldiniz! Burada oyunun tüm yönlerine dair ayrıntılı açıklamalar bulacaksınız. Ekranın üst kenarındaki sekmelere tıklayarak Medeniyetler Ansiklopedisi'nin çeşitli ana bölümlerine ulaşabilirsiniz. Ekranın sol tarafındaki Gezinti Çubuğu, bir bölüm içindeki çeşitli girdileri gösterir. Doğrudan gitmek için bir girdiye tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITIES_NAME">
+			<Text>Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehirler, medeniyetinizin başarısı için hayati öneme sahiptir. Birimler, binalar ve harikalar inşa etmenize olanak tanır. Yeni teknolojiler araştırmanızı ve servet biriktirmenizi sağlarlar. Güçlü ve stratejik konumlanmış şehirler olmadan zafer kazanamazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_TITLE">
+			<Text>Şehir Kurulumu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehirler, Yerleşimci birimleri tarafından inşa edilir. Yerleşimci, bir şehir inşa edilebilecek bir konumdaysa "Şehir Kur" eylem düğmesi görünür. Düğmeye tıkladığınızda Yerleşimci ortadan kaybolur ve yerini yeni şehir alır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_TITLE">
+			<Text>Şehir Nereye Kurulmalı?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehirler, bol miktarda [ICON_Food] Besin ve [ICON_Production] Üretim sunan, ayrıca Stratejik, Lüks ve Bonus kaynaklara erişimi olan konumlara kurulmalıdır. Bir şehri Nehir veya kıyı bölgesine inşa etmek genellikle iyi bir fikirdir; zira su kaynakları büyüyen bir [ICON_Citizen] Nüfus için hayati önem taşır. Tepeler üzerine kurulan şehirler savunma bonusu kazanır, bu da düşmanların onları ele geçirmesini zorlaştırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Yerleşimci seçiliyken, ideal şehir konumları haritada bir simgeyle gösterilir. Ayrıca, ilk şehrinizden sonraki her Yerleşimci, size şehir için en iyi su kaynağının nerede olduğunu ve hangi bölgelerin kullanılamaz olduğunu gösteren Yerleşimci Merceği'ni görüntüleyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_TITLE">
+			<Text>Büyüme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehriniz, fazla [ICON_Food] Besin ile büyür veya daha fazla [ICON_Citizen] Vatandaş ekler. Bir şehrin [ICON_Citizen] Vatandaşlarının toplam tüketimini aşan her [ICON_Food] Besin miktarı (vatandaş başına 2 birim) fazla olarak kabul edilir ve yeni bir [ICON_Citizen] Vatandaş yolunda ilerleme olarak eklenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir şehrin mevcut [ICON_Citizen] Nüfusu, şehrin [ICON_Housing] Konut sınırının 2 veya daha fazla altındaysa, büyüme için tüm fazla [ICON_Food] Besin eklenir. Şehir, [ICON_Housing] Konut sınırının 1 [ICON_Citizen] Nüfus altındaysa büyümesi %50'ye yavaşlar. [ICON_Citizen] Nüfus, [ICON_Housing] Konut sınırına ulaştığında ise büyüme yalnızca normal hızın %25'iyle devam eder. Bir şehir bu hızla [ICON_Housing] Konut sınırının 5 [ICON_Citizen] Vatandaş üzerine kadar büyüyebilir, ardından büyüme tamamen durur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_12_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir şehir, fazla [ICON_Food] Besin yoksa durgunlaşır ve büyümez. Eğer [ICON_Food] Besin üretimi, [ICON_Citizen] Vatandaşlarının tükettiğinden azsa şehir açlık çeker ve kendini tekrar besleyebilene kadar yavaş yavaş [ICON_Citizen] Nüfus kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_TITLE">
+			<Text>Besin</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir şehrin açlıktan ölmemek için her [ICON_Citizen] Vatandaş başına (başka bir deyişle "[ICON_Citizen] Nüfus" başına) tur başına 2 [ICON_Food] Besin üretmesi gerekir. Bir şehir [ICON_Food] Besini (ve diğer getirileri), [ICON_Citizen] Vatandaşlarını şehir çevresindeki toprakları "işlemek" üzere atayarak elde eder. Şehir, kendi sınırları içinde, şehre 3 kare mesafedeki ve başka bir şehir tarafından işlenmeyen her türlü bölgeyi işleyebilir. Şehirler, harikaların bulunduğu bölgeleri işleyemez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Kendi haline bırakıldığında şehir, [ICON_Food] Besin ihtiyacını karşılamak için gerektiği kadar [ICON_Citizen] Vatandaş atayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_TITLE">
+			<Text>Konut</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Housing] Konut, her şehirde sahip olabileceğiniz azami [ICON_Citizen] Vatandaş veya [ICON_Citizen] Nüfus miktarını temsil eder. [ICON_Housing] Konutun temel kaynağı bir su kaynağıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_2">
+			<Text>Pek çok bina [ICON_Housing] Konut sağlar. Çömlekçilik araştırmasının ardından her şehir, 2 [ICON_Housing] Konut ekleyen bir Tahıl Ambarı inşa edebilir; daha sonra yine 2 [ICON_Housing] Konut ekleyen Lağımlar inşa edilebilir. Diğer bölgelerdeki binalar da bazen [ICON_Housing] Konut ekler; örneğin Ordugâh Bölgesi'ndeki Kışla, Kampüs'teki Üniversite ve Liman'daki Deniz Feneri gibi. Başkentinizdeki Saray binası ayrıca 1 [ICON_Housing] Konut ekler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_14_CHAPTER_CONTENT_PARA_3">
+			<Text>Her Çiftlik, Mera, Plantasyon veya Kamp, az miktarda [ICON_Citizen] Nüfus destekler — her 2 iyileştirme için 1 [ICON_Housing] Konut. Kırsal [ICON_Citizen] Nüfusu bu şekilde desteklemek, Sanayi Çağı'ndan önce, Mahalle bölgesi kullanılabilir hale geldiğinde, biraz daha büyük [ICON_Citizen] Nüfuslara izin verecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_TITLE">
+			<Text>Su</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehrinizi bir su kaynağının yakınına kurmak, her oyunda vereceğiniz ilk kararlardan biri olmalıdır. İyi bir su kaynağının varlığı, şehrin başlangıçtaki [ICON_Housing] Konut seviyesini hemen belirler. Herhangi bir suya bitişik olmayan bir şehrin başlangıçta azami [ICON_Citizen] Nüfusu 2'dir. Kıyıdaki bir şehrin azami [ICON_Citizen] Nüfusu 3'tür. Bir Nehir, Göl veya Vaha'ya bitişik bir şehrin ise azami [ICON_Citizen] Nüfusu 5'tir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_15_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir şehrin tatlı su durumu, Şehir Merkezi'nin yanına bir Su Kemeri karesi eklenerek iyileştirilebilir. Su Kemerleri yalnızca Şehir Merkezi'ne bitişik olan ve ayrıca bir Nehir, Göl veya Dağ'a bitişik olan karelere yerleştirilebilir. Su Kemeri bölgesinin tamamlanması, şehrin sudan elde ettiği [ICON_Housing] Konut'u 2 veya en fazla 6 artırır (hangisi daha büyükse); yani bir Nehir, Göl veya Vaha'ya bitişikse 7, aksi takdirde 6.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_TITLE">
+			<Text>Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_1">
+			<Text>Civilization VI'da binalar artık Şehir Merkezi'nizle sınırlı değildir; bölgelerin bir parçası olarak topraklarınıza yayılabilirler. Önemli stratejik yerleşim kararlarıyla karşı karşıya kalırken harita her zamankinden daha önemlidir. Kampüs ve Kutsal Alan'ın her biri Dağ karelerinin yakınına yerleştirilmekten özel güçlendirmeler alır, ancak Kampüs ayrıca yakındaki bir Yağmur Ormanı karesinden de faydalanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir şehir çok sayıda Bölge inşa edebilmek için [ICON_Citizen] Nüfusunu artırmalıdır:[NEWLINE]• 1 Bölge için 1 [ICON_Citizen] Nüfus[NEWLINE]• 2 Bölge için 4 [ICON_Citizen] Nüfus[NEWLINE]• 3 Bölge için 7 [ICON_Citizen] Nüfus[NEWLINE]• Her ilave Bölge için +3 [ICON_Citizen] Nüfus gerekir[NEWLINE]Su Kemeri, Mahalleler ve Uzay Limanları bu [ICON_Citizen] Nüfus gereksinimini yok sayar. Belirli bir miktarda [ICON_Citizen] Nüfus gerektiren bölgeler uzmanlık bölgeleridir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir şehir bir şey inşa etmeye hazır olduğunda, Üretim Seç düğmesi görünecektir. İnşa edilebilecek bir bölge varsa, bu menüde görünecektir. Şehrin inşaata başlaması için bölgeye tıklayın, bölge yerleştirme merceği açılacaktır. Burada, Şehir Merkezi'nizi çevreleyen karelerde mevcut olan farklı getiri sonuçlarına genel bir bakış sunulacak ve bölgenizi nereye yerleştireceğinize daha iyi karar verebileceksiniz. Bu mercek ayrıca hangi karelerin kullanılamaz olduğunu da gösterecektir; zira bazı bölgelerin çok özel yerleşim gereksinimleri vardır (örneğin, Ordugâh bir Şehir Merkezi'ne bitişik inşa edilemez). Ayrıca tüm bölgeler Şehir Merkezi'nin 3 kare içinde inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_10_CHAPTER_CONTENT_PARA_4">
+			<Text>Bölgeler, bu özellikleri kaldıracak teknolojiye sahipseniz Orman veya Yağmur Ormanı gibi özelliklerin üzerine yerleştirilebilir, ancak inşaat süresi daha uzun olur. Hiçbir Bölge taşkın yatağına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_TITLE">
+			<Text>Mahalleler ve Çekicilik</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Mahalleler, bir şehrin daha fazla [ICON_Citizen] Nüfus barındırmasını sağlayan ve Çekicilik'ten etkilenen özel bir bölgedir. 'Çekicilik' terimi, yalnızca Mahalleler için geçerli olan özel bir komşuluk bonusu biçimini tanımlamak için kullanılır ve ayrıca Milli Parklar ve Sahil Tatil Beldeleri aracılığıyla Kültür Zaferi'nin [ICON_Tourism] Turizm sistemini de etkileyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Nefes Kesen Mahalleler 6 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_3">
+			<Text>Büyüleyici Mahalleler 5 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_4">
+			<Text>Ortalama Mahalleler 4 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_5">
+			<Text>Davetkâr Olmayan Mahalleler 3 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_6">
+			<Text>Tiksindirici Mahalleler 2 [ICON_Housing] Konut sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_7">
+			<Text>Son olarak, Çekicilik ayrıca Milli Parklar ve Sahil Tatil Beldeleri yerleştirme yeteneğini de etkiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_8">
+			<Text>Bir karenin Çekiciliği, araç ipucunda görülebilir ve aşağıdakilerden etkilenir:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
+			<Text>+4: kare bir Dağ'ın üzerindeyse.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_10">
+			<Text>+2: Her bir komşu Doğa Harikası</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_11">
+			<Text>+1: Her bir komşu Kutsal Alan, Tiyatro Meydanı, Eğlence Kompleksi veya Harika</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_12">
+			<Text>+1: Her bir komşu Dağ, Kıyı, Orman veya Vaha</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
+			<Text>+1: Bölge bir Nehir veya Göl üzerindeyse</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_14">
+			<Text>+1: Her bir Şato ve Sfenks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_15">
+			<Text>-1: Her bir komşu Sanayi Bölgesi, Ordugah, Havaalanı veya Uzay Limanı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_16">
+			<Text>-1: Her bir komşu Yağmur Ormanı, Bataklık veya Taşkın Yatağı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_17">
+			<Text>-1: Her bir komşu yağmalanmış bölge</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_18">
+			<Text>-1: Her bir komşu Maden Ocağı, Taş Ocağı, Petrol Kuyusu, Açık Deniz Petrol Platformu ve Hava Pisti</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_TITLE">
+			<Text>Binalar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Bölgenizi inşa ettikten sonra, artık onu binalarla doldurmaya başlayabilirsiniz. Binalar, tıpkı bölgenizi inşa ettiğiniz gibi Üretim Menüsü üzerinden inşa edilebilir. Bazı binaların ön koşulları vardır; örneğin başka binalar veya teknoloji gereksinimleri; bu binalar Üretim Menünüzde görünmez olacaktır. Herhangi bir bölge yerleştirmeden önce inşa edilebilecek bazı binalarınız olduğunu fark edebilirsiniz; örneğin Anıt. Bu binalar Şehir Merkezi'nde bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_TITLE">
+			<Text>Harikalar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Harikalar, bir hücrenin tamamını kaplayan ve oynanış üzerinde önemli etkisi olan özel bir bina türüdür. Üretim Menüsü'nden birini inşa etmek üzere seçtiğinizde, tıpkı bir bölge inşa ederken olduğu gibi yerleştirme merceğine girersiniz. Çoğu harikanın belirli yerleştirme gereksinimleri vardır ve mercek hangi bölgelerin mevcut olduğunu vurgular. Tüm harikalar, bir Şehir Merkezi'ne 3 bölge mesafe içinde inşa edilmelidir. Bir şehirde bir harikayı tamamlarsanız, o şehir sınırlarını derhal iki bölge genişletecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Her harika benzersizdir. Birçok uygarlık aynı harikayı inşa etmeye kalkışsa da, sadece onu ilk tamamlayan uygarlık faydalarından yararlanabilir. Harikayı zamanında tamamlayamayan uygarlıklara, [ICON_Production] Üretim'in bir kısmı ve bir miktar [ICON_Gold] Altın iade edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Her harika hakkında daha fazla bilgi için Uygarlık Ansiklopedisi'nin Harikalar ve Projeler bölümüne bakın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_TITLE">
+			<Text>Saray</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Saray özel bir binadır. Bina ile harika arasında bir yerde duran Saray, inşa ettiğiniz ilk şehirde otomatik olarak belirir ve bu şehri imparatorluğunuzun [ICON_Capital] Başkenti yapar. Saray, uygarlığınıza küçük miktarlarda [ICON_Production] Üretim, [ICON_Science] Bilim, [ICON_Gold] Altın ve [ICON_Culture] Kültür sağlar. Eğer [ICON_Capital] Başkentiniz başka bir uygarlık tarafından ele geçirilir ve hâlâ kontrolünüz altında başka şehirleriniz varsa, Saray otomatik olarak başka bir şehre taşınır ve o şehir yeni [ICON_Capital] Başkentiniz olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_TITLE">
+			<Text>Vatandaşlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_8_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehirler, çevrelerindeki topraklara bağlı olarak gelişir. [ICON_Citizen] Vatandaşları toprakları 'işler', bölgelerden [ICON_Food] Besin, [ICON_Gold] Altın, [ICON_Production] Üretim, [ICON_Science] Bilim ve diğer birçok getiriyi toplar. [ICON_Citizen] Vatandaşlar, şehirden üç bölge mesafedeki ve uygarlığınızın sınırları içindeki bölgeleri işleyebilir. Şehriniz büyüdükçe, [ICON_Citizen] Vatandaşlarını otomatik olarak çevresindeki toprakları işlemeye atar. Dengeli bir [ICON_Food] Besin, [ICON_Production] Üretim ve [ICON_Gold] Altın miktarı sağlamaya çalışır. Bir şehrin [ICON_Citizen] Vatandaşlarına başka bölgeleri işlemelerini emredebilirsiniz - örneğin, belirli bir şehrin [ICON_Gold] Altın veya [ICON_Production] Üretime odaklanmasını istiyorsanız, Şehir Seçme Paneli'ndeki Vatandaşları Yönet simgesini seçerek [ICON_Citizen] Vatandaşlarınız için belirli bölgeler seçin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_TITLE">
+			<Text>Mutluluk</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_16_CHAPTER_CONTENT_PARA_1">
+			<Text>Mutluluk, tek bir şehirde yaşayan halkın memnuniyetini ölçer; bu da o şehrin [ICON_Citizen] Nüfus'unun beklenen sayıda [ICON_Amenities] Olanak'a sahip olup olmadığına bakılarak anlaşılır. 3 [ICON_Citizen] Nüfus'tan başlayarak her 2 [ICON_Citizen] Nüfus için 1 [ICON_Amenities] Olanak gerekir. Memnun durumdaki bir şehre herhangi bir değiştirici uygulanmaz; ancak Mutlu bir şehir %10 büyüme artışı ve %5 getiri artışı elde eder. Dahası, Coşkulu bir şehir %20 büyüme artışı ve %10 getiri artışı kazanır. Benzer şekilde, yeterli [ICON_Amenities] Olanak'ın bulunmaması [ICON_Citizen] Vatandaşlar arasında huzursuzluğa yol açar; büyüme ve getiriler olumsuz değiştiriciler alır. Huzursuzluk seviyesinde büyümeniz durur ve şehrinizde isyancı partizanlar türeyebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_TITLE">
+			<Text>Olanak Kaynakları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Amenities] Olanaklar çok çeşitli kaynaklardan gelebilir. Her Lüks Kaynak türü, en çok ihtiyaç duyan 4 şehre olmak üzere imparatorluğunuza 4 adede kadar [ICON_Amenities] Olanak (şehir başına 1) katkıda bulunabilir. Dağıtım, Lüks Kaynağın iyileştirilmiş olması koşuluyla (örneğin Baharat üzerine inşa edilmiş bir Plantasyon iyileştirmesi) otomatik olarak gerçekleşir. Eğlence Kompleksi'nde inşa edilen Arena bulunduğu şehre [ICON_Amenities] Olanak sağlar. Hayvanat Bahçesi ve Stadyum da [ICON_Amenities] Olanak sağlar, ancak bunlar bölgeseldir. Bazı Harikalar da [ICON_Amenities] Olanak sağlar. Ayrıca [ICON_Amenities] Olanak sağlayan birkaç Dini İnanç ve Politika bulunur. Bazı [ICON_GreatPerson] Büyük Kişiler de [ICON_Amenities] Olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_17_CHAPTER_CONTENT_PARA_2">
+			<Text>Savaş yorgunluğu ve iflas, bir şehirdeki [ICON_Amenities] Olanakları azaltacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_TITLE">
+			<Text>Uzmanlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_1">
+			<Text>Uzmanlar, [ICON_Citizen] Vatandaşlar için alternatif görevlendirmelerdir; normal bir bölge yerine bir bölge hücresinde çalışmayı içerir. Genel bir kural olarak, uzmanlar normal bölgelerde bulunması zor getirileri elde etmek için iyi bir yoldur, ancak şehrin uzun vadede onları desteklemek için sağlam bir [ICON_Food] Besin tabanına ihtiyacı vardır. Uzmanlar ayrıca bir şehrin oyunun ilerleyen safhalarında büyümesi ve işlenecek normal bölgeden daha fazla [ICON_Citizen] Nüfus'a sahip olması durumunda özellikle kullanışlıdır. Her biri farklı etkilere sahip çeşitli uzman türleri vardır. Genel [ICON_Citizen] Vatandaş dışındaki tüm uzman türlerinin bir şehirde kaç tane görevlendirme yapılabileceğine dair bir sınırı vardır. Bu sınır, o uzman türüyle ilişkili bölgedeki bina sayısına göre belirlenir. Binanın sayfasını kontrol ederek bölgeye ek [ICON_Citizen] Vatandaş getirisi ekleyip eklemediğini görebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Bilim İnsanları, Kampüs'te çalışır ve +2 [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_3">
+			<Text>Rahipler, Kutsal Alan'da çalışır ve +2 [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_4">
+			<Text>Komutanlar, Ordugah'ta çalışır ve +1 [ICON_Production] Üretim ile +2 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_5">
+			<Text>Kaptanlar, Liman'da çalışır ve +1 [ICON_Food] Besin ile +2 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_6">
+			<Text>Tüccarlar, Ticaret Merkezi'nde çalışır ve +4 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_7">
+			<Text>Mühendisler, Sanayi Bölgesi'nde çalışır ve +2 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_8">
+			<Text>Sanatçılar, Tiyatro Meydanı'nda çalışır ve +2 [ICON_Culture] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
+			<Text>Dünya</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_TITLE">
+			<Text>Arazi ve Özellikler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Civilization VI'da dünya, altıgen şekilli "hücrelerden" (bazen altıgen veya alan olarak da anılır) oluşur. Bu hücreler Çöl, Ova, Çayır, Tepe vb. çeşitli "arazi türlerine" sahiptir ve birçoğu ayrıca Ormanlık ve Yağmur Ormanı gibi "özellikler" içerir. Bu unsurlar, hücrenin yakındaki bir şehir için kullanışlılığını ve ayrıca bu hücrede hareket etmenin ne kadar kolay veya zor olduğunu belirlemeye yardımcı olur. Bir hücrenin arazisi ve özellikleri, orada gerçekleşen herhangi bir muharebede önemli etkilere sahip olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Oyundaki her hücre bir kıtaya aittir. Kıtalar coğrafi sınırlardır ve mutlaka bir kara parçasına bağlı değillerdir. Örneğin Pangea haritası birkaç kıtadan oluşur. Bir hücrenin hangi kıtada olduğunu, o hücrenin araç ipucundan veya kıta merceğini görüntüleyerek belirleyebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_TITLE">
+			<Text>Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Kaynaklar, [ICON_Food] Besin, [ICON_Production] Üretim vb. gibi çeşitli getirilerin kaynaklarıdır ve bazıları bir uygarlığa başka özel bonuslar da sağlar. Belirli altıgenlerde ortaya çıkarlar. Bazıları oyunun başında görünürken, diğerlerini görmek için belirli teknolojilerin elde edilmesi gerekir. Bir kaynağı kullanmak için, uygarlığınızın sınırları içinde olmalı ve o altıgende uygun "iyileştirmeyi" inşa etmelisiniz. Üç tür kaynak vardır: Bonus, Lüks ve Stratejik.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Bonus kaynaklar, bir altıgenin [ICON_Food] Besin, [ICON_Gold] Altın veya [ICON_Production] Üretim çıktısını artırabilir. Bonus kaynaklar diğer uygarlıklarla ticarete konu olamaz. Bu kaynaklar İşçiler tarafından "hasat edilerek" kaynak kaldırılabilir ve altıgene sahip olan şehre anında, tek seferlik bir [ICON_Food] Besin veya [ICON_Production] Üretim miktarı sağlanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Lüks kaynaklar, medeniyetinize [ICON_Amenities] Olanaklar sağlayarak mutluluğu artırır ve bölgenin getiri çıktısına küçük bir bonus verir. Belirli bir lüks kaynağın yalnızca bir kaynağı [ICON_Amenities] Olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_4">
+			<Text>Stratejik kaynaklar oyun başlangıcında her zaman görünmez; haritada belirmeleri için belirli bir teknolojinin bilinmesi gerekebilir. Stratejik kaynaklar belirli birlikler inşa etmenize olanak tanır. Bir Stratejik kaynak bölgesinde bir iyileştirme inşa ettiğinizde, bu kaynağı gerektiren birlikleri (örneğin Tüfekçiler Güherçile gerektirir) uygun bir bölgeye sahip olan herhangi bir şehrinizde inşa edebilirsiniz—kara birlikleri için Ordugâh, deniz birlikleri için Liman veya hava birlikleri için Hava Meydanı. Bu kaynağın 2 kopyası üzerinde bir iyileştirme inşa ederseniz, uygun bölgeye sahip olsun ya da olmasın, bu birlikleri herhangi bir şehirde inşa edebilir veya satın alabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_3_CHAPTER_CONTENT_TITLE">
+			<Text>Doğa Harikaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Doğa harikaları, hepimizi hayrete düşüren ve ilham veren, doğanın büyük ve görkemli yaratımlarıdır. Bunlar Krater Gölü ve Bariyer Resifi gibi doğal dünyanın yüce güzelliğini gerçek anlamda sergileyen yerleri içerir. Tüm doğa harikaları medeniyetinize eşsiz faydalar sağlar ve bazılarının ek özel etkileri bile vardır (örneğin, Ölü Deniz'in yanında iyileşmek bir birimin sağlığını tamamen yeniler).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_TITLE">
+			<Text>Nehirler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Geleneksel olarak şehirler, haklı sebeplerle nehirler boyunca inşa edilmiştir. Nehirler, insanların içmesi için tatlı su ve sulama sağlayarak şehrin etrafındaki tarım arazilerini iyileştirir. Ayrıca bir şehri korurlar, çünkü bir nehrin karşısından bir şehre saldırı düzenlemek oldukça zordur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Nehirler, tüm birliklerin Kontrol Bölgesi'ni engeller.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_TITLE">
+			<Text>Kabile Köyleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Kabile köyleri, diğer medeniyetlere kıyasla daha az medenidir, ancak yine de dost canlısıdır. Kabile köylerini ziyaret etmek, bölgelerine ilk giren birliğin medeniyetine rastgele bir fayda sağlar. Köy, hediyeleri alındıktan sonra kaybolur. Hediyeler; İşçi veya Tüccar gibi sağ kalanları, teknoloji veya teknoloji hızlandırmalarını, askeri birlikleri, [ICON_Faith] İnanç, [ICON_Gold] Altın, [ICON_GreatWork_Relic] Kutsal Emanetler veya toplumbilim hızlandırmalarını içerir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_TITLE">
+			<Text>Barbarlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Barbarlar, bir birim tarafından görülemeyen herhangi bir bölgede rastgele belirebilen "karakollar"dan gelir. Her Barbar birliği, kendi ana karakoluna aittir. Üç tür Barbar karakolu vardır: Deniz, Süvari ve Yakın Dövüş. Bir medeniyet, bir Barbar karakolunu dağıtarak, daha fazla Barbar birliği doğurmasını engelleme avantajına ek olarak bir [ICON_Gold] Altın ödülü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Sahil şeridindeki Deniz Barbar karakolları, en gelişmiş teknolojiye sahip medeniyet tarafından üretilebilenlere eşdeğer deniz birimleri oluşturabilir. Bu birimler sahil şeridinizi tehdit eder, deniz iyileştirmelerini tahrip eder ve kıyıya fazla yaklaşan zavallı kara birliklerine saldırır. Onları başınızdan savmak için bir donanma bulundurmak önemlidir, ancak bu saldırıları durdurmanın en iyi yolu yakındaki kıyı karakollarını yok etmektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_3">
+			<Text>İç kesimlerde ve bir At kaynağının yakınında beliren Süvari karakolları, atlı birlikler doğurur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_4">
+			<Text>Yakın Dövüş karakolları, doğan diğer tüm Barbar örneklerini kapsar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_6_CHAPTER_CONTENT_PARA_5">
+			<Text>Her karakol, hedef aramak için önce bir İzci üretecektir. Bir Barbar İzci tarafından fark edilirseniz, karakoluna dönecek ve bir istila veya akın için birlikler inşa etmeye başlayacaktır. Dikkatli olun, çünkü bir sonraki hedef siz olacaksınız. Hızlı hareket etmezseniz, kısa süre içinde sınırlarınızda, iyileştirmelerinizi yok etmeye veya şehrinizi fethetmeye hazır bir Barbar grubu göreceksiniz. Bu nedenle, medeniyetinizin etrafındaki kırsal alanı periyodik olarak tarayarak karakolları bir tehdit haline gelmeden yok etmek önemlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_TITLE">
+			<Text>Mercekler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Mercekler, dünyaya bakış açınızı değiştirmek için kullanabileceğiniz bir araçtır. Her mercek, oyunda stratejik kararlar almanıza yardımcı olacak önemli bilgileri görüntüler. Bazı mercekler, bir şehrin Üretim Menüsü'nden bir bölge yerleştirmeyi seçtiğinizde olduğu gibi otomatik olarak etkinleştirilir. Diğerleri, mini haritadaki Mercekler düğmesinden manuel olarak etkinleştirilebilir. Oyunda kullanabileceğiniz mercekler ve yaptıkları şunlardır:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Çekicilik. Her bölgenin çekicilik seviyesini gösterir.[NEWLINE][NEWLINE]Kıta. Her kıtanın coğrafi kapsamını gösterir.[NEWLINE][NEWLINE]Bölge Yerleşimi. Harikalar ve bölgeler için geçerli yerleşim konumlarının yanı sıra bölgeler için mevcut komşuluk bonuslarını gösterir. Bu yalnızca bir bölge veya harika inşa etmeye çalışırken görünür.[NEWLINE][NEWLINE]Hükümet. Haritadaki hükümetlerin dağılımını gösterir.[NEWLINE][NEWLINE]Siyasi. Her bölgenin sahibini gösterir.[NEWLINE][NEWLINE]Din. Haritadaki çoğunluk dinini ve dini takipçi dağılımını gösterir. Bu, bir Dinî birim seçildiğinde görünür.[NEWLINE][NEWLINE]Yerleşimci. Önerilen şehir yerlerini ve her bölgedeki su mevcudiyetini gösterir.[NEWLINE][NEWLINE]Turizm. Bir bölgenin çektiği [ICON_Tourism] Turist sayısını gösterir.[NEWLINE][NEWLINE]İmparatorluk. Şehir sınırlarınızı ve komşuluk bonuslarıyla birlikte bölge konumlarını gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_COMBAT_NAME">
+			<Text>Muharebe</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Muharebe, birbiriyle savaş halinde olan iki siyasi güç arasında gerçekleşir. Bir uygarlık, başka bir uygarlıkla veya bir şehir devletiyle savaş halinde olabilir. Barbarlar ise tüm uygarlıklar ve şehir devletleriyle daima savaş halindedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Savaş İlanı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Savaş ilan etmenin birkaç yolu vardır. İlk yol, kontrolünüzdeki bir askeri birliği başka bir uygarlığın birliğinin üzerine sürüklemektir. Bu işlem, savaşı başlatmak isteyip istemediğinizi soran bir açılır pencere görüntülenmesine neden olur. Alternatif olarak savaş, Diplomasi Penceresi'nden ilan edilebilir. Bu pencerede, müttefik ilan ettiğiniz uygarlıklar dışında her zaman sürpriz savaş ilanı seçeneğiniz bulunur. Sürpriz savaş ilanı yapmanız halinde uygarlığınız ağır bir savaş kışkırtıcılığı cezasına çarptırılır. Bu cezanın bir kısmından (hepsinden değil) kaçınmak için, önce kusurlu uygarlığı kınayın ve kısa süre sonra Diplomasi Penceresi'nde resmî savaş ilanı seçeneği belirecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Savaş Yorgunluğu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir ulusu sürekli savaş halinde tutmak, halkınızın üretkenliğini ve mutluluğunu azaltır. Yaptığınız her muharebede savaş yorgunluğu artar. Bu birikim, muharebeler yabancı topraklarda gerçekleştiğinde veya birlikleriniz öldürüldüğünde daha da kötüleşir. Birlikleriniz bir nükleer silahla öldürülürse durum daha da vahimdir, ancak kendiniz nükleer silah kullanmak savaş yorgunluğunun en büyük kaynağıdır. Biriktirdiğiniz tüm savaş yorgunluğu, içinde bulunduğunuz çağa ve savaşı bir Savaş Gerekçesi kullanmadan ilan edip etmediğinize bağlı olarak artar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Savaş yorgunluğu, sahip olduğunuz her şehre negatif [ICON_Amenities] Olanak olarak uygulanır; şehir büyümenizi ve üretkenliğinizi düşürür. [ICON_Amenities] Olanaklarınızın uzun süre düşük kalması, şehirlerinizde asi partizanların ortaya çıkmasına neden olabilir. Bu düşman birlikler, birliklerinize saldıracak ve arazi birimlerinizi ile bölgelerinizi yağmalayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Savaş yorgunluğu, savaş halindeyken yavaşça azalırken, hiçbir oyuncuyla savaş halinde olmadığınızda çok daha hızlı bir şekilde azalır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_TITLE">
+			<Text>Savaş Kışkırtıcılığı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Savaş kışkırtıcılığı yalnızca diplomatik bir sonuçtan ibaret değildir; belirli bir bakış açısından son derece onurlu bir şey olarak da görülebilir. Napolyon'un fetihlerinin ilk günlerinde bir askerin, General ve İmparator'unun sürekli savaş kışkırtıcılığını haklı bir dava olarak gördüğü söylenir. Ancak, haklı gerekçesi olmayan veya Savaş Gerekçesi bulunmayan bir savaş başlatmanın ciddi cezaları vardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Savaş Gerekçesi olmadan savaş başlatan bir oyuncu (bkz. Diplomasi altındaki Savaş Gerekçesi bölümü), halihazırda çekilen savaş yorgunluğuna ek olarak, temas kurduğu diğer uygarlıklardan diplomatik savaş kışkırtıcılığı cezaları biriktirmeye başlar. Sürpriz savaş başlatmak, karşı uygarlıkların şehirlerini ele geçirmek, ele geçirilen şehirleri yerle bir etmek ve nükleer silah kullanmak, oyuncunun içinde bulunduğu çağa bağlı olarak diplomatik cezayı artırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_3">
+			<Text>Diğer yaklaşım ise önce karşı uygarlığı kınamak ve ardından resmî olarak savaş ilan etmektir. Bu savaş yolunda savaş kışkırtıcılığı cezaları artmaz ve bu cezaları azaltmak için Savaş Gerekçesi kullanma fırsatı doğar. Ancak, önce rakibinizi kınamanız gerektiğinden, bu plan hedef tarafından 'önceden sezilir' ve sürpriz avantajından yararlanamazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Savaşı Bitirmek</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Savaşlar şiddetle veya barışçıl yollarla sona erebilir. Bir taraf yok edildiğinde savaş şiddetle sona erer. Bu, o tarafın son şehrini kaybetmesiyle gerçekleşir. Bir savaşın barışçıl çözümü diplomatik müzakereleri içerir. Siz veya rakibiniz bir Barış Anlaşması başlatabilir. Daha fazla ayrıntı için Diplomasi bölümüne bakın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Barbarlar asla müzakere etmez. Barbarlarla savaş, Barbarlar yok edilene kadar devam eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Birim Muharebe İstatistikleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Civilization VI'da askeri birliklerin beş muharebe odaklı istatistiği vardır: Can Puanı, [ICON_Strength] Muharebe Gücü, [ICON_Ranged] Menzil Gücü, [ICON_Bombard] Bombardıman Gücü ve [ICON_Range] Menzil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Tüm birlikler 100 Can Puanına sahiptir. Bir birim hasar aldıkça Can Puanı kaybeder. Bir birim, tüm Can Puanını kaybettiğinde yok olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Tüm askeri birlikler [ICON_Strength] Muharebe Gücüne sahiptir. Yakın dövüş birlikleri saldırırken veya savunurken [ICON_Strength] Muharebe Güçlerini kullanır. Menzilli birlikler savunurken [ICON_Strength] Muharebe Güçlerini kullanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_4">
+			<Text>Menzilli muharebeye girebilen her birimin bir [ICON_Ranged] Menzil Gücü istatistiği vardır. Bu sayı, saldırının sonucunu belirlemek için hedefin [ICON_Strength] Muharebe Gücü ile karşılaştırılır. [ICON_Ranged] Menzil Gücüne sahip kara birlikleri ayrıca bölge savunmalarına da saldırabilir, ancak daha düşük bir etkinlikle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_5">
+			<Text>[ICON_Bombard] Bombardıman Gücü, bir birimin bölge karşıtı gücüdür. [ICON_Bombard] Bombardıman Gücüne sahip birlikler ayrıca diğer birliklere de saldırabilir, ancak daha düşük bir etkinlikle. Kara birlikleri hem [ICON_Bombard] Bombardıman hem de [ICON_Ranged] Menzil Gücüne aynı anda sahip olamaz, ancak deniz birlikleri esasen hem [ICON_Bombard] Bombardıman hem de [ICON_Ranged] Menzilli birlikler olarak işlev görür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_6">
+			<Text>Bir birimin [ICON_Range] Menzil değeri, o birimin ne kadar uzaktaki bir hedefe menzilli saldırı yapabileceğini belirler. [ICON_Range] Menzil'in "2" olması, hedefin ya bitişik bölgede ya da bir bölge ötede olabileceği anlamına gelir. [ICON_Range] Menzil'in "1" olması ise hedefin, saldırgana bitişik olması gerektiğini ifade eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_5_CHAPTER_CONTENT_PARA_7">
+			<Text>Bazı birimlerin [ICON_AntiAir_Large] hava savunma değeri vardır. Bu birimler, hava savunma menzilleri dahilindeki hava saldırılarına karşı otomatik olarak savunma yapar. [ICON_AntiAir_Large] hava savunma gücü, saldıran hava aracıyla girilen muharebenin sonucunu belirlemekte kullanılır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_TITLE">
+			<Text>Görüş Hattı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Genel olarak, menzilli bir birim ile hedefi arasında Dağ gibi engeller bulunmamalıdır. Tepeler üzerindeki veya uçan birimler genellikle engel oluşturan arazinin üzerinden görebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_TITLE">
+			<Text>Muharebe Bonusları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Savaş yalnızca deneyimli ve iyi teçhizatlanmış olanların işi değildir. Askeri tarih, üstün taktikler, liderlik ve arazi avantajlarını kullanan savaşçının, sayıca üstün ve daha iyi donanımlı bir kuvveti defalarca mağlup edebileceğini göstermiştir. Civilization VI'da da durum farklı değildir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Askeri gücünüzü doğru kuvvet organizasyonu, birleşik silahlar, liderlik ve arazinin sezgisel kullanımıyla birleştirerek, ne kadar büyük veya küçük, ne kadar gelişmiş veya gelişmemiş olursa olsun düşman ordularını yok etme gücüne sahip olabilirsiniz. Araziyi avantajınıza kullanarak kuvvetlerinizi Tepelere, Yağmur Ormanlarına veya Korulara konumlandırabilir ve düşmanınıza karşı Nehirlerin karşı yakasına geçerek belirgin bir savunma avantajı elde edebilirsiniz. Düşmanın size yaklaşırken arazi üzerindeki hareketlerini izlemek, onların savaş planını veya saldırmayı hedefledikleri noktaları daha iyi anlamanıza da yardımcı olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_3">
+			<Text>Arazi muharebeniz açısından dezavantajlı da olabilir; savunulabilirliğinizi olumsuz etkiledikleri için Taşkın Ovalarında ve Bataklıklarda savaşmaktan kaçının. Kendinizi savunulamaz bir arazide bulursanız ve düşmanı saldırıyla yenebileceğinizi düşünmüyorsanız, belki birkaç Kale inşa etmek düşmanı geri püskürtmenize yardımcı olabilir. Düşmanın kanatlarına saldırmayı unutmayın; burası onların en zayıf noktasıdır ve size avantaj sağlayacaktır! Doğru arazi düzenlemeleriyle donatılmış bir askeri gücü, bir Büyük General'in desteğiyle kullanmak zaferi garantileyecektir!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_4">
+			<Text>Kanatlama ve Destek bonusları: Sahada zaferi garantilemek için düşmanı manevrayla alt etmek ve sahadaki birimlerin muharip arkadaşları tarafından desteklenmesini sağlamak önemlidir. Civilization VI'da bunu Kanatlama ve Destek bonuslarıyla simüle ediyoruz. Oyuncu, Askeri Gelenek sosyal politikasını tamamladığında, ordusu bu bonuslardan faydalanabilecek kadar ilerlemiş sayılır.[NEWLINE][NEWLINE]Kanatlama: Bir düşman yakın dövüş birimi, bir saldırı sırasında 2 veya daha fazla bitişik dost yakın dövüş birimi tarafından kuşatılmışsa, kanatlanmış sayılır ve bu durum, kanatlayan her bir ek yakın dövüş birimi için saldırgana +2 muharebe bonusu kazandırır.[NEWLINE][NEWLINE]Destek: Bir düşman yakın dövüş saldırısına karşı savunma yaparken, savunan birim, bitişiğindeki her bir dost birim için +2 muharebe bonusu kazanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
+			<Text>Deneyim ve Terfiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_PARA_1">
+			<Text>Muharebeden sağ çıkan veya bir Kabile Köyü keşfeden bir birim, "Deneyim Puanı" (XP) kazanır. Bir birim belirli bir miktar XP'ye ulaştığında 'seviye atlayacak' ve bu noktada bir terfi alabilecektir. Terfiler birimi bir şekilde güçlendirir. Bir terfi seçildiğinde, birim belirli miktarda Can Puanı iyileştirilir. Terfi seçilene kadar birim daha fazla XP kazanmaya devam etmez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_TITLE">
+			<Text>Şehir Muharebesi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehirlere askeri birlikler tarafından saldırılabilir ve şehirler ele geçirilebilir. Her şehrin, diğer birimler tarafından saldırıya uğradığındaki direncini belirleyen bir "Şehir Muharebe Gücü" değeri vardır. Şehrin Şehir Muharebe Gücü ne kadar yüksekse, şehri ele geçirmek o kadar zordur. Şehir son derece zayıf veya saldıran birim son derece güçlü olmadıkça, bir şehri ele geçirmek birkaç tur sürecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Surlar, bir şehre veya Ordugaha ekstra koruma sağlayarak fethedilmesini çok daha zor hale getirir. Bu koruma, şehri saldırılara karşı kalkanlayan bir zırh gibidir. Yakın dövüş birlikleri Surlara normal hasarlarının yalnızca %15'ini verirken, menzilli birlikler normal hasarlarının yalnızca %50'sini verir. Yalnızca Bombardıman birlikleri Surlara normal hasarlarının %100'ünü verir; bu da onları müstahkem bir şehri ele geçirmek için gerekli kılar. Surlar hasar alırsa etkinlikleri azalır ve bölgenin canı her saldırıda bir miktar hasar almaya başlar. Surlar, tıpkı bölge binalarını onarmak gibi, şehrin Üretim Kuyruğunda bulunan ve bölgeye 3 tur üst üste hasar verilmezse kullanılabilir hale gelen bir Proje ile canını geri kazanabilir. Bir şehir Surlara sahip olduğunda, "Şehir Menzilli Gücü" değerini kullanarak düşman birimlerine karşı menzilli saldırılar yapabilir.[NEWLINE][NEWLINE]Şehir Muharebe Gücü, uygarlığınız tarafından inşa edilen en güçlü yakın dövüş biriminin [ICON_Strength] Muharebe Gücü eksi 10 veya garnizondaki bir askeri birimin [ICON_Strength] Muharebe Gücü esas alınarak belirlenir.[NEWLINE][NEWLINE]Şehir Menzilli Gücü, uygarlığınız tarafından inşa edilen en güçlü menzilli birimin [ICON_Ranged] Menzilli Gücü esas alınarak belirlenir.[NEWLINE][NEWLINE]Şehir, yağmalanmamış her bir bölgesi için Şehir Muharebe Gücüne ek bonuslar alır; bu da büyük şehirleri ele geçirmeyi zorlaştırır. Ayrıca arazi ve diğer bazı değiştirici kaynaklardan da bonus alır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_9_CHAPTER_CONTENT_PARA_3">
+			<Text>Şehirler ayrıca saldıran birlikler tarafından kuşatma altına alınabilir. Şehir Merkezi ve Ordugah gibi diğer savunulabilir bölgeler, etraflarındaki 6 bölgenin tamamı düşman birimleri tarafından işgal edilmişse, düşman Kontrol Bölgesi altındaysa veya dağlar ya da Doğa Harikaları nedeniyle geçilmez durumdaysa kuşatma altında sayılır. Bu durumlarda, bölge normalde her tur otomatik olarak iyileşmek yerine, kaybettiği canı geri kazanamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_TITLE">
+			<Text>Bir Şehri Fethetmek</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_10_CHAPTER_CONTENT_PARA_1">
+			<Text>Birliğiniz bir düşman şehrine girdiğinde iki seçeneğiniz vardır: şehri yok edebilir (bir [ICON_Capital] Başkent değilse) veya ilhak ederek imparatorluğunuzun bir parçası haline getirebilirsiniz. Eğer bu şehir daha önce başka bir uygarlığa aitse, onu asıl sahibine kurtarmayı da seçebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_TITLE">
+			<Text>Formasyonlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_1">
+			<Text>Formasyonlar, birimleri birlikte kolayca hareket ettirmenizi sağlar. Bu, düşman topraklarında sivil birimlere refakat etmek veya hatta Kolordu ve Ordular halinde daha güçlü birimler oluşturmak için faydalı olabilir. Bir askeri birim, herhangi bir zamanda bir destek veya sivil birimle formasyon oluşturabilir. Deniz askeri birimleri ayrıca gemiye binmiş kara birimleriyle de formasyon oluşturabilir. Kuşatma birimleri gibi destek birimleri, başka bir askeri birimle bağlantılı olduklarında savaşta en etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Sanayi Çağı'ndan itibaren, Milliyetçilik sosyal politikası tamamlandıktan sonra, oyuncular aynı türden birden fazla askeri birimi tek bir daha güçlü birimde birleştirme yeteneğini açabilecekler. Aynı türden iki askeri birim, bir Kolordu oluşturmak için birleşebilir ve bu da temel [ICON_Strength] Muharebe Güçlerine +10 bonus kazandırır. Seferberlik araştırıldıktan sonra, aynı türden üç birim bir Ordu oluşturmak için birleştirilebilir ve bu da temel [ICON_Strength] Muharebe Güçlerine +7 bonus kazandırır. Unutmayın ki birimler bu şekilde birleştirildiğinde Can Puanları ARTIRILMAZ.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_12_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir Kolordu veya Ordu oluşturulduğunda, bu birimler tekrar münferit birimlere ayrılamaz. Bu tür bir düzen oluşturulurken en yüksek tecrübeye sahip birimin tecrübesi ve terfileri korunur; bu nedenle acemi birimlerin daha tecrübeli olanlarla birleştirilmesi faydalıdır. Deniz birimleri de Donanma ve Armadalar halinde birleştirilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_TITLE">
+			<Text>Yağmalama</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_1">
+			<Text>Garnizonu bulunmayan bölgelerdeki iyileştirmeler ve binalar yağmalanabilir. Bu eylem onları kullanılamaz hale getirir ve yağmalayan birime bir tür "yağma" kazandırır. İyileşme dışında, bu yağma ödülleri oyun ilerledikçe büyüklük olarak artar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir bölgeyi yağmalamak 3 Hareket Puanı veya tüm hareket hakkınızı gerektirir. Bölgedeki her bina ayrı ayrı yağmalanmalıdır ve bölgeye göre bir tür yağma ödülü verir. Belirli getiriler için bölgenin sayfasına bakın. Bir kere yağmalandıktan sonra, bina sahibi tarafından tekrar kullanıma açılana kadar (Üretim Menüsü aracılığıyla yapılır ve o binanın ilk inşasının [ICON_Production] Üretim maliyetinin %25'ini alır) tekrar yağmalanamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir iyileştirmeyi yağmalamak 3 Hareket Puanı veya tüm hareket hakkınızı gerektirir (eğer [ICON_Movement] Hareket Puanınız 3'ten azsa). Bu, bölgedeki iyileştirmeyi "yağmalanmış" olarak işaretler. Bir kere yağmalandıktan sonra, iyileştirme sahibi tarafından tekrar kullanıma açılana kadar (her zaman bir tur süren ancak bir İşçi hakkı gerektirmeyen bir İşçi operasyonu) tekrar yağmalanamaz. Belirli getiriler için iyileştirmenin sayfasına bakın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MOVEMENT_NAME">
+			<Text>Birim Hareketi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Hareket Puanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Tüm hareketli birimlerin her tur [ICON_Movement] Hareket için harcayabilecekleri belirli sayıda [ICON_Movement] Hareket puanı vardır. Bu [ICON_Movement] Hareket puanlarını harcadıktan sonra, bir sonraki tura kadar daha fazla hareket edemezler. Birimler, bölgelere girmek, diğer birimlere saldırmak veya iyileştirmeleri ya da bölgeleri yağmalamak için [ICON_Movement] Hareket puanı harcar. Bir birimin girdiği bölgenin arazisi, hareketin [ICON_Movement] Hareket puanı maliyetini belirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Yollar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Yollar, dünyada dolaşmanın önemli bir parçasıdır. Antik Çağ'dan itibaren Tüccar birimleri tarafından inşa edilen yollar, bir yol bölgesinden diğerine giderken bir bölgenin [ICON_Movement] Hareket maliyetini 1'e düşürerek işe başlar. Teknoloji ilerledikçe, daha iyi ve daha iyi yollar, hatta köprüler inşa etme yeteneğinin kilidini açacaksınız. Modern yollar, örneğin, bir yol bölgesinden diğerine giderken [ICON_Movement] Hareketi bölge başına yarım [ICON_Movement] Hareket puanına düşürür. Tüm yollar, birimlerin arazi kaynaklı hareket cezalarını görmezden gelmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Yollar Tüccarlar tarafından inşa edilir, ancak Askeri Mühendisler tarafından manuel olarak da inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Kontrol Bölgesi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Birçok muharebe birimi, çevrelerindeki bölgeler üzerinde bir "Kontrol Bölgesi" (ZOC) etkisi uygular. Bir düşmanın ZOC'sine giren muharebe birimleri, kalan [ICON_Movement] Hareket puanları ne olursa olsun durmak zorundadır. Bir düşmanın ZOC'si tarafından durdurulan birimler, eğer gerekli [ICON_Movement] Hareket puanına sahipse saldırma seçeneğine sahiptir.[NEWLINE][NEWLINE]Menzilli ve Bombardıman sınıfı birimler ZOC uygulamaz. Süvari birimleri ile Deniz Akıncısı sınıfı birimler, bir düşmanın ZOC'sini görmezden gelme yeteneğine sahiptir.[NEWLINE][NEWLINE]Dinî birimler, diğer dinî birimlere karşı ZOC uygular.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Nehirler, tüm birimlerin Kontrol Bölgesi'ni engeller.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Deniz Hareketi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Genel olarak, deniz birimleri kara birimleriyle aynı kurallara uyar; tek fark, karada değil suda hareket etmeleridir. Erken dönem deniz birimleri genellikle kıyı suları (kara bölgelerine bitişik olanlar) ve kıyı şehirleriyle sınırlıdır. Zamanla, açık deniz bölgelerine girebilen ve böylece dünyayı keşfedebilen deniz birimleri üreteceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Birimleri Gemiye Bindirme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Oyunun başında, kara birimleriniz hiçbir su bölgesine giremez. Ancak Yelken teknolojisini öğrendikten sonra İşçiler kıyı su bölgelerine hareket edebilecektir. Gök Cisimleriyle Seyrüsefer'den sonra Tüccarlar gemiye binebilecektir. Gemi İnşası'ndan sonra ise tüm birimler gemiye binebilecektir. Bir birimi gemiye bindirmek için, birimi bir kıyı bölgesine taşıyın ve ardından "Taşı" eylemine tıklayın. Bir kez gemiye bindikten sonra, birim suya girmelidir.[NEWLINE]Gemiye binen kara birimleri bir nakliye gemisinde kabul edilir ve karada olduğu gibi aynı muharebe yeteneklerine sahip değildir. Gemiye binmiş kara birimleri ayrıca azaltılmış bir Muharebe Gücüne maruz kalır ve yalnızca dost sularda iyileşebilir, bu da onları düşman deniz birimlerinin saldırılarına karşı çok daha savunmasız hale getirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_SCIENCE_NAME">
+			<Text>Bilim ve Teknoloji</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Edindiğiniz her teknoloji, uygarlığınıza gelişmiş bir birim, bina, kaynak veya harikanın kapılarını aralar; ya da Ormanları kesmek ve Sığırları toplamak gibi somut faydalar sağlar. Her yeni teknoloji, uygarlığınızı bir adım daha güçlü kılar. Her turda, uygarlığınız [ICON_Science] Bilim havuzuna katkıda bulunur ve yeterli [ICON_Science] Bilim biriktirdiğinizde yeni bir teknoloji elde edersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Bilim Elde Etme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Science] Bilim; [ICON_Citizen] Vatandaşlarınızdan (her [ICON_Citizen] için 0,7), Sarayınızdan, bazı Politikalar, bazı Dini İnançlar, bazı kaynaklar, harikalar, ticaret ve elbette Kampüs bölgesi ile binalarından olmak üzere pek çok kaynaktan elde edilir. [ICON_Science] Bilim kaynaklarını keşfetmek için Uygarlık Ansiklopedisi'ne göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Buluş Anları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Buluş anları, diğer adıyla "teknoloji sıçramaları", bir teknoloji üzerindeki araştırmanıza anında ve önemli bir ivme kazandırır. Bu sıçramaları oyunu doğal akışında oynarken elde edersiniz; yaptıklarınız ne tür Buluş anlarıyla karşılaşacağınızı belirler. Örneğin, kıyıya bir şehir kurmak Yelken Araştırması'nı, bir Mera oluşturmak ise At Biniciliği araştırmasını hızlandırır. Teknoloji Ağacı, her teknolojiyle ilişkili sıçramaları listeler ancak bu sıçramaları başka kaynaklardan da (Büyük Şahsiyetler, Araştırma Anlaşmaları veya takım için ortak araştırma gibi) elde edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_4_CHAPTER_CONTENT_TITLE">
+			<Text>Teknoloji Ağacı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Tüm bunların oyunda nasıl işlediğini görmek için muhteşem Teknoloji Ağacı'na göz atın. Bu ağaç, tüm teknolojileri ve bunların birbiriyle olan bağlantılarını gösterir. Uygarlığınızın araştırmasını emretmek için bir teknolojiye tıklayabilirsiniz – eğer uygarlığınız ön koşul teknolojileri bilmiyorsa, onları da araştıracaktır. Teknoloji Ağacı, istenen teknolojiye giden en kısa yolu belirler ve gerekli öncülleri gösterdiği sırayla araştırırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CULTURE_NAME">
+			<Text>Kültür ve Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Culture] Kültür, Yönetim Bilimleri Ağacı'nda ilerlemenizi, yeni politikalar ve hükümetlerin kilidini açmanızı sağlar. Ayrıca şehirlerinizin topraklarını genişletir. En önemlisi, [ICON_Culture] Kültür zafere giden başka bir yol olabilir. Edindiğiniz her yönetim bilimi, uygarlığınıza yeni politikalar veya hükümetlerin yanı sıra bazı binalar, bölgeler ve diplomatik ilerlemeler kazandırır. [ICON_Culture] Kültür biriktirerek yeni yönetim bilimleri edinirsiniz. Uygarlığınız her tur havuzuna belirli miktarda [ICON_Culture] Kültür ekler. Her bir yönetim biliminin öğrenilmesi belirli bir miktar [ICON_Culture] Kültür gerektirir; yeterli [ICON_Culture] Kültür biriktirdiğinizde o yönetim bilimini elde edersiniz. Yeni bir yönetim bilimi edindiğinizde havuzunuz boşalır ve bir sonraki yönetim bilimi için yeniden biriktirmeye başlarsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Kültür Elde Etme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Culture] Kültür; harikalar, politikalar, lider yetenekleri, doğa harikaları, şehir devletleri, inançlar, [ICON_TradeRoute] Ticaret Yolları ve elbette Tiyatro Meydanı bölgesinden elde edilebilir. [ICON_Culture] Kültür kaynaklarını keşfetmek için Uygarlık Ansiklopedisi'ne göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_TITLE">
+			<Text>İlham Anları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>İlham anları, diğer adıyla "yönetim bilimi sıçramaları", bir yönetim bilimi üzerindeki çalışmanıza anında ve önemli bir ivme kazandırır. Bu sıçramaları oyunu doğal akışında oynarken elde edersiniz; yaptıklarınız ne tür İlham anlarıyla karşılaşacağınızı belirler. Örneğin, bir harika inşa etmek Tiyatro ve Şiir araştırmanızı, herhangi bir bölge inşa etmek ise Devlet İş Gücü araştırmanızı hızlandırır. Yönetim Bilimleri Ağacı, her yönetim bilimiyle ilişkili sıçramaları listeler ancak bu sıçramaları başka kaynaklardan (Büyük Şahsiyetler veya takım için ortak araştırma gibi) da elde edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_TITLE">
+			<Text>Yönetim Bilimleri Ağacı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Tüm bunların oyunda nasıl işlediğini görmek için muhteşem Yönetim Bilimleri Ağacı'na göz atın. Bu ağaç, tüm yönetim bilimlerini ve bunların birbiriyle olan bağlantılarını gösterir. Uygarlığınızın çalışmasını emretmek için bir yönetim bilimine tıklayabilirsiniz – eğer uygarlığınız ön koşul yönetim bilimini bilmiyorsa, onu da araştıracaktır. Yönetim Bilimleri Ağacı, istenen yönetim bilimine giden en kısa yolu belirler ve gerekli öncülleri gösterdiği sırayla çalışırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_TITLE">
+			<Text>Kültür Bombaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Kültür Bombası, bitişik bölgelerin kontrolünü ele geçirmenize ve bu bölgeleri başka bir oyuncuya ait olsa bile kendi imparatorluğunuza katmanıza olanak tanıyan bir eylemdir. Bu şekilde kazanılan bölgeler, genişleyen şehrinizin 3 kare yakınında olmalıdır. Halihazırda tamamlanmış bir bölge veya harika içeren bölgeler, Kültür Bombaları ile el değiştirmez. Tamamlanmamış bölge veya harika bölgeleri el değiştirecektir, ancak bu bölgelerdeki kısmen inşa edilmiş içerikler yok edilecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Kültür Bombaları genellikle Avustralya veya Polonya gibi uygarlıkların eşsiz yetenekleriyle sınırlıdır. Kültür Bombalarını nasıl tetikleyeceğinize dair daha fazla ayrıntı için ilgili uygarlık girdilerine bakın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOLD_NAME">
+			<Text>Altın ve Ekonomi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Gold] Altın, bir uygarlığın can damarıdır. "Para sevgiyi satın alamaz" sözü doğru olabilir, ancak nükleer füzelerle donanmış bir denizaltıyı satın alabilir ve bu da fena bir şey değildir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_TITLE">
+			<Text>Altın Elde Etme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Gold] Altın çeşitli kaynaklardan gelir. Şehirlerinizin etrafındaki bölgeleri işleyerek [ICON_Gold] Altın elde edersiniz ancak başka kaynaklar da mevcuttur: araziler ve geliştirmeler, ticaret karakolları, bölgeler ve binalar, [ICON_TradeRoute] Ticaret Yolları, Barbar karakolları, Kabile köyleri, şehir devletleri, düşman geliştirmelerini yağmalama, şehirleri ele geçirme ve diğer uygarlıklarla diplomasi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_TITLE">
+			<Text>Altın Harcama</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_3_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Gold] Altın harcayabileceğiniz ve harcamak zorunda kalacağınız birçok durum vardır. Birimlerin, nükleer silahların, bölgelerin ve binaların her tur ödenmesi gereken "bakım maliyetleri" vardır. Ayrıca tek tek bölgeler satın alarak uygarlığınızın topraklarını genişletebilir ya da [ICON_Gold] Altın kullanarak birimler ve binalar satın alabilirsiniz. Güncelliğini yitirmiş birimleri yükseltmek de [ICON_Gold] Altına mal olacaktır. [ICON_Gold] Altın, diplomasi sırasında diğer uygarlıklarla da takas edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_TITLE">
+			<Text>İflas</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLD_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Hazineniz sıfırdaysa ve negatif bir bütçeyle çalışıyorsanız, sıfırın altındaki her 10 [ICON_Gold] Altın için [ICON_Amenities] Olanaklarınıza -1 cezası almaya başlarsınız. Ayrıca, -10 [ICON_Gold] Altında otomatik olarak bir birim dağılır, -20 [ICON_Gold] Altında iki birim dağılır ve bu şekilde devam eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_FAITH_NAME">
+			<Text>İnanç ve Din</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Din seçimleriniz son derece önemlidir ve oyunun gidişatını değiştirebilir. Dinî Zafer ve Teolojik Muharebe sayesinde, inançlarınızı diğer şehirlere ve uygarlıklara yaymak için emrinizde yeni ve heyecan verici araçlar bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_TITLE">
+			<Text>İnanç Kazanma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Faith] İnanç, Dinin para birimidir ve harikalardan, politikalardan, lider yeteneklerinden, doğa harikalarından, şehir devletlerinden, İnançlardan, [ICON_TradeRoute] Ticaret Yollarından ve tabii ki Kutsal Alan bölgesi ve binalarından kazanılabilir. [ICON_Faith] İnanç kaynaklarını bulmak için Uygarlık Ansiklopedisi'ne göz atın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_TITLE">
+			<Text>Panteonlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Yeterince [ICON_Faith] İnanç biriktirdiğinizde, daha sonra kurulacak olan tam teşekküllü Dinlerin öncüsü olarak bir Panteon kurmanız istenecektir. Hangi Panteonu kuracağınıza karar vermek, uygarlığınız için kısa ve uzun vadeli hedeflerinize bağlıdır. Bir Panteon kazandıktan sonra, dininizi kurma yolunda önemli bir adım atmış olursunuz. Tam teşekküllü bir Dinden farklı olarak, seçtiğiniz Panteon uygarlığınıza özgü olacak, sınırlarınızın dışına yayılamayacak veya yerinden edilemeyecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_TITLE">
+			<Text>Büyük Peygamberler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir [ICON_GreatProphet] Büyük Peygamber kazandığınızda (veya satın aldığınızda) dininizi kurabilirsiniz. Dinî binalar, bu özel birimi uygarlığınıza getirmek için gerekli [ICON_GreatProphet] Büyük Peygamber puanlarını biriktirecektir. [ICON_GreatProphet] Büyük Peygamber kazanıldıktan sonra, birimi Kutsal Alanınıza gönderin ve ardından dininizi kurun. [ICON_GreatProphet] Büyük Peygamberler ayrıca Stonehenge'den de kazanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_TITLE">
+			<Text>Dinini Kurmak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Dinini kurduktan sonra, inançlarını temsil edecek bir isim ve simge seçmeniz istenecektir. Tarihî bir dini seçebilir veya kendi dininizi oluşturabilirsiniz! Yeni kurulan bir Din iki inançtan oluşacaktır: bir Takipçi İnancı ve oyun tarzınıza göre uyarlanabilecek üç ek inanç türünden biri. Dininiz kurulduğunda, Kutsal Alanlara sahip tüm şehirleriniz otomatik olarak bu dine geçecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Daha sonra, Havariler üzerinde İnanci Yay eylemini kullanarak dininize ek inançlar ekleyebilirsiniz. Bir Dinde toplam 4 inanç bulunabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Takipçi inançları, belirli bir getiri veya başka bir doğal bonus sağlar. Bu, o dini takip eden tüm şehirler ve uygarlıklar için geçerlidir.[NEWLINE][NEWLINE]Kurucu inançları, sahip olduğu takipçi sayısına bağlı olarak bir bonus sağlar. Takipçiler, bir şehirde o din baskın olsun ya da olmasın, o dini takip eden vatandaşlardır. Bu bonus yalnızca o dini kuran uygarlığa uygulanır.[NEWLINE][NEWLINE]İbadet inançları, Kutsal Alanlarda inşa edilebilen veya [ICON_Faith] İnanç ile satın alınabilen eşsiz bir bina türü verir. Her ibadet binasının farklı faydaları vardır.[NEWLINE][NEWLINE]Güçlendirici inançlar, dinin doğal baskısını güçlendirerek veya Misyonerleri ve Havarileri daha ucuz hale getirerek dinin yayılmasına yardımcı olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_TITLE">
+			<Text>Dini Birlikler ve Baskı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Dini birimlerin dört türü vardır: Misyonerler, Havariler, Gurular ve Engizisyoncular. Dini birimler, şehrinizde [ICON_Faith] İnanç ile satın alınabilir ve inşa edildikleri şehrin çoğunluk dinini benimserler. Dini birimlerin temel amacı, dinlerini diğer şehirlere yaymaktır. Bunu yapmak için, birimi bir Şehir Merkezinin bitişiğine (veya şehir sizinse içine) getirin ve Dini Yay eylemini kullanın. Bu, o şehirdeki vatandaşların bir kısmını dininizin Takipçilerine dönüştürecektir.[NEWLINE][NEWLINE]Bir şehirdeki vatandaşların yarısından fazlası belirli bir dinin Takipçileriyse ve bu din o şehirde çoğunluğa sahipse, bu din o şehirde baskın hale gelir. Baskın bir dine sahip şehirler, 10 kare içindeki diğer şehirler üzerinde dini baskı uygulayarak bu şehirlerin vatandaşlarını yavaş yavaş o dine dönüştürür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_2">
+			<Text>Misyonerler, bir Mabede ve baskın bir dine sahip herhangi bir şehirde [ICON_Faith] İnanç ile satın alınabilir ve dininizi bitişik bir hücredeki herhangi bir Şehir Merkezine yayma yeteneğine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Havariler, bir Tapınağa ve baskın bir dine sahip herhangi bir şehirde [ICON_Faith] İnanç ile satın alınabilir ve Misyonerlerden daha güçlüdür. Havariler yaratıldıklarında, onları daha da eşsiz kılan, örneğin daha fazla kullanım hakkı veya bir şehirden diğer dinleri silme gibi bir terfi seçme şansına sahiptir.[NEWLINE][NEWLINE]Havarilerin, dinlerini yaymanın yanı sıra kullanabilecekleri birkaç eşsiz eylemi vardır. İnancı Yayma eylemini kullanarak dininize ek inançlar ekleyebilir veya Engizisyon Başlatma eylemini kullanarak Engizisyoncu satın alma yeteneği kazanabilirler. Ayrıca, Havariler diğer dini birimlere karşı teolojik muharebe başlatabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_4">
+			<Text>Engizisyoncular, bir Havari üzerindeki Engizisyon Başlatma eylemiyle açılması gereken özel birimlerdir. Bu eylemi yalnızca bir kez kullanmanız yeterlidir; Engizisyon bir kez başladı mı asla sona ermez! Ardından, Engizisyonu başlatan Havarinin dinini takip eden şehirlerde [ICON_Faith] İnanç ile Engizisyoncu satın alabilirsiniz. Engizisyoncular bir dini yaymakta iyi değildir, bunun yerine size ait bir şehirdeki diğer tüm dinleri silerler. Ayrıca diğer dini birimlere karşı teolojik muharebeye de girebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_5">
+			<Text>Gurular, yakındaki dini birimlere iyileştirme sağlayan dini destek birimleri olarak görev yapar. Bir iyileştirme kullanım hakkı harcadığında, Guru kendini ve aynı dinden tüm bitişik birimleri iyileştirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_6">
+			<Text>Din ayrıca [ICON_TradeRoute] Ticaret Yolları aracılığıyla da yayılabilir. İki şehir arasında bir [ICON_TradeRoute] Ticaret Yolu oluşturulduğunda, bu iki şehir arasında bir din alışverişi olur. Çıkış şehrinin giden dini baskısı daha fazladır, ancak varış şehrinden de geri gelen bir baskı vardır. Bu bilgi, bir Tüccarın nereye gönderileceğini seçerken menüde [ICON_TradeRoute] Ticaret Yolu getirisi ile birlikte görünecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
+			<Text>Teolojik Muharebe</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Teolojik muharebe, haritaya yayılmaya çalışan diğer dinlere karşı savunmanın en iyi yoludur. Yalnızca Havariler ve Engizisyoncular teolojik muharebe başlatabilir ve bu da yalnızca diğer dini birimlere karşı yapılabilir. Teolojik muharebeye girmek için başka bir uygarlıkla savaş halinde olmanız gerekmez. Bunu yapmak tek başına bir savaşı kışkırtmaz, ancak dini baskı düşüşünden kaynaklanan olumsuz diplomatik sonuçlara yol açabilir. Dini birimler, diğer dini birimlere karşı bir Kontrol Bölgesi uygulayarak yaklaştıklarında hareketlerini kısıtlarlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Teolojik muharebe, askeri birimlerle savaşla aynı şekilde işler; sadece bir dini birime diğeriyle saldırırsınız. Güçlerine bağlı olarak birbirlerine hasar verirler. Dini birimler, terfilerden, politikalardan, diğer birimlerden gelen kanatlama ve destek bonuslarından, Teokrasi hükümetinden, kendi dinlerini takip eden bir Kutsal Alanın içinde veya bitişiğinde olmalarından, dinlerini takip eden bir şehrin topraklarında olmalarından veya dinlerinin Kutsal Şehrinin topraklarında olmalarından büyük bir bonus alabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_3">
+			<Text>Hasar görmüş bir dini birim, Dini Yay eyleminin gücünde bir ceza alır, yani daha az Takipçi dönüştürür. Bir dini birim teolojik muharebede 0 Can Puanına düşürülürse ölür. Bir dini birim bu şekilde yenildiğinde, 10 kare içindeki tüm şehirlerde yenilen birimin dininde tam canlı bir Havarinin gücüne eşit bir dini baskı düşüşü olur ve ardından galip birimin dininde aynı miktarda bir artış olur. Bir dini birim düşman bir askeri birim tarafından öldürülürse, 6 kare içindeki şehirlerdeki dini baskı düşüşü yarıya iner.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_4">
+			<Text>Dini birimler, oyuncunun topraklarındaki bir Kutsal Alana bitişik veya içinde kalarak, o Kutsal Alanın dinine bakılmaksızın tüm hasarlarını iyileştirebilir. Dini birimler, o Kutsal Alanın İnanç çıktısının 3 katı kadar hasar iyileştirir. Bazı iyileştirmeler dini birimler için alternatif bir iyileştirme kaynağı olarak da işlev görebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_5">
+			<Text>Dini birimler ayrıca muharebe birimlerinin saldırılarına karşı savunmasızdır. Kâfiri Mahkûm Et, muharebe birimlerinin aynı bölgedeyken onlara karşı alabileceği bir eylemdir ve bir Ticaret Yolunu yağmalamaya benzer şekilde çalışır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_DIPLO_NAME">
+			<Text>Diplomasi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomasiyle çok şey başarabilirsiniz. Müttefikler edinebilir ve düşmanlarınızı yalnızlaştırabilirsiniz. Savunma ve saldırı paktları oluşturabilirsiniz. İşbirlikçi araştırma girişimleriyle teknolojinizi artırabilirsiniz. Sizin için kötü giden savaşları sonlandırabilirsiniz. Saf olanları kandırabilir ve korkakları sindirebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_TITLE">
+			<Text>Uygarlıklarla Diplomasi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomasiyi başlatmak için ekranın sağ üst kısmında iletişim kurmak istediğiniz lidere tıklayın. Diplomasi Paneli açılacak ve bilinen tüm uygarlıklar görüntülenecektir. Onlarla konuşmak için herhangi bir lidere tıklayın. Alternatif olarak, bir uygarlığın şehir afişine tıklayarak onlarla iletişim başlatabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Uygarlıklarla diplomasiye girdiğinizde, mevcut ilişkinize bağlı olarak kullanabileceğiniz bir dizi seçeneğiniz olacaktır. Bu ekran ayrıca ilişkiniz hakkında önemli bilgilerin yanı sıra o liderin neler yaptığına dair en son dedikoduları da sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Savaş ilan edebilir veya lideri kınayabilirsiniz. Ayrıca bir ticaret anlaşması müzakere edebilir ya da başka bir uygarlıktan bir şeyler talep edebilirsiniz. Dostluk teklif edebilir, savunma paktları önerebilir ve heyetler gönderebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_TITLE">
+			<Text>Diplomatik İlişkiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_1">
+			<Text>Oyundaki her liderin sizin hakkınızda bir fikri vardır. Bu fikir olumlu ya da olumsuz olabilir; oyun içindeki olaylara bağlı olarak sürekli değişim halindedir. Bir liderle olan ilişkinizi, o liderin portresindeki simgeden veya Diplomasi Paneli'nde o liderle 'İlişkimiz' seçeneğini belirleyerek görebilirsiniz. Oyunda aşağıdaki ilişki durumları mevcuttur:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_2">
+			<Text>[NEWLINE][NEWLINE]Müttefikler. Bir liderle İttifak halindeyken birbirinize resmî savaş ilan edemezsiniz; otomatik olarak Açık Sınırlar paylaşırsınız, Araştırma Anlaşmaları ve Savunma Paktları yapabilirsiniz ve birbirinizle yaptığınız anlaşmaların son derece elverişli olması muhtemeldir. İttifaktaki diğer uygarlığa ait bölgeler 'Dost' sayılır ve kendi bölgenizle aynı ayrıcalıklardan yararlanmanızı sağlar.[NEWLINE][NEWLINE]Dost İlan Edilmiş. Bir lidere dostluğunuzu ilan etmeyi seçtiğinizde birbirinize resmî savaş ilan edemez, Araştırma Anlaşmaları yapabilirsiniz ve birbirinizle yaptığınız anlaşmalar daha avantajlı olur. Bu ilişki durumu, bir İttifak kurmak için gereklidir.[NEWLINE][NEWLINE]Dost Canlısı. Bu, liderin sizin hakkınızda olumlu düşündüğü ve onlarla avantajlı anlaşmalar yapma şansınızın daha yüksek olduğu anlamına gelir.[NEWLINE][NEWLINE]Tarafsız. Lideri etkileyecek ya da kızdıracak hiçbir şey yapmadınız ve onlarla etkileşimleriniz standart olacaktır.[NEWLINE][NEWLINE]Soğuk. Nedendir bilinmez, bu lideri kızdıracak bir şey yaptınız ve onlarla yapacağınız anlaşmalar muhtemelen sizin için elverişsiz olacaktır ya da onlardan taleplerde bulunmayı seçebilirsiniz. [NEWLINE][NEWLINE]Kınanmış. Bu lider, dünyadaki diğer liderlere onu rahatsız eden bir şey yaptığınızı bildirmiştir. Eğer yapacak olurlarsa onlarla anlaşmalarınız elverişsiz olacaktır ancak onlara karşı Resmî Savaş ilan edebilir ve taleplerde bulunabilirsiniz.[NEWLINE][NEWLINE]Savaş Halinde. Aranızda açık düşmanlık baş göstermiştir; bu lidere saldırabilir veya istila edebilirsiniz ancak savaş kışkırtıcılığı ve savaş yorgunluğu cezaları biriktirirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_TITLE">
+			<Text>Ticaret, Talep ve Müzakere</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomasi Panelinde bir lider seçiliyken 'Anlaşma Yap' seçeneğini belirleyerek diğer oyuncularla ticaret anlaşmaları yapabilirsiniz. Bu sizi o liderle bir müzakere masasına götürecektir.[NEWLINE][NEWLINE]Masanın solunda ticaretini yapabileceğiniz öğeler, sağında ise diğer oyuncunun ticaret için sunduğu öğeler bulunur. [ICON_Gold] Altın'dan kaynaklara, hatta şehirlere kadar her şeyi takas edebilirsiniz! Diğer liderin tarafındaki öğeleri seçerek onlardan onları size vermelerini talep edin ve kendi tarafınızdaki öğeleri seçerek karşılık olarak teklif edin.[NEWLINE][NEWLINE]Diğer lider anlaşmayı kabul edilebilir bulduğunda, bir 'Anlaşmayı Kabul Et' düğmesi belirecektir. Bu düğme, masadaki ticareti onaylar. Teklif ettiğiniz öğeleri kaybeder, diğer liderden gelen öğeleri kazanırsınız.[NEWLINE][NEWLINE]Lider anlaşmayı beğenmezse, 'Bu anlaşmayı daha adil hale getir' düğmesini seçerek liderin adil olduğuna inandığı bir anlaşma teklif etmesini sağlayabilirsiniz. Ardından tekliflerini ihtiyaçlarınıza göre ayarlayabilir ve kabul edip etmediklerini görebilirsiniz. Ayrıca liderden bir şey isteyip 'Ne gerekir?' seçeneğini belirleyerek karşılığında sizden ne istediklerini görebilirsiniz.[NEWLINE][NEWLINE]Bir öğe teklif eder ancak karşılığında hiçbir şey istemezseniz, 'Hediye Ver' seçeneğini belirleyerek öğeyi lidere ücretsiz olarak verebilirsiniz. Hediyeyi kim sevmez ki? Veya 'Bana ne verirsiniz?' seçeneğini belirleyerek liderin ne kadar ödemeye razı olduğunu sorabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir liderle aranız Soğuksa veya birbirinizi Kınadıysanız, o lider seçiliyken Diplomasi Panelinde 'Talep Yap' seçeneğini göreceksiniz. Bu seçenek sizi bir müzakere masasına götürecektir ancak sizin tarafınız boş olacaktır. Bunun yerine, haraç olarak talep etmek için onların tarafındaki öğeleri seçin! 'Talep Anlaşması'nı seçerek istediğinizi verip vermeyeceklerini görün. Lider taleplerinize hoş karşılamayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_3">
+			<Text>İster bir Anlaşma ister bir Talep yapıyor olun, bazı öğeler kalıcı olarak verilirken bazıları lidere yalnızca ödünç verilir. [ICON_Gold] Altın meblağları, Büyük Eserler, [ICON_GreatWork_Relic] Kutsal Emanetler, [ICON_GreatWork_Artifact] Tarihi Eserler ve ele geçirilen Casuslar kalıcı ticaretlerdir; bu öğeleri bir kez verdikten sonra geri almak için tekrar ticaret yapmanız gerekir. Ancak kaynaklar ve tur başına altın geçicidir ve anlaşma süresi dolduğunda bunları geri alırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir liderle olan etkileşimlerinize bağlı olarak, Diplomasi Panelinde 'Müzakere Et' seçeneğine de sahip olabilirsiniz. Bunu seçmek, liderden size karşı yapmayı bırakmasını isteyebileceğiniz eylemlerin bir listesini gösterecektir, ancak yalnızca lider bu eylemi daha önce en az bir kez yapmışsa. Liderden size yakın yeni şehirler kurmayı bırakmasını, dinini size yaymayı bırakmasını, sizi gözetlemeyi bırakmasını veya Süzeren'i olduğunuz bir Şehir Devleti'ne saldırmayı bırakmasını isteyebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_7_CHAPTER_CONTENT_PARA_5">
+			<Text>Tüm Anlaşmalar, Talepler ve Sözler 30 tur sürer ve bu sürenin sonunda yenilenmeleri gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_TITLE">
+			<Text>Heyetler ve Büyükelçilikler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_1">
+			<Text>Oyuncular arasında ilişkileri geliştirmek ve Diplomatik Görünürlük kazanmak için Heyetler ve Daimi Büyükelçilikler kurulabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Heyet veya Büyükelçiliğin her lidere ayrı ayrı gönderilmesi gerekir. Heyetler 10 [ICON_Gold] Altın, Büyükelçilikler ise 25 [ICON_Gold] Altın tutar ve bu miktar diğer lidere ödenir. Bu, o liderle olan ilişkinizde size küçük bir olumlu bonus sağlayacaktır. Ayrıca size 1 seviye Diplomatik Görünürlük kazandırır. Diplomatik Görünürlük hakkında daha fazla bilgi için Medeniyet Ansiklopedisi'nin Diplomatik Görünürlük ve Dedikodu bölümüne bakın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_8_CHAPTER_CONTENT_PARA_3">
+			<Text>Daimi Büyükelçilikler, Diplomatik Hizmetler Sosyal Politikası ile açılır ve bu noktada Heyetlerin yerini alır. Daimi Büyükelçiliklerin ve Heyetlerin etkileri birikmez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_TITLE">
+			<Text>Açık Sınırlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_1">
+			<Text>Açık Sınırlar, başka bir liderle yapılan ve onların askerî veya sivil birliklerinin topraklarınızdan geçmesine izin veren bir anlaşmadır. Bu anlaşma olmadan, başka bir liderin topraklarına girmek bir savaş eylemidir. Dinî Birlikler sınırları tamamen görmezden gelebileceği için bu kuralın dışındadır. Bir liderle Açık Sınırlarınız varsa, sınırları düz çizgi yerine kesik çizgi olarak görünecektir. Açık Sınırlar, Erken İmparatorluk Sosyal Politikası ile açılır. Bu noktadan önce sınırlarınız herkese açıktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_2">
+			<Text>Her iki taraf da Erken İmparatorluk Sosyal Politikası'nı araştırdıysa, Açık Sınırlar bir Anlaşma ticareti anlaşmasının parçası olarak teklif edilebilir, ancak her lider tarafından ayrı ayrı sunulur: bir lidere karşılığında onlara Açık Sınırlar vermeden Açık Sınırlar tanınabilir. Anlaşma 30 tur sürer ve ardından yenilenmesi gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_9_CHAPTER_CONTENT_PARA_3">
+			<Text>Başka bir liderle İttifak halindeyseniz, birbirinize otomatik olarak Açık Sınırlar tanımış olursunuz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_10_CHAPTER_CONTENT_TITLE">
+			<Text>Araştırma Anlaşmaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_10_CHAPTER_CONTENT_PARA_1">
+			<Text>Müttefik veya dost ilan edilmiş iki oyuncu, her ikisi de Bilimsel Teori'yi araştırmışsa, seçilen bir teknoloji için teknoloji sıçraması elde etmek üzere bir Araştırma Anlaşması yapabilir. Bu anlaşmanın bir parçası olarak belirli bir teknoloji üzerinde anlaşılması gerekir. Araştırmanın tamamlanması için gereken tur sayısı, her iki kullanıcının mevcut araştırma oranlarına bağlı olacaktır. Herhangi bir oyuncu sıçramayı veya teknolojiyi başka bir yolla elde ederse, anlaşma sona erer ve diğer oyuncu sıçramayı hemen kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_TITLE">
+			<Text>Savunma Paktı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Savunma Paktı, iki lider arasında, bir Savaş İlanı hedefi olduklarında birbirlerinin yardımına koşma taahhüdüdür. Bu pakt, Seferberlik Sosyal Politikası ile açılır ve her iki ortağın da bu sosyal politikaya sahip olması gerekir. Savunma Paktı üyelerinden herhangi biri hedef alınırsa, diğer üye de saldırgana savaş ilan eder. Savunma Paktları, Anlaşma Yap pazarlık masasından kullanılabilir. Bu anlaşmayı yapabilmek için iki liderin bir İttifak halinde olması gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_TITLE">
+			<Text>Ortak Savaş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_14_CHAPTER_CONTENT_PARA_1">
+			<Text>Dış Ticaret sosyal politikası araştırıldıktan sonra, Dış Ticaret'i araştırmış oyuncular arasında bir Ortak Savaş teklif edilebilir. Bir Ortak Savaşı kabul eder veya teklif ederseniz, siz ve başka bir oyuncu, anlaşma parametrelerinde belirtilen hedef oyuncuya karşı derhal savaşa girersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_TITLE">
+			<Text>Toprak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomatik Toprak 3 türe ayrılır:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_2">
+			<Text>Dost: Uygarlığınıza ait topraklar. Dost topraklar ayrıca büyük bir uygarlıkla ittifak kurarak veya bir şehir devletinin Süzeren'i olarak da oluşturulabilir. Birimler, kendilerine dost olan topraklarda daha hızlı iyileşir ve ayrıca dost topraklarla ilişkili özel yeteneklerden ve politikalardan yararlanabilir. Birimlerin yükseltilebilmesi için dost topraklarda bulunması gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_3">
+			<Text>Tarafsız: Halihazırda bir uygarlık veya şehir devletine ait olmayan topraklar. Bu topraklar, şehir sınırlarının genişlemesi veya orada yeni bir şehir kurulması yoluyla bir uygarlık veya şehir devleti tarafından sahiplenilebilir. Kale ve Hava Pisti iyileştirmeleri dışında, oyuncuların tarafsız topraklarda yapı inşa etmesine izin verilmez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_4">
+			<Text>Rakip: Başka bir uygarlık veya şehir devletine ait topraklar. Oyuncular, önce o uygarlıkla Açık Sınırlar tesis etmeden bir rakibin topraklarına giremez. Birim iyileşmesi en düşük seviyede rakip topraklarda gerçekleşir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_TITLE">
+			<Text>Savaş Gerekçesi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Savaş Gerekçeleri, savaşa gitme sebeplerini temsil eder ve bu durumlarda normal Savaş Kışkırtıcılığı Cezası azaltılır veya tamamen kaldırılır. Rönesans Çağı sosyal politikası Diplomatik Hizmet'e ulaştığınızda, diğer güçlere karşı Savaş Gerekçeleri biriktirebilirsiniz. Bir Savaş Gerekçesi kullanmak için diğer gücü Kınamanız gerekir. Her bir Savaş Gerekçesinin koşulları, onu açan sosyal politika ve uygulanan olağan savaş kışkırtıcılığı cezasının yüzdesi için aşağıdaki tabloya bakınız.[NEWLINE][NEWLINE]Kutsal Savaş: Şehirlerinizden biri düşmanın dinine dönüştürülürse[NEWLINE](Diplomatik Hizmet, %50 savaş kışkırtıcılığı)[NEWLINE][NEWLINE]Kurtuluş Savaşı: Bir arkadaş veya müttefikin şehirleri fethedilmişse[NEWLINE](Diplomatik Hizmet, fethedilmiş şehirler kurtarılırken savaş kışkırtıcılığı cezası yok)[NEWLINE][NEWLINE]Yeniden Fetih Savaşı: Önceki bir savaşta şehirleriniz fethedilmişse[NEWLINE](Savunma Taktikleri, eski şehirlerinizi geri alırken savaş kışkırtıcılığı cezası yok)[NEWLINE][NEWLINE]Koruma Savaşı: Süzeren'i olduğunuz bir şehir devleti saldırıya uğrarsa[NEWLINE](Savunma Taktikleri, hedef şehir devleti kurtarılırken savaş kışkırtıcılığı cezası yok)[NEWLINE][NEWLINE]Sömürge Savaşı: Hedef uygarlık teknolojide sizden iki çağ gerideyse[NEWLINE](Milliyetçilik, %50 savaş kışkırtıcılığı)[NEWLINE][NEWLINE]Toprak Genişletme Savaşı: Hedef uygarlık ulusunuzla sınır komşusuysa[NEWLINE](Seferberlik, %75 savaş kışkırtıcılığı)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_TITLE">
+			<Text>Gündemler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomatik Gündemler, diğer liderlerle olan ilişkinizde önemli bir itici güçtür. Bu liderlerin isteklerini ve davranışlarını yönlendirirler. Gündemleri kullanarak bir liderin iyi tarafında nasıl kalacağınızı veya onları kızdırmamak için nelerden kaçınmanız gerektiğini öğrenebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Liderlerin Tarihi Gündemi ve Gizli Gündemi vardır. Tarihi Gündem, o liderin gerçek dünyadaki tarihsel kişiliğine ve başarılarına dayanır. Gizli Gündem ise her oyunun başında atanır ve çok çeşitli şeyler olabilir; belki kültür veya altını bol olan diğer uygarlıkları severler ya da savaş kışkırtıcılarından hoşlanmazlar. Gizli Gündemi ortaya çıkarmak, bir lideri neyin memnun ettiğini veya rahatsız ettiğini bilmek açısından önemlidir. Her uygarlıkla Diplomatik Görünürlüğünüzü artırarak liderlerinin Gizli Gündemlerini öğrenin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_TITLE">
+			<Text>Diplomatik Görünürlük ve Dedikodu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Diplomatik Görünürlük, başka bir oyuncunun eylemleri hakkında Dedikodu, yani bilgi almanızı sağlar. Görünürlük seviyenize bağlı olarak daha ayrıntılı Dedikodular elde edersiniz. 5 seviye vardır: Yok, Sınırlı, Açık, Gizli ve Çok Gizli. Örneğin, bir uygarlıkla yeni tanıştığınızda, onların savaş ilanları, kınamaları, dostlukları, ittifakları ve bir Panteon kurmak veya bir harika tamamlamak gibi eylemleri hakkında bilgi alırsınız. Sınırlı Diplomatik Görünürlük kazanırsanız, sizin hakkınızdaki düşünceleri ve hangi hükümete sahip oldukları hakkında bazı bilgiler edinirsiniz. Açık seviyesinde, o uygarlığın diplomatik gündemlerine, diğer uygarlıklarla ilişkilerine ve ne zaman bir engizisyon başlattıklarına erişiminiz olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Her uygarlık için ayrı ayrı Diplomatik Görünürlük seviyeleri biriktirmelisiniz. Seviyeler, çeşitli Dedikodu kaynaklarını biriktirerek kazanılabilir. Bunlar şunlardır:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_3">
+			<Text>Tüccarlar. Bir uygarlığa [ICON_TradeRoute] Ticaret Yolu kurmak, görünürlüğü bir seviye artırır.[NEWLINE][NEWLINE]Heyet Göndermek. Bir uygarlığa Heyet göndermek, görünürlüğü bir seviye artırır. Büyükelçilikler kullanılabilir hale geldiğinde, Büyükelçilik kurmak bunun yerini alır.[NEWLINE][NEWLINE]Dinleme Noktası Görevi için casus göndermek. Başka bir uygarlığın şehrinde Dinleme Noktası görevi yapmak, görünürlüğü bir seviye artırır.[NEWLINE][NEWLINE]İttifak Kurmak. Casusluğa alternatif olarak, dost bir uygarlıkla ittifak kurabilirsiniz. Bu iki eylem ayrı Diplomatik Görünürlük seviyeleri eklemez; müttefiklerinize casusluk yapmanın bir faydası yoktur![NEWLINE][NEWLINE]Matbaa teknolojisini araştırmak. Bu, TÜM uygarlıklarla görünürlüğünüzü bir seviye artırır.[NEWLINE][NEWLINE]Catherine de Medici olarak oynamak. Catherine, Fransa'ya tanıştığı uygarlıklarla her zaman normalin bir seviye üzerinde erişim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_TITLE">
+			<Text>Casuslar ve Casusluk</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Rönesans Çağı'ndan itibaren Casuslar kullanılabilir hale gelir. Casusları belirli teknolojilerden ve sosyal politikalardan kazanabilirsiniz. Herhangi bir şehirde inşa edilebilirler, ancak [ICON_Gold] Altın veya [ICON_Faith] İnanç ile satın alınamazlar. Casuslar Acemi seviyesinde başlar ve başarılı saldırı operasyonlarından veya bir düşman Casusunu yakalamaktan seviye kazanabilirler. Seviye 2'ye ulaştıklarında, Casuslar ayrıca terfi de kazanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Casuslar, diğer birlikler gibi hareket etmez. Hava, deniz, kara veya yaya yoluyla şehirden şehre sıçrarlar; her birinin kendi seyahat süresi vardır, ancak bir müttefikin şehrine gidemezler. Bir şehre yerleştikten sonra, bir Casus belirli bir bölgeye gönderilebilir ve görevine başlayabilir. Görevler arasında teknoloji sıçramalarını çalmak, asi birlikler oluşturmak veya sadece diplomatik görünürlüğü artırmak yer alır. Her görev belirli bir süre alır ve farklı bir sonuç doğurur. Casus'unuz öldürülebilir veya esir düşebilir ya da belki görevinde başarısız olup fark edilmemiş olabilir; veya belki de fark edilmemiş ve görev başarıyla sonuçlanmış olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Her uygarlık 5 Casus yetiştirebilir. Catherine olarak oynayarak 6 Casus yetiştirme yeteneği kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME">
+			<Text>Şehir Devletleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Şehir devletleri, daha küçük siyasi oluşumlardır. Bir oyunu kazanamazlar – size karşı rekabet etmezler – ancak zafere giden yolculuğunuzda size büyük ölçüde yardım edebilir veya sizi engelleyebilirler. Şehir devletleriyle dostluk kurabilir ve bir dizi önemli fayda elde edebilir, onları görmezden gelip daha büyük ve daha önemli düşmanlara odaklanabilir ya da onları fethedip topraklarını ele geçirebilirsiniz. Karar sizin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_TITLE">
+			<Text>Şehir Devleti Türleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Altı farklı şehir devleti "türü" bulunur. Onlarla dostluk kurar veya ittifak yaparsanız her biri size farklı faydalar sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir ticaret şehir devleti, uygarlığınıza [ICON_Gold] Altın sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Dini bir şehir devleti, uygarlığınıza [ICON_Faith] İnanç sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_4">
+			<Text>Askeri bir şehir devleti, birlik üretimine yönelik [ICON_Production] Üretim sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_5">
+			<Text>Bilimsel bir şehir devleti, uygarlığınıza [ICON_Science] Bilim sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_6">
+			<Text>Kültürel bir şehir devleti, [ICON_Culture] Kültür'ünüzü geliştirmenize yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_2_CHAPTER_CONTENT_PARA_7">
+			<Text>Endüstriyel bir şehir devleti, harikalar, binalar ve bölgelere yönelik [ICON_Production] Üretim sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_TITLE">
+			<Text>Şehir Devletleriyle İletişim</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir şehir devletiyle iletişim kurmak için önce onu bulmalısınız. Birliğiniz bir şehir devletiyle karşılaştığında, şehir devleti size türünü söyler; eğer onu ilk keşfeden sizseniz, otomatik olarak o şehir devletinde bir [ICON_Envoy] Elçi kazanırsınız. Tanıştıktan sonra, o şehir devletinden "görevler" üstlenebileceksiniz. Şehir devletiyle bağlantıya geçmek isterseniz, şehrin üzerine tıklayabilir veya Şehir Devleti Paneli'ni kullanabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_TITLE">
+			<Text>Elçiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir şehir devletinden elde ettiğiniz bonuslar, o şehir devletine kaç [ICON_Envoy] Elçi gönderdiğinize bağlıdır. [ICON_Envoy] Elçiler, zamanla etki puanlarıyla (Hükümet ve Politikalar'dan gelir) veya belirli Yönetim Bilimleri'ni tamamlayarak anında kazanılır. Kazanıldıktan sonra, hangi şehir devletlerine gönderileceklerini seçmeniz için bir seçenek sunulur. Birden fazla [ICON_Envoy] Elçiniz varsa, onları şehir devletleri arasında dilediğiniz gibi dağıtabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir şehir devletine doğrudan savaş ilan etmek, orada bulunan tüm [ICON_Envoy] Elçilerinizi kaybetmenize neden olur. Aksi takdirde, [ICON_Envoy] Elçiler kalıcı olarak şehir devletinde kalır. Bir şehir devletindeki [ICON_Envoy] Elçiler tüm oyuncular tarafından görülür ve bunları yerleştirmek diplomatik sonuçlar doğurabilir. Kazanılan bonuslar, orada başka kimin [ICON_Envoy] Elçisi olduğuna bakılmaksızın, sahip olduğunuz [ICON_Envoy] Elçi sayısına göre belirlenir. Aynı türdeki şehir devletlerinin tümü aynı Tür Bonuslarını paylaşır. Bu bonuslar kümülatiftir; yani bir oyuncu bir şehir devletine daha fazla [ICON_Envoy] Elçi yerleştirdikçe, önceki bonusların üzerine eklenir. Bir şehir devletine yerleştirilen her [ICON_Envoy] Elçi, sınırlarını 1 karo genişletir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_TITLE">
+			<Text>Süzeren</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir şehir devletinde en fazla [ICON_Envoy] Elçiye sahip olan ve en az 3 [ICON_Envoy] Elçisi bulunan uygarlık, o şehir devletinin Süzeren'i olarak kabul edilir. En fazla bir Süzeren olabilir; eşitlik kabul edilmez. Bir şehir devletinde hiçbir uygarlığın [ICON_Envoy] Elçisi yoksa, Süzeren de yoktur. Süzeren, birkaç önemli avantaj elde eder:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Eşsiz Bonus: Süzeren'e verilen ve başka hiçbir şehir devletinin sağlamayacağı güçlü bir bonus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_3">
+			<Text>{LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS}</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_5">
+			<Text>Dost Bölge: Şehir devletinin toprakları, Süzeren için 'Dost' olarak kabul edilir ve Süzeren'in kendi topraklarının sağladığı aynı ayrıcalıkları elde etmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TRADE_NAME">
+			<Text>Ticaret</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Tüccar birimi, Dış Ticaret araştırmasıyla açılır ve şehirlerde inşa edilir. Tüccar birimleri ayrı bir harita katmanında bulunur ve haritadaki çoğu normal ögeyle etkileşime girmez. Diğer tüm birimlerle serbestçe aynı hücrede durabilir ve kültürel sınırları yok sayarlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Tüccar, oyuncuya ait bir şehirdeyken, bu şehirle menzil içindeki başka bir şehir arasında bir [ICON_TradeRoute] Ticaret Yolu başlatabilir; ancak mevcut [ICON_TradeRoute] Ticaret Yollarınızdan hiçbiri zaten oraya gitmiyorsa (örneğin, Atina şehrine zaten bir [ICON_TradeRoute] Ticaret Yolum varsa, oraya ikinci bir tane gönderemem) ve oyuncu azami [ICON_TradeRoute] Ticaret Yolu sayısına ulaşmamış olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir kez oluşturulduktan sonra, [ICON_TradeRoute] Ticaret Yolu, Standart oyun hızında en az 20 tur sürer. Tüccar birimi, rota boyunca otomatik olarak hareket eder, ancak başlangıç şehrinin hücresine dönene kadar rotayı tamamlamış sayılmaz. Aktif bir rotadayken Tüccar birimi, arazi kısıtlamalarını dikkate almaz ve her tur 1 hücre hareket ederek ilerlerken Yol döşer. Tüccarınızı Barbarlardan veya düşman uygarlıklardan korumayı unutmayın, çünkü yağmalamaya karşı savunmasızdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_1_CHAPTER_CONTENT_PARA_4">
+			<Text>[ICON_TradeRoute] Ticaret Yolu'nun süresi sonunda, önceki [ICON_TradeRoute] Ticaret Yolu'nu yenileme, mevcut şehirden yeni bir [ICON_TradeRoute] Ticaret Yolu atama veya Tüccarı başka bir şehre yeniden atama seçeneğiniz olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Ticaret Yollarını Artırma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir oyuncu sınırlı sayıda aktif [ICON_TradeRoute] Ticaret Yolu sürdürebilir. Bu kapasite esas olarak sahip olunan Ticaret Merkezi ve Liman bölgesi sayısına göre belirlenir, ancak başka yollarla da artırılabilir. Aynı şehirde Ticaret Merkezi ve Liman bölgelerinden gelen [ICON_TradeRoute] Ticaret Yollarının birikmediğini unutmayın—fayda yalnızca inşa ettiğiniz ilki için geçerlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Ticaret Menzili</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Karada, bir [ICON_TradeRoute] Ticaret Yolu, 15 hücrelik bir menzil içindeki hedeflere ulaşabilir. Oyuncu, gemiye binmeyi sağlayan teknolojiyi araştırdığında Tüccarlar su üzerinde de hareket edebilir. Suda menzil 30 hücredir. Şehirde bir [ICON_TradingPost] Ticaret Karakolunuz varsa, Tüccar yeni seyahat alanı için iznini "yeniden doldurur" ve daha ileri gidebilir. Aksi takdirde, o şehirde durması gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Kara ve su arasında geçiş yalnızca bir Şehir Merkezi veya Liman bölgesinde yapılabilir ve izin bir sonraki alana taşınmaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
+			<Text>Ticaret Karakolları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Ticaret ağınızı genişletin ve [ICON_TradingPost] Ticaret Karakolları ile daha kârlı hale getirin. Bir [ICON_TradingPost] Ticaret Karakolu, o şehre giden veya o şehirden gelen bir [ICON_TradeRoute] Ticaret Yolu başarıyla tamamlandığında şehre yerleştirilir. Karakol, [ICON_TradeRoute] Ticaret Yolu'na sahip olan oyuncuya aittir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_2">
+			<Text>[ICON_TradeRoute] Ticaret Yollarınız, [ICON_TradingPost] Ticaret Karakollarınızdan birine sahip herhangi bir şehirde [ICON_Movement] Hareket menzillerini "yeniden doldurabilir" ve böylece daha uzak hedeflere ulaşabilir. Şehir başka bir oyuncuya aitse, [ICON_TradingPost] Ticaret Karakolu ayrıca [ICON_TradeRoute] Ticaret Yolu'nu daha değerli kılar ve gelirine +1 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_TITLE">
+			<Text>Ticaret Yolu Sahibi İçin Getiriler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu, her turda başlangıç şehrine, ağırlıklı olarak varış şehrinde bulunan bölgelere bağlı olarak getiriler sağlar. Örneğin, Kutsal Alan bulunan bir şehirle ticaret yapmak [ICON_Faith] İnanç, Tiyatro Meydanı bölgesi bulunan bir şehirle ticaret yapmak ise [ICON_Culture] Kültür sağlar. Ayrıca, Din ve [Icon_Tourism] Turizm, [Icon_TradeRoute] Ticaret Yolları boyunca yayılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Ayrıca izlediği yol üzerinden de getiriler elde eder. Yabancı bir şehirde sahip olduğunuz bir [ICON_TradingPost] Ticaret Karakolu'ndan geçerse, fazladan 1 [ICON_Gold] Altın değerindedir. Birden fazla [ICON_TradingPost] Ticaret Karakolu'ndan geçen uzun yollar çok değerlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_6_CHAPTER_CONTENT_TITLE">
+			<Text>Güzergâh Üzerindeki Şehirlerin Getirileri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir şehir, Şehir Merkezi'nden geçen ve başka bir oyuncuya ait her [ICON_TradeRoute] Ticaret Yolu için tur başına 1 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
+			<Text>Hükümetler ve Politikalar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Hükümetler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Hükümetler, farklı politika türlerini seçmek için çeşitli yuva kombinasyonları ve ayrıca kendine özgü bonuslar sunarak uygarlığınızı oyun tarzınıza uygun şekilde özelleştirmenize olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Yönetim Bilimleri Ağacı aracılığıyla açılan hükümetler, çağlar ilerledikçe değişecektir. Başlangıçta yalnızca birkaç yuvaya sahip basit bir hükümetiniz olur. Ancak sonraki çağlara ulaştıkça farklı kombinasyonlarda daha fazla yuva açılır. Bunun da ötesinde, hükümetlerin kendilerine özgü özel bonusları vardır; örneğin Teokrasi hükümeti, kara birliklerini [ICON_Faith] İnanç ile satın almanıza olanak tanır ve aktifken [ICON_Faith] İnanç satın alımlarında indirim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Son olarak, tüm hükümetler, imparatorluğunuzda ne kadar süre aktif kaldıklarına bağlı olarak Miras Bonusları sağlar. Örneğin, Teokrasi hükümetini geride bırakmış olsanız bile, bu hükümetin imparatorluğunuzun tarihinde ne kadar süre aktif kaldığına bağlı olarak [ICON_Faith] İnanç indirimlerinden oluşan bir Miras Bonusu alırsınız. Hükümetinizi istediğiniz zaman değiştirebilirsiniz. Daha önce benimsenmiş bir hükümete geçerseniz, bir Anarşi durumuna girersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Politikalar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Politikaların oynanış üzerinde somut etkileri vardır. Bazıları şehirlerinizin [ICON_Production] Üretimini artırırken, diğerleri daha fazla zenginlik yaratır; bazıları ise daha etkili bir ordu oluşturmaya yardımcı olur. Oyunda doğru ya da yanlış politika seçimi yoktur; bir politika belirli bir durum için diğerinden daha iyi olabilir ya da kişisel oyun tarzınıza daha uygun gelebilir. Deneyin ve görün.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Her biri belirli bir hükümette karşılık gelen bir yuvaya yerleştirilebilen 6 tür politika bulunur. Bu bireysel politikaları yuvalara yerleştirmek, açıklanan faydaları sağlar ve oyununuzu güçlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Politika Edinme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>İlk hükümetinizi açmak için yeterli [ICON_Culture] Kültür elde ettiğinizde politika benimsemeyi seçebilirsiniz. Yönetim Bilimleri Ağacı'nda ilerledikçe politikalar açılır ve hükümetinizi değiştirmek, oyun tarzınıza daha iyi uyacak şekilde farklı politika kombinasyonlarını yuvalamanıza olanak tanır. Yönetim Bilimleri Ağacı'ndan yeni bir hükümet veya politika açıldığında, politikaları yeniden seçme veya hükümetinizi ücretsiz olarak değiştirme fırsatı elde edersiniz. Aksi takdirde, bu değişiklikleri yapmanın bir maliyeti olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Politika Türleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Keşfedilecek 4 farklı politika türü vardır ve her biri farklı bir hükümet tarzına katkıda bulunur. Tüm türler, hükümette aynı türden boş bir yuvaya uygulanmalıdır; ancak bir Joker yuvası her tür politikayı barındırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Askeri: Bu politikalar, karada ve denizde güçlü bir ordu isteyen oyuncular için en iyisidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_3">
+			<Text>Ekonomik: Bu politikalar; bölge komşuluk bonuslarını artırmak veya maliyetleri düşürmek gibi yollarla çeşitli getirileri artırmada faydalı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_4">
+			<Text>Diplomatik: Bu politikalar, ilişki kurmaya güçlü bir ilgi duyan oyuncular için en iyisidir ve şehir devletleriyle bağları güçlendirmeye veya casusluk operasyonlarını iyileştirmeye yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Joker: Bu politikalar, [ICON_GreatPerson] Büyük Şahsiyet üretim hızını artırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Anarşi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Daha önce benimsenmiş bir hükümete geçmek, uygarlığınızı kısa bir süreliğine Anarşi durumuna sokar ve bu durumun şu olumsuz etkileri vardır:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_2">
+			<Text>1. Hiçbir kaynaktan [ICON_Gold] Altın, [ICON_Science] Bilim, [ICON_Culture] Kültür veya [ICON_Faith] İnanç elde edemezsiniz.[NEWLINE]2. Anarşinin herhangi bir hükümet özel bonusu veya Mirası yoktur.[NEWLINE]3. Politikalarınız hiçbir fayda sağlamaz ve yerleştirilemez.[NEWLINE]4. Anarşi durumu sona erene kadar hükümet değiştiremezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_3">
+			<Text>Anarşi en az üç tur sürer. Daha önce bu hükümet biçimini ne kadar çok benimsemişseniz Anarşi o kadar uzun sürecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GREATPEOPLE_NAME">
+			<Text>Büyük Kişiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_GreatPerson] Büyük Kişiler, bir uygarlığın kaderini tek başına değiştirebilecek sanatçılar, tüccarlar, mühendisler, bilim insanları, generaller ve amirallerdir. Dokuz tür [ICON_GreatPerson] Büyük Kişi vardır: [ICON_GreatArtist] Büyük Sanatçılar, [ICON_GreatWriter] Büyük Yazarlar, [ICON_GreatMusician] Büyük Müzisyenler, [ICON_GreatEngineer] Büyük Mühendisler, [ICON_GreatMerchant] Büyük Tüccarlar, [ICON_GreatScientist] Büyük Bilim İnsanları, [ICON_GreatProphet] Büyük Peygamberler, [ICON_GreatAdmiral] Büyük Amiraller ve [ICON_GreatGeneral] Büyük Generaller.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_TITLE">
+			<Text>Büyük Kişileri Kazanma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_GreatPerson] Büyük Kişiler, yeterli miktarda doğru türde puan biriktirilerek kazanılabilir. Tüm oyuncular tarafından görülebilirler ve tüm oyuncular arasında açıkça rekabet edilir. Yalnızca büyük uygarlıklar [ICON_GreatPerson] Büyük Kişiler kazanabilir; Barbarlar veya şehir devletleri kazanamaz. Her [ICON_GreatPerson] Büyük Kişi türünün ayrı ayrı takip edilen kendi puanları vardır. [ICON_GreatScientist] Büyük Bilim İnsanı Puanları, [ICON_GreatArtist] Büyük Sanatçı Puanları olarak sayılamaz, vb. Belirli bir [ICON_GreatPerson] Büyük Kişiyi kazanmak için gereken puan sayısı, o [ICON_GreatPerson] Büyük Kişinin çağına bağlıdır. Rönesans dönemine ait bir [ICON_GreatScientist] Büyük Bilim İnsanı, Modern döneme ait olandan çok daha az [ICON_GreatScientist] Büyük Bilim İnsanı Puanı gerektirir. Puanlar çeşitli kaynaklardan gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Her bölge ve içindeki binalar, ilişkili olduğu [ICON_GreatPerson] Büyük Kişi türüne puan sağlar. Bu, yavaş ama istikrarlı bir puan kaynağıdır. Bölgeler ayrıca bir şehrin [ICON_Production] Üretimini, tamamlandığında [ICON_GreatPerson] Büyük Kişi puanı kazandıran projelere yönlendirmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_3">
+			<Text>Oyuncular ayrıca [ICON_Gold] Altın veya [ICON_Faith] İnanç harcayarak bir Büyük Kişiye hamilik yapabilir ve o kişiyi anında kazanabilir. Hamilik maliyeti, oyuncunun normalde o kişiyi işe almak için ihtiyaç duyacağı fazladan [ICON_GreatPerson] Büyük Kişi puanına göre belirlenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_TITLE">
+			<Text>Büyük Kişileri Kullanma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Her bir [ICON_GreatPerson] Büyük Kişinin, tarihten ilham alan farklı bir etkisi vardır. Çoğu etki, belirli bir oyun dönemiyle sıkı sıkıya bağlıdır ve o dönemin dışında kullanıldığında optimal değildir. Etkiler iki ana kategoriye ayrılır: Pasif Etkiler ve Eylem Etkileri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Pasif Etki, [ICON_GreatPerson] Büyük Kişi haritada belirdiği anda gerçekleşir. Bu tür etkiler çoğunlukla Büyük Generaller ve Büyük Amiraller üzerinde bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Eylem Etkisi, [ICON_GreatPerson] Büyük Kişinin belirli bir konumda bir 'kullanım hakkı' kullanmasıyla etkinleştirilmelidir. Kullanım hakkı sayısı, gereken konum türü ve etkinleştirilen etki, kişiye göre değişir. Çoğu kişinin yalnızca 1 kullanım hakkı vardır ve bunu ancak türüne uygun bir bölgede etkinleştirebilir (ör. çoğu [ICON_GreatScientist] Büyük Bilim İnsanının 1 kullanım hakkı vardır ve bunu bir Kampüs'te kullanmalıdır). Diğer kullanım hakkı tabanlı birimler gibi, tüm kullanım hakları tükendiğinde kişi ortadan kaybolur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_TITLE">
+			<Text>Büyük Kişileri Taşıma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_4_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_GreatPerson] Büyük Kişiler, diğer birimler gibi harita üzerinde hareket edebilir. Savaş dışı birimlerdir, yani diğer savaş dışı birimlerle (İşçi, Yerleşimci) aynı bölgede bulunamazlar, ancak bir askeri birimle birlikte bulunabilirler. Bir düşman birimi bir [ICON_GreatPerson] Büyük Kişinin bölgesine girerse, o [ICON_GreatPerson] Büyük Kişi mümkünse otomatik olarak yakındaki bir şehre çekilir (düşman onu ele geçirmez). Bu birimler ayrıca bir şehir merkezindeyken başka bir şehre aktarılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_AIRCOMBAT_NAME">
+			<Text>Hava Muharebesi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Dört ana hava birimi türü vardır: destek keşif, destek savunma, avcı uçakları ve stratejik bombardıman uçakları. Bunlar, Hava Meydanı inşa etmiş ve ön koşul teknolojilerini araştırmış herhangi bir şehirde üretilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_2_CHAPTER_CONTENT_TITLE">
+			<Text>Hava Üsleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Hava birimleri, kara ve deniz birimleri gibi haritada dolaşmaz. Bir yerde 'üslenmeleri' gerekir. Şehir Merkezi her zaman bir hava birimini barındırabilir, ancak bir Hava Meydanı, Hava Pisti veya Uçak Gemisi inşa etmek mevcut yuva sayınızı artırabilir. Hava Meydanı en fazla 8 yuvaya, Hava Pisti 3 yuvaya sahip olabilir ve Uçak Gemisi 2 yuva ile başlar ancak terfilerle daha fazla yuva kazanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_TITLE">
+			<Text>Devriye</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Avcı uçakları, dost bir hava üssünden [ICON_Movement] Hareket menzilleri dahilindeki uygun bir hücreye konuşlandırılabilir. Konuşlandırıldıktan sonra uçak, etkin önleme menzili (şu an 1 hücre yarıçapı) etrafında döngüsel bir uçuş düzenine geçecektir. Bu sayede hem saldıran hem de savunan taraf, Devriye durumundaki Avcı uçaklarının konumunu daha net bir şekilde görebilecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Devriye durumu, 'Tahkim Et' birim işlemine benzer şekilde devamlılık arz eder. Bir uçak Devriye'ye ayarlandığında, aksi emredilene veya imha edilene kadar bu şekilde kalır. Devriye halindeyken uçak, birden fazla saldırgana karşı önleme ve savunma yapmaya devam edecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Oyuncunun turu sırasında istediği an, Avcı uçakları iyileşmek için 'Üsse Dön' (dost bir hava üssünde konuşlan) emri alabilir. Bir hava üssünde konuşlanmış uçaklar, saldıran uçakları önlemez. Uçaklar, ancak bir muharebeye girmemişlerse, bir Şehir Merkezi, Hava Meydanı, Hava Pisti veya Uçak Gemisi'nde konuşlandıklarında oyun turunun sonunda iyileşebilirler. İyileşme en hızlı şekilde bir Hava Meydanı bölgesinde gerçekleşir; Hava Pistleri ve Gemilerde ise daha yavaştır. Bu değerler terfiler ve/veya Politikalar yoluyla artırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_4_CHAPTER_CONTENT_TITLE">
+			<Text>Hava Saldırıları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Ağır Bombardıman uçakları Devriye görevine çıkamaz; bunun yerine dost bir hava üssünde 'konuşlanmış' kabul edilirler ve saldırılarını bu üsten gerçekleştirebilirler. Avcı uçaklarının aksine, Bombardıman uçakları it dalaşına girmez; doğrudan hedeflerine yönelir ve saldırır.[NEWLINE][NEWLINE]Stratejik Bombardıman: Bombardıman uçakları, hedef konumda herhangi bir kara birimi bulunmuyorsa, bölge binalarına ve şehir iyileştirmelerine doğrudan saldırabilir. Başarılı olduğunda, bu tür bir saldırının sonucu, bir kara biriminin Yağma eylemiyle aynıdır; tek fark, saldıran hava biriminin yağma eyleminden herhangi bir fayda sağlamamasıdır. Bir bombardıman saldırısının başarılı olması için, saldıran hava biriminin, savunmadaki avcı uçakları ve hava savunma destek birimlerinden aldığı hasar hesaplandıktan sonra en az %50 cana sahip olması gerekir.[NEWLINE][NEWLINE]Öncelikli Hedef: Hava birimleri ayrıca, aynı konumda bulunan düşman muharebe birimini ortadan kaldırmak zorunda kalmadan, Destek sınıfı birimlere doğrudan saldırmalarını sağlayan Öncelikli Hedef yeteneğine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_TITLE">
+			<Text>Önleme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Avcı uçakları, menzil dahilindeki bir harita konumuna konuşlandırılarak çevre bölgelerde devriye gezebilir. Eğer bir hava birimi, önleme biriminin menzilindeki bir hedefe hava saldırısı düzenlemeye kalkışırsa, önleyici saldırgana ateş ederek hasar verir.[NEWLINE][NEWLINE]Saldıran bir uçak, birden fazla devriye gezen uçağın savunma yarıçapına girerse, en yüksek güce sahip uçak önleme için seçilir. Kalan uçaklar, ana önleyicinin gücüne +5 ekleyerek savunmayı destekler.[NEWLINE][NEWLINE]Herhangi bir uçaksavar kara birimi ve önleme hava birimi ile muharebe sonuçlandıktan sonra, saldıran bombardıman uçağı hayatta kalırsa, muharebe orijinal hedefle devam eder. Bir avcı uçağı, bir kara hedefine giderken başka bir avcı uçağı tarafından önlenirse, yalnızca düşman avcı uçağıyla angaje olmaya zorlanır ve kara hedefine saldırmaz. Bombardıman uçakları bu kısıtlamaya tabi değildir; eğer savunmadaki önleyicilerden ve uçaksavar saldırılarından sağ çıkarlarsa hedeflerine ilerlemeye devam ederler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_NUKES_NAME">
+			<Text>Nükleer Silahlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Nükleer Cihaz Türleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Atom silahlarının 2 kategorisi vardır: Nükleer Cihaz ve Termonükleer Cihaz. Bunlar herhangi bir şehirde şehir Projesi olarak inşa edilebilir ve her ikisi de üretim için Uranyum kaynağı gerektirir. Bir oyuncunun inşa edebileceği sayıda bir sınır yoktur.[NEWLINE][NEWLINE]Bir Nükleer veya Termonükleer Cihaz oluşturulduğunda, oyuncunun envanterine eklenir ve ardından haritada konuşlandırma yeteneğine sahip herhangi bir birim veya iyileştirme tarafından kullanılabilir. Buna bombardıman uçakları, Nükleer Denizaltılar ve Füze Silosu dahildir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Nükleer Cihazların patlama yarıçapı 1'dir. Bir Füze Silosu'ndan konuşlandırıldıklarında [ICON_Range] Menzilleri 12'dir. Bakım maliyetleri tur başına 14 [ICON_Gold] Altındır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Termonükleer Cihazların patlama yarıçapı 2'dir. Bir Füze Silosu'ndan konuşlandırıldıklarında [ICON_Range] Menzilleri 15'tir. Bakım maliyetleri tur başına 16 [ICON_Gold] Altındır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_TITLE">
+			<Text>Nükleer Yıkım</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir atom silahı patlatıldığında, patlama yarıçapı içindeki tüm hücrelerde birden fazla olay meydana gelir. Etkilenen bölgelerde "çalışan" [ICON_Citizen] Vatandaşlar yok olur, etkilenen bölgeleri işgal eden birimler imha edilir ve tüm bölge iyileştirmeleri yağmalanır. Etkilenen bölgelerdeki tüm bölge ve binalar da yağmalanır ve yeniden kullanılmak üzere onarılmalıdır. Etkilenen tüm bölgeler radyoaktif serpinti ile kirlenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_TITLE">
+			<Text>Nükleer Kirlenme</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir nükleer saldırıdan sonra, serpinti patlamadan etkilenen her bölgeyi kirletecektir. Turunu kirlenmiş bir bölgede bitiren herhangi bir birim, her tur 50 hasar alır. [ICON_Production] Üretim, binaları ve bölgeleri onarmak gibi kirlenme içeren bölgelerdeki hiçbir şeye uygulanamaz. Kirlenmiş bölgeler, kirlenme zamanlayıcısı dolana veya bölge "temizlenene" kadar şehir tarafından çalışılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Nükleer kirlenme, etkilenen bölgelerden İşçi ve Askeri Mühendis birimleri tarafından "temizlenebilir". Kirlenmiş bir bölgeyi temizlemek 1 inşa hakkı tüketir. Kirlenmiş hücreleri temizleyebilen İşçi, Askeri Mühendis ve Roma Lejyonu birimleri, böyle bir hücrede turlarını bitirirlerse daha az hasar alırlar. Nükleer patlamadan doğrudan etkilenmeyen şehir bölgeleri normal şekilde çalışmaya devam edecek ve şehrin getirisine katkıda bulunacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TOURISM_NAME">
+			<Text>Turizm</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Tourism] Turizm, bir Kültür Zaferi kazanmak için gereklidir. [ICON_Tourism] Turizm'i Büyük Eserler, Harikalar, Kutsal Şehirler, [ICON_GreatWork_Relic] Kutsal Emanetler, [ICON_GreatWork_Artifact] Tarihi Eserler, Sahil Tatil Beldeleri ve Milli Parklar aracılığıyla üretebilirsiniz. [ICON_Tourism] Turizm'inizi [ICON_TradeRoute] Ticaret Yolları, Açık Sınırlar, Büyük Şahsiyetler, Politikalar ve oyun sonundaki ortak (veya çatışan) hükümetlerle artırabilirsiniz.[NEWLINE][NEWLINE]Bir Harika inşa etmek, muhtemelen [ICON_Tourism] Turizm kazanmaya başlamanın ilk yollarından biri olacaktır. Her Harika, tur başına 2 [ICON_Tourism] Turizm sağlar; ayrıca, o Harikanın ilk kez kullanıma sunulduğu çağı geride bıraktığınız her çağ için fazladan 1 [ICON_Tourism] Turizm kazandırır. Öyle ki, Stonehenge gibi kadim bir Harika, oyunun sonlarına doğru tur başına 9 [ICON_Tourism] Turizm getirebilir.[NEWLINE][NEWLINE]Turizm, Dinî Turizm (Kutsal Bir Şehir oluşturmak ve Kutsal Emanetlerden gelen) ve Dinî Olmayan Turizm olarak ikiye ayrılır. Bazı Yönetim Bilimleri (Aydınlanma) ve Harikalar (Cristo Redentor), Dinî Turizm'inizin etkisini doğrudan etkiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
+			<Text>Büyük Eserler, Kutsal Emanetler ve Tarihi Eserler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Büyük Eserler beş farklı türde gelir: [ICON_GreatWork_Writing] Yazı Eserleri, [ICON_GreatWork_Landscape] Sanat Eserleri ve [ICON_GreatWork_Music] Müzik Eserleri ([ICON_GreatPerson] Büyük Şahsiyetler tarafından üretilir), [ICON_GreatWork_Artifact] Tarihi Eserler (Arkeologlar tarafından Antik Sit Alanlarından çıkarılır) ve [ICON_GreatWork_Relic] Kutsal Emanetler (Şehit yeteneğine sahip Havariler, Teolojik Muharebede öldüklerinde bunları yaratır). (Kutsal Emanetler Kabile Köyleri, Kandy Şehir Devleti veya Jeanne D'Arc emekli olduğunda gibi diğer kaynaklardan da elde edilebilir.) Bir Büyük Eser elde edildiğinde, uygun binadaki veya Harikadaki bir Büyük Eser yuvasına yerleştirilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
+			<Text>Sahil Tatil Beldeleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Sahil Tatil Beldeleri, Radyo teknolojisi araştırıldıktan sonra inşa edilebilen özel bir geliştirmedir. Bunlar, bölgenin Çekicilik değerine bağlı olarak [ICON_Tourism] Turizm üretir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_TITLE">
+			<Text>Milli Parklar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Milli Parklar ilan etmek, [ICON_Tourism] Turizm ve [ICON_Amenities] Olanakları büyük ölçüde artırabilir. Milli Parklar, Koruma Yönetim Bilimi araştırıldıktan sonra şehrinizde [ICON_Faith] İnanç karşılığında satın alınabilen Naturalist birimleri tarafından belirlenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Milli Parklar, aşağıdaki koşulları karşılayan dört bölgeden oluşan bir kümeye inşa edilebilir:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_3">
+			<Text>1. Bölgeler, doğa harikası, dağ veya Çekicilik değeri 'Büyüleyici' ya da daha yüksek olan bir bölge olmalıdır.[NEWLINE]2. Dört bölgenin tamamı aynı şehre ait olmalıdır.[NEWLINE]3. Bölgeler bitişik olmalı ve dikey bir elmas şekli oluşturmalıdır.[NEWLINE]4. Hiçbir bölgede bir geliştirme veya bölge bulunmamalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_4">
+			<Text>Haritadaki geçerli konumları görmek için bir Naturalist seçebilirsiniz. Naturalist'i vurgulanmış herhangi bir bölgeye göndermek, 'Milli Park Belirle' eylem düğmesini ortaya çıkaracaktır. Bu düğmeye tıklamak, Milli Park'ı belirler ve Naturalist'i tüketir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Bir Milli Park'ın [ICON_Tourism] Turizm üretimi, parka dahil edilen tüm bölgelerin toplam Çekicilik değerine eşittir. Ayrıca, parka sahip olan şehir 2 [ICON_Amenities] Olanak kazanır ve uygarlığınızdaki parka en yakın dört şehir 1 [ICON_Amenities] Olanak elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_6_CHAPTER_CONTENT_TITLE">
+			<Text>Kültürel Baskınlık</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Uygarlığınız, başka bir uygarlıktan gelen ziyaretçi turistleri, o uygarlığın kendi yurt içi turistlerinden daha fazla çekiyorsa, o uygarlığa karşı kültürel olarak baskın durumdasınız demektir. Diğer tüm uygarlıklara karşı kültürel baskınlık elde eden ilk oyuncuya Kültür Zaferi verilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_5_CHAPTER_CONTENT_TITLE">
+			<Text>Temalar ve Tema Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Bazı binalar (Sanat Müzesi veya Arkeoloji Müzesi gibi), Büyük Eserleri temalandırarak [ICON_Culture] Kültür ve [ICON_Tourism] Turizm'de önemli bir artış elde etmenizi sağlar. Bir tema bonusu almak için, aynı türden [ICON_GreatWork_Landscape] Sanat Eserlerini farklı sanatçılardan veya aynı çağdan farklı uygarlıklara ait [ICON_GreatWork_Artifact] Tarihi Eserleri sergileyin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_VICTORY_NAME">
+			<Text>Zafer ve Yenilgi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Civilization VI'da bir oyunu kazanmanın ve kaybetmenin birden çok yolu vardır. Kendi uygarlığınızı ilerletirken rakiplerinizin zafere giden yoldaki ilerlemelerini göz önünde bulundurmanız önemlidir. Hayatta kalan son düşmanınızın son şehrini ele geçirmenin eşiğindeyken, onun Mars kolonisini tamamlayıp sürpriz bir Bilim Zaferi kazanmasını çaresizce izlemekten daha sinir bozucu pek az şey vardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_TITLE">
+			<Text>Hakimiyet Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Hakimiyet Zaferi kazanmak için tüm orijinal uygarlıkların [ICON_Capital] Başkentlerini ele geçirmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Orijinal [ICON_Capital] Başkentinizi kaybetmiş olsanız dahi, elinizde başka şehirler varsa yine de başka bir zafer türünü kazanabilirsiniz: Kültür, Bilim, Puan veya Dinî Zafer. Ancak, kendi orijinal [ICON_Capital] Başkentinizi geri almadan Hakimiyet Zaferi'ni kazanamazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_3">
+			<Text>TAKIM HAKİMİYET ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir takım hakimiyet zaferi kazanmak için, takımın tüm üyeleri kendi orijinal [ICON_Capital] başkentlerini kontrol etmeli, diğer tüm oyuncular ise kontrol etmemelidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_TITLE">
+			<Text>Bilim Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Bilim Zaferi, Mars gezegeninde bir koloni kuran ilk oyuncu tarafından elde edilir. Uzay Yarışı başladığında ve bir oyuncu ilk uydusunu fırlattığında, tüm oyuncular bu zaferi kimin denediğini bilir. Oyuncular, zafere giden yolda her kilometre taşına ulaştıklarında bonuslar alır. Aşağıdaki adımlar sırasıyla tamamlanmalıdır:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Uyduyu Uzaya Fırlatma:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_3">
+			<Text>1957'deki Sputnik'i anımsatan bu adımda, Roket Bilimi araştırmasını tamamlayıp bir Uzay Limanı inşa ettikten sonra uzaya fırlatmak üzere bir uydu inşa edebilirsiniz. Dünya Uydusu projesini tamamladıktan sonra uydunuz fırlatılacak ve tüm haritanın görünürlüğü size kazandırılacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir İnsanı Ay'a İndirme:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_5">
+			<Text>Tıpkı 1969'daki Apollo 11 görevi gibi, Ay'a bir insan göndereceksiniz. Bu, Uydular teknolojisi araştırıldıktan sonra kilitlenir ve Uzay Limanı olan herhangi bir şehirde inşa edilebilir. Bu göreve başlamak için Ay'a İniş projesini üretmeyi seçin. Roket fırlatıldıktan sonra hemen bir miktar [ICON_Culture] Kültür ile ödüllendirileceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_6">
+			<Text>Mars'ta Bir Koloni Kurma:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_7">
+			<Text>Belki şimdilik bilimkurgu gibi gelebilir – ancak artık halkınızı Mars'a gönderen ilk kişi siz olabilirsiniz. Robotik, Nükleer Fisyon ve Nanoteknoloji araştırmalarından sonra, Uzay Limanı olan herhangi bir şehirde Reaktör, Yaşam Alanı ve Hidroponik modül projelerini inşa edebilirsiniz. Birden fazla Uzay Limanı, paralel üretim anlamına gelir!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_8">
+			<Text>Tüm parçalar fırlatıldığında oyunu kazanmış olursunuz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_9">
+			<Text>TAKIM BİLİM ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_10">
+			<Text>Bir Takım Bilim Zaferi kazanmak için, takımın bir üyesinin standart Bilim Zaferi gereksinimlerini tamamlaması gerekir. Gereksinim tamamlama paylaşılmaz. Takım arkadaşlarının, Takım Paylaşımlı Araştırmasını kullanarak Takım Bilim Zaferi için işbirliği yapmaları teşvik edilir. Takımlar sayfasına bakın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_TITLE">
+			<Text>Kültür Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Eğer dünyanın kültürel merkezi olmayı hedefliyorsanız, bu zafer tam size göre. Oyundaki diğer her uygarlığın [ICON_Tourism] Yerli Turist sayısını aşan toplam [ICON_Tourism] Ziyaretçi Turist sayısına sahip olan ilk uygarlık, Kültür Zaferi'ni kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_2">
+			<Text>[ICON_Tourism] Turizm, [ICON_TradeRoute] Ticaret Yolları, oyun sonu paylaşılan (veya çatışan) Hükümetler, açık sınırlar, uygarlığınızda bulunan Büyük Eserler, uygarlığınızda bulunan [ICON_GreatWork_Relic] Kutsal Emanetler, Kutsal Alanlar, Milli Parklar, [ICON_GreatWork_Artifact] Tarihi Eserler ve Harikalar tarafından üretilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_3">
+			<Text>TAKIM KÜLTÜR ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir Takım Kültür Zaferi kazanmak için, takımın bir üyesinin [ICON_Tourism] Ziyaretçi Turist sayısı, takım üyesi olmayan tüm uygarlıkların [ICON_Tourism] Yerli Turist sayısını aşmalıdır. [ICON_Tourism] Ziyaretçi Turistler takım üyeleri arasında paylaşılmaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
+			<Text>Dinî Zafer</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_1">
+			<Text>Dini Zafer elde etmek için, oyundaki diğer tüm büyük uygarlıklar için dininizi Baskın Din haline getirmelisiniz. Bu, bir uygarlığın tüm şehirlerinin dininizi takip etmesi gerekmediği, sadece çoğunluğun yeterli olduğu anlamına gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_2">
+			<Text>Din'iniz, diğer oyuncuların yakınına yerleşerek pasif bir şekilde yayılacak olsa da, zafer için en iyi şansı Misyonerleriniz ve Havarileriniz sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_3">
+			<Text>TAKIM DİNİ ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir Takım Dini Zaferi kazanmak için, takım tarafından kurulan Dinler, diğer tüm uygarlıklarda Baskın Din olmalıdır. Baskın Dinler, takım üyeleri tarafından kurulduğu sürece herhangi bir kombinasyonda olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_TITLE">
+			<Text>Puan Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_1">
+			<Text>Birçok oyunda, oyunculardan biri olası zaferlerden birini elde ederek oyunu kazanır. Ancak, hiç kimse 2050 yılına (veya oyuncu tarafından belirlenen bir tura) kadar bu zaferlerden birine ulaşamazsa, kazanan hayatta kalan uygarlığın 'puanına' göre belirlenir. Puanınız; Yönetim Bilimleri sayısı, nüfus sayısı, şehir sayısı, teknoloji sayısı, 'Gelecek Teknolojileri' sayısı, harika sayısı, askeri başarılar, [ICON_GreatPerson] Büyük Kişi sayısı ve İnanç sayısından kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_2">
+			<Text>TAKIM PUAN ZAFERİ</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_3">
+			<Text>Takım olarak oynarken, puan, takım üyelerinin bireysel uygarlık puanlarının toplamı olarak hesaplanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TEAMS_NAME">
+			<Text>Takımlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_TITLE">
+			<Text>Giriş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Oyuna başlamadan önce, bireysel uygarlıklar daha işbirlikçi bir deneyim için takımlara yerleştirilebilir. Takım olarak oynarken, takım üyeleri çeşitli oyun avantajlarını paylaşır ve oyunu kolektif olarak kazanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Takım oyunu şu anda standart çok oyunculu oyunlarda ve çoğu çok oyunculu senaryoda mevcuttur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_2_CHAPTER_CONTENT_TITLE">
+			<Text>Takım Diplomatik İlişkileri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Takım üyeleri kalıcı bir diplomatik ittifakı paylaşır. Tüm standart ittifak kuralları ve faydaları geçerlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_3_CHAPTER_CONTENT_TITLE">
+			<Text>Takım Ortak Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Takım üyeleri savaş durumunu paylaşır. Bir takım üyesi savaş ilan ederse, ilan edilen Savaş Gerekçesi koşulları tüm takım üyeleri için geçerlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_4_CHAPTER_CONTENT_TITLE">
+			<Text>Takım Ortak Araştırması</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_4_CHAPTER_CONTENT_PARA_1">
+			<Text>Takım üyeleri araştırma ilerlemesini kısmen paylaşır. Takım üyeleri, bir takım üyesinin sahip olduğu her teknoloji için bir Teknoloji Sıçraması alır.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

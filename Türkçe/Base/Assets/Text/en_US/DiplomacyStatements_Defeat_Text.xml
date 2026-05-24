@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- AI is Defeated -->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_ANY_ANY">
+			<Text>Sonun bu kadar çabuk geleceğini hiç düşünmemiştim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Sen, şanı yüceltilmiş bir barbardan başka bir şey değilsin. Acımasız ve merhametsiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Yenildiğimi anlayacak kadar yaşadım. Devam edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Mısır kaybedildi. Sevgilime sarılamıyorsam, engerek yılanlarına sarılırım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Bizler yüce ve görkemliydik... ama hayır, boş verin. Siz galip geldiniz. Hükümdarlığınız, benimkinden daha barışçıl olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Beni zincire vurabilir, işkence edebilir, hatta bu bedeni yok edebilirsiniz, ama asla zihnimi hapsedemezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Bunu bana hangi ihanet yaptı? Hayır, hangi kötülük?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Ares bizi terk etti. Sparta yenildi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Ben de Valhalla'da einherjarlara katılıp şölen yapacağım, sen burada didinip duracaksın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Lütfen aileme... halkıma yaşatılan bu onursuzluğu sonlandırın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Tanrı bu son dileklerimi kabul etsin—Brezilya'ya barış ve refah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Bizi yenmiş olabilirsiniz, ama geride bıraktıklarımız başkalarının hayatlarına dokunmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Yenildim. Bir ömrü yaşamak, tarladan geçmek gibi değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Topraklarım... Krallığım... neden, Tanrım? Neden beni terk ettin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ANY">
+			<Text>Bunun olabileceğini hiç düşünmemiştim... böyle olacağını.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Bu zafer değil. 'Zafer', rakiplerinin kalplerini değiştirmektir; nezaketle, iyilikle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tebrikler. Amerika Birleşik Devletleri'nin yerine, sizin ulusunuz çok ileri gidecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>İmparatoriçe düşüyor, ama ben hatırlanacağım. Ya sen?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Mağlubun esenliği, daha fazla esenlik ummamaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Bu ağır ve kahredici kayıp kalıcı olmayacak; İngiltere, şükür ki takdir-i ilahiyle, yeniden yükselecek.</Text>
+		</Row>
+				
+		<!-- Human is Defeated (will see this in hotseat) -->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_ANY_ANY">
+			<Text>Sonun bu kadar çabuk geleceğini hiç düşünmemiştim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Sen sadece görkemli bir barbarsın. Acımasız ve merhametsizsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Yenilgiyi kabullenecek kadar tecrübem var. Yoluna devam et.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Mısır kaybedildi. Sevgilimi kucaklayamıyorsam, engerekleri kucaklarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Biz yüce ve görkemli idik... ama boş ver. Sen zafere ulaştın. Hükümdarlığın benimkinden daha barışçıl olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Beni zincire vurabilir, işkence edebilir, hatta bu bedeni yok edebilirsiniz, ama zihnimi asla hapsedemezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Hangi ihanet bunu bana yaptı? Hayır, hangi kötülük?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Ares bizi terk etti. Sparta yenildi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Öyleyse Valhalla'da einherjarlara katılıp ziyafet çekerken, sen burada didinip duracaksın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Lütfen aileme... halkıma yönelik bu onursuzluğu sona erdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MONTEZUMA_ANY">
+			<Text>Huitzilopochtli zayıflığımızı... benim zayıflığımı affetsin. Sana hizmet edecek kadar güçlü değildim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Tanrı bu son dileklerimi kabul etsin: Brezilya'ya barış ve refah.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Bizi yenmiş olabilirsin, ama geride bıraktıklarımız başkalarının hayatlarına dokunmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Yenildim. Hayatı yaşamak, bir tarlayı geçmek gibi değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Topraklarım... Krallığım... neden, Tanrım? Neden beni terk ettin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Bunun olabileceğini hiç düşünmemiştim... böyle olacağını.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Bu zafer değil. 'Zafer', rakibinin kalbini kazanmaktır; nezaketle, kibarlıkla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Tebrikler. Amerika Birleşik Devletleri'nin yerine, sizin ulusunuz çok ileri gidecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>İmparatoriçe düştü, ama ben hatırlanacağım. Ya sen?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Mağlubun esenliği, daha fazla esenlik ummamaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Bu ağır ve kahredici yenilgi kalıcı olmayacak; İngiltere, şükür ki takdir-i ilahiyle, yeniden yükselecektir.</Text>
+		</Row>
+		
+	</BaseGameText>
+</GameData>

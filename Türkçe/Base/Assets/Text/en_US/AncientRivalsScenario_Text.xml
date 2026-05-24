@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TITLE">
+			<Text>Kadim Rakipler</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
+			<Text>Ufkunuzu genişletin ve Antik Çağ'da geçen bu keşif ve kültür temelli senaryoda medeniyete adım atın. 50 Tur sürer.[NEWLINE]Zafer Koşulları[NEWLINE]Tur sınırına ulaşıldığında, zafer aşağıdaki koşulların en çoğuna sahip olan oyuncuya verilir. Beraberlikler puana göre çözülür.[NEWLINE][ICON_Bullet]Kültürlü - En çok Yönetim Bilimleri araştırmak.[NEWLINE][ICON_Bullet]Kâşif - Haritada en çok alanı keşfetmek.[NEWLINE][ICON_Bullet]Antik Akıncı - En çok alanı yağmalamak.[NEWLINE][ICON_Bullet]Antik Dünya Harikası - En çok harikaya sahip olmak.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
+			<Text>Kadim Rakipler</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
+			<Text>Tur sınırına ulaşıldığında, zafer aşağıdaki koşulların en çoğuna sahip olan oyuncuya verilir. Beraberlikler puana göre çözülür.[NEWLINE][ICON_Bullet]Kültürlü - En çok Yönetim Bilimleri araştırmak.[NEWLINE][ICON_Bullet]Kâşif - Haritada en çok alanı keşfetmek.[NEWLINE][ICON_Bullet]Antik Akıncı - En çok alanı yağmalamak.[NEWLINE][ICON_Bullet]Antik Dünya Harikası - En çok harikaya sahip olmak.[NEWLINE]</Text>
+		</Row>	
+
+		<!-- Victories -->
+		<Row Tag="LOC_ANCIENT_RIVALS_VICTORY_WIN_BLURB">
+			<Text>Bana yeterince uzun bir kaldıraç ve onu dayayacak bir destek noktası verin, dünyayı yerinden oynatayım. – Arşimet</Text>
+		</Row>		
+		
+		<!-- Scenario Package -->
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Kadim Rakipler</Text>
+		</Row>
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_TEASER">
+			<Text>Ufkunuzu genişletin ve Antik Çağ'da geçen bu keşif ve kültür temelli senaryoda medeniyete adım atın. 50 Tur sürer.</Text>
+		</Row>	
+		<Row Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
+			<Text>Zafer Koşulları[NEWLINE]Tur sınırına ulaşıldığında, zafer aşağıdaki koşulların en çoğuna sahip olan oyuncuya verilir. Beraberlikler puana göre çözülür.[NEWLINE]Kültürlü - En çok Yönetim Bilimleri araştırmak.[NEWLINE]Kâşif - Haritada en çok alanı keşfetmek.[NEWLINE]Antik Akıncı - En çok alanı yağmalamak.[NEWLINE]Antik Dünya Harikası - En çok harikaya sahip olmak.[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Tur Limiti {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_ANCIENT_RIVALS_PLAYER_HAS_MOST_ANCIENT_RIVALS_POINTS_PROGRESS">
+			<Text>Zafer Puanı {VictoryPoints} {VictoryStatusIcon}[NEWLINE]Keşfedilen Alanlar {HexesExplored} {ExploredStatusIcon}[NEWLINE]Yağmalanan Alanlar {TilesPillaged} {PillagedStatusIcon}[NEWLINE]Tamamlanan Yönetim Bilimleri {CivicsCompleted} {CivicsStatusIcon}[NEWLINE]Sahip Olunan Harikalar {WondersPossessed} {WondersStatusIcon}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

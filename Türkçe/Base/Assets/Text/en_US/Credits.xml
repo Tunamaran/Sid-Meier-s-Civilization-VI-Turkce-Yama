@@ -1,0 +1,5341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_CREDITS_BACK_BUTTON">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_CREDITS_BASEGAME">
+			<Text>Temel Oyun</Text>
+		</Row>
+		<Row Tag="LOC_CREDITS">
+			<Text>
+[3]JENERİK
+
+
+
+[2]Firaxis Games
+[1]Sid Meier’in Uygarlık VI
+
+
+
+
+[2]TAKIM LİDERLİĞİ
+[3]Baş Tasarımcı
+[4]Ed Beach
+
+[3]Baş Mühendis
+[4]Ken Grey
+
+[3]Sanat Yönetmeni
+[4]Brian Busatti
+
+[3]DLC Sanat Yönetmeni
+[4]Jason Johnson
+
+[3]Kıdemli Yapımcı
+[4]Dennis Shirk
+
+[3]DLC Kıdemli Yapımcısı
+[4]Andrew Frederiksen
+
+[i]TechTree_Meter_Done
+
+[2]TASARIM EKİBİ
+
+[3]Baş Tasarımcı
+[4]Ed Beach
+
+[3]Tasarımcı/Programcılar
+[4]Matthew Beach
+[4]Brian Feldges
+[4]Andrew Garrett
+[4]Anton Strenger
+
+[3]Yapay Zekâ Baş Mühendisi
+[4]Andrew Garrett
+
+[i]TechTree_Meter_Done
+
+[2]YAPIM EKİBİ
+
+[3]Kıdemli Yapımcı
+[4]Dennis Shirk
+
+[3]DLC Kıdemli Yapımcısı
+[4]Andrew Frederiksen
+
+[3]Ortak Yapımcı
+[4]Sarah Darney
+
+[3]Ek Yapım
+[4]Amy Pickens, Teknik Animasyon Grubu
+[4]Stuart E. Zissu, Sistemler ve IHV Desteği
+
+[3]Yazarlar
+[4]Alexander Horn
+[4]Rex Martin
+[4]Zach Bush
+
+[3]Ek Yazarlar
+[4]Steffen Drees
+[4]Angelica Fuchs
+[4]Carlton Harrison
+[4]Dominic "Bull" Mancuso
+[4]Timothy McCracken
+[4]Peter Murray
+[4]Maurice Suckling
+[4]Charles Webb
+[4]Scott Wittbecker
+
+[3]Özel Teşekkürler
+[4]Andrew Alan Johnson
+
+[i]TechTree_Meter_Done
+
+[2]PROGRAMLAMA EKİBİ
+
+[3]Baş Mühendis
+[4]Ken Grey
+
+[3]Oynanış Mühendisleri
+[4]Eric Jordan
+[4]Adam Sherburne
+[4]Scott Spanburg
+
+[3]Ek Oynanış Mühendisleri
+[4]Jeff Hiebert, Ghostpunch
+[4]Olex Lozitskiy, Ghostpunch
+
+[3]Baş Sistem Mühendisi
+[4]Greg Osefo
+
+[3]Sistem Mühendisleri
+[4]Ian Schmidt
+[4]Adam Sherburne
+
+[3]Baş Grafik Mühendisi
+[4]Josh Barczak
+
+[3]Grafik Mühendisleri
+[4]Navjot Garg
+[4]Arthur Gould
+[4]Kevin Jones
+[4]John Kloetzli
+[4]Theodore Maselko
+[4]David Raabe
+[4]Jeremy Shopf
+[4]Kiran Sudhakara
+[4]Marek Vojtko
+
+[3]Baş Veritabanı/Modlama Mühendisi
+[4]Shaun Seckman
+
+[3]Baş Arayüz Mühendisi
+[4]Tronster
+
+[3]Arayüz Mühendisleri
+[4]Samuel Batista
+[4]Whitney Bell
+[4]Joe Cortese
+
+[3]Ek Arayüz Mühendisleri
+[4]Keaton VanAuken, Ghostpunch
+
+[3]Baş Çok Oyunculu Mühendis
+[4]Bradley Olson
+
+[3]Çok Oyunculu Mühendisler
+[4]Todd Smith
+
+[3]Baş Araç Mühendisi
+[4]Brian Whitman
+
+[3]Araç Mühendisleri
+[4]David Gurley
+
+[3]Ek Kullanıcı Arayüzü ve Oynanış Desteği
+
+[3]Blind Squirrel Games
+[4]Chris Wade – Oynanış Mühendisi
+[4]Leo Simkin – Oynanış Mühendisi
+[4]David Baker – Yönetici Yapımcı
+[4]Amanda Khoury – Ortak Yapımcı 
+
+[i]TechTree_Meter_Done
+
+[2]SANAT EKİBİ
+
+[3]Sanat Yönetmeni
+[4]Brian Busatti
+
+[3]DLC Sanat Yönetmeni
+[4]Jason Johnson
+
+[3]Baş Arayüz Tasarımcısı
+[4]Whitney Bell
+
+[3]DLC Baş Arayüz Tasarımcısı
+[4]David Cory
+
+[3]Arayüz Sanatçıları
+[4]Rob Sugama
+
+[3]Baş Animatör
+[4]Hector Antunez
+
+[3]DLC Baş Animatörü
+[4]Grant Chang
+
+[3]Animatörler
+[4]Rachel Anchors
+[4]Aaron Andersen
+[4]Lou Ferina
+[4]Alex Kim
+[4]Greg Marlow
+[4]Dennis Moellers
+[4]Daniel Perry
+[4]David Senita
+[4]Justin Thomas
+[4]Bryan Twomey
+
+[3]Ek Animatörler
+[4]Jason Johnson
+
+[3]Teknik Animasyon Grubu
+[4]Brian Evans
+[4]John Stewart
+
+[3]Ek Teknik Animasyon
+[4]Savannah Myers
+
+[3]Baş Karakter Sanatçısı
+[4]Matthew Kean
+
+[3]Baş Birim Modelleme
+[4]David Jones
+
+[3]Karakter ve Birim Modelleyicileri
+[4]John Fitzgerald
+[4]Ryan Jackson
+[4]David Jones
+[4]Michael Unkrich
+
+[3]Ek Birim Modelleyicileri
+[4]Benjamin McArdle
+[4]Gameshastra Solutions Private Limited
+
+[3]Baş Çevre Sanatçısı
+[4]Jason Johnson
+
+[3]Çevre Sanatçıları
+[4]Clark Coots
+
+[3]Baş Yapı Modelleyicisi
+[4]Matthew Quickel
+
+[3]Yapı Modelleyicileri
+[4]Jerome Atherholt
+[4]Michael Bates
+[4]Todd Bergantz
+[4]Andrew Clark
+[4]Clark Coots
+[4]Tommy Cox
+[4]Alex Llivicura
+[4]Matt McAuliffe
+[4]Rambo Siu
+
+[3]Ek Yapı Modelleyicileri
+[4]John Dunford
+
+[3]Baş Görsel Efekt Sanatçısı
+[4]Troy Adam
+
+[3]Görsel Efekt Sanatçıları
+[4]Michael Bazzell
+[4]Rick Menkhaus
+
+[3]Ek Görsel Efekt Sanatçıları
+[4]Todd Bilger
+
+[3]Baş Konsept Sanatçısı
+[4]Sang Han
+
+[3]DLC Baş Konsept Sanatçısı
+[4]Kat Berkley
+
+[3]Konsept Sanatçıları
+[4]Taylor Fischer
+[4]Sam Gauss
+[4]Michael Tassie
+[4]Ryan Andrade
+[4]Aaron Whitehead
+
+[3]Ek Konsept Sanatçıları
+[4]Andrew Bosley
+[4]Eric Ehoff
+[4]Jeff Paulsrud
+[4]Colleen Peck
+
+[3]Hareketli Grafik Tasarımcısı
+[4]Steve Ogden
+
+[i]TechTree_Meter_Done
+
+[2]SES
+
+[3]Baş Ses Tasarımcısı
+[4]Roland Rizzo
+
+[3]Ortak Baş Ses Tasarımcısı
+[4]Griffin Cohen
+
+[3]Ses Tasarımcıları
+[4]Griffin Cohen
+[4]Dan Costello
+[4]Roland Rizzo
+[4]Christopher D'Ambrosio
+[4]Dan Price
+
+[3]Oyun İçi Müzikler
+[4]Geoff Knorr
+[4]Roland Rizzo
+[4]Tim Wynn
+
+[3]Açılış Sinematiği ve Ana Menü Müziği
+[4]Christopher Tin
+
+[3]Oyun Sonu Sinematiği Müziği
+[4]Geoff Knorr
+[4]Christopher Tin
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]Ses Programcısı
+[4]Ian Schmidt
+
+[i]TechTree_Meter_Done
+
+[2]İcracılar
+
+[3]Praga FILMharmonic Orkestrası
+[4]Orkestra şefi: Andy Brick
+[4]Rita Cepurcenko, Konsertmeistr
+[4]Kühn Karma Korosu
+[4]Marek Vorlícek, Koro Şefi
+[4]Jan Holzner, Orkestra ve Koro Kayıt Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü
+[4]Tomás Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+[4]Chris Whittaker, Orkestra Partisyon Hazırlığı
+[4]Orkestra Kaydı: Smecky Müzik Stüdyoları
+[4]Niccolo Seligmann, Bas Viyol, Vielle, Kemençe
+[4]Deepak Ram, Bansuri
+[4]Bing Xia, Guzheng
+[4]Chakib Hilali, Ud, Ney, Kavala
+[4]Kylie Hilali, Kanun
+[4]Brad Kolodner, Banço
+[4]Patrick McAvinue, Keman
+[4]Kahil Nayton, Cavaquinho
+[4]Cesar Garabini, 7 telli gitar
+[4]Sissel Morken Gullord, Norveç Bukkehornu
+[4]Andrei Saveliev, Balalayka
+[4]Mathew Poovan, Sitar
+[4]Souvik Ghosh, Tabla
+[4]Chris Reber, Mandolin
+[4]Dave Hadley, Dobro
+[4]Benjamin Beirs, Klasik Gitar
+[4]Sandro Freidrich, Duduk, Hotchiku, Kaydedici, Bombarde, Pivava, Tenor Pivana, Schwegel, Occorsoflüt,
+[4]Kaval, Ciaramella, Bas Kaydedici, Bena, Erdklangfloete, Ocarina, Floyera, Doucaine, Teneke Düdük
+[4]Ronnie Nyogetsu Reishin Seldin, Şakuhaçi
+[4]Roland Rizzo, Güney Amerika Flütleri
+[4]Geoff Knorr, 9 Telli Erato Altın Liri
+[4]Jon Anders Narum, Norveç Bukkenhorn Kayıt Mühendisi
+
+[3]Kongolese Enstrümantal Kaydı: Regulus Sound Productions (PTY) LTD – Güney Afrika
+[4]Caleb Vaughn-Jones, Yapımcı, Kayıt Mühendisi, kontrbas, nyunganyunga, mbira
+[4]Simphiwe Funde, Yapım asistanı, Afrika enstrümanları
+[4]Brent Kennedy, Yapım asistanı ve dil çevirmeni
+[4]Joe Van Der Linden, gitar
+[4]Massi Bambino, vokal ve Kongo müzik araştırmacısı
+[4]Sebastian Sala, vokal ve Kongo müzik araştırmacısı
+[4]Candice Bowkers, Kayıt Mühendisi
+
+[3]Ek Vokaller
+[4]Kyle du Preez, Afrika vokalleri
+
+[3]Mix ve Mastering
+[4]Geoff Knorr
+
+[3]Sinematik ve Ana Menü Skoru 
+[4]Ana Menü: "Sogno di Volare (The Dream of Flight)"
+[4]Beste: Christopher Tin
+[4]Sözler: Leonardo da Vinci, uyarlayan: Chiara Cortez
+[4]İcra: Angel City Chorale, Cappella SF ve Makedon Senfoni Orkestrası
+[4]Mix: Jason Schweitzer
+[4]Kayıt: Abbey Road Studios, Skywalker Sound, The Bridge ve MRTV Studio M1
+[4]Kayıt Mühendisleri: Andrew Dudman, Leslie Ann Jones, Milton Gutierrez ve Giorgi Hristovski
+
+[4]Açılış Filmi: "A New Course"
+[4]Beste: Christopher Tin
+[4]Sözler: Leonardo da Vinci, uyarlayan: Chiara Cortez
+[4]İcra: Cappella SF ve Makedon Senfoni Orkestrası
+[4]Mix: Leslie Ann Jones
+[4]Kayıt: Skywalker Sound, The Bridge ve MRTV Studio M1
+[4]Kayıt Mühendisleri: Leslie Ann Jones, Milton Gutierrez ve Giorgi Hristovski
+
+[4]Ek Düzenlemeler: Alex Williamson
+[4]Ek Orkestrasyonlar: Jerome Leroy
+ 
+[3]Angel City Chorale
+[4]Müzik Direktörü: Sue Fink
+ 
+[3]Cappella SF
+[4]Müzik Direktörü: Ragnar Bohlin
+ 
+[3]Orkestra: Makedon Senfoni Orkestrası
+[4]F.A.M.E.'S. Project - Üsküp
+[4]Şef: Oleg Kondratenko
+[4]Kayıt Mühendisi: Giorgi Hristovski
+[4]Pro Tools Operatörü: Atanas Babaleski
+[4]Sahne Yöneticisi: Riste Trajkovski
+[4]Mix: Leslie Ann Jones, Skywalker Sound
+[4]Mix Asistan Mühendisi: Dann Thompson
+[4]Pro Tools Editörü: Andre Zweers
+ 
+[4]Ek Düzenlemeler: Alex Williamson
+[4]Ek Orkestrasyonlar: Jerome Leroy
+
+[3]Özel Teşekkürler
+[4]Radio Active Productions Publishing Studio 
+[4]Peabody Institute Recording Arts and Sciences
+
+[i]TechTree_Meter_Done
+
+[2]SIGNAL SPACE
+[3]Yaratıcı Yönetmen
+[4]Jose Aguirre
+
+[3]Araştırmacı
+[4]Inga Knoth
+
+[3]Ses Editörü 
+[4]Valentino Lercher
+
+[3]Ses Editörü 
+[4]Matthew Knutson
+
+[3]Proje Yöneticisi 
+[4]Christopher Fox
+
+[i]TechTree_Meter_Done
+
+[2]SOLID AIR 
+
+[3]VO Editörleri
+[4]Transatlantic Audio/Dante Fazio
+[4]Austin Krier
+[4]Garrett Montgomery M.P.S.E
+[4]Stephen Selvaggio
+
+[i]TechTree_Meter_Done
+
+[2]KALİTE GÜVENCE
+
+[3]KG Süpervizörü
+[4]Timothy McCracken
+
+[3]KG Lideri
+[4]Carlton Harrison
+
+[3]Test Uzmanları
+[4]Daron Carlock 
+[4]Steffen Drees
+[4]Carlton Harrison
+[4]Jen Kraft
+[4]Dominic “Bull” Mancuso
+[4]Kelsey Orem
+
+[3]Ek Test Uzmanları
+[4]Albert Briggs
+[4]Bennett Kauffman
+[4]Santiago Loane
+[4]Joseph Walker
+[4]Chloe Wright
+
+[3]Stajyer Test Uzmanları
+[4]Steven Eisner
+[4]James Hopkins
+[4]Sam McNear
+
+[i]TechTree_Meter_Done
+
+[2]FIRAXIS CANLI YAYIN EKİBİ
+
+[3]Yapımcı
+[4]Clint McCaul
+
+[3]Kıdemli Ağ Programcısı
+[4]Michael Springer
+
+[3]Kıdemli Çevrim İçi Hizmetler Mühendisi
+[4]Robert Dye
+
+[3]Telemetri Programcısı
+[4]Timothy Talley
+
+[i]TechTree_Meter_Done
+
+[2]FIRAXIS YÖNETİMİ
+
+[3]CEO / Başkan
+[4]Steve Martin
+
+[3]Yaratıcı Yönetmen
+[4]Sid Meier
+
+[3]Stüdyo Sanat Yönetmeni
+[4]Arne Schmidt
+
+[3]Yazılım Geliştirme Direktörü
+[4]Steve Meyer
+
+[3]Oynanış Geliştirme Direktörü
+[4]Barry Caudill
+
+[3]Yönetici Yapımcı
+[4]Kelley Gilmore
+
+[3]Pazarlama Direktörü
+[4]Lindsey Riehl
+
+[3]Pazarlama Uzmanı
+[4]Peter Murray
+
+[3]Topluluk Yöneticisi
+[4]Kevin Schultz
+
+[3]İnsan Kaynakları Direktörü
+[4]Shawn Kohn
+
+[3]Ofis Yöneticisi
+[4]Donna Milesky
+
+[3]BT Yöneticisi
+[4]Josh Scanlan
+
+[3]BT Teknisyeni
+[4]Matt Baros
+[4]David McFall
+
+[3]Özel Projeler
+[4]Susan Meier
+
+[3]Özel Teşekkürler
+[4]Joanne Miller
+[4]Beth Petrovich
+
+[i]TechTree_Meter_Done
+
+[2]MODLAMA KATKILARI
+
+[3]Kullanıcı Arayüzü
+[4]Bradd Szonye - Harita İşaretleri
+
+[i]TechTree_Meter_Done
+
+[2]FRANKENSTEIN TEST GRUBU
+[4]Camikaze
+[4]Sam "SamBC" Barnett-Cormack
+[4]David "Browd" Brown
+[4]Gloria "Nolan" Carson
+[4]Sean "Gorbles" Hickman
+[4]MadDjinn
+[4]Joel "colonelmustard" Myers
+[4]Adam "Pouakai" Partridge
+[4]Daniel "DanQ" Quick
+[4]Rob Riley
+[4]Hannah "Codex" Schofield
+[4]Elliot "Ekmek" Schroeder
+[4]Anthony "Ztaesek" Seekatz
+[4]Peter "Maniac" Steenbeke
+[4]Daniels "Solver" Umanovskis
+[4]Stephen "WarningU2" Warner
+[4]Frithjof Nikolai Wilborn
+[4]Onno "donald23" Zaal
+
+[i]TechTree_Meter_Done
+
+[2]TEDARİKÇİ DESTEĞİ
+
+[3]AMD
+[4]Cristian Cutocheras
+[4]Raul Aguaviva
+[4]Josh Salem
+
+[3]NVidia
+[4]Timofey Cheblokov
+[4]Alex Dunn
+[4]Amanpreet Grewal
+
+[3]Intel
+[4]Raja Bala
+[4]Chris Seitz
+
+[3]Quixel
+[4]Teddy Bergsman
+[4]Eric Ramberg
+
+[3]Wwise
+[4]Martin Dufour
+[4]Adrien Lavoie
+
+[3]Fork
+[4]Noor Khawaja
+
+[3]Valve
+[4]Justin York
+
+[i]TechTree_Meter_Done
+
+[2]YAPIM BEBEKLERİ
+[4]Alan
+[4]Dominic
+[4]Eleanor
+[4]Graham
+[4]Gwendolyn ve MacArthur
+[4]Ian
+[4]Leah
+[4]Luca
+[4]Owen
+[4]Owen
+
+[4]Tüm ailelerimize ve sevdiklerimize! Sabrınız ve desteğiniz için teşekkürler!
+
+[4]2K tarafından yayınlanmıştır.
+[4]2K, Take-Two Interactive Software, Inc. şirketinin bir yayıncılık markasıdır.
+
+[i]TechTree_Meter_Done
+
+[2]2K YAYINCILIK
+
+[3]Başkan
+[4]Christoph Hartmann
+
+[3]COO
+[4]David Ismailer
+
+[i]TechTree_Meter_Done
+
+[2]2K ÜRÜN GELİŞTİRME
+
+[3]Başkan Yardımcısı, Ürün Geliştirme
+[4]John Chowanec
+[3]Ürün Geliştirme Direktörü
+[4]Melissa Miller
+
+[3]Kıdemli Yapımcı 
+[4]Garrett Bittner
+
+[3]Yapımcı 
+[4]Joe Faulstick
+
+[3]Ortak Yapımcılar 
+[4]Andrew Dutra
+[4]Meghan Lee
+
+[3]Yapım Asistanları 
+[4]Ross Marabella
+[4]Shelby Martin
+
+[3]Dijital Yayın Yöneticisi
+[4]Tom Drake
+
+[3]Dijital Yayın Asistanı
+[4]Myles Murphy
+
+[3]Ek Yapım Desteği
+[4]Tiffany Nagano
+
+[i]TechTree_Meter_Done
+
+[2]2K YARATICI GELİŞTİRME
+
+[3]Başkan Yardımcısı, Yaratıcı Geliştirme
+[4]Josh Atkins
+
+[3]Tasarım Direktörleri 
+[4]Jonathan Pelling
+[4]Francois Giuntini
+
+[3]Sanat Yönetmeni
+[4]Robert Clarke
+
+[3]Kıdemli Direktör, Yaratıcı Yapım 
+[4]Jack Scalici
+
+[3]Direktör, Yaratıcı Yapım 
+[4]Chad Rocco
+
+[3]Kıdemli Yönetici, Yaratıcı Yapım
+[4]Josh Orellana
+
+[3]Yaratıcı Yapım Koordinatörü
+[4]William Gale
+
+[3]Yaratıcı Yapım Asistanları
+[4]Cathy Neeley
+[4]Megan Rohr
+
+[3]Medya Yapımcısı
+[4]Mike Read
+
+[3]Geliştirici Destek Ekibi – Görsel Efekt Lideri 
+[4]Stephen Babb
+
+[3]Geliştirici Destek Ekibi – Animasyon Lideri 
+[4]PJ Leffelman
+
+[3]Geliştirici Destek Ekibi – Modelleme Lideri 
+[4]Peter Turner
+
+[3]Oynanış Görüntüleme Lideri
+[4]Homer Rabara
+
+[3]Oynanış Görüntüleme Ekibi
+[4]Luke McCarthy
+[4]Dana Koerlin
+
+[3]Araştırma ve Planlama Direktörü
+[4]Mike Salmon
+
+[3]Kıdemli Pazar Araştırmacısı
+[4]David Rees
+
+[3]Kullanıcı Test Yöneticisi
+[4]Francesca Reyes
+
+[3]Kullanıcı Araştırmacısı
+[4]Jonathan Bonillas
+
+[3]Kullanıcı Test Asistanı
+[4]Julian O’Neal
+
+[3]Hareket Yakalama Süpervizörü  
+[4]David Washburn  
+
+[3]Hareket Yakalama Sahne Yöneticisi
+[4]Anthony Tominia  
+
+[3]Hareket Yakalama Sahne Teknisyenleri 
+[4]Jen Antonio
+[4]Emma Castles
+[4]Jeremy Schichtel
+[4]Alexandra Grant
+[4]Christopher Barton
+
+[3]Hareket Yakalama Yapım Yöneticisi
+[4]Charles Ghislandi
+
+[3]Hareket Yakalama Uzmanları 
+[4]Ryan Girard
+[4]Michelle Hill
+[4]Jose Gutierrez  
+[4]Gil Espanto  
+[4]Jeremy Wages
+
+[3]Hareket Yakalama Boru Hattı Mühendisi
+[4]Charles “Auggie” Harris III
+
+[3]Hareket Yakalama Medya Süpervizörü
+[4]J. Mateo Baker 
+
+[3]Hareket Yakalama Ses Asistanı
+[4]Andrew Hanson
+
+[i]TechTree_Meter_Done
+
+[2]2K ÇEKİRDEK TEKNOLOJİ
+
+[3]Başkan Yardımcısı, Teknoloji
+[4]Mark James
+
+[3]Mühendislik Direktörü
+[4]David R. Sullivan
+
+[3]Operasyon Yöneticisi, Çekirdek Teknoloji
+[4]Peter Driscoll
+
+[3]Kıdemli Çevrim İçi Mimar
+[4]Louis Ewens
+
+[3]Baş Teknik Sanatçı
+[4]Jonathan Tilden
+
+[3]Baş Teknik Sanatçı
+[4]Kris DeMartini
+
+[3]Kıdemli Yazılım Mühendisi
+[4]Mitchell Fisher
+
+[3]Yazılım Mühendisi
+[4]Jack Lui
+[4]Jason Howard
+
+[i]TechTree_Meter_Done
+
+[2]2K HESAP EKİBİ 
+
+[3]Baş Yazılım Mühendisi
+[4]Adam Lupinacci
+
+[3]Yapımcı
+[4]Jason Johnson
+
+[3]Kıdemsiz Teknik Yapımcı
+[4]Nick Silva
+
+[3]Kıdemli Yazılım Mühendisleri 
+[4]Alberto Covarrubias
+[4]Dale Russell
+[4]Robin Lavallee
+[4]Sky Schulz
+[4]Scott Barrett
+
+[3]Kıdemli DevOps Mühendisi
+[4]Matthew Rich
+
+[3]Kıdemsiz Mühendisler
+[4]Sourav Dey
+[4]Taylor Owen-Millner
+
+[3]Kalite Güvence Yöneticisi
+[4]Ian Moore
+
+[3]Kıdemli Kalite Güvence Test Uzmanı
+[4]Greg Vargas
+
+[3]Kalite Güvence Test Uzmanları 
+[4]Mackenzie Hume
+[4]Parisa Mirshah
+
+[i]TechTree_Meter_Done
+
+[2]2K PAZARLAMA 
+
+[3]Kıdemli Başkan Yardımcısı, Pazarlama
+[4]Sarah Anderson
+
+[3]Başkan Yardımcısı, Pazarlama
+[4]Matt Gorman
+
+[3]Başkan Yardımcısı, Uluslararası Pazarlama
+[4]Matthias Wehner
+
+[3]Pazarlama Direktörü, Kuzey Amerika 
+[4]Kelly Miller
+
+[3]Direktör, Pazarlama 
+[4]Matt Knoles
+
+[3]Ürün Yöneticisi 
+[4]Jenny Tam
+
+[3]İletişim Başkan Yardımcısı, Amerika
+[4]Ryan Jones
+
+[3]Kıdemli İletişim Yöneticisi 
+[4]Richie Churchill
+
+[3]İletişim Koordinatörü
+[4]Erica Hebert
+
+[3]Kıdemli Yönetici, Topluluk İçeriği 
+[4]Darren Gladstone
+
+[3]Topluluk ve Sosyal Medya Yöneticileri 
+[4]David Hinkle
+
+[3]Topluluk Uzmanı
+[4]Joseph Bustos
+
+[3]Uluslararası Proje Yöneticisi 
+[4]Ben Kvalo
+
+[3]Yaratıcı Yönetmen, Pazarlama
+[4]Gabe Abarcar
+
+[3]Kıdemli Direktör, Pazarlama Yapımı
+[4]Jackie Truong
+
+[3]Pazarlama Yapım Yöneticisi
+[4]Ham Nguyen
+
+[3]Pazarlama Yapım Asistanı
+[4]Nelson Chao
+
+[3]Kıdemli Grafik Tasarımcısı
+[4]Christopher Maas
+
+[3]Proje Yöneticisi
+[4]Heidi Oas
+
+[3]Direktör, Video Yapımı
+[4]Kenny Crosbie
+
+[3]Video Editörü ve Hareketli Grafik Tasarımcıları
+[4]Michael Regelean
+[4]Eric Neff
+
+[3]Video Editörü
+[4]Peter Koeppen
+
+[3]Ortak Video Editörleri
+[4]Doug Tyler 
+[4]Nick Pylvanainen
+
+[3]Web Direktörü
+[4]Nate Schaumberg
+
+[3]Kıdemli Web Tasarımcısı
+[4]Keith Echevarria
+
+[3]Kıdemli Web Geliştiricisi
+[4]Alex Beuscher
+
+[3]Web Geliştiricisi
+[4]Gryphon Meyers
+
+[3]Web Yapımcısı
+[4]Tiffany Nelson
+
+[3]Kanal Pazarlama Yöneticileri
+[4]Anna Nguyen
+[4]Marc McCurdy
+
+[3]İş Ortağı Pazarlama Uzmanı
+[4]Kelsie Lahti
+
+[3]Kıdemli Etkinlik Direktörü
+[4]Lesley Zinn Abarcar
+
+[3]Etkinlik Yöneticisi
+[4]David Iskra
+
+[3]Etkinlik Teknik Yöneticisi 
+[4]Mario Higareda
+
+[3]Müşteri Hizmetleri Direktörü
+[4]Ima Somers
+
+[3]Müşteri Hizmetleri Yöneticisi
+[4]David Eggers
+
+[3]Bilgi Tabanı Koordinatörü
+[4]Mike Thompson
+
+[3]Müşteri Hizmetleri Koordinatörü
+[4]Jamie Neves
+
+[3]Müşteri Hizmetleri Lideri
+[4]Crystal Pittman
+
+[3]Kıdemli Müşteri Hizmetleri Uzmanları
+[4]Alicia Nielsen
+[4]Ryosuke Kurosawa
+
+[3]Direktör, Ortaklıklar ve Lisanslama
+[4]Jessica Hopp
+
+[3]Ortaklıklar ve Lisanslama Yöneticisi
+[4]Ryan Ayalde
+[4]Greg Brownstein
+
+[3]Ortaklık ve Lisanslama Ortak Yöneticisi
+[4]Ashley Landry
+
+[3]Pazarlama Proje Uzmanı
+[4]Kenya Sancristobal
+
+[i]TechTree_Meter_Done
+
+[2]2K OPERASYON
+
+[3]Kıdemli Başkan Yardımcısı, Kıdemli Hukuk Danışmanı
+[4]Peter Welch
+
+[3]Hukuk Danışmanları
+[4]Justyn Sanderford
+[4]Aaron Epstein
+
+[3]Başkan Yardımcısı, Yayıncılık Operasyonları
+[4]Steve Lux
+
+[3]Label Operasyonları Direktörü
+[4]Rachel DiPaola 
+
+[3]Operasyon Direktörü
+[4]Dorian Rehfield
+
+[3]Analitik Direktörü
+[4]Mehmet Turan
+
+[3]Kıdemli Veri Analisti
+[4]Adam Dobrin
+
+[3]Kıdemli Analistler
+[4]Tuomo Nikulainen
+[4]Kyle Bishop
+
+[3]İş Ortağı Pazarlama Yöneticisi
+[4]Dawn Earp
+
+[3]Lisanslama ve Operasyon Uzmanı
+[4]Xenia Mul
+
+[3]Operasyon Koordinatörü
+[4]Aaron Hiscox
+
+[i]TechTree_Meter_Done
+
+[2]2K BT
+
+[3]Kıdemli Direktör, 2K BT
+[4]Rob Roudebush
+
+[3]Kıdemli BT Yöneticisi
+[4]Bob Jones
+
+[3]Kıdemli Ağ Yöneticisi 
+[4]Russell Mains
+
+[3]Kıdemli Sistem Mühendisi
+[4]Jon Heysek
+
+[3]Güvenlik Sistemleri Mühendisi
+[4]Lee Ryan
+
+[3]Ağ Mühendisi
+[4]Don Claybrook
+
+[3]Sistem Yöneticisi
+[4]Fernando Ramirez
+[4]Tareq Abbassi
+[4]Scott Alexander
+[4]Davis Krieghoff
+
+[3]BT Analisti
+[4]Michael Caccia
+
+[i]TechTree_Meter_Done
+
+[2]2K ÇEVRİM İÇİ OPERASYONLAR  
+
+[3]Direktör, Çevrim İçi Operasyonlar
+[4]Tim Holman
+
+[3]Mobil Pazarlama Yöneticisi
+[4]David Hoffman
+
+[3]Ortak Mobil Pazarlama Yöneticisi
+[4]Ramon Aranda
+
+[i]TechTree_Meter_Done
+
+[2]2K KALİTE GÜVENCE 
+
+[3]Kıdemli Başkan Yardımcısı, Kalite Güvence ve Başvurular
+[4]Alex Plachowski
+
+[3]Test Yöneticisi
+[4]Doug Rothman
+
+[3]Başvuru Yöneticisi
+[4]Scott Sanford
+
+[3]Proje Lideri
+[4]Jason Kolesa
+
+[3]Ortak Lider
+[4]Alexander Coffin
+[4]Joshua Vance
+
+[3]Destek Liderleri
+[4]Chris Adams
+[4]Nathan Bell
+
+[3]Kıdemli Test Uzmanları
+[4]Kayla Mager
+[4]Raynard Moreno
+[4]Brian Reiss
+[4]Jake Merryman
+[4]Keith Rische
+[4]Summer Breeze
+[4]Todd White
+
+[3]Test Uzmanları 
+[4]Anthony Garland
+[4]Alex Buckner
+[4]Brandon Peterson
+[4]Bryan Fritz
+[4]Bryant Leos
+[4]Bryce Fernandez
+[4]Demetri Ghaeni
+[4]Douglas Huth
+[4]Douglas Reilly
+[4]Ian Bennett
+[4]James Schindler
+[4]Jason Smith
+[4]Jorge Segarra
+[4]Kelsey Sissons
+[4]Kiwawn Pearson
+[4]Kristian Garcia
+[4]Kyle Kraemer
+[4]Kyle Lucero
+[4]Mason Gagliardo
+[4]Matthew Finck
+[4]Michael Galo
+[4]Michelle Foley
+[4]Miguel Garcia
+[4]Monique Davis
+[4]Natasha Francois
+[4]Nicholas Giebel
+[4]Nick Bigler
+[4]Preston Chapin-Soriano
+[4]Richard Pugh
+[4]Robb Bryant
+[4]Sacha Moctezuma
+[4]Sampson Brier
+[4]Seth Kent
+[4]Shaylea Gallagher
+[4]Steven Danner
+[4]Tiffany Chung
+[4]Vanessa Derhousoff
+[4]Victoria Cormier
+[4]Wenceslao Concina
+[4]Wesley Bolin
+[4]Zachary Little
+
+[3]BT Yöneticisi 
+[4]Chris Jones
+
+[3]2K Las Vegas BT
+[4]Kris Jolly
+[4]Juan Corral
+[4]Cameron Steed
+[4]Travis Allen
+ 
+[3]Özel Teşekkürler
+[4]Alexandria Belk
+[4]Ashley Fountaine
+[4]Candice Javellonar
+[4]David Barksdale
+[4]Ian Moore
+[4]Jazmine Sarmiento
+[4]Jeremy Ford
+[4]Jeremy Richards
+[4]Joe Bettis
+[4]Leslie Cullum
+[4]Louis Napolitano
+[4]Rachel McGrew
+
+[i]TechTree_Meter_Done
+
+[2]2K ULUSLARARASI YAYINCILIK
+
+[3]Başkan Yardımcısı Yayıncılık, Operasyonlar
+[4]Murray Pannell
+
+[3]Direktör, Uluslararası Pazarlama ve İletişim
+[4]Jon Rooke
+
+[3]Uluslararası Ürün Pazarlama Başkanı
+[4]David Halse
+
+[3]Kıdemli Uluslararası İletişim Yöneticisi
+[4]Wouter van Vugt
+
+[3]Uluslararası Bölge Yöneticisi
+[4]Warner Guinée
+
+[3]2K Uluslararası Topluluk ve Sosyal Medya Yöneticisi 
+[4]Melaine Brou
+
+[i]TechTree_Meter_Done
+
+[2]2K ULUSLARARASI ÜRÜN GELİŞTİRME
+
+[3]Uluslararası Yapımcılar 
+[4]Sajjad Majid
+
+[3]Yaratıcı Hizmetler ve Yerelleştirme Başkanı
+[4]Nathalie Mathews
+
+[3]Proje Yöneticisi
+[4]Emma Lepeut
+
+[3]Kıdemli Tasarım Yöneticisi 
+[4]Tom Baker
+
+[3]Harici Yerelleştirme Ekipleri 
+[4]Around the Word
+[4]Effective Media GmbH
+[4]Synthesis Iberia
+[4]Synthesis International srl
+[4]QLOC S.A.
+
+[4]Yerelleştirme araçları ve desteği: XLOC Inc.
+
+[3]Yerelleştirme Özel Teşekkürler
+[4]Adam Rycki, Adriano Dezulian, Aleksandr Lavrenov, Aleksandr Skakovsky,
+[4]Aleksandr Sukhanov, Altieres Rohr, Andrea Della Calce Maucieri, Andrea Peruzzotti,
+[4]Ania Wojciechowska, Anna Matsutskaya, Chiara Caccivio, Claudia Rampiconi,
+[4]Damaris Reinke, Dashima Zhigzhitova, Elías Pastoriza, Estrella Del Campo,
+[4]Floriana Grasso, Francesca Tretto, Gabriel Perez-Ayala, Gema Solís, Jose C. Cabezas,
+[4]Katja Kämper, Kira Nepochatova, Laura Bellintani, Maciej Polak, Marie Lorbach,
+[4]Marina Rossieva, Mariya Yunger, Massimiliano Chierici, Mike Kolbasnikov,
+[4]Monique Paula Pereira, Natalia Kalinina, Nazar Orlov, Oleg Perfilyev, Pablo Trenado,
+[4]Paula Ianelli G. Luiz, Paulina Golanowska, Paweł Oleszczuk, Piotr Goździk, Roman Firsov,
+[4]Salvador Tintore, Stefano Gaburri, Thales Ferreira, Vladislav Lebedinskiy, Yuliana Brezhneva
+
+[i]TechTree_Meter_Done
+
+[2]2K ULUSLARARASI KALİTE GÜVENCE
+
+[3]Yerelleştirme Kalite Güvence Yöneticisi
+[4]Jose Minana
+
+[3]Mastering Mühendisi
+[4]Wayne Boyce
+
+[3]Mastering Teknisyeni
+[4]Alan Vincent
+
+[3]Yerelleştirme KG Kıdemli Lideri
+[4]Oscar Pereira
+
+[3]Yerelleştirme KG Proje Lideri
+[4]Jose Olivares
+
+[3]Yerelleştirme KG Liderleri
+[4]Alba Loureiro
+[4]Elmar Schubert
+[4]Florian Genthon
+
+[3]Ortak Yerelleştirme Lideri
+[4]Cristina La Mura
+
+[3]Kıdemli Yerelleştirme KG Teknisyenleri 
+[4]Christopher Funke
+[4]Enrico Sette
+[4]Harald Raschen
+[4]Johanna Cohen
+[4]Sergio Accettura
+
+[3]Yerelleştirme KG Teknisyenleri 
+[4]Clement Mosca
+[4]Daniel Im
+[4]David Sung
+[4]Dimitri Gerard
+[4]Ernesto Rodriguez-Cruz
+[4]Etienne Dumont
+[4]Gabriel Uriarte
+[4]Gian Marco Romano
+[4]Gulnara Bixby
+[4]Iris Loison
+[4]Javier Vidal
+[4]Julio Calle Arpon
+[4]Luca Magni
+[4]Manuel Aguayo
+[4]Martin Schücker
+[4]Matteo Lanteri
+[4]Namer Merli
+[4]Nicolas Bonin
+[4]Noriko Staton
+[4]Pablo Menéndez
+[4]Patricia Ramón
+[4]Roland Habersack 
+[4]Samuel França
+[4]Seon Hee C. Anderson
+[4]Shawn Williams-Brown
+[4]Sherif Mahdy Farrag
+[4]Stefan Rossi
+[4]Stefanie Schwamberger
+[4]Timothy Cooper
+[4]Toni López
+[4]Yury Fesechka
+[4]Benny Johnson 
+[4]Tristan Breeden
+
+[3]Tasarım Ekibi
+[4]James Quinlan
+
+[i]TechTree_Meter_Done
+
+[2]2K ULUSLARARASI BÖLGE PAZARLAMA VE İLETİŞİM 
+[4]Agnès Rosique 
+[4]Alan Moore 
+[4]Aaron Cooper
+[4]Belinda Crowe
+[4]Ben Seccombe 
+[4]Carlo Volz 
+[4]Carlos Villasante
+[4]Caroline Rajcom 
+[4]Charley Grafton-Chuck
+[4]Dan Cooke
+[4]Dennis de Bruin
+[4]Devon Stanton
+[4]Diana Freitag 
+[4]François Bouvard
+[4]Gemma Woolnough
+[4]Jan Sturm
+[4]Jean Paul Hardy
+[4]John Ballantyne
+[4]Julien Brossat
+[4]Lieke Mandemakers
+[4]Maria Martinez
+[4]Roger Langford
+[4]Sandra Melero
+[4]Sean Phillips
+[4]Simon Turner
+[4]Stefan Eder
+[4]Zaida Gómez
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ULUSLARARASI OPERASYONLAR
+[4]Anthony Dodd
+[4]Nisha Verma
+[4]Phil Anderton
+[4]Denisa Polcerova
+[4]Robert Willis
+
+[i]TechTree_Meter_Done
+
+[2]2K ASYA EKİBİ
+
+[3]Asya Genel Müdürü 
+[4]Jason Wong
+
+[3]Asya Pazarlama Direktörü
+[4]Diana Tan
+
+[3]Kıdemli Pazarlama Yöneticisi
+[4]Jason Dou
+
+[3]Asya Pazarlama Yöneticisi
+[4]Daniel Tan
+
+[3]Japonya Pazarlama Yöneticisi 
+[4]Maho Sawashima
+[3]Kore Pazarlama Yöneticisi 
+[4]Dina Chung
+
+[3]Kıdemli Ürün Yöneticisi
+[4]Rohan Ishwarlal
+
+[3]Ürün Yöneticisi
+[4]Sharon Lim
+
+[3]Kıdemli Yerelleştirme Yöneticisi 
+[4]Yosuke Yano
+
+[3]Yerelleştirme Koordinatörü
+[4]Pierre Guijarro
+
+[3]Yerelleştirme Asistanı
+[4]Yusaku Minamisawa
+
+[3]Harici Yerelleştirme Ekipleri
+[4]entalize co., ltd.
+[4]GlobalWay Co., Ltd.
+[4]Jiali Flourishing Age Cultural Communication Co., Ltd.
+[4]VGLOC Localization Studios Co., Ltd.
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ASYA OPERASYONLARI
+[4]Eileen Chong 
+[4]Veronica Khuan 
+[4]Chermine Tan 
+[4]Takako Davis
+[4]Ryoko Hayashi
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ASYA İŞ GELİŞTİRME
+[4]Erik Ford
+[4]Syn Chua
+[4]Ellen Hsu
+[4]Kelvin Ahn 
+[4]Paul Adachi
+[4]Fumiko Okura
+[4]Hidekatsu Tani
+[4]Fred Johnson
+[4]Ken Tilakaratna
+[4]Anna Choi
+[4]Cynthia Lee
+[4]Hyun Jookyoung
+
+[i]TechTree_Meter_Done
+
+[2]2K ÇİN KALİTE GÜVENCE	
+
+[3]KG Direktörü
+[4]Zhang Xi Kun
+
+[3]Yerelleştirme KG Yöneticisi
+[4]Du Jing
+
+[3]Uygarlık VI Yerelleştirme KG Lideri
+[4]Shigekazu Tsuuchi
+
+[3]Yerelleştirme KG Liderleri
+[4]Chu Jin Dan
+[4]Zhu Jian 
+
+[3]Kıdemli KG Test Uzmanları
+[4]Cho Hyunmin
+[4]Kan Liang
+[4]Qin Qi
+
+[3]KG Test Uzmanları
+[4]Bai Xue
+[4]Hu Meng Meng
+[4]Jin Xiong Jie
+[4]Tan Liu Yang
+[4]Tang Shu
+[4]Wang Ce
+[4]Zhao Yu
+[4]Zhou Qian Yu
+[4]Zou Zhuo Ke
+[4]Liu Kun Peng
+
+[3]Kıdemsiz KG Test Uzmanları
+[4]Chen Xue Mei
+[4]Li Ling Li
+[4]Mao Ling Jie
+[4]Tang Dan Ru
+[4]Xiao Yi
+[4]Zhao Jin Yi
+[4]Ou Xu
+[4]Wang Rui
+[4]Pan Zhi Xiong
+
+[3]BT Mühendisleri
+[4]Hu Xiang
+[4]Zhao Hong Wei
+[4]Jiang Fei Kai 
+
+[i]TechTree_Meter_Done
+
+[2]FOX SOUND STUDIOS 
+[4]Rick Fox 
+[4]Victoria Fox
+
+[i]TechTree_Meter_Done
+
+[2]ÖZEL TEŞEKKÜRLER
+
+[4]Strauss Zelnick
+[4]Karl Slatoff
+[4]Lainie Goldstein
+[4]Dan Emerson
+[4]Jordan Katz 
+[4]David Cox
+[4]Steve Glickstein
+[4]Take-Two Satış Ekibi
+[4]Take-Two Dijital Satış Ekibi
+[4]Take-Two Kanal Pazarlama Ekibi
+[4]Siobhan Boes
+[4]Hank Diamond
+[4]Alan Lewis
+[4]Daniel Einzig
+[4]Christopher Fiumano
+[4]Pedram Rahbari
+[4]Jenn Kolbe 
+[4]Greg Gibson
+[4]Take-Two Hukuk Ekibi
+[4]David Boutry
+[4]Juan Chavez
+[4]Rajesh Joseph
+[4]Gaurav Singh
+[4]Alexander Raney
+[4]Barry Charleton
+[4]Jon Titus
+[4]Gail Hamrick
+[4]Tony MacNeill
+[4]Chris Bigelow
+[4]Brooke Grabrian
+[4]Katie Nelson
+[4]Chris Burton
+[4]Christina Vu
+[4]Betsy Ross
+[4]Pete Anderson
+[4]Oliver Hall
+[4]Maria Zamaniego
+[4]Nicholas Bublitz
+[4]Nicole Hillenbrand
+[4]Danielle Williams
+[4]Sean Roberts
+[4]Gwendoline Oliviero 
+[4]Ariel Owens-Barham
+[4]Kyra Simon
+[4]Ashish Popli
+
+[3]Ajanslar (Alfabetik sırayla): 
+[4]Access Communications
+[4]Freddie Georges Production Group
+[4]Kathy Lee-Fung
+[4]MODCo Media
+
+[i]TechTree_Meter_Done
+
+[2]Aspyr Media
+
+[3]Eş CEO
+[4]Michael Rogers
+
+[3]Eş CEO
+[4]Ted Staloch
+
+[3]Yapımcı
+[4]Jacky Coiro
+[4]Jordon Reese
+[4]Jonathan Woo
+
+[3]Ortak Yapımcı
+[4]Moye Daniel
+
+[i]TechTree_Meter_Done
+
+[2]Aspyr Geliştirme Ekibi
+
+[3]Teknik Direktörler
+[4]Dave Idemoto
+[4]Tim McDaniel
+
+[3]Mühendislik Yöneticisi
+[4]Stephen Hughes
+
+[3]Yazılım Mühendisleri
+[4]Luke Soldano
+[4]Zachary Varnadore
+[4]Andy Molloy
+[4]Bobby Thurman
+
+[3]Kıdemli Altyapı Mühendisi
+[4]Steven Cattrell
+
+[3]KG Lideri
+[4]Rockie Knittel
+
+[i]TechTree_Meter_Done
+
+[2]Aspyr BT Ekibi
+
+[3]BT Yöneticisi
+[4]John Blackburn
+
+[3]BT Yardım Masası Teknisyeni
+[4]Tyler Kloss
+[4]Marshall Peterson
+
+[2]Aspyr İnsan Kaynakları
+
+[3]Operasyon Başkan Yardımcısı
+[4]Ryan Anson
+
+[3]İK Yöneticisi
+[4]Blythe Arguez
+
+[2]Muhasebe ve Finans Ekibi
+
+[3]Finans Başkanı
+[4]Anabel Balderas
+
+[3]Asistan Kontrolör
+[4]Roxie Garza
+
+[3]Muhasebe Ekibi
+[4]Kirsten Hagen
+[4]Brooklyn Morris
+
+[i]TechTree_Meter_Done
+
+[2]HARİCİ TEDARİKÇİLER VE YÜKLENİCİLER
+
+[3]Müzik Bestesi 
+[4]Geoff Knorr
+
+[3]Ek Müzik Bestesi 
+[4]Christopher Tin
+[4]Timothy Michael Wynn
+[4]Phill Boucher
+
+[3]Orijinal Skor Kaydı 
+[4]Praga FILMharmonic Orkestrası 
+[4]Şef ve Müzik Direktörü
+[4]Andy Brick
+
+[3]Sinematik Ses Tasarımı
+[4]Source Sound, Inc.
+[4]Süpervizör Ses Tasarımcısı ve Mix
+[4]Charles Deenen
+
+[3]Ses Tasarımcıları
+[4]Matt Cavanaugh
+[4]Brent Burge
+[4]Braden Parkes
+
+[2]Seslendirme Kadrosu  
+[3]Anlatıcı
+[4]Sean Bean
+
+[3]Danışman 
+[4]Natasha Loring
+
+[3]Hojo Tokimune
+[4]Yoshi Ando
+
+[3]Pedro II
+[4]Renato Belschansky
+
+[3]Tomyris
+[4]Alina Irbekov Berezova
+
+[3]Trajan
+[4]Gianmarco Ceconi
+
+[3]Frederick Barbarossa
+[4]Bert Coll
+
+[3]Peter the Great
+[4]Mikhail Danilyuk
+
+[3]Gorgo
+[4]Angeliki Dimitrakopoulou
+
+[3]Gilgamesh
+[4]Jorge Badillo Galvan
+
+[3]Saladin
+[4]Alhan Gharam
+
+[3]Cleopatra
+[4]Nirvana Hisham
+
+[3]Qin Shi Huang
+[4]Junchao Huang
+
+[3]Mvemba a Nzinga
+[4]Mamengi Alfredo Lombisi
+
+[3]Queen Victoria
+[4]Lucy Briggs Owen
+
+[3]Catherine de Medici
+[4]Lara Valentina Parmiani
+
+[3]Montezuma
+[4]Irwin Daayan Rosenthal Sarli
+
+[3]Gandhi
+[4]Pawan Shukla
+
+[3]Harald Hardrada
+[4]Atli Rafn Sigurdsson
+
+[3]Pericles
+[4]Konstantinos Stelloudis
+
+[3]Theodore Roosevelt
+[4]Richard Tatum
+
+[3]Philip II
+[4]Anton Carmano Vega
+
+[3]Jadwiga
+[4]Julia Jakubowska
+
+[3]John Curtin
+[4]Simon Burke
+
+[3]Alexander
+[4]Dimitris Papadopoulos
+
+[3]Cyrus
+[4]Arian Risbaf
+
+[3]Amanitore
+[4]Fatma Abd Elsalam
+
+[3]Gitarja
+[4]Dyah Febriani
+
+[3]Jayavarman VII
+[4]Heng Sarorn
+
+[2]Fransız Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Philippe Catoire
+
+[3]Danışman
+[4]Caroline Victoria
+
+[2]Alman Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Achim Barrenstein
+
+[3]Danışman
+[4]Karoline Mask von Oppen
+
+[2]İtalyan Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Giorgio Bonino
+
+[3]Danışman
+[4]Katia Sorrentino
+
+[2]İspanyol Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Alfonso Laguna
+
+[3]Danışman
+[4]Beatriz Berciano
+
+[2]Polonyalı Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Przemysław Walich
+
+[3]Danışman
+[4]Joanna Matuszak
+
+[2]Rus Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Andrey Lysenko 
+[4]Андрей Лысенко
+
+[3]Danışman
+[4]Alina Milosh 
+[4]Алина Милош
+
+[2]Japon Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Kenichi Suzumura
+
+[3]Danışman
+[4]Nao Toyama
+
+[2]Koreli Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Shin Han
+
+[3]Danışman
+[4]Yoon Seon Lim
+
+[2]Basitleştirilmiş Çince Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Zhang Lei
+
+[3]Danışman
+[4]Yang Yi Fang
+
+[2]Geleneksel Çince Oyuncu Kadrosu
+
+[3]Anlatıcı
+[4]Fang Rong Feng
+
+[3]Danışman
+[4]Qi Qi
+
+[2]Seslendirme Kayıt Stüdyoları
+
+[3]Lime Studios
+[4]Diyalog Kayıtçısı
+[4]Tom Paolantonio
+ 
+[3]Yapımcı
+[4]Susie Boyajan 
+
+[3]Orchard Recording Studios, Somerset BK
+
+[3]Mühendisler
+[4]Mark Bowyer
+[4]James Wilkes
+[4]Charlotte Worthy-Jarvis
+
+[3]Side UK 
+
+[3]Yapım Yöneticisi
+[4]Emily Munster
+
+[3]Ses Mühendisi
+[4]Ant Hales
+
+[2]Ek Seslendirme Oyuncu Seçimi ve Kaydı 
+
+[3]Signal Space
+
+[3]Yaratıcı Yönetmen 
+[4]Jose Aguirre
+
+[3]Araştırmacı
+[4]Inga Knoth
+
+[3]Ses Editörleri
+[4]Valentino Lercher
+[4]Matthew Knutson
+
+[3]Proje Yöneticisi 
+[4]Christopher Fox
+
+[3]Seslendirme Yönetmenleri
+[4]JB Blanc
+[4]Chad Rocco
+
+[3]Diyalog Editörleri
+[4]Transatlantic Audio/Dante Fazio
+[4]Austin Krier
+[4]Garrett Montgomery, M.P.S.E.
+[4]Stephen Selvaggio
+
+[3]Ek Yazarlar 
+[4]Maurice Suckling
+
+[3]Sinematik Yapım Hizmetleri 
+
+[3]Plastic Wax Pty Ltd
+
+[3]Yaratıcı Liderler
+[4]Nathan Maddams
+[4]Dane Maddams
+[4]Tyrone Maddams
+
+[3]Yapım Yönetimi
+[4]Mick Hammell	
+[4]Carly Glover	
+[4]Toby Alderton	
+[4]Terry Mickaiel	
+
+[3]Baş Modelci
+[4]Dean Wood
+
+[3]Modelleme
+[4]Ben Mikhaiel	
+[4]Josh Shahinian	
+[4]Alexia Zantides	
+[4]Vee Ng	
+
+[3]Modelciler
+[4]Dan Horsfall	
+[4]Josh Davies
+[4]Josh Knorr
+[4]Tristan Locke
+[4]Werner Gradwell
+[4]Brett Sinclair	
+
+[3]Baş Animatör 
+[4]Wes Adams	
+
+[3]Animatörler ve Rigging	
+[4]Mitch Coote
+[4]Damian Paon
+[4]Cam Ralph
+[4]Tom Janson
+[4]Gareth Rhodes
+[4]Zarvan Kotwal
+[4]Phil Hook 
+[4]Sina Azad
+	
+[3]Baş Işık Sanatçısı 
+[4]Ben Malter
+
+[3]Işıklandırma ve Render
+[4]Nigel Waddington	
+[4]Owen Gillman	
+[4]Ben Shearman
+
+[3]Baş VFX TD 
+[4]Sidney Cheng	
+
+[3]Görsel Efektler
+[4]Steven Cheah
+[4]Dave Frodsham
+[4]Fernando Flores Gonzales
+
+[3]Baş Kompozitör 
+[4]Daniel Loui	
+
+[3]Kompozitörler
+[4]Jad Haber
+[4]Ryan Trippensee
+[4]Yoav Dolev
+
+[2]Ek Sinematik Yapım Hizmetleri
+
+[3]Section Studios
+
+[3]Yapım
+[4]Justin Yun 
+[4]Kami Talebi 
+
+[3]Konsept
+[4]Gabriel Yeganyan
+[4]Cuba Lee
+[4]Brian Kim
+[4]Howard Pak
+[4]Hyunjae Lee
+[4]Lucas Helmintoller
+[4]Mohammad Chowdhury
+
+[3]Animasyon
+[4]Cameron Mott
+[4]Judson Morgan
+
+[3]Applied Cinematics
+[4]Mike O’Rourke
+[4]Jason Flynn
+
+[2]3D Sanat Varlıkları
+[3]Gameshastra Solutions Private Limited
+			</Text>
+		</Row>
+		<Row Tag="LOC_FRONTIER_CREDITS_NAME">
+			<Text>Yeni Sınır Geçişi</Text>
+		</Row>
+		<Row Tag="LOC_FRONTIER_CREDITS">
+			<Text>
+[3]JENERİK
+
+[1]Firaxis Games 
+
+[1]Sid Meier’in Uygarlık VI
+[2]Yeni Sınır Geçişi
+
+
+[2]TAKIM LİDERLİĞİ
+
+[3]Baş Tasarımcı
+[4]Anton Strenger
+
+[3]Baş Mühendis
+[4]Ken Grey
+
+[3]Sanat Yönetmeni
+[4]Kat Berkley
+
+[3]Ek Sanat Yönetimi
+[4]Jason Johnson
+
+[3]Kıdemli Yapımcı
+[4]Dennis Shirk
+
+[3]Baş Yapımcı
+[4]Amanda Bonacorso
+
+[i]TechTree_Meter_Done
+
+[2]TASARIM EKİBİ
+
+[3]Franchise Baş Tasarımcısı
+[4]Ed Beach
+
+[3]Baş Yapay Zekâ Mühendisi
+[4]Andrew Garrett
+
+[3]Yapay Zekâ Katkıda Bulunanlar
+[4]Matthew Beach
+
+[3]Baş Tasarımcı
+[4]Anton Strenger
+
+[3]Tasarımcı/Programcılar
+[4]Matthew Beach
+[4]Brian Feldges
+[4]David Raabe
+[4]David McDonough
+[4]Bradley Olson
+
+[i]TechTree_Meter_Done
+
+[2]YAPIM EKİBİ
+
+[3]Kıdemli Yapımcı
+[4]Dennis Shirk
+
+[3]Baş Yapımcı
+[4]Amanda Bonacorso
+
+[3]Ortak Yapımcılar
+[4]Kevin Schultz
+[4]Rony Kahana
+
+[3]Yazarlar
+[4]Peter Murray
+[4]Andrew Johnson
+
+[3]Ek Yazarlar
+[4]Angelica Fuchs
+
+[i]TechTree_Meter_Done
+
+[2]PROGRAMLAMA EKİBİ
+
+[3]Baş Mühendis
+[4]Ken Grey
+
+[3]Baş Çok Oyunculu Mühendis
+[4]Bradley Olson
+
+[3]Baş Grafik Mühendisi
+[4]John Kloetzli
+
+[3]Grafik Mühendisleri
+[4]Kevin Jones
+[4]Theodore Maselko
+[4]Gabriel Ortega
+
+[3]Programlama Desteği
+[4]Don Wuenschell
+
+[3]Kıdemli Teknik Sanatçı
+[4]Arthur Gould
+
+[3]Baş Veritabanı/Modlama Mühendisi
+[4]Shaun Seckman
+
+[3]Arayüz Ekibi Lideri
+[4]Tronster Hartley
+
+[3]Arayüz Mühendisleri
+[4]Ian Schmidt
+[4]Karl-Heinz Gilbert-Wason
+
+[3]Ek Arayüz Mühendisleri
+[4]Keaton VanAuken, Ghostpunch
+[4]Micah DeBruno
+
+[3]Baş Araç Mühendisi
+[4]Brian Whitman
+
+[3]Araç Mühendisleri
+[4]Matthew Kelley
+[4]Nicholai Wojtowcyz
+
+[i]TechTree_Meter_Done
+
+[2]SANAT EKİBİ
+
+[3]Sanat Yönetmeni
+[4]Kat Berkley
+
+[3]Ek Sanat Yönetimi
+[4]Jason Johnson
+
+[3]Baş Arayüz Tasarımcısı
+[4]Rob Sugama
+
+[3]Ek Arayüz Tasarımcısı
+[4]Tyler Windham
+
+[3]Baş Animatör
+[4]Grant Chang
+
+[3]Animatörler
+[4]Rachel Schneider
+[4]Aaron Andersen
+[4]Bobby Taylor
+[4]Alex Schabbing
+
+[3]Ek Animatörler
+[4]John Fitzgerald
+
+[3]Teknik Animasyon Grubu
+[4]Brian Evans
+[4]John Stewart
+[4]Ryan Griffin
+
+[3]Baş Karakter Modelleyicileri
+[4]Stephanie Gitlin
+[4]David Jones
+
+[3]Birim Lideri 
+[4]John Fitzgerald
+
+[3]Birim Dış Kaynak Yöneticisi
+[4]Ryan Jackson
+
+[3]Baş Çevre Sanatçısı
+[4]Matthew Quickel
+
+[3]Çevre Sanatçısı
+[4]Clark Coots
+[4]Jerome Atherholt
+[4]Michael Bates
+
+[3]Yapılar Lideri
+[4]Rambo Siu
+
+[3]Baş Konsept Sanatçısı
+[4]Kat Berkley
+[4]Sang Han
+
+[3]Konsept Sanatçıları
+[4]Ryan Andrade
+[4]Michael Bazzell
+[4]Michael Tassie
+
+[3]Ek Konsept Sanatçısı
+[4]Can Wen
+
+[i]TechTree_Meter_Done
+
+[2]Görsel Efektler
+[3]Görsel Efekt Lideri
+[4]Todd Bilger
+
+[3]Ek Görsel Efektler
+[4]Arthur Gould
+
+[i]TechTree_Meter_Done
+
+[2]SES
+
+[3]Ses Yönetmeni
+[4]Roland Rizzo
+
+[3]Baş Ses Tasarımcısı
+[4]Dan Costello
+
+[3]Müzik Bestecileri
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phil Boucher
+
+[3]Ses Araçları Programlama
+[4]Dan Price
+
+[3]Sinematik Müzik
+[4]Geoff Knorr
+
+[3]Ses Mühendisi
+[4]Ian Schmidt
+
+[2]Maya &amp; Gran Colombia Paketi Müzik Jeneriği
+
+[3]Müzik Bestecisi
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]İcracılar
+[4]Martin Vejarano, Kolombiya Perküsyonu ve Gaitas
+[4]Sandro Friedrich, Ocarina, Kil Flüt, Gaitas
+[4]Niccolo Seligmann, Bas Viyol ve Vielle
+
+[3]Praga FILMharmonic Orkestrası 
+[4]Şef: Andy Brick 
+[4]Jan Holzner, Orkestra Kayıt Mühendisi
+[4]Michael Hradiský, Orkestra Asistan Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü 
+[4]Tomáš Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+
+[4]Orkestra kaydı: Smecky Müzik Stüdyoları, Prag, Çek Cumhuriyeti
+
+[4]Vielle ve Bas Viyol kaydı: Studio A, Peabody Enstitüsü, Baltimore, MD
+[4]Geoff Knorr, Kayıt Mühendisi
+[4]Lara Villanueva, Pro Tools Operatörü
+
+[4]Kolombiya perküsyonu ve gaitas kaydı: Pinch Recording, Long Island City, NY
+[4]Geoff Knorr, Kayıt Mühendisi
+[4]Caio Carvalho, Asistan Mühendis
+
+[4]Mix ve mastering: Geoff Knorr
+
+[i]TechTree_Meter_Done
+
+[2]Etiyopya Paketi Müzik Jeneriği
+
+[3]Müzik Bestecisi
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]İcracılar
+[4]Minale Bezu, Krar
+[4]Getachew Mekuria, Vokal ve Washint
+[4]Niccolo Seligmann, Bas Viyol ve Vielle
+
+[3]Praga FILMharmonic Orkestrası 
+[4]Şef: Andy Brick 
+[4]Jan Holzner, Orkestra Kayıt Mühendisi
+[4]Michael Hradiský, Orkestra Asistan Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü 
+[4]Tomáš Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+
+[4]Orkestra kaydı: Smecky Müzik Stüdyoları, Prag, Çek Cumhuriyeti
+
+[4]Vielle ve Bas Viyol kaydı: Studio A, Peabody Enstitüsü, Baltimore, MD
+[4]Geoff Knorr, Kayıt Mühendisi
+[4]Lara Villanueva, Pro Tools Operatörü
+
+[4]Mix ve mastering: Geoff Knorr
+
+[i]TechTree_Meter_Done
+
+[2]Bizans &amp; Galya Paketi Müzik Jeneriği
+
+[3]Müzik Bestecisi
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]İcracılar
+[4]Niccolo Seligmann, Bas Viyol ve Vielle
+
+[3]Praga FILMharmonic Orkestrası 
+[4]Şef: Andy Brick 
+[4]Martinů Sesleri
+[4]Lukas Vasilek, Martinů Sesleri Şefi 
+[4]Jan Holzner, Orkestra Kayıt Mühendisi
+[4]Michael Hradiský, Orkestra Asistan Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü 
+[4]Tomáš Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+
+[4]Orkestra kaydı: Smecky Müzik Stüdyoları, Prag, Çek Cumhuriyeti
+
+[4]Antik lir reprodüksiyonu: Geoff Knorr
+
+[4]Mix ve mastering: Geoff Knorr
+
+[i]TechTree_Meter_Done
+
+[2]Babil Paketi Müzik Jeneriği
+
+[3]Müzik Bestecisi
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]İcracılar
+[4]Ur Altın Liri rekonstrüksiyonu icra ve kayıt: Andy Lowings
+[4]Niccolo Seligmann, Bas Viyol ve Vielle
+[4]Sandro Friedrich, Ney
+
+[3]Praga FILMharmonic Orkestrası 
+[4]Şef: Andy Brick 
+[4]Jan Holzner, Orkestra Kayıt Mühendisi
+[4]Michael Hradiský, Orkestra Asistan Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü 
+[4]Tomáš Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+
+[4]Orkestra kaydı: Smecky Müzik Stüdyoları, Prag, Çek Cumhuriyeti
+
+[4]Mix ve mastering: Geoff Knorr
+
+[i]TechTree_Meter_Done
+
+[2]Vietnam &amp; Kubilay Han Paketi Müzik Jeneriği
+
+[3]Müzik Bestecisi
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]İcracılar
+[4]Thi Vu: Dan Tranh, T’rung, Tam Thap Luc
+[4]Niccolo Seligmann, Bas Viyol ve Vielle
+[4]Sandro Friedrich: Sao Truc
+
+[3]Praga FILMharmonic Orkestrası 
+[4]Şef: Andy Brick
+[4]Jan Holzner, Orkestra Kayıt Mühendisi
+[4]Michael Hradiský, Orkestra Asistan Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü 
+[4]Tomáš Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+
+[4]Orkestra kaydı: Smecky Müzik Stüdyoları, Prag, Çek Cumhuriyeti
+
+[4]Mix ve mastering: Geoff Knorr
+
+[i]TechTree_Meter_Done
+
+[2]Portekiz Paketi Müzik Jeneriği
+
+[3]Müzik Bestecisi
+[4]Geoff Knorr
+
+[3]Ek Elektronik ve Düzenlemeler
+[4]Phill Boucher
+
+[3]İcracılar
+[4]Cordeone: Portekiz Gitarı, Viola
+[4]Niccolo Seligmann, Bas Viyol ve Vielle
+
+[3]Praga FILMharmonic Orkestrası 
+[4]Şef: Andy Brick 
+[4]Jan Holzner, Orkestra Kayıt Mühendisi
+[4]Michael Hradiský, Orkestra Asistan Mühendisi
+[4]Petr Pycha, Orkestra Koordinatörü 
+[4]Tomáš Kirschner, Orkestra Kütüphanecisi
+[4]Geoff Knorr, Orkestratör
+
+[4]Torre de Belem Harikası Vokal Solistleri: Betty Knorr, Bronislav Palowski ve Lukáš Kremer
+
+[4]Orkestra kaydı: Smecky Müzik Stüdyoları, Prag, Çek Cumhuriyeti
+
+[4]Mix ve mastering: Geoff Knorr
+
+[i]TechTree_Meter_Done
+
+[2]KALİTE GÜVENCE
+
+[3]KG Süpervizörü
+[4]Steffen Drees
+
+[3]KG Lideri
+[4]Carlton Harrison
+
+[3]Test Uzmanları
+[4]Albert Briggs
+[4]Shaun Wilson
+[4]Terrence Myers
+[4]Kelsey Orem
+[4]Timothy McCracken
+[4]Gabe Scanlan
+[4]Michael Kotey
+[4]Daron Carlock
+[4]Luke James
+
+[3]Stajyer Test Uzmanları
+[4]Stephen Baker
+
+[i]TechTree_Meter_Done
+
+[2]FIRAXIS CANLI YAYIN EKİBİ
+
+[3]Kıdemli Yapımcı
+[4]Clint McCaul
+
+[3]Baş Mühendis
+[4]Adam Sherburne
+
+[3]Kıdemli Mühendis
+[4]Brian Whooley
+
+[3]Kıdemli Brogrammer
+[4]Todd Smith
+
+[3]Kıdemli DevOps Mühendisi
+[4]Eric Konzal
+[4]David Bisset
+
+[i]TechTree_Meter_Done
+
+[2]FIRAXIS YÖNETİMİ
+
+[3]CEO / Başkan
+[4]Steve Martin
+
+[3]Yaratıcı Yönetmen
+[4]Sid Meier
+
+[3]Stüdyo Sanat Yönetmeni
+[4]Arne Schmidt
+
+[3]Yazılım Geliştirme Direktörleri
+[4]Casey O'Toole
+
+[3]Oynanış Geliştirme Direktörü
+[4]Barry Caudill
+
+[3]Yönetici Yapımcı
+[4]Lindsay Riehl
+
+[3]Pazarlama Direktörü
+[4]Peter Murray
+
+[3]Ürün Yöneticileri
+[4]Kevin Schultz
+[4]Rebecca Wise
+
+[3]Pazarlama Sanatçısı 
+[4]Ryan Taylorton
+
+[3]Video İçerik Yapımcısı
+[4]Dane Frederiksen
+
+[3]İnsan Kaynakları Direktörü
+[4]Shawn Kohn
+
+[3]İnsan Kaynakları Asistanı
+[4]Beth Petrovitch
+
+[3]Ofis Yöneticisi
+[4]Donna Milesky
+
+[3]BT Yöneticisi
+[4]David McFall
+[4]Josh Scanlan
+
+[3]BT Teknisyeni
+[4]Justin McShane
+[4]Matt Baros
+
+[3]Özel Projeler
+[4]Susan Meier
+
+[4]2K tarafından yayınlanmıştır.
+[4]2K, Take-Two Interactive Software, Inc. şirketinin bir yayıncılık markasıdır.
+
+[i]TechTree_Meter_Done
+
+[2]2K YAYINCILIK
+
+[3]Başkan
+[4]David Ismailer
+
+[3]Operasyon Direktörü
+[4]Phil Dixon
+
+[i]TechTree_Meter_Done
+
+[2]2K ÜRÜN GELİŞTİRME 
+
+[3]Başkan Yardımcısı, Ürün Geliştirme
+[4]Josh Atkins
+
+[3]Başkan Yardımcısı, Yayıncılık Operasyonları
+[4]Elizabeth Howard
+
+[3]Yönetici Yapımcı 
+[4]Kirsten Kennedy
+
+[3]Yapımcı
+[4]Casey Coleman
+
+[3]Ortak Yapımcı
+[4]Noelle Johnston
+
+[3]Yapım Asistanı 
+[4]Kelsey Mabbott
+
+[3]Yapım Asistanı
+[4]Isabella Gentile
+
+[3]Uluslararası Yapımcı 
+[4]Sajjad Majid
+
+[3]Yönetici Asistanı
+[4]Megan Grunenwald-Rohr
+
+[i]TechTree_Meter_Done
+
+[2]2K GLOBAL HİZMETLER  
+
+[3]Kıdemli Direktör, Global Hizmetler
+[4]Robert Clarke
+
+[3]Oyun Yerelleştirme ve Derecelendirme Direktörü
+[4]Nathalie Mathews
+
+[3]Derecelendirme Yapımcısı
+[4]Nick Syrovatka
+ 
+[3]Dağıtılmış Geliştirme Direktörü
+[4]Jason Smith
+ 
+[3]Kıdemli Proje Yöneticisi
+[4]Larry Nilsen
+
+[3]Proje Yöneticisi
+[4]Mike Read
+ 
+[3]Dijital Varlık Yöneticisi
+[4]Janaka Conner
+ 
+[3]Kıdemli Dış Kaynak Yapımcıları
+[4]Tiffany Cullum De Kraan
+[4]Jean-Marc Pereira
+ 
+[3]Dış Kaynak Ortak Yapımcısı
+[4]Allyssa De La Torre
+ 
+[3]Oyuncu Seçimi Yöneticileri
+[4]Harasyn Sipes
+[4]Tom Celia
+ 
+[3]Oyuncu Seçimi Asistanı
+[4]Jaclyn Imai
+ 
+[3]Yapım Asistanı
+[4]Abriana Carrillo
+ 
+[3]Kullanıcı Araştırma Direktörü
+[4]Gina Smith
+
+[3]Kıdemli Kullanıcı Araştırma Yöneticisi 
+[4]Francesca Reyes
+ 
+[3]Kıdemli Kullanıcı Araştırmacısı
+[4]Michael DeFreest
+
+[3]Kullanıcı Araştırmacısı
+[4]Chance Hughes
+ 
+[3]Kullanıcı Araştırma Koordinatörü
+[4]Solomon Chi
+ 
+[3]Tasarım Direktörü
+[4]Francois Giuntini
+ 
+[3]Teknik Direktör
+[4]Jonathan Tilden
+ 
+[3]Kıdemli Araç Mühendisi
+[4]Carl Frederick
+
+[3]Teknik Proje Yöneticisi
+[4]Jennifer Sorem
+ 
+[3]Teknik Sanatçı
+[4]Jeremy Rodgers
+ 
+[3]Yapım Asistanı
+[4]Andrew Reynaud
+
+[i]TechTree_Meter_Done
+
+[2]2K PAZARLAMA 
+
+[3]Kıdemli Başkan Yardımcısı, Global Pazarlama Başkanı
+[4]Melissa Bell
+
+[3]Başkan Yardımcısı, Global Pazarlama
+[4]Chris Snyder
+
+[3]Kıdemli Direktör, Global Pazarlama
+[4]David Silverman
+
+[3]Direktör, Global Pazarlama
+[4]Matt Knoles
+
+[3]Ortak Marka Yöneticisi
+[4]Maya Clark
+
+[3]Topluluk ve Sosyal Medya Yöneticisi
+[4]David Hinkle
+
+[3]Sosyal Medya Koordinatörü
+[4]Alexis Polk
+
+[3]Başkan Yardımcısı, Global Pazarlama Planlaması
+[4]Brett Stewart
+
+[3]Direktör, Global Pazara Giriş Stratejisi
+[4]Hendrik Janse van Rensburg
+
+[3]Kıdemli Yönetici, Global Pazara Giriş 
+[4]Stephen Donlin
+[4]Nicci McKenzie
+
+[3]Kıdemli Yönetici, Birinci Taraf Pazarlama 
+[4]Andrew Walenga
+
+[3]Yönetici, Birinci Taraf Pazarlama 
+[4]Alana Koster
+
+[3]Yönetici, Pazarlama Ortaklıkları
+[4]Sam Robson
+
+[3]Kıdemli Yönetici, Global Pazarlama İçgörüleri
+[4]Bennett Robbins
+
+[3]Kıdemli Ücretli Medya Yöneticisi 
+[4]Alistair Wong
+
+[3]Satın Alma Siparişi Yöneticisi 
+[4]Heather Crom
+
+[3]Başkan Yardımcısı, Global Pazarlama (EMEA/ANZ ve Yeni Franchise)
+[4]Alison Bakunowich 
+
+[3]Kıdemli Direktör, Uluslararası Pazarlama ve İletişim
+[4]Jon Rooke
+
+[3]Uluslararası Bölge Pazarlama ve İletişim
+[4]Axel Arnal
+[4]Rebecca Armstrong
+[4]Jorge Bardaji-Paredes
+[4]Matthew Bone
+[4]Julien Brossat
+[4]Callum Cuming
+[4]Dennis De Bruin
+[4]Margaux Duval
+[4]Stefan Eder
+[4]Urel Eustatius
+[4]Mikey Foley
+[4]Matt Gardner
+[4]Zaida Gómez
+[4]Alison Gram
+[4]Jean-Paul Hardy
+[4]Diana Heinzelmann
+[4]Natalie Jones
+[4]Harry Large
+[4]Maxime Le Nevanic
+[4]Ben Lewis
+[4]David Lewis
+[4]Benjamin Magnan
+[4]Maria Martinez
+[4]Julia May
+[4]Sandra Melero Miguel
+[4]Caitlin O’Neill
+[4]Adam Perry
+[4]Agnès Rosique
+[4]Javier Sastre
+[4]Romina Schoener
+[4]Ben Seccombe
+[4]Anne Speth
+[4]Jan Sturm
+[4]Josh Taylor
+[4]Simon Turner
+[4]Shelley van Seventer
+[4]Carlos Villasante
+[4]Carlo Volz
+[4]Kayleigh Watson
+
+[3]Asya Genel Müdürü
+[4]Jason Wong
+
+[3]Çevrim İçi ve Sosyal Medya Kıdemli Direktörü, Tayvan
+[4]Jack Lin
+ 
+[3]Asya Pazarlama Direktörleri
+[4]Diana Tan
+[4]Tracy Chua
+ 
+[3]Asya Kıdemli Pazarlama Yöneticisi
+[4]Daniel Tan
+
+[3]Japonya Pazarlama Yöneticisi
+[4]Kyoko Fuke
+ 
+[3]Kore Pazarlama Yöneticisi
+[4]Dina Chung
+
+[3]Çin Pazarlama Yöneticisi
+[4]Leo Li
+ 
+[3]Asya Ortak Pazarlama Yöneticisi
+[4]Hannah Tan
+
+[3]Japonya Ortak Pazarlama Yöneticisi 
+[4]Manami Takahashi 
+ 
+[3]Asya Kıdemli Ürün Yöneticisi
+[4]Wayne Ng
+
+[3]Asya Ürün Yöneticisi
+[4]Toh Jing Kai 
+
+[3]Asya Pazarlama Yöneticisi
+[4]Howard Chan
+[4]Victoria Koh
+
+[3]Çin Pazarlama Yöneticileri
+[4]Nate Guo
+[4]Jason Yi
+
+[3]Japonya Pazarlama Asistanı
+[4]Kasumi Hirokawa
+
+[3]Kore Pazarlama Asistanı
+[4]Park Sangmin
+
+[3]Pazarlama Asistanı
+[4]Benjamin Chia
+
+[3]Kıdemli Yerelleştirme Koordinatörü
+[4]Mao Iwai
+
+[3]Yerelleştirme Koordinatörleri
+[4]Aki Kawashima 
+[4]Chen Li
+
+[3]Yerelleştirme Asistanı
+[4]Chen Li
+
+[3]Başkan Yardımcısı, Global Pazarlama Planlaması
+[4]Brett Stewart
+
+[3]Kıdemli Yönetici, Global Pazarlama İçgörüleri
+[4]Bennett Robbins
+
+[3]Kıdemli Ücretli Medya Yöneticisi
+[4]Alistair Wong
+
+[3]Satın Alma Siparişi Yöneticisi
+[4]Heather Crom
+
+[3]Başkan Yardımcısı, Global Kanal Pazarlama
+[4]Steve Lux
+
+[3]Yönetici, Kanal Pazarlama
+[4]Marc McCurdy
+
+[3]Pazarlama Analisti
+[4]Cameron Boucher
+
+[3]Kanal Pazarlama Proje Yöneticileri
+[4]Dustin Choe
+
+[3]Başkan Yardımcısı, Global Pazarlama Tasarım ve Yaratıcı Hizmetler
+[4]Sami Thessman
+
+[3]Kıdemli Global Yaratıcı Yönetmen
+[4]Adrien De Tray
+
+[3]Kıdemli Global Yaratıcı Yönetmen
+[4]Adrien De Tray
+
+[3]Kıdemli Direktör, Global Video Yapımı
+[4]Kenny Crosbie
+
+[3]Yönetici, Global Video Lideri
+[4]Nick Pylvanainen
+
+[3]Yönetici, Global Video Lideri
+[4]Shane McDonald 
+
+[3]Global Hareketli Grafik Lideri
+[4]Michael Regelean
+
+[3]Hareketli Grafik Tasarımcıları/Video Editörleri
+[4]Steven Giarla
+[4]Dom Hassett
+
+[3]Hareketli Grafik Tasarımcısı
+[4]Camille Galejs
+
+[3]Video Editörü
+[4]Nat Magee
+
+[3]Uluslararası Video Editörleri
+[4]Barney Austin
+[4]Diana Cooper
+
+[3]Kıdemsiz Görüntü Yakalama Uzmanı/Editör
+[4]David Omega
+
+[3]Medya Hizmetleri Lideri
+[4]Luke McCarthy
+
+[3]Kıdemli Medya Uzmanı
+[4]Allison Mann
+
+[3]Medya Hizmetleri Uzmanı III
+[4]Daniel Castro
+[4]Kendra Mechling
+
+[3]Medya Hizmetleri Uzmanı II
+[4]Kenneth Ellis
+
+[3]Medya Hizmetleri Uzmanı I
+[4]Kiel Evins
+[4]Lincoln Sissel
+
+[3]Medya Hizmetleri Uzmanları
+[4]Shaun Nathan
+[4]Hannah Thompson
+
+[3]Medya Sanatçısı
+[4]Haley Robinson
+
+[3]3D Sanatçı
+[4]Derek Schumacher
+
+[3]3D Sanatçı/Animatör
+[4]Dylan Shapiro
+
+[3]Yaratıcı Operasyonlar Direktörü
+[4]Yasaman Golban
+
+[3]Kıdemli Yönetici, Yaratıcı Stüdyolar ABD
+[4]Heidi Oas
+
+[3]Kıdemli Global Pazarlama Yapımcısı
+[4]Hilary Petee
+
+[3]Kıdemli Proje Yöneticisi
+[4]Cara Lacey
+
+[3]Asistan Yerelleştirme Proje Yöneticisi
+[4]Iris Loison
+
+[3]Tasarım Lideri 
+[4]Ham Nguyen
+
+[3]Kıdemli Tasarım Yöneticisi
+[4]Tom Baker
+
+[3]Grafik Tasarımcısı
+[4]James Quinlan
+
+[3]Yerelleştirme Proje Yöneticisi
+[4]Cara Lacey
+
+[3]Uluslararası Video Editörleri
+[4]Barney Austin
+[4]Diana Cooper
+
+[3]Yaratıcı Operasyonlar Direktörü
+[4]Yasaman Golban
+
+[3]Kıdemli Global Pazarlama Yapımcısı
+[4]Hilary Petee
+
+[3]Kıdemli İçerik Yöneticisi
+[4]Jason Babler
+
+[3]Yönetici, Pazarlama Yapımı
+[4]Ham Nguyen
+
+[3]Kıdemli Tasarımcı
+[4]Christopher Maas
+
+[3]Tasarımcılar
+[4]Karrin Fletcher
+[4]Darren O’Driscoll
+[4]Gearoid O’Dea
+
+[3]Kıdemli Proje Yöneticisi
+[4]Heidi Oas
+
+[3]Kıdemli Global Pazarlama Yapımcısı
+[4]Hilary Petee
+
+[3]Kıdemli Proje Yöneticisi
+[4]Cara Lacey
+
+[3]Asistan Yerelleştirme Proje Yöneticisi
+[4]Iris Loison
+
+[3]Tasarım Lideri 
+[4]Ham Nguyen
+
+[3]Kıdemli Tasarım Yöneticisi
+[4]Tom Baker
+
+[3]Kıdemli Tasarımcı
+[4]Christopher Maas
+
+[3]Kıdemli İçerik Tasarımcısı
+[4]Jason Babler
+ 
+[3]Başkan Yardımcısı, Global İletişim
+[4]Cori Barrett
+
+[3]Global İletişim Direktörü 
+[4]Joe DiMiero
+
+[3]Global İletişim Yöneticisi, Çekirdek Oyunlar
+[4]Matt Chang
+
+[3]Direktör, Global Etkileyici Pazarlama 
+[4]Scott Pytlik
+
+[3]Etkileyici Pazarlama Yöneticisi 
+[4]Mitchel Inkrott
+
+[3]Global Etkileyici Pazarlama Yöneticisi
+[4]Josh Kaplan
+
+[3]İletişim Yöneticisi
+[4]Scott Butterworth
+
+[3]Yönetici, Global İletişim Pazara Giriş 
+[4]Amy Ellison
+
+[3]Direktör, Global Pazarlama Operasyonları ve Kurumsal İletişim 
+[4]Jaime Jensen
+
+[3]Global Etkileyici Pazarlama Yöneticisi, Pazara Giriş
+[4]Zara Waqar
+
+[3]Çalışan İletişim Yöneticisi 
+[4]Crishel Bonfante
+
+[3]İdari Asistan
+[4]Trey Mosteller
+
+[3]Başkan Yardımcısı, Performans Pazarlama 
+[4]Bart Storan
+
+[3]Direktör, Performans Pazarlama
+[4]Alan Doran
+
+[3]Kıdemli Yöneticiler, Performans Pazarlama 
+[4]Christina Crowley
+[4]Davis Tiblier
+
+[3]CRM Operasyon Yöneticisi 
+[4]Trevor Loewenthal
+
+[3]Performans Pazarlama Uluslararası Yöneticisi
+[4]Katie Moore
+
+[3]Performans Pazarlama, SEO Yöneticisi
+[4]Kevin Moore
+
+[3]Baş Performans Pazarlamacısı, CRM 
+[4]Denise de Luca
+
+[3]Baş Performans Pazarlamacısı
+[4]Adrian Breen
+
+[3]Performans Pazarlamacıları 
+[4]David Baigel
+[4]Kian Coleman
+[4]Cian Flynn
+[4]Caoimhe McVeigh
+[4]Dionysios Pappas
+[4]Jeevika Roberts
+
+[3]Kıdemli Yöneticiler, Performans Pazarlama 
+[4]Christina Crowley
+[4]Davis Tiblier
+
+[3]Başkan Yardımcısı, Pazarlama İnovasyonu 
+[4]David Walker
+
+[3]Direktör, Pazarlama Otomasyonu
+[4]Martin Esani
+
+[3]Kıdemli Yönetici, MarTech Otomasyonu 
+[4]James Coulson
+
+[3]Pazarlama Otomasyonu Analisti 
+[4]Niamh McCann
+
+[3]Kıdemli Direktör, Global Web Sitesi
+[4]Jeff Titus
+
+[3]CRM Operasyon Yöneticisi 
+[4]Trevor Loewenthal
+
+[3]Kıdemli Web Yapımcısı
+[4]Tiffany Nelson
+
+[3]Web Yapım Koordinatörü
+[4]Gerald Ingraham
+
+[3]Kıdemli Web Tasarımcısı
+[4]Keith Echevarria
+
+[3]Kıdemli Web Geliştiricileri
+[4]Gryphon Myers 
+[4]David Sims
+
+[3]Web Geliştiricisi
+[4]Charles Park
+
+[3]Direktör, Pazarlama Teknolojisi
+[4]Martin Esani
+
+[3]Direktör, Pazarlama Teknolojisi - Ürün
+[4]Juliette Jones
+
+[3]Proje Yöneticisi
+[4]Maya Staeva
+
+[3]Kıdemli Yönetici, MarTech Otomasyonu
+[4]James Coulson
+
+[3]Pazarlama Teknologları
+[4]Marco Fracasso
+[4]Jill Ivers
+[4]Niamh McCann
+[4]Adam O’Reilly
+
+[3]Yönetici, Pazarlama Teknolojisi
+[4]David Genis
+
+[3]Performans Pazarlamacısı
+[4]Honghao Li
+
+[3]Performans Pazarlama Analistleri 
+[4]Andriy Babiy
+[4]Philip Carroll
+[4]Emily-Claire Burke
+[4]Aine Corry
+[4]Conor Dempsey
+[4]Darragh Gaule
+[4]Isolda Hanney
+[4]Natalie Keyte
+[4]Roisin Nesbitt
+[4]Rónán Ó Grálaigh
+[4]Clodagh O’Regan
+[4]Addie Perry-Lennon
+[4]Giovanna Reategui
+[4]Laura Tierney
+
+[3]Kıdemli Direktör, Genel Sekreter
+[4]Cindy Johnston
+
+[3]Direktör, Global Pazarlama Operasyonları ve Kurumsal İletişim 
+[4]Jaime Jensen
+
+[3]Çalışan İletişim Yöneticisi 
+[4]Crishel Bonfante
+
+[3]Yönetici Asistanı
+[4]Trey Mosteller
+
+[3]İdari Asistan
+[4]Ciera Serrano
+
+[i]TechTree_Meter_Done
+
+[2]2K MÜŞTERİ HİZMETLERİ
+ 
+[3]Direktör, Müşteri Hizmetleri
+[4]Ima Somers
+
+[3]Kıdemli Yönetici, Müşteri Hizmetleri
+[4]David Eggers
+
+[3]Yönetici, Bilgi Tabanı
+[4]Mike Thompson
+
+[3]Yönetici, Müşteri Hizmetleri
+[4]Matthew Gardner
+
+[3]Süpervizörler, Müşteri Hizmetleri
+[4]Cassandra Hawkins
+[4]Alicia Nielsen
+
+[3]Ortak Süpervizörler, Müşteri Hizmetleri
+[4]Dominic Hurton
+[4]Ciera Scott
+
+[3]Müşteri Hizmetleri Koordinatörü
+[4]Adam Schaefer
+
+[3]Kıdemli Müşteri Hizmetleri Temsilcisi
+[4]Annastasia Larsen
+[4]Genaro Siciliano
+[4]Leo Shaverdian
+
+[3]Müşteri Hizmetleri Uzmanları
+[4]Jazmine Ayers
+[4]Rykkie Bray
+[4]Mando Delgado
+[4]Dekel Fridman
+[4]Heather Harper
+[4]Jonathan Hernandez
+[4]Candace Javellonar
+[4]Chad Morton
+[4]Morris Nwachukwu
+[4]Joshua Peek-Whitfield
+[4]Liana Piedra
+[4]Emma Pyles
+[4]Jaelyn Rowe
+[4]Ashley Stewart
+[4]Alexander Washburn
+[4]Mike Whitebear
+
+[3]Ortak Lider KG Test Uzmanı
+[4]Michael Bond
+
+[3]Kıdemli KG Test Uzmanları
+[4]Jade Dabu
+[4]Taylor Galauska
+[4]Kristian Garcia
+
+[3]KG Test Uzmanı
+[4]Isiah Scott
+
+[i]TechTree_Meter_Done
+
+[2]2K TİCARİ VE ORTAKLIKLAR
+ 
+[3]Kıdemli Başkan Yardımcısı, Büyüme ve Ortaklıklar
+[4]Jessica Hopp
+
+[3]Kıdemli Direktör, Global Lisanslama 
+[4]Billy Inglis
+
+[3]Kıdemli Yönetici, Ortaklıklar ve Lisanslama
+[4]David Kelley
+
+[3]Yönetici, Ortaklıklar ve Lisanslama
+[4]Ashley Landry
+
+[3]Kıdemli Yönetici, Global Lisanslama
+[4]Morgan Ritter
+
+[3]Kıdemli Direktör, Ticari Operasyonlar
+[4]Zak Armitage
+
+[3]Kıdemli Yönetici, Büyüme Stratejisi Planlama
+[4]Edward Park
+
+[3]Kıdemli Direktör, Büyüme Stratejisi
+[4]Graham Hennessey
+
+[3]Direktör, Ticari Operasyonlar
+[4]James Martin
+
+[3]Kıdemli Yönetici, İş Analizi
+[4]Joon Kim
+
+[3]Kıdemli Yönetici, Büyüme Stratejisi AAA/EMEA
+[4]Shane Dunne
+
+[3]Ticari Analist
+[4]Lakshm Vasudevan
+
+[3]Direktör, Global Ortaklıklar
+[4]Greg Brownstein
+
+[3]Kıdemli Yönetici, Birinci Taraf Ortaklıkları
+[4]Tom Drake
+
+[3]Yöneticiler, Birinci Taraf Ortaklıkları
+[4]Matthew Freedman
+[4]Myles Murphy
+
+[3]Kıdemli Hesap Yöneticisi, Medya Ortaklıkları
+[4]Reeder Kelley
+
+[3]Hesap Yöneticisi, Medya Ortaklıkları
+[4]Devin Hawke
+
+[3]Direktör, İş Geliştirme ve Kurumsal Strateji
+[4]Robert Johnson
+
+[3]Yönetici, Yatırımlar ve Label Stratejisi
+[4]Chris Ostojic
+
+[3]Direktör, Ticari Operasyonlar
+[4]John Ceccarelli
+
+[3]Yönetici, İş Analisti
+[4]Christian Cordova
+
+[3]İdari Asistan
+[4]Jennifer Cathcart 
+
+[i]TechTree_Meter_Done
+
+[2]2K VERİ VE ANALİTİK
+
+[3]Başkan Yardımcısı, Veri ve Analitik
+[4]Mehmet Turan
+
+[3]Kıdemli Direktör, Veri Mühendisliği
+[4]Steven Yvinec-Kruyk
+
+[3]Kıdemli İş Zekası Yöneticisi
+[4]Carlos Malpica
+
+[3]Veri Operasyonları Lideri
+[4]David Dillane
+
+[3]Veri Operasyonları Lideri
+[4]David Dillane
+
+[3]Veri Mühendisi II
+[4]Naganthran Nagarajan
+
+[3]Veri Destek Mühendisi
+[4]Shubhendra Pathak
+
+[3]Kıdemli Mühendislik Yöneticisi, Veri Mühendisliği ve Platformlar
+[4]Subash Kumaresan
+
+[3]Kıdemli Veri Mühendisi
+[4]Alvin Li
+
+[3]Veri Mühendisleri II
+[4]Ravi Satya Durga Prasad Yenugula
+[4]Vishal Sinha
+
+[3]Veri Mühendisi
+[4]James Dryden
+
+[3]Veri Bilimi ve Analitik Direktörü
+[4]Brad Pflum
+
+[3]Kıdemli Veri Bilimci
+[4]Kai Wang
+
+[3]Kıdemli Veri Bilimci 
+[4]Robin Luo
+
+[3]Ortak Makine Öğrenimi Bilimcisi
+[4]Jeremy Berkov
+
+[3]Kıdemli Yönetici, Veri Bilimi
+[4]Selcuk Baran
+
+[3]İş Analitiği Yöneticisi
+[4]Nick Davies
+
+[3]Veri Analisti 
+[4]Louis Yu
+
+[3]Kıdemli Veri Analisti 
+[4]Garrett Moran
+
+[3]Kıdemli Veri Bilimci
+[4]Guido Maretto
+
+[3]Direktör, Ürün Analitiği ve Canlı Operasyonlar 
+[4]Jono Lane
+
+[3]Kıdemli Veri Bilimci
+[4]Richard Morrisroe
+
+[3]Veri Bilimci II
+[4]Antranik Kajajian
+
+[3]Veri Bilimci 
+[4]Colin O’Callaghan
+
+[3]Analitik Yapımcısı
+[4]Brian DeWolf
+
+[3]Kıdemli Yönetici, Pazarlama Analitiği
+[4]Sara Bayley
+
+[3]Kıdemli Veri Bilimci
+[4]Stephen Wilson
+
+[3]Veri Bilimi Analisti
+[4]Graham Murphy
+
+[3]Veri Bilimci
+[4]Miguel Naranjo
+
+[i]TechTree_Meter_Done
+
+[2]2K OPERASYONLAR
+ 
+[3]Kıdemli Başkan Yardımcısı ve Genel Hukuk Danışman Yardımcısı 
+[4]Peter Welch
+
+[3]Direktör ve Hukuk Danışmanı
+[4]Justyn Sanderford
+[4]Aaron Epstein
+[4]Chris Loeffler
+
+[3]Hukuk Danışmanı, Gizlilik
+[4]Robyn Ellis
+
+[3]Direktör ve Hukuk Danışmanı
+[4]Oren Hoffman
+
+[3]Hukuk Asistanı
+[4]Heidi Masturzo
+
+[3]Hukuk Asistanı
+[4]Sandro Aldana
+
+[3]Başkan Yardımcısı, İş İlişkileri 
+[4]Jerry Wang
+
+[3]Başkan Yardımcısı, Yayıncılık
+[4]Murray Pannell
+
+[3]Başkan Yardımcısı, Operasyonlar
+[4]Melissa Miller
+
+[3]Kıdemli Proje Yöneticisi
+[4]Natalie Netter
+
+[3]Yönetici Asistanı
+[4]Taylor Navarro 
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO OPERASYONLAR
+[4]Daniel Einzig
+[4]Dorian Rehfield
+[4]Ursula Baker
+[4]Christopher Fiumano
+[4]Siobhan Boes
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ULUSLARARASI OPERASYONLAR
+[4]Kevin Smith
+[4]Nisha Verma
+[4]Richard Kelly
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ASYA OPERASYONLARI
+[4]Eileen Chong
+[4]Veronica Khuan
+[4]Chermine Tan
+[4]Takako Davis
+[4]Yuki Suhara
+
+[i]TechTree_Meter_Done
+
+[2]TAKE-TWO ASYA İŞ GELİŞTİRME
+[4]Erik Ford
+[4]Syn Chua
+[4]Paul Adachi
+[4]Hidekatsu Tani
+[4]Aiki Kihara
+[4]Ken Tilakaratna
+[4]Anna Choi
+[4]Hyun Jiwon
+[4]Felix Ng
+[4]Thomas Chung
+[4]Dustin Zhao
+[4]Fern Yeap
+
+[i]TechTree_Meter_Done
+
+[2]2K FİNANS
+
+[3]Finans Başkanı
+[4]David Boutry
+
+[3]Başkan Yardımcısı, Finans
+[4]Melissa Shu
+
+[3]Kıdemli Direktör, Finans Operasyonları
+[4]Barry Charleton
+
+[3]Yönetici, Finans
+[4]Tyler Morehead
+
+[3]Kıdemli Muhasebeci
+[4]Rajesh Joseph
+
+[3]Muhasebe Asistanları
+[4]Christian Beltran
+[4]Amanda Windle
+
+[3]Kıdemli Satış Veri Analisti
+[4]Jennifer Tang
+
+[3]Kıdemli Direktör, Muhasebe
+[4]Angelica Flores
+
+[3]Finansal Planlama ve Analiz Yöneticisi
+[4]Mary Bolanos
+
+[3]Kıdemli Finansal Analist
+[4]Aaron Kim
+
+[3]Direktör, Finansal Planlama ve Analiz
+[4]Cayla Pingel
+
+[3]Finans Yöneticisi
+[4]Benny Lee
+
+[i]TechTree_Meter_Done
+
+[2]2K Tesisler
+
+[3]Tesis Direktörü
+[4]Pete Anderson
+
+[3]Tesis Yöneticisi
+[4]Nick Bublitz
+
+[3]Asistan Tesis Yöneticisi
+[4]James Berti
+
+[3]Tesis Koordinatörü
+[4]Marquis Danner
+
+[3]Tesis Asistanı
+[4]Arnoldo Rodriguez
+
+[3]Bakım Koordinatörü
+[4]Maria Zamaniego
+
+[3]Nakliye ve Teslim Alma Koordinatörü
+[4]Danielle Williams
+
+[3]Bahçıvan
+[4]William Deleon
+
+[i]TechTree_Meter_Done
+
+[2]2K İNSAN KAYNAKLARI
+
+[3]Kıdemli Başkan Yardımcısı, İnsan Kaynakları
+[4]Bobbie Grafeld
+
+[3]Başkan Yardımcısı, Global İK
+[4]Gail Hamrick
+
+[3]Başkan Yardımcısı, İnsan Kaynakları İş Ortağı
+[4]Steven Myers
+
+[3]İK Yöneticisi, Hareket Yakalama Stüdyosu
+[4]Amy Magni
+
+[3]Global Yetenek Kazanım Başkanı
+[4]Damon Berkhaug
+
+[3]Kıdemli İşe Alım Uzmanları
+[4]Emily Davis
+[4]Aaron Tankenson
+[4]Nicole Martin
+
+[3]Yetenek Kazanım Operasyon Uzmanı
+[4]Anastasia Fedorova
+
+[3]İşe Alım Koordinatörleri
+[4]James Myers
+
+[3]Kıdemli Direktör, İnsan Operasyonları
+[4]Tony MacNeill
+
+[3]İK Lideri
+[4]Ciara Larkin
+
+[3]İK İş Ortağı
+[4]Anna Noguerio
+
+[3]İK Uzmanı
+[4]Ashley Starr
+
+[3]İnsan Operasyonları Uzmanları
+[4]Bria Wesley
+
+[3]İK Lideri
+[4]Ciara Larkin
+
+[3]İK Uzmanı
+[4]Sasha Genis
+
+[i]TechTree_Meter_Done
+
+[2]2K TEKNOLOJİ
+
+[3]Başkan Yardımcısı, Bilgi Teknolojisi ve Güvenlik 
+[4]Joe Garfola
+
+[3]Başkan Yardımcısı, Teknik Altyapı ve Operasyonlar Başkanı 
+[4]Sharif Aboul Fotouh
+
+[3]Kıdemli Direktör, Bilgi Teknolojisi
+[4]Rob Roudebush
+
+[3]Teknik Direktör
+[4]Russ Mains 
+
+[3]Sistem Mühendisliği Yöneticisi 
+[4]Petr Fiala 
+
+[3]Kıdemli Sistem Mühendisi
+[4]Radek Trojan 
+
+[3]Kıdemli Mühendis 
+[4]Tim Lynch   
+
+[3]Sistem Mühendisi 5
+[4]Josh Scanlan
+
+[3]Kıdemli Sistem Mühendisi
+[4]Joseph Davila
+
+[3]Çözüm Mühendisi
+[4]Allen Schade
+
+[3]Operasyon Direktörü, Çevrim İçi Hizmetler
+[4]Vaclav Dolezal 
+
+[3]Ağ Operasyon Merkezi Süpervizörü 
+[4]Simon Pitel 
+
+[3]Ağ Operasyon Merkezi Operatörleri
+[4]Andrej Kacer 
+[4]Josef Klima 
+[4]Stepan Rycl 
+
+[3]Kıdemsiz Ağ Mühendisi 
+[4]Jan Kubesa 
+
+[3]Direktör, Site Güvenilirliği Mühendisliği
+[4]Scott Darone
+
+[3]Baş Altyapı Sistem Mühendisi
+[4]Peter Pribylinec
+
+[3]Kıdemli Site Güvenilirliği Mühendisi
+[4]Darius Carrier
+
+[3]Kıdemli Site Güvenilirliği Mühendisi
+[4]Michael Shea
+
+[3]Site Güvenilirliği Mühendisi
+[4]Bo Dong
+
+[3]Sistem Mühendisleri
+[4]Michal Bernat
+[4]Davis Krieghoff
+[4]Manish Patel
+
+[3]Kıdemsiz Sistem Mühendisi 
+[4]Adam Marek 
+
+[3]Kıdemli Ağ Operasyonları Yöneticisi
+[4]Tomas Caslavsky 
+
+[3]Kıdemli Ağ Mühendisi 
+[4]Windiyam Ouedraego
+
+[3]Ağ Mühendisleri 
+[4]Don Claybrook 
+[4]Fernando Ramirez
+
+[3]BT Direktörü, Novato
+[4]Bob Jones 
+
+[3]Yöneticiler, Bilgi Teknolojisi
+[4]Tareq Abbassi 
+[4]Scott Alexander 
+
+[3]Birleşik İletişim Mühendisi 
+[4]James Dykstra
+
+[3]Sistem Yöneticileri
+[4]Stuart Godbolt
+[4]Steve Hunter
+[4]Brandon McMurray
+[4]Kent Pham
+[4]Christopher Smith
+
+[3]Kıdemsiz BT Destek Uzmanı
+[4]Connor Kann
+
+[3]Direktör, Bilgi Teknolojisi
+[4]Chris Jones
+
+[3]Mastering Laboratuvar Teknisyeni
+[4]Travis Allen
+
+[3]PC Teknisyenleri
+[4]Martin Risher
+[4]Steven Sexton
+
+[3]Direktör - Genel Sekreter
+[4]Holly Macintosh
+
+[3]Teknik Yaratıcı Yazar ve Tasarımcı
+[4]Donal Cotter
+
+[3]Kıdemli İdari Asistan
+[4]Jessica Hurst
+
+[3]Güvenlik Başkanı
+[4]Justin Ferris
+
+[3]Kıdemli Kurumsal Güvenlik Mühendisi 
+[4]Brian Thomas
+
+[3]Oyun Güvenliği Mühendisi 
+[4]James Roosens
+
+[3]Kıdemli Güvenlik Analisti
+[4]Patrick Lockett
+
+[3]Güvenlik Analistleri
+[4]Nick Everson 
+[4]Caitlin Long
+
+[3]Risk Operasyonları
+[4]Connor Jung
+
+[3]Mühendislik Direktörü 
+[4]Martin Livesey
+
+[3]Kıdemli Yazılım Mühendisleri
+[4]Frederic Loranger 
+[4]Seven (Shan) Lyons
+
+[3]Kıdemli Yazılım Mühendisi 
+[4]Sean Cosgrave 
+
+[3]Yazılım Mühendisi 
+[4]Labhesh Deshpande
+
+[3]Teknik Direktör
+[4]Sanju Sriram 
+
+[3]Direktör, Teknik Program Yönetimi 
+[4]Mike Headley   
+
+[3]Teknik Program Yöneticileri
+[4]Edris Afghanzada   
+[4]Tushar Amritkar
+[4]Christina Davis 
+[4]Laura Lau
+
+[3]BT Analisti 
+[4]Michael Caccia 
+
+[3]Teknik Proje Koordinatörü
+[4]Tre’ Bohannon
+
+[3]Özel Teşekkürler 
+[4]Scott Belmont 
+[4]Brian MacKenzie 
+[4]Jason Rappoport 
+[4]Jeff Erker 
+[4]Jimmie Yoo 
+[4]Stuart Morrison 
+[4]Victor Carpetto 
+[4]Tüm Take-Two BT ve Güvenlik Ekipleri
+
+[i]TechTree_Meter_Done
+
+[2]2K KALİTE GÜVENCE 
+
+[3]Kıdemli Başkan Yardımcısı, Kalite Güvence
+[4]Alex Plachowski
+
+[3]Kalite Güvence Direktörü
+[4]Katherine Sanford
+
+[3]Proje Lideri
+[4]Jason Kolesa
+
+[3]Ortak Lider Test Uzmanları
+[4]Matthew Abog
+[4]Jared Shipps
+[4]Devan Serrato
+[4]Jeniffer Lunders
+
+[3]Ortak Liderler
+[4]Ana Garza
+[4]Hugo Dominguez
+[4]Matthew Finck
+
+[3]KG Uzmanı
+[4]Ian Bennett
+
+[3]Kıdemli Test Uzmanları
+[4]Kristian Garcia
+[4]Michael Galo
+[4]Stephi Lundy
+
+[3]Test Uzmanları 
+[4]Chris Zambrano
+[4]Richard Kimball
+[4]Jordan Johnson
+[4]Eliza Lacayo
+[4]Bryttany Pagala
+[4]Dekel Fridman
+[4]Mando Delgado
+[4]Elisa Esplana
+[4]Jenn Holland
+
+[3]Kalite Güvence Test Yöneticisi - Destek Ekipleri
+[4]Josh Lagerson
+
+[3]Kıdemli KG Test Liderleri - Destek Ekipleri
+[4]Ashley Carey
+[4]Nathan Bell
+
+[3]Lider Test Uzmanları - Destek Ekipleri
+[4]Bill Lanker
+[4]Chris Adams
+[4]Jordan Wineinger
+[4]Timothy Erbil
+
+[3]KG Ortak Liderleri - Destek Ekipleri
+[4]Jimmy Schindler
+
+[3]KG Uzmanları - Destek Ekipleri
+[4]David Dalie
+[4]Taylor Galauska
+[4]Zachary Little
+
+[3]Kıdemli Test Uzmanları - Destek Ekipleri
+[4]Brian Reiss
+[4]Julian Molina
+
+[3]Destek Ekibi Test Uzmanları
+[4]Cazar Toni Palad
+[4]Chris Doing
+[4]Dan Nelson
+[4]Travis Pointer
+
+[3]BT Direktörü
+[4]Chris Jones
+
+[3]Yardım Masası Süpervizörü/Sistem Yöneticisi
+[4]Mike Becker
+
+[3]Mastering Laboratuvar Teknisyeni
+[4]Travis Allen
+
+[3]PC Teknisyenleri
+[4]Martin Risher
+[4]Steven Sexton 
+[4]Mastering Mühendisi
+[4]Wayne Boyce
+
+[3]Mastering Teknisyeni
+[4]Alan Vincent
+
+[3]2K Las Vegas BT
+[4]Martin Risher
+[4]Michael Becker
+[4]Steven Sexton
+[4]Travis Allen
+
+[3]Özel Teşekkürler
+[4]Alexandria Belk
+[4]Candice Javellonar
+[4]Christina Smith
+[4]Dustin Carey
+[4]Douglas Rothman
+[4]Jamey Wade
+[4]Jeremy Ford
+[4]Joe Bettis
+[4]Joshua Vance
+[4]Leslie Cullum
+[4]Michael "Gryf" Weber
+[4]Rachel McGrew
+[4]Steven Johnson
+
+[i]TechTree_Meter_Done 
+
+[2]2K ULUSLARARASI YARATICI HİZMETLER
+
+[3]Yaratıcı Hizmetler ve Yerelleştirme Direktörü
+[4]Nathalie Mathews
+
+[3]Yerelleştirme Proje Yöneticisi
+[4]Cara Lacey
+
+[3]Yerelleştirme ve Yaratıcı Hizmetler Asistanı
+[4]Matt Lamplugh
+
+[3]Kıdemli Yönetici, Tasarım
+[4]Tom Baker
+
+[3]Grafik Tasarımcısı
+[4]James Quinlan
+
+[3]Video İçerik Editörü
+[4]Barney Austin
+[4]Diana Cooper
+
+[i]TechTree_Meter_Done 
+
+[2]HARİCİ YERELLEŞTİRME EKİPLERİ
+[4]Around the Word
+[4]Effective Media GmbH
+[4]Synthesis - A Keywords Studio
+[4]QLOC S.A.
+
+[4]Yerelleştirme araçları ve desteği: XLOC Inc.
+
+[i]TechTree_Meter_Done 
+
+[2]2K ULUSLARARASI BÖLGE PAZARLAMA VE İLETİŞİM
+[4]Adam Perry
+[4]Agnès Rosique
+[4]Alison Gram
+[4]Anne Speth
+[4]Axel Arnal
+[4]Belinda Crowe
+[4]Ben Seccombe
+[4]Benjamin Magnan
+[4]Callum Cuming
+[4]Carlo Volz
+[4]Carlos Villasante
+[4]Caroline Rajcom
+[4]Dennis De Bruin
+[4]Diana Heinzelmann
+[4]Gemma Woolnough
+[4]Jan Sturm
+[4]Javier Sastre
+[4]Jean-Paul Hardy
+[4]Julien Brossat
+[4]Kayleigh Watson
+[4]Margaux Duval
+[4]Maria Martinez
+[4]Matt Gardner
+[4]Maxime Le Nevanic
+[4]Mikey Foley
+[4]Roger Langford
+[4]Romina Schoener
+[4]Sandra Mauri
+[4]Sandra Melero
+[4]Sean Phillips
+[4]Shelly van Seventer
+[4]Simon Turner
+[4]Stefan Eder
+[4]Urel Eustatius
+[4]Warner Guinée
+[4]Yoona Kim
+[4]Zaida Gomez
+
+[i]TechTree_Meter_Done 
+
+[2]TAKE-TWO ULUSLARARASI OPERASYONLAR
+[4]Kevin Smith
+[4]Nisha Verma
+[4]Phil Anderton
+[4]Richard Kelly
+
+[i]TechTree_Meter_Done 
+
+[2]2K ULUSLARARASI KALİTE GÜVENCE
+[3]KG Direktörü
+[4]José Miñana
+ 
+[3]Yerelleştirme KG Yöneticileri
+[4]Adriana Cervantes
+[4]Oscar Pereira 
+ 
+[3]Yerelleştirme KG Liderleri
+[4]Florian Genthon
+[4]Jose Olivares
+[4]Manuel Aguayo
+[4]Sergio Accettura
+ 
+[3]Yerelleştirme KG Ortak Liderleri 
+[4]Daniel Im
+[4]Sarah Dembet
+[4]Timothy Cooper
+ 
+[3]Kıdemli Yerelleştirme KG Teknisyenleri
+[4]Benny Johnson
+[4]Dmitry Kuzmin
+[4]Pablo Menéndez
+[4]Patricia Ramón
+  
+[3]Yerelleştirme KG Teknisyenleri
+[4]Alessandra Mazzarella
+[4]Alexander Onesti
+[4]Chong Eun Chi
+[4]Dimitri Gerard
+[4]Ernesto Rodriguez Cruz
+[4]Etienne Dumont
+[4]Frédéric Créhin
+[4]Gabriele Cesarini
+[4]Guillermo Andre Obregón
+[4]Hannah Carrillo
+[4]Koso Suzuki
+[4]Luca Panaccione
+[4]Luca Rungi
+[4]Marcus Focht
+[4]Natsue Bun
+[4]Riccardo Gately
+[4]Robert Chambers
+[4]Samuel França
+[4]Samuel Roux
+[4]Seon Hee C. Anderson
+[4]Stefania L. Monaco
+[4]Yury Fesechka
+
+[i]TechTree_Meter_Done 
+
+[2]2K ASYA EKİBİ 
+  
+[3]Asya Genel Müdürü 
+[4]Jason Wong 
+  
+[3]Asya Pazarlama Direktörleri 
+[4]Diana Tan 
+[4]Tracy Chua 
+  
+[3]Asya Kıdemli Pazarlama Yöneticisi 
+[4]Daniel Tan 
+  
+[3]Japonya Pazarlama Yöneticisi 
+[4]Kyoko Fuke 
+  
+[3]Kore Pazarlama Yöneticisi 
+[4]Dina Chung 
+  
+[3]Çin Pazarlama Yöneticisi 
+[4]Leo Li 
+  
+[3]Asya Ortak Pazarlama Yöneticisi 
+[4]Rohan Ishwarlal 
+
+[3]Asya Kıdemli Ürün Yöneticisi 
+[4]Hannah Tan
+  
+[3]Asya Ürün Yöneticileri 
+[4]Wayne Ng 
+[4]Toh Jing Kai
+
+[3]Asya Pazarlama Yöneticisi
+[4]Howard Chan
+
+[3]Çin Pazarlama Yöneticisi
+[4]Nate Guo
+  
+[3]Asya Pazarlama Asistanı
+[4]Victoria Koh
+
+[3]Japonya Pazarlama Asistanı 
+[4]David Anderson 
+  
+[3]Kore Pazarlama Asistanı 
+[4]Park Sangmin 
+  
+[3]Kıdemli Yerelleştirme Yöneticisi 
+[4]Yosuke Yano 
+  
+[3]Yerelleştirme Koordinatörü 
+[4]Mao Iwai 
+  
+[3]Yerelleştirme Koordinatörü 
+[4] Aki Kawashima
+  
+[3]Yerelleştirme Asistanı 
+[4]Chen Li
+  
+[i]TechTree_Meter_Done 
+
+[2]TAKE-TWO ASYA OPERASYONLARI 
+[4]Eileen Chong 
+[4]Veronica Khuan 
+[4]Chermine Tan 
+[4]Takako Davis 
+[4]Yuki Suhara 
+  
+[i]TechTree_Meter_Done 
+
+[2]TAKE-TWO ASYA İŞ GELİŞTİRME 
+[4]Erik Ford 
+[4]Syn Chua 
+[4]Paul Adachi 
+[4]Hidekatsu Tani 
+[4]Aiki Kihara 
+[4]Ken Tilakaratna 
+[4]Anna Choi 
+[4]Hyun Jiwon
+[4]Felix Ng 
+[4]Thomas Chung
+[4]Dustin Zhao 
+
+[i]TechTree_Meter_Done 
+
+[2]2K ÇENGDU YERELLEŞTİRME KALİTE GÜVENCE
+[3]KG Direktörü
+[4]Zhang Xi Kun
+ 
+[3]KG Yöneticisi
+[4]Du Jing
+
+[3]Yerelleştirme KG Proje Lideri
+[4]Kan Liang
+ 
+[3]KG Yerelleştirme Lideri
+[4]Zhu Jian
+
+[3]Yerelleştirme KG Ortak Lideri
+[4]Kan Liang
+[4]Hyunmin Cho
+
+[3]Kıdemli KG Yerelleştirme Test Uzmanları
+[4]Tang Shu
+[4]Jin Xiong Jie
+[4]Hu Meng Meng
+[4]Zhao Yu
+[4]Tan Liu Yang
+[4]Wang Ce
+[4]Zhao Jin Yi
+[4]Tong Yi Feng
+[4]Tian Qi Feng
+
+[3]KG Yerelleştirme Test Uzmanları
+[4]Li Ling Li
+[4]Chen Xue Mei
+[4]Li Zong Yu
+[4]Zhuo Wei
+[4]Wang Bang Yan
+[4]Hu Yong Jia
+[4]Zhang Zi Tong
+
+[3]Kıdemsiz KG Yerelleştirme Test Uzmanları
+[4]Zhao Peng
+[4]Zhang Kun Rou
+[4]Li We Jie
+[4]Yan Xiao Kang
+[4]Xiong Chang
+
+[i]TechTree_Meter_Done 
+
+[2]2K ÇİN KALİTE GÜVENCE
+
+[3]KG Direktörü
+[4]Zhang Xi Kun
+
+[3]Kıdemli KG Yöneticisi
+[4]Steve Manners
+
+[3]KG Süpervizörü
+[4]Qi Ke Lei
+
+[3]Lider KG Test Uzmanı
+[4]Bai Gui Long
+
+[3]Ortak Lider
+[4]Wang Dan Yang
+
+[3]Kıdemli KG Test Uzmanları
+[4]Gong Yi Ren
+[4]Hu Die
+[4]Lan Shi Bo
+[4]Tang Cong
+[4]Wu Di
+
+[3]KG Test Uzmanları
+[4]Dai Tian Hao
+[4]Sun Xu
+[4]Wang Zhi Chen
+[4]Wu Chun Feng
+
+[3]Kıdemsiz KG Test Uzmanları
+[4]Feng Lin Wei
+[4]Li Xao Long
+
+[3]Destek Ekibi Liderleri
+[4]Ji Yang
+
+[3]Destek Ekibi Kıdemli Test Uzmanları
+[4]Liu Ya Qin
+[4]Yang Hui
+[4]Zhang Biao
+[4]Zhang Wei
+[4]Zhang Yin Xue
+
+[3]Destek Ekibi Test Uzmanları
+[4]Zhou Hao Tian
+
+[3]BT Desteği
+[4]Hu Xiang
+[4]Wang Peng
+
+[3]Özel Teşekkürler
+[4]Xie Ya Xi
+[4]Li Hua
+[4]Zhang Pei
+[4]Duan Shuang Li
+[4]Shao Bang Zhu
+[4]Li Min
+[4]Zeng Hui
+[4]Yang Sheng
+[4]Jiang Chuan
+
+[i]TechTree_Meter_Done 
+
+[2]ÇOK ÖZEL TEŞEKKÜRLER
+[4]Strauss Zelnick
+
+[i]TechTree_Meter_Done 
+
+[2]ÖZEL TEŞEKKÜRLER 
+[4]Pete Anderson
+[4]Nicholas Bublitz
+[4]Chris Burton
+[4]David Cox
+[4]Marquis Danner
+[4]Hank Diamond
+[4]Dan Emerson
+[4]Greg Gibson
+[4]Steve Glickstein
+[4]Lainie Goldstein
+[4]Brooke Grabrian
+[4]Jordan Katz
+[4]Jenn Kolbe
+[4]Alan Lewis
+[4]Katie Nelson
+[4]Pedram Rahbari
+[4]Arnoldo Rodriguez
+[4]Betsy Ross
+[4]Karl Slatoff
+[4]Take-Two Dijital Satış Ekibi
+[4]Take-Two Kanal Pazarlama Ekibi
+[4]Take-Two Hukuk Ekibi
+[4]Take-Two Satış Ekibi
+[4]Danielle Williams
+[4]Maria Zamaniego
+[4]Wouter van Vugt
+[4]Clifford Lim
+
+[i]TechTree_Meter_Done 
+
+[2]AJANSLAR
+[4]Access Brand Communications
+[4]Hammer Creative
+[4]Ignition Creative
+
+[i]TechTree_Meter_Done 
+
+[2]HARİCİ TEDARİKÇİLER VE YÜKLENİCİLER
+[3]Müzik Bestesi 
+[4]Geoff Knorr
+
+[3]Ek Müzik Bestesi 
+[4]Christopher Tin
+[4]Timothy Michael Wynn
+[4]Phill Boucher
+
+[3]Orijinal Skor Kaydı 
+[4]Praga FILMharmonic Orkestrası 
+[3]Şef ve Müzik Direktörü
+[4]Andy Brick
+
+[3]Sinematik Ses Tasarımı
+[4]Source Sound, Inc.
+[3]Süpervizör Ses Tasarımcısı ve Mix
+[4]Charles Deenen
+
+[3]Ses Tasarımcıları
+[4]Matt Cavanaugh
+[4]Brent Burge
+[4]Braden Parkes
+
+[i]TechTree_Meter_Done 
+
+[2]SESLENDİRME KADROSU  
+[3]Anlatıcı
+[4]Sean Bean
+
+[3]Danışman 
+[4]Natasha Loring
+
+[3]Hojo Tokimune
+[4]Yoshi Ando
+
+[3]Pedro II
+[4]Renato Belschansky
+
+[3]Tomyris
+[4]Alina Irbekov Berezova
+
+[3]Trajan
+[4]Gianmarco Ceconi
+
+[3]Frederick Barbarossa
+[4]Bert Coll
+
+[3]Peter the Great
+[4]Mikhail Danilyuk
+
+[3]Gorgo
+[4]Angeliki Dimitrakopoulou
+
+[3]Gilgamesh
+[4]Jorge Badillo Galvan
+
+[3]Saladin
+[4]Alhan Gharam
+
+[3]Cleopatra
+[4]Nirvana Hisham
+
+[3]Qin Shi Huang
+[4]Junchao Huang
+
+[3]Mvemba a Nzinga
+[4]Mamengi Alfredo Lombisi
+
+[3]Queen Victoria
+[4]Lucy Briggs Owen
+
+[3]Catherine de Medici
+[4]Lara Valentina Parmiani
+
+[3]Montezuma
+[4]Irwin Daayan Rosenthal Sarli
+
+[3]Gandhi
+[4]Pawan Shukla
+
+[3]Hardrada
+[4]Atli Rafn Sigurdsson
+
+[3]Pericles
+[4]Konstantinos Stelloudis
+
+[3]Theodore Roosevelt
+[4]Richard Tatum
+
+[3]Philip II
+[4]Anton Carmano Vega
+
+[3]Jadwiga
+[4]Julia Jakubowska
+
+[3]John Curtin
+[4]Simon Burke
+
+[3]Alexander
+[4]Dimitris Papadopoulos
+
+[3]Cyrus
+[4]Arian Risbaf
+
+[3]Amanitore
+[4]Fatma Abd Elsalam
+
+[3]Gitarja
+[4]Dyah Febriani
+
+[3]Jayavarman VII
+[4]Heng Sarorn
+
+[3]Mansa Musa
+[4]Hesham Mostafa Elshazly
+
+[3]Pachacuti
+[4]Augusto Casafranca Cortez
+
+[3]Dido
+[4]Julie Fainer
+
+[3]Matthias Corvinus
+[4]Gabor Varga 
+
+[3]Christina of Sweden
+[4]MTAG
+
+[3]Suleiman
+[4]Yavuz Vatansever
+
+[3]Eleanor of Aquitaine
+[4]Lucile Barbier
+
+[3]Kupe
+[4]Te Arahi Napi Maipi  
+
+[3]Sir Wilfrid Laurier
+[4]Alain Cadieux  
+
+[3]Lady Six Sky
+[4]Carla Castañeda Mendoza
+
+[3]Simon Bolivar
+[4]Iván Ramón Orihuela Raschery
+
+[3]Menelik II
+[4]Debebe Eshetu
+
+[3]Ambiorix
+[4]Julien Boissaud
+
+[3]Basil II
+[4]George Petpidis
+
+[3]Hammurabi
+[4]Jose Daniel Martinez Robles
+
+[3]Bà Triệu
+[4]Ha Le Giang
+
+[3]Kublai Khan
+[4]Erdenechuluun Tumurbaatar
+
+[3]Joao III
+[4]Alberto Novo
+
+[i]TechTree_Meter_Done 
+
+[2]FRANSIZ OYUNCU KADROSU
+[3]Anlatıcı
+[4]Philippe Catoire
+
+[3]Danışman
+[4]Caroline Victoria
+
+[i]TechTree_Meter_Done 
+
+[2]ALMAN OYUNCU KADROSU
+[3]Anlatıcı
+[4]Achim Barrenstein
+
+[3]Danışman
+[4]Karoline Mask von Oppen
+
+[i]TechTree_Meter_Done 
+
+[2]İTALYAN OYUNCU KADROSU
+[3]Anlatıcı
+[4]Giorgio Bonino
+
+[3]Danışman
+[4]Katia Sorrentino
+
+[i]TechTree_Meter_Done 
+
+[2]İSPANYOL OYUNCU KADROSU
+[3]Anlatıcı
+[4]Alfonso Laguna
+
+[3]Danışman
+[4]Danai Jiménez
+
+[i]TechTree_Meter_Done 
+
+[2]POLONYALI OYUNCU KADROSU
+[3]Anlatıcı
+[4]Przemysław Walich
+
+[3]Danışman
+[4]Joanna Matuszak
+
+[i]TechTree_Meter_Done 
+
+[2]RUS OYUNCU KADROSU
+[3]Anlatıcı
+[4]Andrey Lysenko (Андрей Лысенко)
+
+[3]Danışman
+[4]Alina Milosh (Алина Милош)
+
+[i]TechTree_Meter_Done 
+
+[2]JAPON OYUNCU KADROSU
+[3]Anlatıcı
+[4]Kenichi Suzumura
+
+[3]Danışman
+[4]Nao Toyama
+
+[i]TechTree_Meter_Done 
+
+[2]KORELİ OYUNCU KADROSU
+[3]Anlatıcı
+[4]Shin Han
+
+[3]Danışman
+[4]Yoon Seon Lim
+
+[i]TechTree_Meter_Done 
+
+[2]BASİTLEŞTİRİLMİŞ ÇİNCE OYUNCU KADROSU
+[3]Anlatıcı
+[4]Zhang Lei
+
+[3]Danışman
+[4]Yang Yi Fang
+
+[i]TechTree_Meter_Done 
+
+[2]GELENEKSEL ÇİNCE OYUNCU KADROSU
+[3]Anlatıcı
+[4]Fang Rong Feng
+
+[3]Danışman
+[4]Qi Qi
+
+[i]TechTree_Meter_Done 
+
+[2]SESLENDİRME KAYIT STÜDYOLARI
+[3]Lime Studios
+[3]Diyalog Kayıtçısı
+[4]Tom Paolantonio
+
+[3]Yapımcı
+[4]Susie Boyajan 
+
+[3]Orchard Recording Studios, Somerset BK
+
+[3]Mühendisler
+[4]Mark Bowyer
+[4]James Wilkes
+[4]Charlotte Worthy-Jarvis
+
+[3]Side UK 
+
+[3]Yapım Yöneticisi
+[4]Emily Munster
+
+[3]Ses Mühendisi
+[4]Ant Hales
+
+[i]TechTree_Meter_Done 
+
+[2]EK SESLENDİRME OYUNCU SEÇİMİ VE KAYDI 
+[3]Signal Space
+
+[3]Yaratıcı Yönetmen 
+[4]Jose Aguirre
+
+[3]Araştırmacı
+[4]Inga Knoth
+
+[3]Ses Editörleri
+[4]Valentino Lercher
+[4]Matthew Knutson
+
+[3]Proje Yöneticisi 
+[4]Christopher Fox
+
+[3]Seslendirme Yönetmenleri
+[4]JB Blanc
+[4]Chad Rocco
+
+[3]Diyalog Editörleri
+[4]Transatlantic Audio/Dante Fazio
+[4]Austin Krier
+[4]Garrett Montgomery, M.P.S.E.
+[4]Stephen Selvaggio
+
+[3]Ek Yazarlar 
+[4]Maurice Suckling
+[4]Angelica Fuchs
+
+[i]TechTree_Meter_Done 
+
+[2]SİNEMATİK YAPIM HİZMETLERİ 
+[3]Plastic Wax Pty Ltd
+
+[3]Yaratıcı Liderler
+[4]Nathan Maddams
+[4]Dane Maddams
+
+[3]Yönetici Yapımcı
+[4]Felix Crenshaw
+
+[3]Yönetim
+[4]Mick Hammell
+[4]Pat Dedal
+[4]Terry Mickaiel 
+
+[3]Yapım Yönetimi
+[4]Carly Glover
+[4]Toby Alderton
+[4]Abby Livermore
+
+[3]Sanat Yönetimi
+[4]Tyrone Maddams
+
+[3]Sanat Departmanı
+[4]Jeff Henderson
+[4]Lars Holmgren
+
+[3]Modelleme Başkanı
+[4]Dean Wood
+
+[3]Modelciler
+[4]Alexia Zantides
+[4]Dan Horsfall
+[4]Josh Knorr
+[4]Tristan Locke
+[4]Werner Gradwell
+[4]Ahmed Wafdy
+[4]Ben Mikhaiel
+[4]Brett Sinclair
+[4]Bruno Camara
+[4]Dan Horsfall
+[4]Jacob King
+[4]Josh Davies
+[4]Josh Shahinian
+[4]Lisa Schachner
+[4]Luc Bégin
+[4]Mahmoud Abdelfatah
+[4]Mohamed Abdelfatah
+[4]Nicole Padilha
+[4]Sebastian Fletcher
+[4]Sherif Amer
+[4]Stephen Clark
+[4]Stephen Macris
+[4]Thomas Colla
+[4]Vee Ng
+
+[3]Animasyon Başkanı 
+[4]Wes Adams
+
+[3]Animatörler ve Rigging
+[4]Mitch Coote
+[4]Damian Paon
+[4]Cam Ralph
+[4]Tom Janson
+[4]Gareth Rhodes
+[4]Zarvan Kotwal
+[4]Phil Hook 
+[4]Sina Azad
+[4]Debby Albers
+[4]George Varettas
+[4]Huy Ngo
+[4]Luke Sullivan
+[4]Sina Azad
+[4]Werner Gradwell
+
+[3]Işıklandırma Başkanı
+[4]Ben Malter
+[4]Damien Mahoney
+
+[3]Işıklandırma ve Render
+[4]Nigel Waddington
+[4]Owen Gillman
+[4]Ben Shearman
+[4]Serge Kovalenko
+[4]Elizabeth Poole
+[4]Epona Toose
+[4]Jake Robinson
+[4]Johnathon Izquierdo
+[4]Matt McKay
+
+[3]Görsel Efektler Başkanı 
+[4]Sidney Cheng
+
+[3]Görsel Efektler
+[4]David Frodsham
+[4]Alejandro Garrido Portocarrero
+[4]Antony Salvadorini
+[4]Davide Mella
+[4]Ferry Taswin
+[4]Francis Andalis
+[4]James Barnes
+[4]Steve Cheah
+[4]Fernando Flores Gonzales
+
+[3]Kompozit Başkanı
+[4]Daniel Loui
+
+[3]Kompozitörler
+[4]Jad Haber
+[4]Ryan Trippensee
+[4]Yoav Dolev
+[4]Mike Holmes
+[4]Grace Testa
+[4]Ian Douglass
+[4]Nick Bulman
+[4]Stuart Spoard
+
+[3]Boru Hattı ve BT Sistemleri
+[4]Chris Lee
+[4]Dave Sparrow
+[4]Tom Mayfield
+
+[i]TechTree_Meter_Done 
+
+[2]EK SİNEMATİK YAPIM HİZMETLERİ
+[3]Section Studios
+
+[3]Yapım
+[4]Justin Yun 
+[4]Kami Talebi 
+
+[3]Konsept
+[4]Gabriel Yeganyan
+[4]Cuba Lee
+[4]Brian Kim
+[4]Howard Pak
+[4]Hyunjae Lee
+[4]Lucas Helmintoller
+[4]Mohammad Chowdhury
+
+[3]Animasyon
+[4]Cameron Mott
+[4]Judson Morgan
+
+[3]Concept Art House
+[3]CEO
+[4]James Zhang 
+
+[3]Yapım Başkan Yardımcısı
+[4]Kaijing Yu 
+
+[3]İş Geliştirme Direktörü
+[4]Davis Kurzenski 
+
+[3]Baş Sanatçı
+[4]Ken Chou 
+
+[3]Proje Yöneticileri
+[4]Katharine Zhang, John Zhang 
+
+[3]CAH Yapım Ekibi
+
+[3]Applied Cinematics
+[4]Mike O’Rourke
+[4]Jason Flynn
+
+[i]TechTree_Meter_Done 
+
+[2]3D SANAT VARLIKLARI
+[3]Gameshastra Solutions Private Limited
+
+[3]Ek Karakter Modelleme
+[4]Pavel Protasov 
+
+[3]Ek Animasyon
+[4]Greg Marlow
+[4]Dan Perry
+[4]Heather Caprini Harris
+
+[3]Ek Konsept Sanat
+[3]Opus Artz Studio
+
+[3]Baş Sanatçı
+[4]Bjorn Hurri
+[3]Konsept Sanatçısı
+[4]Bjork Tróndheim
+[3]Konsept Sanatçısı
+[4]Sabina Lewis
+[3]Yaratıcı Yönetmen
+[4]Dr Chee Wong
+
+[3]Ek Foley
+[4]Studio Unknown
+			</Text>
+		</Row>
+		<Row Tag="LOC_LEADERPASS_CREDITS_NAME">
+			<Text>Lider Geçişi</Text>
+		</Row>
+		<Row Tag="LOC_LEADERPASS_CREDITS">
+			<Text>
+[3]JENERİK
+
+[1]Firaxis Games 
+
+[1]Sid Meier’in Uygarlık VI
+[2]Lider Geçişi
+
+
+[2]TAKIM LİDERLİĞİ
+
+[3]Franchise Baş Tasarımcısı
+[4]Ed Beach
+
+[3]Baş Tasarımcı
+[4]Matthew Beach
+
+[3]Baş Mühendis
+[4]Ken Grey
+
+[3]Yönetici Yapımcı
+[4]Dennis Shirk
+
+[i]TechTree_Meter_Done
+
+[2]TASARIM EKİBİ
+
+[3]Baş Tasarımcı
+[4]Matthew Beach
+
+[3]Tarihçi ve Yazar
+[4]Andrew Johnson
+
+[i]TechTree_Meter_Done
+
+[2]YAPIM EKİBİ
+
+[3]Baş Yapımcı
+[4]Dennis Shirk
+
+[3]Stüdyo Dış Kaynak Yöneticisi
+[4]Sean Murphy
+
+[3]Yapımcı
+[4]Amanda Belmont
+
+[3]Dış Kaynak Yapımcısı
+[4]Austin Angelman
+
+[3]Yapım Desteği
+[4]Kevin Schultz
+
+[3]Stajyer Yapımcı
+[4]Aidan Miller
+
+[i]TechTree_Meter_Done
+
+[2]MÜHENDİSLİK EKİBİ
+
+[3]Baş Mühendis
+[4]Ken Grey
+
+[3]Baş Araç Mühendisi
+[4]Brian Whitman
+
+[3]Baş Veritabanı/Modlama Mühendisi
+[4]Shaun Seckman
+
+[3]Epic Derleme Mühendisi
+[4]Don Wuenschell
+
+[3]Kullanıcı Arayüzü Desteği
+[4]Tronster Hartley
+
+[i]TechTree_Meter_Done
+
+[2]SANAT EKİBİ
+
+[3]Baş Konsept Sanatçısı
+[4]Sang Han
+
+[3]Baş Karakter Modelleyicileri
+[4]Esther Didini-James
+[4]Losha Magee
+
+[3]Baş Animatör
+[4]Grant Chang
+
+[3]Animasyon Desteği
+[4]Rachel Schneider
+[4]Alex Kim
+
+[3]Teknik Animasyon Desteği
+[4]John Stewart
+
+[3]Baş Teknik Sanatçı
+[4]Arthur Gould
+
+[3]Kullanıcı Arayüzü Desteği
+[4]Rob Sugama
+
+[i]TechTree_Meter_Done
+
+[2]SES EKİBİ
+
+[3]Ses Yönetmeni
+[4]Justin Drust
+
+[3]Ses Mühendisi
+[4]Jason Buzzell
+
+[3]Ses Uygulama
+[4]Carter Deken
+
+[3]Ek Ses Desteği
+[4]Dan Costello
+[4]Dan Price
+
+[i]TechTree_Meter_Done
+
+[2]OYNAYIŞ KG EKİBİ
+
+[3]Kıdemli Test Uzmanları
+[4]Shaun Wilson
+[4]Savannah David
+
+[i]TechTree_Meter_Done
+
+[2]CANLI YAYIN EKİBİ
+
+[3]Stüdyo Video Yöneticisi
+[4]Eric Vincent
+
+[3]Video Yapım Asistanı
+[4]Brian Stansbury
+
+[3]Yapım Asistanı
+[4]Dashiell Sarnoff
+
+[3]Hareketli Grafik Sanatçısı
+[4]Logan Boyd
+
+[3]Ses Teknisyeni
+[4]Dmytro Nebesh
+
+[3]Canlı Yayın Katkıda Bulunanlar
+[4]Andrew Johnson
+[4]Carl Harrison
+[4]Ed Beach
+[4]Peter Murray
+[4]Shaun Wilson
+
+[i]TechTree_Meter_Done
+
+[2]Injected Senses Audio
+
+[3]Ses Yönetmeni
+[4]Gary Miranda
+
+[3]Ses Tasarımcısı
+[4]Adam Sanchez
+
+[i]TechTree_Meter_Done
+
+[2]SIGNAL SPACE
+[3]Ses Yapımı
+[4]Jose Aguirre
+[4]Michel Marchant
+[4]Travis Griffith
+[4]David Arango
+[4]Joe Barrucco
+
+[3]Araştırma/Çeviri
+[4]Sebastiano Bazzichetto
+[4]Tabitha Sparks 
+[4]Tiago Oliveira 
+[4]Haley Blum 
+[4]Pooriya Alimorandi Pilehrood 
+[4]Lori Feng 
+[4]Marissa Stevens 
+[4]Coleman Donaldson at An ka taa 
+[4]Valentin Vydrin 
+[4]Joon-Pyo Zin 
+[4]Heon Jong Yoo 
+[4]JungHee Kim 
+[4]Dr. Rabea Kohnen 
+[4]Scott Winges 
+[4]Ryland Patterson 
+
+[i]TechTree_Meter_Done
+
+[2]Seslendirme Kadrosu  
+[3]Yönetmenler
+[4]Thor Bishopric
+[4]Lucinda Davis
+
+[3]Anlatıcı
+[4]Sean Bean
+
+[3]Danışman 
+[4]Natasha Loring
+
+[3]Julius Caesar
+[4]Michele Carli
+
+[3]Abraham Lincoln
+[4]Sean Smith
+
+[3]Nzinga
+[4]Warona Setshwaelo
+
+[3]Nader Shah
+[4]Arian Risbaf
+
+[3]Tokugawa
+[4]Ikebe Kazuhiko
+
+[3]Elizabeth I
+[4]Beth Goddard
+
+[3]Wu Zetian
+[4]Wang Shan
+
+[3]Yongle
+[4]Jing Chu
+
+[3]Xerxes
+[4]Hani Ahmed Abdelhay
+
+[3]Sundiata
+[4]Amadou Sissoko
+
+[3]Sejong
+[4]Baek Jae-Seung
+
+[3]Theodora
+[4]Stella Georgiou
+
+[3]Ludwig II
+[4]David Lütgenhorst
+
+[i]TechTree_Meter_Done
+
+[2]VIRTUOS ChengDu Stüdyosu
+[3]CEO
+[4]Gilles Langourieux
+
+[3]Kilit Hesap Yöneticisi
+[4]Eric Lacroix
+
+[3]Ortak Gelişim Başarı Yöneticisi
+[4]Pierre-Antoine Cohade
+
+[3]CD Stüdyosu Genel Müdürü
+[4]Tian Li
+
+[3]Stüdyo Sanat Operasyon Direktörü
+[4]Zhang Lu
+
+[3]Yönetici Yapımcı
+[4]Zhang Chengwei
+
+[3]Hat Yapımcıları
+[4]Deng Xiaoshuang
+[4]Tang Yifan
+
+[3]Ortak Sanat Yapımcıları
+[4]Zhang Zhoufan
+[4]Liu Yao
+
+[3]Konsept Ekibi
+
+[3]Konsept Sanat Yönetmeni
+[4]Fan Li
+
+[3]Ekip Lideri
+[4]Xu Lingfei
+
+[3]Konsept Kalite Kontrol
+[4]Li Zhe
+
+[3]Konsept Sanatçıları
+[4]Peng Weixuan
+[4]Lei Yao
+[4]Fan Jiacheng
+[4]Li Jinjing
+[4]Zhang Hui
+
+[3]Karakter Ekibi
+
+[3]Karakter Sanat Yönetmeni
+[4]Peng Liang
+
+[3]Karakter Ekibi Lideri
+[4]Chen Zhuo
+
+[3]Karakter Kalite Kontrol
+[4]Luo Zhanghan
+
+[3]Karakter Teknik Sanatçı
+[4]Liu Jingxi
+
+[3]Karakter Sanatçıları
+[4]Chen Xueguo
+[4]Huang Qin
+[4]Lang Chengxu
+[4]Wen Hao
+[4]Xiang Kewei
+[4]Yuan Meng
+
+[3]Rigging Ekibi
+
+[3]Baş Rigger
+[4]Liao Lin
+
+[3]Rigging Kalite Kontrol
+[4]Yang Jingdan
+
+[3]Rigging Teknik Sanatçı
+[4]Dai Jingjing
+
+[3]Riggerlar
+[4]Li Xingya
+[4]Yao Jianyu
+[4]Chen Jun
+
+[3]Animasyon Ekibi
+
+[3]Animasyon Ekibi Lideri
+[4]Wu Zherui
+
+[3]Animasyon Kalite Kontrol
+[4]Yang Jingdan
+
+[3]Animasyon Teknik Sanatçı
+[4]Dai Jingjing
+
+[3]Animasyon Sanatçıları
+[4]Cui Hao
+[4]Hou Zhijia
+[4]Liu Bingcheng
+[4]Li Wanxia
+[4]Zhang Xiaoyi
+[4]Yan Zhangci
+[4]Lv Yingda
+[4]Wang Tiantian
+[4]Pan Yujie
+[4]Lin Yan
+[4]Wang Shihan
+[4]Zhang Kai
+[4]Sui Qiang
+[4]Li Xinda
+
+[3]Ses Ekibi
+
+[3]Ekip Lideri
+[4]Fang Congzhe
+
+[3]Ses Sanatçıları
+[4]He Fang
+[4]Sun Qing
+[4]Hu Yipeng
+
+[i]TechTree_Meter_Done
+
+[2]2K Ürün ve Canlı Hizmetler
+
+[3]Kıdemli Başkan Yardımcısı, Ürün Geliştirme
+[4]Josh Atkins
+
+[3]Başkan Yardımcısı, Çekirdek Oyunlar
+[4]Greg Rinaldi
+
+[3]Yönetici Yapımcı
+[4]Andrew Webster
+
+[3]Kıdemli Yapımcı
+[4]Casey Coleman
+
+[3]Yapımcılar
+[4]Tony Trillo
+[4]Corey Lay
+
+[3]Ortak Yapımcı
+[4]Noelle Johnston
+
+[3]Yapım Asistanları
+[4]Mariah Leder
+[4]Isabella Gentile
+
+[3]Portföy Operasyonları Ekibi
+
+[3]Başkan Yardımcısı, Portföy Operasyonları
+[4]Elizabeth Howard
+
+[3]Kıdemli Yönetici, Proje Yönetimi
+[4]Jan Gonzalez
+
+[3]Proje Yöneticisi
+[4]Kara Reason
+ 
+[3]Harici Geliştirme
+
+[3]Dış Kaynak Yapımcısı
+[4]Monty Goulet
+
+[i]TechTree_Meter_Done
+
+[2]2K Pazarlama ve İletişim
+
+[3]Kıdemli Direktör, Global Pazarlama Stratejisi
+[4]Pat Alvarado
+
+[3]Direktör, Global Pazarlama Stratejisi
+[4]Ryan Taljonick
+
+[3]Kıdemli Direktör, Global Pazarlama Stratejisi
+[4]David Silverman
+
+[3]Global Pazarlama Yöneticileri
+
+[3]Kıdemli Yönetici, Global Pazarlama Stratejisi
+[4]Brandon Schug
+
+[3]Yönetici, Global Pazarlama Stratejisi
+[4]Maya Clark
+
+[3]Pazarlama Koordinatörü, Global Pazarlama Stratejisi
+[4]Alec Gelman
+
+[3]Global Yaratıcı Hizmetler Ekibi
+
+[3]Kıdemli Medya Uzmanları
+[4]Allison Mann
+
+[i]TechTree_Meter_Done
+
+[2]2K Kalite Güvence
+
+[3]Vegas KG
+
+[3]Kıdemli Başkan Yardımcısı, KG
+[4]Alexander Plachowski
+
+[3]Başkan Yardımcısı, KG ve Başvurular
+[4]Katherine Sanford
+
+[3]KG Direktörü
+[4]Josh Lagerson
+
+[3]KG Yöneticisi
+[4]Angelica Morris
+
+[3]KG Lideri
+[4]Hugo Dominguez
+
+[3]Ortak Lider Test Uzmanı
+[4]Sommer Sherfey
+
+[3]Çekirdek Müşteri Deneyimi Test Uzmanları
+[4]Ellie Lacayo
+[4]Euan Fotheringham
+
+[3]Kıdemli KG Test Uzmanı
+[4]Carson Hogue
+
+[3]Kıdemli Direktör, Operasyonlar
+[4]Jen Avina
+
+[3]Destek Ekibi Kıdemli KG Lideri
+[4]Nathan Bell
+
+[3]Sürüm Yönetimi Kıdemli Liderleri
+[4]Bill Lanker
+[4]Julian Molina
+
+[3]Derecelendirme Yapımcısı
+[4]Nick Syrovatka
+
+[3]Sürüm Yönetimi Liderleri
+[4]Candice Javellonar
+[4]Chris Adams
+[4]Cristina Sánchez Pérez
+[4]Joshua Vance
+[4]Steven Johnson
+
+[3]Sertifikasyon Liderleri
+[4]James Schindler
+[4]Ji Yang
+
+[3]Destek Ekibi Lideri
+[4]Daniel A. Nelson
+
+[3]Kıdemli Yaş Derecelendirme Uzmanları
+[4]Kenneth Ellis
+[4]Cameron Contreras
+
+[3]Sürüm Yönetimi Ortak Liderleri
+[4]Ana Garza
+[4]Eduardo Aparicio
+[4]Jennifer Lunders
+[4]Samantha Hoover
+
+[3]Sertifikasyon Ortak Liderleri
+[4]Zhang Biao
+[4]Zhang Rui Bin
+[4]Zhang Wei
+
+[3]Yaş Derecelendirme Uzmanı
+[4]Mando Delgado
+
+[3]Kıdemli Sertifikasyon Uzmanları
+[4]Brian Reiss
+[4]Robert Klempner
+
+[3]Sertifikasyon Uzmanları
+[4]Arienne Weaver
+[4]Evan Hulet
+[4]Leo Prusakov
+[4]Peter Chao
+[4]Çekirdek Müşteri Deneyimi Test Uzmanı
+[4]Justin Lightfoot
+
+[3]Kıdemli KG Test Uzmanları
+[4]Bai Jun Feng
+[4]Liu Ya Qin
+[4]Yang Hui
+[4]Zhang Yin Xue
+[4]Zhou Hao Tian
+[4]Sürüm Yönetimi KG Test Uzmanı
+[4]Andres Castro Conde-Pumpido
+
+[3]Madrid Yerelleştirme KG
+
+[3]Yerelleştirme KG Direktörü
+[4]José Miñana
+
+[3]Yerelleştirme KG Yöneticisi
+[4]Óscar Pereira Fraga
+
+[3]Yerelleştirme KG Lideri
+[4]Alessandra Mazzarella
+
+[3]Yerelleştirme KG Ortak Lideri
+[4]Pablo Menéndez
+
+[3]Yerelleştirme KG Kıdemli Teknisyenleri
+[4]Frédéric Créhin
+[4]Laura Gorostiaga López
+[4]Nicolas Bonin
+[4]Vincent Bouchu
+
+[3]Yerelleştirme KG Teknisyenleri
+[4]Alba Palazón Vicente
+[4]Alice Rouben
+[4]Álvaro Salgado Escudero
+[4]Bruna Venturini
+[4]Dominik Diedenhofen
+[4]Felix Karkossa
+[4]Francesco Alfonsetti
+[4]Gabriele Cesarini
+[4]Gracia Amez Blanco
+[4]Hyae Sung Moon
+[4]Izabella Kuznetsova
+[4]Mar Bargiela Casasnovas
+[4]Marcello Bonomini
+[4]Marta Gajos
+[4]Maximilian Breuning
+[4]Natalia Taboada Díez
+
+[3]2K Vegas Yerelleştirme Kalite Güvencesi
+
+[3]Yerelleştirme KG Direktörü
+[4]José Miñana
+
+[3]Yerelleştirme KG Yöneticisi
+[4]Timothy Cooper
+
+[3]Yerelleştirme KG Liderleri
+[4]Benny Johnson
+[4]Dmitry Kuzmin
+[4]Tae Woo Kwon
+
+[3]Yerelleştirme KG Kıdemli Teknisyenleri
+[4]Hannah Carrillo
+
+[3]Yerelleştirme KG Teknisyenleri
+[4]Alfredo Rodriguez Caballero
+[4]Chris Park
+[4]Fellipe Rinaldis
+[4]Jennifer Garcia
+[4]Julia Solaire
+[4]Leonard Eckert
+[4]Ramona Zornberg
+[4]Riccardo Gately
+[4]Sho Terada
+[4]Tim Egly
+[4]Yayi Sidime
+[4]Yuki Neiman
+[4]Zachary Chew Kim
+
+[3]Chengdu Yerelleştirme KG
+
+[3]Kıdemli KG Direktörü
+[4]Zhang Xi Kun
+
+[3]KG Yöneticisi
+[4]Du Jing
+
+[3]Yerelleştirme KG Proje Lideri
+[4]Hyunmin Cho
+
+[3]Yerelleştirme KG Lideri
+[4]Kan Liang
+
+[3]Yerelleştirme KG Ortak Liderleri
+[4]Tan Liu Yang
+[4]Wang Ce
+[4]Zhao Jin Yi
+[4]Tong Yi Feng
+
+[3]KG Uzmanı
+[4]Zhao Yu
+
+[3]Kıdemli KG Yerelleştirme Test Uzmanları
+[4]Tang Shu
+[4]Hu Meng Meng
+[4]Tian Qi Feng
+[4]Chen Xue Mei
+[4]Li Zong Yu
+[4]Zhuo Wei
+[4]Hu Yong Jia
+
+[3]KG Yerelleştirme Test Uzmanları
+[4]Li Ling Li
+[4]Zhang Zi Tong
+[4]Yin Mei Hui
+[4]Zhao Peng
+[4]Xiong Chang
+[4]Wu Dai Lun
+[4]Song Shi Xue
+[4]Bungkhong Pornchai
+
+[3]Kıdemsiz KG Yerelleştirme Test Uzmanları
+[4]Song Xin Yi
+[4]Yang Peng
+[4]Kuang Yi Ting
+[4]Deng Zi Yuan
+[4]Guo Qiu Yun
+
+[i]TechTree_Meter_Done
+
+[2]2K Müşteri Hizmetleri
+
+[3]Kıdemli Direktör, Müşteri Hizmetleri
+[4]Christine Byrnes
+
+[3]Yönetici, Müşteri Hizmetleri
+[4]Matthew Gardner
+
+[3]Süpervizörler, Müşteri Hizmetleri
+[4]Adam Schaefer
+[4]Neashell Newman
+
+[3]Ortak Süpervizörler, Müşteri Hizmetleri
+[4]Chad Morton
+[4]Alex Washburn
+
+[3]Koordinatör, Müşteri Hizmetleri
+[4]Adam Schaefer
+
+[3]Yönetici, Bilgi Tabanı
+[4]Colleen Tulley
+
+[3]Kıdemli Yönetici, İş Gücü
+[4]Christine Amicangioli
+
+[3]Müşteri Hizmetleri Uzmanları
+[4]Dekel Fridman
+[4]Saul Hainesworth
+[4]Arthur Harsono
+[4]Eric Hawkins
+[4]Roger Johnson Jr. 
+[4]Zachary Manning
+[4]Alexander Marshall
+[4]Joel Martinez
+[4]Haley McCoy
+[4]Vivian Morales
+[4]Jennifer Sieira
+[4]Tanner Stordahl
+[4]Jagger Strehlow
+[4]Siliang Timineri
+[4]Trez Vang
+[4]Kimberley Bailey
+[4]Daniel MacDonald
+
+[i]TechTree_Meter_Done
+
+[2]2K Global Hizmetler
+
+[3]Yerelleştirme ve Derecelendirme Ekibi
+
+[3]Uluslararası Yapımcı
+[4]Sajjad Majid
+
+
+
+
+
+
+[i]TechTree_Meter_Done
+
+
+
+			</Text>
+		</Row>
+
+	</FrontEndText>
+</GameData>

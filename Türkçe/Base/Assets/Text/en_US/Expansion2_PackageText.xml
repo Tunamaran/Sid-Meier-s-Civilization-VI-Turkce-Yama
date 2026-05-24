@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+	 <Row Tag="LOC_EXPANSION2_MOD_TITLE">
+      <Text>Genişleme Paketi: Toplayan Fırtına</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION2_MOD_TEASER">
+      <Text>Dünya Kongresi, çevresel etkiler ve felaketler, enerji, yeni uygarlıklar ve liderler ve çok daha fazlasını içeren bir genişleme paketi!</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+      <Text>Bu oyun, Dünya Kongresi, çevresel etkiler ve felaketler, enerji ve daha fazlasını içeren Toplayan Fırtına Genişleme Paketi'ni kullanır. Değişen bir dünyanın öngörülemezliğiyle başa çıkıp zamana meydan okuyacak bir uygarlık yaratabilecek misiniz?</Text>
+    </Row>
+	<!-- Black Death Scenario -->
+	<Row Tag="LOC_BLACKDEATH_MOD_TITLE">
+		<Text>Senaryo: Kara Veba</Text>
+	</Row>
+	<Row Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+		<Text>Milletinizi bu korkunç vebanın içinden geçirebilecek misiniz? 4 oyuncu, 85 tur.</Text>
+	</Row>
+	<Row Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+		<Text>Bu senaryoda, bir Orta Çağ uygarlığını kötü şöhretli Kara Veba'nın içinden geçirirken, nüfus azalırken ve inanç çökerken kültürel ve bilimsel çabalarını canlı tutmalısınız. Veba dalgalar halinde ülkeyi kasıp kavuracak, vatandaşları öldürecek ve bölgeleri işlenemez hale getirecek. Aydınlanma'nın tohumlarını ekecek kadar uzun süre dayanabilecek misiniz, yoksa milletiniz sadakatsizlik ve umutsuzluğa mı sürüklenecek?</Text>
+	</Row>
+	  <!-- War Machine Scenario -->
+	<Row Tag="LOC_WARMACHINE_MOD_TITLE">
+		<Text>Çok Oyunculu Senaryo: Savaş Makinesi</Text>
+	</Row>
+	<Row Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+		<Text>Birinci Dünya Savaşı'nın patlak vermesiyle Almanya'nın Fransa'ya saldırısını temel alan 1v1 çok oyunculu senaryo.</Text>
+	</Row>
+	<Row Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+		<Text>Bu senaryoda, I. Dünya Savaşı'nın ilk ayında Fransa veya Almanya ordularının komutasını ele alıyorsunuz. Saldırıya hazır dev bir ordunuz, bunu desteklemeye hazır sanayileşmiş bir ulusunuz var ve Paris'i ele geçirmek veya savunmak için yalnızca 40 turunuz. Dünyanın gördüğü en büyük silahlı çatışmada zafer kazanabilecek misiniz? Yoksa bu ölçekteki ve hızdaki savaş sizi alt edecek mi?</Text>
+	</Row>
+  </EnglishText>
+</GameData>
+

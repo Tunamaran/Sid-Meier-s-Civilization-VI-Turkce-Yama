@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Victories -->
+		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_TITLE">
+			<Text>Vekalet Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_DESC">
+			<Text>Üç şehir devletini ele geçir.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_PROXYWAR_VICTORY_BLURB">
+			<Text>İşte Soğuk Savaş'taki stratejim: biz kazanırız, onlar kaybeder. - Ronald Reagan</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_TITLE">
+			<Text>Armageddon'un Efendisi</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_DESC">
+			<Text>Eğer herhangi bir şehir merkezi nükleer vurulursa, tur sınırına kadar en çok şehir merkezini nükleer vur.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_ARMAGEDDON_VICTORY_BLURB">
+			<Text>Kazanmanın tek yolu oynamamaktır.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_TITLE">
+			<Text>Tank Bankeri</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_DESC">
+			<Text>Hiçbir şehir merkezi nükleer vurulmazsa, tur sınırına kadar en çok tanka sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_TANKBANKER_VICTORY_BLURB">
+			<Text>Oyunun sonunda en çok tanka sahipsin! Kazandın!</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_RULESET_TITLE">
+			<Text>Küresel Termonükleer Savaş</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_RULESET_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_MOD_DESCRIPTION -->
+			<Text>Soğuk Savaş, Atom Çağı'nda geçen bu muharebe temelli senaryoda kızışıyor. 50 Tur sürer.[NEWLINE]Zafer Koşulları[NEWLINE][ICON_Bullet]Armageddon'un Efendisi: Herhangi bir şehir merkezi nükleer vurulursa, tur sınırına kadar en çok şehir merkezini nükleer vur.[NEWLINE][ICON_Bullet]Tank Bankeri: Hiçbir şehir merkezi nükleer vurulmazsa, tur sınırına kadar en çok tanka sahip ol.[NEWLINE][ICON_Bullet]Vekalet Savaşı: 3 şehir devletini ele geçir.[NEWLINE]Oynanış Değişiklikleri[NEWLINE][ICON_Bullet]Birimler ve nükleer cihazlar daha ucuza inşa edilir ve bakımı yapılır. Stratejik kaynak gerektirmezler.[NEWLINE][ICON_Bullet]KİS Saldırıları ve Bombardıman Uçakları için genişletilmiş menzil.[NEWLINE][ICON_Bullet]İşçiler daha hızlı şehir gelişimi için daha fazla kullanım hakkına sahiptir.[NEWLINE][ICON_Bullet]Harita baştan keşfedilmiş olarak başlar.[NEWLINE][ICON_Bullet]Kabile Köyü yok.[NEWLINE][ICON_Bullet]Barbar yok.[NEWLINE][ICON_Bullet]Savaş Yorgunluğu devre dışı.</Text>
+		</Row>
+		
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_COLDWAR_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Küresel Termonükleer Savaş</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_MOD_TEASER">
+			<Text>Soğuk Savaş, Atom Çağı'nda geçen bu muharebe temelli senaryoda kızışıyor. 50 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_COLDWAR_MOD_DESCRIPTION"> <!-- Keep in sync with LOC_COLDWAR_RULESET_DESCRIPTION -->
+			<Text>Soğuk Savaş, Atom Çağı'nda geçen bu muharebe temelli senaryoda kızışıyor. 50 Tur sürer.[NEWLINE]Zafer Koşulları[NEWLINE][ICON_Bullet]Armageddon'un Efendisi: Herhangi bir şehir merkezi nükleer vurulursa, tur sınırına kadar en çok şehir merkezini nükleer vur.[NEWLINE][ICON_Bullet]Tank Bankeri: Hiçbir şehir merkezi nükleer vurulmazsa, tur sınırına kadar en çok tanka sahip ol.[NEWLINE][ICON_Bullet]Vekalet Savaşı: 3 şehir devletini ele geçir.[NEWLINE]Oynanış Değişiklikleri[NEWLINE][ICON_Bullet]Birimler ve nükleer cihazlar daha ucuza inşa edilir ve bakımı yapılır. Stratejik kaynak gerektirmezler.[NEWLINE][ICON_Bullet]KİS Saldırıları ve Bombardıman Uçakları için genişletilmiş menzil.[NEWLINE][ICON_Bullet]İşçiler daha hızlı şehir gelişimi için daha fazla kullanım hakkına sahiptir.[NEWLINE][ICON_Bullet]Harita baştan keşfedilmiş olarak başlar.[NEWLINE][ICON_Bullet]Kabile Köyü yok.[NEWLINE][ICON_Bullet]Barbar yok.[NEWLINE][ICON_Bullet]Savaş Yorgunluğu devre dışı.</Text>
+		</Row>
+		<Row Tag="LOC_CW_GAME_TURN_LIMIT_REACHED_PROGRESS">
+			<Text>Tur Sınırı {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_PROXYWAR_VICTORY_CAPTURE_CITY_STATES_PROGRESS">
+			<Text>Ele Geçirilen Şehir Devletleri {CurrentConquered}/{CityStatesConquered} {StatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_ARMAGEDDON_VICTORY_REQUIRES_PLAYER_HAS_MOST_WMD_DIRECT_CITY_HITS_PROGRESS">
+			<Text>Nükleer Vurulan Şehir Merkezleri {NukedCityCenters} {NukeCountStatusIcon}[NEWLINE]Herhangi Bir Şehir Merkezi Nükleer Vuruldu: {NukeWarStatusIcon}</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_TANKBANKER_REQUIRES_PLAYER_HAS_MOST_TANKS_PROGRESS">
+			<Text>Sahip Olunan Tanklar {NumPromotionClass} {PromotionStatusIcon}[NEWLINE]Hiçbir Şehir Merkezi Nükleer Vurulmadı {NoNukeWarStatusIcon}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

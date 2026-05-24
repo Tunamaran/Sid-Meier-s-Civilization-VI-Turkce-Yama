@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <EnglishText>
+		<Row Tag="LOC_AUSTRALIA_MOD_TITLE">
+			<Text>Avustralya Uygarlık Paketi</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_MOD_TEASER">
+			<Text>Yeni Uygarlık ve Lider - Avustralya'dan John Curtin</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_MOD_DESCRIPTION">
+			<Text>Yeni bir uygarlık ve lider içerir.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_TITLE">
+			<Text>Senaryo: Outback Tycoon</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_TEASER">
+			<Text>Hangi koloni Avustralya'nın doğal zenginliklerinden en iyi şekilde yararlanacak?</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUSTRALIA_SCENARIO_DESCRIPTION">
+			<Text>Bu 60 turlu senaryoda, Avustralya'yı keşfetmek, doğal kaynaklarını bulmak ve bunları koloninizi zenginleştirmek için kullanmak üzere yarışıyorsunuz. Bu rekabetçi ekonomik senaryo herhangi bir muharebe içermez. Keşif ve toprak genişletmeye odaklanarak, puanınız olan Tur Başına Altın net gelirinizi artırıyorsunuz.[NEWLINE][NEWLINE]Tek oyunculu: Her zorluk seviyesinin bir Tur Başına Altın eşik değeri vardır. Oyunun sonunda bu değeri aşarak kazanırsınız.[NEWLINE][NEWLINE]Çok oyunculu: Oyunun sonunda en yüksek Tur Başına Altın değerine sahip oyuncu kazanır.</Text>
+		</Row>
+   </EnglishText>
+</GameData>
+

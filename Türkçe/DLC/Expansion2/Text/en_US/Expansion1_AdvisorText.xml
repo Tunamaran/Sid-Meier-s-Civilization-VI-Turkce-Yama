@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_TUTORIAL_GOVERNOR_INTRO">
+			<Text>Yönetim bilimleri bilgimiz geliştikçe, idare yöntemlerimiz de gelişir. Bu çabayı ilerletmek, şehirlerimizdeki gücümüzü pekiştirmek üzere bir Vali atamamıza olanak tanıyacaktır.[NEWLINE][NEWLINE]Valiler, bulundukları şehrin Bağlılığını büyük ölçüde artırır ve onlara seçtiğimiz terfilere bağlı olarak bonuslar verir. Yeni Valiler atamak veya mevcut olanları terfi ettirmek için Vali Unvanlarına ihtiyacımız vardır. Vali Unvanlarının başlıca kaynağı, belirli Sosyal Politikaları tamamlamaktır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FIRST_GOVERNOR_POINT">
+			<Text>Artık uygarlığımıza bir Vali atama fırsatımız doğdu. Bu Vali, şehirlerimizden birine atandığında güçlü ve üretken bir varlık olacaktır. En kısa sürede bir aday seçmemizi öneririm.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_SECOND_GOVERNOR_POINT">
+			<Text>Bir kez daha idare yetkilerimizi artırma fırsatına sahibiz. Bunu mevcut bir Valimizi terfi ettirmek için veya uygarlığımıza yeni bir Vali daha atamak için kullanabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FIRST_GOVERNOR_ASSIGNMENT">
+			<Text>Valimiz artık atandığı şehre doğru yola çıktı. Orada yerleşik hale gelmesi biraz zaman alacaktır. Yerleştikten sonra yetenekleri devreye girecek ve oradaki yönetimimizi güçlendirecektir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOSING_LOYALTY">
+			<Text>Şehirlerimizden birinde Bağlılık kaybediyoruz. Bu devam ederse, şehir üzerindeki kontrolümüzü kaybetme tehlikesiyle karşı karşıyayız. Oraya bir Vali göndermek, yönetimimizi güçlendirecek ve vatandaşların bağlılığını kazanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_FOREIGN">
+			<Text>Şehirlerimizden birinin bağlılığını tamamen kaybettik ve şehir, bunun yerine yabancı bir güce bağlandı. Onu geri almak için, yeni sahibinden bağlılığı koparmalı veya askerî güç kullanmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_INDEPENDENT">
+			<Text>Şehirlerimizden birinin bağlılığını tamamen kaybettik ve şehir bize karşı bağımsızlığını ilan etti. Onu geri almak için, bağlılığını yeniden kazanmalı veya askerî güç kullanmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_INDEPENDENT_THIRD_PARTY">
+			<Text>Bağlılık kaybının ardından, yakındaki bir yabancı şehir eski uygarlığından bağımsızlığını ilan etti ve bir Özgür Şehir haline geldi. Onun bağlılığını kazanırsak veya askerî güç kullanırsak, onu kendi uygarlığımıza katabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_WON_LOYALTY_FROM_FOREIGN">
+			<Text>Yabancı bir şehir artık eski sahibine sadık kalmamış, bunun yerine bize bağlılık yemini etmiş ve büyük uygarlığımıza katılmak istemiştir!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_WON_LOYALTY_FROM_INDEPENDENT">
+			<Text>Bağımsız bir şehir bize sadakat yemini etmiş ve büyük uygarlığımıza katılmak istemiştir!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CONQUERED_CITY_LOYALTY">
+			<Text>Uygarlığımıza yeni bir şehir kattık. Onu elde tutmak için vatandaşlarının bağlılığını korumalıyız. Buraya bir Vali göndermek buna yardımcı olacaktır.[NEWLINE][NEWLINE]İşgal altındaki şehir hâlâ Bağlılık sorunları yaşıyorsa, şehre bir askerî birlik yerleştirerek Bağlılığı daha da artırabiliriz. Yeni işgal ettiğimiz şehrin Bağlılığını göz önünde bulundurun, aksi takdirde isyan edip yeniden ele geçirilmesi gereken bir Özgür Şehir haline gelebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ALLIANCES_1">
+			<Text>Komşu bir uygarlıkla dostane ilişkiler kurduğumuza göre, bir İttifak yaparak ilişkimizi sağlamlaştırmak bize yakışır. Bu yalnızca konumumuzu pekiştirmekle kalmayacak, aynı zamanda her iki uygarlığımıza da faydalar sağlayacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ALLIANCES_2">
+			<Text>İttifaklarımız kısa vadeli bildirilerdir. Onları sürdürmek için dostluk bildirimizi yenilemeli ve yeni bir İttifak önermeliyiz. İttifaklarda kalmaya devam ettikçe, daha güçlü hale gelirler ve daha büyük faydalar sağlarlar.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_1">
+			<Text>Daha büyük bir tehdide karşı diğer uygarlıklara katılma seçeneğimiz var, ancak dikkatlice düşünmeliyiz. Katılır ve başarılı olursak ödüllendirileceğiz. Ancak katılır ve görevimizde başarısız olursak, düşman daha da güçlenecektir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_2">
+			<Text>Görevimizi başarıyla tamamladık ve ödüllerimizi aldık. Şimdilik bu, saldırganı durdurmalı, ancak bu tür eylemlere yeniden başlarlarsa, onları durdurmak için artık daha iyi hazırlanmış durumdayız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_3">
+			<Text>Görevimizde başarısız olduk ve bir dahaki sefere bu düşmanla karşı karşıya kaldığımızda işimiz daha da zor olacak. Belki de bir dahaki sefere başka bir yöne bakmayı düşünmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_4">
+			<Text>Eylemlerimiz tüm dünyayı alarma geçirdi ve diğer uygarlıklar bizi durdurmak için bir araya geldi. Hedeflerini biliyoruz ve güçlü kalmak istiyorsak kendimizi savunmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_5">
+			<Text>Bu kriz anında kendimizi başarıyla savunduk ve bunun sonucunda daha da güçlendik. Bize bir daha karşı gelmeden önce iki kere düşünecekler!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_6">
+			<Text>Bu kriz anında kendimizi savunamadık. Şimdi düşmanlarımız güçlendi ve bizi yenmek için cesaret buldu!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GAME_ERA_CHANGING_SOON">
+			<Text>Uygarlıklar yeni teknolojiler ve sosyal politikalar keşfettiler ve yakında dünyanın kendisi yeni bir çağın şafağına ulaşacak. Bu çağdaki eylemlerimiz bizi uygarlığımız için bir Altın Çağa götürebilir. Ya da belki de ileride daha karanlık günler bizi bekliyor.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GAME_ERA_CHANGED">
+			<Text>Tarih ilerliyor ve dünya yeni bir çağa girdi. Yakın geçmişimizin eylemlerinden doğacak olan uygarlığımızın geleceğinde bir Altın Çağ ya da bir Karanlık Çağ görebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ENTER_GOLDEN_AGE">
+			<Text>Müjdeli haber! Başarılarımız uygarlığımızı bir Altın Çağ'a taşıdı. Bu dönemde uygarlığımız her zamankinden daha güçlü ve daha sadık olacak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ENTER_DARK_AGE">
+			<Text>Bir Karanlık Çağ'a düştük. Şehirlerimiz bağlılık zorluklarıyla karşılaşacak olsa da yeterli çabayla bu Karanlık Çağ'dan çıkabilmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_OVERCOME_DARK_AGE">
+			<Text>Sevinçle karşılayın! Karanlık Çağ'ımız sona erdi ve uygarlığımız daha da parlak bir geleceğe doğru ilerliyor. Bir sonraki Altın Çağ'ımız gerçekten görkemli olacak.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DARK_AGE_TO_DARK_AGE">
+			<Text>Ne yazık ki bu Karanlık Çağ'dan çıkmayı başaramadık. Uygarlığımızın bu dünyada hayatta kalabilmesi için kararlılığımızı güçlendirmeli ve bu aksaklığın üstesinden gelmeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PRIDE_MOMENT_COMMEMORATION">
+			<Text>Tarihimizde hangi başarılarımızı anacağımızı seçme zamanı geldi. Bu, halkımıza sizin seçtiğiniz bir yolda ilerlemeye devam etmeleri için ilham verecek.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PRIDE_MOMENT_TRIGGERED">
+			<Text>Uygarlığımız tarihi bir başarıya imza attı; nesiller boyu kutlanmayı ve hatırlanmayı hak ediyor. Bu başarılar uygarlığımızın bir Altın Çağ'a ulaşmasına ve bir Karanlık Çağ'dan kaçınmasına yardımcı olur.[NEWLINE][NEWLINE]Bu Tarihi Anların her biri Çağ Puanımızı artıracak. Çağ Puanımız, bir sonraki oyun çağında hangi Çağ'ı kazanacağımızı belirler; bu nedenle mümkün olduğunda bu Tarihi Anları aramalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_1">
+			<Text>Artık ulusal bir bölge inşa etmeye hazırız! İmparatorluğumuzda yalnızca bir tane inşa edilebilir, bu yüzden yerini dikkatlice seçtiğinizden emin olun.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_1a">
+			<Text>Artık hükümet binalarımızı nereye inşa edeceğimizi seçmeye hazırız. İmparatorluğumuzda bunlardan yalnızca birini inşa edebiliriz, bu yüzden dikkatlice seçin.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_2">
+			<Text>Yeni bölgenizdeki binalar, inşa anındaki mevcut hükümetinizi anar ve hükümetin etkilerini tamamlayan bir politika kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_2a">
+			<Text>Mevcut hükümetimizi anmak ve güçlendirmek için bir hükümet binası inşa etmemizi önerebilir miyim?[NEWLINE][NEWLINE]Her yeni hükümet binası inşa ettiğimizde, o an seçili olan hükümetimize dayalı bir Miras Politikası açılır. Bu Miras Politikaları, gelecekteki hükümetlere taşıyabileceğimiz, yönetim geçmişimizin güçlü hatırlatıcılarıdır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3">
+			<Text>Ulusal Büronuz yeni bir politika açtı. Politikalar bir sonraki açıldığında bunu yerleştirmeyi düşünün.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3a">
+			<Text>Ulusal Mahkemeniz yeni bir politika açtı. Politikalar bir sonraki açıldığında bunu yerleştirmeyi düşünün.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3b">
+			<Text>Hükümet binamızın tamamlanması yeni bir politika açtı. Bunu hükümetimize dahil edersek halkımıza büyük ölçüde yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3c">
+			<Text>Bu binanın inşasının tamamlanması politika yapıcılarımıza ilham verdi! Bu yeni politikayı hükümetimize dahil etmeyi seçersek halkımıza büyük ölçüde yardımcı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
+			<Text>Yeni bir şehir kurmak uygarlığımızı genişletti! Birden fazla şehre sahip bir imparatorlukla, vatandaşlarımızın Bağlılığını göz önünde bulundurmak önemlidir. Bağlılık azalırsa şehir o kadar etkili olmaz. Bağlılık 0'a düşerse şehir bağımsızlığını ilan eder ve Özgür Şehir haline gelir. Aynı şey diğer uygarlıkların başına da gelebilir; bu nedenle başkalarını istikrarsızlaştırma fırsatlarını kollayın ve hatta bir Özgür Şehri kendi imparatorluğunuza katmayı düşünün![NEWLINE][NEWLINE]Bağlılık, esas olarak şehirdeki ve şehre yakın vatandaşların sayısı ve uyruğundan etkilenir. 9 kare içinde kendi nüfusunuzun çok olması, her tur Bağlılığınızı artıracaktır. 9 kare içindeki diğer uygarlıklara ait nüfuslar ise Bağlılığı azaltacaktır. Şehirler birbirine ne kadar yakınsa etki o kadar büyük olur. Ayrıca, Altın Çağ'daki uygarlıklar için etki büyük ölçüde güçlenir, Karanlık Çağ'dakiler için zayıflar.[NEWLINE][NEWLINE]Bir şehre bir Vali atamak ve yeterli Olanaklara sahip olmasını sağlamak, kendi şehirlerinizin Bağlılığını garanti altına almanın diğer yollarıdır.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
+			<Text>BAĞLILIĞI ARTIRMAK İÇİN:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_MARTIAL_LAW">
+			<Text>[NEWLINE][NEWLINE]İşgal Cezasını dengelemek için burada bir askeri birlik bulundurun</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_GOVERNOR">
+			<Text>[NEWLINE][NEWLINE]Buraya bir [ICON_Governor] Vali atayın</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_AMBASSADOR">
+			<Text>[NEWLINE][NEWLINE]9 kare içindeki bir şehre terfi ettirilmiş bir Diplomat [ICON_Governor] Vali atayın</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_DARK_AGE">
+			<Text>[NEWLINE][NEWLINE]Bir sonraki oyun çağında Karanlık Çağ'a düşmemeye özen gösterin ki [ICON_Citizen] Vatandaşlarınız daha fazla Bağlılık sağlasın.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_GOLDEN_AGE">
+			<Text>[NEWLINE][NEWLINE]Bir sonraki oyun çağında bir Altın Çağ kazanın ve [ICON_Citizen] Vatandaşlarınızın daha fazla Bağlılık sağlamasını sağlayın.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CITY_PLACEMENT">
+			<Text>[NEWLINE][NEWLINE]9 kare içindeki kendi şehirlerinizi ve [ICON_Citizen] Vatandaşlarınızı en üst düzeye çıkarın, yabancı şehirleri ve [ICON_Citizen] Vatandaşları ise en aza indirin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CITY_HAPPINESS">
+			<Text>[NEWLINE][NEWLINE]Bu şehirdeki [ICON_Amenities] Olanakları artırarak halkınızı daha mutlu kılın.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CITY_STARVATION">
+			<Text>[NEWLINE][NEWLINE]Halkınızın açlıktan kırılmasını önlemek için daha fazla [ICON_Food] Besin sağlayın.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_BREAD_AND_CIRCUSES">
+			<Text>[NEWLINE][NEWLINE]Yakınlardaki bir şehrin 'Ekmek ve Sirkler' projesini yürütmesini sağlayın.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTURAL_ALLIANCE">
+			<Text>[NEWLINE][NEWLINE]Bir komşunuzla Kültürel İttifak kurarak onların [ICON_Citizen] Vatandaşlarının olumsuz bir etki yaratmasını engelleyin.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_RELIGIOUS_FOLLOWERS">
+			<Text>[NEWLINE][NEWLINE]Şehrin [ICON_Citizen] Vatandaşlarının sizin dininizi takip etmesini sağlayın.</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_81">
+			<Text>Her ne kadar halkımız epey becerikli olsa da, başkalarından öğrenmekten her zaman fayda sağlayabiliriz. Belki de komşularımızdan biriyle bir Araştırma İttifakı başlatmayı düşünmeliyiz.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

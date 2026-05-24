@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_TITLE">
+			<Text>Abraham Lincoln</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_QUOTE">
+			<Text>İnsan var olduğu sürece, yalnızca kendi koşullarını değil, insanlığın halini düzeltmeye de yardım etmek onun görevidir; ben en fazla sayıda kişiye en büyük iyiliği sağlayacak yöntemlerden yanayım.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_1">
+			<Text>ABD tarihinin en bilindik simalarından biri olan Abraham Lincoln, yalnızca dört yıl boyunca Başkanlık yapmış; ancak bu kısa süre içinde köleliği kaldırarak (ki bu, ABD'nin Avrupalı çağdaşlarına kıyasla epey geç kalınmış bir hareketti), İç Savaş'ı başarıyla yürüterek ve Birleşik Devletler'i sanayi çağına fırlatıp atarak tarihe geçmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_2">
+			<Text>Lincoln, Orta Batı'da mütevazı bir çevrede dünyaya geldi. Ailesi, dönemin iki büyük çekişmesi arasında sıkışıp kalmış yoksul toprak sahipleriydi: bir yanda yerli topraklarına doğru batıya ilerleyiş, diğer yanda köle sahibi çiftçiler (burada servet daha büyük toprak mülklerinde birikme eğilimindeydi) ile kendi tarlasını işleyenler arasındaki gerilim. Lincoln'ler kuzeye, Indiana'ya doğru itildiler ve burada kerestecilik ve çiftçilikle uğraştılar. Zor günlerdi – Lincoln henüz küçük bir çocukken annesini kaybetti ve çoğunlukla kendi kendini yetiştirdi. Sauk Kızılderililerine karşı milis kuvvetlerinde görev yaptıktan sonra döndüğünde hukuk okumaya başladı ve siyasete ciddi bir şekilde atıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_3">
+			<Text>Lincoln'ün erken dönem siyasi kariyeri, en azından Amerika'da, yürütme erkinin karşısında birleşmiş bir parti olan Whigler'le başladı; bu, partinin kökenindeki monarşi karşıtı duruşun bir yansımasıydı. ABD'de bu, Andrew Jackson gibi siyasi figürlerin geniş kapsamlı yürütme yetkileri edinme potansiyeliyle mücadele etmek anlamına geliyordu. Ancak ABD değişiyordu ve artık temel ayrışma, Virginia'daki zengin plantasyon sahipleri (Washington veya Jefferson gibi) ile tutumlu ve felsefeye meraklı New England'lılar (Franklin veya Adams gibi) arasında değil; kuzeydeki sanayi sermayesi ile köle emeğiyle beslenen, sanayi tarımına yönelen bir Güney arasındaydı. Whigler, Kuzey'in sanayi çıkarlarıyla Güney'e karşı ittifak kurarak Cumhuriyetçi Parti'ye dönüştükçe, Lincoln önde gelen bir ses haline geldi. Lincoln'ün görüşleri; kölelik meselesinde ılımlılık çağrısı (bugün kulağa ne kadar korkunç gelse de, o dönem için ilerici bir adımdı), uluslararası ekonomik korumacılık ve yerli sanayiye destekti – bunların tümü, serbest sermayeyi (en azından ülke içinde ve beyaz erkekler arasında), sanayileşmeyi ve sanayicilerin zenginliğini kayıran politikalardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_4">
+			<Text>Güneyli beyaz toprak sahipleri, uluslararası sanayi ve tarımsal üretime ve küresel ticarete ayak uydurabilmek için köleliğe bel bağlamıştı. Ne var ki bu, giderek daha da sürdürülemez hale gelen (ve her zaman iğrenç olan) bir uygulamaydı. Lincoln, köleliğe karşı olduğunu gizlemedi; ancak ileriye dönük yol olarak köleliğin ortadan kaldırılmasını değil, sınırlandırılmasını görüyordu. Fakat bu ılımlılık girişimi bile Güney eyaletleri için fazla ileriydi; onlar, Lincoln'ün seçilmesini, Birlik içindeki güçlerinin geri dönülmez biçimde azaldığının ve kölelik kurumunun, dolayısıyla ekonomik temellerinin sonunun gelebileceğinin bir işareti olarak yorumladılar. Böylece, seçilmesinin hemen ardından Konfederasyon ayrıldığını ilan etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_5">
+			<Text>Lincoln iyi bir tartışmacıydı ve bu nedenle, durumun ciddiyetini hafife almak ve erken harekete geçmemekle eleştirildi; ancak sözcüklere olan düşkünlüğü ve ihtiyatı daha sonra işe yarayacaktı. İç Savaş'ta Güney'in kendi topraklarında savaşma avantajı ve generallerle stratejistler yetiştiren iyi eğitimli bir seçkinleri vardı, ancak neredeyse her açıdan Kuzey'in gerisindeydi. Güney'de işgücünün büyük bir kısmı köleydi ve bu nedenle kendi köleliklerinin devamı için savaşmaya pek hevesli olmayacaklarından, Güney, topraksız yoksul beyazları savaşa sürüklemek için propaganda kampanyaları kullanmak zorunda kaldı. Ayrıca Güney'in fabrikaları ve sanayisi Kuzey'in gerisindeydi. Ve son olarak, Güney mevcut uluslararası destekten yoksundu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_6">
+			<Text>Ancak, ne kadar imkânsız görünse de, bir zafer yolu vardı. Irksal kırgınlık siyaseti devam ediyordu ve Lincoln, ayrılmamış eyaletlerde (örneğin Maryland) bile kölelik yanlısı duyguları hafife aldı – buralarda isyanlar ve sabotajcılar kol geziyordu. Daha da uğursuzu, özellikle Lincoln'ün yabancı gümrük vergilerine ve Amerikan ticaretini korumaya olan düşkünlüğü göz önüne alındığında, Güney'in kendi sanayilerini beslemek için büyük ölçüde tarımsal bir hammadde üreticisi olarak kalmasını görmek isteyecek birçok uluslararası güç vardı. Lincoln, Konfederasyon'un İngiltere'ye gönderdiği elçileri durdurdu, ancak akıllıca bir hamleyle hoşgörü göstererek uluslararası bir olaydan kaçındı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_7">
+			<Text>Her şey çok farklı da olabilirdi: Yabancı bir güç müdahale edebilirdi. Büyük çaplı bir köle isyanı, Konfederasyon'u daha başlamadan yok edebilirdi. Büyük çaplı bir kölelik yanlısı ayaklanma, Birleşik Devletler'in sanayisini sabote edebilirdi. Ancak bunların hiçbiri olmadı ve Kuzey'in sanayi makinesi, Konfederasyon'u amansızca yok etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_8">
+			<Text>Sanayicilik teması burada kilit öneme sahiptir. Lincoln, ülke içinde, büyüyen ulusu merkezi kontrol altına almak için bir bankacılık idaresi ve bir tarım bakanlığı kurmasıyla tanınırdı. Ancak Lincoln'ün dönemi dendiğinde aklımıza büyüyen fabrikalar, Avrupa'dan ABD'ye artan göç ve demiryollarının gelişimi gelir. Ve ayrıca, bu sanayi güçlerinin batıdaki topraklara doğru hareketi – Lincoln, özellikle geçmişi göz önüne alındığında, kıtanın yerli halkına karşı kalbinde hiçbir yumuşak nokta barındırmıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_HISTORY_PARA_9">
+			<Text>Lincoln'ün zaferi ve savaşın ardından Güney'de yapılan reformlar, kaçınılmaz olarak kırgınlığa yol açtı. Yeniden seçilmesinden ve savaşın bitiminden yalnızca birkaç gün sonra, 1865'te Washington DC'de John Wilkes Booth tarafından suikaste uğradı. Booth, bu suikastin savaşın devamına yol açacağına inanıyordu, ancak durum böyle olmadı. Lincoln'ün yerine, özellikle beceriksiz bir lider olan Andrew Johnson geçti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_CAPSULE_BODY">
+			<Text>Abraham Lincoln, uygarlığındaki uyumsuzluğu önlemek için sanayileşmeyi kullanmak ister.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABRAHAM_LINCOLN_CHAPTER_DETAILED_BODY">
+			<Text>Abraham Lincoln için, ek Joker Politika Yuvaları ve Diplomatik Destek sağlayan Kurucu Atalar yeteneğiyle bir hükümet seçimi önemlidir. Ayrıca Çıraklık'ı araştırmak ve tüm şehirlerinde ücretsiz yakın dövüş birimleri almak için Sanayi Bölgeleri inşa etmek ister. Lincoln, Sulama ve Plantasyonlardan kaçınmalıdır, böylece cezalarını almaz. Oyunun sonlarına doğru, zafere giden son hamle için P-51 Mustang ve Film Stüdyosu gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_TITLE">
+			<Text>Nzinga Mbande</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_QUOTE">
+			<Text>Her şeyi şansa bırak ve kaderin seni nereye götürdüğünü izle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_1">
+			<Text>Angola bağımsızlık hareketinde ve Afrika'daki sömürgeciliğin erken tarihinde önemli bir figür olan Nzinga Mbande, kendine bir ses (ve yöneteceği bir krallık) edinmek için mücadele ederken, çeşitli krallıklar arasında gidip gelmiş ve bunu yaparken Avrupalı güçleri birbirine karşı kullanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_2">
+			<Text>Portekizliler, 1480'lerde Kongo'ya ulaştı. Burada buldukları, 1300'lerden beri iktidarda olan seçimli bir monarşi olan Kongo Krallığı'ydı. Misyonerler okullar kurmuş ve Kongo'da senkretik bir dini uygulama geliştirmişler; on yıl içinde kralı vaftiz etmişlerdi. Kölelik daha karmaşık bir meseleydi. Kongolular uzun süredir kölelik uyguluyor, savaşlardan ve akınlardan başkente tebaa getirip onları yerleşmeye ve çalışmaya zorluyorlardı. Portekizliler São Tomé'de plantasyonlarını kurduklarında, Kongo, adaya zorla çalıştırılmak üzere tutsak tedarik etmek için özel bir ticaret anlaşması yaptı. Zamanla Kongo ve Portekiz arasında rahatsız bir ittifak oluştu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_3">
+			<Text>Sorun şuydu ki Portekizliler, Kongo'nun köle ticareti üzerindeki tekeline saygı göstermiyordu ve Afonso – Mvemba a Nzinga – anlaşmanın sona erdirilmesi çağrısında bulundu. Belirtmek gerekir ki Mvemba, köleliğin sona erdirilmesini savunmuyor ya da emperyal saldırganlığı protesto etmiyordu; sadece Portekizlilerin anlaşmanın şartlarına uymadığını belirtiyordu. Bu mesele, Portekiz'i komşu krallıklarda hem ticaret hem de yağma kampları kurmaya yöneltti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_4">
+			<Text>Bir nesil sonra, Kongo sınırındaki bir zamanlar köle tacirlerinin hedefi olan bölgeler artık potansiyel ortaklar haline geliyordu. Ndongo da bunlardan biriydi. 1590'da Portekizliler ve Kongolu müttefiklerine karşı savaş halindeydi ve ayrıca Imbangala olarak bilinen özellikle vahşi bir paralı asker grubunun saldırılarına maruz kalıyordu. Bu savaş kötü gitmeye başlayınca, bir soylu darbe yaparak Nzinga da dahil olmak üzere kraliyet sarayının birçok üyesini görevden uzaklaştırdı; Nzinga da komşu Matamba krallığına kaçtı. Ancak Ndongo'nun yeni lideri, onun siyasi zekasına ve bağlantılarına ihtiyaç duydu ve onu Portekizlilerle müzakere etmesi için görevlendirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_5">
+			<Text>İşte Nzinga'nın parladığı an burasıydı. Portekiz normlarına bilinçli olarak meydan okudu. Müzakerelerde kendisine verilen itaatkâr rolü kabul etmeyerek, yerel ziynet eşyalarıyla giyindi ve kendini bir tebaa olarak değil, bir kraliçe olarak sundu. Portekizliler onu yere oturtmaya çalıştığında, hizmetkarını sandalyesi yaptı. Vaftiz konusunda direndi ve bunu müzakerelerde bir koz olarak kullandı. Sonunda bir barışa vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_6">
+			<Text>Ancak bu barış uzun sürmedi. İmbangalalar daha fazla toprak arzuluyor, hem Portekizlilere hem de Ndongo'ya meydan okuyarak savaşı sürdürüyorlardı. İçerideki kriz derinleşirken Ndongo kralı öldü ve Nzinga, geniş siyasi ve stratejik müttefik ağıyla kontrolü ele geçirmeye çalıştı. Portekizliler onun ateşini hatırlayarak onu tanımaktan çekindiler ve kendi seçtikleri kukla krala bağlılık göstermesini talep ettiler. Reddetti ve kaçarak isyancılara, yani o aynı İmbangalalara katıldı. Bu gruba evlenerek girdi ve yeni halkının son derece militarist tarzında ordusunu yeniden inşa etti. Böylece bölgeyi kasıp kavurdu, her ne kadar Ndongo'nun tamamını olmasa da Matamba'yı kendine kattı. Bu noktadan, direnişe mali can simidi olarak köle ticareti yaptığı Hollandalı tüccarlarla bağımsız ilişkiler kurdu ve Portekizlilere karşı Hollandalılar ve Kongolularla bir ittifak oluşturdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_7">
+			<Text>Savaş uzadı gitti. Hollandalılar Portekizliler tarafından püskürtüldü, ancak aynı zamanda Portekiz, İspanya ile savaşa girdi. 1656'da, yıllar süren çatışmanın ardından iki düşman bir barış antlaşmasında anlaştı – Portekiz kıyıların büyük bir kısmını aldı, Nzinga ise köle ticareti üzerindeki tekelini kazandı. Avrupalıların iç bölgelere yeniden girmeye kalkışması uzun yıllar aldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_HISTORY_PARA_8">
+			<Text>Bugün, özellikle Angola İç Savaşı tasvirlerinde, Portekizlilere karşı bir güç olarak hatırlanmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_CAPSULE_BODY">
+			<Text>Nzinga Mbande ile başarının anahtarı, kendi ana kıtasında kalmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_NZINGA_MBANDE_CHAPTER_DETAILED_BODY">
+			<Text>Nzinga Mbande'nin Kongo'su, kendi ana kıtasında en üstün güç olmayı hedefler. Evindeki ek getirileri, Nkisi yeteneğiyle birleşince onu bir Kültür Zaferi için iyi bir konuma getirir. Ngao Mbeba, kendi kıtasına giren herhangi bir uygarlığı fethetmesine yardımcı olur. Mbanza ise şehirlerinin büyüyüp zenginleşmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_TITLE">
+			<Text>Selahaddin (Vezir)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_ALT_TITLE">
+			<Text>Selahaddin (Sultan)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_ALT_QUOTE">
+			<Text>Allah bir işe hükmedince, o iş tamam olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>Sultan Selahaddin ile oynamanın özü, rakipleri ya askerî güçle ya da din yoluyla yenmektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SALADIN_ALT_CHAPTER_DETAILED_BODY">
+			<Text>Bir Büyük Peygamber'in garantilenmesi, Sultan Selahaddin'e, ücretsiz Büyük Peygamber'i gelene kadar ordusunu güçlendirme fırsatı verir. Büyük Peygamber alındıktan sonra, Arabistan'ın dinini ve askerî gücünü haritaya yaymaya koyulun. Memluk, her tur iyileşme yeteneği sayesinde uzak uygarlıkları fethetmede bir kazanım olacaktır. Medrese, daha fazla Havari satın almanıza izin verirken aynı zamanda daha güçlü askerî birimlerin kilidini açmanıza yardımcı olur. Sultan Selahaddin'in liderliğindeki Arabistan, gerek Hakimiyet gerekse Dinî Zaferler için harikadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ANA_NZINGA_CHAPTER_HISTORY_PARA_1">
+			<Text>1500'lerin sonlarında, Kuzey Nijerya'da bir şehir devleti olan Zazzau'nun efendisi, kızındaki bir tuhaflığı fark etmeye başladı. Kızı olağanüstü cesur ve atılgan olup mutfak bıçağını bir alet gibi değil, bir savaş silahı gibi tutuyordu. Bu, Hausa halkından Amina'ydı ve babası ile erkek kardeşi öldüğünde Zazzau'nun kontrolünü ele geçirerek onu bölgede büyük bir güç haline getirdi. Zazzau, Sahra ticaret yollarının en batı ucundaki bir dizi devletten biriydi; ham maddeleri ve o zamanlar köleleştirilmiş insanları çölün ötesine, Orta Doğu'ya gönderiyordu. Bölge, Gana, Mali, Songhay gibi birbirine bağlı çok sayıda gücün yükselişine ve çöküşüne tanıklık ettiğinden, sürekli olarak yeni savaşların ve fetihlerin eşiğindeydi. Tahta çıktığında Amina, takipçilerine 'silahlarını bileyin' çağrısı yaptı ve şehirden şehire geçerek önce o yeri yağmaladı, ardından hakimiyetini pekiştirmek için yeni surlar inşa etti. Ayrıca Müslüman bir toplumda kadın lider olmaktan hiç pişmanlık duymuyordu. Rivayete göre, ele geçirdiği her kasabada bir gece için bir sevgili edinir ve ertesi sabah o şanssız adamı idam ettirirdi. Bu, belki de yalnızca askerî fetih kapasitesinin bir göstergesi değil, aynı zamanda ataerkil hanedan veraset sistemlerinin onun hükümranlık hakkını asla tehdit edememesini sağlamanın bir yoluydu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_ANA_NZINGA_CHAPTER_HISTORY_PARA_2">
+			<Text>Onun hükümdarlığı, Hausa topraklarında kadın gücünün zirvesiydi; bu bölge sonraki yıllarda giderek geriledi. Yine de bir halk kahramanı olarak kalmıştır ve bölge halkı tarafından sevgiyle anılır – en azından olayları anlatacak kadar yaşayanlar tarafından.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

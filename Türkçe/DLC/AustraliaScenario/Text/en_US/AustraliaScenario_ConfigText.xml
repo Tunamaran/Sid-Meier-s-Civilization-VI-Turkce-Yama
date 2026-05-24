@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_AUSTRALIA_SCENARIO_NAME">
+			<Text>Taşra Baronu</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP">
+			<Text>Hangi sömürge, Avustralya'nın doğal zenginliklerinden en iyi şekilde yararlanacak? 60 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION">
+			<Text>Bu 60 turluk senaryoda, Avustralya'yı keşfetmek, doğal kaynaklarını bulmak ve bunları sömürgenizi zenginleştirmek için kullanmak üzere yarışıyorsunuz. Bu rekabetçi ekonomik senaryoda savaş yoktur. Keşif ve toprak genişletmeyi vurgulayarak [ICON_Gold] Tur Başına Altın net gelirinizi artırmanız gerekir; bu sizin puanınızdır.[NEWLINE][NEWLINE]Tek oyunculu: Her zorluk seviyesinin bir [ICON_Gold] Tur Başına Altın eşiği vardır. Oyun bitmeden bu sayıyı aşarak kazanırsınız.[NEWLINE][NEWLINE]Çok oyunculu: Oyun sonunda en yüksek [ICON_Gold] Tur Başına Altın'a sahip olan oyuncu kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO">
+			<Text>Yeni kurulan Avustralya sömürgeniz, Yeni Güney Galler'de elde edilen başarıyı tekrarlamayı değil, onu aşmayı hedefliyor. Pek çok kişinin başarısız olduğu bu ıssız topraklarda şöhret kazanabilecek misiniz? Servetiniz, uzun süredir söylentileri dolaşan altın yataklarını bulmaktan, devasa hayvan sürüleri yetiştirmekten mi yoksa toprakların doğal güzelliğini gelecek nesiller için korumaktan mı gelecek?</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME">
+			<Text>Avustralya Haritası</Text>
+		</Row>
+		<Row Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION">
+			<Text>Gerçek dünya ana hatlarına sahip, rastgele oluşturulmuş bir Avustralya kıtası.</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME">
+			<Text>Queensland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME">
+			<Text>Batı Avustralya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME">
+			<Text>Güney Avustralya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION">
+			<Text>Queensland Eyaleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION">
+			<Text>Batı Avustralya Eyaleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION">
+			<Text>Victoria Eyaleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION">
+			<Text>Güney Avustralya Eyaleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME">
+			<Text>Güney Diyarı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME">
+			<Text>Güney Diyarı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME">
+			<Text>Güney Diyarı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME">
+			<Text>Güney Diyarı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION">
+			<Text>Kıyıdaki herhangi bir şehir için +3 [ICON_Housing] Konut. Meralar bir Kültür Bombasını tetikler. Kampüsler, Ticaret Merkezleri ve Tiyatro Meydanlarından elde edilen Getiriler, Büyüleyici Çekiciliğe sahip bölgelerde +2, Nefes Kesici bölgelerde +4'tür.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>Kıyıdaki herhangi bir şehir için +3 [ICON_Housing] Konut. Meralar bir Kültür Bombasını tetikler. Kampüsler, Ticaret Merkezleri ve Tiyatro Meydanlarından elde edilen Getiriler, Büyüleyici Çekiciliğe sahip bölgelerde +2, Nefes Kesici bölgelerde +4'tür.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Kıyıdaki tüm şehirler için Konut. Meralar bir Kültür Bombasını tetikler. Kampüsler, Ticaret Merkezleri ve Tiyatro Meydanlarındaki getiriler, Büyüleyici Çekiciliğe sahip bölgelerde +2, Nefes Kesen bölgelerde +4'tür.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Kıyıdaki tüm şehirler için Konut. Meralar bir Kültür Bombasını tetikler. Kampüsler, Ticaret Merkezleri ve Tiyatro Meydanlarındaki getiriler, Büyüleyici Çekiciliğe sahip bölgelerde +2, Nefes Kesen bölgelerde +4'tür.</Text>
+		</Row>
+		<!-- Leaders -->
+		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME">
+			<Text>Queensland Başbakanı</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME">
+			<Text>Batı Avustralya Başbakanı</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME">
+			<Text>Victoria Başbakanı</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME">
+			<Text>Güney Avustralya Başbakanı</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME">
+			<Text>Güneş Eyaleti</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME">
+			<Text>Altın Taşra</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME">
+			<Text>Victoria Altına Hücumu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME">
+			<Text>Özgür Koloni</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION">
+			<Text>Tüm bölgeler +1 Çekicilik kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>Şehir kurarken ek bölgeler kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION">
+			<Text>Oyuna bir Altın Arayıcısı ile başlayın.  Şehirlerinden birinde eğitilen tüm Altın Arayıcıları 1 ek inşa hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION">
+			<Text>Oyuna bir Otlakçı ile başlayın.  Şehirlerinden birinde eğitilen tüm Otlakçılar 1 ek inşa hakkı kazanır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

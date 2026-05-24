@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData >
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_ARMIES">
+			<Text>Ordular</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_ARMADA">
+			<Text>Armada</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_CORPS">
+			<Text>Kolordu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_FLEET">
+			<Text>Donanma</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_THERMONUCLEAR">
+			<Text>Termonükleer</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_NUCLEAR">
+			<Text>Nükleer</Text>
+		</Row>
+	</EnglishText>
+</GameData>

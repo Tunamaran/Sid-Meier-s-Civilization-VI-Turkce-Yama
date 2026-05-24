@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_RULERS_OF_THE_SAHARA_MOD_TITLE">
+			<Text>Sahra Hükümdarları Lider Paketi</Text>
+		</Row>
+		<Row Tag="LOC_RULERS_OF_THE_SAHARA_MOD_TEASER">
+			<Text>Yeni Alternatif Liderler – Mısırlı Ramses II, Malili Sundiata Keita ve Mısırlı Kleopatra (Ptolemaios)</Text>
+		</Row>
+		<Row Tag="LOC_RULERS_OF_THE_SAHARA_MOD_DESCRIPTION">
+			<Text>Mevcut uygarlıklar için 3 yeni alternatif lider içerir. Ramses II, Sundiata Keita ve Kleopatra'yı (Ptolemaios) kapsar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

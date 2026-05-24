@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_LEADER_JULIUS_CAESAR_NAME">
+			<Text>Jül Sezar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAESAR_NAME">
+			<Text>Geldim, Gördüm, Yendim</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAESAR_DESCRIPTION">
+			<Text>Bir şehri ilk kez fethettiğinde veya bir Barbar Karakolu'ndan [ICON_GOLD] Altın kazandığında +300 [ICON_GOLD] Altın kazanırsın. [ICON_GOLD] Altın, Metal Döküm araştırıldıktan sonra 500'e ve Çelik'ten sonra 700'e yükselir (Standart Hız'da). Barbarları hedef alırken +5 [ICON_Strength] Muharebe Gücü kazanırsın ve her zaman normal Tecrübe Puanı alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_JULIUS_CAESAR">
+			<Text>Selam olsun Sezar'a! Roma'nın generali, patrici ve diktatörü. Halkın – ve ihtirasın – çağlar boyu sana sesleniyor. Zar atıldı – acı düşmanların ya da en yakın dostların olsun, hiç kimse vizyonuna karşı durmasın.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

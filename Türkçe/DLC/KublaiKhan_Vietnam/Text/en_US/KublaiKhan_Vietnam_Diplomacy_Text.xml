@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lady Trieu-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>İşte! Seni intikam listesinden çıkardım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Vietnam yalnız başına ayakta durur. Size ihtiyacımız yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Halklarımız birbirinin yükünü paylaşsın, mücadele daha kolay olacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Mızraklarımız düşmanlarımıza karşı birleşiyor!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Düşmanlarıma ne olduğunu biliyorsun, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Uzun zamandır bu günü bekliyordum. Bugün, senin yok oluşunla sonuçlanacak savaş başlıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Artık Vietnam'la savaş halindesin. Borularımızı duyuyor musun? Fillerimizin gök gürültüsünü? Senin için geliyorlar!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Heyetiniz Vietnam'ın güzelliğini ve halkının yiğitliğini gördü.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Barış için geldiklerini söylüyorsunuz ama yabancı sızmalara izin veremem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Vietnam'ın heyeti yaklaşıyor; kuş yuvası çorbası, deniz kulağı, geyik siniri ve Hàm Long kuyusundan su getiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Kendi halkını yönetmekle yetinemiyor musun? Benimkine de karışmak zorunda mısın? Suçlarını tüm dünyaya haykıracağım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Bak buraya, seni yılan. Bir gün halklarımız arasında büyük bir hesaplaşma olacak ve adalet yerini bulacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_TRIEU_ANY">
+			<Text>Ben Bà Triệu, altın cübbe giyen general. Vietnam'a hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_TRIEU_ANY">
+			<Text>Vietnam'a hoş geldiniz! Gelin, başkentimizde kuş yuvası çorbası içelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_TRIEU_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_TRIEU_ANY">
+			<Text>Sana Hanoi'nin kalelerinden ve Dönen Kılıç Gölü'ne yapışan şafak sisinden bahsedeyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LADY_TRIEU_ANY">
+			<Text>Hoş geldin, misafir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_TRIEU_ANY">
+			<Text>Yok oluşumu planlamadın, bu yüzden ben de seninkini planlamayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_TRIEU_ANY">
+			<Text>Vietnam seni izliyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Filini Vietnam'ınkinin yanına getir! Ne dersin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_TRIEU_ANY">
+			<Text>Yeter kan döküldü. Bırakın savaşçılarımız evlerini yeniden inşa etsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_TRIEU_ANY">
+			<Text>Asla! Sana boyun eğmeyeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Kılıçlarımızı bir kenara bırakalım mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Halkın geçebilir ama gözetlenecekler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_TRIEU_ANY">
+			<Text>Vietnam, yabancı askerlerin topraklarımızda yürümesine izin vermek için bu kadar uzun yaşamadı! Hayır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Halkıma geçiş izni verir misin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_TRIEU_ANY">
+			<Text>Vietnam tehdit edilmeyecek. Askerlerini geri çek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_TRIEU_ANY">
+			<Text>Seni dinlemek zorunda değilim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_TRIEU_ANY">
+			<Text>Askerlerimiz kudretlidir ve savaş naraları korkunçtur. Sizi korkutmak istememiştik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Beni yendiğini mi sanıyorsun? Cennete yükselecek ve direnişimizin ölümsüz ruhu olacağım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Halkımın ihtiyaçları önce gelir. Bunu kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_TRIEU_ANY">
+			<Text>Teklifin halkıma fayda sağlayacak.</Text>
+		</Row>
+		<!-- Kublai China-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ah, dostların prensi! Çimenler seni terennüm ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Yeterince dostum var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Gel, iyi şarabın ve alçak sesli şarkıların tadını çıkar, içelim, güneş ve ay gelip geçsin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ah, dostların prensi! Çimenler seni terennüm ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Han'ın dostluk teklifini reddettin. Bunu iyice düşün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ülkemin her köşesinden asker topladım. Seninle savaşa girmek için bu kadar zahmete girmemle onur duy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ufuktaki toz bulutları, savaşla gelen binlerce atlıdır. Kendini hazırla!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Elçilerine bir güreş maçına meydan okudum. Bugün biraz hırpalanmış olabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Şiirimiz, kompozit yaylarımız ve kısrak sütümüz var. Senin artıklarına ihtiyacımız yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Sınırlarınıza bir deve kervanı yaklaşıyor; ipekler, baharatlar, kısrak sütü, koyun eti ve büyük Han'ın destanlarını getiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Cahillikten mi yoksa kasten mi yaptın, sonuç değişmez. Canımı uzun süredir sıkıyorsun ve küstahlığına daha fazla katlanmayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Krallığının bir bozkır yangını gibi yiyip bitirileceği gün yaklaşıyor. O gün sevinçle dolacağım. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Ben Kubilay. Zamanla tüm dünya beni imparator ve büyük kağan olarak tanıyacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Başkentimde, en güçlü iki savaşçımız arasında bir güreş müsabakası düzenledim. Gelin, benimle birlikte kısrak sütü içelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Sana İpek Yolu'nun İncisi'nden bahsedeyim mi? Peki sen bana topraklarından söz eder misin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Selamlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Alaşımlı çelik gibi, bilgelik ve kudretin uyum içinde işlediğini gösteriyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>İyi yönetemiyorsan, daha iyi bir hükümdar gelip seni devirir ve tahtından eder. Tarih bize bunu öğretiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Birlikte at sürelim! Önden buyur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Savaşın yayı kırıldı. Atlarımız semirsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Kağanlarım hâlâ savaşa susamış.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Atlarımız zayıflıyor, binicileri evlerinin türkülerini söylüyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Atlarınız, Moğol İmparatorluğu'nun bozkırlarında ve bu imparatorluğun fethettiği toprakların yollarında at sürmeye hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Sınırların bir nedeni vardır. Bunlar seni dışarıda tutmak için var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Kafese kapatılmak yok olmaktır. Sınırlar çizilirse ölürüz. Geçebilir miyiz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Askerlerin bozkırın manzarasını kapatıyor. Onları çek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bir kağana emir vermezsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Bizden korkuyorsun. Anlıyorum. Başka yerlere at süreceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Şimdi git; beni kederimle baş başa bırak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Altın Orda, bu tür anlaşmalarla altın olmadı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Evet. Her yandan kârlar yağsın.</Text>
+		</Row>
+		<!-- Kublai Mongolia-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ah, dostlar prensi! Çimenler seni söylüyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Yeterince dostum var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Gel, iyi şarap ve alçak sesli şarkıların tadını çıkar, içelim ve güneşle ay gelip geçsin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ah, dostlar prensi! Çimenler seni söylüyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Han'ın dostluk teklifini reddettin. Bunu iyice düşün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Krallığımın dört bir yanından asker topladım. Seninle savaşa girmek için bu zahmete girdiğim için onur duy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ufuktaki toz bulutları, binlerce atlı, savaşla geliyor. Kendini hazırla!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Elçilerine güreş müsabakası teklif ettim. Bugün biraz hırpalanmış olabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Şiirimiz, bileşik yaylarımız ve kısrak sütümüz var. Artıklarına ihtiyacımız yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Sınırlarınıza bir deve kervanı yaklaşıyor, ipekler, baharatlar, kısrak sütü ve kuzu eti ve büyük Han'ın hikâyelerini taşıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Cahillikten ya da kastınızdan mı yaptınız, sonuç aynı. Beni çok uzun süredir rahatsız ediyorsunuz ve küstahlığınıza artık tahammül etmeyeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Krallığının bir orman yangınında ot gibi yok olacağı bir gün geliyor. O gün sevineceğim. (Seni Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Ben Kubilay. Zamanla tüm dünya beni imparator ve büyük han olarak tanıyacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Başkentimde, iki en güçlü savaşçımız arasında bir güreş müsabakası düzenledim. Gel de benimle mayalanmış kısrak sütü iç!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Sana İpek Yolu'nun incisinden bahsedebilir miyim? Ve sen bana topraklarından bahseder misin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Selamlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bilgelik ve kudreti, sağlam bir alaşım gibi uyum içinde sergiliyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>İyi hükmedemiyorsanız, sizden iyisi gelip sizi tahtınızdan eder. Tarih boyunca böyle olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Birlikte at sürelim! Siz önden gidin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Savaş yayı kırıldı. Atlarımız semirsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Hanlarım hâlâ savaşa aç.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Atlarımız zayıflıyor, binicileri vatan hasretiyle türkü yakıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Atlarınız, Moğol İmparatorluğu'nun bozkırlarında ve fethettiği toprakların yollarında sefere çıkmaya hoş geldi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Sınırlar boşuna çizilmedi. Bunlar sizi dışarıda tutar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Kafese kapatılmak ölümdür. Sınırlarla kuşatılırsak yok oluruz. Geçmemize izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Birlikleriniz bozkırın görüşünü engelliyor. Onları uzaklaştırın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bir hana emir vermek olmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Bizden korkuyorsunuz. Anlıyorum. Başka bir yöne at süreceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Şimdi git; beni kederimle baş başa bırak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Altın Orda, böyle anlaşmalarla altına dönüşmedi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Evet. Her taraftan kâr yağsın.</Text>
+		</Row>
+		<!-- Agenda Text -->
+		<Row Tag="LOC_AGENDA_TRIEU_DEFENDER_NAME">
+			<Text>Anavatan Savunucusu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TRIEU_DEFENDER_DESCRIPTION">
+			<Text>Kendisine savaş ilan etmemiş uygarlıkları sever. Savaş ilan edenlerden hoşlanmaz. Bunlara karşı, savaş ilerledikçe her turda görüşü daha da kötüleşir ve bu azalan görüş asla düzelmez.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER_POSITIVE">
+			<Text>Trieu, kendisiyle uzun süredir barış içinde olanları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER_NEGATIVE">
+			<Text>Trieu, kendisiyle savaşmış olanlardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TRIEU_DEFENDER">
+			<Text>Trieu, kendisiyle savaşmayan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_LADY_TRIEU_ANY">
+			<Text>Bizimle savaşmayanlarla dostuz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_LADY_TRIEU_ANY">
+			<Text>Bize karşı savaşmak, asla affetmeyeceğimiz bir hatadır.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KUBLAI_PAX_NAME">
+			<Text>Moğol Barışı</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KUBLAI_PAX_DESCRIPTION">
+			<Text>Güçlü bir orduya ve yüksek Tur Başına Altın getirisine sahip uygarlıkları sever. Zayıf bir orduya veya düşük gelire sahip uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX_POSITIVE">
+			<Text>Kubilay Han, gücünüze ve gelirinize saygı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX_NEGATIVE">
+			<Text>Kubilay Han, zayıf ve yoksulları hor görür.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KUBLAI_PAX">
+			<Text>Kubilay Han, zengin ve güçlü uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Gücünüz ve zenginliğiniz size şeref verir.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_KUBLAI_KHAN_CHINA_ANY">
+			<Text>Yoksullar ve zayıflar, ayaklar altında ezilmek için vardır.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Gücünüz ve zenginliğiniz size şeref verir.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_KUBLAI_KHAN_MONGOLIA_ANY">
+			<Text>Yoksullar ve zayıflar, ayaklar altında ezilmek için vardır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

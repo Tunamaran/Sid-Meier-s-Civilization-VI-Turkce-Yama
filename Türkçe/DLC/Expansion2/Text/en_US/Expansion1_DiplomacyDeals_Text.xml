@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_NAME">
+			<Text>Devam Eden Savaşa Katıl</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_DESCRIPTION">
+			<Text>Başka bir oyuncunun, hedef bir uygarlığa karşı yürüttüğü savaşa katıl.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_NAME">
+			<Text>Altın Çağ Savaşı İlan Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_NAME">
+			<Text>İntikam Savaşı İlan Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_NAME">
+			<Text>İdeolojik Savaş İlan Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+			<Text>Dostluk İlan Edilmiş Bir Oyuncuyla İttifak Kur. Müttefikler savaşa giremez, otomatik olarak Açık Sınırlar elde eder, otomatik olarak bir Savunma Paktı oluşturur ve müttefiklerinden biri bir şehir kaybederse her biri saldırgan uygarlığa karşı bir Savaş Gerekçesi kazanır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

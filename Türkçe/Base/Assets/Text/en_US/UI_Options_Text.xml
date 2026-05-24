@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_OPTIONS_TITLE">
+			<Text>SEÇENEKLER</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
+			<Text>Bu işlem TÜM seçenekleri varsayılan değerlerine sıfırlayacaktır.[NEWLINE][NEWLINE][COLOR_RED]Bazı değişikliklerin etkili olması için uygulamayı yeniden başlatmanız gerekebilir.[ENDCOLOR][NEWLINE][NEWLINE]Seçenekler sıfırlansın mı?</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
+			<Text>Bazı değişikliklerin etkili olması için uygulamayı yeniden başlatmanız gerekebilir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
+			<Text>Bazı değişikliklerin etkili olması için mevcut oyunu yeniden başlatmanız gerekebilir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESOLUTION_OK">
+			<Text>Mevcut çözünürlük ayarlarını korumak istiyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
+			<Text>Evet</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
+			<Text>Hayır</Text>
+		</Row>
+
+		<!-- Option Enums -->
+
+		<Row Tag="LOC_OPTIONS_ENABLED">
+			<Text>Etkin</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_DISABLED">
+			<Text>Devre Dışı</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_MINIMUM">
+			<Text>Minimum</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LOW">
+			<Text>Düşük</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MEDIUM">
+			<Text>Orta</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HIGH">
+			<Text>Yüksek</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_ULTRA">
+			<Text>Ultra</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CUSTOM">
+			<Text>Özel</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_NONE">
+			<Text>Hiçbiri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_REAL_LIFE">
+			<Text>Yerel saatle eşle</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_X_TURNS">
+			<Text>Her {1_num} turda</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_10_TURNS">
+			<Text>Her 10 turda</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
+			<Text>Çağlar ilerledikçe</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_NEVER">
+			<Text>Asla</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_ALWAYS">
+			<Text>Her Zaman</Text>
+		</Row>
+
+		<!-- Gameplay Panel -->
+		<Row Tag="LOC_OPTIONS_TUTORIAL_EXPERIENCED_PLAYER">
+			<Text>Deneyimli Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP2">
+			<Text>Civilization VI - Toplayan Fırtına'ya Yeni</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP1">
+			<Text>Civilization VI - Yükseliş ve Çöküş'e Yeni</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
+			<Text>Civilization VI'ya Yeni</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
+			<Text>Civilization'a Yeni</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
+			<Text>Sıra Tabanlı Stratejiye Yeni</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
+			<Text>Animasyonlu Gün Döngüsü:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HISTORIC_MOMENT_ANIMATION">
+			<Text>Tarihi An Keşif Animasyonu:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TOUCH_ENABLED">
+			<Text>Dokunmatik Giriş Etkin</Text>
+		</Row>
+		<!-- Graphics Panel - Option Enums -->
+
+		<Row Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
+			<Text>30 FPS</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
+			<Text>20 FPS</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
+			<Text>60 FPS</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
+			<Text>Pencere Modu</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
+			<Text>Tam Ekran</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
+			<Text>Kenarlıksız Pencere</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_MSAA_2X">
+			<Text>MSAA 2X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_4X">
+			<Text>MSAA 4X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_8X">
+			<Text>MSAA 8X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_16X">
+			<Text>MSAA 16X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_32X">
+			<Text>MSAA 32X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MSAA_FULL">
+			<Text>MSAA Tam</Text>
+		</Row>
+		
+		<Row Tag="LOC_OPTIONS_CSAA_2X">
+			<Text>CSAA 2X / 4X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_4X">
+			<Text>CSAA 4X / 8X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_8X">
+			<Text>CSAA 8X / 16X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_16X">
+			<Text>CSAA 16X / 32X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_32X">
+			<Text>CSAA 32X / 64X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_CSAA_FULL">
+			<Text>CSAA Tam</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_EQAA_2X">
+			<Text>EQAA 2X / 4X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_4X">
+			<Text>EQAA 4X / 8X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_8X">
+			<Text>EQAA 8X / 16X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_16X">
+			<Text>EQAA 16X / 32X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_32X">
+			<Text>EQAA 32X / 64X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_EQAA_FULL">
+			<Text>EQAA Tam</Text>
+		</Row>
+			
+		<Row Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
+			<Text>Düşük (Bellek Optimizasyonlu)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
+			<Text>Düşük (Performans Optimizasyonlu)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
+			<Text>Orta (Bellek Optimizasyonlu)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
+			<Text>Orta (Performans Optimizasyonlu)</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_REFLECTION_1PASS">
+			<Text>1 Geçiş</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_REFLECTION_2PASSES">
+			<Text>2 Geçiş</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_REFLECTION_3PASSES">
+			<Text>3 Geçiş</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_REFLECTION_4PASSES">
+			<Text>4 Geçiş</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_LEADERS_STATIC">
+			<Text>Statik (Ses Yok)</Text>
+		</Row>
+    
+		<Row Tag="LOC_OPTIONS_100_PERCENT">
+			<Text>%100</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_150_PERCENT">
+			<Text>%150</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_200_PERCENT">
+			<Text>%200</Text>
+		</Row>
+
+		<!-- Graphics Panel - Main -->
+
+		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
+			<Text>GPU Seçimi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
+			<Text>Oyunun hangi grafik kartını kullanacağını belirler.[NEWLINE][NEWLINE][COLOR_RED]Uygulamanın yeniden başlatılmasını gerektirir![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT">
+			<Text>Bölünmüş Ekran Çoklu GPU</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP">
+			<Text>Yalnızca DX12 çoklu GPU düzeneklerinde kullanılabilir.[NEWLINE][NEWLINE][COLOR_RED]Uygulamanın yeniden başlatılmasını gerektirir![ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
+			<Text>Çözünürlük:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
+			<Text>Oyunun görüntülendiği çözünürlüğü ayarlar.[NEWLINE][NEWLINE]Daha düşük değerler, [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
+			<Text>Arayüz Büyütme:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
+			<Text>Kullanıcı arayüzünün boyutunu artırır.[NEWLINE](Yalnızca belirli çözünürlüklerde kullanılabilir.)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
+			<Text>Pencere Modu:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
+			<Text>Oyun penceresinin görüntülenme şeklini değiştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
+			<Text>Performans Etkisi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
+			<Text>İstenen performans etkisine uyacak şekilde gelişmiş ayarları değiştirir.[NEWLINE][NEWLINE]Düşük değerler görsel kaliteyi düşürür ancak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
+			<Text>Bellek Etkisi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
+			<Text>Gelişmiş ayarları istenen bellek etkisine uyacak şekilde değiştirir.[NEWLINE][NEWLINE]Düşük değerler görsel kaliteyi azaltır, ancak [COLOR_Blue]bellek kullanımını düşürür[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Advanced -->
+
+		<Row Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
+			<Text>Gelişmiş Seçenekleri Göster</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
+			<Text>Gelişmiş Seçenekleri Gizle</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
+			<Text>Gelişmiş Grafik Ayarları</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
+			<Text>Dikey Senkronizasyon</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
+			<Text>Görüntü yırtılmasını önler.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
+			<Text>Kare Hızı Sınırlayıcısı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
+			<Text>Oyunun işleme hızını sınırlar.[NEWLINE][NEWLINE]Etkinleştirildiğinde taşınabilir cihazlarda pil ömrünü artırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
+			<Text>Kenar Yumuşatma:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
+			<Text>Pürüzlü kenarları yumuşatır.[NEWLINE][NEWLINE]Düşük değerler [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR] ve [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
+			<Text>Yüksek Çözünürlüklü Varlık Dokuları</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
+			<Text>Oyun varlıkları için yüksek detaylı dokular kullanır.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
+			<Text>Yüksek Kaliteli Görsel Efektler:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
+			<Text>Daha fazla parçacık efekti oluşturur.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Lighting -->
+
+		<Row Tag="LOC_OPTIONS_LIGHTING">
+			<Text>Aydınlatma</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
+			<Text>Ortam Işığı Kapatma</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
+			<Text>Ortam ışığına daha az maruz kalan nesnelerin alanlarını karartır.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
+			<Text>Ortam Işığı Kapatma Derinlik Çözünürlüğü:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
+			<Text>Ortam ışığı kapatma detayını değiştirir.[NEWLINE][NEWLINE]Düşük değerler [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
+			<Text>Ambient Occlusion Render Çözünürlüğü:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
+			<Text>Ambient occlusion kalitesini değiştirir.[NEWLINE][NEWLINE]Düşük değerler [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
+			<Text>Bloom</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
+			<Text>Parlak ışıklara ve yansımalara parıltı ekler.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
+			<Text>Dinamik Aydınlatma</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
+			<Text>Güneş dışındaki ışık kaynaklarını ekler.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Shadows -->
+
+		<Row Tag="LOC_OPTIONS_SHADOWS">
+			<Text>Gölgeler</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
+			<Text>Gölgeler</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
+			<Text>Bir nesne tarafından ışığın engellendiği yerlere karanlık alanlar ekler.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
+			<Text>Gölge Çözünürlüğü:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
+			<Text>Gölgelerin keskinliğini ve detayını değiştirir.[NEWLINE][NEWLINE]Düşük değerler [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_CLOUD_SHADOWS_ENABLED_TEXT">
+      <Text>Bulut Gölgeleri</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CLOUD_SHADOWS_ENABLED_TOOLTIP">
+      <Text>Bulutlar tarafından ışığın engellendiği yerlere karanlık alanlar ekler.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+    </Row>
+
+		<!-- Graphics Panel - Overlay -->
+
+		<Row Tag="LOC_OPTIONS_OVERLAY">
+			<Text>Kaplama</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
+			<Text>Ekran Kaplaması</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
+			<Text>Kaplamaları yalnızca arazinin üzerinde değil, her şeyin üzerinde çizer.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Terrain -->
+
+		<Row Tag="LOC_OPTIONS_TERRAIN">
+			<Text>Arazi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
+			<Text>Kalite:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
+			<Text>Arazi detayını değiştirir.[NEWLINE][NEWLINE]Düşük değerler [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR] ve/veya [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
+			<Text>Yüksek Çözünürlüklü Geometri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
+			<Text>Arazi geometrisi daha keskin ve ayrıntılı hale gelir.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT">
+			<Text>Yüksek Çözünürlüklü Dokular</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP">
+			<Text>Arazi dokuları daha keskin ve ayrıntılı hale gelir.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
+			<Text>Yüksek Kaliteli Gölgelendirici</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
+			<Text>Arazi aydınlatmasını değiştirir.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR] ve [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
+			<Text>Yüksek Ayrıntılı Dağınıklık</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
+			<Text>Ağaç ve buz kütlelerinin miktarını artırır.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+
+		<!-- Graphics Panel - Water -->
+
+		<Row Tag="LOC_OPTIONS_WATER">
+			<Text>Su</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
+			<Text>Yüksek Çözünürlüklü Su</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
+			<Text>Su dalgaları ve parlak noktalar daha keskin ve ayrıntılı hale gelir.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
+			<Text>Yüksek Kaliteli Gölgelendirici</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
+			<Text>Su aydınlatmasını değiştirir.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
+			<Text>Yansımalar:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
+			<Text>Su yansımalarının kalitesini kontrol eder.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+		</Row>
+
+    <!-- Graphics Panel - Reflections -->
+
+    <Row Tag="LOC_OPTIONS_REFLECTIONS">
+      <Text>Yansımalar</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_REFLECTIONS_ENABLED_TEXT">
+      <Text>Yansımalar</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_REFLECTIONS_ENABLED_TOOLTIP">
+      <Text>Arazi ve suya yansıma ekler.[NEWLINE][NEWLINE]Devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artırır[ENDCOLOR].</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_REFLECTION_PASSES_TEXT">
+      <Text>Yansıma Kalitesi:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_REFLECTION_PASSES_TOOLTIP">
+      <Text>Yansımaların kalitesini kontrol eder.[NEWLINE][NEWLINE]Daha az geçiş kullanmak veya devre dışı bırakmak [COLOR_Civ6DarkRed]performansı artıracaktır[ENDCOLOR].</Text>
+    </Row>
+    
+    <!-- Graphics Panel - Leaders -->
+
+		<Row Tag="LOC_OPTIONS_LEADERS">
+			<Text>Canlandırılmış Liderler</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
+			<Text>Kalite:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
+			<Text>Liderlerin görsel-işitsel kalitesini değiştirir.[NEWLINE][NEWLINE][COLOR_Civ6DarkRed]Devre dışı bırakmak performansı artırır[ENDCOLOR] ve düşük değerler [COLOR_Blue]bellek kullanımını azaltır[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TEXT">
+			<Text>Hareket Bulanıklığı</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TOOLTIP">
+			<Text>Liderlerde hareket bulanıklığını etkinleştirir.</Text>
+		</Row>
+
+		<!-- Application Panel -->
+
+		<Row Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
+			<Text>Giriş Videosunu Göster:</Text>
+		</Row>
+		
+		<Row Tag="LOC_OPTIONS_APP_WARN_MOD_COMPATIBILITY">
+			<Text>Mod uyumluluğu hakkında uyar</Text>
+		</Row>
+
+		<!-- Interface Panel -->
+
+		<Row Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
+			<Text>Fareyi Pencereye Kilitle:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
+			<Text>Fare Kenardayken Kaydır:</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE_OPEN_TO_PROD_QUEUE">
+      <Text>Üretim Sırasını Her Zaman Aç:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE_FORCE_CLICK_TO_DRAG">
+      <Text>Basılı Tut-Sürükle'yi Tıklamalarla Değiştir:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE_FORCE_CLICK_TO_DRAG_TT">
+      <Text>Bu seçenek, sürüklenebilir arayüz öğelerinin Basılı Tut-Sürükle davranışını, alıp bırakmak için basit tıklamalarla değiştirir.</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
+			<Text>Saat Biçimi:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_12HOUR">
+			<Text>12 Saatlik</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_24HOUR">
+			<Text>24 Saatlik</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
+			<Text>Gün Saati Davranışı:</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_AUTO_UNIT_CYCLING">
+      <Text>Otomatik Birim Geçişi:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CHAT_TEXT_SIZE">
+      <Text>Sohbet için Metin Boyutu:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CHAT_TEXT_SIZE_VALUE">
+      <Text>{1_Value : number #.##}</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_MINIMAP_SIZE">
+			<Text>Mini Harita Boyutu:</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY">
+      <Text>Bilgi İpucu Gecikmesi:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE">
+      <Text>{1_Value : number #.##}s</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SCROLL_SPEED">
+      <Text>Fare Tekerlek Hızı:</Text>
+    </Row>		
+    <Row Tag="LOC_OPTIONS_SCROLL_SPEED_VALUE">
+      <Text>{1_Value : number #.##}</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SCROLL_TEXT_SPEED">
+        <Text>Metin Kaydırma Hızı:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SCROLL_TEXT_SPEED_VALUE">
+        <Text>{1_Value : number #.##}</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_RIBBON_STATS_LABEL">
+			<Text>HUD Şeridinde Getirileri Göster:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RIBBON_STATS_ALWAYS_HIDE">
+			<Text>Her Zaman Gizle (kapalı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RIBBON_STATS_MOUSE_OVER">
+			<Text>Fare Üzerine Gelince Göster</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_RIBBON_STATS_ALWAYS_SHOW">
+			<Text>Her Zaman Göster</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_PLAYBYCLOUD_END_TURN_BEHAVIOR">
+			<Text>Bulut Üzerinden Oyun Tur Bitir Davranışı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_END_TURN_BEHAVIOR_ASK_ME">
+			<Text>Bana Sor</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_END_TURN_BEHAVIOR_DO_NOTHING">
+			<Text>Hiçbir Şey Yapma</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_END_TURN_BEHAVIOR_EXIT_TO_MAINMENU">
+			<Text>Ana Menüye Çık</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_PLAYBYCLOUD_READY_BEHAVIOR">
+			<Text>Bulut Üzerinden Oyun Hazır Davranışı:</Text>
+		</Row>	
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_READY_BEHAVIOR_ASK_ME">
+			<Text>Bana Sor</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_READY_BEHAVIOR_DO_NOTHING">
+			<Text>Hiçbir Şey Yapma</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_READY_BEHAVIOR_EXIT_TO_LOBBY">
+			<Text>Lobiye Çık</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_INTERFACE_PLAYBYCLOUD_CLIENT_READY_BEHAVIOR">
+			<Text>Bulut Üzerinden Oyun İstemci Hazır Davranışı:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_CLIENT_READY_BEHAVIOR_ASK_ME">
+			<Text>Bana Sor</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_CLIENT_READY_BEHAVIOR_DO_NOTHING">
+			<Text>Hiçbir Şey Yapma</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PLAYBYCLOUD_CLIENT_READY_BEHAVIOR_EXIT_TO_LOBBY">
+			<Text>Lobiye Çık</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_INTERFACE_COLOR_BLINDNESS_ADAPTATION">
+        <Text>Renk Körlüğü Erişilebilirliği:</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CBADAPT_DO_NOTHING">
+        <Text>Varsayılan Renkler</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CBADAPT_PROTANOPIA">
+        <Text>Kırmızı Renk Körlüğü (Protanopi)</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CBADAPT_DEUTERANOPIA">
+        <Text>Yeşil Renk Körlüğü (Deuteranopi)</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CBADAPT_TRITANOPIA">
+        <Text>Mavi Renk Körlüğü (Tritanopi)</Text>
+    </Row>
+	<Row Tag="LOC_OPTIONS_INTERFACE_LIGHTING">
+		<Text>Uyumlu RGB aydınlatma donanımını kullan</Text>
+	</Row>
+	<Row Tag="LOC_OPTIONS_INTERFACE_LIGHTING_TOOLTIP">
+		<Text>Civilization VI'nın, Logitech Gaming Software veya Alienware AlienFX ile uyumlu bilgisayar ve çevre birimlerindeki aydınlatmayı kontrol etmesine olanak tanır.</Text>
+	</Row>
+    <Row Tag="LOC_OPTIONS_SWITCH_UI_LAYOUT">
+      <Text>Kullanıcı Arayüzü Düzenini Değiştir</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_LAYOUT_PC">
+      <Text>PC / Klavye ve Fare</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_LAYOUT_CONSOLE">
+      <Text>Konsol / Oyun Kumandası</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_QUEUE_DISPLAY">
+			<Text>Üretim Kuyruğu:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_QUEUE_HIDE">
+			<Text>Gizle</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_QUEUE_SHOW_FILLED">
+			<Text>Dolduğunda Göster</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_QUEUE_ALWAYS_SHOW">
+			<Text>Şehir Kuyruğunu Her Zaman Göster</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_QUEUE_ALWAYS_SHOW_MANGER">
+			<Text>Kuyruk Yöneticisini Her Zaman Göster</Text>
+		</Row>
+
+		<!-- Hotkeys Panel -->		
+    <!-- Expansion 2 - Additional Hotkeys-->
+    <Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP2">
+			<Text>Kullanıcı Arayüzü (Toplayan Fırtına):</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_WORLDCLIMATE">
+			<Text>Dünya İklimi Pop-up'ını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_WORLDCLIMATE_HELP">
+			<Text>Dünya İklimi Ekranının görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POWER">
+			<Text>Enerji</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POWER_HELP">
+			<Text>Enerji Merceğini Açıp Kapatır.</Text>
+		</Row>
+    		
+		<!-- Expansion 1 - Additional Hotkeys-->
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
+			<Text>Valiler Açılır Penceresini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS_HELP">
+			<Text>Valiler Ekranının görünürlüğünü açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE">
+			<Text>Zaman Çizelgesi Açılır Penceresini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE_HELP">
+			<Text>Tarihi Zaman Çizelgesi Ekranının görünürlüğünü açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS">
+			<Text>Çağ İlerlemesi Panelini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS_HELP">
+			<Text>Çağ İlerlemesi Panelinin görünürlüğünü açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY">
+			<Text>Başkent</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY_HELP">
+			<Text>Başkente geçiş yapar.</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP1">
+			<Text>Kullanıcı Arayüzü (Yükseliş ve Çöküş):</Text>
+		</Row>
+
+		<!-- Base Game Hot Keys-->
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
+			<Text>Kullanıcı Arayüzü:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
+			<Text>Teknoloji Ağacını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
+			<Text>Yönetim Bilimleri Ağacını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
+			<Text>Hükümet Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
+			<Text>Din Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
+			<Text>Büyük Şahsiyetler Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
+			<Text>Büyük Eserler Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
+			<Text>Sıralamalar Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
+			<Text>Şehir Devletleri Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
+			<Text>Casusluk Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
+			<Text>Ticaret Yolları Ekranını Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
+			<Text>Civilopedia'yı Aç</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVBACK">
+			<Text>Civilopedia Geçmişinde Geri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVFWD">
+			<Text>Civilopedia Geçmişinde İleri</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_FSMAP">
+			<Text>Tam Ekran Haritayı Aç/Kapat</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
+			<Text>Teknoloji Ağacı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
+			<Text>Yönetim Bilimleri Ağacı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
+			<Text>Hükümet Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
+			<Text>Din Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
+			<Text>Büyük Kişiler Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
+			<Text>Büyük Eserler Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
+			<Text>Sıralamalar Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
+			<Text>Şehir Devletleri Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
+			<Text>Casusluk Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
+			<Text>Ticaret Yolları Ekranı'nın görünürlüğünü açar/kapatır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
+			<Text>Civilopedia'yı açar</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVBACK_HELP">
+			<Text>Civilopedia açıkken sayfa geçmişinde geri gider</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_CIVFWD_HELP">
+			<Text>Civilopedia açıkken sayfa geçmişinde ileri gider</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UI_FSMAP_HELP">
+			<Text>Tam Ekran Harita görünürlüğünü açar/kapatır</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
+			<Text>Birim Eylemleri:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
+			<Text>Şehir Kur</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
+			<Text>Şuraya Taşı</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
+			<Text>Tahkim Et</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HEAL">
+			<Text>Tahkimli İyileş</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
+			<Text>Birimi Sil</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
+			<Text>Saldır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
+			<Text>Menzilli Saldırı</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
+			<Text>Otomatik Keşif</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
+			<Text>Turu Atla</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
+			<Text>Uyku</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
+			<Text>Tetikte Ol</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_ALL_AUTOSAVES">
+			<Text>Tümü</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
+			<Text>Seçili birim Yerleşimci ise Şehir Kur eylemini gerçekleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
+			<Text>Seçili birim ile Şuraya Taşı eylemini gerçekleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
+			<Text>Seçili birimi tahkim eder.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HEAL_HELP">
+			<Text>Seçili birimi tamamen iyileşene kadar tahkim eder.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
+			<Text>Seçili birimi siler.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
+			<Text>Seçili birim ile Saldır eylemini gerçekleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
+			<Text>Seçili birim ile Menzilli Saldırı eylemini gerçekleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
+			<Text>Seçili birimde otomatik keşfi etkinleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
+			<Text>Seçili birim, mevcut turu atlar.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
+			<Text>Seçili birim ile Uyku eylemini gerçekleştirir.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
+			<Text>Seçili birim ile Tetikte Olma eylemini gerçekleştirir.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
+			<Text>Genel Eylemler:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
+			<Text>Sonraki Eylem</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
+			<Text>Izgara Geçişi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
+			<Text>Oyun İçi Menü</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
+			<Text>Hızlı Kaydetme</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
+			<Text>Hızlı Yükleme</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT">
+			<Text>Sonraki Hazır Birim</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT">
+			<Text>Önceki Hazır Birim</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD">
+			<Text>Getiri Simgeleri Geçişi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
+			<Text>Yukarı Kaydır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
+			<Text>Aşağı Kaydır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
+			<Text>Sola Kaydır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
+			<Text>Sağa Kaydır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMIN">
+			<Text>Yakınlaştır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMOUT">
+			<Text>Uzaklaştır</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
+			<Text>Sonraki Şehir</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY">
+			<Text>Önceki Şehir</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
+			<Text>Kaynak Simgelerini Aç/Kapat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW">
+			<Text>Stratejik Görünümü Aç/Kapat</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
+			<Text>Oyuncunun turunu, mümkünse, sonlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
+			<Text>Arazi üzerindeki ızgarayı açar/kapar.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
+			<Text>Oyun içi menüyü açar.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
+			<Text>Hızlı kaydetme yapar.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
+			<Text>Varsa en son hızlı kaydı yükler.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
+			<Text>Bir sonraki hazır birliğe geçer.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP">
+			<Text>Bir önceki hazır birliğe geçer.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
+			<Text>Getiri simgelerinin görünürlüğünü açar/kapar.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
+			<Text>Harita görünümünü yukarı kaydırır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP">
+			<Text>Harita görünümünü aşağı kaydırır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP">
+			<Text>Harita görünümünü sola kaydırır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP">
+			<Text>Harita görünümünü sağa kaydırır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
+			<Text>Bir sonraki şehre geçer.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
+			<Text>Bir önceki şehre geçer.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
+			<Text>Kaynak simgelerinin görünürlüğünü açar/kapar.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
+			<Text>Oyunu standart ve stratejik (2B) görünümler arasında geçiştirir.</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
+			<Text>Çevrimiçi Eylemler:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
+			<Text>Çevrimiçi Duraklatma</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
+			<Text>Çevrimiçi bir oyunu duraklatır.</Text>
+		</Row>
+
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
+			<Text>Mercekler:</Text>
+		</Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
+			<Text>Din</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
+			<Text>Kıta</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
+			<Text>Çekicilik</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
+			<Text>Yerleşimci</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
+			<Text>Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
+			<Text>Siyasi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM">
+			<Text>Turizm</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY">
+			<Text>Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_EMPIRE">
+			<Text>İmparatorluk</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR">
+      <Text>İmleci Hareket Ettir</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR">
+      <Text>Sol Tık İmleci</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_UP">
+      <Text>Kamerayı Yukarı Kaydır</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_DOWN">
+      <Text>Kamerayı Aşağı Kaydır</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_LEFT">
+      <Text>Kamerayı Sola Kaydır</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT">
+      <Text>Kamerayı Sağa Kaydır</Text>
+    </Row>
+
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
+			<Text>Din merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
+			<Text>Kıta merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
+			<Text>Çekicilik merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
+			<Text>Yerleşimci merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP">
+			<Text>Hükümet merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
+			<Text>Siyasi merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
+			<Text>Turizm merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY_HELP">
+			<Text>Bağlılık merceğini açar/kapatır.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_EMPIRE_HELP">
+			<Text>İmparatorluk merceğini açar/kapatır.</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR_HELP">
+      <Text>Analog çubukları kullanarak imleç hareketini taklit eder.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR_HELP">
+      <Text>İmlecin sol tıklamasını taklit eder.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_UP_HELP">
+      <Text>Oyun kamerasını yukarı kaydırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_DOWN_HELP">
+      <Text>Oyun kamerasını aşağı kaydırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_LEFT_HELP">
+      <Text>Oyun kamerasını sola kaydırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT_HELP">
+      <Text>Oyun kamerasını sağa kaydırır.</Text>
+    </Row>
+
+    <!-- Console Actions -->
+    <Row Tag="LOC_OPTIONS_FOCUS_NEXT">
+      <Text>Sonraki</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_FOCUS_NEXT_HELP">
+      <Text>Odağı sağdaki bir sonraki seçeneğe taşır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_FOCUS_PREV">
+      <Text>Önceki</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_FOCUS_PREV_HELP">
+      <Text>Odağı soldaki bir önceki seçeneğe taşır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SELECT">
+      <Text>Seç</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SELECT_HELP">
+      <Text>Geçerli seçeneği veya vurgulanmış parseli seçer.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_BACK">
+      <Text>Geri</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_BACK_HELP">
+      <Text>Geçerli menüyü kapatır veya mevcut seçimi kaldırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_NEXT_ACTION">
+      <Text>Sonraki Eylem</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_NEXT_ACTION_HELP">
+      <Text>Sıradaki turu engelleyen ve yapılması gereken eylemi seçer.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_NOTIFICATIONS">
+      <Text>Bildirimler</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_NOTIFICATIONS_HELP">
+      <Text>Bildirim menüsünü açar.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TOGGLE_TOOLTIPS">
+      <Text>Araç İpuçlarını Aç/Kapat</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_TOGGLE_TOOLTIPS_HELP">
+      <Text>Seçili menüdeki araç ipuçlarını etkinleştirir/devre dışı bırakır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INGAME_MENU">
+      <Text>Oyun İçi Menü</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_INGAME_MENU_HELP">
+      <Text>Oyun içi menüyü açar.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_NAVIGATE_MAP">
+      <Text>Haritada Gezinme</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_NAVIGATE_MAP_HELP">
+      <Text>Haritada parsel seçimini kontrol eder.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN">
+      <Text>Kamerayı Kaydır</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_CAMERA_PAN_HELP">
+      <Text>Harita seçiliyken kamerayı kaydırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SELECT_CENTER_PLOT">
+      <Text>Merkez Parseli Seç</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_SELECT_CENTER_PLOT_HELP">
+      <Text>Kameranın ortasındaki parseli seçer.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_ZOOM_IN">
+      <Text>Yakınlaştır</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_ZOOM_IN_HELP">
+      <Text>Harita kamerayı yakınlaştırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_ZOOM_OUT">
+      <Text>Uzaklaştır</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_ZOOM_OUT_HELP">
+      <Text>Harita kamerayı uzaklaştırır.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_UP">
+      <Text>Menü Yukarı</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_UP_HELP">
+      <Text>Geçerli seçimin üzerindeki menü öğesini seçer.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_DOWN">
+      <Text>Menü Aşağı</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_DOWN_HELP">
+      <Text>Geçerli seçimin altındaki menü öğesini seçer.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_LEFT">
+      <Text>Menü Sol</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_LEFT_HELP">
+      <Text>Geçerli seçimin solundaki menü öğesini seçer.</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_RIGHT">
+      <Text>Menü Sağ</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MENU_RIGHT_HELP">
+      <Text>Geçerli seçimin sağındaki menü öğesini seçer.</Text>
+    </Row>
+    <!-- End Console Actions -->
+	
+		<Row Tag="LOC_OPTIONS_KEY_UNDERSCORE">
+			<Text>_</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_A">
+			<Text>A</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_B">
+			<Text>B</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_C">
+			<Text>C</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_D">
+			<Text>D</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_E">
+			<Text>E</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F">
+			<Text>F</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_G">
+			<Text>G</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_H">
+			<Text>H</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_I">
+			<Text>I</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_J">
+			<Text>J</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_K">
+			<Text>K</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_L">
+			<Text>L</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_M">
+			<Text>M</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_N">
+			<Text>N</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_O">
+			<Text>O</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_P">
+			<Text>P</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_Q">
+			<Text>Q</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_R">
+			<Text>R</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_S">
+			<Text>S</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_T">
+			<Text>T</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_U">
+			<Text>U</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_V">
+			<Text>V</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_W">
+			<Text>W</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_X">
+			<Text>X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_Y">
+			<Text>Y</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_Z">
+			<Text>Z</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_0">
+			<Text>0</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_1">
+			<Text>1</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_2">
+			<Text>2</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_3">
+			<Text>3</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_4">
+			<Text>4</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_5">
+			<Text>5</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_6">
+			<Text>6</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_7">
+			<Text>7</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_8">
+			<Text>8</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_9">
+			<Text>9</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_0">
+			<Text>0 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_1">
+			<Text>1 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_2">
+			<Text>2 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_3">
+			<Text>3 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_4">
+			<Text>4 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_5">
+			<Text>5 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_6">
+			<Text>6 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_7">
+			<Text>7 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_8">
+			<Text>8 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_9">
+			<Text>9 (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
+			<Text>* (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_PLUS">
+			<Text>+ (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_MINUS">
+			<Text>- (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
+			<Text>. (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
+			<Text>/ (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NP_CENTER">
+			<Text>Ortala (Sayısal Tuş Takımı)</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F1">
+			<Text>F1</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F2">
+			<Text>F2</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F3">
+			<Text>F3</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F4">
+			<Text>F4</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F5">
+			<Text>F5</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F6">
+			<Text>F6</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F7">
+			<Text>F7</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F8">
+			<Text>F8</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F9">
+			<Text>F9</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F10">
+			<Text>F10</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F11">
+			<Text>F11</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F12">
+			<Text>F12</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F13">
+			<Text>F13</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F14">
+			<Text>F14</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F15">
+			<Text>F15</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F16">
+			<Text>F16</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F17">
+			<Text>F17</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F18">
+			<Text>F18</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F19">
+			<Text>F19</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F20">
+			<Text>F20</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F21">
+			<Text>F21</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F22">
+			<Text>F22</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F23">
+			<Text>F23</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_F24">
+			<Text>F24</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_INSERT">
+			<Text>Ekle</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_HOME">
+			<Text>Ana Sayfa</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PAGEUP">
+			<Text>Yukarı Sayfa</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_DELETE">
+			<Text>Sil</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_END">
+			<Text>Son</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PAGEDOWN">
+			<Text>Aşağı Sayfa</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LEFT">
+			<Text>Sol Ok</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_UP">
+			<Text>Yukarı Ok</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RIGHT">
+			<Text>Sağ Ok</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_DOWN">
+			<Text>Aşağı Ok</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SEMICOLON">
+			<Text>;</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PLUS">
+			<Text>=</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_COMMA">
+			<Text>,</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MINUS">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PERIOD">
+			<Text>.</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SLASH">
+			<Text>/</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_TILDE">
+			<Text>~</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LBRACKET">
+			<Text>[</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_BACKSLASH">
+			<Text>\</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RBRACKET">
+			<Text>]</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_QUOTE">
+			<Text>"</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
+			<Text>Print Scrn</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_PAUSE">
+			<Text>Duraklat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SPACE">
+			<Text>Boşluk</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_TAB">
+			<Text>Tab</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RETURN">
+			<Text>Enter</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_ESCAPE">
+			<Text>Esc</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_BACKSPACE">
+			<Text>Backspace</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_CANCEL">
+			<Text>İptal</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SHIFT">
+			<Text>Shift</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_CONTROL">
+			<Text>Control</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_ALT">
+			<Text>Alt</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LSHIFT">
+			<Text>Sol Shift</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LCONTROL">
+			<Text>Sol Control</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LALT">
+			<Text>Sol Alt</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RSHIFT">
+			<Text>Sağ Shift</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RCONTROL">
+			<Text>Sağ Control</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RALT">
+			<Text>Sağ Alt</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LBUTTON">
+			<Text>Sol Fare Düğmesi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RBUTTON">
+			<Text>Sağ Fare Düğmesi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MBUTTON">
+			<Text>Orta Fare Düğmesi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_CAPSLOCK">
+			<Text>Büyük Harf Kilidi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_NUMLOCK">
+			<Text>Sayı Kilidi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
+			<Text>Kaydırma Kilidi</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_LWIN">
+			<Text>Sol Windows Tuşu</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_RWIN">
+			<Text>Sağ Windows Tuşu</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_APPS">
+			<Text>Uygulama Tuşu</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_MOUSE_L">
+      <Text>Sol Fare</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MOUSE_R">
+      <Text>Sağ Fare</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_MOUSE_M">
+      <Text>Orta Fare</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_MOUSE_X">
+			<Text>Fare {1_ButtonIndex}</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MOUSE_X1">
+			<Text>Fare X1</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_MOUSE_X2">
+			<Text>Fare X2</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_A">
+			<Text>Kumanda A</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_B">
+			<Text>Kumanda B</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_X">
+			<Text>Kumanda X</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_Y">
+			<Text>Kumanda Y</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_RSHOULDER">
+			<Text>Kumanda RB</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LSHOULDER">
+			<Text>Kumanda LB</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_LTRIGGER">
+			<Text>Kumanda LT</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_PAD_LTRIGGER_CLICK">
+      <Text>Kumanda LT Tıklama</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_PAD_RTRIGGER">
+			<Text>Kumanda RT</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_PAD_RTRIGGER_CLICK">
+      <Text>Kumanda RT Tıklama</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_UP">
+			<Text>Kumanda Yön Tuşu Yukarı</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
+			<Text>Kumanda Yön Tuşu Aşağı</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
+			<Text>Kumanda Yön Tuşu Sol</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
+			<Text>Kumanda Yön Tuşu Sağ</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_UP">
+      <Text>Kumanda Sağ Yön Tuşu Yukarı</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_DOWN">
+      <Text>Kumanda Sağ Yön Tuşu Aşağı</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_LEFT">
+      <Text>Kumanda Sağ Yön Tuşu Sol</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_RIGHT">
+      <Text>Kumanda Sağ Yön Tuşu Sağ</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_PAD_START">
+			<Text>Kumanda Başlat</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_PAD_BACK">
+			<Text>Kumanda Geri</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
+      <Text>Kumanda Sol Çubuk Basma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
+      <Text>Kumanda Sağ Çubuk Basma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS">
+      <Text>Kumanda Sol Çubuk</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS">
+      <Text>Kumanda Sağ Çubuk</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_LEFT_GRIP">
+      <Text>Sol Tutma Yeri</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_GRIP">
+      <Text>Sağ Tutma Yeri</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_TOUCH">
+      <Text>Sol Dokunmatik Yüzey Dokunma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_SWIPE">
+      <Text>Sol Dokunmatik Yüzey Kaydırma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_CLICK">
+      <Text>Sol Dokunmatik Yüzey Tıklama</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_TOUCH">
+      <Text>Orta Dokunmatik Yüzey Dokunma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_SWIPE">
+      <Text>Orta Dokunmatik Yüzey Kaydırma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_CLICK">
+      <Text>Orta Dokunmatik Yüzey Tıklama</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_TOUCH">
+      <Text>Sağ Dokunmatik Yüzey Dokunma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_SWIPE">
+      <Text>Sağ Dokunmatik Yüzey Kaydırma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_CLICK">
+      <Text>Sağ Dokunmatik Yüzey Tıklama</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_GYRO_MOVE">
+      <Text>Jiroskop Hareket</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_GYRO_PITCH">
+      <Text>Jiroskop Yunuslama</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_GYRO_YAW">
+      <Text>Jiroskop Sapma</Text>
+    </Row>
+    <Row Tag="LOC_OPTIONS_PAD_GYRO_ROLL">
+      <Text>Jiroskop Yuvarlanma</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
+			<Text>Sessiz</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
+			<Text>Ses Kıs</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_VOLUME_UP">
+			<Text>Ses Aç</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
+			<Text>Sonraki Parça</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
+			<Text>Önceki Parça</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
+			<Text>Durdur</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
+			<Text>Oynat / Duraklat</Text>
+		</Row>
+    <Row Tag="LOC_OPTIONS_PAD_TOOLTIP_REFRESH">
+      <Text>Araç İpucunu Yenile</Text>
+    </Row>
+		<Row Tag="LOC_OPTIONS_KEY_NUM_KEYS">
+			<Text>Sayı Tuşları</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_SUBTITLES">
+			<Text>Sinematik Altyazılar:</Text>
+		</Row>
+	</FrontEndText>
+</GameData>
+

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Writings-->
+		<Row Tag="LOC_GREATWORK_BHASA_1_NAME">
+			<Text>Madhyama Vyayoga</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BHASA_2_NAME">
+			<Text>Pratima-nataka</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_1_NAME">
+			<Text>İlyada</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_2_NAME">
+			<Text>Odysseia</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_1_NAME">
+			<Text>Dönüşümler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_2_NAME">
+			<Text>Heroisler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_1_NAME">
+			<Text>Chu Ci (Chu Şarkıları)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_2_NAME">
+			<Text>Ying için Ağıt</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_1_NAME">
+			<Text>Canterbury Hikâyeleri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_2_NAME">
+			<Text>Troilus ve Criseyde</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_1_NAME">
+			<Text>Ay Işığında Yalnız İçerken</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_2_NAME">
+			<Text>Bir Yaz Günü Dağlarda</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_1_NAME">
+			<Text>Murasaki Hanım'ın Günlüğü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_2_NAME">
+			<Text>Genji'nin Hikâyesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_1_NAME">
+			<Text>Parlayan Dünya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_2_NAME">
+			<Text>Deneysel Felsefe Üzerine Gözlemler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_1_NAME">
+			<Text>Don Kişot</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_2_NAME">
+			<Text>Novelas Ejemplares (Örnek Romanlar)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_1_NAME">
+			<Text>Livy Üzerine Söylevler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_2_NAME">
+			<Text>Prens</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_1_NAME">
+			<Text>Romeo ve Juliet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_2_NAME">
+			<Text>Hamlet</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_1_NAME">
+			<Text>Güzel Altın Saçlı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_2_NAME">
+			<Text>Yunus</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_1_NAME">
+			<Text>Yevgeni Onegin</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_2_NAME">
+			<Text>Boris Godunov</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_1_NAME">
+			<Text>Gammaz Yürek</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_2_NAME">
+			<Text>Kuzgun</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_1_NAME">
+			<Text>Gurur ve Önyargı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_2_NAME">
+			<Text>Sağduyu ve Duyarlılık</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_1_NAME">
+			<Text>Faust</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_2_NAME">
+			<Text>Genç Werther'in Acıları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_1_NAME">
+			<Text>Frankenstein</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_2_NAME">
+			<Text>Son İnsan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MUIS_1_NAME">
+			<Text>Salah Asuhan (Yanlış Yetiştirme)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MUIS_2_NAME">
+			<Text>Pertemuan Jodoh (Ruh Eşlerinin Buluşması)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_1_NAME">
+			<Text>Ulysses</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_2_NAME">
+			<Text>Dublinliler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_1_NAME">
+			<Text>Bir Kuş Geldi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_2_NAME">
+			<Text>Başarı En Tatlı Sayılır</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_1_NAME">
+			<Text>Savaş ve Barış</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_2_NAME">
+			<Text>Anna Karenina</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_1_NAME">
+			<Text>Huckleberry Finn'in Maceraları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_2_NAME">
+			<Text>Tom Sawyer'ın Maceraları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_1_NAME">
+			<Text>Cennetin Bu Yakası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_2_NAME">
+			<Text>Güzel ve Lanetli</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_1_NAME">
+			<Text>Dünyalar Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_2_NAME">
+			<Text>Zaman Makinesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_1_NAME">
+			<Text>Ev ve Dünya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_2_NAME">
+			<Text>Bahçıvan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_1_NAME">
+			<Text>Rossum'un Evrensel Robotları (R.U.R.)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_2_NAME">
+			<Text>Semenderlerle Savaş</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SUN_TZU_NAME">
+			<Text>Savaş Sanatı</Text>
+		</Row>
+		<!--Art-->
+		<Row Tag="LOC_GREATWORK_RUBLEV_1_NAME">
+			<Text>Müjde</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RUBLEV_2_NAME">
+			<Text>İhtişam İçinde Kurtarıcı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RUBLEV_3_NAME">
+			<Text>Yükseliş</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BOSCH_1_NAME">
+			<Text>Dünyevi Zevkler Bahçesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BOSCH_2_NAME">
+			<Text>Son Yargı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BOSCH_3_NAME">
+			<Text>Saman Arabası Üçlemesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DONATELLO_1_NAME">
+			<Text>Aziz Mark</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DONATELLO_2_NAME">
+			<Text>Gattamelata'nın Atlı Heykeli</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DONATELLO_3_NAME">
+			<Text>Holofernes'i Öldüren Judith</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MICHELANGELO_1_NAME">
+			<Text>Sistina Şapeli Tavanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MICHELANGELO_2_NAME">
+			<Text>Davut</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MICHELANGELO_3_NAME">
+			<Text>Pietà</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YING_1_NAME">
+			<Text>Han Sarayı'nda Bir Bahar Sabahı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YING_2_NAME">
+			<Text>Nilüfer Deresi'nde İnzivadaki Balıkçılar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_YING_3_NAME">
+			<Text>Kızıl Uçurum</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TITIAN_1_NAME">
+			<Text>Assunta</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TITIAN_2_NAME">
+			<Text>Vaftizci Yahya'nın Başıyla Salome</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TITIAN_3_NAME">
+			<Text>V. Charles'ın Atlı Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GRECO_1_NAME">
+			<Text>Müneccim Kralların Tapınışı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GRECO_2_NAME">
+			<Text>Meryem'in Göğe Yükselişi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GRECO_3_NAME">
+			<Text>Toledo Manzarası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REMBRANDT_1_NAME">
+			<Text>Andries de Graeff</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REMBRANDT_2_NAME">
+			<Text>Agatha Bas</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_REMBRANDT_3_NAME">
+			<Text>İbrahim ve İshak</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ANGUISSOLA_1_NAME">
+			<Text>Satranç Oynayan Üç Kız Kardeş</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ANGUISSOLA_2_NAME">
+			<Text>İspanya Kralı II. Philip</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ANGUISSOLA_3_NAME">
+			<Text>Bir Keşiş</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAUFFMAN_1_NAME">
+			<Text>Anna Maria Jenkins ve Thomas Jenkins</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAUFFMAN_2_NAME">
+			<Text>Johann Joachim Winckelmann Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KAUFFMAN_3_NAME">
+			<Text>Sarah Harrop, Bir İlham Perisi Olarak</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOKUSAI_1_NAME">
+			<Text>Kanagawa Açıklarındaki Büyük Dalga</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOKUSAI_2_NAME">
+			<Text>Şinano Eyaleti'ndeki Suwa Gölü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOKUSAI_3_NAME">
+			<Text>Güzel Rüzgar, Açık Sabah</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_EOP_1_NAME">
+			<Text>Samin Munnyeondo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_EOP_2_NAME">
+			<Text>Horoz</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_EOP_3_NAME">
+			<Text>Ssangma Inmuldo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOGH_1_NAME">
+			<Text>Yıldızlı Gece</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOGH_2_NAME">
+			<Text>Gece Kahvesi Terası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOGH_3_NAME">
+			<Text>Gece Kahvesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEWIS_1_NAME">
+			<Text>Kleopatra'nın Ölümü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEWIS_2_NAME">
+			<Text>Hiawatha ve Minnehaha'nın Evliliği</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEWIS_3_NAME">
+			<Text>Hacer</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_COLLOT_1_NAME">
+			<Text>Pierre-Étienne Falconet Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_COLLOT_2_NAME">
+			<Text>II. Katerina Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_COLLOT_3_NAME">
+			<Text>Marie Cathcart Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MONET_1_NAME">
+			<Text>Nilüferler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MONET_2_NAME">
+			<Text>İzlenim: Gündoğumu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MONET_3_NAME">
+			<Text>Giverny'de Saman Yığını</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ORLOVSKY_1_NAME">
+			<Text>Mihail Kutuzov</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ORLOVSKY_2_NAME">
+			<Text>Aleksandr Sütunu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ORLOVSKY_3_NAME">
+			<Text>Çar Aleksandr'ın Büstü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KLIMT_1_NAME">
+			<Text>Öpücük</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KLIMT_2_NAME">
+			<Text>Schloss Kammer Parkı'ndaki Cadde</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KLIMT_3_NAME">
+			<Text>Ayçiçekleriyle Çiftlik Bahçesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GIL_1_NAME">
+			<Text>Üç Kız</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GIL_2_NAME">
+			<Text>Gelinin Hazırlığı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GIL_3_NAME">
+			<Text>Otoportre</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASSATT_1_NAME">
+			<Text>Kollarına Yaslanan Lydia</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASSATT_2_NAME">
+			<Text>Çocuğun Banyosu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CASSATT_3_NAME">
+			<Text>Bir Fincan Çay</Text>
+		</Row>
+		<!--Music-->
+		<Row Tag="LOC_GREATWORK_VIVALDI_1_NAME">
+			<Text>Dört Mevsim: Kış</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_VIVALDI_2_NAME">
+			<Text>La Notte Konçertosu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BACH_1_NAME">
+			<Text>Sol Minör 'Küçük' Füg</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BACH_2_NAME">
+			<Text>Sol Majör Viyolonsel Süiti No. 1</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BEETHOVEN_1_NAME">
+			<Text>Neşeye Övgü (9. Senfoni)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BEETHOVEN_2_NAME">
+			<Text>3. Senfoni (Eroica Senfonisi) 1. Bölüm</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MOZART_1_NAME">
+			<Text>Küçük Bir Gece Müziği</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MOZART_2_NAME">
+			<Text>40. Senfoni, 1. Bölüm</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KENGYO_1_NAME">
+			<Text>Rokudan No Shirabe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KENGYO_2_NAME">
+			<Text>Hachidan No Shirabe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KENGYO_3_NAME">
+			<Text>Midare</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOMEZ_1_NAME">
+			<Text>Fosca - 1. Bölüm (Abertura)</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOMEZ_2_NAME">
+			<Text>Alvorada</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LISZT_1_NAME">
+			<Text>Transandantal Etüd No. 9</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LISZT_2_NAME">
+			<Text>Mephisto Valsi No. 1 "Köy Hanında Dans"</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHOPIN_1_NAME">
+			<Text>Noktürn, Mi bemol Majör</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHOPIN_2_NAME">
+			<Text>Parlak Vals Op. 18</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME">
+			<Text>Romeo ve Juliet Fantezi Uvertürü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_2_NAME">
+			<Text>Küçük Kuğuların Dansı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TIANHUA_1_NAME">
+			<Text>Liáng Xiāo</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TIANHUA_2_NAME">
+			<Text>Kong Shan Niao Yu</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TIANHUA_3_NAME">
+			<Text>Bēi Gē</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DVORAK_1_NAME">
+			<Text>Yeni Dünya Senfonisi (No. 9) - 4. Bölüm</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DVORAK_2_NAME">
+			<Text>Yaylılar için Serenat, Op. 22 - 2. Bölüm</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SCHUMANN_1_NAME">
+			<Text>Prelüd ve Füg Op. 16, No. 3</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SCHUMANN_2_NAME">
+			<Text>La minör Tokkatina</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ROSAS_1_NAME">
+			<Text>Sobre las olas</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ROSAS_2_NAME">
+			<Text>Vals Carmen</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LILIUOKALANI_1_NAME">
+			<Text>Lili'uokalani'nin Duası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LILIUOKALANI_2_NAME">
+			<Text>Sanoe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JAAN_1_NAME">
+			<Text>Raga Khamaj Jogiya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JAAN_2_NAME">
+			<Text>Raga Bhairavi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JAAN_3_NAME">
+			<Text>Thumri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEONTOVYCH_1_NAME">
+			<Text>Çanların Şarkısı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LEONTOVYCH_2_NAME">
+			<Text>Koro için Prelüd</Text>
+		</Row>
+		<!--Relics-->
+		<Row Tag="LOC_GREATWORK_RELIC_1_NAME">
+			<Text>Ahit Sandığı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_2_NAME">
+			<Text>İncil Yazarının Sakalı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_3_NAME">
+			<Text>Şehidin Kanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_4_NAME">
+			<Text>Thoth'un Kitabı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_5_NAME">
+			<Text>Havarinin Ayak İzi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_6_NAME">
+			<Text>Çimen Kesen Kılıç</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_7_NAME">
+			<Text>Kutsal Kâse</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_8_NAME">
+			<Text>Felsefe Taşı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_9_NAME">
+			<Text>Guru'nun Cübbesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_10_NAME">
+			<Text>Aziz Aubert'in Kafatası</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_11_NAME">
+			<Text>Peygamberin Sandaletleri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_12_NAME">
+			<Text>Torino Kefeni</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_13_NAME">
+			<Text>İpek Yazıtlar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_14_NAME">
+			<Text>Hakiki Haç Kıymığı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_15_NAME">
+			<Text>Scone Taşı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_16_NAME">
+			<Text>Peygamber Dişi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_17_NAME">
+			<Text>Müneccim Kralların Kemikleri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_18_NAME">
+			<Text>Havari Zincirleri</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_19_NAME">
+			<Text>Sekiz Elli Ayna</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_20_NAME">
+			<Text>Gundestrup Kazanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_21_NAME">
+			<Text>İncilci Sandığı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_22_NAME">
+			<Text>Teotokos Kuşağı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_23_NAME">
+			<Text>Asma Haçı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_RELIC_24_NAME">
+			<Text>Kutsal Mızrak</Text>
+		</Row>
+		<!--Artifacts-->
+		<Row Tag="LOC_GREATWORK_ARTIFACT_1_NAME">
+			<Text>Mumya</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_2_NAME">
+			<Text>Taş Levha</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_3_NAME">
+			<Text>Mızrak</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_4_NAME">
+			<Text>Parşömen</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_5_NAME">
+			<Text>Maske</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_6_NAME">
+			<Text>Amfora</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_7_NAME">
+			<Text>Mozaik</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_8_NAME">
+			<Text>Balta</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_9_NAME">
+			<Text>Aspis</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_10_NAME">
+			<Text>Bilezik</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_11_NAME">
+			<Text>Kadeh</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_12_NAME">
+			<Text>Gümüş Sikke</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_13_NAME">
+			<Text>Uzun Kılıç</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_14_NAME">
+			<Text>Zırh</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_15_NAME">
+			<Text>Mühür Yüzüğü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_16_NAME">
+			<Text>Usturlap</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_17_NAME">
+			<Text>Dublon</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_18_NAME">
+			<Text>Baltalı Mızrak</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_19_NAME">
+			<Text>Fresk</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_20_NAME">
+			<Text>Küpe</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_21_NAME">
+			<Text>Saat</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_22_NAME">
+			<Text>Gazete</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_23_NAME">
+			<Text>Çakmaklı Tabanca</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_24_NAME">
+			<Text>Harita</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_ARTIFACT_25_NAME">
+			<Text>Kolye</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

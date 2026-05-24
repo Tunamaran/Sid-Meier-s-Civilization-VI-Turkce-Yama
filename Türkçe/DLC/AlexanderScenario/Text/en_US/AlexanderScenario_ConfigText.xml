@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_ALEXANDER_SCENARIO_NAME">
+			<Text>İskender'in Fetihleri</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP">
+			<Text>Büyük İskender'e layık bir imparatorluk fethedemez misin? En fazla 60 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>Bu süreli tek oyunculu senaryoda, 'Büyük İskender' unvanını gerçekten hak etmek için imparatorluğunuzu hızla genişletmelisiniz. Bu senaryo muharebe, toprak genişletme ve yanınızda savaşacak Büyük Generalleri hesaplı kullanmayı vurgular.[NEWLINE][NEWLINE]Kazanmak için, zorluk seviyenize göre belirlenen tur sayısı içinde haritadaki her şehri fethedin:[NEWLINE][NEWLINE]Yerleşimci: 60 tur[NEWLINE]Savaş Lordu veya Kabile Reisi: 55 tur[NEWLINE]Kral veya Prens: 50 tur[NEWLINE]Ölümsüz veya İmparator: 45 tur[NEWLINE]Tanrı: 37 tur</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME">
+			<Text>İskender'in Dünyası</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION">
+			<Text>Yunanistan'dan Mısır'a, Hindistan'a.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME">
+			<Text>III. Darius</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME">
+			<Text>Adaş Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION">
+			<Text>Yerleşimciler +1 [ICON_Movement] Hareket kazanır. Tüm şehirler 2 [ICON_Citizen] Nüfus ve bir Tahıl Ambarı ile başlar. Bölge [ICON_Production] Üretim süresi azaltılır ve Ordugâhlar bir Basilikoi Paides ile başlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME">
+			<Text>Müttefikler</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION">
+			<Text>Oyuna Atina, Marakanda ve Patala şehir devletlerinin Süzereni olarak başlayın.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME">
+			<Text>Posta Hizmeti Yeterliliği</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION">
+			<Text>İşçiler 1 ek iyileştirme yapabilir.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME">
+			<Text>Makedonya eşsiz birimi: Yerleşimci</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE">
+			<Text>"Zaferi çalmam." —Büyük İskender</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Apaçık Büyük İskender</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>"En güçlüye!"</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Çok İyi İskender</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>"Deneyen için imkânsız diye bir şey yoktur."</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Oldukça İyi İskender</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>"Mükemmel olanın bilgisinde başkalarını geçmeyi, gücümün ve hâkimiyetimin genişliğinde geçmeye tercih ederim."</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>İskender: Olağanüstü Sıradan</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>"Bilmez misiniz ki fetihlerin gayesi, fethedilenlerin kaderini tekrarlamamaktır?"</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>İskender: Kanıtlanmış Berbat</Text>
+		</Row>
+		<Row Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>"Ey ölülerin kutsal gölgeleri, sizin o acımasız ve kederli yazgınızdan beni sorumlu tutmayın."</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

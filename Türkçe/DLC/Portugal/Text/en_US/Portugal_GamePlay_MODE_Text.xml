@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_TOWERDEFENSE_ZOMBIE_COMBAT_STRENGTH_DESC">
+			<Text>+{Property} Mutasyon Gücü</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ANCIENT_TOWER_DEFENSE_NAME">
+			<Text>Barikat</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MODERN_TOWER_DEFENSE_NAME">
+			<Text>Güçlendirilmiş Barikat</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ANCIENT_TRAP_DEFENSE_NAME">
+			<Text>Tuzak</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MODERN_TRAP_DEFENSE_NAME">
+			<Text>Modernize Tuzak</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ANCIENT_TOWER_DEFENSE_DESC">
+			<Text>Çalıştırılamayan erken dönem İyileştirme. Üzerinden geçen veya bitişiğindeki düşman birliklerine küçük hasar verir ve üzerlerinde Kontrol Bölgesi oluşturur. Askeri Mühendislik ile açılır ve bir İşçi Hakkı kullanılarak inşa edilir. Bu alandan birim hareketini engellemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MODERN_TOWER_DEFENSE_DESC">
+			<Text>Çalıştırılamayan geç dönem İyileştirme. Üzerinden geçen veya bitişiğindeki düşman birliklerine orta hasar verir ve üzerlerinde Kontrol Bölgesi oluşturur. Yivli Tüfek ile açılır ve bir Askeri Mühendis Hakkı kullanılarak inşa edilir. Bu alandan birim hareketini engellemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ANCIENT_TRAP_DEFENSE_DESC">
+			<Text>Çalıştırılamayan erken dönem İyileştirme. Doğrudan üzerinden geçen düşman birliklerine orta hasar verir ve hareketlerini tüketir. İnşaat ile açılır ve bir İşçi Hakkı kullanılarak inşa edilir. Bu alandan birim hareketini engellemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MODERN_TRAP_DEFENSE_DESC">
+			<Text>Çalıştırılamayan geç dönem İyileştirme. Doğrudan üzerinden geçen düşman birliklerine ciddi hasar verir ve hareketlerini tüketir. Balistik ile açılır ve bir Askeri Mühendis Hakkı kullanılarak inşa edilir. Bu alandan birim hareketini engellemez.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_ZOMBIES_RELIGIOUS_NAME">
+			<Text>Ölü Kovma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_ZOMBIES_SCIENCE_NAME">
+			<Text>Karanlık Sinyal</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_ZOMBIES_RELIGIOUS_DESCRIPTION">
+			<Text>Tamamlandığında, bu şehrin topraklarındaki zombilerin kontrolünü ele geçirir. Kontrol 15 tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_ZOMBIES_SCIENCE_DESCRIPTION">
+			<Text>Tamamlandığında, bu şehrin topraklarındaki zombilerin kontrolünü ele geçirir. Kontrol 30 tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODE_ZOMBIE_NAME">
+			<Text>Zombi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MODE_ZOMBIE_DESCRIPTION">
+			<Text>Bir birimin öldüğü konumda haritada ortaya çıkma şansı olan düşman bir yakın dövüş birimi. Yakın Dövüş Gücü, küresel olarak yok edilen her Zombi ile artar. Bir Zombi başka bir birimi yok ederse, ertesi tur o bölgede yeni bir Zombi birimi ortaya çıkar. Bir Zombi bir şehrin nüfusunu azaltırsa, şehrin hemen yanında yeni bir Zombi birimi ortaya çıkar. Zombiler, en yakındaki birimi, şehri veya savunulabilir bölgeyi hedef alır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_RELEASE_LEVY_DESCRIPTION">
+			<Text>Bu birimin kontrolünü serbest bırak.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_SPY_SUMMON_ZOMBIES_NAME">
+			<Text>Zombi Salgını</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_SPY_SUMMON_ZOMBIES_DESCRIPTION">
+			<Text>Tamamlandığında, bu şehir tarafından çalışılan her bölge için bir Zombi ortaya çıkarma şansına sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SUMMONED_ZOMBIES_SUMMARY">
+			<Text>{2_CityName} şehrindeki ajanınız {1_unitName}, nüfusu enfekte etmeyi başararak şehre saldırmak için bir Zombi sürüsü oluşturdu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SUMMONED_ZOMBIES_MESSAGE">
+			<Text>Başarılı Zombi Salgını</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SUMMONED_ZOMBIES_SUMMARY">
+			<Text>Düşman bir Casus, {1_CityName} şehrinde halkınıza bir salgın bulaştırmayı başardı ve şehrinizi tehdit eden bir Zombi Sürüsü oluşturdu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SUMMONED_ZOMBIES_MESSAGE">
+			<Text>Düşmanın Sebep Olduğu Zombi Salgını</Text>
+		</Row>
+	  <Row Tag="LOC_DESCRIPTION_ADDENDUM_WEAK_TRAP">
+			<Text>Bu bölgeye adım atan düşman birliklere küçük hasar verir ve hareketlerini tüketir.</Text>
+		</Row>
+	  <Row Tag="LOC_DESCRIPTION_ADDENDUM_TRAP">
+			<Text>Bu bölgeye adım atan düşman birliklere orta hasar verir ve hareketlerini tüketir.</Text>
+		</Row>
+	  <Row Tag="LOC_DESCRIPTION_ADDENDUM_BARRICADE">
+			<Text>Bu bölgeye veya çevresindeki bölgelere adım atan düşman birliklere küçük hasar verir ve onlar üzerinde Kontrol Bölgesi uygular.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION_ZOMBIE">
+			<Text>{LOC_IMPROVEMENT_ALCAZAR_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_DESCRIPTION_ADDENDUM_TRAP}</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION_ZOMBIE">
+			<Text>{LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_DESCRIPTION_ADDENDUM_WEAK_TRAP}</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION_ZOMBIE">
+			<Text>{LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_DESCRIPTION_ADDENDUM_WEAK_TRAP}</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION_ZOMBIE">
+			<Text>{LOC_IMPROVEMENT_FORT_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_DESCRIPTION_ADDENDUM_WEAK_TRAP}</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_VAMPIRE_CASTLE_DESCRIPTION_ZOMBIE">
+			<Text>{LOC_IMPROVEMENT_VAMPIRE_CASTLE_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_DESCRIPTION_ADDENDUM_WEAK_TRAP}</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION_ZOMBIE">
+			<Text>{LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION}[NEWLINE][NEWLINE]{LOC_DESCRIPTION_ADDENDUM_BARRICADE}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

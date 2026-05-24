@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_UI_PEDIA_TITLE">
+			<Text>Uygarlık Rehberi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CIVILIZATIONS">
+			<Text>Uygarlıklar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GEOGRAPHY_AND_SOCIAL_DATA">
+			<Text>Coğrafya ve Toplumsal Veriler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERENCES">
+			<Text>Tercihler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_AGENDAS">
+			<Text>Gündemler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERRED_RELIGION">
+			<Text>Din</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADERS">
+			<Text>Liderler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS">
+			<Text>Nehirler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PREFERS_RIVERS_FOOTNOTE">
+			<Text>(nehirleri de tercih eder)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPECIAL_INFRASTRUCTURE">
+			<Text>Özel Altyapı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPECIAL_UNITS">
+			<Text>Özel Birimler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SUZERAIN">
+			<Text>Süzereni Ol</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_START_BIAS">
+			<Text>Başlangıç Eğilimi</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_DESCRIPTION">
+			<Text>Açıklama</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BELIEF_CLASS">
+			<Text>İnanç Sınıfı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
+			<Text>Terfi Sınıfı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRAITS">
+			<Text>Özellikler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MADE_OBSOLETE_BY">
+			<Text>Eskitilir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_APPLIES_TO">
+			<Text>Uygulandığı Birimler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REPLACES">
+			<Text>Yerini Alır</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_CIVICS">
+			<Text>Gerekli Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_TECHNOLOGIES">
+			<Text>Gerekli Teknolojiler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNLOCKS">
+			<Text>Kilidi Açar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BOOSTS">
+			<Text>Hızlandırmalar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_FOLLOWERS">
+			<Text>Takipçiler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROGRESSION">
+			<Text>İlerleme</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_CIVICS">
+			<Text>Yönetim Bilimlerine Yönlendirir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_TECHS">
+			<Text>Teknolojilere Yönlendirir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PRODUCTION_COST">
+			<Text>Üretim Maliyeti</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PURCHASE_COST">
+			<Text>Satın Alma Maliyeti</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAITENANCE_COST">
+			<Text>Bakım Maliyeti</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CULTURE_COST">
+			<Text>Kültür Maliyeti</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RESEARCH_COST">
+			<Text>Araştırma Maliyeti</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BASE_COST">
+			<Text>Temel Maliyet: {1_Amount : number #} {2_YieldIcon} {3_YieldName}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIREMENTS">
+			<Text>Gereksinimler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BUILD_CHARGES">
+			<Text>İnşa Hakkı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_HEAL_CHARGES">
+			<Text>İyileştirme Hakkı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MOVEMENT_POINTS">
+			<Text>Hareket Puanı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MELEE_STRENGTH">
+			<Text>Yakın Dövüş Gücü</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RANGED_STRENGTH">
+			<Text>Menzilli Güç</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
+			<Text>Bombardıman Gücü</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
+			<Text>Dinî Güç</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
+			<Text>Hava Savunma Gücü</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
+			<Text>Yayılma Hakkı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_RANGE">
+			<Text>Menzil</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REPLACED_BY">
+			<Text>Yerini Alan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNLOCKED_BY">
+			<Text>Kilidi Açan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_BUILT_BY">
+			<Text>İnşa Eden</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE">
+			<Text>Kullanım</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_BUILDINGS">
+			<Text>Binaların Kilidini Açar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
+			<Text>Birimlerin Kilidini Açar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
+			<Text>İnşa Edebilir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT">
+			<Text>Yerleştirme</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADJACENCY">
+			<Text>Komşuluk</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
+			<Text>Birbiriyle Çakışan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
+			<Text>Kıyıya, karaya bitişik olarak yerleştirilmelidir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_CITY">
+			<Text>Şehir Merkezi'ne bitişik olmalı; ayrıca bir Nehir, Göl, Vaha veya Dağ'a da bitişik olmalıdır</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_NOT_ADJ_TO_CITY">
+			<Text>Şehir Merkezi'ne bitişik olamaz</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
+			<Text>Komşuluk Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
+			<Text>Vatandaş Getirileri (vatandaş başına)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_YIELDS">
+			<Text>Ticaret Getirileri</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_ORIGIN">
+			<Text>Başlangıç</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_DOMESTIC_DESTINATION">
+			<Text>Yurt İçi Varış Noktası</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TRADE_INTERNATIONAL_DESTINATION">
+			<Text>Uluslararası Varış Noktası</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UPGRADES_TO">
+			<Text>Yükseltildiği Birim</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UPGRADE_FROM">
+			<Text>Yükseltme Kaynağı</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNIQUE_TO">
+			<Text>Kendine Özgü Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
+			<Text>Eşsiz Yetenek</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTIONS">
+			<Text>Terfi(ler)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROJECTS">
+			<Text>Proje(ler)</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
+			<Text>Şehir Devleti Türü</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CREATES">
+			<Text>Oluşturur</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_CREATED_BY">
+			<Text>Oluşturan</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ESPIONAGE_MISSIONS">
+			<Text>Casusluk Görevleri</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_TURNS">
+			<Text>Tur: {1_Name} (Standart Hız)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_BASE_PROBABILITY">
+			<Text>Temel Olasılık: {1_Name}%</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_TARGET_DISTRICT">
+			<Text>Hedef Bölge: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_IMPROVED_BY">
+			<Text>Geliştiren</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_HARVEST">
+			<Text>Hasat</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES">
+			<Text>Gerektirir: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_VALID_RESOURCES">
+			<Text>Geçerli Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
+			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?kullanım; other?kullanımlar;})</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_GREAT_WORKS">
+			<Text>Büyük Eserler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
+			<Text>Dağlar</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
+			<Text>Tepeler</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_WATER">
+			<Text>Su</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
+			<Text>Sığ Sular</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
+			<Text>Geçit Vermez</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
+			<Text>Etkin Değil</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
+			<Text>Etkinleştirmek için belirli özel şartların yerine getirilmesi gerekir. Ayrıntılar için açıklamayı inceleyin.</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
+			<Text>Oyun daha sonra başlatılmışsa kaldırılır</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
+			<Text>Bir nehre komşu olmalıdır</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
+			<Text>Bir dağa komşu olmalıdır</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
+			<Text>Kıyıya inşa edilmelidir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
+			<Text>Bir göle inşa edilmelidir</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
+			<Text>Bir göle inşa edilemez</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
+			<Text>Bir din kurulmuş olmalıdır</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
+			<Text>Herhangi bir bina</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
+			<Text>[ICON_Movement] Hareket Değişikliği: {1_Amount}</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

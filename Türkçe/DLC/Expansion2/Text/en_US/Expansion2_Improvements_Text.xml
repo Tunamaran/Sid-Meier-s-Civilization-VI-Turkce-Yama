@@ -1,0 +1,104 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
+			<Text>İşçinin, Fransa'ya özgü bir Şato inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Kültür. +1 Çekicilik. Bir Harikanın yanındaysa +2 [ICON_Culture] Kültür. Bir Lüks Kaynağın yanındaysa +1 [ICON_Gold] Altın. Yalnızca nehir kenarlarına, Taşkın Yatakları dahil olmak üzere, inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
+			<Text>İşçinin, Sümer'e özgü bir Ziggurat inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Science] Bilim. Nehir kenarındaysa +1 [ICON_Culture] Kültür. Tepelere inşa edilemez ancak Taşkın Yataklarına inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_NAME">
+			<Text>Jeotermal Santrali</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GEOTHERMAL_PLANT_DESCRIPTION">
+			<Text>İşçinin, bir Jeotermal Santrali inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Science] Bilim. +2 [ICON_Production] Üretim. Tur başına 4 [ICON_Power] Enerji sağlar. Jeotermal Çatlak üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SOLAR_FARM_NAME">
+			<Text>Güneş Çiftliği</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SOLAR_FARM_DESCRIPTION">
+			<Text>İşçinin, bir Güneş Çiftliği inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Gold] Altın. +1 [ICON_Production] Üretim. Tur başına 2 [ICON_Power] Enerji sağlar. Düz arazide inşa edilmelidir. Kar üzerine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_WIND_FARM_NAME">
+			<Text>Rüzgar Çiftliği</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_WIND_FARM_DESCRIPTION">
+			<Text>İşçinin, bir Rüzgar Çiftliği inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Gold] Altın. +1 [ICON_Production] Üretim. Tur başına 2 [ICON_Power] Enerji sağlar. Tepe arazisinde inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_NAME">
+			<Text>Açık Deniz Rüzgar Çiftliği</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_OFFSHORE_WIND_FARM_DESCRIPTION">
+			<Text>İşçinin, bir Açık Deniz Rüzgar Çiftliği inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Production] Üretim. Tur başına 2 [ICON_Power] Enerji sağlar. Kıyı veya Göl arazisinde inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SEASTEAD_NAME">
+			<Text>Deniz Yerleşkesi</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SEASTEAD_DESCRIPTION">
+			<Text>İşçinin, bir Deniz Yerleşkesi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_FOOD] Besin. Yanındaki her Balıkçı Teknesi için +1 [ICON_Production] Üretim. Balıkçı Tekneleri, yanındaki her Deniz Yerleşkesi için +1 [ICON_Production] Üretim kazanır. Yanındaki her Resif için +1 [ICON_Culture] Kültür ve [ICON_Tourism] Turizm. +2 [ICON_HOUSING] Konut. Kıyı, Göl veya Okyanus arazisinde inşa edilmelidir. Başka bir Deniz Yerleşkesinin yanına yerleştirilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOAI_DESCRIPTION">
+			<Text>İşçinin, bir Moai inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kültür. Yanındaki her 2 Moai için +1 [ICON_Culture] Kültür. Volkanik Toprak bölgesinde veya yanındaysa +2 [ICON_Culture] Kültür. Kıyı veya Göl bölgesinin yanındaysa +1 [ICON_Culture] Kültür. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_Culture] Kültür ve [ICON_Tourism] Turizm. Bozkır, Bozkır Tepe, Çayır, Çayır Tepe veya Volkanik Toprak üzerine inşa edilebilir. Orman veya Yağmur Ormanı bölgesinin yanına yerleştirilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOUND_NAME">
+			<Text>Cahokia Höyükleri</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOUND_DESCRIPTION">
+			<Text>İşçinin, bir Cahokia Höyüğü inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+3 [ICON_Gold] Altın. Şehirler, ilk Cahokia Höyüğü geliştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Doğa Tarihi keşfedildiğinde şehirler, ikinci Cahokia Höyüğü geliştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Feodalizm keşfedildikten sonra yanındaki her 2 Bölge için veya Değiştirilebilir Parçalar araştırıldıktan sonra yanındaki her Bölge için +1 [ICON_FOOD] Besin. +1 [ICON_HOUSING] Konut sağlar. Kültürel Miras keşfedildiğinde ek [ICON_HOUSING] Konut kazanılır. Diğer Cahokia Höyüklerinin yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_NAZCA_LINE_NAME">
+			<Text>Nazca Çizgisi</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_NAZCA_LINE_DESCRIPTION">
+			<Text>İşçinin, bir Nazca Çizgisi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]Yanındaki bölgelere +1 [ICON_Faith] İnanç. Kaynak bulunan yanındaki bölgelere +1 [ICON_Faith] İnanç. Kamu Hizmeti keşfedildikten sonra yanındaki Çöl ve Çöl Tepe bölgelerine +1 [ICON_FOOD] Besin. Seri Üretim araştırıldıktan sonra yanındaki düz bölgelere +1 [ICON_Production] Üretim. +1 Çekicilik. Yalnızca düz Çöl üzerine inşa edilebilir. Bu bölge çalışılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOAI_NAME">
+			<Text>Moai</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SKI_RESORT_NAME">
+			<Text>Kayak Merkezi</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SKI_RESORT_DESCRIPTION">
+			<Text>İşçinin, bir Kayak Merkezi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+4 [ICON_Tourism] Turizm sağlar. Bir [ICON_AMENITIES] Olanak sağlar. Yalnızca bir Dağ üzerine inşa edilebilir. Başka bir Kayak Merkezinin yanına inşa edilemez. Yağmalanamaz, çalışılamaz veya kaldırılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_NAME">
+			<Text>Dağ Tüneli</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOUNTAIN_TUNNEL_DESCRIPTION">
+			<Text>Askeri Mühendisin Dağ Tüneli inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]Bir dağ silsilesi üzerinde hareket geçidi görevi görür; birimlerin içeri girmesine ve başka bir geçitten 2 [ICON_Movement] Hareket maliyetiyle çıkmasına olanak tanır. İçinden geçen [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki bölgelerden elde ettikleri [ICON_Gold] Altını katlayabilir. Yalnızca bitişik bir Dağ bölgesine inşa edilebilir. Yağmalanamaz veya kaldırılamaz.</Text>
+		</Row>
+		<!--Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_DIPLOMACY_GOVERNOR_TITLE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_DIPLOMATIC]+1 [ICON_Governor] Vali Unvanı[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_DIPLOMACY_ENVOY_DESCRIPTION">
+			<Text>[COLOR_FLOAT_DIPLOMATIC]+{1_Num} [ICON_Envoy] Elçi[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_DIPLOMACY_FAVOR_DESCRIPTION">
+			<Text>[COLOR_FLOAT_DIPLOMATIC]+{1_Num} [ICON_FAVOR] Diplomatik Destek[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_RESOURCES_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]+{1_Num} [ICON_{2_Icon}] {3_Resources}[ENDCOLOR]</Text>
+		</Row>
+		<!-- Updates-->
+		<Row Tag="LOC_IMPROVEMENT_ALCAZAR_EXPANSION2_DESCRIPTION">
+			<Text>İşçinin Alkazar inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Kültür. Bölgenin Çekiciliğinin %50'si kadar [ICON_SCIENCE] Bilim sağlar. Bölgeyi işgal eden birim +4 [ICON_Strength] Savunma Gücü kazanır ve otomatik olarak 2 tur tahkimat elde eder. Uçuş araştırıldıktan sonra [ICON_TOURISM] Turizm sağlar. Başka bir Alkazar'ın yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CAMP_EXPANSION2_DESCRIPTION">
+			<Text>İşçinin Kamp inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+2 [ICON_Gold] Altın. Yalnızca geçerli kaynaklar üzerine inşa edilebilir.[NEWLINE][NEWLINE]Lüks Kaynaklar üzerine inşa edilirse şehir bu kaynağı kullanma hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_EXPANSION2_DESCRIPTION">
+			<Text>İşçinin Devasa Kafa inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. Hümanizm keşfedilmeden önce bitişik her iki Yağmur Ormanı için +1 [ICON_Faith] İnanç; Hümanizm keşfedildikten sonra bitişik her Yağmur Ormanı için +1 [ICON_Faith] İnanç. Hümanizm keşfedilmeden önce bitişik her iki Orman için +1 [ICON_Faith] İnanç; Hümanizm keşfedildikten sonra bitişik her Orman için +1 [ICON_Faith] İnanç. Uçuş araştırıldıktan sonra [ICON_FAITH] İnançtan [ICON_TOURISM] Turizm elde edilir. Kar veya Karlı Tepeler üzerine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MONASTERY_EXPANSION2_DESCRIPTION">
+			<Text>İşçinin Manastır inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. Bu bölgede bulunan ve bu turda saldırmamış dost dinî birliğe +15 HP iyileştirme. Bitişik her iki Bölge için +1 [ICON_FAITH] İnanç. +1 [ICON_HOUSING] Konut sağlar. Sömürgecilik keşfedildikten sonra ek [ICON_HOUSING] Konut kazanılır. Başka bir Manastır'ın yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION">
+			<Text>İşçinin Kereste Fabrikası inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+2 [ICON_Production] Üretim. Yalnızca Orman üzerine inşa edilebilir. Merkantilizm açıldıktan sonra Yağmur Ormanı üzerine de inşa edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_HEALING">
+			<Text>[COLOR_FLOAT_FAITH]+{1_Num} HP[ENDCOLOR]</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GOSSIP_SOURCE_VENDOR">
+			<Text>Ticaret karakolunuzdaki bir tüccar duymuş ki</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_TRADING_POST_TRAIT">
+			<Text>Moğolistan'ın Örtöö etkisi</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_TRADING_POST_TRAIT">
+			<Text>Moğolistan olarak [ICON_TradingPost] Ticaret Karakolları Kur</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_FOMENT_UNREST_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}, {2_CityName} şehrinde {3_SpyPlayer} tarafından gönderilen bir casusun faaliyetleri yüzünden bağlılık kaybetti.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_FOMENT_UNREST_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}, {2_CityName} şehrinde kimliği bilinmeyen bir casusun faaliyetleri yüzünden bağlılık kaybetti.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_NEUTRALIZE_GOVERNOR_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}'ın {2_CityName} şehrindeki valisi, {3_SpyPlayer} tarafından gönderilen bir casus tarafından etkisiz hale getirildi.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_NEUTRALIZE_GOVERNOR_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}'ın {2_CityName} şehrindeki valisi, kimliği bilinmeyen bir casus tarafından etkisiz hale getirildi.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

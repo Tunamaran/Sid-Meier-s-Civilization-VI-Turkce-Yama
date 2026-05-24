@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_QUOTE">
+			<Text>"Eğer Delicate Arch'ın bir anlamı varsa, bu, cüret edip söyleyeyim ki, tuhaf ve beklenmedik olanın duyuları sarsma ve zihni alışkanlık çukurlarından sıyırıp çıkarma gücünde yatar."[NEWLINE]–Edward Abbey</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_QUOTE">
+			<Text>"İşin tuhafı, bu bir göktaşı yarası değil, derinlemesine aşınmış bir kubbe ve gökkuşağından ilham alan bir renk düzenine sahip."[NEWLINE]–Chris Hadfield</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_QUOTE">
+			<Text>"Öyleyse izin verin, bir zamanlar arzulanan Matterhorn'a saygı ve hayranlık övgüsü sunayım, ta ki başı, daha yüksek ve daha uzak sıradağları yaldızlamak için ayrılan güneşin son ışınlarını kaybetmeden önce."[NEWLINE]–F. Crauford Grove</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_QUOTE">
+			<Text>"Harikulade bir manzaraydı; çünkü her yerde, görünüşte imkansız konumlarda duran en tuhaf biçimli kayalar vardı; bazıları diğerlerinin üzerine ya da yanına yerleştirilmişti, öyle ki her yerçekimi yasasına meydan okuyor gibiydiler."[NEWLINE]–Goldthwaite'un Coğrafya Dergisi</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_QUOTE">
+			<Text>"Karanlık ve derin suların yükselen dünyası, boşluktan ve biçimsiz sonsuzluktan kazanılmış."[NEWLINE]–John Milton</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_QUOTE">
+			<Text>"Güneş pırıl pırıl parlarken, ardından alacakaranlık sisleri çökerken, her dönemeçte manzara sihir gibi değişir."[NEWLINE]–Fan Zhongyan</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_QUOTE">
+			<Text>"Su, su, her yerde su, ama içilecek bir damla yok."[NEWLINE]–Samuel Taylor Coleridge, Kadim Denizci</Text>
+		</Row>
+	</EnglishText>
+</GameData>

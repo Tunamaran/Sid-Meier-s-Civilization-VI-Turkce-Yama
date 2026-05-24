@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Name and Description-->
+		<Row Tag="LOC_TSLEARTH_NAME">
+			<Text>Gerçek Başlangıç Konumu Dünya</Text>
+		</Row>
+		<Row Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Uygarlıklar, Dünya haritasında tarihi başkentlerinin bulunduğu noktada başlar.</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Dünya</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>Kaynakları, arazisi ve özellikleri tarihi konumlarını yansıtan bir Dünya tasviri.</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_HUGE_NAME">
+			<Text>Devasa Dünya</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text>Kaynakları, arazisi ve özellikleri tarihi konumlarını yansıtan daha büyük boyutlu bir Dünya tasviri.</Text>
+		</Row>
+		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_NAME">
+			<Text>Gerçek Başlangıç Konumu Devasa Dünya</Text>
+		</Row>
+		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text>Uygarlıklar, devasa Dünya haritasında tarihi başkentlerinin bulunduğu noktada başlar.</Text>
+		</Row>
+		<Row Tag="LOC_MEDITERRANEAN_LARGE_NAME">
+			<Text>Büyük Akdeniz</Text>
+		</Row>
+		<Row Tag="LOC_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text>Kaynakları, arazisi ve özellikleri tarihi konumlarını yansıtan, daha büyük Akdeniz bölgesinin geniş bir haritası.</Text>
+		</Row>
+		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_NAME">
+			<Text>Gerçek Başlangıç Konumu Akdeniz</Text>
+		</Row>
+		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text>Uygarlıklar, büyük Akdeniz haritasında tarihi başkentlerinin bulunduğu noktada başlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

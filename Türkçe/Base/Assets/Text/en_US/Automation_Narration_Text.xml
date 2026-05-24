@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_AUTONARRATE_BUTTON_DONE">
+			<Text>Tamam</Text>
+		</Row>
+		
+		<Row Tag="LOC_AUTONARRATE_CITY_FOUNDED">
+			<Text>{1_CivName} bir şehir kurdu.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_WONDER_COMPLETED_BY">
+			<Text>{1_CivName} bir harika inşa etti.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_DEFEATED_BY">
+			<Text>{1_CivName}, {2_CivName} tarafından yenilgiye uğratıldı.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_DEFEATED">
+			<Text>{1_CivName} yenilgiye uğradı.</Text>
+		</Row>
+		<!-- Victories -->
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY">
+			<Text>{1_CivName} oyunu kazandı!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CONQUEST">
+			<Text>{1_CivName} oyunu fetihle kazandı!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_CULTURE">
+			<Text>{1_CivName} bir kültür zaferi kazandı!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_RELIGIOUS">
+			<Text>{1_CivName} bir dini zafer kazandı!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_SCORE">
+			<Text>{1_CivName} bir puan zaferi kazandı!</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_VICTORY_TECHNOLOGY">
+			<Text>{1_CivName} bir bilim zaferi kazandı!</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="LOC_AUTONARRATE_MAKE_PEACE">
+			<Text>{1_CivName}, {2_CivName} ile barış yaptı.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_DECLARE_WAR">
+			<Text>{1_CivName}, {2_CivName} uygarlığına savaş ilan etti.</Text>
+		</Row>
+		<!-- Era Change -->
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CHANGED">
+			<Text>{1_CivName} yeni bir çağa girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_ANCIENT">
+			<Text>{1_CivName} Antik Çağ'a girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_CLASSICAL">
+			<Text>{1_CivName} Klasik Çağ'a girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_MEDIEVAL">
+			<Text>{1_CivName} Orta Çağ'a girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_RENAISSANCE">
+			<Text>{1_CivName} Rönesans Çağı'na girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_INDUSTRIAL">
+			<Text>{1_CivName} Sanayi Çağı'na girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_MODERN">
+			<Text>{1_CivName} Modern Çağ'a girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_ATOMIC">
+			<Text>{1_CivName} Atom Çağı'na girdi.</Text>
+		</Row>
+		<Row Tag="LOC_AUTONARRATE_PLAYER_ERA_INFORMATION">
+			<Text>{1_CivName} Bilgi Çağı'na girdi.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

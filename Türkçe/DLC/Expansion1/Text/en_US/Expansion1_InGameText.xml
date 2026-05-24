@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Combat Modifiers -->
+		<Row Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Vali)</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(İttifak)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
+			<Text>+{1_Value} Son Diplomatik Değişim</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
+			<Text>+{1_Value} Rakip hareketleri hakkında istihbarat</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
+			<Text>+{1_Value} Garnizon Komutanı</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
+			<Text>+{1_Value} Askeri İttifaktan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
+			<Text>[COLOR_RED]{1_Value: number +#;-#}[ENDCOLOR] Acil Durumdan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
+			<Text>+{1_Value} Dini İttifaktan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
+			<Text>+{1_Value} Güçlendirilmiş Hava Savunması</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
+			<Text>+{1_Value} Baş Engizisyoncu vali terfisi</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
+			<Text>-{1_Value} Kara birliklerine karşı daha az etkili</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
+			<Text>-{1_Value} Deniz birliklerine karşı daha az etkili</Text>
+		</Row>
+		<Row Tag="LOC_REPORTS_LOYALTY">
+			<Text>Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_REPORTS_GOVERNOR">
+			<Text>Vali</Text>
+		</Row>
+		<Row Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} Bağlılık[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
+			<Text>[COLOR_RED]{1_Num} Bağlılık[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
+			<Text>Valilerden gelen Olanaklar:</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_OCCUPIED_LOYALITY_STATUS">
+			<Text>İşgal Altında: {1_LoyalityStatus}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_TITLE">
+			<Text>VALİLER</Text>
+		</Row>
+		<Row Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
+			<Text>Kullanılabilir Vali Unvanı Yok</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
+			<Text>Tanışılmayan Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
+			<Text>İşgal Altında</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
+			<Text>[COLOR_RED]Mevcut politikalarınızdan biri nedeniyle, [ICON_Faith] inanç harcayarak hamilik yapmak devre dışı bırakılmıştır.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
+			<Text>[COLOR_RED]Mevcut politikalarınızdan biri nedeniyle, [ICON_Gold] altın harcayarak hamilik yapmak devre dışı bırakılmıştır.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
+			<Text>Seçilen politika nedeniyle bu bölgede iyileşme yapılamaz.</Text>
+		</Row>
+		<!-- Alliance Text -->
+		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
+			<Text>Başka bir uygarlıkla zaten bu tür bir İttifakınız bulunuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
+			<Text>{1_OtherCiv} zaten başka bir uygarlıkla bu tür bir İttifaka sahip.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
+			<Text>İttifak Seviyesi: {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
+			<Text>İttifak Seviyesi:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
+			<Text>İttifak Seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
+			<Text>İttifak Puanları:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
+			<Text>+{1_PointsPerTurn}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
+			<Text>/ {1_PointsNeeded}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
+			<Text>Mevcut ittifak: {1_AllianceTypeName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
+			<Text>Bu liderle olan İttifak Seviyeniz hakkında önemli bilgileri ve erişebileceğiniz İttifak avantajlarını görüntüleyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
+			<Text>Araştırma İttifakı seviye {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
+			<Text>Kültür İttifakı seviye {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
+			<Text>Ekonomi İttifakı seviye {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
+			<Text>Askeri İttifak seviye {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
+			<Text>Dinî İttifak seviye {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_RESEARCH">
+			<Text>Araştırma İttifakı</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_CULTURAL">
+			<Text>Kültür İttifakı</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_MILITARY">
+			<Text>Askeri İttifak</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_ECONOMIC">
+			<Text>Ekonomik İttifak</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_RELIGIOUS">
+			<Text>Dini İttifak</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
+			<Text>Bir Araştırma İttifakı Kur</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
+			<Text>Bir Kültür İttifakı Kur</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
+			<Text>Bir Askeri İttifak Kur</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
+			<Text>Bir Ekonomik İttifak Kur</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
+			<Text>Bir Dini İttifak Kur</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
+			<Text>İttifakı Yenile</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES">
+			<Text>İttifaklar</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_TT">
+			<Text>Bu güçle bir İttifak öner</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
+			<Text>Bu güçle mevcut İttifakınızın süresini uzatmayı öner</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
+			<Text>Mevcut İttifakınız şu faydaları sağlar:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
+			<Text>Bir sonraki İttifak Seviyesinde, İttifaklarınız şu ek faydalara sahip olacak:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
+			<Text>{1_Tooltip}[NEWLINE]Genel [ICON_Tourism] Turizm, İttifaklar sayesinde +{2_Percent} arttı</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) İttifaklardan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) İttifaklardan</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} Dini İttifaklardan</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
+			<Text>Ortak Görünürlük</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
+			<Text>Müttefikinizin şehirleri, sizin şehirlerinize Bağlılık baskısı uygulamaz; aynı şekilde sizin şehirleriniz de onunkilere uygulamaz.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
+			<Text>Müttefikinizin dini, sizin dininizin hakim olduğu şehirler üzerinde dinî baskı uygulamaz; aynı şekilde sizin dininiz de onunkiler üzerinde uygulamaz.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
+			<Text>Sizinle ve müttefikinizle savaş halindeki oyuncuların birimlerine karşı +5 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
+			<Text>Müttefikinize giden [ICON_TradeRoute] Ticaret Yollarından +4 [ICON_GOLD] Altın</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
+			<Text>Müttefikinizden gelen [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_GOLD] Altın</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
+			<Text>Müttefikinize giden [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_FAITH] İnanç</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
+			<Text>Müttefikinizden gelen [ICON_TradeRoute] Ticaret Yollarından +1 [ICON_FAITH] İnanç</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
+			<Text>Müttefikinize giden [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_Culture] Kültür</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
+			<Text>Müttefikinizden gelen [ICON_TradeRoute] Ticaret Yollarından +1 [ICON_Culture] Kültür</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
+			<Text>Müttefikinize giden [ICON_TradeRoute] Ticaret Yollarından +2 [ICON_SCIENCE] Bilim</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
+			<Text>Müttefikinizden gelen [ICON_TradeRoute] Ticaret Yollarından +1 [ICON_SCIENCE] Bilim</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
+			<Text>Müttefikinizin Süzeren olduğu her Şehir Devleti için bonus [ICON_Envoy] Elçi Puanı</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
+			<Text>Siz veya müttefikiniz savaş halindeyken askeri birimlere yönelik [ICON_PRODUCTION] Üretimde +15%</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
+			<Text>Müttefik olmayan dinlere karşı +10 Dinî Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
+			<Text>Her 30 turda bir (Standart hızda), müttefikinizin araştırdığı veya hızlandırdığı ancak sizin henüz araştırmadığınız bir teknoloji için [ICON_TechBoosted] Buluş açarsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
+			<Text>Eğer o şehirden müttefikinize giden bir [ICON_TradeRoute] Ticaret Yolunuz varsa, [ICON_District] Bölgelerinizin her biri tur başına fazladan [ICON_GreatPerson] Büyük Kişi Puanı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
+			<Text>Birimler ücretsiz bir Terfi ile başlar</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
+			<Text>Müttefikinizin dinini takip eden her [ICON_Citizen] Vatandaşınız için +1 [ICON_FAITH] İnanç</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
+			<Text>Müttefikinizin dininin hiçbir takipçisinin bulunmadığı şehirlerde bonus Dinî Baskı</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
+			<Text>Siz veya müttefiğiniz, diğerinin tamamladığı bir teknolojiyi araştırırken ya da aynı teknolojiyi birlikte araştırırken +%10 [ICON_SCIENCE] Bilim kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
+			<Text>Müttefiğinizin şehirlerinden elde ettiği [ICON_Tourism] Turizmin %20'sini kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
+			<Text>Müttefiğinizin şehirlerinden gelen [ICON_Culture] Kültürün %10'unu kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
+			<Text>Süzeren benzersiz bonuslarını müttefiğinizle paylaşırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
+			<Text>Müttefik olduğunuz için {1_Amount} Puan.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
+			<Text>[NEWLINE]Müttefiğinize giden bir [ICON_TradeRoute] Ticaret Yoluna sahip olduğunuz için {1_Amount} Puan.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
+			<Text>[NEWLINE]Müttefiğinizden gelen bir [ICON_TradeRoute] Ticaret Yoluna sahip olduğunuz için {1_Amount} Puan.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
+			<Text>[NEWLINE]Ortak bir düşmana savaş ilan ettiğiniz için {1_Amount} Puan.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
+			<Text>[NEWLINE]Diğer kaynaklarınızdan {1_Amount} Puan.</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
+			<Text>[NEWLINE]Müttefiğinizin diğer kaynaklarından {1_Amount} Puan.</Text>
+		</Row>
+		<!-- New Government Text -->
+		<Row Tag="LOC_GOVT_POLICY_TYPE_DARKAGE">
+			<Text>Karanlık Çağ Politikaları</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1">
+			<Text>Bir şehirdeki her hükümet binası ve saray, tüm getirilere +1 sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY_XP1">
+			<Text>Tüm kara yakın dövüş, süvari karşıtı ve deniz yakın dövüş sınıfı birimler +4 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
+			<Text>Bir bölgeye sahip tüm şehirler +1 [ICON_Housing] Konut ve +1 [ICON_Amenities] Olanak kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
+			<Text>Surların her seviyesi başına +1 [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
+			<Text>Teolojik Muharebede +5 [ICON_Religion] Dinî Güç.[NEWLINE][ICON_Governor] Vali bulunan şehirlerde [ICON_Citizen] Vatandaş başına +0.5 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP_XP1">
+			<Text>Atanmış bir [ICON_Governor] Vali bulunan tüm şehirlerde +%10 [ICON_GOLD] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_FASCISM_XP1">
+			<Text>Tüm birimler +5 [ICON_Strength] Muharebe Gücü kazanır. Savaş Yorgunluğu %15 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM_XP1">
+			<Text>[ICON_Governor] Vali bulunan şehirlerde [ICON_Citizen] Vatandaş başına +0.6 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
+			<Text>Bölge başına +1 [ICON_Production] Üretim, +1 [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
+			<Text>+10% Harikalar için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
+			<Text>+20% Birim Tecrübesi.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
+			<Text>+15% Büyük Kişi Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY_XP1">
+			<Text>+50% Etki Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY_XP1">
+			<Text>[ICON_Faith] İnanç ile yapılan alımlarda %15 İndirim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP_XP1">
+			<Text>+15% Bölgeler için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM_XP1">
+			<Text>+50% Birlikler için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP1">
+			<Text>+15% Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+			<Text>[ICON_Gold] Altın ile yapılan alımlarda %25 İndirim.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_UNLOCKS_POLICY_CARD">
+			<Text>{1_PolicyName} Politika Kartını açar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Oligarşik Mirastan +4</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Teokratik Mirastan +5</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FASCISM_LEGACY_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>Faşist Mirastan +5</Text>
+		</Row>
+		<!-- Governors UI -->
+		<Row Tag="LOC_GOVERNORS_SCREEN_TAB_OWNED_GOVERNORS">
+			<Text>Mevcut Valiler</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_TAB_GOVERNOR_CANDIDATES">
+			<Text>Adaylar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
+			<Text>Ata</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_DETAILS">
+			<Text>Detaylar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_PROMOTE">
+			<Text>Terfi Ettir</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_VIEW_PROMOTIONS">
+			<Text>Terfileri Görüntüle</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ESTABLISHED_IN">
+			<Text>Görev Yeri:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITIONING_TO">
+			<Text>Siyasi nüfuz tesis ediliyor:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NEEDS_ASSIGNMENT">
+			<Text>Atama Gerekli</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_REPLACES">
+			<Text>Yerine Geçer:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_CONFIRM_REPLACEMENT">
+			<Text>VALİ DEĞİŞTİRİLSİN Mİ? Bu valiyi atamak, bu şehirdeki mevcut valinin yerini alacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_PLUS_PRESSURE">
+			<Text>{1_Pressure: number +#;-#}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHED">
+			<Text>{1_Name} ({2_Type}) bu şehirde nüfuz tesis etmiş durumda</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHING">
+			<Text>{1_Name} ({2_Type}) bu şehirde nüfuz tesis ediyor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_NO_GOVERNOR">
+			<Text>Atanmış Vali Yok</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_CURRENT_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Tur Başına Mevcut Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_FUTURE_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Bu Vali Tesisiyle Tur Başına Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITION_TURNS">
+			<Text>{1_NumTurns} Tur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TURNS_UNTIL_ESTABLISHED">
+			<Text>Tesise {1_NumTurns} Tur Kaldı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NAME_WITH_TURNS">
+			<Text>{1_GovernorName} ({2_Turns} {2_Turns : plural 1?Tur; other?Tur;})</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED">
+			<Text>Etkisiz Hale Getirildi:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
+			<Text>({1_Turns} {1_Turns : plural 1?tur daha; other?tur daha;})</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
+			<Text>Vali Adayı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
+			<Text>{1_GovernorName}'i Şuraya Ata:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_BASE_ABILITY_HEADER_TEXT">
+			<Text>Temel Yetenek: </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_PROMOTIONS_HEADER_TEXT">
+			<Text>Terfiler:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_CHANGE_ASSIGNMENT">
+			<Text>Şehir atamasını değiştir</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_GRANT_PROMOTION">
+			<Text>Terfi Ver</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_GOVERNOR_NEUTRALIZED">
+			<Text>Görev Dışı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_CANCEL_PROMOTE_PROMPT">
+			<Text>Bu ekrandan çıkarsanız seçilen terfi uygulanmayacaktır. Devam etmek istiyor musunuz?</Text>
+		</Row>
+		<!-- Governors -->
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
+			<Text>Victor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
+			<Text>Amani</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
+			<Text>Moksha</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
+			<Text>Liang</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
+			<Text>Pingala</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
+			<Text>Reyna</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
+			<Text>Kale Muhafızı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_TITLE">
+			<Text>Diplomat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_TITLE">
+			<Text>Kardinal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE">
+			<Text>Kâhya</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_TITLE">
+			<Text>Araştırmacı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_TITLE">
+			<Text>Eğitimci</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_TITLE">
+			<Text>Finansçı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_SHORT_TITLE">
+			<Text>Kale Muhafızı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_SHORT_TITLE">
+			<Text>Diplomat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_SHORT_TITLE">
+			<Text>Kardinal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_SHORT_TITLE">
+			<Text>Müsteşar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_SHORT_TITLE">
+			<Text>Arazi Müfettişi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_SHORT_TITLE">
+			<Text>Eğitimci</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_SHORT_TITLE">
+			<Text>Maliye Uzmanı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_DESCRIPTION">
+			<Text>Askeri alanda uzmanlaşmış olan {LOC_GOVERNOR_THE_DEFENDER_NAME}, bir şehre atandığında o şehrin güçlendirilmesi, muhafaza edilmesi ve dış tehditlere karşı savunulmasında kilit rol oynar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_DESCRIPTION">
+			<Text>Uygarlığınıza destek toplama ve nüfuzunu yakındaki şehirlere yayma konusunda uzman olan {LOC_GOVERNOR_THE_AMBASSADOR_NAME}, bir şehir devletine yabancı görevle atanabilen tek validir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_DESCRIPTION">
+			<Text>Ruhani ve dini bir lider olan {LOC_GOVERNOR_THE_CARDINAL_NAME}, bir şehrin [ICON_Religion] Dini Gücünü ve orada konuşlu dini birlikleri artırabilir. İmparatorluğunuzda bir [ICON_FAITH] İnanç feneridir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_DESCRIPTION">
+			<Text>Girişimci ve becerikli olan {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME}, ihtiyaç duyulduğunda değerli kaynakları temin edebilir. Ayrıca şehirdeki genel [ICON_PRODUCTION] Üretimi optimize etme konusunda da oldukça yeteneklidir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_DESCRIPTION">
+			<Text>{LOC_GOVERNOR_THE_EDUCATOR_NAME}, şehirdeki [ICON_SCIENCE] Bilimsel ve [ICON_Culture] Kültürel çalışmaların geliştirilmesine odaklanmıştır. Ayrıca şehrine [ICON_GreatPerson] Büyük Kişileri çekme konusunda da oldukça yeteneklidir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_DESCRIPTION">
+			<Text>Kurnaz ve mali açıdan bilgili olan {LOC_GOVERNOR_THE_MERCHANT_NAME}, normalde mümkün olandan daha fazlasını sağlamak için finansmanı kullanarak bir şehrin ekonomik gücünü güçlendirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_DESCRIPTION">
+			<Text>Verimlilik konusunda uzman olan {LOC_GOVERNOR_THE_BUILDER_NAME}, inşaat ve yapıyla ilgili her konuda yeteneklidir. Uzman bir planlamacı olarak, şehirde özel iyileştirmelerin geliştirilmesini de denetleyebilir.</Text>
+		</Row>
+		<!-- Governor Promotions -->
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
+			<Text>Tabya</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+			<Text>Şehir garnizonunun [ICON_Strength] Muharebe Gücünü +5 artırır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
+			<Text>Garnizon Komutanı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+			<Text>Şehir toprakları içinde savunma yapan birlikler +5 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
+			<Text>Mazgal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+			<Text>Şehir, tur başına fazladan bir [ICON_Ranged] Menzilli Saldırı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
+			<Text>Savunma Lojistiği</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
+			<Text>Güvenlik Uzmanı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
+			<Text>Bu şehirde düşman Casuslar normalin 2 seviye altında faaliyet gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+			<Text>Şehir kuşatma altına alınamaz.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
+			<Text>Hava Savunma Girişimi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
+			<Text>Şehir topraklarındaki hava savunma destek birliklerine, uçak ve Kıtalararası Balistik Füzelere karşı savunma yaparken +25 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
+			<Text>Ulak</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
+			<Text>Bir şehir devletine atanabilir ve orada 2 [ICON_Envoy] Elçi gibi işlev görür.</Text>
+		</Row>
+		<Row Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
+			<Text>Yakındaki şehirlerin etkisi buraya kurulacak yeni bir şehre tur başına {1_LoyaltyPerTurnAmount} Bağlılık uygular. Yeni şehirde bir [ICON_Governor] Vali kullanmayı veya başka bir yere yerleşmeyi düşünün.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
+			<Text>Murahhas</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
+			<Text>Sizin kontrolünüzde olmayan ve 9 kare içindeki diğer şehirler tur başına 2 Bağlılık kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
+			<Text>İtibar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
+			<Text>9 kare içindeki diğer şehirleriniz, uygarlığınıza yönelik tur başına +2 Bağlılık kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
+			<Text>Refah</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
+			<Text>Bir şehir devletinde konuşlandığında, o şehir devletinin Lüks Kaynaklarının bir kopyasını size sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
+			<Text>Hamisi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
+			<Text>Şehirde +4 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
+			<Text>Kuklacı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
+			<Text>Bir şehir devletinde konuşlandığında, orada sahip olduğunuz [ICON_Envoy] Elçi sayısını ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
+			<Text>Piskopos</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
+			<Text>Baş Engizisyoncu</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
+			<Text>İlahi Mimar</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
+			<Text>Ellerle Kutsama</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
+			<Text>Tanrı'nın Kalesi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
+			<Text>Koruyucu Aziz</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
+			<Text>Bu şehirden komşu şehirlere uygulanan dini baskı %100 daha güçlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
+			<Text>Bu şehrin bölgelerindeki teolojik muharebede +10 [ICON_Religion] Dinî Güç sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+			<Text>Şehirdeki Kutsal Alan binalarına yönelik Üretime +20% [ICON_Production] katkı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+			<Text>[ICON_Governor] Vali'nin dini birlikleri, bu şehrin bölgelerinde bir turda tamamen iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+			<Text>Şehir, [ICON_Governor] Vali'nin oyuncusu tarafından kurulmamış dinlerden gelen baskı ve muharebe etkilerini görmezden gelir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
+			<Text>Şehirde yetiştirilen Havariler ve Savaşçı Keşişler, ilk terfilerini aldıklarında 1 ekstra terfi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
+			<Text>Öncü</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
+			<Text>Şehirdeki parsel hasadı ve özellik kaldırma işlemlerinden elde edilen getiriler +50% artar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
+			<Text>Fazla Lojistik</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
+			<Text>Şehirdeki Büyüme +20% [ICON_Food] artar. Burada sonlanan [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehirlerine +2 [ICON_Food] Besin sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
+			<Text>Tedarik</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+			<Text>Şehirdeki Sanayi Bölgesi binalarına yönelik Üretime +20% [ICON_Production] katkı sağlar. Şehirde yetiştirilen Yerleşimciler [ICON_Citizen] Nüfus tüketmez.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
+			<Text>Sanayici</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+			<Text>Şehirdeki her bir Stratejik Kaynaktan tur başına +1 [ICON_Production] Üretim sağlanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
+			<Text>Karaborsacı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+			<Text>Kaynağa bağımlı birliklerin inşası için şehirde Stratejik Kaynak gerekmez.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
+			<Text>Dikey Entegrasyon</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+			<Text>Bu şehir, 6 bölge içindeki tüm Sanayi Bölgelerinden (sadece ilkinden değil) [ICON_Production] Üretim alır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
+			<Text>Lonca Başkanı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
+			<Text>Şehirde eğitilen tüm İşçiler +1 inşa hakkı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
+			<Text>Altyapı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+%30 [ICON_Üretim] Şehir Merkezi ve Hükümet Meydanı binalarına yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
+			<Text>Su Ürünleri Yetiştiriciliği</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+			<Text>Balıkçılık eşsiz iyileştirmesi şehirdeki kıyı bölgelerine inşa edilebilir. 1 [ICON_Besin] Besin sağlar, bir deniz kaynağına komşuysa +1 [ICON_Besin] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
+			<Text>Parklar ve Rekreasyon</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+			<Text>Şehir Parkı eşsiz iyileştirmesi şehirde inşa edilebilir. 2 Çekicilik ve 1 [ICON_Kültür] Kültür sağlar. Suya komşuysa +1 [ICON_Olanak] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
+			<Text>İmar Komiseri</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
+			<Text>+%20 [ICON_Üretim] şehirde bölge inşasına yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
+			<Text>Eğlence</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
+			<Text>+%30 [ICON_Üretim] şehirdeki Eğlence Kompleksi ve Su Parkı binalarına yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
+			<Text>Kütüphaneci</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
+			<Text>Şehir tarafından üretilen [ICON_Bilim] Bilim ve [ICON_Kültür] Kültürde %15 artış.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
+			<Text>Uzman</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+			<Text>+%20 [ICON_Üretim] şehirdeki Tiyatro Meydanı binalarına yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
+			<Text>Araştırmacı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+			<Text>+%20 [ICON_Üretim] şehirdeki Kampüs binalarına yönelik Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
+			<Text>Hibeler</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
+			<Text>Şehirde tur başına üretilen [ICON_BüyükKişi] Büyük Kişi puanlarında %100 artış.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
+			<Text>Silahlanma Yarışı Savunucusu</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
+			<Text>Şehirdeki tüm nükleer silahlanma projelerine %30 [ICON_Production] Üretim artışı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
+			<Text>Uzay Girişimi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
+			<Text>Şehirdeki tüm uzay programı projelerine %30 [ICON_Production] Üretim artışı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
+			<Text>Arazi Edinimi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+			<Text>Şehirde yeni arazileri daha hızlı edinir.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
+			<Text>Liman Başkanı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
+			<Text>Şehirdeki Ticaret Merkezleri ve Limanların Komşuluk Bonuslarını iki katına çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
+			<Text>Döviz</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
+			<Text>Şehirden geçen her yabancı [ICON_TradeRoute] Ticaret Yolu için +3 [ICON_Gold] Tur Başına Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
+			<Text>Tarifeler</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
+			<Text>Şehre giren ve çıkan tüm [ICON_TradeRoute] Ticaret Yollarından +3 [ICON_Gold] Tur Başına Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
+			<Text>Vergi Tahsildarı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
+			<Text>Şehirdeki her [ICON_Citizen] Vatandaş için +2 [ICON_Gold] Tur Başına Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
+			<Text>Müteahhit</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
+			<Text>Şehrin bölgeleri [ICON_Gold] Altın ile satın almasını sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
+			<Text>Küratör</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
+			<Text>Şehirdeki Sanat, Müzik ve Yazı Büyük Eserlerinden +100% [ICON_Tourism] Turizm.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ACTION_AVAILABLE">
+			<Text>Bir [ICON_Governor] Valiyi terfi ettirebilir veya atayabilirsiniz!</Text>
+		</Row>
+		<!-- Leader Agendas-->
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">
+			<Text>Çok sayıda kolordu ve ordusu bulunan uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORSE_LORD">
+			<Text>Süvari konusunda kendisiyle rekabet etmeyen uygarlıkları sever.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CULTURAL_ID">
+			<Text>Yüksek Bağlılığa sahip uygarlıkları sever, düşük olanlardan ise hoşlanmaz.</Text>
+		</Row>
+		<!-- Unit Abilities-->
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING_NAME">
+			<Text>Dağcılık Eğitimi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
+			<Text>Dağcılık Eğitimi: Tepelerde savaşırken +3 [ICON_Strength] Muharebe Gücü ve Tepe arazisinde Hareket cezası yok.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>Tepelerde savaşırken +3 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
+			<Text>Destek birliğinden +5 [ICON_Bombard] Bombardıman Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>Tepelerde ve Ormanda +5 [ICON_Strength] Muharebe Gücü bonusu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Hareket halindeki sivil ve destek birliklerine kendi yüksek [ICON_Movement] Hareket hızında eşlik edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>Tepe arazisinde savaşırken +7 [ICON_Strength] Muharebe Gücü bonusu.[NEWLINE][ICON_Bullet]Tepe arazisinde [ICON_Movement] Hareket cezası yok.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>Dost bölgeye 4 kare mesafede +5 [ICON_Strength] Muharebe Gücü bonusu.[NEWLINE][ICON_Bullet]Yağmalama 1 [ICON_Movement] Hareket harcar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>Savunulabilir bölgelere karşı +7 [ICON_Strength] Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>Savunulabilir bölgelere saldırırken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>1 ücretsiz Terfi ile başlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZULU_IMPI_DESCRIPTION">
+			<Text>+100% Kanatlama bonusu.[NEWLINE][ICON_Bullet]Tecrübe %25 daha hızlı kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
+			<Text>Moğol Bozkırı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>Ordu'dan %25 savaş tecrübesi</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
+			<Text>Ekonomik Altın Çağ</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_DESCRIPTION">
+			<Text>Bu birliğin [ICON_TradeRoute] Ticaret Yolu düşman birimler tarafından yağmalanamaz. Ekonomik Altın Çağ'ın bir parçası olarak elde edilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_NAME">
+			<Text>Engizisyon</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
+			<Text>+15 Dinî Muharebe Gücü, dost bölgede.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
+			<Text>Alacakaranlık Cesareti</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü, tüm yakın dövüş saldırı birimlerine.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>Hareketine en fazla 1 kare uzaklıktan başlayan birimlere +1 [ICON_Movement] Hareket kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PARADROP_DESCRIPTION">
+			<Text>Dost bir bölgeden 7 kare uzaklığa paraşütle inebilir (Hava Meydanı veya Hava Pisti'nden başlarsa 12 kare).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION">
+			<Text>+10% Muharebeden kazanılan tecrübe (Toqui)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_NOT_FOUNDED_DESCRIPTION">
+			<Text>+30% Muharebeden kazanılan tecrübe (Toqui)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Muharebe Gücü, Özgür Şehirlere veya Altın Çağ'daki uygarlıklara karşı.[NEWLINE] </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+25% Muharebeden kazanılan tecrübe (Timur)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION">
+			<Text>1 kare içindeki Kuşatma sınıfı birimlere +5 [ICON_Bombard] Bombardıman Gücü kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Muharebe Gücü (Moğol Sürüsü).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+			<Text>Yenilen süvari birimlerini ele geçirme yeteneği (Moğol Sürüsü).</Text>
+		</Row>
+		<!-- Feature -->
+		<Row Tag="LOC_FEATURE_REEF_NAME">
+			<Text>Resif</Text>
+		</Row>
+		<!-- Cultural Identity UI-->
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_SUBSECTION">
+			<Text>Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_ACCUMULATED_IDENTITY_SUBSECTION">
+			<Text>Birikmiş Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_DISTANCE_FROM_CAPITAL">
+			<Text>Başkentinize [ICON_Capital] yakınlık</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_OF">
+			<Text>'nın</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_TOTAL_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Mümkün</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_STATUS">
+			<Text>Durum:</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_LINE">
+			<Text>Tur başına bağlılık:</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP">
+			<Text>Bu şehrin sahipliği</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_POPULATION">
+			<Text>[ICON_Citizen] Burada yaşayan Vatandaşlar</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MARTIAL_LAW">
+			<Text>İşgal sırasında garnizondaki birlik</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION">
+			<Text>İşgal</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_STARVATION">
+			<Text>Açlık</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Ticaret Yolları</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_GOVERNOR">
+			<Text>[ICON_Governor] Buraya atanan Vali</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_HAPPINESS">
+			<Text>Mutluluk seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MATCHING_FOUNDED">
+			<Text>Kurduğunuz [ICON_Religion] Dinini takip etmek</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MISMATCHING_FOUNDED">
+			<Text>Kurduğunuz [ICON_Religion] Dinini takip etmemek</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MODIFIERS">
+			<Text>Diğer etkiler</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ORIGINAL_OWNERSHIP">
+			<Text>Şehrin asıl sahibi olmak</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP_BEFORE_OCCUPATION">
+			<Text>İşgalden önce şehrin sahibi olmak</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
+			<Text>Bağımsızlık arzusu</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ALWAYS_LOYAL">
+			<Text>Her zaman tam bağlı</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
+			<Text>Yakındaki [ICON_Citizen] Vatandaşlardan gelen baskı</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
+			<Text>Yakındaki [ICON_Citizen] Vatandaşlar</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_CITIES">
+			<Text>Yakındaki rakip [ICON_Citizen] Vatandaşlar</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+			<Text>Sahip olunan yakındaki [ICON_Governor] Valiler</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_GOVERNORS">
+			<Text>Yakındaki rakip Diplomat [ICON_Governor] Valiler</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_OWNERSHIP">
+			<Text>{1_IdentityPressureAmount} Şehre sahip olmaktan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_POPULATION">
+			<Text>{1_IdentityPressureAmount} Şehrin [ICON_Citizen] Vatandaşlarından</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_AGES">
+			<Text>{1_IdentityPressureAmount} Altın veya Karanlık Çağlardan</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_GOVERNOR">
+			<Text>{1_IdentityPressureAmount} Diplomat [ICON_Governor] Validen</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_MODIFIERS">
+			<Text>{1_IdentityPressureAmount} Diğer etkilerden</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
+			<Text>9 bölge içindeki [ICON_Citizen] Vatandaşlarınız</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
+			<Text>Sıkıyönetim</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OCCUPATION">
+			<Text>[COLOR_RED]İşgal</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Ticaret Yolları</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOVERNOR">
+			<Text>[ICON_Governor] Yerleşik Vali</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_BASE_DECAY">
+			<Text>Temel Çürüme</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_HAPPINESS">
+			<Text>Vatandaş Memnuniyeti</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_UNHAPPINESS">
+			<Text>[COLOR_RED]Vatandaş Memnuniyetsizliği</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOLDEN_AND_DARK_AGES">
+			<Text>Altın ve Karanlık Çağlar</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MISC">
+			<Text>Diğer Değiştiriciler</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_INDEPENDENCE_DESIRE">
+			<Text>[COLOR_RED]Genel huzursuzluk</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
+			<Text>[COLOR_RED]9 bölge içindeki diğer uygarlıkların [ICON_Citizen] Vatandaşları</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
+			<Text>[COLOR_RED]Şehir açlık çekiyor</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_ADDITIONAL">
+			<Text>Ek Kaynaklar</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_NO_GROWTH_PENALTY">
+			<Text>Ceza Yok</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CULTURAL_IDENTITY_LENS">
+			<Text>Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CULTURAL_IDENTITY_LENS_TOOLTIP">
+			<Text>Şehirlerin Bağlılığını ve onu etkileyen Bağlılık kaynaklarını gösterir.</Text>
+		</Row>
+		<!-- Disloyal City UI -->
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<!--New version of base game text used in conquer city UI popup, to describe Liberation effect on Loyalty-->
+			<Text>Bir şehri kurtarmak, onu önceki sahiplerinden birine iade eder ve o uygarlığı tekrar oyuna döndürebilir.[NEWLINE][NEWLINE]{1_WarmongerInfo}[NEWLINE][NEWLINE]Bu şehir, sizin şehirlerinizden ve valilerinizden gelen Bağlılık baskısına karşı bağışık olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_HEADER">
+			<Text>ŞEHİR İSYAN ETTİ</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_NAME_LABEL">
+			<Text>Şehir Adı:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_POPULATION_LABEL">
+			<Text>Nüfus:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_DISTRICTS_LABEL">
+			<Text>Mevcut Bölge Sayısı:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_BUTTON_LABEL">
+			<Text>Şehri Tut</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_EXPLANATION">
+			<Text>Bu şehri tutun. İmparatorluğunuza katılan bu yeni vatandaşların Bağlılığını güçlendirmek için buraya bir [ICON_Governor] Vali atamak isteyebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_BUTTON_LABEL">
+			<Text>Şehri Reddet</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_EXPLANATION">
+			<Text>Bu şehrin imparatorluğunuza katılmasını reddedin. Özgür Şehir olarak kalacaktır.[NEWLINE][NEWLINE]Bu şehir, sizin şehirlerinizden ve valilerinizden gelen Bağlılık baskısına karşı bağışık olacak ve uygarlığınıza katılmak için bir daha talepte bulunmayacaktır. Ancak başka bir uygarlık tarafından kazanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_LOYALTY_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) - {1_LoyaltyLevelName} kaynaklı</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) - Hwarang'dan ([ICON_Governor] Vali, {1} {1 : plural 1?Terfi; other?Terfi;} ile)</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_3_NAME">
+			<Text>Bağlı</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_2_NAME">
+			<Text>Sarsılan Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_1_NAME">
+			<Text>Sadakatsiz</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_0_NAME">
+			<Text>Huzursuzluk</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_3_DESCRIPTION">
+			<Text>Vatandaşlar uygarlığınıza bağlıdır</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_2_DESCRIPTION">
+			<Text>Vatandaşların uygarlığınıza olan bağlılığı sarsılmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_1_DESCRIPTION">
+			<Text>Vatandaşlar uygarlığınıza sadakatsizdir.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_0_DESCRIPTION">
+			<Text>Vatandaşlar huzursuzluk halindedir.</Text>
+		</Row>
+		<Row Tag="LOC_GLORY_SCORE_BREAKDOWN">
+			<Text>{1_Icon}({2_Score}/{3_threshold})</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_RESOURCE_AMBER_NAME">
+			<Text>Kehribar</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_OLIVES_NAME">
+			<Text>Zeytin</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TURTLES_NAME">
+			<Text>Kaplumbağa</Text>
+		</Row>
+		<!-- HUD -->
+		<Row Tag="LOC_HUD_CITY_POPULATION_GRAPH_TOOLTIP">
+			<Text>{1_Amount} {2_CivName} {1_Amount : plural 1?Vatandaş; other?Vatandaşlar;}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_LOYALTY">
+			<Text>{1_LoyaltyAmount} Bağlılık ({2_LoyaltyPerTurn : number +#.#;-#.#} Tur Başına)</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_FULL_LOYALTY">
+			<Text>Tam Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GAINING_LOYALTY">
+			<Text>Tam Bağlılık {1_Turns} {1_Turns : plural 1?tur; other?tur;} içinde</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_LOSING_LOYALTY">
+			<Text>İsyan {1_Turns} {1_Turns : plural 1?tur; other?tur;} içinde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_UNIT_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% birimlere yönelik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_BUILDING_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% binalara ve harikalara yönelik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_BUILDING_NON_WONDER_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% binalara yönelik</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_STABLE_LOYALTY">
+			<Text>Vatandaş Bağlılığı değişmiyor</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_CULTURAL_EFFECT">
+			<Text>Olumlu veya olumsuz etki yok</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR">
+			<Text>Vali</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CIVICS_TREE_AWARD_GOVERNOR">
+			<Text>1 [Icon_Governor] Vali Unvanı kazandırır</Text>
+		</Row>
+		<Row Tag="LOC_HUD_LAUNCHBAR_GOVERNOR_BUTTON">
+			<Text>Valiler[NEWLINE][NEWLINE]Uygarlığınızdaki [Icon_Governor] Valileri görüntüleyin veya yönetin.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
+			<Text>Tarih Zaman Çizelgesi[NEWLINE][NEWLINE]Uygarlığınızın elde ettiği Tarihi Anların zaman çizelgesini görüntüleyin.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
+			<Text>Bağlılık ve Valiler</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED">
+			<Text>Şehirde Yerleşti</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} Valisi şehre atandı</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED_SPECIFIC">
+			<Text>[ICON_Governor] {1_GovernorName} Valisi şehirde yerleşti</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_NO_GOVERNOR">
+			<Text>Atanmış [ICON_Governor] Vali bulunmuyor</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_NO_GOVERNOR_EFFECT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_TURNS">
+			<Text>{1_num} {1_Num : plural 1?tur; other?tur;}.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GOLD_FROM_POPULATION">
+			<Text>Ek vergilendirmeden {Value : number +#.#;-#.#}</Text>
+		</Row>
+		<!-- Loyalty and Identity -->
+		<Row Tag="LOC_LOYALTY_STATUS_LOYAL">
+			<Text>[COLOR_GREEN]Bağlı</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_STATUS_DISLOYAL">
+			<Text>[COLOR_RED]Sadakatsiz</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_GAINING">
+			<Text>[COLOR_GREEN][ICON_PressureUp] Yükseliyor</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_STABLE">
+			<Text>İstikrarlı</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_LOSING">
+			<Text>[COLOR_RED][ICON_PressureDown] Düşüyor</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_NONE">
+			<Text>Bu şehir size bağlıdır ve herhangi bir olumsuz etki bulunmamaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TO_PLAYER">
+			<Text>[COLOR_RED]Eğer Bağlılık 0'a düşerse, şehir isyan edecek ve burada en fazla Bağlılık biriktiren {1_PlayerName} uygarlığına katılacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TIED_PLAYERS">
+			<Text>[COLOR_RED]Eğer Bağlılık 0'a düşerse, şehir isyan edecek ve burada en fazla Bağlılık biriktiren diğer uygarlığa katılacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_GROWTH_AND_YIELD_EFFECTS_TEXT">
+			<Text>Şehir Büyümesi %{1_GrowthReduction} seviyesinde[NEWLINE]Şehir Getirileri %{2_YieldPercentage} oranında azaltıldı</Text>
+		</Row>
+		<!-- Emergency Text Blocks -->
+		<Row Tag="LOC_EMERGENCY_PARTICIPANTS">
+			<Text>KATILIMCILAR:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING">
+			<Text>Bekleyen {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_ONGOING">
+			<Text>Devam Eden {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETED">
+			<Text>{1_TypeEmergency} Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET">
+			<Text>Hedef: {1_Target}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_YOU_ARE_TARGET">
+			<Text>Sen</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_JOIN">
+			<Text>Kabul Et</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REJECT">
+			<Text>Reddet</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TURNS_REMAINING">
+			<Text>[ICON_Turn] {1_Turns : plural 1?{1_Turns} Tur; other?{1_Turns} Tur;} Kalan</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NO_TURNS_REMAINING">
+			<Text>[ICON_Turn] Bu Turda Sona Eriyor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TURNS_OVER">
+			<Text>Acil Durum Sona Erdi</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_BUFFS_EXPLANATION">
+			<Text>Bu Acil Durum Sırasında:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARDS_EXPLANATION">
+			<Text>Üyeler Başarılı Olursa:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+			<Text>Üyeler Başarısız Olursa:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBERS_HAVE_WON_REWARDS">
+			<Text>Üyelerin Zaferi Sayesinde:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_HAS_WON_REWARDS">
+			<Text>Hedefin Zaferi Sayesinde:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_THESE_GOALS">
+			<Text>Bu Hedefleri Tamamlayın:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_EXPLANATION">
+			<Text>Bu Hedefe karşı bir Acil Duruma katılma şansınız var.[NEWLINE]{1_GoalsExplanation}[NEWLINE]Başarılı olursanız ödüllendirileceksiniz. Başarısız olursanız, Hedef güçlenecektir. Bu Acil Durumu Kabul Etmeli veya Reddetmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_EXPLANATION_DEFENDER">
+			<Text>Size karşı bir Acil Durum ilan edildi![NEWLINE]{1_GoalsExplanation}[NEWLINE]Üyelerin bu hedeflere ulaşmasını başarıyla engellerseniz ödüllendirileceksiniz. Başarısız olursanız, Üyeler güçlenecektir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
+			<Text>BEKLEMEDE: KABUL ET YA DA REDDET</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
+			<Text>Üyeler Zafere Ulaştı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
+			<Text>Hedef Zafere Ulaştı</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
+			<Text>Üye uygarlıklar {1_Amount} [ICON_Gold] Altını paylaşır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
+			<Text>Hedef, Üye başına [ICON_Gold] {1_Amount} Altın alır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY">
+			<Text>Hedef, hedef şehirde Tur başına +20 Bağlılık kazanır.</Text>
+		</Row>
+		<!-- |||||||||  Goal Specific                                                   ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
+			<Text>Acil Duruma katılanlar, {TargetName}'den belirli şehirleri [ICON_Turn] {Turns} Tur içinde ele geçirmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_SPECIFIC_CITY">
+			<Text>Acil Duruma katılanlar, {CityName} şehrini {TargetName}'den [ICON_Turn] {Turns} Tur içinde ele geçirmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_CAPTURE_CITIES">
+			<Text>Acil Durum Üyeleri, {TargetName}'den belirli şehirleri ele geçirmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_CAPTURE_SPECIFIC_CITY">
+			<Text>Acil Durum Üyeleri, {CityName} şehrini {TargetName}'den ele geçirmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES">
+			<Text>{1_CityName} şehrini ele geçir</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE">
+			<Text>{1_CityName} şehrini savun</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE">
+			<Text>Acil Durum sona erene kadar {1_CityName} şehrini savun.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES">
+			<Text>Acil Durum bitmeden önce {1_CityName} şehrini ele geçir.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY">
+			<Text>Acil Duruma katılanlar, sonraki [ICON_Turn] {Turns} Turun {HalfTurns} Turu boyunca {CityName} şehrinin {TargetName}'in Dinini takip etmesini engellemelidir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_UNCONVERT_CITY">
+			<Text>Acil Durum Üyeleri, {CityName} şehrinin {TargetName}'in Dinini [ICON_Turn] {HalfTurns} Tur boyunca takip etmesini engellemelidir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY">
+			<Text>{NewReligion} dinini engelle</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE">
+			<Text>{NewReligion} dinini savun</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE">
+			<Text>{1_CityName} şehrinde {NewReligion} dinini Baskın Din haline getir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY">
+			<Text>{1_CityName} şehrinde {NewReligion} dininin Baskın Din olmasını engelle.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY">
+			<Text>Acil Duruma katılanlar, {CityName} şehrini {TargetName}'in kontrolünden [ICON_Turn] {Turns} Tur içinde kurtarmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIBERATE_CITY">
+			<Text>Acil Durum Üyeleri, {CityName} şehrini {TargetName}'den kurtarmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY">
+			<Text>{1_CityName} şehrini kurtar</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE">
+			<Text>{1_CityName} şehrini savun</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE">
+			<Text>{1_CityName} şehrini Acil Durum sona erene kadar savun.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY">
+			<Text>{1_CityName} şehrini Acil Durum sona ermeden kurtar.</Text>
+		</Row>
+		<!-- |||||||||  Emergency Specific                                              ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_MILITARY">
+			<Text>Askeri Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_MILITARY">
+			<Text>"Tek yürek olmazsak, bu şehrin kaderi bir gün hepimizin başına gelecektir."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_MILITARY">
+			<Text>{TargetName}, dünyanın önde gelen uygarlıkları arasında yer almasına rağmen {OldCityName} şehrini ele geçirdi. {TargetName}'ın bu saldırgan yayılmacılığı büyük bir endişe kaynağıdır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY">
+			<Text>Ayrıca, tüm Üyeler birbirleriyle Barış, Açık Sınırlar ve Paylaşımlı Görünürlük elde eder. Tüm Üyeler Hedef ile Savaş ilan eder.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT">
+			<Text>Üye birlikleri, Hedef topraklarında +1 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Hedef birlikleri, Üye birlikleriyle savaşırken -2 [ICON_Strength] Muharebe Gücüne sahip olur.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING">
+			<Text>Üye birlikleri, Hedef topraklarında +5 iyileşme kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE">
+			<Text>Hedef, bir Üye birliğine Şehir Saldırısı ile saldırdığında +2 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Üye birlikleri +1 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Hedef birlikleri +1 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Üyeler Tur Başına +1 Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Hedef Tur Başına +1 Altın kazanır.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_CITY_STATE">
+			<Text>Şehir Devleti Acil Durumu</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_CITY_STATE">
+			<Text>"Şehir Devletlerinin bağımsızlığına saygı duyarız ve bu işgale göz yummayız."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_CITY_STATE">
+			<Text>{TargetName}, {OldCityName} şehrini ele geçirdi. {OldCityName}'in işgali büyük bir endişe kaynağıdır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE">
+			<Text>Tüm Üyeler birbirleriyle Barış, Açık Sınırlar ve Paylaşımlı Görünürlük elde eder. Tüm Üyeler Hedef ile Savaş ilan eder.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY">
+			<Text>Üyeler, sahip oldukları her [ICON_Envoy] Elçi için Tur Başına +1 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES">
+			<Text>Hedefin Şehir Devletlerine giden [ICON_TradeRoute] Ticaret Yolları, Tur Başına +2 [ICON_Gold] Altın kazandırır.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_RELIGIOUS">
+			<Text>Dinî Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_RELIGIOUS">
+			<Text>"Müminlerin feryatları göğe yükselirken, yeryüzünde bizleri haklı bir öfke sarıyor."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_RELIGIOUS">
+			<Text>{TargetName}, {OldReligion}'ın Kutsal Şehri olan {OldCityName}'yi {NewReligion}'a dönüştürdü. Görünüşe göre {TargetName}, dünyadaki diğer büyük Dinlerle barış içinde bir arada yaşamaya niyetli değil.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
+			<Text>Her Üye bir Kutsal Emanet kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
+			<Text>Hedefin Dini, yakındaki tüm şehirlerde bir Baskı dalgası yayar.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_SPYING">
+			<Text>Casusluk Acil Durumu</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SPYING">
+			<Text>Herkes casusluk yapar, ama bu herif yakayı ele verdi! Hadi buna bir şey yapalım!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SPYING">
+			<Text>Hedefin bir Operasyon yürüttüğü bir Şehirde Tuzak Kur eylemini kullanarak bir Hedef Casusu yakalayın.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SPYING_ACTION">
+			<Text>Üye Casuslar, Üye Şehirlerde yeni bir eylem kazanır: Tuzak Kur. Eğer bir Hedef Casusu bu Şehirde bir Operasyon girişiminde bulunursa, tuzağa yakalanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_SPY_KILLER">
+			<Text>Yakalanan Casus öldürülür.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_FORTITUDE">
+			<Text>Hedefin Üye şehirlerinde Casus Operasyonlarını tamamlaması daha zor olacak.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SPYING_FREE_SPY">
+			<Text>Hedef 1 ek Casus kazanır.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_NUCLEAR">
+			<Text>Nükleer Acil Durum</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_NUCLEAR">
+			<Text>"Dehşet verici kuvvetler, dehşet verici sonlar için kullanıldı. Bir daha asla!"</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_NUCLEAR">
+			<Text>{TargetName} dünyadaki en güçlü silahı kullandı ve nükleer cin şişeden çıktı. Yok oluşumuz mu yaklaşıyor?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR">
+			<Text>Buna ek olarak, tüm Üyeler birbirleriyle Barış, Açık Sınırlar ve Paylaşılan Görünürlük'e sahip olacak. Tüm Üyeler Hedef'le Savaş'a girecek.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT">
+			<Text>Üye birimleri Hedef'in topraklarında +1 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Hedef birimleri, Üye birimleriyle savaşırken -2 [ICON_Strength] Muharebe Gücü'ne sahip olur.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Hedef birimleri, Üye birimleriyle savaşırken -3 [ICON_Strength] Muharebe Gücü'ne sahip olur.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE">
+			<Text>Üye şehirleri bir eksik Bağlılık baskısı uygular.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_BACKSTAB">
+			<Text>İhanet Acil Durumu</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_BACKSTAB">
+			<Text>"Açık ve namuslu bir savaş, bu aldatıcı diplomasiden elbette daha az nefret edilesidir."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_BACKSTAB">
+			<Text>{TargetName}, uzun süreli dostu {OldPlayerName}'e savaş ilan ederek hain bir darbe indirdi! Görünen o ki, hiç kimse {TargetName}'in saldırganlığından güvende değil.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB">
+			<Text>Buna ek olarak, tüm Üyeler birbirleriyle Barış, Açık Sınırlar ve Paylaşılan Görünürlük elde eder. Tüm Üyeler, Hedef ile Savaş'a girer.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT">
+			<Text>Üye birimleri, Hedef bölgesinde +1 [ICON_Movement] hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH">
+			<Text>Hedef birimleri, Üye birimleriyle savaşırken -3 [ICON_Strength] Muharebe Gücü'ne sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_CANCEL_TRADE_ROUTES">
+			<Text>Üyeler ile Hedef arasındaki tüm Ticaret Yolları iptal edilir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING">
+			<Text>Üyeler arasındaki tüm Ticaret Yolları, +2 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Hedef birimleri, Üye birimleriyle savaşırken -3 [ICON_Strength] Muharebe Gücü'ne sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS">
+			<Text>Hedef, Üyelerle savaş halindeyken azaltılmış Savaş Yorgunluğu alır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TAB_COMPLETED">
+			<Text>Tamamlandı</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<!--Spy-->
+		<Row Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
+			<Text>Skandal Uydurma</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
+			<Text>Kargaşa Çıkarma</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR_DESCRIPTION">
+			<Text>Valiyi Etkisiz Hale Getirme</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FABRIRCATE_SCANDAL_REWARD">
+			<Text>düşman Elçilerini kaldırma</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FOMENT_UNREST_REWARD">
+			<Text>Bağlılığı azaltma ve kendi Bağlılığımızı artırma</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_REWARD">
+			<Text>düşman [ICON_Governor] Valisini devre dışı bırakma</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FABRICATE_SCANDAL">
+			<Text>En büyük rakipleri {1_EnvoyString} kaybetmeye zorlama</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FOMENT_UNREST">
+			<Text>Düşman Bağlılığını {1_LoyaltyString} azalt</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR">
+			<Text>Düşman [ICON_Governor] Valisini {1_TurnString} süreyle görevden al</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FABRICATE_SCANDAL_ESTIMATE">
+			<Text>{1_Amount} [ICON_Envoy] Elçi</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FOMENT_UNREST_ESTIMATE">
+			<Text>{1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_ESTIMATE">
+			<Text>{1_Amount} tur</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
+			<Text>Karalama Kampanyası</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
+			<Text>Gizli Operasyon</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
+			<Text>Öldürme Yetkisi</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION">
+			<Text>2 seviye daha tecrübeli gibi Skandal Uydurur.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION">
+			<Text>2 seviye daha tecrübeli gibi Kargaşa Çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION">
+			<Text>2 seviye daha tecrübeli gibi Valiyi Etkisiz Hale Getirir.</Text>
+		</Row>
+		<!--Diplomacy modifiers-->
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PLEDGE">
+			<Text>Sınırlarından asker çekme sözünü bozdu.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PLEDGE">
+			<Text>Sınırlarından asker çekme sözünü tuttu.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PLEDGE">
+			<Text>Asker çekme taahhüdünde bulunmamaya karar verdi.</Text>
+		</Row>
+		<!--OPERATIONS AND COMMANDS TEXT-->
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_DESCRIPTION">
+			<Text>Paraşütle Atlama</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_IN_ZOC">
+			<Text>Düşman Kontrol Bölgesinde</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_FRIENDLY_TERRITORY">
+			<Text>Dost bir bölgede veya bir Hava Pistine ya da Hava Meydanına bitişik olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Tam hareket puanı gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PROJECT_PRODUCTION_DESCRIPTION">
+			<Text>Bir projeye [ICON_Production] Üretim ekler. Her şehirde tur başına yalnızca bir kez.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
+			<Text>Öncelikli Hedef</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
+			<Text>Tur başına Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_DETAILS_TURNS_TO_ESTABLISH">
+			<Text>Kurulum için Gerekli Tur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Bu Valinin şehre sağladığı, uygarlığınıza yönelik Tur Başına Bağlılık miktarı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TRANSITION_STRENGTH">
+			<Text>Geçiş Gücü</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TRANSITION_STRENGTH_TOOLTIP">
+			<Text>Bu Valinin bir şehirde yerleşme hızı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGN_GOVERNOR_TO">
+			<Text>Vali Ata...</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_SELECT_A_CITY">
+			<Text>Bir şehir seçin...</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
+			<Text>Önceki Vali Yok</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TURNS_TO_ESTABLISH">
+			<Text>Valinin yerleşmesi için gereken tur sayısı.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_SKILL_TREE">
+			<Text>Yetenek Ağacı</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTE">
+			<Text>Terfi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
+			<Text>Ata</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
+			<Text>Yeniden Ata</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
+			<Text>YETENEKLER</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES">
+			<Text>VALİ YETENEKLERİ</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES_SUBTEXT">
+			<Text>Vali Unvanlarını Terfiler İçin Harca</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES">
+			<Text>Vali Unvanları: {1_PointsAvailable}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES_AVAILABLE">
+			<Text>KULLANILABİLİR VALİ UNVANLARI: {1_PointsAvailable}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
+			<Text>HARCANAN: {1_PointsSpent}</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_TIMELINE_TITLE">
+			<Text>{1_PlayerCiv} Uygarlığının Tarihi</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_NEW_MOMENT">
+			<Text>{1_PlayerCiv} Tarihe Geçiyor</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS">
+			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}    \|    {3_MomentScore} Çağ Puanı</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
+			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
+			<Text>Bağlılık: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POSITIVE_PRESSURE">
+			<Text>+{1_Value}</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_GOVERNORS_PRESSURE_TOOLTIP">
+			<Text>[ICON_Governor] Buraya bir Vali atandı.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
+			<Text>Sahibinin 9 kare içindeki [ICON_Citizen] Vatandaşları</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
+			<Text>Diğer uygarlıkların 9 kare içindeki [ICON_Citizen] Vatandaşları</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
+			<Text>Bağımsızlık arzusu</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
+			<Text>Mutluluk seviyesi</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
+			<Text>Buradaki diğer etkiler</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
+			<Text>Bir Şehir Devleti olarak temel güç</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
+			<Text>Bir Özgür Şehir olarak temel güç</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
+			<Text>Yakındaki [ICON_Citizen] Vatandaşlardan gelen baskı</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
+			<Text>Şehrin sahibine ait yakındaki [ICON_Citizen] Vatandaşlar ile başka bir uygarlığa ait yakındaki [ICON_Citizen] Vatandaşlar arasındaki baskı karşılaştırmasına bağlı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Normalde her bir [ICON_Citizen] Vatandaş başına 1 Baskı[NEWLINE][ICON_BULLET][ICON_Capital] Başkentte artar[NEWLINE][ICON_BULLET]Altın Çağlar, Karanlık Çağlar ve Ekmek ve Sirkler şehir projesinden etkilenebilir[NEWLINE][ICON_BULLET]Ayrıca 9 kare içindeki diğer şehirlere de uygulanır, ancak her kare başına %10 daha az etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
+			<Text>Şehrin sahibine ait yakındaki [ICON_Citizen] Vatandaşlar ile başka bir uygarlığa ait yakındaki [ICON_Citizen] Vatandaşlar arasındaki baskı karşılaştırmasına bağlı olarak +20 ile -20 arasında değişir.[NEWLINE][ICON_Bullet]Normalde her bir [ICON_Citizen] Vatandaş başına 1 Baskı[NEWLINE][ICON_BULLET][ICON_Capital] Başkentte artar</Text>
+		</Row>
+		<!-- Dedications-->
+		<Row Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">
+			<Text>Bir [ICON_TechBoosted] Buluş tetikledin.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOST_DEDICATION_NOTIFICATION">
+			<Text>Bir [ICON_CivicBoosted] İlham tetikledin.</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_CONVERSION_DEDICATION_NOTIFICATION">
+			<Text>Bir şehri ilk kez kurduğun dinine dönüştürdün.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMPLETION_DEDICATION_NOTIFICATION">
+			<Text>Yeni bir Bölge inşa ettin.</Text>
+		</Row>
+		<Row Tag="LOC_TRADE_ROUTE_DEDICATION_NOTIFICATION">
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu tamamladın.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_DISCOVERY_DEDICATION_NOTIFICATION">
+			<Text>Yeni bir Kıta veya Doğa Harikası keşfettin.</Text>
+		</Row>
+		<Row Tag="LOC_CORPS_KILL_DEDICATION_NOTIFICATION">
+			<Text>Bir kolorduyu yok ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_ARMY_KILL_DEDICATION_NOTIFICATION">
+			<Text>Bir orduyu yok ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NAVAL_UNIT_KILL_DEDICATION_NOTIFICATION">
+			<Text>Barbar olmayan bir deniz birliğini yok ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_SCIENCE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Temel getiri olarak [ICON_Science] Bilim sağlayan bir bina inşa ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Bir Büyük Eser yuvasına sahip bir bina inşa ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRIAL_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Sanayi Çağı veya sonrasına ait bir bina inşa ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_AERODROME_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>Hava Meydanı Bölgesi'nde bir bina inşa ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_SPY_MISSION_DEDICATION_NOTIFICATION">
+			<Text>Başarılı bir saldırgan Casusluk operasyonu tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_ARTIFACT_EXTRACTION_DEDICATION_NOTIFICATION">
+			<Text>[ICON_GreatWork_Artifact] Tarihi Eser çıkardınız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
+			<Text>[ICON_GreatPerson] Büyük Kişi kazandınız.</Text>
+		</Row>
+		<!-- Scoring -->
+		<Row Tag="LOC_CATEGORY_ERA_SCORE_NAME">
+			<Text>Çağ Puanı</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
+			<Text>Diplomat [ICON_Governor] Valilerini bu şehir devletine atayan uygarlıklar:</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
+			<Text>Ottoman Grand Visier assigned to this city-state</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY_UNMET">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_CIV_AMBASSADOR_TOOLTIP">
+			<Text>{1_CivName} bu şehir devletine bir Diplomat atadı.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_LIMITED">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_FULL">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName}) - {3_EstablishInfo}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+			<Text>Büyük Bonus</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+			<Text>Küçük Bonus</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Plantasyon iyileştirmesinden +1 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_NEW_FEATURES">
+			<Text>Yeni Özellikler</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
+			<Text>Mevcut genişletme paketindeki yeni özellikleri inceleyin.</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_NEXT">
+			<Text>İleri</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_PREVIOUS">
+			<Text>Geri</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_CONTINUE">
+			<Text>Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_XP_INTRO_HIDETHIS">
+			<Text>Bir daha gösterme</Text>
+		</Row>
+		<Row Tag="LOC_END_GAME_MENU_HISTORIAN_BUTTON">
+			<Text>Zaman Çizelgesini Görüntüle</Text>
+		</Row>
+		<Row Tag="LOC_END_GAME_MENU_EXPORT_HISTORIAN_BUTTON">
+			<Text>Zaman Çizelgesini Dışa Aktar</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_CITY_IS_LOYAL_TO_TT">
+			<Text>Şehir {1_CivName}'e sadıktır</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_CITY_WILL_FALL_TO_TT">
+			<Text>Bağlılık 0'a düştüğünde şehir {1_CivName}'e katılacaktır</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_RISING_BY_X_TT">
+			<Text>{1_CivName}'e bağlılık artıyor: Tur başına {2_PointsPerTurn} {2_PointsPerTurn : plural 1?puan; other?puan;}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_DROPPING_BY_X_TT">
+			<Text>{1_CivName}'e bağlılık düşüyor: Tur başına {2_PointsPerTurn} {2_PointsPerTurn : plural 1?puan; other?puan;}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_NOT_CHANGING_TT">
+			<Text>{1_CivName}'e bağlılık gelecek turda değişmeyecek</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_STATUS_TT">
+			<Text>{1_LoyaltyIcon} BAĞLILIK {2_CurrentLoyalty}/{3_MaxLoyalty}[NEWLINE]Durum: {4_LoyaltyStatus}</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_ALLIANCE_TT">
+			<Text>Araştırma Müttefikinizle aynı Teknolojiyi aktif olarak araştırarak tur başına [ICON_Science] Bilim bonusu elde edin.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
+			<Text>Seviye 3 Araştırma İttifakı Bilim Bonusu alınıyor.[NEWLINE]Araştırma Müttefikinizle aynı Teknolojiyi araştırmak, tur başına [ICON_Science] Bilim bonusu sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
+			<Text>Şehir tamamen sadık ve tur başına bağlılık kazanıyor</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_NO_CHANGE_TT">
+			<Text>Değişim yok</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_RISING_LOYALTY_TT">
+			<Text>Yükseliyor {1_LoyaltyPerTurn}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_FALLING_LOYALTY_TT">
+			<Text>Düşüyor {1_LoyaltyPerTurn}</Text>
+		</Row>
+		<!-- Replay DataSets -->
+		<Row Tag="LOC_REPLAYDATASET_ERASCORE_NAME">
+			<Text>Tur Başına Çağ Puanı</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
+			<Text>Toplam Vali Sayısı</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
+			<Text>Toplam Vali Unvanı Sayısı</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FILTER_DARK">
+			<Text>Karanlık</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Balıkçılık</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>Bir [ICON_Governor] Valiye özel bir iyileştirme; Araştırmacı Valisi'nin Su Ürünleri Yetiştiriciliği terfisine sahip olduğu bir şehirde inşa edilebilir. 1 [ICON_Food] Besin sağlar, deniz kaynağına bitişikse ek 1 [ICON_Food] Besin daha sağlar. Kıyı bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>Şehir Parkı</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>Bir [ICON_Governor] Valiye özel bir iyileştirme; Araştırmacı Valisi'nin Parklar ve Rekreasyon terfisine sahip olduğu bir şehirde inşa edilebilir. 2 Çekicilik ve 1 [ICON_Culture] Kültür sağlar. Su kenarına bitişikse +1 [ICON_Amenities] Olanak sağlar. Başka bir Şehir Parkı'na bitişik olamaz.</Text>
+		</Row>
+		<!-- MISC -->
+		<Row Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
+			<Text>Uygarlığınız sürpriz savaş ilan edemez; bu, bir Şehir Devleti'ne savaş ilan etmeyi de içerir.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Kutsal Alana sahip şehirleriniz, sanki Kutsal Şehirlermiş gibi dini baskı uygular (10 kare içindeki tüm şehirlere 4 kat Dini Baskı).</Text>
+		</Row>
+		<!-- Type Traits-->
+		<Row Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] Vali Puanı</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] Vali Puanı ({2_TechOrCivicName} gerektirir)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_REQUIRES_GOVERNMENT_TIER">
+			<Text>Gerekli Hükümet Kademesi: {1_GovernmentTier}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

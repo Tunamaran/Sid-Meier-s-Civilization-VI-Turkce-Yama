@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_NAME">
+			<Text>Nübye</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME">
+			<Text>Yay Ülkesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION">
+			<Text>+%30 [ICON_Production] Menzilli Birlik üretiminde. Tüm Menzilli Birlikler +%50 daha fazla muharebe tecrübesi kazanır. Stratejik Kaynaklar üzerindeki Maden Ocakları +1 [ICON_Production] Üretim sağlar. Bonus ve Lüks Kaynaklar üzerindeki Maden Ocakları +2 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_NAME">
+			<Text>Nübye Piramidi</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+			<Text>Taş İşçiliği ile açılan ve Çöl, Çöl Tepeleri veya Taşkın Yatakları üzerine inşa edilmesi gereken bir iyileştirme. +2 [ICON_Faith] İnanç ve +2 [ICON_Food] Besin sağlar. Komşu bölgelerden ek getiriler alır. Şehir Merkezine komşuysa +1 [ICON_Food] Besin sağlar. Komşuluk bonusu veren diğer tüm bölgeler için: o bölge komşuysa uygun getiriden +1 eklenir.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_AMANITORE_NAME">
+			<Text>Amanitore</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME">
+			<Text>Meroë'nin Kandake'si</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION">
+			<Text>Tüm bölgelere +%20 [ICON_Production] Üretim bonusu sağlar. Şehir Merkezine komşu bir Nübye Piramidi varsa bu bonus +%40'a çıkar.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_NUBIAN_PITATI_NAME">
+			<Text>Pítati Okçusu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION">
+			<Text>Okçu'nun yerine geçen Nübye'ye özgü Antik Çağ birimi. Ekstra [ICON_Movement] Hareket ile Okçu'dan daha güçlüdür. Yaylı Tüfekçi'ye yükseltilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION">
+			<Text>+%50 Savaştan kazanılan tecrübe. (Yay Ülkesi)</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

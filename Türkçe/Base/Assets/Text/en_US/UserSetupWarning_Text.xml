@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_KNOWN_GRAPHICS_CARD_ISSUES">
+			<Text>Mevcut donanım yapılandırmanızla Civilization VI'nın DirectX 12 sürümünü çalıştırırken ortaya çıkabilecek bilinen sorunlar bulunmaktadır. DirectX 12 sürümü şu anda uyumlu bir grafik kartı gerektirir; bu kart AMD veya NVidia (Maxwell serisi veya daha yeni) olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_USER_WARNING_PROCEED_ANYWAY">
+			<Text>Yine de Devam Et</Text>
+		</Row>
+		<Row Tag="LOC_USER_WARNING_QUIT">
+			<Text>Çıkış</Text>
+		</Row>
+
+	</FrontEndText>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GAMEMODE_BARBARIAN_CLANS_NAME">
+			<Text>Barbar Klanları Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_BARBARIAN_CLANS_DESCRIPTION">
+			<Text>Bu oyun modu, standart Barbar Kabilelerinin yerine her biri kendine özgü arazi ve muharebe tercihlerine sahip çeşitli Klanlar getirir. Ayrıca mod, Barbarlarla barışçıl etkileşimler için yeni oyuncu eylemleri sunarak stratejik seçenekleri artırır.</Text>
+		</Row>
+		<!--Mode Text Updates-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_CLANS_MODE_DESCRIPTION">
+			<Text>Bir Barbar Karakolunu dağıttığında, olağan Tecrübe Puanlarına ek olarak bir Kabile Köyü ödülü alırsın. Şehir devleti birliklerini kiralamak için normal maliyetin yarısını ödersin.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

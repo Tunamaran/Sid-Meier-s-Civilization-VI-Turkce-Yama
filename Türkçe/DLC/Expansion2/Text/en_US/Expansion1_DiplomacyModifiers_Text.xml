@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_POSITIVE">
+			<Text>Sizden bolca dedikodu almalarından memnunlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_NEGATIVE">
+			<Text>Sizden dedikodu alamadıkları için mutsuzlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_GOLDEN_AGE">
+			<Text>Sizi bir Altın Çağ'da görmekten mutlular.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_DARK_AGE">
+			<Text>Bir Karanlık Çağ'da olmanızdan hayal kırıklığına uğradılar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_DARK_AGE">
+			<Text>Bir Karanlık Çağ'ı atlatırken size destek oluyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Altın Çağ'ınızı kıskanıyorlar.</Text>
+		</Row>
+		<!-- Troops on border pledge modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PLEDGE">
+			<Text>Sınırlarından askerlerimizi çekme sözümüzü bozduk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PLEDGE">
+			<Text>Sınırlarından askerlerimizi çekme sözümüzü tuttuk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NO_PLEDGE">
+			<Text>Sınırlarından askerlerimizi çekme sözü vermemeye karar verdik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_EMERGENCY">
+			<Text>Aynı kişiye karşı bir Acil Durum'a katıldık.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Sejong-->
+		<Row Tag="LOC_LEADER_SEJONG_NAME">
+			<Text>Sejong</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SEJONG_NAME">
+			<Text>Hangul</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SEJONG_DESCRIPTION">
+			<Text>Yeni bir Çağdan ilk Teknolojinizi tamamladığınızda, tur başına [ICON_SCIENCE] Biliminizin iki katı kadar [ICON_CULTURE] Kültür kazanırsınız.</Text>
+		</Row>
+		<!-- Ludwig II-->
+		<Row Tag="LOC_LEADER_LUDWIG_NAME">
+			<Text>II. Ludwig</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LUDWIG_NAME">
+			<Text>Kuğu Kralı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LUDWIG_DESCRIPTION">
+			<Text>Harikalar, tamamlanmamış olsalar bile, bitişik her Bölge için +2 [ICON_CULTURE] Kültür kazanır. Bu [ICON_CULTURE] Kültür, Şehir Getirilerinde gösterilir. Tüm [ICON_CULTURE] Kültür komşulukları, Kaleler keşfedildikten sonra [ICON_TOURISM] Turizm sağlar.</Text>
+		</Row>
+		<!-- Theodora-->
+		<Row Tag="LOC_LEADER_THEODORA_NAME">
+			<Text>Theodora</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THEODORA_NAME">
+			<Text>Metanoia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_THEODORA_DESCRIPTION">
+			<Text>Kutsal Alanlar, komşuluk bonuslarına eşit miktarda [ICON_CULTURE] Kültür sağlar. Çiftlikler, Hipodromlara ve Kutsal Alanlara [ICON_FAITH] İnanç komşuluk bonusu verir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SEJONG">
+			<Text>Sejong Dewang, Büyük Sejong, Joseon'un hükümdarı; kaleminden dökülen fermanlar tarihin akışını şekillendirir. Yeni bir toplum, yeni bir varoluş biçimi senin yönlendirmenle şekilleniyor. Halkının örnekliğinle uyum içinde yaşamasına izin ver ve bilgeliğinle Kore'yi kaderine yönlendir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LUDWIG">
+			<Text>Kral Ludwig, sana deli diyorlar; oysa senin deliliğin düşlerin, şiirin ve masalların deliliğidir. Dünyanın farklı olabileceğini, her şeyin sıkıcı ve sıradan göründüğü yerde büyülü bir krallık inşa edebileceğimizi hayal ettin. Ey Kuğu Kralı, dünyanın senin şatolarına ve şövalyelerine, ejderhaların musallat olduğu dağlarına ve mistik mağaralarına ihtiyacı var. Yeniden gel ve bize yeni düşler ver.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_THEODORA">
+			<Text>İmparatoriçe Theodora, hiçlikten gelip Roma'nın bakiyesine hükmettin! Zekân ve güzelliğinle Konstantinopolis halkını büyüledin ve büyük güç çarkına el koydun. Çekişme ve bölünme çağında, herkes senin öğütlerinle yönlendirilsin ve parlak mührünü bu topraklara vur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

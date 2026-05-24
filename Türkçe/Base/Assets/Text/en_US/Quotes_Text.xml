@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_FEATURE_BARRIER_REEF_QUOTE">
+			<Text>“Organizmalar CO2'yi bir zehir olarak görmez. Kabuk ve mercan yapan bitki ve organizmalar onu bir yapı taşı olarak düşünür.”[NEWLINE]– Janine Benyus</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_QUOTE">
+			<Text>“Beyaz Uçurum'un mazgallı tacının altında, Sebt barışından daha derin bir sessizliğe bürünmüş.”[NEWLINE]– William Wordsworth</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_QUOTE">
+			<Text>“Bir daha asla Dünya'nın güzelliklerine bakıp onları gördüğüm en muhteşem şeylermiş gibi tadını çıkaramayacağım. Krater Gölü hepsinin üzerindedir.”[NEWLINE]– Jack London</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEAD_SEA_QUOTE">
+			<Text>“Ölü Deniz kıyısındaki elmalara benzer, tadı kül gibidir.”[NEWLINE]– Lord Byron</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EVEREST_QUOTE">
+			<Text>“Fethettiğimiz dağ değil, kendimizdir.”[NEWLINE]– Sir Edmund Hillary</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GALAPAGOS_QUOTE">
+			<Text>“Bu takımadanın doğal tarihi son derece dikkat çekicidir: sanki kendi içinde küçük bir dünya gibidir.”[NEWLINE]– Charles Darwin</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_QUOTE">
+			<Text>“Görünen o ki, Kilimanjaro Dağı'nda Wi-Fi yok, bu yüzden Tanzanya'da iki hafta boyunca seyahatimdeki insanlarla konuşmak zorunda kaldım.”[NEWLINE]– Nancy Bonds</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PANTANAL_QUOTE">
+			<Text>“Pantanal, gezegendeki en karmaşık ekvatoral alüvyon ovasıdır ve belki de dünyanın en az bilinen bölgesidir.”[NEWLINE]– Aziz Ab'Saber</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PIOPIOTAHI_QUOTE">
+			<Text>“Ancak Yeni Zelanda'nın fiyort bölgesinin kalbine doğru ilerlerken, uzun zamandır kayıp olan o çocuksu, saf ve katışıksız hayranlık duygusu geri hücum etti. Milford Sound yolunun iyi olduğunu biliyordum – ama bu kadar iyi mi?”[NEWLINE]– Darroch Donald</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_QUOTE">
+			<Text>“Birbirine yakın konumlanmış, kaplan dişlerini andıran birkaç granit zirve, gökyüzüne doğru yaklaşık bir kilometre yükseklikte dramatik bir şekilde yükselir.”[NEWLINE]– Howard Hillman</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TSINGY_QUOTE">
+			<Text>“Tsingy, 650 kilometrekarelik, sivri mızraklarla dolu devasa dikilitaşlardan oluşan bir kaplan tuzağıdır. Ve evet, o güzel yüzünüzü keserler.”[NEWLINE]– Budd Erickson</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_YOSEMITE_QUOTE">
+			<Text>“Yosemite Vadisi, benim için her zaman bir gün doğumudur; taş ve uzaydan oluşan koca bir yapıdaki yeşil ve altın harikasının pırıltısı.”[NEWLINE]– Ansel Adams</Text>
+		</Row>
+		<Row Tag="LOC_TECH_POTTERY_QUOTE_1">
+			<Text>“Hiç kimse kili ıslatıp da şans ve kader eseri tuğlalar oluşacakmış gibi onu öylece bırakmamıştır.”[NEWLINE]– Plutarkhos</Text>
+		</Row>
+		<Row Tag="LOC_TECH_POTTERY_QUOTE_2">
+			<Text>“Kilin, iyi bir çömlekçinin elinde mutlu olduğunu düşündüm.”[NEWLINE]– Janet Fitch</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_1">
+			<Text>“Cennette köpek yoksa, öldüğümde onların gittiği yere gitmek istiyorum.”[NEWLINE]– Will Rogers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_2">
+			<Text>“Domuzları severim. Köpekler bize yukarı bakar. Kediler bize aşağı bakar. Domuzlar bize eşit davranır.”[NEWLINE]– Winston S. Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_QUOTE_1">
+			<Text>“Bir kömür madencisinin karısından daha fazla takdiri kim hak eder?”[NEWLINE]– Merle Travis</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_QUOTE_2">
+			<Text>“Kendini bir çukurda bulduğunda, kazmayı bırak.”[NEWLINE]– Will Rogers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_QUOTE_1">
+			<Text>“Büyük gemiler daha fazla risk alabilir, ama küçük tekneler kıyıya yakın durmalıdır.”[NEWLINE]– Benjamin Franklin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_QUOTE_2">
+			<Text>“Karadaki hayat bana tatsız geliyor değil. Ama denizdeki hayat daha iyidir.”[NEWLINE]– Sir Francis Drake</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTROLOGY_QUOTE_1">
+			<Text>“Astrolojiye inanmam; ben Yay burcuyum ve biz şüpheciyizdir.” [NEWLINE]– Arthur C. Clarke</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTROLOGY_QUOTE_2">
+			<Text>“Astroloji bilgisi olmayan bir hekimin kendine hekim deme hakkı yoktur.” [NEWLINE]- Hipokrat</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_QUOTE_1">
+			<Text>“Binlercesi aşksız yaşamıştır ama su olmadan tek bir kişi bile yaşayamamıştır.” [NEWLINE]- W. H. Auden</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_QUOTE_2">
+			<Text>“Bir ülkeyi ağaçlandıracak ya da sulayacak kadar azme sahip olan adam, o ülkeyi fethedenden daha az onura layık değildir.” [NEWLINE]– Sir John Thomson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHERY_QUOTE_1">
+			<Text>“Havaya bir ok attım. Yere düştü, nereye düştüğünü bilemedim.” [NEWLINE]– Henry Wadsworth Longfellow</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ARCHERY_QUOTE_2">
+			<Text>“Okun hedefine giderken şeytanın güçlerinin kafası karışsın.” [NEWLINE]– George Carlin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_WRITING_QUOTE_1">
+			<Text>“Yazmak paylaşmaktır. İnsan olmanın bir parçasıdır bir şeyleri paylaşma arzusu – düşünceleri, fikirleri, görüşleri.” [NEWLINE]– Paulo Coelho</Text>
+		</Row>
+		<Row Tag="LOC_TECH_WRITING_QUOTE_2">
+			<Text>“Yazmak kolaydır. Tek yapmanız gereken yanlış kelimelerin üzerini çizmektir.” [NEWLINE]-Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_QUOTE_1">
+			<Text>“Her birimiz, kendimizden çok daha büyük bir yapının inşasında bir taş yontuyor, bir sütun dikiyor veya bir vitray parçası kesiyoruz.” [NEWLINE]– Adrienne Clarkson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_QUOTE_2">
+			<Text>“Yıkıcı savaş heykelleri devirdiğinde ve kavgalar duvarcılık eserini kökünden söktüğünde.” [NEWLINE]– William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_QUOTE_1">
+			<Text>“Bronz, formun aynasıdır; şarap ise aklın.” [NEWLINE]– Aiskhylos</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_QUOTE_2">
+			<Text>“Ayrıca kalıcı bir miras bırakmakla da ilgileniyorum… çünkü bronz binlerce yıl dayanır.” [NEWLINE]- Richard MacDonald</Text>
+		</Row>
+		<Row Tag="LOC_TECH_THE_WHEEL_QUOTE_1">
+			<Text>“Bazen tekerlek yavaş döner ama döner.” [NEWLINE]– Lorne Michaels</Text>
+		</Row>
+		<Row Tag="LOC_TECH_THE_WHEEL_QUOTE_2">
+			<Text>“Tekerleği yeniden icat etme, sadece yeniden hizala.” [NEWLINE]– Anthony D’Angelo</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_1">
+			<Text>“Tek istediğim, yüksek bir gemi ve onu yönlendirecek bir yıldız.” [NEWLINE]– John Masefield</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_2">
+			<Text>“Rotanı yıldızlara göre belirle, geçen her geminin ışıklarına göre değil.” [NEWLINE]– Omar Bradley</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CURRENCY_QUOTE_1">
+			<Text>“Zenginlik, büyük mülklere sahip olmakta değil, az şey arzulamakta yatar.” [NEWLINE]- Epiktetos</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CURRENCY_QUOTE_2">
+			<Text>“Para, eğer size mutluluk getirmiyorsa, en azından sefaletinizi konfor içinde yaşamanıza yardımcı olur.” [NEWLINE]– Helen Gurley Brown</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_1">
+			<Text>“Eyerde geçirilen hiçbir hayat saati boşa harcanmış değildir.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_2">
+			<Text>“At üstündeki bir adam, ruhsal olarak da fiziksel olarak da yaya bir adamdan daha büyüktür.” [NEWLINE]– John Steinbeck</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRON_WORKING_QUOTE_1">
+			<Text>“Rab hepimizi demirden yarattı. Ardından ateşi kızdırıp kimimizi çeliğe dönüştürür.” [NEWLINE]– Marie Osmond</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRON_WORKING_QUOTE_2">
+			<Text>“Her şeyin bir sınırı vardır – demir cevheri eğitimle altına dönüşmez.” [NEWLINE]– Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_1">
+			<Text>“Bir geminin batmasına neden olacak herhangi bir durum hayal edemiyorum… Modern gemi inşası bunu aşmıştır.” [NEWLINE]– Kaptan E.J. Smith, RMS Titanic</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_QUOTE_2">
+			<Text>“Bir denizci ile sonsuzluk arasında bir tahtadan başka bir şey yoktur.”[NEWLINE] – Thomas Gibbons</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_QUOTE_1">
+			<Text>“Matematik olmadan hiçbir şey yapamazsınız. Çevrenizdeki her şey matematiktir. Çevrenizdeki her şey sayılardan ibarettir.” [NEWLINE]– Shakuntala Devi</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_QUOTE_2">
+			<Text>“Çalışmalarıma yeniden başlayacak olsaydım, Platon'un tavsiyesine uyar ve matematikle başlardım.” [NEWLINE]– Galileo Galilei</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CONSTRUCTION_QUOTE_1">
+			<Text>“Yürekle yarat; akılla inşa et.” [NEWLINE]– Criss Jami</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CONSTRUCTION_QUOTE_2">
+			<Text>“Evrenin dört yapı taşı ateş, su, çakıl ve vinildir.” [NEWLINE]– Dave Barry</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ENGINEERING_QUOTE_1">
+			<Text>“Bir adamın 'sihri', başka bir adamın mühendisliğidir.” [NEWLINE]– Robert Heinlein</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ENGINEERING_QUOTE_2">
+			<Text>“Normal insanlar… Bozulmamışsa tamir etme, diye düşünür. Mühendisler ise bozulmamışsa henüz yeterince özelliği yok, diye düşünür.” [NEWLINE]– Scott Adams</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_TACTICS_QUOTE_1">
+			<Text>“Taktik, elindekilerle yapabileceğini yapmaktır.” [NEWLINE]– Saul Alinsky</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_TACTICS_QUOTE_2">
+			<Text>“Strateji düşünce gerektirir; taktik gözlem gerektirir.” [NEWLINE]– Max Euwe</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_QUOTE_1">
+			<Text>“Hepimiz, kimsenin asla usta olamayacağı bir zanaatta çırağızdır.” [NEWLINE]– Ernest Hemingway</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_QUOTE_2">
+			<Text>“Bir çırağı eğitmenin kolay yolu yoktur. İki aracım örnek olmak ve dırdırdır.” [NEWLINE]– Lemony Snicket</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STIRRUPS_QUOTE_1">
+			<Text>“Çok az icat üzengi kadar basit olmuştur, ama çok azı tarih üzerinde bu kadar katalitik bir etki yaratmıştır.” [NEWLINE]– Lynn White Jr.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STIRRUPS_QUOTE_2">
+			<Text>“Üzengi ile yer arasında, Merhamet diledim, merhamet buldum.” [NEWLINE]– William Camden</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_QUOTE_1">
+			<Text>“Dünyanın tamamını tek bir büyük makine olarak hayal ederdim. Makineler asla yedek parçalarla gelmez, bilirsiniz. Her zaman ihtiyaç duydukları miktarla gelirler.” [NEWLINE]– Hugo Cabret</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MACHINERY_QUOTE_2">
+			<Text>“Unutmayın ki sadece makineler değil, insanlar da bozulur.” [NEWLINE]– Gregory Benford</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_QUOTE_1">
+			<Text>“Eğitimin amacı, boş bir zihnin yerine açık bir zihin koymaktır.” [NEWLINE]– Malcolm Forbes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_EDUCATION_QUOTE_2">
+			<Text>“Eğitimli bir zihnin işareti, bir düşünceyi kabul etmeden onu ele alabilmektir.” [NEWLINE]– Aristoteles</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_ENGINEERING_QUOTE_1">
+			<Text>“Patlat – İnşa Et – Savaş” [NEWLINE]– ABD 16. Mühendis Tugayı'nın Sloganı</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_ENGINEERING_QUOTE_2">
+			<Text>“Bilim savaşa ne kadar çok müdahale ederse, saha ordularında mühendislere duyulan ihtiyaç da o kadar artar; son savaşta hiçbir zaman yeterli sayıda istihkâm eri bulunamadı.” [NEWLINE]– Bernard Montgomery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_QUOTE_1">
+			<Text>“Yolumdaki kayalar mı? Hepsini saklarım. Onlarla şatomu inşa edeceğim.” [NEWLINE]– Nemo Nox</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_QUOTE_2">
+			<Text>“Sisin altında bir kale görürsen, olağanüstü hayallerle buluşmak için oraya yürümelisin.” [NEWLINE]– Mehmet Murat İldan</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_QUOTE_2">
+			<Text>“Dolaşan herkes kaybolmuş değildir.” [NEWLINE]– J.R.R. Tolkien</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASS_PRODUCTION_QUOTE_1">
+			<Text>“İnsanlar Model T'yi istedikleri renkte alabilirler – yeter ki siyah olsun.” [NEWLINE]– Henry Ford</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASS_PRODUCTION_QUOTE_2">
+			<Text>“Etiketlenebilen, paketlenebilen, seri üretilebilen şey ne gerçektir ne de sanat.” [NEWLINE]– Marty Rubin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_QUOTE_1">
+			<Text>“Bankaya 100 dolar borcun varsa bu senin sorunundur. Bankaya 100 milyon dolar borcun varsa bu bankanın sorunudur.” [NEWLINE]– J. Paul Getty</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_QUOTE_2">
+			<Text>“Üzerinde '7/24 Bankacılık' yazan bir banka gördüm ama o kadar zamanım yoktu.” [NEWLINE]– Steven Wright</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_QUOTE_1">
+			<Text>“Barutun asıl kullanımı, tüm insanları uzun boylu yapmaktır.” [NEWLINE]– Thomas Carlyle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUNPOWDER_QUOTE_2">
+			<Text>“İnsan askeri bir hayvandır, barutla övünür ve geçit törenlerini sever.” [NEWLINE]– Philip Bailey</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_QUOTE_1">
+			<Text>“Kalem kılıçtan daha güçlü olmayabilir, ama belki de matbaa, kuşatma silahından daha ağırdır. Sadece birkaç kelime her şeyi değiştirebilir.” [NEWLINE]– Terry Pratchett</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_QUOTE_2">
+			<Text>“Barutun savaş için yaptığını, matbaa akıl için yapmıştır.” [NEWLINE]– Wendell Phillips</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_QUOTE_1">
+			<Text>“İnsanoğlunun yaptığı, doğadaki herhangi bir şeye yaklaşan pek az şey vardır; ancak bir yelkenli gemi bunu başarır.” [NEWLINE]– Allan Villiers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_QUOTE_2">
+			<Text>“Bir gemiyi hareket ettiren, yükselen yelkenler değil, görünmeyen rüzgârdır.” [NEWLINE]– İngiliz Atasözü</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_QUOTE_1">
+			<Text>“Astronomi, ruhu yukarı bakmaya zorlar ve bizi bu dünyadan başka bir dünyaya götürür.” [NEWLINE]– Platon</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ASTRONOMY_QUOTE_2">
+			<Text>“Astronomi, astronom değilken çok daha eğlencelidir.” [NEWLINE]– Brian May</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_QUOTE_1">
+			<Text>“Ve önce Hephaestus büyük ve devasa bir kalkan yapar… Ve kalkanın üzerine iki soylu şehir döver.” [NEWLINE]– Homer</Text>
+		</Row>
+		<Row Tag="LOC_TECH_METAL_CASTING_QUOTE_2">
+			<Text>“Birini, onun ocağının başında durup çekiciyle çalışmadıkça yargılama.” [NEWLINE]– Rick Riordan</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SIEGE_TACTICS_QUOTE_1">
+			<Text>“En aşağılık olan, bir şehre saldırmaktır. Bir şehrin kuşatılması yalnızca son çare olarak yapılır.” [NEWLINE]– Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SIEGE_TACTICS_QUOTE_2">
+			<Text>“Tüm güzel aşklar, iyi bir kuşatmanın ortasında yeşerir.” [NEWLINE]– Miles Cameron</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_QUOTE_1">
+			<Text>“İnsanoğlu, Sanayi Devrimi'nin eşiğinde büyük bir yanılgıya düştü: Mekanik şeylere atladık. Oysa insan, yaratıcı olabilmek için ellerini kullanmalıdır.” [NEWLINE]– Andre Norton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_QUOTE_2">
+			<Text>“Şiddet ekonomisinin anahtar sözcükleri kentleşme, sanayileşme, merkezileşme, verimlilik, nicelik ve hızdır.” [NEWLINE]– E.F. Schumacher</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_QUOTE_1">
+			<Text>“Sınanamayan iddialar, çürütülmeye kapalı savlar, bize ilham verme veya merakımızı uyandırma açısından ne kadar değerli olursa olsun, doğruluk açısından kıymetsizdir.” [NEWLINE]– Carl Sagan</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_QUOTE_2">
+			<Text>“Olgular teoriye uymuyorsa, olguları değiştirin.” [NEWLINE]– Albert Einstein</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BALLISTICS_QUOTE_1">
+			<Text>“Ne olduğunu tahmin etmek başka bir şeydir, ancak balistik ne olduğunu doğrulayana kadar bu konuda spekülasyon yapmayız…” [NEWLINE]– John Hansen</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BALLISTICS_QUOTE_2">
+			<Text>“Diz çöküp dua edelim. Kime olduğunu bilmiyorum. Balistiğin koruyucu azizi var mı?” [NEWLINE]– Adam Savage</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_SCIENCE_QUOTE_1">
+			<Text>“Strateji ne kadar güzel olursa olsun, arada bir sonuçlara da bakmalısınız.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MILITARY_SCIENCE_QUOTE_2">
+			<Text>“Hiç kimse bir savaşa – daha doğrusu aklı başında olan hiç kimse – bu savaşla neyi başarmayı amaçladığını ve onu nasıl yürüteceğini zihninde netleştirmeden başlamamalıdır.” [NEWLINE]– Karl von Clausewitz</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_QUOTE_1">
+			<Text>“İnsan ırkının, bilimin buhar makinesinin ötesindeki yürüyüşünden kazançlı çıkıp çıkmadığı tartışmalıdır.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_QUOTE_2">
+			<Text>“Bilimin buhar makinesine borcu, buhar makinesinin bilime borcundan daha fazladır.” [NEWLINE]– Lawrence Henderson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_QUOTE_1">
+			<Text>“Son 200 yılda hayat kurtarmak ve sağlığı iyileştirmek için tuvaletin icadıyla başlayan temizlik devriminden daha fazlasını yapan hiçbir yenilik olmamıştır.” [NEWLINE]– Sylvia Burwell</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_QUOTE_2">
+			<Text>“Temizlik, tıp, eğitim, şarap, kamu düzeni, yollar, tatlı su sistemi ve halk sağlığı bir yana... Romalılar bizim için başka ne yaptı ki?” [NEWLINE]– John Cleese</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ECONOMICS_QUOTE_1">
+			<Text>“Ekonomi, kişinin isteklerine pek saygı göstermeyen bir konudur.” [NEWLINE]– Nikita Khrushchev</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ECONOMICS_QUOTE_2">
+			<Text>“Sen ve ben yol veya demiryoluyla geliriz, ama ekonomistler altyapı üzerinde seyahat eder.” [NEWLINE]– Margaret Thatcher</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RIFLING_QUOTE_1">
+			<Text>“Sürgü mekanizmaları sözlerden daha yüksek sesle konuşur.” [NEWLINE]– Craig Roberts</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RIFLING_QUOTE_2">
+			<Text>“Bir tüfekçiyi, onun ayakkabılarıyla bir mil yürümeden asla eleştirme. Böylece o çıplak ayak kalır ve sen menzilin dışında olursun.” [NEWLINE]– 2. Hedef Bölüğü</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_QUOTE_1">
+			<Text>“Uçmanın tadını bir kere aldın mı, yeryüzünde gözlerin gökyüzüne çevrili yürüyeceksin, çünkü oradaydın ve oraya dönmeyi özleyeceksin.” [NEWLINE]– Leonardo da Vinci</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_QUOTE_2">
+			<Text>“Bir inişten yürüyerek ayrılabiliyorsan, bu iyi bir iniştir. Ertesi gün uçağı kullanabiliyorsan, bu olağanüstü bir iniştir.” [NEWLINE]– Chuck Yeager</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_QUOTE_1">
+			<Text>“Bir makinenin sorunsuz ve öngörülebilir bir şekilde çalışması için parçalarının standart ve dolayısıyla değiştirilebilir olması gerekir.” [NEWLINE]– Charles Eisenstein</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_QUOTE_2">
+			<Text>“Çoğumuz, kendi bedenimize gösterdiğimiz özenden daha fazlasını arabalarımıza gösteririz… oysa arabanın yedek parçaları vardır.” [NEWLINE]– B.J. Palmer</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_QUOTE_1">
+			<Text>“En iyi çelik her zaman en parlak parlamaz.” [NEWLINE]– Joe Abercrombie</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_QUOTE_2">
+			<Text>“Üç şey son derece zordur: çelik, elmas ve insanın kendini bilmesi.” [NEWLINE]– Benjamin Franklin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ELECTRICITY_QUOTE_1">
+			<Text>“Elektrik olmasaydı, hepimiz mum ışığında televizyon izliyor olurduk.” [NEWLINE]– George Gobel</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ELECTRICITY_QUOTE_2">
+			<Text>“Benjamin Franklin elektriği keşfetmiş olabilir, ama parayı kazanan, sayacı icat eden adam oldu.” [NEWLINE]– Earl Wilson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_QUOTE_1">
+			<Text>“Radyosuz bir dünya, sağır bir dünyadır.” [NEWLINE]– Ernest Yeboah</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_QUOTE_2">
+			<Text>“Radyo, aklın tiyatrosudur; televizyon ise akılsızların tiyatrosu.” [NEWLINE]– Steve Allen</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CHEMISTRY_QUOTE_1">
+			<Text>“Kimya, fiziğin kirli kısmıdır.” [NEWLINE]– Peter Reiss</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CHEMISTRY_QUOTE_2">
+			<Text>“Kimyagerler genellikle kekelemez. Kekeleselerdi bu çok tuhaf olurdu, zira bazen methylethylamylophenylium gibi kelimeleri telaffuz etmek zorunda kalırlar.” [NEWLINE]– Sir William Crookes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_QUOTE_1">
+			<Text>“Çocukluğumuzdan beri arabalar pek de gelişmedi. İşin özüne inerseniz, hâlâ bir benzinli motor.” [NEWLINE]– Dana Brunetti</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_QUOTE_2">
+			<Text>“Her zaman düşünmüşümdür ki, içten yanmalı motorun atın yerini alması, insanlığın ilerleyişinde oldukça kasvetli bir dönüm noktası olmuştur.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_QUOTE_1">
+			<Text>“Elbette jetler hızlı ve ekonomik, ama, ah bir bilseniz, verimlilik yarışında ne kadar eğlenceyi kaybettik ve ne kadar boş vakti feda ettik.” [NEWLINE]– Ginger Rogers</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_FLIGHT_QUOTE_2">
+			<Text>“Tanrı gerçekten insanların uçmasını isteseydi, havaalanına ulaşmayı kolaylaştırırdı.” [NEWLINE]– George Winters</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_QUOTE_1">
+			<Text>“Roket bilimi, gerçek zorluğuyla hiç orantılı olmayacak şekilde efsaneleştirildi.” [NEWLINE]– John Carmack</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_QUOTE_2">
+			<Text>“Bir roket fırlattığınızda, o roketi gerçekten uçurmazsınız. Sadece bir şekilde tutunursunuz.” [NEWLINE]– Michael P. Anderson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_QUOTE_1">
+			<Text>“Eğitimsiz cesaret, eğitimli kurşunlar karşısında işe yaramaz.” [NEWLINE]– George Patton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_BALLISTICS_QUOTE_2">
+			<Text>“Ay’ı hedef al. Iskalarsan, bir yıldıza çarpabilirsin.” [NEWLINE]– W. Clement Stone</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBINED_ARMS_QUOTE_1">
+			<Text>“Hiçbir şey için yaşamaktansa, bir şey için savaşmak daha iyidir.” [NEWLINE]– George S. Patton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBINED_ARMS_QUOTE_2">
+			<Text>“Savaştaki en hesaplanamaz şey insan iradesidir.” [NEWLINE]– B.H. Liddell Hart</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_QUOTE_1">
+			<Text>“Başlıca şiirsel maddelerin hiyerarşisinde plastik, kauçuğun taşkınlığı ile metalin yavan sertliği arasında kaybolmuş, gözden düşmüş bir malzeme olarak yer alır.” [NEWLINE]– Roland Barthes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_QUOTE_2">
+			<Text>“Bu dünyada hiçbir şey sonsuza dek sürmez. Plastik belki hariç.” [NEWLINE]– Patricia Dunn</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_QUOTE_1">
+			<Text>“Hata yapmak insana mahsustur, ama işleri gerçekten berbat etmek için bir bilgisayara ihtiyacınız var.” [NEWLINE]– Paul R. Ehrlich</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_QUOTE_2">
+			<Text>“Bilgisayarların iyi yanı, onlara ne söylerseniz onu yapmalarıdır. Kötü haber ise, onlara ne söylerseniz onu yapmalarıdır.” [NEWLINE]– Ted Nelson</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FISSION_QUOTE_1">
+			<Text>“Bu nükleer silahlanma yarışına devam ederseniz, yapacağınız tek şey molozları zıplatmak olacak.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FISSION_QUOTE_2">
+			<Text>“Atomu rahat bırakın.” [NEWLINE]- E. Y. Harburg</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_QUOTE_1">
+			<Text>“Bu kültürde o kadar çok plastik var ki vinil leopar desenli kumaş nesli tükenmekte olan bir sentetik haline geliyor.” [NEWLINE]– Lily Tomlin</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_QUOTE_2">
+			<Text>“Polyester için belki de af yoktur. Bu konuda Şeytan ve Rab aynı fikirdedir.” [NEWLINE]– Joe Hill</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TELECOMMUNICATIONS_QUOTE_1">
+			<Text>“Bay Watson… Buraya gelin… Sizi görmek istiyorum.” [NEWLINE]- Alexander Graham Bell</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TELECOMMUNICATIONS_QUOTE_2">
+			<Text>“İletişimdeki en büyük sorun, iletişimin gerçekleştiği yanılsamasıdır.” [NEWLINE]– George Bernard Shaw</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SATELLITES_QUOTE_1">
+			<Text>“Bir uydunun vicdanı yoktur.” [NEWLINE]– Edward R. Murrow</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SATELLITES_QUOTE_2">
+			<Text>“Şu anda dünyanın etrafında otuz bir uydu, size marketin yolunu buldurmaktan başka yapacak daha iyi bir şey olmaksızın dönüp duruyor.” [NEWLINE]– Ed Burnette</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUIDANCE_SYSTEMS_QUOTE_1">
+			<Text>“Rotanızı değiştirmezseniz, varmakta olduğunuz yere varabilirsiniz.” [NEWLINE]– Lao Tzu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_GUIDANCE_SYSTEMS_QUOTE_2">
+			<Text>“Annemin eve dönerken GPS ile tartışmasını izlemeye bayılıyorum.” [NEWLINE]– Isabelle Fuhrman</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LASERS_QUOTE_1">
+			<Text>“Tanrı 'Işık olsun' dediğinde, kesinlikle mükemmel uyumlu ışığı kastetmiş olmalı.” [NEWLINE]– Charles Townes</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LASERS_QUOTE_2">
+			<Text>“Ben lazerlere büyük inanırım – gerçekten de geleceğin dalgası olduklarını düşünüyorum.” [NEWLINE]– Courteney Cox</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPOSITES_QUOTE_1">
+			<Text>“Tüm maddi şeyler, Akıllı Bir Fail'in öğüdüyle ilk Yaratılışta çeşitli şekillerde bir araya getirilmiş sert ve katı parçacıklardan oluşmuş gibi görünüyor.” [NEWLINE]– Isaac Newton</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPOSITES_QUOTE_2">
+			<Text>“Açıktır ki, bilim Cennet'i Dünya'ya getirmeye çabalarken bazı insanlar onun malzemelerini Cehennem'in inşasında kullanmaktadır.” [NEWLINE]– Herbert Hoover</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEALTH_TECHNOLOGY_QUOTE_1">
+			<Text>“Görünmezliğin eğlenceli bir güç olabileceğini söyleyebilirim, sırf dünyada hareket ederken bakılmamanın nasıl bir şey olduğunu görmek için.” [NEWLINE]- Kevin Bacon</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEALTH_TECHNOLOGY_QUOTE_2">
+			<Text>“Sanatta ve düşte kendinizi kaybedercesine ilerleyin. Hayatta ise denge ve gizlilikle ilerleyin.” [NEWLINE]– Patti Smith</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_QUOTE_1">
+			<Text>“Robotik sonsuzdur, ve sonsuza dek bir sonraki büyük şey olmuştur. O kadar heyecan verici ve cezbedicidir ki, kendinizi kaptırmanız kolaydır.” [NEWLINE]– Colin Angle</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_QUOTE_2">
+			<Text>“Geri döneceğim.”</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NANOTECHNOLOGY_QUOTE_1">
+			<Text>“Teknoloji değişimin motoruysa, nanoteknoloji insanlığın geleceği için yakıttır.” [NEWLINE]– Natasha Vita-More</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NANOTECHNOLOGY_QUOTE_2">
+			<Text>“Nanoteknolojinin elinde pek çok kural bükülmeye başlamıştı… Bu, çok iyiye ve çok kötüye yol açtı.” [NEWLINE]– Matt Spire</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_QUOTE_1">
+			<Text>“Geleceği yaratmak için rüya gibisi yoktur.” [NEWLINE]– Victor Hugo</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_QUOTE_2">
+			<Text>“Gelecek uzak görünse de aslında tam şu anda başlıyor.” [NEWLINE]– Mattie Stepanek</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FUSION_QUOTE_1">
+			<Text>“Füzyon enerjisinden yararlanmanın büyük bir savunucusuyum – 93 milyon mil uzaktan. Güneşimiz füzyonu gerçekten çok iyi ve bedavaya yapıyor. Dünya'daki reaktörlerde ise pek öyle değil.” [NEWLINE]– Joe Romm</Text>
+		</Row>
+		<Row Tag="LOC_TECH_NUCLEAR_FUSION_QUOTE_2">
+			<Text>“Geceleyin yukarı bakıp yıldızları gördüğümüzde, gördüğümüz her şey uzaktaki nükleer füzyon sayesinde parlıyor.” [NEWLINE]– Carl Sagan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CODE_OF_LAWS_QUOTE_1">
+			<Text>“Yasayı yapan bilgelik değil, otoritedir.” [NEWLINE]– Thomas Hobbes</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CODE_OF_LAWS_QUOTE_2">
+			<Text>“En iyi halinde insan, hayvanların en soylusudur; yasa ve adaletten ayrıldığında ise en kötüsüdür.” [NEWLINE]– Aristoteles</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CRAFTSMANSHIP_QUOTE_1">
+			<Text>“Zanaat olmadan ilham, rüzgarda sallanan bir kamıştan ibarettir.”[NEWLINE] – Johannes Brahms</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CRAFTSMANSHIP_QUOTE_2">
+			<Text>“Hayal gücü olmayan beceri zanaattır ve bize hasır piknik sepetleri gibi pek çok kullanışlı nesne kazandırır.” [NEWLINE]– Tom Stoppard</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_QUOTE_1">
+			<Text>“Her ulus alışverişle yaşar.” [NEWLINE]– Adam Smith</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FOREIGN_TRADE_QUOTE_2">
+			<Text>“Sanırım ticaretin olumlu yanı bu. Dünya birbirine karışıyor.” [NEWLINE]– Isabel Hoving</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_QUOTE_1">
+			<Text>“Cesaret, korktuğunu bilen tek kişi olmaktır.” [NEWLINE]– Albay David Hackworth</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRADITION_QUOTE_2">
+			<Text>“Askeri bilginin değerini küçümsemem, ancak insanlar kurallara kölece itaat ederek savaşırlarsa başarısız olurlar.” [NEWLINE]– Ulysses S. Grant</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATE_WORKFORCE_QUOTE_1">
+			<Text>“Güçlü bir ekonomi, güçlü ve iyi eğitimli bir iş gücüyle başlar.”[NEWLINE]– Bill Owens</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_STATE_WORKFORCE_QUOTE_2">
+			<Text>“Mutlu ve bağlı bir iş gücüne sahip olmak, kârlı bir kâr marjına sahip olmak kadar önemlidir.” [NEWLINE]– Vern Dosch</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_QUOTE_1">
+			<Text>“Geçmişe, yükselip düşen değişen imparatorluklarıyla bir bak; geleceği de öngörebilirsin.” [NEWLINE]– Marcus Aurelius</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EARLY_EMPIRE_QUOTE_2">
+			<Text>“Roma İmparatorluğu'nu çökerten, klima gibi lükslerdi. Klima sayesinde pencereleri kapalıydı; barbarların geldiğini duyamadılar.”[NEWLINE] – Garrison Keillor</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_QUOTE_1">
+			<Text>“Gizemcilik, rastlantısal ve bireysel bir simgeyi evrensel bir simgeyle karıştırma hatasıdır.” [NEWLINE]– Ralph Waldo Emerson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MYSTICISM_QUOTE_2">
+			<Text>“Militan mistisizm uyguladığımı söylemeyi severim. Tam olarak bilmediğim bazı şeylerden mutlak surette eminim.” [NEWLINE]– Rob Bell</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMES_RECREATION_QUOTE_1">
+			<Text>“Ekmek hayatın ilk ihtiyacıysa, eğlence çok yakın bir ikincidir.” [NEWLINE]– Edward Bellamy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GAMES_RECREATION_QUOTE_2">
+			<Text>“Dinlenmeye vakit bulamayanlar, er ya da geç hastalığa vakit bulurlar.” [NEWLINE]– John Wanamaker</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_QUOTE_1">
+			<Text>“Siyaset, mümkün olanın, ulaşılabilir olanın sanatıdır; en iyiye en yakın olanın sanatı.” [NEWLINE]– Otto von Bismarck</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_QUOTE_2">
+			<Text>“Böl ve yönet, sağlam bir özdeyiş. Birleştir ve liderlik et, daha iyisi.” [NEWLINE]– Johann Wolfgang von Goethe</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DRAMA_POETRY_QUOTE_1">
+			<Text>“Şairler peynir konusunda esrarengiz bir şekilde sessiz kalmışlardır.” [NEWLINE]- G. K. Chesterton</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DRAMA_POETRY_QUOTE_2">
+			<Text>“Tüm dünya bir sahnedir ve tüm erkeklerle kadınlar sadece oyunculardır.” [NEWLINE]– William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_QUOTE_1">
+			<Text>“Öldürmek doğal bir şeyse, neden insanlar nasıl öldüreceklerini öğrenmek için eğitime gitmek zorunda?” [NEWLINE]– Joan Baez</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MILITARY_TRAINING_QUOTE_2">
+			<Text>“Kavgalara karışanlar, çoğu kez kanlı bir burun silmek zorunda kalır.” [NEWLINE]- John Gay</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DEFENSIVE_TACTICS_QUOTE_1">
+			<Text>“Yenilmezlik savunmada yatar; zaferin olasılığı ise saldırıdadır.” [NEWLINE]– Sun Tzu</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DEFENSIVE_TACTICS_QUOTE_2">
+			<Text>“Savunma, zenginlikten üstündür.” [NEWLINE]– Adam Smith</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RECORDED_HISTORY_QUOTE_1">
+			<Text>“Hayatımda bazı korkunç şeyler yaşadım, bazıları gerçekten oldu.” [NEWLINE]- Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RECORDED_HISTORY_QUOTE_2">
+			<Text>“Tarih, insanların üzerinde anlaşmaya karar verdiği geçmiş olayların versiyonudur.” [NEWLINE]– Napolyon Bonapart</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_QUOTE_1">
+			<Text>“Teoloji olmadan kesin dini düşünceye sahip olmak, matematik olmadan kesin ölçüm ve astronomiye, ya da kimya olmadan kesin demir üretimine sahip olmaktan daha mümkün değildir.” [NEWLINE]– John Hall</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THEOLOGY_QUOTE_2">
+			<Text>“İnsan, tanrıların eğlence için yarattığı şeyleri ciddiye aldığı için acı çeker.” [NEWLINE]– Alan W. Watts</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_QUOTE_1">
+			<Text>“İyi bir donanma savaşa kışkırtma değildir. Barışın en güvenilir teminatıdır.” [NEWLINE] – Theodore Roosevelt</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NAVAL_TRADITION_QUOTE_2">
+			<Text>“Donanmanın hem bir geleneği hem de bir geleceği vardır – ve biz her iki yöne de gurur ve güvenle bakarız.” [NEWLINE]– Arleigh Burke</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_QUOTE_1">
+			<Text>“Demokraside sayılan oyunuzdur; feodalizmde ise oy kullanan kontunuzdur.” [NEWLINE]– Mogens Jallberg</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_QUOTE_2">
+			<Text>“Feodalizmin ilerlemesiyle birlikte demir zırhın gelişimi geldi; ta ki sonunda bir savaşçı, bir armadilloya benzeyene kadar.” [NEWLINE]– John Boyle O’Reilly</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_1">
+			<Text>“Her şey evrak ve formlardan ibaret; tüm kamu hizmeti, evrak, form ve bürokrasiden yapılma bir kaleye benziyor.” [NEWLINE] – Alexander Ostrovsky</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_2">
+			<Text>"Vergi mükellefi - bu, federal hükümet için çalışan ama kamu hizmeti sınavına girmek zorunda olmayan kişidir." [NEWLINE]- Ronald Reagan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_QUOTE_1">
+			<Text>“Barışta paralı askerler tarafından soyulursun; savaştaysa düşmanların tarafından.” [NEWLINE]– Niccolò Machiavelli</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCENARIES_QUOTE_2">
+			<Text>“Paralı asker olmak… Yani, biz sadece paranın ve belanın bir arada olduğu her yere gideriz.” [NEWLINE]– Howard Tayler</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MEDIEVAL_FAIRES_QUOTE_1">
+			<Text>“Her parlayan altın değildir; bunu sık sık duymuşsunuzdur.” [NEWLINE]– William Shakespeare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MEDIEVAL_FAIRES_QUOTE_2">
+			<Text>“Bir tüccarı kandırmadıkça iyi bir alışveriş yaptığını düşünmeyen pek dürüst insanlar vardır.” [NEWLINE]– Anatole France</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GUILDS_QUOTE_1">
+			<Text>“Her insan oğluna faydalı bir zanaat ya da meslek öğretmeli ki, değişen talihlerin hüküm sürdüğü bu günlerde… somut bir dayanağa sahip olabilsin.” [NEWLINE]– Phineas T. Barnum</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GUILDS_QUOTE_2">
+			<Text>“Hırsızlar Loncası'nı tutuklamaya kalkışamazsınız. Yani, bütün gün uğraşırız!” [NEWLINE]– Terry Pratchett</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_QUOTE_1">
+			<Text>“O halde, kralların gücüne dair bu noktayı şu ilahiyat aksiyomuyla sonuçlandırıyorum: Tanrı'nın ne yapabileceğini sorgulamak küfürse… bir kralın ne yapabileceğini sorgulamak da fitnedir.” [NEWLINE]– I. Kral James</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIVINE_RIGHT_QUOTE_2">
+			<Text>“Dinleyin, göllerde yatarak kılıç dağıtan garip kadınlar bir yönetim sistemi için temel olamaz… Sırf sulu bir sürtük size bir kılıç fırlattı diye yüce gücü kullanmayı bekleyemezsiniz!” [NEWLINE]– Monty Python</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_QUOTE_1">
+			<Text>“Keşfetmeyi bıraktığımız gün, meraktan yoksun, hayallerden arınmış, durağan bir dünyada yaşamaya mahkûm olduğumuz gündür.” [NEWLINE]– Neil deGrasse Tyson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXPLORATION_QUOTE_2">
+			<Text>“Keşfetmekten vazgeçmeyeceğiz ve tüm keşiflerimizin sonu, başladığımız yere varıp orayı ilk kez tanımak olacak.” [NEWLINE]– T.S. Eliot</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HUMANISM_QUOTE_1">
+			<Text>“Hümanizmin dört özelliği merak, özgür bir zihin, iyi zevke inanç ve insan ırkına inançtır.” [NEWLINE]– E.M. Forster</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_HUMANISM_QUOTE_2">
+			<Text>“İnsanlığa olan inancınızı kaybetmemelisiniz. İnsanlık bir okyanus gibidir; okyanusun birkaç damlası kirliyse okyanus kirlenmez.” [NEWLINE]- Mahatma Gandhi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_1">
+			<Text>“Diplomaside iki tür sorun vardır: küçük olanlar ve büyük olanlar. Küçük olanlar kendi kendine çözülür, büyük olanlar hakkında ise hiçbir şey yapamazsınız.” [NEWLINE]– Patrick McGuinness</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_2">
+			<Text>“Diplomat, bir kadının doğum gününü her zaman hatırlayıp yaşını asla hatırlamayan adamdır.” [NEWLINE]– Robert Frost</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMED_CHURCH_QUOTE_1">
+			<Text>"Cennet ve Cehennem hakkında kendimi bağlamayı sevmem, anlıyorsunuz ya, iki yerde de arkadaşlarım var." [NEWLINE]- Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_REFORMED_CHURCH_QUOTE_2">
+			<Text>“Modern uygarlığın üç büyük unsuru: barut, matbaa ve Protestan dini.” [NEWLINE]– Thomas Carlyle</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_QUOTE_1">
+			<Text>“Ne var ki piyasa ekonomisinde bireyin devletin gücünden kaçma olasılığı vardır.” [NEWLINE]– Peter Berger</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_QUOTE_2">
+			<Text>“Piyasa dışı bir ekonomiyi gördükten sonra, piyasa ekonomisinde neyi sevdiğimi birdenbire çok daha iyi anladım.” [NEWLINE]– Esther Dyson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_QUOTE_1">
+			<Text>“Yeni fikirler her zaman şüpheyle karşılanır ve genellikle karşı çıkılır, tek sebep henüz yaygın olmamalarıdır.” [NEWLINE]– John Locke</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_THE_ENLIGHTENMENT_QUOTE_2">
+			<Text>“Doğaya aykırı olan her şey akla aykırıdır, akla aykırı olan her şey de saçmadır.” [NEWLINE]– Baruch Spinoza</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_QUOTE_1">
+			<Text>“Unutmayın ki siyaset, sömürgecilik, emperyalizm ve savaş da insan beyninde doğmuştur.” [NEWLINE]– Vilayanur Ramachandran</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_QUOTE_2">
+			<Text>“Sömürgecilik; aklın egemenliğinin zorla yayılması. Peki bunu sömürgeciler arasında kim yayacak?” [NEWLINE]– Anthony Burgess</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_QUOTE_1">
+			<Text>“İyileştirme düz yollar yapar; ancak iyileştirilmemiş dolambaçlı yollar Deha'nın yollarıdır.” [NEWLINE]– William Blake</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CIVIL_ENGINEERING_QUOTE_2">
+			<Text>“İnsanların tamamen aptal geçirmez bir şey tasarlamaya çalışırken yaptıkları yaygın bir hata, tam aptalların yaratıcılığını hafife almaktır.” [NEWLINE]– Douglas Adams</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_QUOTE_1">
+			<Text>“Ulusları doğuran milliyetçiliktir, tersi değil.” [NEWLINE]– Ernest Gellner</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATIONALISM_QUOTE_2">
+			<Text>“Kabilecilik ve milliyetçilikte tezahür eden insan doğası, insan evrimi makinesine ivme kazandırır.” [NEWLINE]– Arthur Keith</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_QUOTE_1">
+			<Text>“Opera, bir adamın sırtından bıçaklanıp kanamak yerine şarkı söylemesidir.” [NEWLINE]- Robert Benchley</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_OPERA_BALLET_QUOTE_2">
+			<Text>“O [bale] kırılgan bir güç ve esnek olmayan bir kesinlik yansıtır.” [NEWLINE]– Ayn Rand</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_QUOTE_1">
+			<Text>“Yaratılış anında orada olsaydım, evrenin daha iyi düzenlenmesi için bazı yararlı ipuçları verirdim.” [NEWLINE]- Nelson Algren</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NATURAL_HISTORY_QUOTE_2">
+			<Text>“Doğa Tarihi üzerine tüm eserlerde, hayvanların besinlerine, alışkanlıklarına ve bulundukları yerlere olan hayranlık uyandıran uyumlarının ayrıntılarını sürekli buluruz.” [NEWLINE]– Alfred Wallace</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_QUOTE_1">
+			<Text>“Savaş cehennemdir.” [NEWLINE]– William Tecumseh Sherman</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SCORCHED_EARTH_QUOTE_2">
+			<Text>“Ya dostluğu anlarım ya da yakıp yıkmayı.” [NEWLINE]– Roger Ailes</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_URBANIZATION_QUOTE_1">
+			<Text>“Anonimlik hissine yol açan, Sanayi Devrimi ve kentsel yoğunlaşmanın büyümesidir.” [NEWLINE]– Vint Cerf</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_URBANIZATION_QUOTE_2">
+			<Text>“Şehirlerde sevdiğim şey, her şeyin kral boyutunda olmasıdır; hem güzellik hem de çirkinlik.” [NEWLINE]– Joseph Brodsky</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CAPITALISM_QUOTE_1">
+			<Text>“Kapitalizmin doğasında var olan kusur, nimetlerin eşitsiz paylaşılmasıdır; sosyalizmin doğasında var olan erdem ise sefaletin eşit paylaşılmasıdır.” [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CAPITALISM_QUOTE_2">
+			<Text>“Paraya sürtünmeyi dene; çünkü yeterince uzun süre paraya sürtünürsen, birazı sana bulaşabilir.” [NEWLINE]- Damon Runyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_QUOTE_1">
+			<Text>“Su ve hava, yaşamın bağlı olduğu iki temel unsur, küresel çöp tenekelerine dönüştü.” [NEWLINE]– Jacques Yves Cousteau</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CONSERVATION_QUOTE_2">
+			<Text>“Ekonomik kazanç için yağmur ormanlarını yok etmek, yemek pişirmek için bir Rönesans tablosunu yakmaya benzer.” [NEWLINE]– Edward Wilson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MASS_MEDIA_QUOTE_1">
+			<Text>“Kitle iletişim araçlarının etkisi inanç uyandırmak değil, bağımlılık mekanizmasını ayakta tutmaktır.” [NEWLINE]– Christopher Lasch</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MASS_MEDIA_QUOTE_2">
+			<Text>"Gazete okumazsanız habersiz, gazete okursanız yanlış haber alırsınız." [NEWLINE]—Mark Twain</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_QUOTE_1">
+			<Text>"Savaşa hazırlanırken, zorbalıkla yönetenler, seferberliği tamamlayana dek en çok barıştan söz ederler." [NEWLINE]– Stefan Zweig</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MOBILIZATION_QUOTE_2">
+			<Text>"Halkı harekete geçirmek için hükümetlerin düşmanlara ihtiyacı vardır... gerçek bir düşmanları yoksa bizi seferber etmek için bir tane icat ederler." [NEWLINE]– Nhat Hanh</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_QUOTE_1">
+			<Text>"Atom gücünün serbest kalması, düşünce tarzımız dışında her şeyi değiştirdi... bu sorunun çözümü insanlığın kalbinde yatıyor. Keşke bilseydim, bir saatçi olurdum." [NEWLINE]– Albert Einstein</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NUCLEAR_PROGRAM_QUOTE_2">
+			<Text>"Nükleer çağın çocukları, bence, sevme kapasiteleri zayıflamıştı. Darbeye hazırlanırken sevmek zordur." [NEWLINE]– Martin Amis</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_QUOTE_1">
+			<Text>"En insanlık dışı olanı bile hiçbir sistemin ideoloji olmadan varlığını sürdüremeyeceği kanıtlanmıştır." [NEWLINE]– Joe Slovo</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_IDEOLOGY_QUOTE_2">
+			<Text>"Yavaş yavaş fikirler ideolojiye, ideoloji politikaya, politika da eyleme dönüşür." [NEWLINE]– Nandan Nilekani</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SUFFRAGE_QUOTE_1">
+			<Text>"Bir kadın neden farklı muamele görmeli? Kadınların oy hakkı, bu sefil gerilla muhalefetine rağmen başarılı olacak." [NEWLINE]– Victoria Woodhull</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SUFFRAGE_QUOTE_2">
+			<Text>"Erkekler, hakları ve fazlası değil; kadınlar, hakları ve eksiği değil." [NEWLINE]– Susan B. Anthony</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TOTALITARIANISM_QUOTE_1">
+			<Text>"Totalitarizmin ivmesinden yalnızca güruh ve seçkinler etkilenebilir. Kitleler propaganda ile kazanılmalıdır." [NEWLINE]– Hannah Arendt</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_TOTALITARIANISM_QUOTE_2">
+			<Text>"Her ideolojinin nihai varış noktası totalitarizmdir." [NEWLINE]– Tom Robbins</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CLASS_STRUGGLE_QUOTE_1">
+			<Text>"Sınıf savaşı var, elbette, ama savaşı benim sınıfım, zengin sınıfı yürütüyor... ve biz kazanıyoruz." [NEWLINE]– Warren Buffett</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CLASS_STRUGGLE_QUOTE_2">
+			<Text>"Sınıf mücadelesi kaçınılmaz olarak proletarya diktatörlüğüne götürür." [NEWLINE]– Karl Marx</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_QUOTE_1">
+			<Text>"Baltık'taki Stettin'den Adriyatik'teki Trieste'ye kadar kıta üzerine bir demir perde inmiştir." [NEWLINE]– Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLD_WAR_QUOTE_2">
+			<Text>"Soğuk Savaş çözülmüyor; ölümcül bir sıcaklıkla yanıyor." [NEWLINE]– Richard Nixon</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_QUOTE_1">
+			<Text>"Kazanmak her şey değilse, neden skor tutuyorlar?" [NEWLINE]– Vince Lombardi</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_QUOTE_2">
+			<Text>"Spor karakter inşa etmez, karakteri ortaya çıkarır." [NEWLINE]- Heywood Broun</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_QUOTE_1">
+			<Text>"Geçmiş tarihi, kökeni ve kültürü hakkında bilgisi olmayan bir halk, kökleri olmayan bir ağaca benzer." [NEWLINE]– Marcus Garvey</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HERITAGE_QUOTE_2">
+			<Text>"Mirasınıza tesadüfen rastlamazsınız. O oradadır, sadece keşfedilmeyi ve paylaşılmayı bekler." [NEWLINE]– Robbie Robertson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_QUOTE_1">
+			<Text>"Şimdi şiddetle uygulanan iyi bir plan, gelecek hafta uygulanan mükemmel bir plandan çok daha iyidir." [NEWLINE]- George S. Patton</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_RAPID_DEPLOYMENT_QUOTE_2">
+			<Text>"Manevraları boş verin, doğrudan üzerlerine gidin." [NEWLINE]- Horatio Nelson</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SPACE_RACE_QUOTE_1">
+			<Text>"Bu on yıl içinde Ay'a gitmeyi ve diğer şeyleri yapmayı seçiyoruz, kolay oldukları için değil, zor oldukları için." [NEWLINE]– John F. Kennedy</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SPACE_RACE_QUOTE_2">
+			<Text>"NASA, uzayda yazabilmek için tükenmez kalemi icat etmeye milyonlarca dolar harcadı. Ruslar bir kalem aldı." [NEWLINE]– Will Chabot</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_QUOTE_1">
+			<Text>"Küreselleşmeye karşı çıkmanın, yerçekimi yasalarına karşı çıkmak gibi olduğu söylenmiştir." [NEWLINE]– Kofi Annan</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBALIZATION_QUOTE_2">
+			<Text>"Bir gün ne sınırlar, ne hudutlar, ne bayraklar ne de ülkeler olacak ve tek pasaport kalp olacak." [NEWLINE]– Carlos Santana</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_QUOTE_1">
+			<Text>"Bütün önemli hiçlerimden hangisini size ilk anlatayım?" [NEWLINE]-Jane Austen</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SOCIAL_MEDIA_QUOTE_2">
+			<Text>"Dikkat dağıtan şeyden, yine dikkat dağıtan başka bir şeyle dikkatim dağılıyor!"[NEWLINE] – T.S. Eliot</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_QUOTE_1">
+			<Text>"Geleceği asla geçmişe bakarak planlayamazsınız." [NEWLINE]-Edmund Burke</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_QUOTE_2">
+			<Text>"Geleceği asla düşünmem. Zaten yeterince çabuk geliyor."[NEWLINE] –Albert Einstein</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BHASA_1_QUOTE">
+			<Text>O, heybetli dağlara düşen bir yıldırım gibidir,[NEWLINE]tüm kuşlar arasında kartal gibi, vahşi hayvanlar topluluğunda aslan gibi,[NEWLINE]insan biçimindeki ölüm.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BHASA_2_QUOTE">
+			<Text>Ey kalbim, şüphelerinin gerçeğiyle yetin. Babamın ölümünü şimdi öğren ve bir anlığına sakin ol.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_1_QUOTE">
+			<Text>Öyleyse şan-şerefsizce ve mücadele etmeden ölmeyeyim, bırak önce insanlar arasında anlatılacak büyük bir iş yapayım.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_HOMER_2_QUOTE">
+			<Text>Çünkü anlayışlı kalpli bir dost, bir kardeşten daha az değerli değildir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_1_QUOTE">
+			<Text>Bir avuç kum kaldırıp ona gösterdim, o yığındaki kum taneleri kadar yıl istedim. Ne budalaymışım! O yılların gençlik yılları olmasını istemeyi unuttum.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_OVID_2_QUOTE">
+			<Text>Şans her şeye kadirdir. Her zaman oltanı at; en az beklediğin gölette bir balık bulacaksın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_1_QUOTE">
+			<Text>Işıktan ışık geldi, karanlıktan karanlık, peki onlar nereden ortaya çıktı? Yin ve yang birleşerek her şeyi yaratır, ama hangisi kaynaktır ve hangisi ondan doğmuştur?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_QU_YUAN_2_QUOTE">
+			<Text>Zaman durmaksızın ileri doğru yuvarlanır,[NEWLINE]Mevsimler ilkbahar ve sonbahar arasında döner.[NEWLINE]Etrafımdaki yeşilin solduğunu izlerken,[NEWLINE]Gençliğime batan güneşten korkuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_1_QUOTE">
+			<Text>Bir ŞÖVALYE vardı, değerli bir adam,[NEWLINE]Ki o, ilk atına binip dışarı çıktığı zamandan beri,[NEWLINE]Şövalyelik sevgisiyle yanıp tutuştu,[NEWLINE]Doğruluk ve onur, özgürlük ve nezaket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CHAUCER_2_QUOTE">
+			<Text>"Eğer sizi mutlu edebilecek kişi o isem," [NEWLINE]"Her keder için bir mutluluk bulacaksınız;" [NEWLINE]Ve onu kollarına alıp öpmeye başladı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_1_QUOTE">
+			<Text>Çiçekler kuşatır beni, tek başıma içkimle,[NEWLINE]Kendime koyarım, yoktur bana eşlik edecek dost.[NEWLINE]Kadehimi kaldırır, dolunaya kadeh kaldırırım,[NEWLINE]Gölgemle birlikte üç kişi oluruz.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_LI_BAI_2_QUOTE">
+			<Text>Bu en durgun sıcakta yelpazelenirim,[NEWLINE]Orman her şeyi açığa vurmaya çağırır.[NEWLINE]Kavuğumu kayalık bir sarp yamaca asar,[NEWLINE]Başım açık, hoş kokulu havada yıkanırım.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_1_QUOTE">
+			<Text>Küçük bir çocukken ağabeyim Nobunori Çin klasiklerini çalışırdı ve ben de onun derslerine oturup dinlemeyi severdim. O anlamakta veya pasajları ezberlemekte zorlanırken bile benim için bunların dikkat çekici derecede kolay olduğunu fark ettim. Kendisi de okumuş bir adam olan babam, bu duruma sık sık üzülerek şöyle derdi: 'Ne yazık! Keşke erkek doğsaydın!'</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MURASAKI_2_QUOTE">
+			<Text>Yeni ot, nerede filizlenip büyüyeceğini bile bilmezsin. Bir çiy damlası olan ben, seni yapayalnız bırakarak havada nasıl kaybolup gidebilirim?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_1_QUOTE">
+			<Text>Bu odadan çıkıp İmparator'un Yatak Odasına açılan bir geçit vardı; duvarları jet taşından, zemini siyah mermerdendi; tavanı sedef olup Ay ve Alevli Yıldızlar beyaz elmaslarla temsil edilmişti ve yatağı elmas ile yakuttan yapılmıştı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAVENDISH_2_QUOTE">
+			<Text>İnsanın beş Dış Duyusu olduğu bilinir ve her duyu diğerinden habersizdir; çünkü Burun, Gözlerin gördüğünü bilmez; Gözler, Kulakların duyduğunu bilmez; ne de Kulaklar, Dilin tattığını bilir...</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_1_QUOTE">
+			<Text>İstersen kuşku duy, ancak gerçek benim anlattığımdır ve daima yalanların üstünde, suyun üstündeki yağ gibi durur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CERVANTES_2_QUOTE">
+			<Text>Ve genç ve neşeli olduklarından, şehrin güzel kızları hakkında bir şeyler duyma fırsatını asla kaçırmazlardı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_1_QUOTE">
+			<Text>Bu nedenle şunu belirtmek gerekir: insanlar ya kandırılmalı ya da yok edilmelidir. Çünkü hafif hakaretlerin intikamını alırlar, ağır olanlarını ise alamazlar; bu yüzden bir adama yapılan hakaret, onun intikam korkusunu tamamen ortadan kaldıracak türden olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_MACHIAVELLI_2_QUOTE">
+			<Text>Bir cumhuriyet kuran ve ona yasalar koyan kişinin, tüm insanları kötü ve ruhlarındaki kötülüğü her fırsatta kullanmaya hazır varsayması gerekir...</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_1_QUOTE">
+			<Text>Ah, ay için yemin etme, o değişken ay,[NEWLINE]Her ay döner dairesinde,[NEWLINE]Yoksa aşkın da bir o kadar değişken olduğunu ispatlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHAKESPEARE_2_QUOTE">
+			<Text>Olmak ya da olmamak? İşte bütün mesele bu—[NEWLINE]Akılda katlanmak mı daha soylu[NEWLINE]Kahredici feleğin sapanına, oklarına,[NEWLINE]Yoksa bir dertler denizine karşı silaha sarılıp,[NEWLINE]Karşı koyarak onlara son vermek mi?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_1_QUOTE">
+			<Text>Ve o kadar güzeldi ki ona Prenses Sarıbukle derlerdi; çünkü saçları altından daha inceydi, harikulade parlak ve kıvrıla kıvrıla ayaklarına kadar uzanırdı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_D_AULNOY_2_QUOTE">
+			<Text>Yunus şöyle devam etti: 'Eğer beni serbest bırakacak kadar iyi ve cömert olursanız, size hayatım boyunca öyle gerçek hizmetlerde bulunurum ki bu iyiliğinizden asla pişman olmazsınız.'</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_1_QUOTE">
+			<Text>Hayaller, hayaller! Nereye gittiniz? Ne kadar tatlıydınız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_PUSHKIN_2_QUOTE">
+			<Text>Makamında ağarmış bir sulh hakimi gibi,[NEWLINE]Sakin sakin izler hem haklıyı[NEWLINE]Hem de haksızı; kayıtsızca not eder[NEWLINE]Kötüyü ve iyiyi, bilmez ne öfke ne de merhamet.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_1_QUOTE">
+			<Text>"Alçaklar!" diye çığlık attım, "daha fazla saklamayın! Suçu itiraf ediyorum! — tahtaları sökün! işte, işte! — Bu onun iğrenç kalbinin atışı!"</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_POE_2_QUOTE">
+			<Text>Ben uyuklarken, neredeyse dalıp gitmişken, ansızın bir tıpırtı geldi,[NEWLINE]Sanki biri odamın kapısını usulca tıklatıyor, tıklatıyor gibi.[NEWLINE]"Bir ziyaretçi," diye mırıldandım, "odamın kapısını tıklatan —[NEWLINE]Yalnızca bu, başka bir şey değil."</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_1_QUOTE">
+			<Text>"Bir hanımefendinin hayal gücü çok hızlıdır; bir anda hayranlıktan aşka, aşktan evliliğe atlar."</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_AUSTEN_2_QUOTE">
+			<Text>Kendi mutluluğunuzu bilin. Sabırdan başka bir şeye ihtiyacınız yok — ya da ona daha büyüleyici bir ad verin, umut deyin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_1_QUOTE">
+			<Text>Kendinize güvenir güvenmez, nasıl yaşayacağınızı bileceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_GOETHE_2_QUOTE">
+			<Text>“İnsan ırkı tekdüze bir hikâyedir. Çoğu insan, yaşamak için çalışarak zamanının büyük kısmını tüketir; geriye kalan o kısacık özgürlükse onları öyle bir korkuyla doldurur ki, ondan kurtulmak için akla karayı seçerler.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_1_QUOTE">
+			<Text>O sefili gördüm — yarattığım o perişan canavarı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SHELLEY_2_QUOTE">
+			<Text>Bu haber bizi, yüz bin yıl sonrasına vaat edilen cennet manzarasından alıp şu an dünyada var olan acı ve sefalete geri getirdi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_1_QUOTE">
+			<Text>Her hayat pek çok gündür, günlerin ardı ardına dizilişi. Kendi içimizde yürür, haydutlarla, hayaletlerle, devlerle, yaşlı adamlarla, genç erkeklerle, eşlerle, dullarla, âşık kardeşlerle karşılaşırız. Ama hep kendimizle karşılaşırız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOYCE_2_QUOTE">
+			<Text>Bir bir hepsi gölgeye dönüşüyordu. Bir tutkunun tüm ihtişamıyla öteki dünyaya cesurca geçmek, yaşla birlikte hüzünle solup gitmekten iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_1_QUOTE">
+			<Text>Bir Kuş yürüyüşe kondu—[NEWLINE]Gördüğümü bilmezdi—[NEWLINE]Bir Solucanı ikiye böldü[NEWLINE]Ve çiğ çiğ yedi, o zavallıyı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_DICKINSON_2_QUOTE">
+			<Text>Başarı en tatlıdır[NEWLINE]Hiç tatmayanlara göre.[NEWLINE]Bir nektarı anlamak[NEWLINE]En derin yokluğu gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_1_QUOTE">
+			<Text>“Pierre haklıydı, mutlu olmak için mutluluğun mümkün olduğuna inanmak gerekir demişti, ben de artık inanıyorum. Ölüler ölülerini gömsün, ama ben yaşadığım sürece yaşamalı ve mutlu olmalıyım.”</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOLSTOY_2_QUOTE">
+			<Text>Dünyadaki bütün kızlar iki sınıfa ayrılırdı: birinci sınıf, onun dışındaki tüm kızları kapsardı; onlar sıradan insani duygulara sahip, gayet alelade kızlardı. Diğer sınıfsa—yalnızca kendisi—hiçbir zayıflığı olmayan, tüm insanlıktan üstün bir varlıktı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_1_QUOTE">
+			<Text>"Jim, arıların ahmakları sokmadığını söyledi ama ben buna inanmadım, çünkü defalarca kendim denedim ve beni de sokmadılar."</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TWAIN_2_QUOTE">
+			<Text>Farkında olmadan insan davranışının büyük bir yasasını keşfetmişti: Bir adamın ya da oğlan çocuğunun bir şeye göz dikmesini sağlamak için o şeyi sadece elde edilmesi zor kılmak yeterlidir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_1_QUOTE">
+			<Text>Amory Blaine, annesinden, kendisini değerli kılan her özelliği miras almıştı; gelgelelim, ifade edilemeyen birkaç rastlantısal nitelik bunun dışındaydı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_FITZGERALD_2_QUOTE">
+			<Text>Göz kamaştırıcıydı—ışıl ışıl; güzelliğini bir bakışta kavramak ıstırap gibiydi.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_1_QUOTE">
+			<Text>On dokuzuncu yüzyılın son yıllarında, bu dünyanın insanınkinden üstün fakat tıpkı insan kadar ölümlü zekâlar tarafından dikkatle ve yakından izlenmekte olduğuna kimse inanmazdı...</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_WELLS_2_QUOTE">
+			<Text>Açıklamam çok basitti ve yeterince makuldü — tıpkı birçok yanlış kuram gibi!</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_1_QUOTE">
+			<Text>Ülkeme hizmet etmeye hazırım, ama tapınışımı ülkemden çok daha büyük olan Hakikat'e saklıyorum. Ülkesine tanrı gibi tapmak, üzerine lanet getirmektir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TAGORE_2_QUOTE">
+			<Text>Bir gezgin, evini terk edip buraya geceyi seyretmeye ve eğik başıyla karanlığın mırıltısını dinlemeye gelse, eğer ben kapılarımı kapatıp ölümlü bağlarımdan kurtulmaya çalışırsam, kim var ona hayatın sırlarını fısıldayacak?</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_1_QUOTE">
+			<Text>Sevgili Bayan Glory, Robotlar insan değildir. Mekanik olarak bizden daha mükemmeldirler, hayranlık uyandıran bir rasyonel zekâya sahiptirler, ama ruhları yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CAPEK_2_QUOTE">
+			<Text>Ey Karıncaların Yüce Tanrısı, zaferin galip gelmesine izin verdin! İşte bu vesileyle seni Albay ilan ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SUN_TZU_QUOTE">
+			<Text>Muzaffer savaşçılar önce kazanır, sonra savaşa gider; mağlup savaşçılarsa önce savaşa gider, sonra kazanmanın yolunu arar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_QUOTE">
+			<Text>“Bu piramitlerin yükseklerinden kırk asır bize bakıyor.”[NEWLINE]– Napolyon Bonapart</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_QUOTE">
+			<Text>“Petra, insanın sanatının çorak kayayı görkemli bir harikaya dönüştürmedeki parlak bir tezahürüdür.”[NEWLINE]– Edward Dawson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MONT_ST_MICHEL_QUOTE">
+			<Text>“Mont Saint Michel'de Kilise ve Devlet, Ruh ve Beden, Tanrı ve İnsan birdir; hepsinin görevi kendi usulünce savaşmak ya da birbirini korumaktır.”[NEWLINE]– Henry Adams</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHICHEN_ITZA_QUOTE">
+			<Text>“Büyük Top Sahası da son derece etkileyici. Keşke bir oyun oynadıklarını görebilseydim, her ne kadar sonu oldukça şiddetli olsa da. Bence seyirci olmak daha güvenliydi.”[NEWLINE]– IslaDeb</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STONEHENGE_QUOTE">
+			<Text>“Altı yüz kişiyi, elli tonluk bir taşı kırsalda on sekiz mil sürükleyip dik konuma getirmeleri için ikna etmeye çalıştığınızı ve ardından ‘Tamam çocuklar! Yirmi tane daha böyle … sonra parti yaparız!’ dediğinizi hayal edebiliyor musunuz?”[NEWLINE]– Bill Bryson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORACLE_QUOTE">
+			<Text>“Yunus şeklinde hızlı gemiye sıçradım, bana Apollon Delphinios olarak dua edin; sunağın kendisi de Delphinios olarak anılacak ve sonsuza dek gözetilecektir.”[NEWLINE]– Homeros</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TERRACOTTA_ARMY_QUOTE">
+			<Text>“Dünyada yedi harika vardı ve Toprak Asker Ordusu'nun keşfi, dünyanın sekizinci harikasıdır diyebiliriz.”[NEWLINE]– Jacques Chirac</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ALHAMBRA_QUOTE">
+			<Text>“Buradaki her şey, nazik ve mutlu duygular uyandırmak için tasarlanmış gibi görünüyor, çünkü her şey narin ve güzel.”[NEWLINE]– Washington Irving</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CRISTO_REDENTOR_QUOTE">
+			<Text>“Böylece heykel, insanlara tek bir düşünce vermeye hizmet ediyor: ‘Her şey Tanrı’nın ellerinde.’”[NEWLINE]– Sergey Semenov</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_QUOTE">
+			<Text>“Potala Sarayı'nın çatısına ilk adım attığımda, daha önce hiç hissetmediğim bir şekilde, kendi varlığımın çatısına adım atıyormuşum gibi hissettim: daha önce hiç ziyaret etmediğim bir bilinç boyutuna.”[NEWLINE]– Pico Iyer</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGING_GARDENS_QUOTE">
+			<Text>“En üst kata çıkış merdivenlerledir ve yanlarında su makineleri bulunur; bu makineler sayesinde bu iş için özel olarak görevlendirilmiş kişiler, sürekli olarak Fırat'tan bahçeye su çıkarmakla meşguldür.”[NEWLINE]– Strabon</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FORBIDDEN_CITY_QUOTE">
+			<Text>“Tüm saray kompleksi merkezi bir eksen boyunca inşa edilmiştir, dünyanın ekseni; dört yöndeki her şey bu sarayların temsil ettiği bu merkez noktaya bağlıdır.”[NEWLINE]– Jeffrey Riegel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HERMITAGE_QUOTE">
+			<Text>“Müzeler, kültür mücadelesinin, iyinin kötüyle mücadelesinin ön saflarındadır – her halükarda, basmakalıp sözler ve ilkelliğe karşı mücadelenin.”[NEWLINE]– Mihail Piotrovski, Devlet İnziva Yeri Müzesi Müdürü</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_EIFFEL_TOWER_QUOTE">
+			<Text>“Kuleyi kıskanmalıyım. O benden daha ünlü.”[NEWLINE]– Gustave Eiffel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSUS_QUOTE">
+			<Text>“Rodos'ta, Güneş'i temsil eden yetmiş arşın yüksekliğinde bir Heykel dikildi… sanatçı, madenlerde kıtlık yaratacak kadar çok tunç harcadı.”[NEWLINE]– Bizanslı Philo</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_QUOTE">
+			<Text>“Bu Deniz Feneri, tüm gözlerin dikildiği bir odak noktasıydı.”[NEWLINE]– Henry David Thoreau</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_QUOTE">
+			<Text>“Bir opera, perde açılmadan çok önce başlar ve kapandıktan çok sonra biter. Hayal gücümde başlar, hayatım olur ve opera binasını terk ettikten çok sonra bile hayatımın bir parçası olarak kalır.”[NEWLINE]– Maria Callas</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_QUOTE">
+			<Text>“Kral Süleyman, Saba Kraliçesi'ne dilediği ve istediği her şeyi verdi; ayrıca kraliyet cömertliğinden ona verdiklerinin yanı sıra. Böylece kraliçe, hizmetkârlarıyla birlikte dönüp kendi ülkesine gitti.”[NEWLINE]– 1. Krallar, 10:13</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_QUOTE">
+			<Text>“Büyük saate bakma; onun yaptığını yap. Devam et.”[NEWLINE]– Sam Levenson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_QUOTE">
+			<Text>“Kolezyum ayakta durdukça Roma ayakta kalacak; Kolezyum yıkılınca Roma yıkılacak; Roma yıkılınca dünya yıkılacak.”[NEWLINE]– Aziz Bede</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_QUOTE">
+			<Text>“Tarihi boyunca Maracana'yı susturmayı başaran sadece üç kişi olmuştur: Papa, Frank Sinatra ve ben.”[NEWLINE]– Alcides Ghiggia, Uruguaylı futbolcu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_VENETIAN_ARSENAL_QUOTE">
+			<Text>“Venedik Cumhuriyeti'nin cephaneliğinde şu yazıt bulunur: ‘Barış zamanında savaşı düşünen şehir ne mutludur.’”[NEWLINE]– Robert Burton</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_RUHR_VALLEY_QUOTE">
+			<Text>“Almanya'nın sanayi kalbi neredeyse durmuştu. Neredeyse hiç kimse çalışmıyor, neredeyse hiçbir şey işlemiyordu. Ruhr bölgesi halkı … ülkenin geri kalanı tarafından desteklenmek zorundaydı.”[NEWLINE]– Adam Fergusson</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_QUOTE">
+			<Text>“Hindistan'ın Bihar eyaletinin tozlu ve hareketli bir köşesinde, Budizm'in merkezi olarak düşünülebilecek büyülü bir yer vardır.”[NEWLINE]– Ziyaretçi Rehberi, Bodh Gaya</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_QUOTE">
+			<Text>“Güzel ve önemli bir anıt, uluslararası ve kültürlerarası bir hazinedir … Her iki din tarafından uyum içinde paylaşılana kadar – ki bu harika bir fikir olurdu – onu güzelleştiren her iki dini de onurlandıran laik bir yapı olarak kalmalıdır.”[NEWLINE]– Ljubo Vujovic</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_QUOTE">
+			<Text>“İskenderiye Kütüphanesi'nin, tüm hayal gücü ve bilginin bir araya geldiği şişkin raflarında dolaşabiliriz; yıkımında, biriktirdiğimiz her şeyin kaybolacağı uyarısını görebiliriz.”[NEWLINE]– Alberto Manguel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_OXFORD_UNIVERSITY_QUOTE">
+			<Text>“Oxford'daki zeki adamlar... Bilinecek her şeyi bilirler. Ama hiçbiri, zeki Bay Toad kadarının yarısını bile bilmez!”[NEWLINE]– Kenneth Grahame</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BOLSHOI_THEATER_QUOTE">
+			<Text>“Bolşoy Balesi, hayal gücünün bir evreni, büyü ve büyülenme, güzellik ve romantizm dolu bir yerdir. Sayısız dünyası, zarif dansçılar, görkemli müzik ve göz alıcı kostümlerle titreşir.”[NEWLINE]– Trudy Garfunkel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BROADWAY_QUOTE">
+			<Text>“Şov dünyası gibisi yoktur.”[NEWLINE]– Irving Berlin, 'Annie Silahını Kap'</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

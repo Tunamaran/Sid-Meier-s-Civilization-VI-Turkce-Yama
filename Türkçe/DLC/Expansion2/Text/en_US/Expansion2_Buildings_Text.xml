@@ -1,0 +1,150 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--New for XP2-->
+		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_NAME">
+			<Text>Sel Bariyeri</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_DESCRIPTION">
+			<Text>Bu şehirdeki Kıyı Alçak Arazi bölgelerini sel hasarından korur. İlk inşa maliyeti ve tur başına bakım, bu şehirdeki Kıyı Alçak Arazi sayısına ve mevcut deniz seviyesine göre değişir. Şehrin bazı bölgeleri sular altında kaldıktan sonra inşa edilirse, bu bölgeler tamamen onarılabilir. Ancak tamamen sulara gömülen bölgeler asla geri kazanılamaz.[NEWLINE][NEWLINE]Bir veya daha fazla Kıyı Alçak Arazi bölgesine sahip bir şehirde inşa edilmelidir. Şehir ele geçirilirse yağmalanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_ALT_DESCRIPTION">
+			<Text>Bu şehirdeki Kıyı Alçak Arazi bölgelerini sel hasarından korur. İlk inşa maliyeti ve tur başına bakım, bu şehirdeki Kıyı Alçak Arazi sayısına ve mevcut deniz seviyesine göre değişir. Şehrin bazı bölgeleri sular altında kaldıktan sonra inşa edilirse, bu bölgeler tamamen onarılabilir. Ancak tamamen sulara gömülen bölgeler asla geri kazanılamaz.[NEWLINE][NEWLINE]Bir veya daha fazla Kıyı Alçak Arazi bölgesine sahip bir şehirde inşa edilmelidir. Şehir ele geçirilirse yağmalanmaz. Askeri Mühendisler, bir kullanım hakkı harcayarak Sel Bariyeri'nin üretiminin %20'sini tamamlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_NAME">
+			<Text>Hidroelektrik Barajı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_DESCRIPTION">
+			<Text>Şehre yenilenebilir su kaynaklarından +6 [ICON_Power] Enerji sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_NAME">
+			<Text>Kömür Santrali</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION">
+			<Text>Her tur, 6 bölge içindeki enerjiye ihtiyaç duyan şehirler için herhangi bir miktardaki [ICON_RESOURCE_COAL] Kömür'ü otomatik olarak [ICON_Power] Enerji'ye dönüştürür. Dönüşüm oranı:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_COAL] Kömür [ICON_PowerRight] 4 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere yoğun CO2 salınımı</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME">
+			<Text>Petrol Santrali</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION">
+			<Text>Her tur, 6 bölge içindeki enerjiye ihtiyaç duyan şehirler için herhangi bir miktardaki [ICON_RESOURCE_OIL] Petrol'ü otomatik olarak [ICON_Power] Enerji'ye dönüştürür. Dönüşüm oranı:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_OIL] Petrol [ICON_PowerRight] 4 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere orta düzeyde CO2 salınımı[NEWLINE]Bu binanın [ICON_Production] Üretim bonusu, halihazırda bir Santral binasından bonus almayan 6 bölge içindeki tüm Şehir Merkezlerine de uygulanır.</Text>
+		</Row>
+		<!--Wonders-->
+		<Row Tag="LOC_BUILDING_GREAT_BATH_NAME">
+			<Text>Büyük Hamam</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_BATH_DESCRIPTION">
+			<Text>Büyük Hamam'ın bulunduğu nehir boyunca uzanan Taşkın Yatağı bölgeleri artık Sel hasarına karşı bağışıktır (ancak selden gelen [ICON_FOOD] Besin ve [ICON_PRODUCTION] Üretim bonusları %50 azalır). Bu şehre ait Taşkın Yatağı bölgeleri, her Sel hasarı önlemesinde +1 [ICON_FAITH] İnanç kazanır.[NEWLINE][NEWLINE]Bir Taşkın Yatağı bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_NAME">
+			<Text>Meenakshi Tapınağı</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_DESCRIPTION">
+			<Text>2 Guru verir. Gurular %30 daha ucuza satın alınabilir. Gurulara bitişik olan Dinî birlikler, Teolojik Muharebede +5 [ICON_Religion] Dinî Güç ve +1 [ICON_Movement] Hareket kazanır. Bir Kutsal Alana bitişik inşa edilmeli ve bir Din kurmuş olmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_NAME">
+			<Text>Sankore Üniversitesi</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_DESCRIPTION">
+			<Text>Diğer Uygarlıkların bu şehre yaptığı [ICON_TradeRoute] Ticaret Yolları, onlara +1 [ICON_SCIENCE] Bilim ve +1 [ICON_GOLD] Altın sağlar. Bu şehre gelen her [ICON_TradeRoute] Ticaret Yolu için +2 [ICON_SCIENCE] Bilim. Yurt içi [ICON_TradeRoute] Ticaret Yolları bu şehre ek olarak +1 [ICON_FAITH] İnanç kazandırır.[NEWLINE][NEWLINE]Çöl veya Çöl Tepelerine ve bir Üniversiteye sahip bir Kampüs bölgesine bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_NAME">
+			<Text>Machu Picchu</Text>
+			<Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_DESCRIPTION">
+			<Text>Dağ bölgeleri, tüm şehirlerdeki Ticaret Merkezi, Tiyatro Meydanı ve Sanayi Bölgesi bölgelerine standart bir komşuluk bonusu sağlar. Yanardağ içermeyen bir Dağ bölgesine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORSZAGHAZ_NAME">
+			<Text>Országház</Text>
+			<Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORSZAGHAZ_DESCRIPTION">
+			<Text>Bir Şehir Devletinin Süzereni olarak bir tura başlamaktan dolayı tur başına %100 [ICON_Favor] Diplomatik Destek.[NEWLINE][NEWLINE]Bir Nehir üzerine inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PANAMA_CANAL_NAME">
+			<Text>Panama Kanalı</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_PANAMA_CANAL_DESCRIPTION">
+			<Text>İnşası tamamlandığında, bitişiğindeki 1 veya 2 Kanal bölgesi otomatik olarak inşa edilir. Artık donanma birlikleri, Panama Kanalı harika bölgesinden geçebilir. [ICON_TradeRoute] Buradan geçen Ticaret Yolları, varış noktalarındaki bölgelerden elde ettikleri [ICON_Gold] Altın miktarını katlayabilir.[NEWLINE][NEWLINE]Düz bir kara bölgesine inşa edilmelidir. Bu bölgenin tam karşıtı yönlerde, aşağıdaki kriterleri karşılayan iki bitişik bölge bulunmalıdır: bitişik bölgelerden biri, Panama Kanalı inşaat bölgesine bağlanan bir Kanal bölgesini yasal olarak barındırabilmelidir; diğeri ise ya bir şehir, bir su bölgesi ya da bağlantılı bir Kanal bölgesini barındırabilecek başka bir bölge olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_NAME">
+			<Text>Altın Kapı Köprüsü</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_DESCRIPTION">
+			<Text>Kara birlikleri, gemiye binmeye gerek kalmadan geçebilir. Modern Yol işlevi görür ve her iki ucundaki kara bölgelerinde (yoksa) Modern Yollar oluşturur. Şehir +3 [ICON_Amenities] Olanak kazanır. Bu şehirdeki tüm bölgeler +4 Çekicilik kazanır. Bu şehirdeki iyileştirmeler ve Millî Parklardan elde edilen [ICON_Tourism] Turizm +%100 artar. [ICON_TradeRoute] Buradan geçen Ticaret Yolları, varış noktalarındaki bölgelerden elde ettikleri [ICON_Gold] Altın miktarını katlayabilir.[NEWLINE][NEWLINE]Bir Kıyı bölgesine inşa edilmelidir. Köprü, birbirine tam karşıt iki kara bölgesi arasındaki altıgen boyunca düz bir hat şeklinde uzanmalıdır. Köprünün hem solunda hem de sağında en az bir su bölgesi bulunmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_EXPANSION2_DESCRIPTION">
+			<Text>Tur başına 6 [ICON_RESOURCE_IRON] Demir sağlar. 6 bölge mesafe içindeki tüm şehirlerinize +4 [ICON_Faith] İnanç sağlar.[NEWLINE][NEWLINE]Çöl (Tepelik) arazisine inşa edilmelidir.</Text>
+		</Row>
+		<!-- Other balance changes -->
+		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+			<Text>+1 Ekonomik politika yuvası. [ICON_Gold] Altın %50 artar. [NEWLINE][NEWLINE]Bankası olan bir Ticaret Merkezi bölgesine bitişik bir Nehir kıyısına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_EXPANSION2_DESCRIPTION">
+			<Text>İnşa edildiğinde +2 Diplomatik Zafer Puanı kazandırır ve 2 Havari verir.[NEWLINE][NEWLINE]Tapınağı olan bir Kutsal Alan bölgesine bitişik Ormanlık alana inşa edilmelidir ve bir Din kurmuş olmanız gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_EXPANSION2_DESCRIPTION">
+			<Text>İnşa edildiğinde +4 Diplomatik Zafer Puanı kazandırır. 6 bölge mesafe içindeki tüm şehirleriniz her zaman %100 Bağlılığa sahiptir. [NEWLINE][NEWLINE]Kıyıya, karaya bitişik ve bir Liman bölgesinin yanına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POTALA_PALACE_EXPANSION2_DESCRIPTION">
+			<Text>+1 Diplomatik politika yuvası. +1 Diplomatik Zafer Puanı.[NEWLINE][NEWLINE]Bir Dağa bitişik Tepeye inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+			<Text>Bu şehirde eğitilen hava birliklerinin muharebe tecrübesi +%50. Hava Meydanı bölgesinde +1 hava aracı yuvası. Hızlı Konuşlandırma sosyal politikası açıldıktan sonra, Havaalanı olan Hava Meydanları arasında kara birliklerinin hava yoluyla nakledilmesine olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+			<Text>Bu şehirde eğitilen hava birliklerinin muharebe tecrübesi +%25. Hava Meydanı bölgesinde +1 hava aracı yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME">
+			<Text>Nükleer Santral</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION">
+			<Text>Her tur, 6 bölge mesafe içinde enerjiye ihtiyaç duyan şehirler için mevcut herhangi bir miktardaki [ICON_RESOURCE_URANIUM] Uranyumu şu oranda otomatik olarak [ICON_Power] Enerjiye dönüştürür:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_URANIUM] Uranyum [ICON_PowerRight] 16 [ICON_Power] Enerji[NEWLINE][ICON_Bullet]Atmosfere çok az miktarda CO2 salar[NEWLINE]Bir Nükleer Santral inşa edildikten sonra yaşlandıkça, Nükleer Kaza meydana gelme ihtimali artar. [ICON_Production] Üretim ve [ICON_Science] Bilim bonusu, halihazırda bir Santral binasından bonus almayan 6 bölge mesafe içindeki tüm Şehir Merkezlerine uygulanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIG_BEN_EXPANSION2_DESCRIPTION">
+			<Text>+1 Ekonomik politika yuvası[NEWLINE][NEWLINE]İnşaatın hemen ardından hazinedeki [ICON_GOLD] Altın %50 artırılır. Bankası olan bir Ticaret Merkezi bölgesine bitişik bir Nehir kıyısına inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BARRACKS_EXPANSION2_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm yakın dövüş ve menzilli kara birliklerinin muharebe tecrübesi +%25.[NEWLINE]Stratejik Kaynak Stokları +10 artırılır (Standart Hızda).[NEWLINE][NEWLINE]Halihazırda bir Ahırı olan bir Ordugâh bölgesine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STABLE_EXPANSION2_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm süvari ve kuşatma sınıfı birliklerinin muharebe tecrübesi +%25.[NEWLINE]Stratejik Kaynak Stokları +10 artırılır (Standart Hızda).[NEWLINE][NEWLINE]Halihazırda bir Kışlası olan bir Ordugâh bölgesine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARMORY_EXPANSION2_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm kara birliklerinin muharebe tecrübesi +%25.[NEWLINE]Stratejik Kaynak Stokları +10 artırılır (Standart Hızda).</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_EXPANSION2_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm kara birliklerinin muharebe tecrübesi +%25.[NEWLINE]Stratejik Kaynak Stokları +10 artırılır (Standart Hızda).[NEWLINE]Kolordu ve Orduların doğrudan eğitilmesine olanak tanır. Kolordu ve Ordu eğitim maliyetleri %25 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FACTORY_EXPANSION2_DESCRIPTION">
+			<Text>[ICON_Production] Üretim bonusu, halihazırda bu bina türünden bonus almayan 6 bölge mesafe içindeki tüm Şehir Merkezlerine uygulanır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASTLE_EXPANSION2_DESCRIPTION">
+			<Text>Dış savunmalarınızın gücünü artırır. Koruma sosyal politikasına ilerledikten sonra 2 [ICON_TOURISM] Turizm sağlar. Bu şehir Koçbaşlarından etkilenmez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_EXPANSION2_DESCRIPTION">
+			<Text>Dış savunmalarınızın gücünü mümkün olan en yüksek seviyeye çıkarır. Koruma sosyal politikasına ilerledikten sonra 3 [ICON_TOURISM] Turizm sağlar. Bu şehir Kuşatma Kuleleri veya Koçbaşlarından etkilenmez.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION2_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm deniz birlikleri için %25 oranında muharebe tecrübesi. Bu şehrin tüm Kıyı bölgeleri +1 [ICON_FOOD] Besin sağlar. Bu şehir kıyıya komşuysa +2 [ICON_HOUSING] Konut kazanır. Bu şehirde henüz bir Pazar binası yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi elde edilir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHIPYARD_EXPANSION2_DESCRIPTION">
+			<Text>Bu şehirde eğitilen tüm deniz birlikleri için %25 oranında muharebe tecrübesi. Liman Bölgesi'nin komşuluk bonusuna eşit miktarda bonus [ICON_Production] Üretim. Bu şehrin geliştirilmemiş tüm Kıyı ve Göl bölgeleri için +1 [ICON_PRODUCTION] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PAGODA_EXPANSION2_DESCRIPTION">
+			<Text>Tur başına +1 [ICON_Favor] Diplomatik Destek.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_DAR_E_MEHR_EXPANSION2_DESCRIPTION">
+			<Text>İnşa edildiği veya son onarıldığı çağdan itibaren her çağ için +1 ilave [ICON_FAITH] İnanç. Doğal afetler tarafından yağmalanamaz.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_EXPANSION2_DESCRIPTION">
+			<Text>+3 [ICON_Favor] Diplomatik Destek. Şehir Devletlerini kullanma maliyeti yarı [ICON_Gold] Altın eder.[NEWLINE]Şehir Devleti birlikleri, eğer o Şehir Devleti'nin Süzereni iseniz +4 [ICON_Strength] Muharebe Gücü kazanır (Kiralanan Birlikler dahil).[NEWLINE]+1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

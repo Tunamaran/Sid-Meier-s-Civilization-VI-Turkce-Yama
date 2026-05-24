@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Shell UI -->
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION">
+			<Text>Bu senaryoda, I. Dünya Savaşı'nın ilk ayında Fransa veya Almanya ordularının komutasını ele alıyorsunuz. Saldırıya hazır devasa bir ordunuz, bu ordunun arkasında duran sanayi devi bir ulusunuz var ve Paris'i ele geçirmek ya da savunmak için yalnızca 40 turunuz. Dünyanın gördüğü en büyük silahlı çatışmada zafer kazanabilecek misiniz? Yoksa bu ölçekteki ve hızdaki bir savaş sizi ezip geçecek mi?</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_NAME">
+			<Text>Savaş Makinesi</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME">
+			<Text>Savaş Makinesi Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT">
+			<Text>Almanya olarak Paris şehrini zaman sınırı içinde ele geçirmelisiniz. Fransa olarak, zaman dolana kadar Paris'i ele geçirilmekten korumalısınız.</Text>
+		</Row>
+		<!-- Misc -->
+		<Row Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME">
+			<Text>Savaş Makinesi Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT">
+			<Text>Seferinizden zaferle çıktınız!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT">
+			<Text>Almanya olarak kazanmak için: zaman dolmadan Paris'i ele geçirin. Fransa olarak kazanmak için: zaman dolana kadar Paris'i ele geçirilmekten koruyun.</Text>
+		</Row>
+		<!-- Map -->
+		<Row Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME">
+			<Text>I. Dünya Savaşı Batı Cephesi</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION">
+			<Text>Fransa ile Almanya arasındaki 1914 yılındaki sınır bölgesini betimleyen standart bir harita.</Text>
+		</Row>
+		<!-- France -->
+		<Row Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME">
+			<Text>Fransız Yüksek Komutanlığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME">
+			<Text>Fransa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION">
+			<Text>Üçüncü Fransız Cumhuriyeti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE">
+			<Text>Fransız</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME">
+			<Text>Sonuna Kadar Saldırı</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION">
+			<Text>Piyadeler saldırırken +4 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<!-- Germany -->
+		<Row Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME">
+			<Text>Alman Genelkurmayı</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME">
+			<Text>Alman İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION">
+			<Text>İmparatorluk Almanyası</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE">
+			<Text>Alman</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME">
+			<Text>Krupp İnovasyonu</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION">
+			<Text>Topçu birlikleri saldırırken +4 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<!-- Great Britain -->
+		<Row Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME">
+			<Text>BEF</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME">
+			<Text>Britanya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION">
+			<Text>Birleşik Krallık</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE">
+			<Text>Britanyalı</Text>
+		</Row>
+		<!-- Belgium -->
+		<Row Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME">
+			<Text>Kral I. Albert</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME">
+			<Text>Belçika</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION">
+			<Text>Belçika Krallığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE">
+			<Text>Belçikalı</Text>
+		</Row>
+		<!--Luxembourg-->
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME">
+			<Text>Lüksemburg</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION">
+			<Text>Lüksemburg Büyük Dükalığı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE">
+			<Text>Lüksemburglu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME">
+			<Text>Lüksemburg</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_BUILDING_HUEY_TEOCALLI_NAME">
+			<Text>Huey Teocalli</Text>
+			<Gender>Masculine:no_article</Gender>
+		</Row>
+		<Row Tag="LOC_BUILDING_HUEY_TEOCALLI_DESCRIPTION">
+			<Text>Huey Teocalli'ye bir bölge mesafesindeki her Göl bölgesi için eğlenceden +1 [ICON_Amenities] Olanak. İmparatorluğunuzdaki her Göl bölgesi için +1 [ICON_Food] Besin ve +1 [ICON_Production] Üretim. Bir Göl bölgesine, karaya bitişik olarak inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_HUEY_TEOCALLI_CHAPTER_HISTORY_PARA_1">
+			<Text>Aztek İmparatorluğu'nda bir teocalli, üzerinde bir tapınak bulunan basamaklı bir piramitti; kentteki tüm önemli dinî ritüellerin yapıldığı yerdi. Bunların en büyüğü, Tenochtitlan'ın kalbinde yer alan ve bir çift tanrıya adanmış olan Huey Teocalli'ydi (İspanyollara göre Templo Mayor): savaş tanrısı Huitzilopochtli ve tarım tanrısı Tlatoc (Aztek kültüründe neyin önemli olduğuna dair bir işaret). Her tanrının, ayrı merdivenlerle ulaşılan ayrı bir tapınağı vardı. Orta Amerika piramitleri, önceki yapıyı yeni ve genişletilmiş versiyonun temeli olarak kullanarak yeniden inşa edilme eğilimindeydi. Bu nedenle Huey Teocalli, ilkinin MS 1325 civarında tamamlanmasının ardından altı kez yeniden inşa edildi. Yedinci ve sonuncusu, Cortes ve konkistadorları tarafından yağmalanıp yok edilen oldu. Muhtemelen bu yer, garip kutlamalara ev sahipliği yaptığı için onların gözünde değersizdi… Örneğin Huitzilopochtli'yi kutlayan Panquetzaliztli festivali, amaranth tohumları, kemikler, bal ve insan kanından yapılan bir tanrı heykelinin saygı gösterilmesinin ardından halk tarafından yenmek üzere dağıtıldığı bir festivaldi.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HUEY_TEOCALLI_QUOTE">
+			<Text>“Fakat Huitzilopochtli'nin öfkesi büyüktü ve kurban, güneş tanrısına adanmış dört odanın her birinden geçerken, güneş gökyüzünde kayboluyor ya da yeniden beliriyordu.”[NEWLINE]– Fray Diego Durán</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

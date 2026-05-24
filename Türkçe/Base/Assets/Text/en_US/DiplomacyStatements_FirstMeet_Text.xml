@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- First AI line -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MVEMBA_ANY">
+			<Text>Ben Mvemba a Nzinga. Sizi bir dost olarak selamlıyorum. Tanrı'nın sizi kutsadığını görüyorum. Aydınlanmanızı paylaşmak için mi buradasınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ben Catherine, Fransa Kraliçesi Annesi. Sizi krallığımda ağırlamaktan mutluluk duyuyorum. Sizin hakkınızda her şeyi öğrenmeyi dört gözle bekliyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CLEOPATRA_ANY">
+			<Text>Ben İsis'in yeniden doğmuş haliyim, yaşayan Nil'im. Ben Kleopatra. Eğer buna layıksanız, bir müttefikim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_BARBAROSSA_ANY">
+			<Text>Selamlar. Ben Kutsal Roma İmparatoru Frederick, Almanya, İtalya, Burgonya ve daha birçok yerin kralıyım. Güveniyorum ki topraklarınızı tıpkı benim gibi güç yoluyla yöneteceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GANDHI_ANY">
+			<Text>Merhaba, ben Mohandas Gandhi. Halkım bana Bapu der, ama siz lütfen bana dost deyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GILGAMESH_ANY">
+			<Text>Ben Sümer'in Gilgameş'i ve Uruk Kralı. Korkmayın… Dostlarıma karşı iyiyimdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GORGO_ANY">
+			<Text>Ben Gorgo, Sparta Kraliçesi ve Yunanların lideri. Siz kimsiniz? Hangi zaferlerden söz edebilirsiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HARDRADA_ANY">
+			<Text>Harald Sigurdsson karşınızda: denizlerin ve karaların şimdiye dek gördüğü hiçbir Viking'e benzemeyen bir Viking. Hah, korkuyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HOJO_ANY">
+			<Text>Merhaba, ben Japonya'nın Hojo Tokimune'si, Buşido'nun mütevazı bir takipçisiyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PEDRO_ANY">
+			<Text>İyi günler. Sizinle şahsen tanışmak bir onur. Demek ki büyük zihinler gerçekten birbirini çekiyormuş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
+			<Text>Merhaba, ben Atinalı Perikles ve sizi Demokrasi adına selamlıyorum. Bu tarafsız taraflarla işlerimi yürütmeme izin vereceğinizi umuyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
+			<Text>Merhaba, ben Çar Peter. Sizin gibi kültürlü bir lider hayatın güzel şeylerinden keyif almalı. Sanata da düşkün müsünüz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PHILIP_II_ANY">
+			<Text>Ben İspanya, Portekiz, Sardinya ve Sicilya Kralı, Napoli Kralı, Milano Dükü, vs. fakat en önemlisi, tek gerçek dinin bağlı bir takipçisiyim. Kendi iyiliğiniz için, umarım siz de öylesinizdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY">
+			<Text>Neden Ölümsüz Cennet Oğlu'nun, Büyük Qin Shi Huang'ın huzuruna çıkıyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SALADIN_ANY">
+			<Text>Tek Tanrı'nın lütfuyla, Kudretli, Muzaffer, Krallığına son olmayan ebedi olan, sizi selamlıyorum, samimi dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_T_ROOSEVELT_ANY">
+			<Text>Amerika Birleşik Devletleri'ne hoş geldiniz. Eğer iyi davranırsanız, bizi dost olarak görebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMYRIS_ANY">
+			<Text>Aramızda bilinsin: İhaneti kanla öderim! Ama gerçek bir dostsanız, barış içinde oluruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TRAJAN_ANY">
+			<Text>Selam, yabancı. Ben uzaklara uzanan Roma'nın İmparator Sezar Trajan'ıyım. Siz kimsiniz ve hangi toprakları kendinize ait sayabilirsiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_VICTORIA_ANY">
+			<Text>Selamlar. Biz, Tanrı'nın lütfuyla, Büyük Britanya ve İrlanda Birleşik Krallığı Kraliçesi Victoria'yız. Ve cüret edersem, yakında imparatorluk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_ANY_ANY">
+			<Text>Selamlar gezgin. Bilmelisiniz ki bir büyüklüğün huzurunda duruyorsunuz!</Text>
+		</Row>
+		<!-- Human Responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_POSITIVE">
+			<Text>Sizinle tanışmak bir onurdur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_RECIPIENT_BUSY">
+			<Text>Selam olsun yabancı, ne var ki sohbete dalacak vaktimiz yok.</Text>
+		</Row>
+		<!-- AI invitation to visit nearby City -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MVEMBA_ANY">
+			<Text>Devam etmeden önce, yakınımızdaki şehirde benimle ibadet et. Ardından birlikte tavuklu moambé yemeğinin tadını çıkarabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Yiyecek ve içecek lezzetlerimizi tatmadan yaşamış sayılmazsınız. Dilerseniz size çatal kullanmayı da gösterebilirim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CLEOPATRA_ANY">
+			<Text>Yakınımızda bir şehrimiz var. Ziyaret etmek ister misiniz? Sizi masa oyunumuz Senet'le tanıştırmak isterim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BARBAROSSA_ANY">
+			<Text>Kutsal Roma İmparatoru olarak sizi topraklarımda ağırlamaktan onur duyarım. Dilerseniz en yakın şehirde bu ihtişamın bir kısmını görebilirsiniz. Tabii eğer yine isyan etmiyorlarsa.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GANDHI_ANY">
+			<Text>En yakın şehrimize gelin. Veda şiirlerinin bilgeliğini dinler, belki de bir şeyler öğreniriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GILGAMESH_ANY">
+			<Text>Sümer'in ihtişamını görmek sizin elinizde, dilerseniz: sanat ve bilimlerin kadim geleneği, göz kamaştıran Zigguratlar!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GORGO_ANY">
+			<Text>Yakınımızda bir şehrimiz var. Ziyaret edip doyurucu siyah çorbamızdan tatmak ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HARDRADA_ANY">
+			<Text>Söyle bakalım dostum: yakınımızdaki şehrimizi ziyaret etmek ister misin? Bilskirnir değil elbet, ama güzeldir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HOJO_ANY">
+			<Text>Yakınımızdaki şehirde ōban'a katılırsanız onur duyarım. Denizanası aemono'yu seversiniz, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PEDRO_ANY">
+			<Text>Brezilya'ya gelin! Samba dansı biliyor musunuz? Fark etmez, Karnaval'ın tadını yine çıkaracaksınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PERICLES_ANY">
+			<Text>Yakınımızdaki metropolümüzü ziyaret etmek ister misiniz? Tiyatronun keyfini çıkarmadan önce politika tartışabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PETER_GREAT_ANY">
+			<Text>Gelin, size yakınımdaki şehri göstereyim. Ardından kırlardaki güzel bir dachada baloya katılabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PHILIP_II_ANY">
+			<Text>Bir boğa güreşi görmek ister misiniz? Onun gibi bir gösteri yoktur. Yakınımdaki şehre gelin ve kendiniz görün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY">
+			<Text>Yakınımızda bir şehrimiz var. Ziyaret etmek ister misiniz? Heykeltıraşlarımız pişmiş toprak işçiliğinde oldukça ustalaştı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SALADIN_ANY">
+			<Text>Size şehirlerimizin misafirperverliğini sunmaktan onur duyarım: en güzel sanatlar, en nefis ziyafetler ve her yerde duyulan melodik ezan. Ziyaret etmek ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_T_ROOSEVELT_ANY">
+			<Text>Yakınımızda bir şehrimiz var. Ziyaret etmek ister misiniz? Size artık çok popüler olan doldurulmuş ayıları gösterebilirim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMYRIS_ANY">
+			<Text>Yakınımızda bir şehrimiz var. Ziyaret etmek ister misiniz? Size sivri şapkalarımızdan birini uydurabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
+			<Text>İmparatorluğun, elbette, yakınımızda bir şehri var. Gelin, görün ve güzelliği karşısında büyülenin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
+			<Text>Sizi krallığımızı teşrif etmeye davet etmek bizim için büyük bir imtiyazdır; şüphesiz ki sayısız sömürgemiz sayesinde bu davet oldukça sade kalacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_ANY_ANY">
+			<Text>Yakınımızda bir şehrimiz bulunuyor. Onu ziyaret etmek ister misiniz? Yaklaşan şenliğimize iştirak edebilirsiniz.</Text>
+		</Row>
+		<!-- Human Responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_VISIT">
+			<Text>Konukseverliğinizi deneyimlemekten şeref duyarız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_VISIT">
+			<Text>Maalesef şimdilik mümkün değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_POSITIVE">
+			<Text>Yakınımızdaki şehrimizi ziyaret edip misafirperverliğimizi tatmak ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_NEAR_INITIATOR_NO_HOSPITALITY">
+			<Text>Selamınız için minnettarız, lakin daha fazla incelik alışverişine ayıracak vaktimiz bulunmuyor.</Text>
+		</Row>
+		<!-- AI accepts Human invitation -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_ANY_ANY">
+			<Text>Memnuniyetle. Büyüyen şehrinizi yakından görmek bir zevk olacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MVEMBA_ANY">
+			<Text>Olur, olur. Bu bizim için hayırlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Memnuniyetle. Büyüyen şehrinizi yakından görmek bir zevk olacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CLEOPATRA_ANY">
+			<Text>Pekâlâ.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BARBAROSSA_ANY">
+			<Text>Teşekkürler, dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GANDHI_ANY">
+			<Text>Teşekkürler, dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GILGAMESH_ANY">
+			<Text>Evet, kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GORGO_ANY">
+			<Text>Pekâlâ.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HARDRADA_ANY">
+			<Text>Teşekkür ederim, dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HOJO_ANY">
+			<Text>Teşekkürler, dostum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PEDRO_ANY">
+			<Text>Evet. Minnettarlığımı kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PERICLES_ANY">
+			<Text>Halkımız namına, kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PETER_GREAT_ANY">
+			<Text>Evet, güzel.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PHILIP_II_ANY">
+			<Text>Rab sizi kutsasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY">
+			<Text>Bu kabul edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SALADIN_ANY">
+			<Text>Bereketli bir teklif. Allah sizi kutsasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Buna hayır diyemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMYRIS_ANY">
+			<Text>Pekâlâ.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TRAJAN_ANY">
+			<Text>Kabul edilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_VICTORIA_ANY">
+			<Text>Bunu uygun buluyoruz.</Text>
+		</Row>
+		<!-- Human responses -->
+		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_POSITIVE">
+			<Text>Sizinle tanışmak bir onurdur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_NO_MANS_NO_EXCHANGE">
+			<Text>Hoş geldiniz ey yabancı, ancak ne yazık ki sohbet edecek kadar vaktimiz yok.</Text>
+		</Row>
+		<!-- AI invitation to exchange Capital Information -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_ANY_ANY">
+			<Text>İkimiz de buralı değiliz, ama belki de anayurtlarımızı birbirimizin haritalarına işaretlemeliyiz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MVEMBA_ANY">
+			<Text>Bilgelik alışverişi yaparken aynı zamanda bilgi alışverişi yapalım. Bana başkentinden bahset. Kutsal bir şehir mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Mimariye hayranım. Söyle bakalım, başkentinde zafer takları veya büyük metal kuleler var mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CLEOPATRA_ANY">
+			<Text>İskenderiye, Firavunların yurdudur, benim evim. Bana başkentinden bahsedersen sana daha fazlasını anlatabilirim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BARBAROSSA_ANY">
+			<Text>Sana bizim muhteşem başkentimizi gösteririm, eğer sen de kendi başkentinin Almanya'nın güç merkeziyle nasıl boy ölçüşebileceğini anlatırsan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GANDHI_ANY">
+			<Text>Seyahat etmeyi severim, belki bir gün başkentini ziyaret ederim. Uzak mı? Biraz bahseder misin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GILGAMESH_ANY">
+			<Text>Benim iznim olmadan hiç kimse Uruk'un surlarından geçemez, ama sen bana başkentinden bahsedersen, ben de sana ondan bahsederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GORGO_ANY">
+			<Text>Başkentin nasıl bir yer? Anlat, ben de sana Sparta'yı anlatayım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HARDRADA_ANY">
+			<Text>Çok uzaklara seyahat ettim, ama başkentini hiç görmedim. Bahset bana ondan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HOJO_ANY">
+			<Text>Başkentlerimiz hakkında bilgi alışverişi yapmak isterim. Bizimki Saf Diyar gibidir. Seninki nasıl?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PEDRO_ANY">
+			<Text>Diplomatik nezaket alışverişi yapalım. Bana başkentinden bahset, ben de sana kendiminkinden bahsedeyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PERICLES_ANY">
+			<Text>Atina muhteşem bir metropoldür. Senin başkentin nasıl? Hadi, bilgi alışverişinde bulunalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PETER_GREAT_ANY">
+			<Text>Başkentlerimiz hakkında bilgi alışverişi yapmak ister misiniz? Benimki ilerlemenin bir feneridir, ancak sizinkini bilmiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PHILIP_II_ANY">
+			<Text>Başkentimi duymak ister misiniz? Madrid şehirlerin en güzelidir. Sizin başkentiniz de güzel midir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY">
+			<Text>Haşmetimizin bir kısmını gördünüz. Sizin başkentiniz bizimkinin yarısı kadar bile haşmetli mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SALADIN_ANY">
+			<Text>Gelin, başkentlerimiz hakkında bilgi alışverişi yapalım. Sizi halkınızı anlatmaya davet ediyorum, ben de size halkımı anlatmaktan mutluluk duyarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_T_ROOSEVELT_ANY">
+			<Text>Başkentlerimiz hakkında bilgi alışverişi yapmak istiyorum; bu, uluslarımız arasında serbest ticareti teşvik eder, vesaire.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMYRIS_ANY">
+			<Text>Evet, halkım göçebedir, ancak yine de haşmetli bir başkentimiz var. Ya siz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TRAJAN_ANY">
+			<Text>Başkentinizi anlatın. Kayıp Troyalılar mı kurdu? Yoksa kurtlar tarafından büyütülen çocuklar mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_VICTORIA_ANY">
+			<Text>Siyasi ilişkimizin yararına, başkentiniz hakkında daha fazla bilgi edinmek isteriz... karşılığında kendi başkentimiz hakkında bilgi vererek, elbette.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_EXCHANGE_INFO">
+			<Text>Başkentlerimiz hakkında bilgi alışverişi yapmak harika bir fikir. Ticareti teşvik etmeye yardımcı olur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FIRST_MEET_DECLINE_INFO">
+			<Text>Üzgünüm, şu anda bu bilgiyi veremeyiz.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

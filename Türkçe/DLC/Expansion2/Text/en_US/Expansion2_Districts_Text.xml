@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Shared Districts-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+			<Text>Şehre, bitişiğindeki Nehir, Göl, Vaha veya Dağ'dan temiz su kaynağı sağlayan bir bölge. Henüz tatlı suya sahip olmayan şehirler 6 [ICON_Housing] Konut kazanır. Halihazırda tatlı suyu olan şehirler ise bunun yerine +2 [ICON_Housing] Konut alır. Bir Jeotermal Çatlak'a bitişik inşa edilirse +1 [ICON_Amenities] Olanak sağlar. Kuraklık sırasında [ICON_Food] Besin kaybını önler. Şehir Merkezi'ne bitişik inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_ALT_DESCRIPTION">
+			<Text>Şehre, bitişiğindeki Nehir, Göl, Vaha veya Dağ'dan temiz su kaynağı sağlayan bir bölge. Henüz tatlı suya sahip olmayan şehirler 6 [ICON_Housing] Konut kazanır. Halihazırda tatlı suyu olan şehirler ise bunun yerine +2 [ICON_Housing] Konut alır. Bir Jeotermal Çatlak'a bitişik inşa edilirse +1 [ICON_Amenities] Olanak sağlar. Kuraklık sırasında [ICON_Food] Besin kaybını önler. Şehir Merkezi'ne bitişik inşa edilmelidir. Askeri Mühendisler bir hak harcayarak Su Kemeri'nin üretiminin %20'sini tamamlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CANAL_NAME">
+			<Text>Kanal</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CANAL_DESCRIPTION">
+			<Text>Düz arazide inşa edilerek iki su kütlesini veya bir su kütlesini Şehir Merkezi'ne bağlayan bir bölge. İçinden geçen [ICON_TradeRoute] Ticaret Yolları, varış noktalarındaki bölgelerden aldıkları [ICON_Gold] Altın'ı katlayabilir. Kanallar ya altıgen boyunca düz gidebilir ya da 60 derece dönebilir. Ancak üç yönlü Kanal kavşaklarına izin verilmez ve Kanallar, oluşturdukları su yolunun her iki yanında tam bir kara parseli bulunmalıdır. Askeri Mühendisler bir hak harcayarak bir Kanal'ın üretiminin %20'sini tamamlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DAM_NAME">
+			<Text>Baraj</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DAM_DESCRIPTION">
+			<Text>Bu nehir boyunca yaşam konforunu artırmak için bir Taşkın Yatağı parselinde inşa edilen bölge. Bu nehrin taşkınlarından kaynaklanan hasarı önler (ancak taşkından elde edilen getiriler %50 azalır). Kuraklık sırasında [ICON_Food] Besin kaybını önler. Her nehrin taşkın yatağı boyunca yalnızca bir tane inşa edilebilir (hangi oyuncu önce tamamlarsa) ve nehir, Baraj altıgeninin en az iki kenarından geçmelidir. Askeri Mühendisler bir hak harcayarak bir Baraj'ın üretiminin %20'sini tamamlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION_XP2">
+			<Text>Bilim Zaferi projelerini inşa etmek için gereken bölge. Buna {LOC_PROJECT_LAUNCH_EARTH_SATELLITE_NAME}, {LOC_PROJECT_LAUNCH_MOON_LANDING_NAME}, {LOC_PROJECT_LAUNCH_MARS_BASE_NAME} ve {LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_NAME} dahildir. Tepelere inşa edilemez.</Text>
+		</Row>
+		<!--Adjacency Bonuses-->
+		<Row Tag="LOC_DISTRICT_DESERT_HILLS_FAITH">
+			<Text>+{1_num} [ICON_Faith] İnanç, bitişik {1_Num : plural 1?Çöl Tepesi parselinden; other?Çöl Tepeleri parsellerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_FOOD">
+			<Text>+{1_num} [ICON_FOOD] Besin, bitişik {1_Num : plural 1?Çöl parselinden; other?Çöl parsellerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_HILLS_FOOD">
+			<Text>+{1_num} [ICON_FOOD] Besin, bitişik {1_Num : plural 1?Çöl Tepesi parselinden; other?Çöl Tepeleri parsellerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_GOLD">
+			<Text>+{1_num} [ICON_GOLD] Altın, bitişik {1_Num : plural 1?Dağ parselinden; other?Dağ parsellerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Üretim, bitişik {1_Num : plural 1?Dağ parselinden; other?Dağ parsellerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Kültür, bitişik {1_Num : plural 1?Dağ parselinden; other?Dağ parsellerinden;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GEOTHERMAL_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Bilim, bitişik her bir Jeotermal Çatlak'tan.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REEF_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Bilim, bitişik her bir Resif'ten.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COTHON_GOLD">
+			<Text>+{1_num} [ICON_Gold] Altın, bitişik Koton bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COTHON_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her bir bitişik Şehir Merkezi için Büyük [ICON_Gold] Altın bonusu. Her bir bitişik kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Bitişik bölge parselleri için Küçük [ICON_Gold] Altın bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_GOLD">
+			<Text>+{1_num} [ICON_Gold] Altın, bitişik Kutsal Alan bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LAVRA_GOLD">
+			<Text>+{1_num} [ICON_Gold] Altın, bitişik Lavra bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her bir bitişik Kutsal Alan için Büyük [ICON_Gold] Altın bonusu. Bir Nehir kenarı içeren parselden Büyük [ICON_Gold] Altın bonusu. Bitişik bölge parselleri için Küçük [ICON_Gold] Altın bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINES_HALF_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Yakındaki Maden Ocaklarından Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LUMBER_MILL_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Yakındaki Kereste Fabrikalarından Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Yakındaki Su Kemeri {1_Num : plural 2?Bölge; other?Bölgeler;}nden Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BATH_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Yakındaki Hamam {1_Num : plural 2?Bölge; other?Bölgeler;}nden Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CANAL_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Yakındaki Kanal {1_Num : plural 2?Bölge; other?Bölgeler;}nden Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DAM_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Yakındaki Baraj {1_Num : plural 2?Bölge; other?Bölgeler;}nden Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STRATEGIC_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Yakındaki Stratejik {1_Num : plural 1?Kaynak; other?Kaynaklar;}dan Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Bir Ticaret Merkezi, Su Kemeri, Kanal ve Baraj bölgelerine komşu ise Büyük [ICON_Production] Üretim bonusu. Yakındaki her kaynak için Standart [ICON_Production] Üretim bonusu. Yakındaki bölge arazileri için Küçük [ICON_Production] Üretim bonusu.</Text>
+		</Row>
+		<!--Projects-->
+		<Row Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_NAME">
+			<Text>Başkenti Taşı</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_SHORT_NAME">
+			<Text>Başkenti Taşı</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_DESCRIPTION">
+			<Text>Fenike'nin, Cothon'a sahip herhangi bir şehirde kullanılabilen eşsiz projesi. Tamamlandığında, Fenike'nin [ICON_Capital] Başkenti bu şehre taşınır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_NAME">
+			<Text>Karbon Geri Kazanımı</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_SHORT_NAME">
+			<Text>Karbon Geri Kazanımı</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_DESCRIPTION">
+			<Text>Bir Sanayi Bölgesine sahip herhangi bir şehirde yürütülebilir. Tamamlandığında, bu uygarlığın karbon emisyonu 50 azalır ve 30 [ICON_FAVOR] Diplomatik Destek kazanılır. Bu proje karbon borcunuzu sıfıra indirebilir ve küresel CO2 ayak izine karşı birikimli azaltımlar yapmanıza olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL">
+			<Text>Kömür Enerjisine Dönüştür</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL_SHORT_NAME">
+			<Text>Kömür Enerjisine Dönüştür</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL_DESCRIPTION">
+			<Text>Bu şehirdeki mevcut Enerji Santralini hizmet dışı bırakır ve yerine {LOC_BUILDING_COAL_POWER_PLANT_NAME} inşa eder.[NEWLINE][NEWLINE]{LOC_BUILDING_COAL_POWER_PLANT_NAME}:[NEWLINE]{LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL">
+			<Text>Petrol Enerjisine Dönüştür</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL_SHORT_NAME">
+			<Text>Petrol Enerjisine Dönüştür</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL_DESCRIPTION">
+			<Text>Bu şehirdeki mevcut Enerji Santralini hizmet dışı bırakır ve yerine {LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME} inşa eder.[NEWLINE][NEWLINE]{LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME}:[NEWLINE]{LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM">
+			<Text>Nükleer Enerjiye Dönüştür</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM_SHORT_NAME">
+			<Text>Nükleer Enerjiye Dönüştür</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM_DESCRIPTION">
+			<Text>Bu şehirdeki mevcut Enerji Santralini hizmet dışı bırakır ve yerine {LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME} koyar.[NEWLINE][NEWLINE]{LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME}:[NEWLINE]{LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_NAME">
+			<Text>Mars Kolonisi Fırlat</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_SHORT_NAME">
+			<Text>Mars Kolonisi Fırlat</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_DESCRIPTION">
+			<Text>Mars yüzeyinde küçük bir insan üssü kuran Uzay Yarışı projesidir. Bilim Zaferi'ne giden yolda üçüncü adımı işaretler.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_POPUP">
+			<Text>Mars'ta başarıyla bir koloni kurdunuz! Bu, Bilim Zaferi'ne giden yolda üçüncü adımı işaretler.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_NAME">
+			<Text>Ötegezegen Seferi Başlat</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_SHORT_NAME">
+			<Text>Ötegezegen Seferi</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_DESCRIPTION">
+			<Text>Derin uzayda tur başına 1 Işık Yılı yol alarak insanlığı başka bir yıldız sistemine yaymayı amaçlayan Uzay Yarışı projesidir. Vardığında Bilim Zaferi'ni kazanırsınız. Diğer projelerle hızlandırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_POPUP">
+			<Text>Tohum geminiz başka bir yıldız sistemine doğru yola çıktı! Vardığında Bilim Zaferi'ni kazanırsınız. Tur başına 1 Işık Yılı yol alır ve diğer projelerle hızlandırılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_NAME">
+			<Text>Lagrange Lazer İstasyonu Fırlat</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_SHORT_NAME">
+			<Text>Lagrange Lazer İstasyonu</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_DESCRIPTION">
+			<Text>İnşaata başlamak için 30 [ICON_RESOURCE_ALUMINUM] Alüminyum gerekir. (Standart Hız'da) Ötegezegen Seferinizi tur başına +1 Işık Yılı hızlandırarak Bilim Zaferi'ne doğru ilerlemenizi hızlandıran Uzay Yarışı projesidir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_POPUP">
+			<Text>Yörüngede bir Lagrange Lazer İstasyonu kurdunuz. Bu istasyon, Ötegezegen Seferi geminizi tur başına 1 Işık Yılı hızlandırarak sizi Bilim Zaferi'ne yaklaştırıyor!</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_NAME">
+			<Text>Karasal Lazer İstasyonu İnşa Et</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_SHORT_NAME">
+			<Text>Karasal Lazer İstasyonu</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_DESCRIPTION">
+			<Text>Tamamlandığında, bu şehrin [ICON_Power] Enerji ihtiyacı 5 artar. Şehre [ICON_Power] enerji sağlandığı sürece Ötegezegen Seferinizi tur başına +1 Işık Yılı hızlandırarak Bilim Zaferi'ne doğru ilerlemenizi hızlandıran Uzay Yarışı projesidir.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_POPUP">
+			<Text>Uzay Limanı'nda bir Karasal Lazer İstasyonu kurdunuz. Bu istasyon, Ötegezegen Seferi geminizi tur başına 1 Işık Yılı hızlandırarak sizi Bilim Zaferi'ne yaklaştırıyor!</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_NAME">
+			<Text>Yardım Gönder</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_SHORT_NAME">
+			<Text>Yardım Gönder</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_DESCRIPTION">
+			<Text>Yardım Talebi yarışmalarında puan kazanmanızı sağlayan proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_POPUP">
+			<Text>Yardım paketiniz teslim edildi ve Yardım Talebi yarışmasındaki puanınızı artırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_NAME">
+			<Text>Atlet Yetiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_SHORT_NAME">
+			<Text>Atlet Yetiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_DESCRIPTION">
+			<Text>Dünya Oyunları yarışmasında puan kazanmanızı sağlayan proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_POPUP">
+			<Text>Atletleriniz artık oyunlara hazır hale geldi ve Dünya Oyunları yarışmasındaki puanınızı artırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_NAME">
+			<Text>Astronot Yetiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_SHORT_NAME">
+			<Text>Astronot Yetiştir</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_DESCRIPTION">
+			<Text>Uluslararası Uzay İstasyonu yarışmasında puan kazanmanızı sağlayan proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_POPUP">
+			<Text>Astronotlarınız artık Uluslararası Uzay İstasyonu'nda göreve hazır; bu da Uluslararası Uzay İstasyonu yarışmasındaki puanınızı artırmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_EXPANSION2_DESCRIPTION">
+			<Text>Bölge tabanlı proje. Her tur [ICON_Faith] İnanç ve +100% Dini Baskı sağlar. Tamamlandığında [ICON_GreatProphet] Büyük Peygamber puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_EXPANSION2_DESCRIPTION">
+			<Text>Bölge tabanlı proje. Aktif olduğu sürece bu şehre tam [ICON_Power] Enerji sağlar. Ayrıca tamamlandığında [ICON_GreatEngineer] Büyük Mühendis puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_RECOMMISSION_REACTOR_NAME">
+			<Text>Nükleer Reaktörü Yeniden Devreye Alma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_RECOMMISSION_REACTOR_SHORT_NAME">
+			<Text>Nükleer Reaktörü Yeniden Devreye Alma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_RECOMMISSION_REACTOR_DESCRIPTION">
+			<Text>Bir nükleer reaktörün yeniden devreye alınmasını sağlayarak güvenlik önlemlerini artırır ve nükleer kaza riskini azaltır.[NEWLINE][NEWLINE]Yeniden devreye alma, reaktör yaşını 0'a sıfırlar. Reaktör yaşlandıkça Nükleer Kaza olasılığı artar.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_NAME">
+			<Text>Kömür Santralini Hizmet Dışı Bırakma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_SHORT_NAME">
+			<Text>Kömür Santralini Hizmet Dışı Bırakma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_DESCRIPTION">
+			<Text>İklim Anlaşmaları yarışmasında puan kazanmanızı sağlayan proje. Kömür Santralini ve tüm etkilerini bu şehirden kaldırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_NAME">
+			<Text>Petrol Santralini Hizmet Dışı Bırakma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_SHORT_NAME">
+			<Text>Petrol Santralini Hizmet Dışı Bırakma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_DESCRIPTION">
+			<Text>İklim Anlaşmaları Yarışması'nda puan kazanmak için proje. Petrol Santrali'ni ve tüm etkilerini bu şehirden kaldırır.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_NAME">
+			<Text>Nükleer Santrali Hizmet Dışı Bırakma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_SHORT_NAME">
+			<Text>Nükleer Santrali Hizmet Dışı Bırakma</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_DESCRIPTION">
+			<Text>İklim Anlaşmaları Yarışması'nda puan kazanmak için proje. Nükleer Santrali ve tüm etkilerini bu şehirden kaldırır.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür, bitişikteki Eğlence Kompleksi bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_PARK_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür, bitişikteki Su Parkı bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür, bitişikteki Sokak Karnavalı bölgesinden.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COPACABANA_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Kültür, bitişikteki Copacabana bölgesinden.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_NAPOLEON_RULESET_TITLE">
+			<Text>Süvari ve Topçu Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_RULESET_TEASER">
+			<Text>Sanayi Çağı'nda geçen bu muharebe odaklı senaryoda düşmanlarınızın topraklarını dişle tırnakla ele geçirin. 50 Tur sürer.[NEWLINE]Zafer Koşulları[NEWLINE][ICON_Bullet]Tur sınırında en geniş toprağa sahip olarak Sanayi Çağı'nın en büyük stratejisti olduğunuzu kanıtlayın.[NEWLINE]Oynanış Değişiklikleri[NEWLINE][ICON_Bullet]Birim bakım maliyetleri büyük ölçüde azaltıldı.[NEWLINE][ICON_Bullet]Birimler artık inşa edilmek için stratejik kaynak gerektirmiyor.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_NAPOLEON_VICTORY_TITLE">
+			<Text>Waterloo Sana Göre Değil</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_VICTORY_TITLE_ALT">
+			<Text>Demir, Toprak ve Zafer İçin!</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_VICTORY_DESC">
+			<Text>Tur sınırında en geniş toprağa sahip olarak Sanayi Çağı'nın en büyük stratejisti olduğunuzu kanıtlayın.</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
+			<Text>"Savaş alanı sürekli bir kaos sahnesidir. Kazanan, bu kaosu kontrol edendir; kendi kaosunu da düşmanınkini de." —Napolyon Bonapart</Text>
+		</Row>
+
+		<!-- Mod Package Text -->
+		<Row Tag="LOC_NAPOLEON_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Süvari ve Topçu Ateşi</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_MOD_TEASER">
+			<Text>Sanayi Çağı'nda geçen bu muharebe odaklı senaryoda düşmanlarınızın topraklarını dişle tırnakla ele geçirin. 50 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_MOD_DESCRIPTION">
+			<Text>Zafer Koşulları[NEWLINE]Tur sınırında en geniş toprağa sahip olarak Sanayi Çağı'nın en büyük stratejisti olduğunuzu kanıtlayın.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_NAPOLEON_PROGRESS">
+			<Text>Toprak Büyüklüğü {TerritorySize} {TerritorySizeIcon}</Text>
+		</Row>
+		<Row Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
+			<Text>Tur Sınırı {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
+		</Row>
+		
+		<!-- End Game Leader Ranking -->
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
+			<Text>"Zafer en azimli olana aittir." —Napolyon Bonapart</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>İmparator I. Napolyon</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Birinci Konsül Bonapart</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Napolyon, İçişleri Generali</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Tuğgeneral Bonapart</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Teğmen Napolyon Bonapart</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Napoleone di Buonaparte</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT">
+			<Text>Demir İmparatorluğun Hükümdarı</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT">
+			<Text>Donanmanın Büyük Amirali</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT">
+			<Text>Kara Kuvvetleri Tuğgenerali</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT">
+			<Text>Süvari Albayı</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT">
+			<Text>Topçu Yüzbaşı</Text>
+		</Row>
+		<Row Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
+			<Text>Sıkıdüzenci Teğmen</Text>
+		</Row>
+		
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BaseGameText>
+		<Row Tag="LOC_TECH_POTTERY_DESCRIPTION">
+			<Text>Çiftliklerle geliştirilmiş Bonus kaynakların hasat edilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
+			<Text>[ICON_RESOURCE_CATTLE] Sığır, [ICON_RESOURCE_SHEEP] Koyun ve [ICON_RESOURCE_DEER] Geyik hasat edilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MINING_DESCRIPTION">
+			<Text>Ormanların kesilmesine ve [ICON_RESOURCE_Copper] Bakır hasat edilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SAILING_DESCRIPTION">
+			<Text>İşçilerin denize açılmasına olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
+			<Text>Bataklıkların temizlenmesine ve [ICON_RESOURCE_BANANAS] Muz hasat edilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MASONRY_DESCRIPTION">
+			<Text>[ICON_RESOURCE_STONE] Taş hasat edilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
+			<Text>Yağmur ormanlarının kesilmesine olanak sağlar. [ICON_RESOURCE_IRON] Demir'i ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
+			<Text>Tüm kara birimlerinin denize açılmasına olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
+			<Text>Tüccarların denize açılmasına ve [ICON_RESOURCE_FISH] Balık ile [ICON_RESOURCE_CRABS] Yengeç hasat edilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
+			<Text>Tüm deniz birimlerine +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
+			<Text>Maden Ocağı iyileştirmesine +1 [ICON_Production] Üretim.</Text>
+		</Row>			
+		<Row Tag="LOC_TECH_STIRRUPS_DESCRIPTION">
+			<Text>Mera iyileştirmeleri +1 [ICON_Food] Besin kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CASTLES_DESCRIPTION">
+			<Text>Bitişiklik nedeniyle Büyük Duvar iyileştirmesine Bonus [ICON_Culture] Kültür. Catherine de Medici (Kara Kraliçe) olarak oynarken ücretsiz bir Casus kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
+			<Text>Balıkçı Teknesi iyileştirmesinden +2 [ICON_Gold] Altın. Tüm deniz ve denize açılmış birimler Okyanus bölgelerinde seyredebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SQUARE_RIGGING_DESCRIPTION">
+			<Text>Denize açılmış birimler için +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_BANKING_DESCRIPTION">
+			<Text>Taş Ocağı iyileştirmesinden +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PRINTING_DESCRIPTION">
+			<Text>Diğer tüm uygarlıklar üzerinde bir kademe daha fazla diplomatik görünürlük sağlar. [ICON_GreatWork_Writing] Yazın Büyük Eserlerinden elde edilen tüm [ICON_Tourism] Turizm getirileri ikiye katlanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_RADIO_DESCRIPTION">
+			<Text>[ICON_RESOURCE_ALUMINUM] Alüminyum'u ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
+			<Text>Maden Ocağı iyileştirmesine +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>Araştırma Anlaşması diplomatik eylemine olanak sağlar. Plantasyon iyileştirmesinden +1 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SANITATION_DESCRIPTION">
+			<Text>Basamaklı Kuyu iyileştirmeleri +1 [ICON_Housing] Konut kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
+			<Text>Denize açılmış birlikler +2 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FLIGHT_DESCRIPTION">
+			<Text>Kültür sağlayan tüm iyileştirmeler [ICON_Tourism] Turizm kazanır. Oluşan [ICON_Tourism] Turizm miktarı, iyileştirmenin [ICON_Culture] Kültür getirisine eşittir.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Çiftlik iyileştirmelerini Mekanize Tarım'a yükseltir. Komşu olduğu her Çiftlik iyileştirmesi için +1 [ICON_Food] Besin Komşuluk Bonusu sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
+			<Text>Kereste Fabrikası iyileştirmesinden +1 [ICON_Production] Üretim. Kentsel Savunma'yı açar, tüm şehirlerinize otomatik olarak 400 Tahkimat Gücü ve menzilli saldırı yeteneği verir. Önceki tüm sur iyileştirmeleri geçersiz hale gelir ve kuşatma destek birimleri artık etkili olmaz.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
+			<Text>Denize açılmış birlikler +2 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
+			<Text>Taş Ocağı iyileştirmesinden +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PLASTICS_DESCRIPTION">
+			<Text>Balıkçı Teknelerine +1 [ICON_Food] Besin.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>İlave bir Casus inşa etme yeteneği verir. İmparatorluğunuz genelinde +%100 [ICON_Tourism] Turizm.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>Kamp iyileştirmelerine +1 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>Meralara +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
+			<Text>Birden çok kez tamamlanabilir ve Puan Zaferi'ne yönelik puanlarınızı artırır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SAILING">
+			<Text>Kıyıda bir şehir kur.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
+			<Text>Bir doğa harikası keşfet.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRRIGATION">
+			<Text>Bir kaynağı çiftlikle işle.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ARCHERY">
+			<Text>Bir Sapanlı ile bir birim öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_WRITING">
+			<Text>Başka bir uygarlıkla tanış.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASONRY">
+			<Text>Bir Taş Ocağı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
+			<Text>3 Barbar öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
+			<Text>Bir kaynağı maden ocağıyla işle.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
+			<Text>2 deniz kaynağını iyileştir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CURRENCY">
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu oluştur.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
+			<Text>Bir Mera inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
+			<Text>Bir Demir Maden Ocağı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
+			<Text>2 Kadırgaya sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
+			<Text>3 farklı Uzmanlık Bölgesi inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
+			<Text>Bir Su Değirmeni inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ENGINEERING">
+			<Text>Antik Surlar inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
+			<Text>Bir Kargıcı ile bir birimi öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
+			<Text>3 Maden Ocağı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STIRRUPS">
+			<Text>Feodalizm sosyal politikasına sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MACHINERY">
+			<Text>3 Okçuya sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_EDUCATION">
+			<Text>Bir Büyük Bilim İnsanı kazan.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
+			<Text>Bir Su Kemeri inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>6 politika yuvası olan bir hükümete sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
+			<Text>2 Liman inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
+			<Text>Bir Kereste Fabrikası inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BANKING">
+			<Text>Loncalar sosyal politikasına sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
+			<Text>Bir Cephanelik inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PRINTING">
+			<Text>2 Üniversite inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
+			<Text>Bir Tüfekçi ile bir birimi öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
+			<Text>Bir Dağ'ın bitişiğine bir Üniversite inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
+			<Text>2 Arbaletçiye sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
+			<Text>2 Mancınığa sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
+			<Text>3 Atölye inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
+			<Text>Aydınlanma sosyal politikasına sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BALLISTICS">
+			<Text>Bölgende 2 Kale bulundur. Her ikisi de bir Askeri Mühendis tarafından inşa edilmiş olmalı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
+			<Text>Bir Şövalye ile bir birimi öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
+			<Text>2 Tersane inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SANITATION">
+			<Text>2 Mahalle inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ECONOMICS">
+			<Text>2 Banka inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RIFLING">
+			<Text>Bir Güherçile Madeni inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_FLIGHT">
+			<Text>Bir Sanayi Çağı veya sonrası harikası inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
+			<Text>3 Hat Piyadesine sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_STEEL">
+			<Text>Bir Kömür Madeni ve bir Zırhlı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
+			<Text>3 Korsana sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_RADIO">
+			<Text>Bir Millî Park inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
+			<Text>Bir Araştırma Anlaşması tamamla.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBUSTION">
+			<Text>Bir Tarihi Eser çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
+			<Text>3 Çift Kanatlı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>2 Enerji Santrali inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
+			<Text>3 Ordu veya Armada'ya sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_PLASTICS">
+			<Text>Bir Petrol Kuyusu inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>8 politika yuvası olan bir hükümete sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
+			<Text>2 Hava Meydanı inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
+			<Text>2 Yayın Merkezi inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
+			<Text>Bir Avcı Uçağı öldür.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPOSITES">
+			<Text>3 Tank'a sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ROBOTICS">
+			<Text>Küreselleşme sosyal politikasına sahip ol.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
+			<Text>Bir Alüminyum Madeni inşa et.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
+			<Text>Büyük Bilim İnsanı veya Casus aracılığıyla hızlandır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
+			<Text>Kıyıda bir şehir kurman, uygarlığına dalgaların sırrını çözme bilgeliği bahşetti.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
+			<Text>Bir doğa harikası keşfetmek, halkını evrenin görkemi karşısında hayrete düşürdü.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
+			<Text>Bir kaynağı ekip biçmek, ekinlerini sulamanın hayati önemini kavratı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
+			<Text>Sapan Atıcınla nihayet bir düşmanı alt ettikten sonra, daha güçlü bir menzilli silahın özlemiyle yanıp tutuşuyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
+			<Text>Başka bir uygarlıkla karşılaşman, yeni iletişim yollarına duyulan ihtiyacı açıkça ortaya koyuyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
+			<Text>Bir kaynağı taş ocağı olarak işletmek, duvarcıları çalıştırmak için gereken ham maddeleri sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
+			<Text>Barbarlarla giriştiğin çatışmalar, daha güçlü silahlara olan ihtiyacı gözler önüne seriyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
+			<Text>Maden ocakların sana bir dingil yapma becerisi kazandırdı. Tekerlek de bu buluşu takip edecek mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
+			<Text>Balıkçıların, gece göğünü inceleyerek yollarını bulmayı öğreniyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
+			<Text>Ticaret Yolunuz [ICON_TradeRoute] malları doğrudan takas ediyor; ancak ortak bir değişim aracı, ticareti çok daha esnek kılacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
+			<Text>Hayvanlar artık Meralar'da evcilleştirilmişken, ata binmeyi öğrenmenin vakti gelmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
+			<Text>İstikrarlı bir Demir kaynağına erişim, daha iyi silahlar ve daha sağlam zırhlar yapmanızı sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
+			<Text>Bir Kadırga filosu inşa etmek size daha büyük gemiler yapma konusunda çok şey öğretti.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
+			<Text>Bölge plancılarınız geometrinin temellerini çözdü. Belki de yakında eksiksiz bir matematik sistemi gelecek?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
+			<Text>Su Değirmeni üzerindeki çalışmalar, işçilerinize inşaat uygulamaları hakkında çok şey öğretti.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
+			<Text>Şehrinizin etrafındaki Surlar'ın tamamlanması, Su Kemerleri ve Mancınıklar için gereken mühendislik prensiplerini ortaya koydu.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
+			<Text>Mızraklı askerleriniz etkili olduğunu kanıtlıyor, ancak rakipleriniz artık daha güçlü ve hızlı. Belki daha uzun bir silaha ihtiyaç vardır?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
+			<Text>Artık çok çeşitli maden ocaklarından hammadde elde ediliyor; yeni zanaatkârlara bunları kullanmayı daha iyi öğretme ihtiyacı hayati önem taşıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
+			<Text>Krallığınızdaki derebeyleri, topraklarını savunacak bir şampiyon istiyor. Belki zırhlı bir savaşçıyı ata bindirmek işe yarar?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
+			<Text>Büyük Menzilli Birlikleri'nizin performansını artırmak için makinelere yöneliyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
+			<Text>Büyük Bilim İnsanı'nızın öğretileri, krallığınızda öğrenmeye karşı yenilenmiş bir ilgi uyandırdı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
+			<Text>Askeri liderleriniz su kemerinizdeki ilerlemeyi dikkatle takip etti. Bu mühendislik becerilerini kullanmanın yeni yollarını görüyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
+			<Text>Yeni hükümetimizin savunma bakanı, hareketli başkentimizi korumak için etkileyici savunmalar inşa etmemiz gerektiğini öne sürüyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
+			<Text>İmparatorluğunuzun limanlarından bu kadar çok gemi ayrılırken, keşiflerinizi belgeleme arzusu duyuyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
+			<Text>Artık standart kalaslardan hazır bir tedarikiniz var, gemi inşa endüstriniz yakında havalanacak.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
+			<Text>Yeni oluşan loncalarınızın büyük miktarda altın akışı gerektiren planları var. Belki onlara kredi çekmenin bir yolunu bulabiliriz?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
+			<Text>Silahhanedeki adamlarınız, rakipleri yerle bir edecek yeni bir silah üretiyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
+			<Text>Zorunluluktan, bilginleriniz kitapları hızlıca kopyalamak için yöntemler geliştiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
+			<Text>Kara Tüfekçilerinizin başarısı yeni bir fikri tetikledi: Ya denizde de barutlu silahlara geçersek?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
+			<Text>Bilim insanlarınız gökyüzünü daha net gözlemlemek için dağlara tırmanıyor. Belki kalıcı bir tesis işe yarar?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
+			<Text>Savaş alanında bu kadar çok Arbaletçi varken, menzilli silahlar üzerinde çokça pratik yapma fırsatı bulduk.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
+			<Text>Bombardıman toplarını ürettikten sonra kalelerin zapt edilemez olmadığını anlıyorsunuz – daha sağlam bir savunmaya ihtiyacınız var!</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
+			<Text>İmparatorluğunuzun hareketli atölyeleri, yaklaşan büyüklüğün habercisi. Bir Sanayi Devrimi mi başlamak üzere?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
+			<Text>Diyarımızda bir aydınlanma çağının şafağı, bilimsel yöntemlerimiz üzerine ciddi bir tartışmayı ateşledi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
+			<Text>Şehirleriniz birden fazla tahkimatla korunuyor, ya toplarla savunulabilselerdi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
+			<Text>Cesur Şövalyeniz düşmanını yendi. Bu zaferden ders alalım ve askeri bilimlerin talebesi olalım.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
+			<Text>Endüstriyel maharetimizi yeni inşa edilmiş tersanelerinize uygulayalım. Buhar gücüyle çalışan deniz araçları denizlere hükmedebilir.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
+			<Text>Mahallelerin tanıtılmasıyla şehirlerimiz her zamankinden daha da büyüyor. Bir sağlık hizmetleri planı geliştirmek hayati önem taşıyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
+			<Text>Bankalarınızın gücü artıyor. Ulusal ekonominizi şekillendiren güçleri resmen incelemenin zamanı geldi.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
+			<Text>Bir güherçile kaynağıyla ateşli silah endüstriniz son hıza geçiyor. Bir sonraki adım, nişan alma hassasiyetimizi artırmak olacak.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
+			<Text>Modern bir harikayı tamamlayan mühendislerimiz her şeyin üstesinden gelebileceklerinden emin. Ne yani, sırada uçmak mı var?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
+			<Text>Silah üreticileriniz bu kadar çok tüfeği elle yapmaktan yoruldu. Belki biraz standardizasyon yardımcı olur?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
+			<Text>Kömürle çalışan yüksek fırınlarınız ve bir Zırhlı ile yapılan deneme sürüşleri yakında en kaliteli çeliği üretmemizi sağlamalı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
+			<Text>Kurnaz korsanlarınız elektrik akımının keşfinden etkilendiler. Bunu gizli bir sevk sistemi yaratmak için kullanabilirler mi?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
+			<Text>Yeni milli parkınızın ziyaretçilere ihtiyacı var. Belki yeni bir iletişim biçimi onu tanıtmaya yardımcı olur?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
+			<Text>Diğer uluslarla güç birliği yapmak, bilimsel ilerlemelerde bir zincirleme reaksiyon başlattı. Sıradaki hamle kimyada mı olacak?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
+			<Text>Arkeoloğunuz kayalardan sızan petrolü fark etti. Belki jeologlarınız bir göz atmak ister?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
+			<Text>Çift kanatlı uçaklarla kazandığınız geniş tecrübe, birçok havacılık atılımına yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
+			<Text>Yeni enerji santrallerinin geliştirilmesi, silah üretiminize yardımcı olabilecek endüstriyel ilerlemeleri teşvik etti.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
+			<Text>Ordunuz genişledi; peki ya onu yeni bir kaynakla daha da güçlendirmek mümkün mü?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
+			<Text>Bir petrokimya kaynağına sahip olmak pek çok ilerlemenin önünü açacaktır. Özellikle plastisitesi büyük ilgi uyandırmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
+			<Text>Modern bir hükümet beraberinde yoğun bir bürokrasi getirir. Verileri verimli bir şekilde işleyecek yöntemler geliştirmek büyük bir yardım olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
+			<Text>Birden fazla şehirde hava aracı tesisleriyle havacılık endüstriniz yükselişe geçti.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
+			<Text>Radyo ve televizyondaki öncüleriniz sayesinde verileri hızla iletme konusunda ustalaştınız.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
+			<Text>Ordunuz bir düşman uçağını imha etti. Şimdi, düşman hava araçlarına karşı en iyi savunmayı geliştirmenin zamanıdır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
+			<Text>Tanklar ordunuzun belkemiğini oluşturdu, bu yüzden bilim insanlarınız daha gelişmiş bir model için çaba sarf ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
+			<Text>Deney yapılabilecek çeşitli metallere sahip olmak, bilim insanlarınızın yeni alanlara adım atmasına yardımcı olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
+			<Text>Deney yapılabilecek çeşitli metallere sahip olmak, bilim insanlarınızın yeni alanlara adım atmasına yardımcı olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH">
+			<Text>Takım üyelerinizden biri, yakın zamanda elde edilen bir teknolojiye dair araştırma notlarını paylaştı. Bu yenilik, kendi ilerlememizi kayda değer ölçüde hızlandıracaktır.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

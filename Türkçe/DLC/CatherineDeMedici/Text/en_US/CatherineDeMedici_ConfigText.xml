@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_ALT_NAME">
+			<Text>Catherine de Medici (İhtişam)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_NAME">
+			<Text>Catherine'in İhtişamları</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAGNIFICENCES_DESCRIPTION">
+			<Text>Tiyatro Meydanı bölgelerine veya Şatolara komşu olan Geliştirilmiş Lüks Kaynaklar, +2 [ICON_CULTURE] Kültür kazanır. Tiyatro Meydanı bölgesi olan herhangi bir şehirde Saray Festivali projesini başlatabilir.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CATHERINE_DE_MEDICI_EXPANDED_NAME">
+			<Text>Catherine de Medici (Kara Kraliçe)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

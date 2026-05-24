@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Elizabeth-->
+		<Row Tag="LOC_LEADER_ELIZABETH_NAME">
+			<Text>I. Elizabeth</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ELIZABETH_NAME">
+			<Text>Drake'in Mirası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ELIZABETH_DESCRIPTION">
+			<Text>İngiltere'nin [ICON_TradeRoute] Ticaret Yolu Kapasitesi, ilk [ICON_GreatAdmiral] Büyük Amiralinizi elde ettikten sonra 2 artar. Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yolları, çıkış şehrindeki her uzmanlık bölgesi için +3 [ICON_GOLD] Altın sağlar. Deniz Birlikleri ile [ICON_TradeRoute] Ticaret Yollarını Yağmalamaktan %100 daha fazla Getiri elde edilir.</Text>
+		</Row>
+		<!-- Harald Alt-->
+		<Row Tag="LOC_LEADER_HARDRADA_ORIGINAL_NAME">
+			<Text>Harald Hardrada (Kral)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_HARALD_ALT_NAME">
+			<Text>Harald Hardrada (Vareg)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HARALD_ALT_NAME">
+			<Text>Vareg Muhafızları</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HARALD_ALT_DESCRIPTION">
+			<Text>Birim Kiralama'da %75 İndirim ve tüm birimler 2 daha az [ICON_GOLD] Altın bakım maliyeti öder. Çivisiz Kilise'den tur başına +1 Etki Puanı.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HARALD_ALT_XP_DESCRIPTION">
+			<Text>Tüm birimler 2 daha az [ICON_GOLD] Altın bakım maliyeti öder. Birim Kiralama'da %75 İndirim ve kiralanan birimler, öldürdükleri birimlerin [ICON_STRENGTH] Muharebe Gücü'nün %50'si kadar [ICON_CULTURE] Kültür, [ICON_FAITH] İnanç ve [ICON_SCIENCE] Bilim kazanır. Çivisiz Kilise'den tur başına +1 Etki Puanı.</Text>
+		</Row>
+		<!-- Victoria Alt-->
+		<Row Tag="LOC_LEADER_VICTORIA_ALT_NAME">
+			<Text>Victoria (Buhar Çağı)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_VICTORIA_ORIGINAL_NAME">
+			<Text>Victoria (İmparatorluk Çağı)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VICTORIA_ALT_NAME">
+			<Text>Buhar Çağı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_VICTORIA_ALT_DESCRIPTION">
+			<Text>Şehirlerde, o şehirdeki her Sanayi Bölgesi binası için %10 [ICON_PRODUCTION] Üretim. Tüm Stratejik Kaynaklara +2 [ICON_PRODUCTION] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELIZABETH">
+			<Text>Elizabeth Regina, İngiltere'nin Bakire Kraliçesi ve denizlerin hükümdarı, İngiltere'yi ona göz dikenlere karşı koruyan ahşap duvarı yönetiyorsun. Yurt içinde ve dışında entrikalara karşı tetikte ol ve emrinle kaptanlarının yelken açmasını sağla. Hiç kimseye boyun eğme; Britanya dalgalara hükmedecek!</Text>
+		</Row>
+	</EnglishText>
+</GameData>

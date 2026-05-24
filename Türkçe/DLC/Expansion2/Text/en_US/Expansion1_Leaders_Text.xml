@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--City-States-->
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Bilim, her Kütüphane binasında.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Bilim, her Üniversite binasında.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] İnanç, her Mabet binasında.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] İnanç, her Tapınak binasında.</Text>
+		</Row>
+    <Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+      <Text>+2 [ICON_Gold] Altın, her Pazar ve Deniz Feneri binasında.</Text>
+    </Row>
+    <Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+      <Text>+2 [ICON_Gold] Altın, her Banka ve Tersane binasında.</Text>
+    </Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Kültür, her Amfitiyatro binasında.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Kültür, her Sanat Müzesi ve Arkeoloji Müzesi binasında.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Üretim, Kışla veya Ahır binasına sahip her şehirde, birim üretirken.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Üretim, Cephanelik binasına sahip her şehirde, birim üretirken.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Üretim, Atölye binasına sahip her şehirde, Harikalar, binalar ve bölgeler üretirken.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Üretim, Fabrika binasına sahip her şehirde, Harikalar, binalar ve bölgeler üretirken.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_NAME">
+			<Text>Venedik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
+			<Text>Venedik şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
+			<Text>Venedik Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
+			<Text>Yabancı şehirlere olan [ICON_TradeRoute] Ticaret Yollarınız, varış noktasındaki her Lüks Kaynak için +1 [ICON_Gold] Altın kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
+			<Text>Venedik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_NAME">
+			<Text>Anshan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>Anshan şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
+			<Text>Anshan Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
+			<Text>Her [ICON_GreatWork_WRITING] Yazın Büyük Eseri'nden +2 [ICON_SCIENCE] Bilim. Her [ICON_GreatWork_RELIC] Kutsal Emanet ve [ICON_GreatWork_Artifact] Tarihi Eser'den +1 [ICON_SCIENCE] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
+			<Text>Anshan</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>O şehirdeki her Ordugâh Bölgesi binası için kara muharebe birimleri [ICON_GOLD] Altın ile %20 daha ucuza satın alınır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>Her Ordugâh Bölgesi binası için şehirlerde tur başına +2 Bağlılık kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Bina içeren bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve bina içeren Tiyatro Meydanı bölgeleri için [ICON_GreatMusician] Büyük Müzisyen).</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>En yüksek aktif İttifak Seviyesi için tüm Tiyatro Meydanı bölgeleriniz +%50 Komşuluk Bonusu alır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} Moğol Sürüsü</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ALLIANCE_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} Enkidu'nun Maceralarından</Text>
+		</Row>
+		
+		<!-- Free Cities -->
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
+			<Text>Özgür Şehirler</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
+			<Text>Özgür Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_ADJECTIVE">
+			<Text>Özgür Şehirler</Text>
+		</Row>
+	</EnglishText>
+</GameData>

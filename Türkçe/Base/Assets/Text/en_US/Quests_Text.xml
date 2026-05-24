@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Instance Names-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_NAME">
+			<Text>{LOC_GRAMMAR_A_AN &lt;&lt; {1_UnitName}} eğitin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_NAME">
+			<Text>{LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}} inşa edin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_NAME">
+			<Text>{1_TechName} teknolojisi için bir [ICON_TechBoosted] Buluş tetikleyin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_NAME">
+			<Text>{1_CivicName} yönetim bilimi için bir [ICON_CivicBoosted] İlham tetikleyin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_NAME">
+			<Text>Bir {LOC_GRAMMAR_A_AN &lt;&lt; {1_GreatPersonClassName}} işe alın.</Text>
+		</Row>
+		<!--Descriptions-->
+		<Row Tag="LOC_QUEST_CONVERT_CAPITAL_TO_RELIGION_DESCRIPTION">
+			<Text>Şehir devletini kendi [ICON_Religion] dininize dönüştürün.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_SEND_TRADE_ROUTE_DESCRIPTION">
+			<Text>Şehir devletine bir [ICON_TradeRoute] Ticaret Yolu gönderin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_DESCRIPTION">
+			<Text>Şehrin 5 kare yakınındaki bir [ICON_Barbarian] Barbar Karakolu'nu yok edin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_DESCRIPTION">
+			<Text>Rastgele seçilen bir askeri [ICON_Unit] birlik türü eğitin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_DESCRIPTION">
+			<Text>Rastgele seçilen bir uzmanlık [ICON_District] bölge türü inşa edin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_DESCRIPTION">
+			<Text>Rastgele seçilen bir [ICON_TechBoosted] Buluş anı tetikleyin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_DESCRIPTION">
+			<Text>Rastgele seçilen bir [ICON_CivicBoosted] İlham anı tetikleyin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_DESCRIPTION">
+			<Text>Rastgele seçilen bir [ICON_GreatPerson] Büyük Kişi sınıfı işe alın.</Text>
+		</Row>
+		<!--Instance Descriptions-->
+		<Row Tag="LOC_QUEST_TRAIN_UNIT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Bir {LOC_GRAMMAR_A_AN &lt;&lt; {1_UnitName}} askeri birliği eğitin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_ZONE_DISTRICT_TYPE_INSTANCE_DESCRIPTION">
+			<Text>Bir {LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}} bölgesi inşa edin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_TECH_BOOST_INSTANCE_DESCRIPTION">
+			<Text>{1_TechnologyName} teknolojisi için [ICON_TechBoosted] Buluş anını tetikleyin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_TRIGGER_CIVIC_BOOST_INSTANCE_DESCRIPTION">
+			<Text>{1_CivicName} yönetim bilimi için [ICON_CivicBoosted] İlham anını tetikleyin.</Text>
+		</Row>
+		<Row Tag="LOC_QUEST_RECRUIT_GREAT_PERSON_CLASS_INSTANCE_DESCRIPTION">
+			<Text>Bir {1_IconString} {2_GreatPersonClassName} işe alın.</Text>
+		</Row>
+		<!--Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS">
+			<Text>[ICON_Envoy] Elçiler</Text>
+		</Row>
+		<!--Instance Rewards-->
+		<Row Tag="LOC_QUEST_REWARD_ENVOYS_NUMBER">
+			<Text>[ICON_Envoy] {1_Amount} {1_Amount : plural 1?Elçi; other?Elçiler;}</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

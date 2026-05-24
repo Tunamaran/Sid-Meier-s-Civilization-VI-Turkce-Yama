@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_BUILDING_STAR_FORT_NAME"/>
+		<Delete Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION"/>
+		<Delete Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY"/>
+		<Delete Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- REPLACEMENTS -->
+		<Row Tag="LOC_BUILDING_STAR_FORT_NAME">
+			<Text>Kale</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Dış savunmalarınızın gücünü artırarak, en yoğun saldırılar dışındaki tüm taarruzlara karşı koymanızı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY">
+			<Text>Savaş Makinesi Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
+			<Text>Almanya olarak, belirlenen süre içinde Paris şehrini ele geçirmelisiniz. Fransa olarak ise süre dolana kadar Paris'i işgalden korumalısınız.</Text>
+		</Row>
+		<!--HUD-->
+		<Row Tag="LOC_WARMACHINE_CALENDAR_AUGUST">
+			<Text>Ağustos {1_Day}, 1914</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_CALENDAR_SEPT">
+			<Text>Eylül {1_Day}, 1914</Text>
+		</Row>
+		<!--Great People-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENERAL_DEFAULT_NAME">
+			<Text>Saha Komutanı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH">
+			<Text>2 kare mesafedeki kara birimlerine +3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH_MODIFIER">
+			<Text>Büyük General'den +3 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_BUILDING_HEADQUARTERS_NAME">
+			<Text>Karargâh</Text>
+		</Row>
+		<!--Techs-->
+		<Row Tag="LOC_TECH_AIRCRAFT_NAME">
+			<Text>Hava Aracı</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATIONS_NAME">
+			<Text>Tahkimat</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATIONS_DESCRIPTION">
+			<Text>Tüm şehirlerde +100 can puanı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HEAVY_ARTILLERY_NAME">
+			<Text>Ağır Topçu</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HEAVY_ARTILLERY_DESCRIPTION">
+			<Text>Topçu birimleri için +6 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LOGISTICS_NAME">
+			<Text>Lojistik</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LOGISTICS_DESCRIPTION">
+			<Text>Orduların oluşturulmasına ve eğitilmesine olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMMAND_NAME">
+			<Text>Komuta</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMMAND_DESCRIPTION">
+			<Text>[ICON_Capital] Başkentinizde 2 ücretsiz [ICON_GreatGeneral] Büyük General sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIAL_WARFARE_NAME">
+			<Text>Endüstriyel Savaş</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIAL_WARFARE_DESCRIPTION">
+			<Text>Tüm birimlere +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRIAL_WARFARE_COMBAT_STRENGTH_PREVIEW_TEXT">
+			<Text>+{1_Amount} Endüstriyel Savaş</Text>
+		</Row>
+		<Row Tag="LOC_HEAVY_ARTILLERY_COMBAT_STRENGTH_PREVIEW_TEXT">
+			<Text>+{1_Amount} Ağır Topçu</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_WARMACHINE_DESCRIPTION">
+			<Text>Orta Çağ destek birimi. Üretim için bir Cephanelik gerektirir. Demiryolu, Kale ve Hava Pisti geliştirmeleri inşa edebilir.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_LILLE">
+			<Text>Lille</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REIMS">
+			<Text>Reims</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NANCY">
+			<Text>Nancy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELFORT">
+			<Text>Belfort</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORLEANS">
+			<Text>Orleans</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARTES">
+			<Text>Chartes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOLN">
+			<Text>Köln</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOBLENZ">
+			<Text>Koblenz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MANNHEIM">
+			<Text>Mannheim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRASSBURG">
+			<Text>Strassburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COLMAR">
+			<Text>Colmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTWERP">
+			<Text>Antwerp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIEGE">
+			<Text>Liège</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAMUR">
+			<Text>Namur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONS">
+			<Text>Mons</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUXEMBOURG">
+			<Text>Lüksemburg</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="LOC_SCENARIO_CATEGORY_CONTROL_OF_PARIS_NAME">
+			<Text>Paris'in Kontrolü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_LINE_ITEM_CONTROL_OF_PARIS_NAME">
+			<Text>Paris'in Kontrolü</Text>
+		</Row>
+		<!--Historic Rankings-->
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_NAME">
+			<Text>Mareşal</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_QUOTE">
+			<Text>Askeri ustalığın kanıtı uzun süren seferlerde değil, kesin zaferdedir.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_NAME">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_QUOTE">
+			<Text>Komuta, savaş güçlerini başarıyla ve zahmetsizce yönlendirme sanatıdır.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_NAME">
+			<Text>Albay</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_QUOTE">
+			<Text>Başarı ya da başarısızlık, bilgi ve sezginin keskin sınırında dengelenir.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_NAME">
+			<Text>Binbaşı</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_QUOTE">
+			<Text>Cesaretin olduğu yerde cüret vardır. Cüretin olduğu yerde ivme vardır. İvmenin olduğu yerde zafer vardır.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_NAME">
+			<Text>Yüzbaşı</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_QUOTE">
+			<Text>Mümkünse zafer, ama her şeyin üstünde onur.</Text>
+		</Row>
+		<!-- ************************************************ -->
+		<!-- CIVILOPEDIA -->
+		<!-- ************************************************ -->
+		<!--Tech-->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_HEAVY_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Almanlar, Belçika'yı çevreleyen kale halkasının savunmasını kırmak için özel kuşatma topları geliştirdi. Bunlar oldukça başarılı olup, kalelerin planlayıcıların öngördüğünden daha erken düşmesine neden oldu. Fransızlar, uzun ömürlü ve esnek olduğu kanıtlanan sofistike ve güçlü 75 mm'lik bir topçu topu geliştirdi. Ancak ikisi de siperlerdeki çıkmazı tek başına kırmaya yetmedi; tank, uçak ve küçük birlik taktiklerindeki yeni teknolojiler nihayetinde bunu başaracaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Lojistik, bir ordunun kayıplarını ve harcamalarını karşılamak için malzeme tedarik etme sürecidir. Göz kamaştırıcı olmasa da savaşta başarı, bu ayrıntıları kusursuz bir şekilde yerine getirmeye bağlıdır. Amatörler taktikleri inceler; uzmanlar lojistiği inceler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_COMMAND_CHAPTER_HISTORY_PARA_1">
+			<Text>Napolyon döneminden sonra, profesyonel askeri subaylar stratejik ve operasyonel planlamayı çalışmalarına dahil etmeye başladı. Profesyonel komuta kadrosu, savaşın siyasi hedeflerini askeri hedeflere dönüştürmekten sorumlu olan askeri bölümdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_INDUSTRIAL_WARFARE_CHAPTER_HISTORY_PARA_1">
+			<Text>Topyekûn savaşta, devletin tüm kaynakları savaş amaçlarının hizmetine sunulur. Sanayi toplumunda bu, sanayi altyapısının tamamen silah üretimine dönüştürülmesi, kitlesel zorunlu askerlik için nüfusun geniş kesimlerinin silah altına alınması ve ekonominin açık siyasi araçlarla yönlendirilmesi anlamına gelir. Bu, çatışma sona erdikten çok sonra bile yankılanacak şekillerde toplumu dönüştürebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATIONS_CHAPTER_HISTORY_PARA_1">
+			<Text>Makineli tüfeğin ve yeni yüksek patlayıcı top mermilerinin icadı, Birinci Dünya Savaşı'na giden yıllarda tahkimatların da değişmesine yol açtı. Batı Cephesi'nin geniş siper sistemleri, savaşın büyük bir bölümünde savunmanın saldırıya üstünlüğünün fiziksel bir ifadesi olarak görülebilir. Benzer şekilde, 1916'dan itibaren piyade ve tanklar için geliştirilen modern taktikler, bu savunma üstünlüğünün üstesinden gelme çabası olarak değerlendirilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_AIRCRAFT_CHAPTER_HISTORY_PARA_1">
+			<Text>Birinci Dünya Savaşı'nın başında havacılık henüz emekleme aşamasındaydı ve uçaklar keşif için pahalı ve güvenilmez makinelerdi. Savaşın sonunda ise, savaşın potasında hızla evrim geçirerek gezegendeki her büyük ordunun vazgeçilmezi haline geldiler ve taktik saldırılar ile stratejik bombalamalarda kullanıldılar. Araştırma ve geliştirme o kadar pahalıydı ki, çoğu devlet sponsorluğu veya kamu-özel ortaklığı yoluyla yapıldı.</Text>
+		</Row>
+		<!--Leaders-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>1870 Fransa-Prusya Savaşı sırasındaki felaket Sedan Muharebesi'nin ardından, Fransız askeri planlamacıları bu yıkıcı kayıptan ve aşağılayıcı siyasi sonuçlardan kurtulmak, orduyu Avrupa'nın birinci sınıf ordularından biri haline getirmek zorundaydı. Almanların ayrıntılı operasyonel savaş planlarına olan eğiliminin aksine, Fransız subayları esnek taarruz doktrinini benimsemeye başladılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Ordunun, düşman hatlarına sürekli saldırarak ivmesini koruyacağı ve ardından gelen her zayıflığı acımasızca kullanacağı düşünülüyordu. Düşman asla dengesini bulamayacak, inisiyatif her zaman Fransızların elinde kalacak ve Alman düşmanların yıpratıcı ilerleyişi yıldırım karşı saldırılarla durdurulacaktı. Bu, tabur seviyesinden cephe seviyesine kadar geçerli olacaktı – işgalcinin zayıf olduğu yerde Fransızlar saldıracaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_3">
+			<Text>Ağustos 1914’ün büyük çelişkilerinden biri de şudur: Fransızlar Alçak Ülkeler cephesinde sendeleyerek gerilerken, Alsas ve Lorraine üzerinden ilerleme kaydediyorlardı; ancak Paris’i kurtarmak için takviye sağlamak adına bu ilerlemeler durdurulmak zorunda kalındı. O yılın sonunda “daima saldır” ruhu sönmüş ve siperler Batı Cephesi’ni tanımlar hâle gelmişti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1">
+			<Text>1870 yılında, Fransa-Prusya Savaşı sırasında Prusya Ordusu'nun elde ettiği başarılar, ordunun yürüyüş cetvellerinden demiryolu hatlarındaki vagonlara kadar her ayrıntıyı kapsayan metodik ve kapsamlı planlama anlayışını haklı çıkarmıştı. Fransa ile gelecekteki bir savaşı muhtemelen kaçınılmaz gören Alman Genelkurmay Başkanı Kont von Schlieffen, Alçak Ülkeler'den geçerek Paris'in güneyine inecek bir işgal planı hazırladı. Bu işgal planının başarıya ulaşması, kuvvetlerin Alman ordusunun en batı kanadında yoğunlaştırılmasını gerektiriyordu; ancak plan hiçbir zaman bütünüyle uygulanamadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2">
+			<Text>İki cephede birden savaşmak zorunda kalan Alman yüksek komutanlığı, ağır batı kanadı için ayrılan kuvvetlerin bir kısmını bambaşka bir savaş alanına (bu durumda Ruslara karşı) kaydırdı. Alman ordusu Alçak Ülkeler'i başarıyla ezip geçerken Fransız Ordusu'nu da geriletmişti; Fransız hatlarında oluşan bir çıkıntı, Alman Genelkurmayı'na cazip bir hedef sundu. Ancak Schlieffen planındaki kuvvet azaltımı, Alman birliklerinin Fransızlara karşı doğaçlama hareketleri ve Fransızlar ile İngilizlerin sert direnişi gibi çeşitli faktörler, nakavt darbesinin hedeflerine ulaşmasını engelledi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3">
+			<Text>Almanlar kumar oynamış ve kaybetmişti; savaş, Schlieffen planının can verdiği hatlar boyunca dört yıl sürecek bir cehenneme dönüştü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>İngiliz Seferi Kuvveti, Britanya'yı Fransızlarla olan ittifaka daha sıkı bağlamak amacıyla aceleyle sahaya sürülen küçük bir orduydu. Fransız hattının en batısında konuşlanan bu birlik, başlangıçta ciddi bir askeri güçten ziyade siyasi bir nezaket jesti olarak görülüyordu. Ancak Almanlar Alçak Ülkeler üzerinden Paris'e doğru ilerlerken, İSK Mons Muharebesi'nde sayıca üstün bir Alman kuvvetiyle savaştı ve ağır kayıplar verip nihayetinde geri çekilmek zorunda kalmasına rağmen, Fransız Beşinci Ordusu'nu yok olmaktan kurtardı. Mons Muharebesi, Büyük Britanya'nın en saygın ve övünç duyulan askeri başarılarından biridir ve İSK ile özdeşleşmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Belçika ulusu, Napolyon Çağı'nın sonunda Avrupa güç dengesinin bir parçası olarak yaratılmıştı, ancak uzun süredir Büyük Britanya'nın özel bir müttefikiydi. Fransa'nın işgal planı, Alman Ordusu'nun Belçika üzerinden saldırmasını öngörüyordu. Hatta planın ilk versiyonları, Belçika Ordusu'nun geçen Alman Ordusu'na yollarda bir şeref kıtası sağlayacağını varsayıyordu ki bunun son derece yanlış bir varsayım olduğu ortaya çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>Liège şehri, bir dizi kale ile çevriliydi ve 1914'te Alman Ordusu'nun karşılaştığı ilk önemli askeri engeli temsil ediyordu. Kaleler birçok durumda iyi savaşmış olsa da, özellikle bu kaleleri yıkmak için inşa edilmiş özel kuşatma toplarına karşı dayanamadı. Liège tahkimatının çöküşü ve Alman ordusunun Belçika halkına karşı gösterdiği zalimlik, kamuoyunun özellikle Büyük Britanya'da Almanya aleyhine dönmesine neden oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_CHAPTER_HISTORY_PARA_1">
+			<Text>Küçük Lüksemburg prensliği, Fransa ile Almanya arasında yer alır ve üstelik bu ülkeler arasındaki önemli bir demiryolu kavşağının merkezidir. Bu demiryolu sahalarının ele geçirilmesi, Almanya'nın Fransa'yı işgal planı için kritik öneme sahipti ve sonuç olarak Lüksemburg'un işgali, 1914'te savaşın ilk eylemlerinden biri oldu.</Text>
+		</Row>
+		<!--Civs-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Fransa, 1870'teki Fransa-Prusya Savaşı felaketinden bu yana Almanya ile savaşa hazırlanıyordu. O savaşta Prusya ordusu, Fransız sahra ordusunu bozguna uğratmış, İmparator'u esir almış ve ardından gelen barışta, Fransa'nın doğusundaki Alsas ve Loren topraklarının terk edilmesi de dahil olmak üzere aşağılayıcı tavizler koparmıştı. Bu yenilginin gölgesinde büyüyen bir nesil Fransız politikacı ve subay, kaybettikleri için tam anlamıyla intikam almasalar da en azından haklı çıkmanın yollarını aramaya kararlıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Fransa'nın başlıca askeri müttefikleri Rusya ve Büyük Britanya'ydı ve Fransa'nın müttefikler adına savaşa girmesini hızlandıran olay, Rusya'nın Avusturya-Macaristan İmparatorluğu'na savaş ilan etmesiydi. Ancak Fransa, Avusturya-Macaristan'dan ziyade öncelikle Almanya'ya karşı kendi savaşına odaklanmıştı. Bu doğrultuda, savaşın patlak vermesiyle birlikte Fransızların ana çabası, bu toprakları hızla geri almak için Alsas ve Loren'e bir saldırı başlatmak oldu; Belçika ve Lüksemburg ile olan kuzey sınırını yalnızca hafif bir şekilde savunmada bıraktılar. Fransız savaş planları, bu eksen boyunca saldıracak Alman kuvvetlerinin sayısını ciddi şekilde küçümsedi (Almanların Ardenler üzerinden geleceğini varsayıyordu), bu da orduları savaşın daha en başında planlarını aniden değiştirmek zorunda bıraktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1">
+			<Text>I. Dünya Savaşı'nın patlak vermesinden bir nesil önce, Prusya ordusu Fransa'ya Napolyon Çağı'nın sonundan bu yana en büyük askeri yenilgisini tattırmış ve ardından modern Almanya ulusunu oluşturmuştu. Alman politikacılar, Fransızlardan koparılan şartların bir sonraki olası çatışmanın tohumlarını nasıl ektiğinin açıkça farkındaydı ve ardından bir sonraki savaşa hazırlanmaya koyuldular.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2">
+			<Text>Üçlü İtilaf'ın (Fransa, Büyük Britanya ve Rusya'nın askeri ittifakı) imzalanması, Almanya'yı tehlikeli bir askeri konuma soktu; artık doğuda ve batıda askeri rakiplerle çevriliydi. I. Dünya Savaşı öncesinde formüle edilen büyük strateji, Rusya'nın devasa insan gücü avantajını doğuda kullanma şansı bulamadan önce batıdaki Fransa'ya tek ve büyük bir nakavt darbesi indirmekti. Bu, Schlieffen Planı'nın itici siyasi hedefi haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3">
+			<Text>I. Dünya Savaşı arifesinde, dünyada Alman askeri kuvvetleri kadar iyi eğitimli ve hazırlıklı çok az ordu vardı. Ancak yine de hazırlık ve eğitim, planlamacıların hayal ettiği hızlı sonucu getirmeye yetmedi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük Britanya'nın Üçlü İtilaf'a (Fransa, Büyük Britanya ve Rusya arasındaki askeri ittifak) katılımı hiçbir şekilde önceden belirlenmiş bir sonuç değildi. Napolyon dönemine kadar uzanan Fransa ile Büyük Britanya arasındaki köklü askeri rekabet ve Büyük Britanya ile Almanya kraliyet aileleri arasındaki bağlar, Britanya'nın İttifak Devletleri'ne katılmasını olası bir sonuç haline getiriyordu. Sonuçta Büyük Britanya, Almanya ile Büyük Britanya arasında hızla yükselen ve birçok kişinin yükselen Alman gücüne karşı önlemler alınmasını talep ettiği rekabet nedeniyle İtilaf'a katıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_2">
+			<Text>I. Dünya Savaşı arifesinde, Büyük Britanya'nın kıta Avrupası'na askeri güç göndereceğinin hiçbir garantisi yoktu. Büyük Britanya'nın Fransız topraklarına küçük bir kuvvet göndermesi, büyük ölçüde hem Fransız hem de İngiliz ordularındaki küçük bir subay grubunun sürekli baskısı sayesinde gerçekleşti. Nitekim Kayzer, İngilizlerin Almanya'ya savaş ilan etmesi karşısında şoke oldu ve onların “bir parça kağıt” yüzünden “aptalca bir hata” yaptıklarını ilan etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Belçika ulusu, Napolyon Çağı'nın sonunda Avrupa güç dengesinin bir parçası olarak yaratılmıştı, ancak uzun süredir Büyük Britanya'nın özel bir müttefikiydi. Fransa'nın işgal planı, Alman Ordusu'nun Belçika üzerinden saldırmasını öngörüyordu. Hatta planın ilk versiyonları, Belçika Ordusu'nun geçen Alman Ordusu'na yollarda bir şeref kıtası sağlayacağını varsayıyordu ki bunun son derece yanlış bir varsayım olduğu ortaya çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>Liège şehri, bir dizi kale ile çevriliydi ve 1914'te Alman Ordusu'nun karşılaştığı ilk önemli askeri engeli temsil ediyordu. Kaleler birçok durumda iyi savaşmış olsa da, özellikle bu kaleleri yıkmak için inşa edilmiş özel kuşatma toplarına karşı dayanamadı. Liège tahkimatının çöküşü ve Alman ordusunun Belçika halkına karşı gösterdiği zalimlik, kamuoyunun özellikle Büyük Britanya'da Almanya aleyhine dönmesine neden oldu.</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir saha komutanı, genellikle bir cephe boyunca, ulusunun askeri gücünün büyük bir kısmından sorumlu olan subaydır. Ordusunun operasyonel planını anlamalı ve savaşın seyri içinde değişiklikler gerektiğinde bunları uyarlamaya istekli olmalıdır. Ast komutanlar aracılığıyla çalışmasına ve genelkurmay tarafından tavsiye edilmesine rağmen, ordunun başarısı ya da başarısızlığı onun muhakemesine bağlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir saha komutanı, genellikle bir cephe boyunca, ulusunun askeri gücünün büyük bir kısmından sorumlu olan subaydır. Ordusunun operasyonel planını anlamalı ve savaşın seyri içinde değişiklikler gerektiğinde bunları uyarlamaya istekli olmalıdır. Ast komutanlar aracılığıyla çalışmasına ve genelkurmay tarafından tavsiye edilmesine rağmen, ordunun başarısı ya da başarısızlığı onun muhakemesine bağlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir saha komutanı, genellikle bir cephe boyunca, ulusunun askeri gücünün büyük bir kısmından sorumlu olan subaydır. Ordusunun operasyonel planını anlamalı ve savaşın seyri içinde değişiklikler gerektiğinde bunları uyarlamaya istekli olmalıdır. Ast komutanlar aracılığıyla çalışmasına ve genelkurmay tarafından tavsiye edilmesine rağmen, ordunun başarısı ya da başarısızlığı onun muhakemesine bağlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir saha komutanı, genellikle bir cephe boyunca, ulusunun askeri gücünün büyük bir kısmından sorumlu olan subaydır. Ordusunun operasyonel planını anlamalı ve savaşın seyri içinde değişiklikler gerektiğinde bunları uyarlamaya istekli olmalıdır. Ast komutanlar aracılığıyla çalışmasına ve genelkurmay tarafından tavsiye edilmesine rağmen, ordunun başarısı ya da başarısızlığı onun muhakemesine bağlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Saha komutanı, ulusunun ordusunun büyük bir bölümünden, genellikle bütün bir cepheden sorumlu olan subaydır. Ordusunun operasyonel planını derinlemesine kavramalı, savaşın seyrine göre bu planları gerekli değişikliklerle uyarlamaya hazır olmalıdır. Ast komutanlar aracılığıyla çalışsa ve kurmay heyetinden tavsiyeler alsa da, ordunun zaferi ya da hezimeti nihayetinde onun muhakemesine bağlıdır.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HEADQUARTERS_CHAPTER_HISTORY_PARA_1">
+			<Text>Karargâh, ordunun operasyonel planlarının sahada uygulanmak üzere emirlere dönüştürüldüğü yerdir; buraya ulaklar ve telgraf aracılığıyla savaş hattındaki ast komutanlarla bağlantı kurulur. Cephelerin sürekli değişmesi, yüksek komutanlığın harekâtın yakınında bulunmasını gerektirdiğinden, karargâhlar çoğu zaman geçici düzenlemeler olarak kurulur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

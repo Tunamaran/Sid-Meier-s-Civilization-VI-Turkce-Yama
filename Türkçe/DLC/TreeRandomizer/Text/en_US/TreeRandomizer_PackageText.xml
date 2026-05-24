@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_TREE_RANDOMIZER_MOD_TITLE">
+			<Text>Teknoloji ve Yönetim Biçimi Karıştırma Oyun Modu</Text>
+		</Row>
+		<Row Tag="LOC_TREE_RANDOMIZER_MOD_TEASER">
+			<Text>Teknoloji ve Yönetim Bilimleri Ağaçlarının rastgele sıralandığı bir oyun modu.</Text>
+		</Row>
+		<Row Tag="LOC_TREE_RANDOMIZER_MOD_DESCRIPTION">
+			<Text>Teknoloji ve Yönetim Biçimi Karıştırma oyun modunu içerir; bu modda Teknoloji ve Yönetim Bilimleri Ağaçları rastgele sıralanmıştır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

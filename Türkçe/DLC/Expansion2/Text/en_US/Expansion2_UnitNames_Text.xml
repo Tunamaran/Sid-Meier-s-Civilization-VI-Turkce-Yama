@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BANDNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Row>
+		<!-- Prefix -->
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
+			<Text>Hava</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
+			<Text>Uzaylı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
+			<Text>Kadim</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
+			<Text>Öfkeli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
+			<Text>Hayvan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
+			<Text>Çekici</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
+			<Text>Kutup</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
+			<Text>Tımarhane</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
+			<Text>Atomik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
+			<Text>Ses</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
+			<Text>Kötü</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
+			<Text>Büyük</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
+			<Text>Kara</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
+			<Text>Kör</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
+			<Text>Sarı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
+			<Text>Mavi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
+			<Text>Kırık</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
+			<Text>Kahverengi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
+			<Text>Bufalo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
+			<Text>Ucuz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
+			<Text>Klasik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
+			<Text>Soğuk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
+			<Text>Kolektif</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
+			<Text>Havalı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
+			<Text>Karanlık</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
+			<Text>Gün</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
+			<Text>Derin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
+			<Text>Dehşetli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
+			<Text>Elektrikli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
+			<Text>Aydınlanmış</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
+			<Text>Destansı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
+			<Text>Aşırı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
+			<Text>Sahte</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
+			<Text>Alevli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
+			<Text>Uçan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
+			<Text>Orman</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
+			<Text>Özgür</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
+			<Text>Dost Canlısı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
+			<Text>Korkmuş</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
+			<Text>Kürklü </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
+			<Text>Öfke</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
+			<Text>Dev</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
+			<Text>Altın</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
+			<Text>Minnettar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
+			<Text>Yeşil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
+			<Text>Komik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
+			<Text>Kutsal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
+			<Text>Sıcak </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
+			<Text>İnsan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
+			<Text>Aç</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
+			<Text>İndigo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
+			<Text>Endüstriyel</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
+			<Text>Demir</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
+			<Text>Neşeli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
+			<Text>Nazik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
+			<Text>Işık</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
+			<Text>Küçük</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
+			<Text>Yalnız</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
+			<Text>Kayıp </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
+			<Text>Gür</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
+			<Text>Alçak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
+			<Text>Sadık</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
+			<Text>Sihirli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
+			<Text>Büyük</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
+			<Text>Maksimum</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
+			<Text>Ortaçağ</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
+			<Text>Mega</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
+			<Text>Tehditkâr</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
+			<Text>Orta</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
+			<Text>Geceyarısı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
+			<Text>Zihin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
+			<Text>Mini</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
+			<Text>Küçük</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
+			<Text>Modern</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
+			<Text>Mütevazı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
+			<Text>Dağ</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
+			<Text>Sessiz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
+			<Text>Gizem</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
+			<Text>Doğal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
+			<Text>Yeni</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
+			<Text>Gece</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
+			<Text>Nükleer</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
+			<Text>Eski</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
+			<Text>Turuncu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
+			<Text>Ezici Güçte</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
+			<Text>Soluk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PEOPLE">
+			<Text>Halk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
+			<Text>Mükemmel</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
+			<Text>Parfüm</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
+			<Text>Küçük</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
+			<Text>Pembe</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
+			<Text>Siyasi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
+			<Text>Psikedelik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
+			<Text>Mor</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
+			<Text>Sessiz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
+			<Text>Radikal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
+			<Text>Gökkuşağı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
+			<Text>Rastgele</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
+			<Text>Gerçek</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
+			<Text>Kızıl</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
+			<Text>Dini</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
+			<Text>Rönesans</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
+			<Text>Rakip</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
+			<Text>Hasta</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
+			<Text>Sessiz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
+			<Text>Gümüş</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
+			<Text>Çarpıcı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
+			<Text>Sosyal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
+			<Text>Uzay</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
+			<Text>Hızlı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
+			<Text>Çalıntı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
+			<Text>Süper</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
+			<Text>Konuşan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
+			<Text>Evcil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
+			<Text>Zehirli</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
+			<Text>Geleneksel</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
+			<Text>Eşsiz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
+			<Text>Yeraltı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
+			<Text>Bilinmeyen</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
+			<Text>Vegan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
+			<Text>Savaş</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
+			<Text>Su</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
+			<Text>Beyaz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
+			<Text>Vahşi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
+			<Text>Kurak</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
+			<Text>Sarı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
+			<Text>Genç</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
+			<Text>Coşkulu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+			<Text>Titanyum</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+			<Text>Ölüm</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+			<Text>Cehennem</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+			<Text>Şeytani</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+			<Text>Kara</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+			<Text>Devasa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+			<Text>Mamut</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+			<Text>Canavarca</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+			<Text>Zırhlı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+			<Text>Sibernetik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+			<Text>Korkunç</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+			<Text>Dehşet Verici</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+			<Text>Cehennemî</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+			<Text>Korkunç</Text>
+		</Row>
+		<!-- Suffix-->
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
+			<Text>Hayvanlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
+			<Text>Karınca</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
+			<Text>Atlas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
+			<Text>Yazarlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
+			<Text>Grup</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
+			<Text>Barbarlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
+			<Text>Plaj</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
+			<Text>Ayılar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
+			<Text>Ritimler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
+			<Text>Çanlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
+			<Text>Kitaplar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
+			<Text>Kahvaltı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
+			<Text>Kova</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
+			<Text>Bufalo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
+			<Text>Böcekler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
+			<Text>Yapıcılar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
+			<Text>Kanal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
+			<Text>Kart</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
+			<Text>Havuçlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
+			<Text>Arabalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
+			<Text>Kaleler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
+			<Text>Kediler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
+			<Text>Mağara</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
+			<Text>Hücre</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
+			<Text>Sandalye</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
+			<Text>Çinçilya</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
+			<Text>Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
+			<Text>Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
+			<Text>Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
+			<Text>Kulüp</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
+			<Text>Kıyı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
+			<Text>Kahve</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
+			<Text>Kıtalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
+			<Text>Kurabiyeler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
+			<Text>Ülke</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
+			<Text>Mürettebat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
+			<Text>Kargalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
+			<Text>Kültür</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
+			<Text>Tarihler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
+			<Text>Ölüm</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
+			<Text>Tanrı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
+			<Text>Elmaslar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
+			<Text>Bölgeler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
+			<Text>Köpekler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
+			<Text>Ejderhalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
+			<Text>Kartal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
+			<Text>Ekidna</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
+			<Text>Yılanbalığı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
+			<Text>Fil</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
+			<Text>Acil Durumlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
+			<Text>İmparator</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
+			<Text>İmparatorluk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
+			<Text>İmparatoriçe</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
+			<Text>Emu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
+			<Text>Düşman</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
+			<Text>Elçiler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
+			<Text>Etkinlik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
+			<Text>Patlamalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
+			<Text>Gözler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
+			<Text>İnanç</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
+			<Text>Çiftlikler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
+			<Text>Savaşçılar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
+			<Text>Ateş</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
+			<Text>Besin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
+			<Text>Dahi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
+			<Text>Hayalet</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
+			<Text>Devler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
+			<Text>Keçiler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
+			<Text>Altın</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
+			<Text>Dedikodu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
+			<Text>Valiler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
+			<Text>Gitarlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
+			<Text>Şapkalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
+			<Text>Kalp</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
+			<Text>Yüksek</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
+			<Text>Su Aygırları</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
+			<Text>Atlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
+			<Text>Ev</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
+			<Text>Avlanmış</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
+			<Text>İyileştirme</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
+			<Text>Adalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
+			<Text>Ceket</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
+			<Text>Jetler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
+			<Text>Kale</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
+			<Text>Kral</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
+			<Text>Kedi Yavrusu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
+			<Text>Lazer</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
+			<Text>Lig</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
+			<Text>Mektuplar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
+			<Text>Kertenkele</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
+			<Text>Düşük</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
+			<Text>Sadıklar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
+			<Text>Makine</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
+			<Text>Manyaklar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
+			<Text>Harita</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
+			<Text>Metal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
+			<Text>Zihinler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
+			<Text>Madenler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
+			<Text>Ulus</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
+			<Text>Gürültü</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
+			<Text>Gözlemler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
+			<Text>Orkestra</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
+			<Text>Düzen</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
+			<Text>Panteon</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
+			<Text>Parti</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
+			<Text>Tavuskuşu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
+			<Text>Penguen</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEOPLE">
+			<Text>İnsanlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
+			<Text>Biberler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
+			<Text>Şairler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
+			<Text>Gölet</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
+			<Text>Güç</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
+			<Text>Prens</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
+			<Text>Prenses</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
+			<Text>Üretim</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
+			<Text>Peygamberler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
+			<Text>Punk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
+			<Text>Yavrular</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
+			<Text>Kraliçe</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
+			<Text>Sorular</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
+			<Text>Tavşan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
+			<Text>Korucu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
+			<Text>Dışlanmışlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
+			<Text>Devrim</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
+			<Text>Gergedan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
+			<Text>İsyan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
+			<Text>Nehirler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
+			<Text>Robotlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
+			<Text>Sabotaj</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
+			<Text>Bilim</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
+			<Text>Yerleşimciler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
+			<Text>Argo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
+			<Text>Tembellik</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
+			<Text>Yılan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
+			<Text>Ruh</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
+			<Text>Maça</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
+			<Text>Örümcekler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
+			<Text>Casuslar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
+			<Text>Sincaplar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
+			<Text>Yıldız</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
+			<Text>Taşlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
+			<Text>Trafik Işığı</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
+			<Text>Sürpriz</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
+			<Text>Suşi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
+			<Text>Süzerenler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
+			<Text>Teknolojiler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
+			<Text>Kaplanlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
+			<Text>Fayanslar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
+			<Text>Domatesler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
+			<Text>Tüccarlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
+			<Text>Hile</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
+			<Text>Turlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
+			<Text>Kaplumbağa</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
+			<Text>Akbabalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
+			<Text>Surlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
+			<Text>Kurt</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
+			<Text>Vombatlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
+			<Text>Harikalar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
+			<Text>Ksilofonlar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
+			<Text>Yaklar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
+			<Text>Zombiler</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+			<Text>Makine</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+			<Text>Mek</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+			<Text>Golem</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+			<Text>Behemoth</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+			<Text>Kolos</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+			<Text>Hulk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+			<Text>Canavar</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+			<Text>Ogre</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+			<Text>Ucube</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+			<Text>Robot</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+			<Text>Otomat</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+			<Text>Siklop</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+			<Text>Dev</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+			<Text>Titan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+			<Text>Yürüyücü</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+			<Text>Yok Edici</Text>
+		</Row>
+	</EnglishText>
+</GameData>

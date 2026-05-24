@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Name and Description-->
+		<Row Tag="LOC_BALANCEDMAPS_NAME">
+			<Text>Resmi Dengeli Haritalar</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_DESCRIPTION">
+			<Text>Özellikle çok oyunculu karşılaşmalar için ideal olan dengeli haritalar.</Text>
+		</Row>
+		<!--Map Name-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
+			<Text>Dengeli Haritalar</Text>
+		</Row>
+		<!--Map Description-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
+			<Text>Özellikle çok oyunculu karşılaşmalar için ideal olan dengeli haritalar.</Text>
+		</Row>
+		<!--Map Description-->
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+			<Text>4 Yapraklı Yonca</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+			<Text>Uygarlıklar dört dengeli bölgede başlar. Harita, oyuncuları merkeze doğru yönlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+			<Text>6 Kollu Kar Tanesi</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+			<Text>Uygarlıklar altı dengeli bölgede başlar, Şehir Devletleri yakın adalarda yer alır. Harita, oyuncuları merkeze doğru yönlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
+			<Text>Vadedilmiş Topraklar</Text>
+		</Row>
+		<Row Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
+			<Text>Uygarlıklar dengeli başlangıç konumlarıyla oyuna başlar ve haritanın merkezindeki değerli topraklar için rekabet eder.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

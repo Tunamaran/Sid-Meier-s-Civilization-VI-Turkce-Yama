@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Ambiorix-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Ne güzel! Artık kardeş gibi olduk!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Galya canlarını senin ellerine teslim edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Elini ver bana, halklarımız birleşsin ve rakiplerimizi ezelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Kampıma hoş geldin! Dolapta kılıçlı birinin saklanmadığına dair söz veriyorum. En azından şimdilik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Anlıyorum. Tedbirli olmalısın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Barış boğucudur. Savaşta görebiliriz ancak kimin daha büyük reis olduğunu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Savaşta nice düşmanı alt ettim bugüne dek, şimdi de gücümü seninkiyle sınamanın vakti geldi!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Heyetini bizzat ben bir ava götürdüm! İdare ederlerdi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Hayır, adamların için kapılarımı açmayacağım, ne kadar çok hediye getirirlerse getirsinler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Elçilerimiz yanlarında tuzlanmış jambonlar, yabani av eti ve varil varil şarap getiriyor! Gelin, ziyafet çekelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Adın anıldığında, karanlık işlerin ve sayısız suçların karşısında bütün Galyalılar tükürür. Tüm dünyaya haykıracağım ki sen ölümcül düşmanımızsın!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Hile ve korkaklığı erdem sanıyorsun, ama ben Ambiorix, seni olduğun gibi görüyorum. Zamanla dünyanın geri kalanı da görecek! (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMBIORIX_ANY">
+			<Text>Baktığın her yer Galya topraklarıdır, ben de onların reisi Ambiorix'im.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMBIORIX_ANY">
+			<Text>Şehrimi ziyarete gelir misin? Bir fıçı şarap açtık ki, söz veriyorum içmesi tamamen güvenli ve kesinlikle zehirli değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMBIORIX_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMBIORIX_ANY">
+			<Text>Gel, sana Galya şehirlerini anlatayım, sen de bana kendi topraklarını anlat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AMBIORIX_ANY">
+			<Text>Şeref verdin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMBIORIX_ANY">
+			<Text>Ne kadar çok asker! Ha ha! Şu manzaraya bak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMBIORIX_ANY">
+			<Text>Toprakların sessiz ve sakin. Hem de güçsüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Kimsenin birbirine ihanet edemeyeceği bağlayıcı bir anlaşma imzalayalım. Bu kez ciddiyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMBIORIX_ANY">
+			<Text>Evet, silahlarımızı bırakalım. Galya'dan korkmanıza gerek yok. Söz veriyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMBIORIX_ANY">
+			<Text>Zayıf! Birliklerinizi bu topraklardan sürüp atacağız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Savaş meydanından sıkıldım. Şimdilik dinlenelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Halkınız Galya'da özgürce dolaşabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMBIORIX_ANY">
+			<Text>Galya'nın güvenliği surlarında ve sınırlarındadır. Hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Birliklerim geçmek istiyor. Gezatalılar'ın pantolon giyeceğine söz veriyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMBIORIX_ANY">
+			<Text>Birlikleriniz ellerinde silahlarla yakınlarda pusuda bekliyor. Ben göndermeden sen gönder onları.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMBIORIX_ANY">
+			<Text>Galyalılar canlarının istediği yerde dolaşır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMBIORIX_ANY">
+			<Text>Galya size bir zarar vermek istemiyor... bugünlük. Geri çekileceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Ne büyük bir güç! Belki de sizi daha önce küçümsedim. Şimdi, yenilgide, size layık olduğunuz saygıyı göstereceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Küçük oyunlarınıza kanmayacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMBIORIX_ANY">
+			<Text>Şimdilik kabul ediyoruz.</Text>
+		</Row>
+		<!-- Basil-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Halklarımız tek yürek oldu! Şey, benimkiler biraz daha yukarıda ama demek istediğimi anladınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Kendinize İmparatorluğa dost diyebilecek kadar layık değilsiniz henüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Gelin! Roma'nın ihtişamına dost olun! Tanrı'ya dost olun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Roma'nın, Tanrı'nın ve benim yanımı seçtiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Dostluk mu? Sizinle? Hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Tarihçilerime emir vereceğim, şehirlerinizi toza çevirdikten sonra imparatorluğunuzu gelecek için kayda geçirsinler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Savaştan başka bir şeyi hak etmiyorsunuz, ancak engin merhametimle, bunu kısa ve kesin sonuçlu kılacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Heyetinize İmparatorluğun harikaları gösterildi. Umarım topraklarınıza dönmeye razı olabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Bunlardan bizde de mevcut. Müteşekkirim ama lüzum yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Size Anadolu'nun tüm lezzetlerini gönderiyoruz: fermente murri, zeytinyağı, şarap, kefalotyri peyniri. Umarım bunları takdir edecek kadar iyi bir zevkiniz vardır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Deccal! Barbar! Mürted! İşlediğiniz iğrençlikler dünyadaki tüm acıların kaynağıdır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Topraklarınızdan sızan sapkınlık ve şer tüm dünyayı lekeliyor! Yakında gelir o gün ki, çürümüşlüğünüzü temizleyeceğim. (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_BASIL_ANY">
+			<Text>Roma İmparatoru ve Otokratı, düşmanlarımın belası Basil'in huzurundasınız. İşte Roma!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_BASIL_ANY">
+			<Text>Yeşiller ve Maviler arasında hipodromda bir yarış düzenledik. Gelmek ve bir bahis yapmak ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_BASIL_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_BASIL_ANY">
+			<Text>Yeni Roma'nın ihtişamını size göstereyim, siz de bana nereden geldiğinizi anlatın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_BASIL_ANY">
+			<Text>Yanıma yaklaşabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BASIL_ANY">
+			<Text>Kararlı eylemleriniz, büyük zaferleriniz, hepsi Tanrı'nın bir armağanıdır. Ona teşekkür etmeyi ihmal etmeyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BASIL_ANY">
+			<Text>Saygınlıktan, şereften, dindarlıktan ve bir hükümdarı adil kılan her şeyden yoksunsunuz. Belki de beni örnek almalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Birlikte, Tanrı'nın lütfuyla refaha erelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BASIL_ANY">
+			<Text>Tanrı'nın bereketi üzerimize olsun. Barışalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BASIL_ANY">
+			<Text>Tanrı hâlâ kötülüğünüze tahammül edemiyor! Hayır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BASIL_ANY">
+			<Text>İmparatorluk barışa hazır. Ya siz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Askerlerinize topraklarımızdan geçişlerinde Tanrı'nın lütfunu dilerim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_BASIL_ANY">
+			<Text>Barbarların İmparatorluğa adım atmasına izin vermeyeceğiz. Bu sizi de kapsıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_BASIL_ANY">
+			<Text>İmparatorluk lejyonlarının topraklarınızdan geçmesine izin verir misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BASIL_ANY">
+			<Text>Sancağınızı taşıyan silahlı adamlar sınırlarımda yığılıyor. Gitmeliler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_BASIL_ANY">
+			<Text>Lejyonlara ben komuta ederim, siz değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_BASIL_ANY">
+			<Text>Lejyonlar, barış adına, başka diyarlara yol alacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Tanrı benden lütfunu mu çekti ki Roma yıkılmak zorunda? Ah, ne feci bir akıbet!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Teklifiniz Roma'nın şanına layık değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_BASIL_ANY">
+			<Text>Bu anlaşma İmparatorluk için de sizin için de hayırlıdır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

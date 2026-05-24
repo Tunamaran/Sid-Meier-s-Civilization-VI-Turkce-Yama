@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+			<Text>Bir Şehir Devletine [ICON_ENVOY] Elçi gönderdiğinde, o Şehir Devletine 200 Dinî Baskı ekler.</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+			<Text>[ICON_RESOURCE_WINE] Şarap, [ICON_RESOURCE_INCENSE] Buhur, [ICON_RESOURCE_COCOA] Kakao, [ICON_RESOURCE_TOBACCO] Tütün, [ICON_RESOURCE_OLIVES] Zeytin, [ICON_RESOURCE_COFFEE] Kahve ve [ICON_RESOURCE_TEA] Çay Plantasyonlarından +1 [ICON_Food] Besin elde edilir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

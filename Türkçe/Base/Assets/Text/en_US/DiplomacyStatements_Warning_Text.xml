@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- AI responses -->
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>En içten özürlerimi sunarım! Şehrinizin bu kadar yakın olduğunu fark etmemiştim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Halkımın toprağa ihtiyacı var. Buna sahip olamayacaklarını söylemeye hakkın var mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_AI_ANY_ANY">
+			<Text>Halkınız fazla yakına yerleşiyor! Topraklarınızı başka yerde aramayı düşünmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Topraklarımıza saygı duyamıyorsanız, ben de size saygı duymam.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Özür dilerim, sadece rahatsız edecek birkaç Barbar arıyorduk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Birliklerimi dolaştırmayı severim; ne demek istediğimi anlıyorsanız, bu ne kadar güçlü olduğumu gösterir.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Evet, haklısınız. Bu tür taktiklere başvurmak zorunda kaldığım için pişmanım. Bir daha olmayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_AI_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Hah! Sence böyle bir söz vereceğimi düşündüren ne?</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Bu topraklar üzerinde hak iddia ettiğinizi fark etmemiştim. Basit bir hataydı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_AI_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Geçmişin gizemleri herkese açıktır. Onlara sahip çıkamazsınız!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>İsteğinize saygı duyacağım ama yolunuzun yanlışlığını göremediğiniz için hayal kırıklığına uğradım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_AI_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Hayır, hayır. Bu en iyisi için. Göreceksiniz, size temin ederim.</Text>
+		</Row>
+    
+    <!-- AI warns player -->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_ANY_ANY">
+			<Text>Birlikleriniz sınırlarıma fazla yaklaştı. Umarım sadece pitoresk kırsalımızı görmek içindir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MVEMBA_ANY">
+			<Text>Ordunuz kapımızın önünde. Kör olduğumuzu mu sanıyorsunuz? Onları çekin, yoksa harekete geçmek zorunda kalırız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bizi güç gösterisiyle yıldırabileceğinizi mi sanıyorsunuz? Bu sizin için hiç iyi gitmeyecek, hiç.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CLEOPATRA_ANY">
+			<Text>Ra'nın Gözü gibi, her şeyi görürüm. Ordunuzu sınırlarımda fark etmeyeceğimi mi sandınız? Onları çekmenizi öneririm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_BARBAROSSA_ANY">
+			<Text>Ordunuzu göremediğimizi sanıyorsanız saftiriksiniz. Onları Almanya'dan uzaklaştırın, yoksa sonuçlarına katlanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GANDHI_ANY">
+			<Text>Lütfen dostum, askerlerini sınırlarımdan uzaklaştır. Benim gibi barışçıl bir adamı tedirgin ediyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GILGAMESH_ANY">
+			<Text>Gilgameş, eğer onları çekmezsen ordunu kendi elleriyle parçalayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GORGO_ANY">
+			<Text>Ordunuzu sınırlarımızdan çekin, yoksa onları biz çekeriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HARDRADA_ANY">
+			<Text>Askerlerinizi görmek için izin istediğimi hatırlamıyorum... Yoksa bu kadar mı savaşa açsınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HOJO_ANY">
+			<Text>Vurmaya niyetin yoksa kılıcını gösterme. Askerlerini topraklarımızdan çek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PEDRO_ANY">
+			<Text>Askerlerin sınırlarıma fazla yaklaştı. Umarım sadece pitoresk kırsalımızı seyretmek içindir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PERICLES_ANY">
+			<Text>Bizi ordunla yıldırmaya çalışıyorsan, işe yaramıyor. Onları geri çek, yoksa sonuçlarına katlanırsın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PETER_GREAT_ANY">
+			<Text>Ordun sınırlarımı tehdit ediyor... Oturup hiçbir şey yapmamı mı bekliyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_PHILIP_II_ANY">
+			<Text>Askerlerini sınırlarımda tutmanın sonuçsuz kalacağını sanma. Derhâl onları geri çek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY">
+			<Text>Ordun sürpriz avantajını kaybetti. Kuvvetlerini geri çek ve stratejini yeniden gözden geçir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SALADIN_ANY">
+			<Text>Ordunu görmemek için kör olmak gerek. Lütfen onları sınırlarımızdan uzaklaştır, yoksa... savaş mı bekliyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_T_ROOSEVELT_ANY">
+			<Text>Askerlerini sınırlarımıza o kadar yaklaştırdın ki, artık niyetinden şüphe etmeye başlıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMYRIS_ANY">
+			<Text>Askerlerin sınırlarıma fazla yaklaştı. Umarım sadece pitoresk kırsalımızı seyretmek içindir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TRAJAN_ANY">
+			<Text>Askerlerin istilacı olmaya birkaç adım uzakta. Onları derhâl sınırlarımızdan uzaklaştır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_VICTORIA_ANY">
+			<Text>Ordun sınırlarımızda hoş karşılanmıyor. Derhâl geri çek onları.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Teşekkür ederim.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
+		  <Text>Bana karşı casusluk yapacak kadar alçalacağını bilmeliydim. Casuslarını derhâl geri çek!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Bu hakareti unutmayacağım. Bundan emin olabilirsin!</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
+		  <Text>Kültürel tarihimiz senin yağmalayacağın bir şey değil. Topraklarımızı terk etme vaktin geldi!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Topraklarımıza saygı gösteremiyorsan, ben de sana saygı göstermem.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
+		  <Text>Mühtedilerin halkım arasında hoş karşılanmıyor. Onları derhâl geri çekmeni rica ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+		  <Text>Teşekkür ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+		  <Text>Emin olun ki bunun bedelleri olacaktır – şimdi değilse bile, bir gün mutlaka.</Text>
+		</Row>
+
+		<!-- Human Choices -->
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Halkım dilediği yere yerleşecek!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Özür dilerim, bundan sonra başka yerleri tercih edeceğim.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>Endişelenmekte haklıydınız (Savaş İlanı)!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Birliklerim yalnızca geçiş halinde.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+		  <Text>Bunu söz veremem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+		  <Text>Özür dilerim, bu faaliyetleri derhâl durduracağım.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+		  <Text>Tarihe sahip çıkamazsınız. Canımın istediği yerde kazı yapacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+		  <Text>Özür dilerim, Arkeologlarımı başka yere göndereceğim.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+		  <Text>Halkınızın bizim yolumuza inanması Tanrı'nın takdiri ise, ben kimim ki buna engel olayım?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+		  <Text>Üzgünüm, halkımın hoş karşılanacağını sanmıştım. Yanılmışım.</Text>
+		</Row>
+    
+		<!-- Confirmation of War -->
+		<Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
+			<Text>Bu hamleyi yapmak {1_CivName} ile savaş başlatacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
+			<Text>Bu hamleyi yapmak şunlarla savaş başlatacak:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+			<Text>Bu hamleyi yapmak kendi topraklarınıza saldırmanıza yol açacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+			<Text>Bu saldırıyı yapmak müttefiklerinizden biriyle sorun yaşamanıza neden olacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+			<Text>Bu kör saldırıyı yapmak istenmeyen sonuçlara yol açabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
+		  <Text>Bunu yapmak istediğinize emin misiniz?</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

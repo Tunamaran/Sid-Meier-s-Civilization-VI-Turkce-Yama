@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LAURIER">
+			<Text>Wilfrid Laurier, güneşli yolları seçtin ve neşe ile nezaketi Kanada halkının karakteri haline getirdin. Başkaları bölüp güvensizlik ekmeye çalışırken sen işbirliği ve anlayışa ilham veriyorsun. Dünyaya göster ki birleşmiş bir halk sonsuza dek zamanın sınavına dayanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELEANOR_FRANCE">
+			<Text>Akitanya Düşesi, iki diyarın naibi, ozanların hamisi ve aşk mahkemesinin yargıcı, yeniden tahtına çık. Halkının kalplerine ilham ver ki sana tezahürat etsinler ve sancaklarının altına akın etsinler, zira saltanatını bilen herkes merhametini bilir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELEANOR_ENGLAND">
+			<Text>Akitanya Düşesi, iki diyarın naibi, ozanların hamisi ve aşk mahkemesinin yargıcı, yeniden tahtına çık. Halkının kalplerine ilham ver ki sana tezahürat etsinler ve sancaklarının altına akın etsinler, zira saltanatını bilen herkes merhametini bilir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MATTHIAS_CORVINUS">
+			<Text>Kudretli Matyas, silahtaki başarıların ancak bilginin derinliğiyle kıyaslanabilir. Devasa Kara Ordun, savaş meydanında hem düşmanlarına karşı bir kılıç hem de sadık halkını koruyan bir kalkan olarak hizmet etsin ve gelecek çağlar adını hayranlıkla ansın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PACHACUTI">
+			<Text>Pachacuti, Güneş'in oğlu, yüksek zirveler arasında yaşayan müreffeh bir halkın babası. Dağlar sana yol, düşmanlarına ise yıkılmaz duvarlar olsun; zira başkalarının açlıktan kıvrandığı yerde sen güçlenirsin. Ey yeryüzünü sarsan Sapa İnka, güç ve gayret göster, adın tüm tarih boyunca parlasın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MANSA_MUSA">
+			<Text>Mansa Musa, Mali'nin büyük kralı, aklın alamayacağı zenginliklerle kutsanmış olmana rağmen yozlaşmamış kaldın. Gözlerini çarşıdan göğe kaldır ve kalbinin barışa olan büyük özlemini tatmin et. Halkının refahını koru; tarih adını altın harflerle yazsın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUPE">
+			<Text>Kâşif Kupe, uzun beyaz bulutun diyarına ad verdin ve şimdi yeni toprakları yerleşime açmak için çağrılıyorsun. Toprağı ve denizi, Toalarının halkını koruduğu gibi koru ve onurlandır. Maoriler, dünyanın doğal güzelliğini tüm çağlar boyunca kollayacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SULEIMAN">
+			<Text>Sana övgüler olsun, Kanuni Sultan Süleyman, haklı olarak Muhteşem denilen! Yüce Osmanlı Hanedanı'nın efendisi, sadık kulların emirlerini kudretli diyarının en uzak köşesine iletmeye hazır beklerken düşmanların ordularının görüntüsünde titriyor. Sultanların Sultanı ve Hanların Hanı, halkını büyüklüğe yönlendir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_DIDO">
+			<Text>Kraliçe Dido, Kartaca'nın anası, tüm hayatın boyunca büyük tehditlerle yüzleştin ve zekâ ile kurnazlık sayesinde onları alt ettin. Dalgalar kıyıya nerede vurursa, orada şehirlerin yükselecek. Denizler senin yolların, uzak ufuk kaderin ve sığınağındır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KRISTINA">
+			<Text>Kuzey'in Minerva'sı, öğrenme ve bilgelikte eşsiz, güç yerine kültür dolu bir hayatı seçtin. Krallığını sanat ve müzikle aydınlat. İsveç, diğer uygarlıkların izlemesi için yol gösterici bir yıldız olsun. Dünya bir kez daha büyük sanat ve kültür hamilerine ihtiyaç duyuyor—ve sana bakıyor.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

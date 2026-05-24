@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- civs -->
+		<Row Tag="LOC_CIVINFO_MAYA_LOCATION">
+			<Text>Orta Amerika, günümüzde Meksika, Guatemala, Honduras, Belize ve El Salvador'un bir kısmını kapsayan bölge.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MAYA_SIZE">
+			<Text>Zirve döneminde 120.000 mil kare (yaklaşık 200 bin kilometre kare). Karşılaştırmak gerekirse, bu alan Orta Çağ İngilteresi'nin yaklaşık iki katıdır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MAYA_POPULATION">
+			<Text>Genellikle zirvede yaklaşık 5 milyon olduğu varsayılan nüfusun, yeni arkeolojik keşiflere göre aslında 10 veya 15 milyona yakın olabileceği öne sürülmektedir. Günümüzde ise yaklaşık 5 milyon Maya dili konuşanı bulunmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MAYA_CAPITAL">
+			<Text>Hiçbir zaman tek bir imparatorluk altında birleşmeyen Mayaların Tikal, Caracol, Mayapan, Calakmul ve daha sonra Chichen Itza gibi bir dizi önemli şehri olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_1">
+			<Text>Erken Maya uygarlığı, Yucatán Yarımadası'nda MÖ 2000 ile MS 250 yılları arasında yükselerek şehir devletlerini kurdu. Bu şehir devletleri, tanrısal lütufla kutsanmış hükümdarlar tarafından yönetiliyordu ve küçük yerleşimlerden bugün El Mirador olarak bilinen büyük şehirlere kadar uzanıyordu. Şehir devletleri, Orta Amerika'nın diğer kültürleri gibi siyasi olarak hiçbir zaman birleşmemiş olsa da ortak bir dil ve kültürü paylaşıyorlardı. Büyüme ve güç yansıtma konusunda birbirlerine bağımlı oldukları kadar, birbirleriyle rekabet de ediyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_2">
+			<Text>Mayalar, yerleşmek için benzersiz (ve oldukça cesur) bir yer seçti. Yucatán Yarımadası, diğer uygarlıkların uyguladığı tarım türlerine uygun değildi. Mayalar nehir vadileri etrafında yerleşmek yerine, kireçtaşı temel üzerinde ince toprağa sahip tropik yağmur ormanlarında inşa ettiler. Nehirlerin olmaması ulaşımı zorlaştırıyor ve içme suyu bulmayı sorunlu hale getiriyordu. Ancak zorluklar çoğu zaman yeniliğe yol açar. Suyun fazla tuzlu olduğu yerlerde erken Maya halkı, suyu kireçtaşından süzerek içilebilir hale getirmeyi öğrendi; ormanın çok yoğun olduğu yerlerde ise ürün yetiştirmek için yükseltilmiş toprak tümsekler oluşturdular. Mayaların en önemli gelişmelerinden biri, gliflerden oluşan yazı dillerini yaratmalarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_3">
+			<Text>Maya glifleri, tek tek bloklara sığacak şekilde tasarlanmıştı ve neredeyse çizgi roman panelleri gibi okunuyordu: sağa, sola, sonra ilk solun altına ve bu şekilde devam ediyordu. Bu glifler, tıpkı günümüz Japoncası gibi, resim yazısı ve fonetik karakterlerin bir karışımıydı. Mayalar hevesli kayıt tutuculardı ve yazıları, Avrupalıların Orta Amerika'ya gelişine kadar kullanımda kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_4">
+			<Text>Kitaplarının çoğu (ağaç kabuğundan yapılan kodeksler) İspanyol fethi sırasında yakılmış olsa da anıtları veya “stelleri” günümüze ulaşmıştır. Mayalar stellerini Uzun Sayım takvimleriyle tarihlendirdikleri için, bunları oldukça eski tarihleri belirlemek için kullanabiliyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_5">
+			<Text>MS 250'ye gelindiğinde Mayalar, Calakmul, Palenque, Tikal, Bonampak, Kaminaljuyu ve Copán gibi büyük şehirlerde güçlerini pekiştirmeye başladı. Bu dönemde, nüfusları 5.000 ila 50.000 kişi arasında değişen 40'ın üzerinde Maya şehri vardı. Bu şehirler büyüdükçe Mayalar da gelişti. Popüler oyunlar için top sahaları inşa ettiler, devasa piramitler yaptılar (Maya'nın katmanlı inşa yöntemleri sayesinde giderek daha da büyüyen piramitler) ve bilgin bir seçkinler sınıfı yetiştirdiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_6">
+			<Text>Maya piramitleri Mısır'dakilerden farklı bir şekilde yaratılmıştır. Sadece tuğla kullanmak yerine, kireçtaşı ve harçtan oluşan bir temelle başladılar. Daha sonra bunu sıvayla kapladılar ve ardından boyadılar. Ne zaman iyileştirme yapmak isteseler, biraz daha kireçtaşı eklemeleri, tekrar kaplamaları ve boyamaları yeterliydi. Uzun, karmaşık yenilemelere gerek yoktu ve yapısal sorunlar konusunda endişelenmeleri gerekmiyordu. Bu piramitler genellikle ibadet yerleriydi. "K'uh nah" olarak bilinen bu tapınakların her biri bir tanrıya adanmış birden fazla odaya sahipti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_7">
+			<Text>Maya şehirleri, tümü merkezi meydanların etrafına inşa edilmiş tapınaklar, saraylar ve top sahalarından oluşan geniş alanlara yayılırdı. Şehirler birden fazla meydana sahip olabilir ve diğer yapılar bunlardan dışarıya doğru büyürdü. Sanat freskler ve heykeller daha zengin bölgeleri süslerdi. Sanat, kraliyet sarayı için ya da en azından onlar hakkında yaratılırdı. Sanat aynı zamanda tarihlerindeki önemli anları anmak için de kullanılırdı. Radar teknolojisindeki son gelişmeler bu şehirlerin boyutlarını ortaya çıkardı; daha önce arkeologlar Mayaların yalnızca tapınak komplekslerinde bir araya gelen, büyük ölçüde dağınık bir halk olduğunu varsayarken, yeni çalışmalar ormanın üzerine yayılmış, dikkat çekici derecede büyük yerleşimleri ortaya koydu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_8">
+			<Text>Maya yaşamı yalnızca anıtlar, matematik, spor ve bilimden ibaret değildi. Askeri seferler sık sık yapılırdı; ister hakimiyet kurmak, ister ticaret yollarının kontrolünü ele geçirmek, ister düşman bir şehir devletine mesaj göndermek için olsun. Muharebeler ve ardından gelen savaşlar, sanatta ve hiyeroglif oymalarda anıtlaştırılıp yüceltilecek kadar önemliydi. İyi bir hükümdar olmak için bir Maya'nın aynı zamanda iyi bir savaşçı olması gerekiyordu. Savaşlara liderlik etmeleri ve iyi bir taktikçi olmaları bekleniyordu. Yenilgiye uğrayan krallar ve toplumsal seçkinler yakalanır ve ardından kurban edilirdi. Ancak bu tür kurbanlar nadirdi; çoğunlukla Mayalar başka tür adaklara odaklanmıştı: örneğin, yakılan kağıt üzerine kan damlaları.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_9">
+			<Text>900'lü yıllara gelindiğinde Mayalar hem güç hem de nüfus bakımından geriledi ve bazı şehirler tamamen terk edildi. Ancak bu gerileme, yükseliş ve düşüş döngüsünde sadece başka bir dönüş olduğunu kanıtladı ve 1100'lü yıllarda özellikle Karayipler ve Körfez kıyıları boyunca yeni şehirler oluşmaya başladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_10">
+			<Text>Bu şehirlerin en güçlülerinden biri olan Mayapan, İspanyolların 1511'de kazara (kelimenin tam anlamıyla - gemi kazası geçirmişlerdi) geldiklerinde yine bir çöküş halindeydi. İlk temastan sonra İspanyollar Yucatán'a üç sefer daha düzenledi ve 1521'de Aztek başkenti Tenochtitlan'ı ele geçirdi. Oradan güneye, günümüz Guatemala'sına yöneldiler ve Orta Amerika'nın fethine başladılar. 1697'de İspanyollar son Maya şehri Nojpeté'yi yendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAYA_CHAPTER_HISTORY_PARA_11">
+			<Text>Maya şehirleri yok olmuş ve İspanyollar Maya kültürünün unsurlarını silmeye çalışmış olsa da Mayalar, geleneksel yaşamlarını sürdürdükleri küçük köylerde varlıklarını devam ettirdiler. Fetihten sonra bile bu uygulamalardan bazıları, özellikle de yemek kültürü ve el sanatları devam etti. Bugün Mayalar hâlâ varlığını sürdürmektedir; dil, tzolk'in ritüel takvimi ve Maya toplumunun diğer unsurları gelişmeye devam etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GRAN_COLOMBIA_LOCATION">
+			<Text>Güney ve Orta Amerika.</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GRAN_COLOMBIA_SIZE">
+			<Text>973 bin mil kare (2,5 milyon kilometre kare).</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GRAN_COLOMBIA_POPULATION">
+			<Text>2,5 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GRAN_COLOMBIA_CAPITAL">
+			<Text>Bogotá</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük Kolombiya, Güney Orta Amerika ve kuzey Güney Amerika'da bir alev gibi yükseldi; parlak ve hızlı yanarak. On iki yıl boyunca, Avrupa egemenliğine karşı bağımsızlığını ilan eden birleşik bir ulusu temsil etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Büyük Kolombiya'ya dönüşecek olan toprakların kökeni, İspanyolların Yeni Dünya'yı fethine dayanır. İspanyollardan önce bu bölge, çeşitli halklara ev sahipliği yapıyordu: Güneybatıda Quimbaya, Karayip kıyılarında Arawak ve Karib, merkezî savanada ise Chibcha (Hunza şehrinin Muisca halkı dahil) ve daha birçok halk. Altın, işgücü ve din değiştirme peşindeki İspanyollar bu gruplara ağır darbeler indirdi. El Dorado efsaneleri, İspanyol maceracıları altın bakımından zengin Muisca Konfederasyonu'nun içlerine doğru itti; Muiscalar büyük şehirlerini gizlemeye çalıştıysa da başaramadı. Bugün Bogotá, bir Muisca köyünün üzerine inşa edilmiştir. Daha sonra bu bölge, İspanyol kolonilerinin bir idari birimi olan Yeni Granada Genel Valiliği'nin merkezi hâline geldi; hem zengin hem de güçlü bir bölgeydi. Ancak refahla birlikte hoşnutsuzluk da büyüdü; yerel seçkinler otoritelerini pekiştirip Avrupa denetimini saf dışı bırakmak istiyordu. Nihayetinde bu hoşnutsuzluk devrime yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_3"> 
+			<Text>Simón Bolívar'ın Kolombiya ve Venezuela bağımsızlık savaşlarındaki zaferinin ardından galipler hemen bir hükümet kurmaya koyuldu. Ancak birden çok cephede anlaşmazlık vardı: Bolívar'ın grubu, merkezi bir hükümet tarafından yönetilen tek bir Büyük Kolombiya'yı savunurken diğerleri Venezuela ve Ekvador'un bağımsızlığını istiyordu. Bolívar ayrıca güçlü, otoriter bir hükümet ve kalıtsal bir Senato'dan yanaydı; oysa diğerleri (özellikle Bolívar'ın generali Santander) kişilikten çok hukukun üstünlüğünü arzuluyordu. Büyük Kolombiya, en azından başlangıçta, Bolívar'ın vizyonunu izledi ve yeni ülke, belirgin yargı, yasama ve yürütme organlarına sahip merkezî bir hükümetle yönetildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_4">
+			<Text>17 Aralık 1819'da Kolombiya Cumhuriyeti kuruldu ('Büyük Kolombiya', günümüz Kolombiya'sıyla karışıklığı önlemek için modern tarihçilerin kullandığı bir isimdir). Ancak İspanyol birlikleri hâlâ oradaydı ve Bolívar'ın savaşın sona erdiğini nihayet ilan etmesi 1822 yılını buldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_5">
+			<Text>Ancak Cumhuriyet rahat bir nefes alamadı. Bolívar ile Santander arasındaki ideolojik farklılıklar –Kurtarıcı'nın kişisel karizmasına dayalı yönetim ile Anayasa'ya dayalı yönetim arasındaki daha büyük gerilimi yansıtan– bir yana, bölgesel bölünmeler de vardı. 1826'da ünlü süvari lideri José Antonio Páez, özgür bir Venezuela talep ederek Bolívar'a karşı ayaklandı. Bolívar'ın Páez'i yatıştırma girişimleri Santander'i daha da öfkelendirdi ve yeni ülkenin çatlak hatlarını derinleştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_6">
+			<Text>Artan huzursuzluk, Bolívar'ın 1828'de ömür boyu başkanlık önermesine yol açtı; bu hamle Santander'in muhalefet olarak radikal bir federalist Anayasa benimsemesine neden oldu. Ayrıca bu hamle, aynı yılın ilerleyen günlerinde Bolívar'a yönelik bir suikast girişimine de sebebiyet verdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_7">
+			<Text>Siyasi ve bölgesel olarak bir arada duramayan Büyük Kolombiya gerilemeye başladı. 1830'a gelindiğinde, artan popülerlik kaybı ve kötüleşen sağlığı nedeniyle Bolívar istifaya zorlandı; General Rafael Urdaneta ve Bolívar yanlısı diğer unsurlar onu geri dönmeye ikna etmeye çalışsa da başarılı olamadı. Büyük Kolombiya 1831'de çöktü ve nihayetinde bağımsız devletlere bölündü. 1830 ile 1831 arasında, üç ayrı başkan Büyük Kolombiya'yı dağılmaktan kurtarmaya çalıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GRAN_COLOMBIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Ancak İspanya bir daha geri dönmedi. Büyük Kolombiya'dan sonra oluşan devletler, bugün varlığını sürdüren devletlerdir: Kolombiya, Venezuela, Panama, Ekvador ve Guyana.</Text>
+		</Row>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_TITLE">
+			<Text>Lady Six Sky</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_QUOTE">
+			<Text>Ben Lady Six Sky, mağlup düşmanlarımın üzerinde yükselen bir savaşçıyım.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_1">
+			<Text>Kadim vakayinameler, Dos Pilas'ta bir kral gibi hüküm süren bir kadından bahseder. Erkek hükümdarların unvanlarını talep etmiş ve gür sesli, güçlü bir lider olduğunu kanıtlamıştı. Dönemin vakanüvisleri onun adını hiç anmasa da Dos Pilas Hanımı'nın şöhreti yine de yaşamaya devam etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_2">
+			<Text>Wak Chan Ahau olarak da bilinen Lady Six Sky, babası B'alaj Chan K'awiil'in izinden giderek Dos Pilas'ın hükümdarı oldu. 600'lü yılların sonlarında tahta çıktıktan sonra Lady Six Sky, memleketi Dos Pilas'tan ayrılarak Wak Kab'nal'e yolculuk etti. Kral olmak hiç kolay değildir (hele ki bir kadın için) ve Lady Six Sky'nın bölge genelinde ve özellikle Wak Kab'nal'de gücünü daha da sağlamlaştırması gerekiyordu. Hem soydan gelen hükümdar hem de ilahî seçim yoluyla otoritesini kanıtlamak için varışından kısa süre sonra çeşitli ritüeller gerçekleştirdi. Halk tarafından büyük ölçüde iyi karşılandı ve otoritesi nihayetinde saygı gördü, ancak Naranjo'nun taçlı hükümdarı olarak hiçbir zaman tam anlamıyla yükselmedi. Yine de halkı, tacı olsun ya da olmasın onun yönetimine saygı duyduklarını göstermek için onun adına anıtlar dikti. O, gerçek bir kraliyet mensubu olduğunu gösteren kıyafetler içinde tasvir edildi (bu, istemeden de olsa hafif bir tokat gibi olmuş olabilir, ancak muhtemelen bu hediyeyi zarafetle kabul etti).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_3">
+			<Text>Lady Six Sky'nın oğlu K'ahk Tiliw Chan Chaak (ya da arkadaşlarının bildiği adıyla Smoking Squirrel) beş yaşında tahta çıktı, ancak Lady Six Sky onun yerine hükmetmeye devam etti (o biraz meşguldü, çocuk olmakla). Her iyi anne gibi, o da bu süre zarfında oğlunun ve dolayısıyla kendi yönetimine meydan okuyan yakın siyasi oluşumlara karşı birçok başarılı askerî sefer düzenledi. Anıtları, onu düşmanlarının üzerinde duran, hazır ve muzaffer bir savaşçı olarak betimlemeye başladı. Oğlu on yaşına geldiğinde, onun adına çoktan bir dizi başarılı sefer yürütmüştü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_4">
+			<Text>Savaş ve fetih, Lady Six Sky'nın kraliçe ve naip olarak hükümdarlığı sırasında üstesinden geldiği tek şey değildi. Aynı zamanda mevkiinden beklenen dinî törenlerin icrasına da yardım etti. Bunlardan biri olan mid-katun'u, Wak Kab'nal'in önceki kralıyla aynı şekilde gerçekleştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_5">
+			<Text>Lady Six Sky, kendisini ana reis yaparak yeni bir hanedan kurmaya kararlıydı. Bu, yalnızca savaş ve dinî örnek aracılığıyla yönetimini güçlendirmeye devam etmek değil, aynı zamanda halkının refahını daha da ilerletmek anlamına geliyordu. Lady Six Sky, bir kadın ve çok genç, dolayısıyla savunmasız bir kralın annesi olarak gücünü elinde tutmak istiyorsa bu kesinlikle gerekliydi. Sadece iyi vakit geçirmek için değil, uzun süre iktidarda kalmak için de plan yapmıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_6">
+			<Text>Lady Six Sky'nın oğlu Smoking Squirrel nihayet yönetimi devraldığında, annesinin mirasını izleyerek Tikal dahil diğer daha büyük Maya şehirlerine karşı askerî seferler düzenlemeye devam etti. Lady Six Sky bu süre zarfında Smoking Squirrel'in yanında kaldı ve onun eş hükümdarı olarak görev yaptı. Wak Kab'nal halkı ve soyluları, Lady Six Sky ve Smoking Squirrel'in ortak yönetimine, tutarlı ve birleşik eylemleri ve politikaları sayesinde saygı duydu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_7">
+			<Text>Lady Six Sky ve halkının dehşetiyle, Smoking Squirrel'in hükümdarlığı kısa sürdü. Erken öldü ve Lady Six Sky'yı, torunu yeterince büyüyene ya da yeterince güçlenip tahta çıkana kadar yeniden liderlik etmekle baş başa bıraktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_HISTORY_PARA_8">
+			<Text>Lady Six Sky, MS 741'de vefat etmeden önce yirmi yıl daha yaşadı. Torunu, Tikal tarafından mağlup edildi, esir alındı ve ne yazık ki idam edildi; böylece onca emekle kurduğu hanedan sona erdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_CAPSULE_BODY">
+			<Text>Lady Six Sky, sıkı sıkıya bağlı imparatorluğunu kurmak için geleneksel tatlı su kaynaklarına güvenmez; bunun yerine yıldızlara uzanmak için bir Çiftlik ve Plantasyon ağından yararlanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LADY_SIX_SKY_CHAPTER_DETAILED_BODY">
+			<Text>Mayalar, yerleşimlerini diğer uygarlıklardan farklı şekilde planlar. Konut ihtiyaçlarını tatlı suya yakın olmaktan ziyade Çiftliklerden karşılarlar. Lüks kaynakların yanına yerleşmek ayrıca onlara ek Olanaklar sağlar. Lady Six Sky, şehirlerini başkentine yakın tutmak ister. Bu nedenle erkenden bir şehir kümesi kurun ve onları Hulche atlatlistlerinizle güçlü bir şekilde savunun. Düzgün yerleştirilmiş Gözlemevi bölgeleri, yakındaki Çiftliklerden ve Plantasyonlardan ek Bilim alarak teknolojide diğer uygarlıkların önüne geçmenizi, halkınızı uzaya fırlatmanızı ya da başka bir zafere önemli bir ivme kazandırmanızı sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_TITLE">
+			<Text>Simón Bolívar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_QUOTE">
+			<Text>Cömert ruhlar, Yaratıcı ile Doğa'nın kendilerine bahşettiği hakları geri kazanma mücadelesi veren bir halkın kaderiyle her zaman ilgilenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Sonradan Kurtarıcı (El Libertador) olarak anılacak olan Simón Bolívar, 1783 yılında zengin, üst sınıf Venezuelalı bir ailede dünyaya geldi. Olumlu ve aydınlık bir çocukluk geçirmesini sağlayacak fazlasıyla parası olmasına rağmen, Bolívar'ın çocukluğu hiç de mükemmel değildi. Babası, o daha üç yaşındayken öldü. Altı yıl sonra annesi de vefat edince, amcasının himayesine girdi. Bolívar'ın amcası, mirasının yöneticisi oldu ve ona iyi eğitimli birkaç özel hoca ayarladı. Bu hocaların birçoğu, onun üzerinde kalıcı bir etki bırakacak ve hayatı boyunca taşıyacağı felsefeleri şekillendirecekti. Klasik düşünce ekollerinde eğitim gördü ve daha yeni, hızla evrilen akımları öğrenmeye başladı. Hocalarından biri olan Simón Rodriguez, ona Aydınlanma hareketinin ve özellikle Jean-Jacques Rousseau'nun felsefelerinin kapısını araladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_2">
+			<Text>Bolívar'ın amcası, on altı yaşındayken onu İspanya ve Avrupa'da eğitim görmesi üzere yurt dışına gönderdi. Çoğu ideal Avrupa eğitim gezisinde olduğu gibi, Bolívar da İspanya'da aşkı buldu. Gidişinden üç yıl sonra, İspanyol bir asilzadenin kızı olan María Teresa del Toro y Alayza ile evlenip evine döndü. Ancak kısa süren mutluluğu uzun ömürlü olmadı. Karısı, ilk yıldönümlerinden önce sarı hummadan öldü. Bolívar ölüme maalesef yabancı olmasa da, bu kayıp onu derinden sarstı ve değiştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_3">
+			<Text>Avrupa'ya döndü ve Napolyon'un yükselişini izledi. Bir süre boyunca Bolívar ona hayranlık duydu. Ancak Bolívar Venezuela'ya döndüğünde, Napolyon'un Joseph Bonaparte'ı İspanya Kralı ve dolayısıyla sömürgelerinin de kralı yapmasıyla birlikte, Napolyon'la olan dostluğunu fiilen sonlandırdı. Bu durum, Bolívar'ın memleketi Venezuela'yı da kapsıyor ve onu direnişe katılmaya itiyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_4">
+			<Text>1810'da Karakas cuntası bağımsızlığını ilan ettiğinde, Bolívar gerek diplomatik becerileri gerekse uzun yolculuklardaki gözle görülür rahatlığı nedeniyle bir kez daha Avrupa'ya gönderildi. İngiltere'ye vardı ve bir yıl boyunca orada kaldıktan sonra tekrar Venezuela'ya uzun deniz yolculuğuna çıktı. Eve dönüşü pek de sıcak karşılanmadı ve onunla diğer bağımsızlık lideri Francisco de Miranda'nın aralarının açıldığına dair söylentiler yayıldı. Miranda'nın daha sonra tutuklanması ve Bolívar'ın hızla Cartagena de Indias'a kaçması bu iddialara yardımcı olmadı. Söylentilere rağmen Bolívar durumdan faydalanmasını bildi. Uzakta olduğu süre boyunca Cartagena Manifestosu'nu (Manifiesto de Cartagena) kaleme aldı. Bu manifestoda Bolívar, İspanya'dan bağımsızlık için baskı yapmaya devam etti. Felsefeleri ve Miranda'nın yokluğu sayesinde bu dönemde ünü arttı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_5">
+			<Text>Yeni bir İspanyol kralının Venezuelalı cumhuriyeti devirmesinin ardından Bolívar, Yeni Granada ordusunda komuta görevi üstlendi ve Venezuela'ya bir işgal harekâtı düzenledi. Memleketini kurtarmak için yaptığı sayısız sefer sayesinde 'El Libertador' (Kurtarıcı) unvanını kazandı. Ne yazık ki Bolívar ve kuvvetleri başkent Karakas'ı uzun süre ellerinde tutamadı ve birlikleri şehirden püskürtüldü. Bolívar, yenilgiye boyun eğmek yerine, Güney Amerika'nın dört bir yanından ve hatta Büyük Britanya'dan müttefiklerini toplayarak nihayetinde kesin bir şekilde İspanyol ve Kralcı güçleri bölgeden sürdü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_6">
+			<Text>Bölgenin daha fazla kurtarılışının ardından Bolívar ve müttefikleri Büyük Kolombiya Cumhuriyeti'ni kurdular. Bolívar cumhurbaşkanı oldu, kendisi gibi askerî ve siyasi bir lider olan Francisco de Paula Santander de cumhurbaşkanı yardımcısı olarak görev yaptı. Hükümeti ve cumhurbaşkanlığı dönemi hiç de barışçıl geçmedi. Uzun süren savaşların bölgeyi içinde bıraktığı kırılgan durum yüzünden bölge huzursuzluklarla doluydu. Geniş Büyük Kolombiya'ya hükmetmek kolay bir iş değildi ve Peru Kongresi'nin Bolívar'ı Peru diktatörü ilan etmesiyle bu iş daha da zorlaştı. İktidar kararsızdır, elde tutması zordur ve kontrol etmesi daha da güçtür. Bölgesel ayaklanmalar ve muhalefet Bolívar'ı tedirgin etti. Birleşik bir Büyük Kolombiya hayalini sağlamlaştırmak için Bolívar, 1828'de bir anayasa kongresi topladı. Ne yazık ki delegeleler, onun önerdiği, halefini kendisi seçebilecek – elbette makul sınırlar içinde – bir 'ömür boyu başkan' içeren merkeziyetçi hükümet modeli vizyonuna katılmadılar. Sonuçta sınırlı bir hükümete inanmasına rağmen Bolívar, Büyük Kolombiya'nın kırılganlığından endişe ediyordu. Gerçek ideallerini uygulayabilmesi için Büyük Kolombiya'nın önce büyümesi gerektiğini düşünüyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_7">
+			<Text>Hükümeti ve halkı nezdinde itibarını kurtarmak için Bolívar kendini diktatör ilan etti – ki bunun geçici bir önlem olduğu konusunda herkese güvence verdi. Bu eylem siyasi rakipleri nezdinde olağanüstü bir etki yarattı ve kıl payı kurtulduğu bir suikast girişimine yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_HISTORY_PARA_8">
+			<Text>İki yıl daha 'cumhurbaşkanı' olarak görev yaptıktan sonra Bolívar istifa etti. Eşyalarını toplayıp bir kez daha Avrupa'ya yolculuk yapmayı umuyordu. Ancak Bolívar gemiye hiç binemedi. Verem hastalığına yakalandı ve bu hastalık nihayetinde 17 Aralık 1830'da ölümüne yol açtı. Ölümünden önce Bolívar, yaveri General Daniel Florencio O'Leary'den tüm yazılarını imha etmesini istedi. Anayasa kongresindeki delegeler gibi O'Leary de bu emre uymadı ve Bolívar'ın önemli eserlerini yakmadı. Ölümünün ardından on yıldan fazla bir süre geçtikten sonra Bolívar, memleketi Karakas'ta toprağa verildi. Orada onu ve başarılarını anmak için bir anıt dikildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_CAPSULE_BODY">
+			<Text>Simón Bolívar'ın birlikleri, ister savunmada ister saldırıda olsun, hesaba katılması gereken çevik bir güçtür. Çok sayıdaki Komutan Generalini akıllıca kullanarak ordusu neredeyse durdurulamaz hale gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SIMON_BOLIVAR_CHAPTER_DETAILED_BODY">
+			<Text>Askeri birliklere sağlanan ek hareket, ister kendi topraklarında devriye gezerken ister düşman topraklarını kurtarırken olsun, Büyük Kolombiya için ovalar veya tepeler boyunca yapılan uzun yürüyüşleri çocuk oyuncağı haline getirir. Saha terfileri bir birliğin turunu sonlandırmaz, böylece birlikler anında çatışmaya geri dönebilir. Her yeni çağda bir tane olmak üzere gelen Komutan Generallerin eklenmesiyle Simón Bolívar'ın ordusu, ilave muharebe gücü ve hareket kabiliyetiyle daha da güçlenir. Llanero Süvarileri, en iyi şekilde bu Komutan Generallerin ve diğer Llanero Süvarilerinin yanında konuşlandıklarında işe yarar ve oyunun ortalarındaki bir askerî güç için güçlü bir bel kemiği görevi görür. Hacienda Çiftliği, savaş yoluna devam etmek için gereken besini ve üretimi sağlayacaktır. Simón Bolívar, Büyük Kolombiya'yı bir Hakimiyet Zaferi'ne götürme konusunda en iyisidir, ancak böylesi bir kudret, kaynakları diğer zafer yollarına da yönlendirebilir.</Text>
+		</Row>
+		<!-- buildings and districts -->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_OBSERVATORY_CHAPTER_HISTORY_PARA_1">
+			<Text>Hem yoğun tarımcı hem de kusursuz matematikçi olan Mayalar, gökyüzünün hareketine büyük ilgi duyuyorlardı. Palenque ve Chichén Itzá gibi Maya kentlerindeki gözlemevlerinde, Maya gökbilimcileri yapay bir ufuk – düzenli boyutlarda düz, dairesel bir platform – kullanıyor ve her yıl yıldızların, gezegenlerin, ayın ve güneşin doğup battığı noktaları dikkatlice işaretliyorlardı. Mayalar bu gözlemleri ayrıntılı takvimler oluşturmak için kullandılar. Güneş takvimine aşinayız – 365 günlük takvimimiz güneşin bir döngüyü tamamlama süresine dayanır, ancak birçok kültür ayrıca bir ay takvimi de kullanır (yani ayın 12 kez büyüyüp küçülmesi için geçen süre). Mayalar buna giderek daha fazla döngü ekledi. Örneğin Venüs gezegeninin, Maya gözlemevlerinden birinin yapay ufkunda aynı noktaya dönmesi 584 gün sürer. Bunu fark edip kaydeden Mayalar, bir Venüs takvimi de geliştirdiler. Son olarak, bu astronomik gözlemlere Mayalar, insanın gebe kalmasından doğumuna kadar geçen ortalama süreye denk gelen 260 günlük bir takvimi de eklediler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_OBSERVATORY_CHAPTER_HISTORY_PARA_2">
+			<Text>Bu astronominin işlevi astroloji, din, tarım ve siyasetin birleşimiydi. Yıldızlar ve gezegenler (zaman zaman Maya hükümdarları da) Maya tanrılarıydı. Takvimler birbirine bağlandıkça, farklı etkinlikler – ekim, savaş, festivaller, belirli bir liderin talihi – az ya da çok uğurlu hale gelirdi. Gözlemevi aracılığıyla astronomi, Mayalar için doğal dünya, doğaüstü dünya ve siyasi dünyanın birbirine nasıl bağlı olduğunun izini sürmenin bir yoluydu. Günümüzde bile astronomik gözlemler ve takvim döngüleri, günümüz Mayalarının yerel dine ve kehanete nasıl bağlı kaldıklarını etkilemektedir.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_BATEY_CHAPTER_HISTORY_PARA_1">
+			<Text>Orta Amerika top oyunu – Meksika'da 'ulama' olarak adlandırılır – çok eskidir. Birkaç bin yıl önce Olmecler tarafından icat edilmiş olması muhtemel olmakla birlikte, MS birinci binyılda popüler hale gelmiş ve Orta Amerika kökenlerinin ötesine geçerek Kuzey Amerika ve Karayipler'e yayılmıştır. Maya versiyonlarında, lastik bir topu, elleri kullanmadan, taş bir halkadan (belki de yeraltı dünyasındaki yolculuğu sırasında güneşi temsil ediyordu) geçirmeyi içeriyordu. Oyuncular genellikle savaş esirleriydi ve kaybedenler tanrılara kurban edilebilirdi. Bu tür kurbanların resimleri, Chichén Itzá'daki Maya top sahalarının duvarlarında açıkça gösterilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_BATEY_CHAPTER_HISTORY_PARA_2">
+			<Text>Porto Riko'daki Caguana'daki bateyler bu kadar görkemli değildir. Buradakiler kabaca dikdörtgen, düz sahalardır ve Maya sahalarını karakterize eden taş halkalar yoktur. Dolayısıyla kurallar muhtemelen farklıydı, topun takımlar arasında atılmasını içeriyordu, ancak saha ile dini yaşam arasındaki bağ devam etti – Caguana'nın bateyleri petrogliflerle (kaya oymaları) süslenmiştir ve Porto Riko'da Taíno dini hayatının merkezi olan bir dağın eteğinde toplanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_BATEY_CHAPTER_HISTORY_PARA_3">
+			<Text>Taíno dilindeki 'batey' kelimesi, sömürgeleştirmeyi izleyen yıllarda kötü bir mirasa sahip oldu. Kelime aslen 'top sahası' anlamına gelirken, günümüzde yaygın olarak şeker plantasyonlarındaki işçiler için geçici barınma yerlerini tanımlamak için kullanılmaktadır; hem tarihsel plantasyonlardaki köleleştirilmiş insanlar hem de birçoğu hâlâ zorla çalıştırılmaya maruz kalan günümüz işçileri. Taíno dilindeki top sahası kelimesinin nasıl olup da bundan çok farklı bir anlama geldiği belirsizdir; burada 'batey', kelimenin orijinal anlamına atıfta bulunmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_HACIENDA_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir çiftlik ile bir fabrika arasında bir yerde olan Latin Amerika'daki hacienda, 19. yüzyılda baskın toprak mülkiyeti biçimi haline gelmiş, zengin bir sahip tarafından işletilen büyük bir malikâneydi. Bir plantasyondan daha iç kesimlerde yer alması ve denize doğrudan erişimi olmaması nedeniyle haciendalar, ihracat için ürün yetiştirmenin yanı sıra tarımsal olarak kendi kendine yeterli olmak zorundaydı. Büyük Kolombiya'da bu ürünler kahve, koka, şeker, tütün veya başkaları olabilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_HACIENDA_CHAPTER_HISTORY_PARA_2">
+			<Text>Hacienda sistemi doğası gereği sömürücüydü. Afrika kökenli insanların köleleştirilmesi kıyı plantasyonlarında daha baskınken, iç kesimlerdeki haciendalar yerli halkların topraklarından edilmesine dayanıyordu. Bu insanlar çoğunlukla ücretsiz çalışır ve emeklerinin karşılığında, çoğu durumda ilk etapta kendilerinden veya atalarından alınmış olan hacienda topraklarında kalmalarına 'izin verilirdi'.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_HACIENDA_CHAPTER_HISTORY_PARA_3">
+			<Text>Köleliğin kaldırılması ve Latin Amerika'nın büyük bölümündeki sosyal ve işçi reformlarıyla birlikte hacienda sistemi sona ermiştir, ancak nostaljik bir dokunuşla bazı çiftlikler veya malikâneler bu ismi kullanmaya devam edebilir.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MAYAN_HULCHE_CHAPTER_HISTORY_PARA_1">
+			<Text>Hul'che, bir ok veya mızrak fırlatmak için kullanılan bir Maya silahıdır ve ilk bakışta oldukça basit görünür. Ucunda bir okun oturduğu bir çentik bulunan uzun bir tahta sap. Deneyimli bir nişancı tarafından kullanıldığında hul'che, atışın gücünü büyük ölçüde artırarak bir mızrağı saatte üç yüz milden (saniyede 150 metre) daha hızlı fırlatabilirdi. Hafif zırhlı Mesoamerikalı askerlere karşı hul'che ölümcül olurdu. Pek çok antik toplumda kullanılmıştır: Aztekler buna atlatl, Avustralya Aborijin grupları woomera adını verir ve benzer aletlere ait arkeolojik kanıtlar Avrupa'da da mevcuttur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MAYAN_HULCHE_CHAPTER_HISTORY_PARA_2">
+			<Text>Maya erkekleri ve kadınları, hul’che kullanımı konusunda eğitilirdi. Maya savaşları, karşılıklı hul’che okları atışıyla başlar, bireysel yakın dövüşçüler şan şeref arayışıyla ileri atılmadan önce düşmanları yaralardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COLOMBIAN_LLANERO_CHAPTER_HISTORY_PARA_1">
+			<Text>Llanos otlakları, doğu Kolombiya ve batı Venezuela boyunca uzanır ve bu ülkelerin cesur, dayanıklı sığırtmaçları olan llanerolara ev sahipliği yapar. Zengin Karayip kıyı limanlarından ayrı düşen llanerolar, güçlü bir bireyci ve becerikli karakter geliştirdiler; bu da Latin Amerika bağımsızlık savaşlarında her iki tarafta da süvari olarak hizmet ettiklerinde onlara beğeni kazandırdı. Ünlü bir şekilde, kendi aralarından biri olan José Antonio Páez, llaneroları etkili bir savaş gücü haline getirdi; özellikle de José Tomás Boves'in benzer şekilde örgütlenmiş kralcı llanerolarına karşı dururken.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COLOMBIAN_LLANERO_CHAPTER_HISTORY_PARA_2">
+			<Text>Llanero kültürü, İspanyol yerleşimcilerin yerli gruplarla yakın yaşayıp kaynaşmasıyla ortaya çıktı; kendine özgü müziği, mutfağı ve özellikle de at binicilik geleneğiyle yeni ve farklı bir toplum yarattı. Kıyı elitlerine duydukları hoşnutsuzluk nedeniyle llanerolar başlangıçta Kraliyet için savaşmaya ikna edildiler, ancak Páez yönetiminde bağımsızlık için güçlü bir güç haline geldiler ve devrimcileri Boyacá ile Carabobo muharebelerinde zafere taşıdılar. Unutulmaz bir sahnede Páez, llanerolarını yanan bir ovadan geçirerek İspanyolları şaşkına çevirdi; alevler ve duman… ve binlerce atın doğrudan üzerlerine dörtnala koşmasının gök gürültüsü onları altüst etmişti!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LAHORE_NIHANG_CHAPTER_HISTORY_PARA_1">
+			<Text>Nihanglar, günümüzde kuzey Hindistan, Pakistan ve Afganistan'da bulunan bölgede 17. ve 19. yüzyıllar arasında faaliyet gösteren bir Sih dini savaşçı tarikatıydı. Farsçada “timsah” anlamına gelen isimleri, savaştaki vahşetlerine atıfta bulunuyordu; ancak kendilerine Akali, yani kelimenin tam anlamıyla “ölümsüzler” derlerdi. Parlak mavi ikonik kıyafetleri ve bir fitt yüksek sarıklarıyla Nihanglar, Sih dövüş sanatı shastar vidyanın ustalarıydı. Askeri becerilerinin yanı sıra, katı ahlak kuralları ve dini disiplinleriyle tanınırlardı; alkol, tütün ve diğer aşırılıklardan uzak dururlardı. Dönemin bir Sih bilginine göre Nihang, “maddi kazanç arzusu olmadan Sih tapınaklarını koruyan, adil ve haklı bir savaşa her zaman girmeye hevesli olan kişidir.” Ve gerçekten de savaştılar; bir yetkilinin raporuna göre, Nihanglar “acıdan veya rahattan etkilenmezlerdi... savaş alanının olduğu yerde, ölüm korkusu taşımaz, asla geri adım atmazdı.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LAHORE_NIHANG_CHAPTER_HISTORY_PARA_2">
+			<Text>Ancak ne kadar zorlu savaşçılar olsalar da bir ordu değillerdi. Daha ziyade, kırsalda dolaşan, ihtiyaç duyduklarını alan ve Sih toplulukları ile tapınaklarını uygun gördükleri şekilde savunan savaşçı-rahiplerdi. İngilizlerin gelişi, onları sürekli olarak kontrolden çıkma tehdidi taşıyan bir taban direniş hareketine dönüştürdü. Sonuç olarak, kısa ömürlü Sih İmparatorluğu'nun lideri Ranjit Singh, 1800'lerin başlarında Lahor'un fethi sırasında birkaç bin Nihang'ı ordusuna katarak onların vahşi savaş gücünü kontrol altına almaya ve kendi yanına çekmeye çalıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LAHORE_NIHANG_CHAPTER_HISTORY_PARA_3">
+			<Text>1800'lerin ortalarına gelindiğinde, Nihanglar ve Sih İmparatorluğu yenilgiye uğramıştı. Ancak sanatları, Hindistan ve Birleşik Krallık'taki bazı Sih topluluklarında hâlâ icra edilmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMANDANTE_GENERAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük Kolombiya'nın tarihi direnişle damgalanmıştır ve bu direniş, bir dizi parlak askeri komutan tarafından yönetilmiştir. José de San Martín'den José María Córdova'ya, Francisco de Paula Santander'den José Antonio Páez'e ve 'Özgürleştirici' Simón Bolívar'ın ta kendisine kadar Latin Amerikalı askeri liderler, Güney Amerika tarihinin seyrini şekillendirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_COMANDANTE_GENERAL_CHAPTER_HISTORY_PARA_2">
+			<Text>Cesaretlerinin bir örneği olarak, Yeni Granada'nın kurtuluşu sırasında Bolívar, 3.000 askerini kabarmış yağmur mevsimi nehirlerinden geçirip buz gibi And Dağları'nın yamaçlarına tırmandırdı; bu, başka bir general için neredeyse intihar anlamına gelecek bir hareketti. Ancak Bolívar yükseklerden inerek İspanyolları kuşattı ve takviyelerini kesti. İspanyol sömürge başkenti Bogotá, sadece günler sonra düştü.</Text>
+		</Row>
+		<!-- resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_MAIZE_CHAPTER_HISTORY_PARA_1">
+			<Text>Mısır – Kuzey Amerikalıların 'corn' dediği tahıl – ilk olarak Mezoamerika'da teosinte adlı bir çim bitkisinden yetiştirilmiştir. Orta Amerika'daki milpas (yakıp yıkarak açılmış mısır tarlaları) veya chinampas (yüzen mısır tarlaları) üzerinde yapılan bilinçli yetiştirme ve seçici ıslah, küçük teosinte tanelerini bugün aşina olduğumuz büyük koçanlara dönüştürdü. Temel bir ürün olarak mısır, Maya ve Aztek imparatorluklarının büyük Yeni Dünya şehirlerinin genişlemesine ve egemenliğine olanak sağladı ve Orta Amerika mutfağı için önemini korumaktadır. Avrupalılarla temastan kısa süre sonra mısır, Eski Dünya'nın büyük bir kısmına da yayıldı; çünkü mısır, pirinç, buğday veya arpadan farklı toprak ve arazi türlerini kullanıyordu. Tahıl, Afrika'da ilk kez Portekizliler tarafından tanıtıldı ve burada büyük bir coşkuyla benimsendi; mısır, o kıtadaki tarım uygulamalarını ve arazi kullanımını dönüştürdü: daha hızlı büyüme mevsimi ve yoğun işleme süreciyle mısır tarımı, birçok Afrika toplumunda kadın emeğine yeni roller açtı ve böylece girdiği toplumlardaki sosyal ayrımları daha da değiştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_HONEY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bal, arılar tarafından çiçek nektarından üretilen ve kovanda larvaların yemesi için depolanan doğal bir tatlandırıcıdır – kelimenin tam anlamıyla böcek kusmuğudur. Ancak aynı zamanda insanlık tarihinin en eski lezzetlerinden biridir; İspanya'nın Valensiya kentindeki bir kaya resmi, bir kişinin yabani bir arı kovanından bal aldığını gösterir. Bal hasadı için neredeyse her toplum aynı tekniği kullanır: arıcılar – veya arı avcıları – kovanı dumanla doldurarak böcekleri uyuşturur, böylece arıların acı veren sokmalarına maruz kalmadan peteği alabilirler. Balın çok çeşitli kullanım alanları vardır; balı çoğunlukla bir tatlandırıcı olarak ilişkilendirsek de güçlü antimikrobiyal özelliklere sahiptir ve yara ile yanıkların tedavisinde kullanılmıştır. Ayrıca, en eski alkollü içecek olan bal şarabı baldan yapılır ve bu 'bal şarabı' Yunan, Hint, Çin ve İskandinav mitlerinde geçmektedir.</Text>
+		</Row>
+		<!-- city states -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SINGAPORE_CHAPTER_HISTORY_PARA_1">
+			<Text>Singapur, Güneydoğu Asya'da Malay Yarımadası'nın ucundaki bir adada bulunan bir şehir devletidir. Johor Boğazı'nda bulunan ada, Güney Asya ile Hint Denizi'ni Doğu Asya ve Pasifik'e bağlayan hayati bir ticaret yolunun tam ortasında yer alır. Sömürge döneminden önce bölge, Sumatra'daki Srivijaya, Java'daki Majapahit ve bir Malay sultanlıkları ağı gibi bir dizi yerli imparatorluğa ev sahipliği yapıyordu. Avrupalılar geldiğinde, İspanyollar ve Portekizliler (başarısız bir şekilde) yerel halkı Katolikliğe döndürmeye çalıştı; İngilizler ve Hollandalılar ise baharat ticaretinden yararlanmanın peşindeydi. Ancak 1800'den önce, Singapur adası, suyun karşısındaki Malay anakarasında bulunan bir Malay krallığı olan Johor Sultanlığı'nın kontrolü altında küçük bir balıkçı köyü olarak kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SINGAPORE_CHAPTER_HISTORY_PARA_2">
+			<Text>Ancak 1819'da, potansiyel olarak kârlı konumuyla ada, İngiliz İmparatorluğu'nun hedefi haline geldi; İngilizler, Hint afyonunun İngiliz gemileriyle Çin pazarlarına ulaşmasını sağlamak için Boğazları kontrol etmek istiyordu. İngiliz subayı Sir Stamford Raffles, Johor'da bir darbe düzenledi ve yeni göreve getirilen sultan, karşılığında adanın haklarını bir ödül olarak İngilizlere verdi – Raffles'ın planladığı tam da buydu. Singapur, bölgedeki İngiliz sömürge operasyonlarının merkezi olarak önem kazandı: yalnızca bir ticaret merkezi değil, aynı zamanda yeni ticari ürünler için bir laboratuvar ve İngiliz varlığının Hindistan'dan doğuya doğru bir uzantısıydı. İngilizler, adaya bir dizi yeni göçmen getirdi: Güney Çin'den Hokkien, Kanton ve Hakka göçmenleri; Güney Hindistan'dan Tamil işçileri ve Malaya'nın diğer bölgelerinden yeni göçmenler. Singapur, Malaya'daki İngiliz kolonilerinin hayati kalbi haline geldi: Boğaz Yerleşimleri olarak bilinecek olan oluşum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SINGAPORE_CHAPTER_HISTORY_PARA_3">
+			<Text>1900'lerde Singapur başka bir kader sınavıyla karşı karşıyaydı. Japon İmparatorluk Ordusu, İkinci Dünya Savaşı'nda adayı ölümcül bir kuşatmayla ele geçirdi. Japonlar sonunda teslim olurken, İngilizlerin adayı koruyamaması, Boğaz Yerleşimleri halkının sömürge yönetimine dönme konusunda isteksiz olmasına yol açtı – Avrupa emperyalizminin çağı sona ermişti. Kitlesel gösteriler ve ajitasyon yoluyla nihayet bağımsızlıklarını kazandılar, ancak bir sonraki soru ortaya çıktı: İngiliz sonrası Malaya'nın karakteri ne olacaktı? Çoğunluğu Müslüman olan Malaya, Malayları eski koloninin doğal mirasçıları, Çinlileri ise dışarıdan gelenler olarak görüyordu. Kanlı etnik şiddet patlak verdi ve etnik Çinliler, çoğunluğu Çinli olan Singapur'a ve Singapur'un lideri Lee Kuan Yew'e büyük sayılarla kaçtı. Gergin müzakerelerin ardından Malaya – artık Malezya – 1965'te Singapur'u dışarı attı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SINGAPORE_CHAPTER_HISTORY_PARA_4">
+			<Text>Lee, Singapur'un başarısız olmasına izin vermemeye kararlıydı ve zaman zaman sert bir elle yöneterek etnik ve işgücü gerginliklerini her şeyin üzerinde bir ekonomik refah taahhüdüyle dengelemeye çalıştı. Belki Lee'nin kararlılığı sayesinde ya da sadece Singapur'un Boğazlardaki şanslı konumu nedeniyle Singapur, 21. yüzyıla bir ekonomik güç merkezi olarak girdi. Bugün, yaklaşık altı milyonluk kozmopolit nüfusu ve küresel bakış açısıyla Singapur, bölgede siyasi olarak istikrarlı ancak ekonomik olarak dinamik bir güç olmaya devam ediyor. Singapur, hem çevre bölgeden işçi ve zenginlik çekme sömürge mirasını hem de Lee'nin oğlu Lee Hsien Loong yönetiminde 'yumuşak otoriter' bir siyasi yönelimi beraberinde taşıyor, ancak bağımsız bakış açısını ve her şeyden önce pragmatik siyaset anlayışını koruyor.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CAGUANA_CHAPTER_HISTORY_PARA_1">
+			<Text>Kolomb Karayipler'e yelken açtığında karşılaştığı ilk insanlar, bugün Porto Riko, Hispaniola ve Küba'da yaşayan tarımla uğraşan bir halk olan Tainolardı. Tainolar anaerkil bir toplumdu – soylarını anne tarafından hesaplarlardı – ve Taino kadınları ile erkekleri ayrı topluluklarda yaşarlardı. Daha savaşçı olan Kariblerle ('Karayip' kelimesini buradan alıyoruz) sürekli bir gerginlik içinde yaşıyorlardı; Karibler zaman zaman kanoyla Taino yerleşimlerine baskın düzenlerdi, ancak buna rağmen Tainolar, belirgin bir soylu sınıfı, karmaşık bir din ve sporları olan gelişmiş bir toplum inşa etmeyi başardılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CAGUANA_CHAPTER_HISTORY_PARA_2">
+			<Text>Arkeologlar, Kolomb karaya çıktığında bölgede belki de iki milyon Taino yaşadığını tahmin ediyor. Ancak bu sayı, hastalık, köleleştirme ve savaşın bir karışımının Tainoları harap etmesiyle hızla düşecekti. İspanyol rahip Bartolome de las Casas, Kolomb'un varışından sadece on yıl sonra yazdığı yazılarda, aradan geçen yıllarda üç milyon insanın öldüğünü tahmin ediyordu. 'Gelecek nesillerden hangisi buna inanır?' diye merak ediyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CAGUANA_CHAPTER_HISTORY_PARA_3">
+			<Text>Taino halkı için önemli bir merkez olan Caguana bölgesi, Porto Riko'nun orta kesimlerinde yer alır. Mezoamerikan top oyununun oynandığı alanlar olan yaklaşık otuz top sahası içerir. Ayrıca, petrogliflerle kaplı oyma taşlar, yakındaki dağları tanrılarıyla ilişkilendiren Tainolar için bölgenin önemine tanıklık eder. En parlak dönemi olan 1200'lerde Caguana, dini şenliklerin, astronomik gözlemlerin ve sporların yapıldığı bir yerdi – bu etkinlikler muhtemelen Tainolar için birbiriyle bağlantılıydı. Bugün Porto Riko için bir kültürel miras alanı olarak varlığını sürdürmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAHORE_CHAPTER_HISTORY_PARA_1">
+			<Text>Lahor, günümüzde büyük bir dünya şehri ve Pencap bölgesinde, Himalayalar'ın güneyinde uzanan ve Hindistan ile Pakistan arasında bölünmüş kurak bir alanda ticari ve kültürel bir merkezdir. Şehir, Babür İmparatorluğu'nda, kısa ömürlü Sih İmparatorluğu'nda, Britanya Hindistanı'nda önemli roller oynamıştır ve şu anda Pakistan'ın en büyük ikinci şehridir. Asya genelinde iç ticaret yollarının kavşak noktası olarak öneminin yanı sıra Lahor, Pakistan ve ötesi için önemli bir kültür başkenti olmaya devam etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAHORE_CHAPTER_HISTORY_PARA_2">
+			<Text>Lahor muhtemelen ilk olarak milattan sonraki ilk binyılda yerleşime açıldı, ancak gerçek yükselişi, Moğol sürülerinin İslam'ı benimseyip yerleşerek kültürleştiği ve 16. yüzyıldan 19. yüzyıla kadar Güney Asya'yı yönettiği Babür İmparatorluğu döneminde yaşandı. Babür hükümdarları Lahor'da gösterişli yapılar inşa ettirdi; bunlar arasında şehirden çıkan yollardaki devasa kapılar ve kutsal alanlar: aziz mezarları ve kraliyet camileri vardı. 18. yüzyıla gelindiğinde, Lahor'un zenginliği dünyaca ünlü hale geldi; Lahor, Milton'un Kayıp Cennet'inde bile zenginlik ve güç şehri olarak, 'Büyük Babür'ün Makamı' olarak anılır ve Milton'un Adem'ine dünyanın bir harikası olarak gösterilir. Diğer İngiliz yazarlar da şehre benzer şekilde hayrandı: sömürge dönemi İngiliz yazarı Rudyard Kipling, Lahor'u 'öğle sıcağı insanların seslerini susturup caminin güvercinlerini uyuttuğunda bile güzellikle dolu' olarak tanımlar ve çocukken Lahor'un büyük, Ermeni yapımı 'Zam-Zammeh' topunu gördüğü için mest olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAHORE_CHAPTER_HISTORY_PARA_3">
+			<Text>Babür İmparatorluğu gerilemeye başlayınca, bölgede yeni güçler ortaya çıktı ve Pencap için savaştı. Lahor'u ilk alan, şehri 1758'de Babürlerden alan Maratha'nın Hindu orduları oldu. Ancak Maratha, Babürler kadar uzun ömürlü olmadı ve Lahor yeniden el değiştirerek Sih ve Afgan kuvvetlerinin eline geçti. 1799'da şehir, Ranjit Singh yönetimindeki Sih İmparatorluğu'nun merkezi oldu. 'Pencap Aslanı' Singh, yeni bir imparatorluk için yeni bir ordu kurmaya çalıştı ve bu doğrultuda hem uluslararası hem de yerel güç kaynaklarına yöneldi; birliklerini eğitmeleri için Napolyon'un ordusundan askerler getirdi ve vahşi Nihang savaşçı-rahiplerini kendi kuvvetlerine kattı. Ancak Sih imparatorluğu Singh olmadan devam edemedi ve Singh'in ölümünden sonra bölge tamamen Britanya imparatorluğuna ilhak edildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAHORE_CHAPTER_HISTORY_PARA_4">
+			<Text>İngiliz egemenliği altındaki Lahor'da, sömürge yöneticilerinin Babür mahallesini terk edip yeni inşaatlara yönelmesiyle şehrin bambaşka bir semti gelişti. İngilizler için Pencap, bazı sorunlar teşkil ediyordu: Sorunlu bir sınıra yakındı ve İngilizlerin yoğunlaştığı limanlardan uzaktı. Nitekim Lahor, 1929'da Pandit Nehru'nun Britanya'dan "tam bağımsızlık" ilan edip Hindistan üç renkli bayrağını göndere çektiği yer olarak Hint bağımsızlık hareketinin önemli bir merkezi haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAHORE_CHAPTER_HISTORY_PARA_5">
+			<Text>Ancak bağımsızlığın ardından kanlı bir bölünme süreci baş gösterdi. Pakistan kendini bir Müslüman ulus ilan ederek Hindistan'dan ayrılırken isyanlar patlak verdi. Hindular ve Müslümanlar kitlesel bir şiddet çılgınlığı içinde birbirlerini katlettiler. Lahor da bu durumdan nasibini aldı ve Hinduların yaygın bir katliama uğradığına tanıklık etti. Lahorlu Hindu bir kadın olan Indira Kumar, çocukken şiddetten kaçıp dağlara sığınırken şu soruyu sordu: "Özgürlüğün bedeli nedir ve hangi amaca hizmet eder?"</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAHORE_CHAPTER_HISTORY_PARA_6">
+			<Text>Bölünmenin sona ermesi, şiddetin de sonu anlamına gelmedi. Lahor, 1965'te Hindistan ile Pakistan arasında yeniden patlak veren çatışmalar sırasında hasar gördü. Günümüzde Lahor ayakta kalmayı sürdürüyor. Pakistan Pencap'ının başkenti olan şehir, 10 milyondan fazla nüfusa ev sahipliği yapmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VATICAN_CITY_CHAPTER_HISTORY_PARA_1">
+			<Text>0,2 mil kareden daha küçük bir alana ve 1.000 nüfusa sahip olan Vatikan Şehri, dünyanın en küçük bağımsız devletidir. Vatikan'ın mirası, Katolik Kilisesi'nin ve onun bir milyardan fazla takipçisinin idari kalbi olan Kutsal Makam'a ev sahipliği yapmasıyla neredeyse iki bin yıl geriye uzanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VATICAN_CITY_CHAPTER_HISTORY_PARA_2">
+			<Text>Üzerinde bulunduğu tepeye atfen adlandırılan Vatikan, tarihi Roma'nın kalbinden Tiber Nehri'nin karşı kıyısında yer alır. Romalılar için Vatikan Tepesi, putperest tanrılara adanmış mezarların ve mabetlerin bulunduğu bir yerdi ve Roma İmparatoru Neron da tam bu alana bahçelerini ve devasa eğlence kompleksini inşa ettirdi. Katolik geleneğine göre, Havari Petrus'u baş aşağı çarmıha gerdiren de bu komplekstir. Neron'un sirki günümüze ulaşamamış olsa da, 300'lü yıllarda Roma İmparatoru Konstantin, elçinin öldüğü yere Aziz Petrus Bazilikası'nı inşa ettirdi. Konstantin ayrıca İmparatorluk genelinde popüler hac yerleri belirledi ve böylece Vatikan gezginler için popüler bir durak haline geldi. Bu da yeni yenilemeleri – konaklama tesisleri, bir pazar yeri (Borgo) ve daha yüksek ve daha gösterişli surları – gerekli kıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VATICAN_CITY_CHAPTER_HISTORY_PARA_3">
+			<Text>Belki de Neron ve bahçelerine karşı nihai bir intikam olarak Vatikan, çılgın İmparator'unkileri çok aşan bir Rönesans sanatına ev sahipliği yaptı. Bunların en ünlüsü, Papa II. Julius'un siparişi üzerine Michelangelo tarafından 1508'de yapılan tavanıyla Sistina Şapeli'dir. Julius ayrıca, artık bin yıllık olan Aziz Petrus Bazilikası'nı yeniden şekillendirmek istemiş ve yeni bir bazilikanın inşasını başlatmıştı. Bu yapı, yüz yıldan uzun bir süre sonra, 1626'da tamamlandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VATICAN_CITY_CHAPTER_HISTORY_PARA_4">
+			<Text>Katolik Kilisesi'nin kalbi olarak Vatikan, birçok önemli kararın alındığı yerdi. Batı Roma İmparatorluğu'nun çöküşüne, Doğu Ortodoks Kilisesi ile yaşanan ayrılığa ve Orta Çağ'a tanıklık ederek varlığını sürdürdü. 14. yüzyılda papalar kısa bir süreliğine Vatikan'ı terk edip Fransa'ya gittilerse de birkaç on yıl sonra geri döndüler. Katolik krallar meşruiyet ve destek arayışıyla Vatikan'a yöneldiler; bu yeterli olmadığında ise girişimci papalar İtalya'ya doğru genişleyerek Papalık Devletleri'ni kurdular.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VATICAN_CITY_CHAPTER_HISTORY_PARA_5">
+			<Text>Ancak laik güçler yükselişteydi ve 1870'te artık birleşmiş olan İtalya, Vatikan dışındaki papalık topraklarına el koydu. Bu ihtilaf, 1929'da Benito Mussolini'nin Kutsal Makam'a kayıpları için tazminat ödemesi ve Vatikan'ı bağımsız bir devlet olarak tanımasına kadar çözümsüz kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VATICAN_CITY_CHAPTER_HISTORY_PARA_6">
+			<Text>Günümüzde Papa hâlâ Vatikan'da ikamet etmektedir ve Vatikan, dünya meselelerinde – kültürel, dinî ve siyasi – önemli bir ses olmaya devam etmektedir. Hâlâ etkileyici sanat müzelerine, mimari harikalara ve bahçelere ev sahipliği yapmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TARUGA_CHAPTER_HISTORY_PARA_1">
+			<Text>Taruga, Orta Nijerya'da bulunan ve Batı Afrika'daki en erken demir üretimine dair kanıtlar barındırmasıyla önem taşıyan bir arkeolojik sit alanının adıdır. Ayrıca bu alan, karmaşık saç stilleri ve uzun yüz hatlarına sahip etkileyici pişmiş toprak figürinler ortaya çıkarmış olup, bu figürinler bölgedeki ilk sanatsal ve bilimsel ilerlemeler arasında yer almaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TARUGA_CHAPTER_HISTORY_PARA_2">
+			<Text>Taruga'da yaşayan insanların şehirlerine ne ad verdikleri, kendilerine ne dedikleri gibi bilgiler tarihin karanlığında kaybolmuştur. Arkeologlar, başka bir ikonik sit alanına atfen onları "Nok kültürü" olarak adlandırmışlardır. Arkeologlar "Nok halkı" ya da "Nok imparatorluğu" yerine "Nok kültürü" terimini kullanmaktadır; çünkü bu topluluğun siyasi bir birlik paylaşıp paylaşmadığını ya da belirli bir halk mı yoksa ortak bir kültürü paylaşan bir grup mu olduğunu bilmiyoruz. Günümüz Portekizi ile yaklaşık aynı büyüklükte olan toprakları, günümüz Nijerya'sının büyük bölümünü ve başkenti Abuja'yı kapsıyordu. Nok kültürü, en geniş sınırlarına MÖ 500 civarında ulaşmış olsa da, daha yeni arkeolojik araştırmalara göre neredeyse bin yıl önce ortaya çıkmış olabilir. Akrabalık ilişkilerinin ötesine geçen bir toplumsal örgütlenme sistemine sahiptiler; bu sistem, seçkin bir yönetici sınıfını da içeriyordu. Nok heykellerinde balkabakları tasvir edilirken, yerleşimlerinde sorgum ve darı tanelerinin izlerine rastlanmıştır. Nok nüfusu büyüdükçe, bu ürünlerin kontrolü, ticareti ve depolanması giderek daha önemli ve karmaşık hale gelmiş; bu da büyük tahıl ambarları ve ticaret ağlarının oluşmasına yol açmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TARUGA_CHAPTER_HISTORY_PARA_3">
+			<Text>Noklar, dünya tarihinde iki açıdan büyük önem taşır: demir işçiliğini erken dönemde keşfetmeleri ve pişmiş toprak heykelleri. Nok demir ocakları, tarım aletlerinin yanı sıra savaş aletleri de üretiyordu – Nok sanatında savaş belirgin bir şekilde yer almasa da, Nok okları ve mızrakları farklı bir hikâye anlatmaktadır. Nok heykelleri, gündelik hayatın ve fantastik ögelerin bir karışımıdır. Birçoğu, ritüel silahlar taşıyan, ağızlarının sadece köşelerinde uzamış küçük kare sakalları ve bıyıkları olan erkekleri betimler. Diğerleri ise insan-hayvan melezleridir: insan gözlü bir fil, kuş gagalı insanlar vb.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TARUGA_CHAPTER_HISTORY_PARA_4">
+			<Text>Noklar, bilinmeyen nedenlerle MS 200 civarında gerilemeye başladı. Ancak sonraki Batı Afrika uygarlıkları üzerinde açık bir etki bırakmışlar ve erken bir dönemde yenilikçilik ile bilimsel üretimin bir örneği olmuşlardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HUNZA_CHAPTER_HISTORY_PARA_1">
+			<Text>İspanyollar Güney Amerika'ya vardıklarında, altından bir şehir olan "El Dorado" hikâyeleriyle büyülenmişlerdi. Hayranlıklarının büyük kısmı basit bir açgözlülükten kaynaklansa da, sonraki yazarlar güneşin batışında kerpiçten yapılmış pueblo şehirlerinin kaşiflerin hayal gücünde nasıl bir etki bırakmış olabileceğini sorgulamışlardır. Bu tür fanteziler, Güney Amerika şehirlerinin muazzam zenginliğiyle daha da körüklenmiş olmalıdır. Muisca halkının kalbi olan Hunza, altınla dolu böyle bir yerdi. İspanyollar onu bulduğunda, Güney Amerika'nın en zengin krallıklarından biriydi ve Muisca topraklarının fethinden sonra İspanyol yerleşimlerinin başkent bölgesi, daha sonra Kolombiya olacak topraklarda kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HUNZA_CHAPTER_HISTORY_PARA_2">
+			<Text>Chibcha dilini konuşan Muiscalar, İspanyollar geldiğinde yaklaşık 120.000 ila 160.000 kişiydi. Biri zipa, diğeri ise zaque olarak bilinen krallar tarafından yönetilen iki ana siyasi yapıya bölünmüşlerdi. Bunlar bir tür konfederasyonun krallarıydı: yarı özerk topluluklar içindeki bireyler, sırayla yönetici zaque (veya zipa)'ya bağlı olan bir kaptan tarafından birleştirilirdi. Muisca köyleri, sazdan çatıları, karmaşık bir tanrılar panteonuna adanmış tapınakları ve yöneticiler için saraylarıyla oldukça yoğun bir yerleşim düzenine sahipti. Birçok toplumda olduğu gibi din ve yönetim iç içeydi ve zipa ile zaque, gizemli ezoterik bilgi kaynaklarına sahip çıkarak meşruiyetlerini genişletiyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HUNZA_CHAPTER_HISTORY_PARA_3">
+			<Text>Muisca toprakları zengin ama kuraktı. Mısır yetiştirseler de, daha nemli olan ovalardaki komşularına akınlar düzenleyerek tahılın yanı sıra tarla ve ev işleri için köleler... ve insan kurbanları da götürüyorlardı. Muisca savaşçıları dehşet vericiydi; bu "guecha savaşçıları" bazen güçlerini göstermek için sırtlarında mumyalanmış cesetler taşırlardı – aslında isimlerinin bir çevirisi "ölüm getiren adam" anlamına gelir. Daha barışçıl zamanlarda Muiscalar, komşularıyla gösterişli dokumalar ve zengin madenlerinin ganimetlerini takas ediyorlardı. Günümüzde olduğu gibi, And Dağları'nın bu bölgesindeki madenler zümrüt ve Muiscaların evlerinde yakacak olarak kullandığı kömür üretmektedir. Ve elbette Muiscalar altın işçiliği de yapıyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HUNZA_CHAPTER_HISTORY_PARA_4">
+			<Text>Muiscalar adeta altına boğulmuştu, bazen kelimenin tam anlamıyla. Guatavita Gölü'ndeki tanrılara ibadetlerinde, Muisca inananları kendilerini altın tozuna boyar ve suda yıkanırlardı. Zipa ve zaque için süs eşyaları som altındandı (Muisca madenlerinden değil, ticaret yoluyla elde edilen altın) ve böyle bir figürle karşılaşmak, İspanyolların zihninde fetihten elde edilebilecek kârları – ya da tamamen bu metalden yapılmış efsanevi uzak bir şehri – düşündürmeye başlamış olmalıydı. 1537'de El Dorado'yu arayan bir İspanyol seferi kuvveti, Muisca topraklarının kalbi olan Bogotá savanasına – tarih öncesi bir göl yatağına – ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HUNZA_CHAPTER_HISTORY_PARA_5">
+			<Text>Muisca lideri Quemuenchatocha, İspanyolların oluşturduğu tehdidin farkına vardı ve onlardan gizlenmeye çalıştı. Ancak bu durum uzun süre devam edemedi; İspanyollar onu altınlar ve zümrütlerle süslü bir halde bulduklarında, yoldaşları kaçıştı. İspanyollar onun değerli eşyalarına – ve kendisine – el koydular. Onun toprakları olan Hunza'da İspanyol kasabası Tunja inşa edildi ve daha sonra başkent olacak Bogotá, verimli Muisca toprakları üzerinde kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HUNZA_CHAPTER_HISTORY_PARA_6">
+			<Text>Günümüzde, yakın tarihli bir nüfus sayımı Kolombiya'da on beş binin altında Muisca'nın kaldığını tespit etmiştir. Yerel gruplar yakın zamanda Kolombiya'daki çevresel yıkımı protesto etmek ve kültürel miraslarını korumak için konseyler oluşturmuşlardır.</Text>
+		</Row>
+		<!-- great people -->
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_JOSE_DE_SUCRE_CHAPTER_HISTORY_PARA_1">
+			<Text>"Ekvador ve Peru'nun Kurtarıcısı" olarak anılan Antonio José de Sucre, İspanya'ya karşı bağımsızlık savaşları sırasında Simon Bolívar'ın başyardımcısıydı. Askerî kariyerine 15 yaşında başladı ve kısa sürede cumhuriyetçi (Kralcı İspanyol yanlısı görüşün aksine) davaya dahil oldu. En ünlü zaferi, kralcı güçlerin dağınık ve düzensiz bir cumhuriyet ordusuyla karşılaşmayı bekleyerek akılsızca kuvvetlerini zayıflatıp Sucre'ye saldırdığı Ayacucho Muharebesi'nde kazanıldı. Sucre'nin askerleri sağlam durdu ve kralcıların kanatlama manevrasını daha mevzi alamadan bozguna uğrattı. Bu savaş, Peru'nun ve Güney Amerika'nın yüksek bölgelerinin bağımsızlığını güvence altına aldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_JOSE_DE_SUCRE_CHAPTER_HISTORY_PARA_2">
+			<Text>Sucre daha sonra Yukarı Peru'nun (günümüzdeki Bolivya'nın) seçilmiş ilk lideri oldu ve gümüş bakımından zengin bu bölgeyi geri almaya yönelik birçok İspanyol yanlısı girişimi bozguna uğrattı. Ancak zaferin ardından yerel generaller kendi aralarında çatışmaya başladı. Sucre'nin yeni ulus için Katolik Kilisesi'nin topraklarına el koyma girişimi, özellikle Güney Amerika'daki muhafazakâr kesimleri derinden rahatsız etti. Nihayetinde 1830 yılında, bağımsız bir Ekvador yaratmayı hedefleyen bir rakibinin planının parçası olarak pusuya düşürülüp öldürüldü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PAULA_SANTANDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Simon Bolivar'ın uzun süreli muadili olan Francisco de Paula Santander, Kurtarıcı'ya hem müttefik hem de düşman olmuş ve bugün hâlâ Kolombiya'nın en büyük kahramanları arasında yer almaktadır. Kolombiya'daki İspanyol gücünün kalbine yönelik bir saldırı olan belirleyici Boyaca Muharebesi'nde iki başkomutandan biri olarak görev yaptı. Bu harekât öncesinde Bolivar'la birlikte, İspanyolları hazırlıksız yakalamak için yağmurla kabarmış nehirlerden ve buzlu dağ geçitlerinden geçen yıpratıcı bir yürüyüşe öncülük etmişti. Bu muharebe Kolombiya zaferini güvence altına aldı ve bu başarı Bolivar'ı Büyük Kolombiya'nın kurtuluşunu tamamlamış ilan etmeye sevk etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PAULA_SANTANDER_CHAPTER_HISTORY_PARA_2">
+			<Text>Ne var ki ortaklıkları zor günler geçirecekti. Bolivar liderler için ömür boyu yönetimi savunur ve kendisine bir kişilik kültü inşa ederken, sonradan 'Yasaların Adamı' olarak anılacak olan Santander anayasal yönetimi tercih ediyordu. Bolivar'ın kendini diktatör ilan etmesiyle muhalefeti daha da güçlendi; Santander bu durumu hiçbir şekilde destekleyemezdi. Muhalefeti ona, aralarında general arkadaşlarının da bulunduğu birçok Bolivar taraftarının düşmanlığını kazandırdı. Ancak Santander, Bolivar taraftarlarının yanı sıra Büyük Kolombiya'nın daha küçük, bağımsız birimlere bölünmesini isteyenlerle de karşı karşıyaydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PAULA_SANTANDER_CHAPTER_HISTORY_PARA_3">
+			<Text>Bolivar'a karşı bir komploya karıştığı iddiasıyla Santander sürgüne gönderildi. Ancak Bolivar yumuşadı ve yıllar sonra, Büyük Kolombiya daha küçük devletlere bölündükten sonra Santander'in geri dönmesine izin verildi. Yeni Granada'nın cumhurbaşkanı oldu ve bugün Kolombiya'da, özellikle hukukun üstünlüğünü ve askerî gücün denetimini savunanlar için merkezî bir figür olmaya devam etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_ANTONIO_PAEZ_CHAPTER_HISTORY_PARA_1">
+			<Text>At sırtındaki hüneri nedeniyle 'Ovaların Centaur'u' olarak anılan José Antonio Páez, tarih yazarı Mike Duncan'ın deyimiyle, 'kısa boylu, tıknaz, okuma yazma bilmeyen bir kovboy' olarak Venezuela'nın uzak güneyindeki 'llanos' adı verilen otlaklarda doğdu. Askerî kariyerinden önce Páez bir çiftlik işçisi ve sığırtmaçtı. Ancak devrim dalgası Güney Amerika'yı kasıp kavururken Páez, bir grup llaneroyu –Venezuelalı kovboyları– şaşırtıcı derecede etkili bir süvari birliği hâlinde örgütledi. Bu süreçte çoğunlukla Bolivar'dan bağımsız hareket etti ve Bolivar'ın generali Santander'in birleşme yönündeki çabalarını reddetti. Ne var ki Páez ve Bolivar nihayet karşılaştıklarında yıkıcı bir güç olduklarını kanıtladılar. Bir muharebede Páez, 1100 adamı 4000 kralcıya karşı yönetti ve İspanyolları defalarca şaşırtarak zafer kazandı. Süvarilerini geceleyin İspanyol kampına sürdü, kuru topraktan toz kaldırttı ve ardından bu toz bulutunun içinden hücuma geçti. İspanyollar kuru otlarla kaplı bir alanda yeniden toparlanırken Páez, otları ateşe verdirdi ve adamlarını alevlerin arasından İspanyolların üzerine sürdü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_ANTONIO_PAEZ_CHAPTER_HISTORY_PARA_2">
+			<Text>Bağımsızlıktan sonra Páez, Venezuela egemenliğinin sadık bir savunucusu olarak kaldı; Büyük Kolombiya'nın otoritesine ve Santander yönetimine karşı bir isyan başlattı (Páez, otoriter ve karizmatik Bolivar'ı 'Yasaların Adamı' Santander'e tercih ediyordu). Venezuela bağımsız olduktan sonra Páez ülkenin ilk cumhurbaşkanı oldu. Ancak bu uzun sürmedi. Rakipleri onu devirdi ve Ovaların Centaur'u kendi Venezuela'sı için yeniden savaşmak zorunda kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_URDANETA_CHAPTER_HISTORY_PARA_1">
+			<Text>Rafael Urdaneta, Bolivar'ın Venezuela'daki İspanyol yönetimine karşı yürüttüğü 'Hayranlık Uyandıran Sefer'de bir generaldi ve bağımsızlıktan sonra kıdemli bir devlet adamı hâline geldi. Bolivar'ın 'Parlak' diye hitap ettiği Urdaneta, Kurtarıcı'ya son derece sadıktı ve onu iç ve dış tehditlerden korumaya çalıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_URDANETA_CHAPTER_HISTORY_PARA_2">
+			<Text>Bağımsızlıktan sonra Urdaneta, anayasal yönetimi savunan bir diğer Bolivar sırdaşı Francisco de Paula Santander ile çatıştı. Santander, Bolivar'a sadık birlikleri başkentten uzaklaştırmaya çalıştı, ancak bu girişim Santander yanlısı gruplarla Bolivar yanlıları arasında bir çatışmayı kışkırttı. Santander'in uzaklaştırılmasıyla Urdaneta, Kolombiya'nın kontrolünü ele geçirdi ve yaşlı ve güçsüz Bolivar'ı iktidara dönmeye ikna etmeye çalıştı. Bolivar bunu reddedince Urdaneta, Santander yanlısı güçler tarafından devrildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MARINO_CHAPTER_HISTORY_PARA_1">
+			<Text>Büyük Kolombiya, geniş bir coğrafyada çatışmalarla boğuşuyordu. Zaman zaman Bolivar, Venezuela'yı kurtarmak için 'Hayranlık Uyandıran Sefer'de olduğu gibi doğrudan çatışma bölgelerine askerî harekât düzenledi. Ancak zaman zaman cumhuriyetçi (kralcılık karşıtı) ordular neredeyse bağımsız hareket ediyor gibiydi. Santiago Mariño da böyle bir durumdu. Aslen günümüz Venezuela'sındaki Margarita Adası'ndan olan Mariño, bölgeyi İspanyollardan tek başına kurtarmaya kalkıştı. Bolivar batıdan istila ederken, Mariño doğudan Venezuela'ya saldırdı. Her ikisi de aynı dava için savaştıklarını iddia ediyor, ancak hiçbiri diğerini üstün tanımıyordu. Rivayete göre, tam üniformasıyla birlikte olan Mariño bir gün yardımcısına şöyle övünmüş: 'Antonio, ben gencim, zenginim, yakışıklıyım, 25 yaşında Başkomutanım! Neyim eksik?' Yardımcısı yalnızca 'Sağduyunuz,' diye yanıtlamış.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MARINO_CHAPTER_HISTORY_PARA_2">
+			<Text>Mariño eninde sonunda geri adım atmak zorunda kaldı ve Bolivar ona Venezuela cephesinin komutasını verdi. İkisi birlikte savaşmaya devam etti, hatta kendi generalleri José Ribas tarafından birlikte tutuklandılar; Ribas, Büyük Kolombiya'nın batı yarısını yönetmeye çalışıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MARINO_CHAPTER_HISTORY_PARA_3">
+			<Text>Tüm bunlara rağmen Mariño her zaman kendi Venezuela devleti hayalini besledi. José Antonio Páez nihayet bağımsız bir Venezuela ilan ettiğinde, Mariño da buna karşılık bağımsız bir 'Doğu Devleti' ilan etti. Genç devleti bastırılınca Mariño kaçmak zorunda kaldı, ancak inancı sarsılmadı; bir darbe girişimine öncülük edecek ve daha sonra, Páez'in rakipleri iktidarı ele geçirip eski Cumhurbaşkanı'nı devirdiğinde, onunla sahada karşılaşacak ve mağlup edecekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MACGREGOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarihçi Richard Slatta, İskoç maceraperesti 'yılmaz ve belki de tamamen aklı başında değil' olarak tanımlar. Bu tanım uygun düşüyor gibidir. Gregor MacGregor, Napolyon'a karşı savaşlarda dövüşmüş genç bir İskoç askerdi; ancak asıl ününü, kendisine uydurma şövalyelik ve soyluluk unvanları takarak Edinburgh'da lüks bir faytonla gezmesine borçluydu. Latin Amerika'nın İspanyol egemenliğine karşı mücadelesini duyunca MacGregor, harekete katılmak için Karakas'a taşındı ve devrimci davayı destekleme isteğini bildirdi. Yerel askerî otoriteler, MacGregor'un tuhaflıklarını görmezden gelerek veya göz ardı ederek, deneyimli bir askeri istihdam etmenin faydasını gördü ve MacGregor'u birliklerin eğitimiyle görevlendirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MACGREGOR_CHAPTER_HISTORY_PARA_2">
+			<Text>Kısa süre sonra kendini yeniden askerî harekâtın içinde buldu ve en ünlü manevrası bir zaferden ziyade bir geri çekilmeydi. İspanyol güçlerine karşı bir yenilginin ardından MacGregor, birliklerini Venezuela boyunca hareket ettirerek peşlerindeki kralcıları bir adım önde takip etti. Ardından yeni bir kuvvet tarafından yolu kesilince düşmanlarını bir bataklığa çekti ve çoğunlukla yerli okçulardan oluşan birlikleriyle üzerlerine ok yağmurları yağdırarak onları kıskıvrak yakaladı. Bu başarısından ötürü Bolivar ona 'Amerikaların Ksenophon'u' adını verdi; bu unvanı, peşindeki Pers kuvvetlerini afallatan Yunan komutana atfen almıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MACGREGOR_CHAPTER_HISTORY_PARA_3">
+			<Text>Daha sonra MacGregor bir dizi tuhaf (yanlış) maceraya atıldı. Florida'yı işgal etmeyi düşündü; o zamanlar hâlâ İspanyol egemenliğinde olan bu bölgenin, Karayipler'de daha fazla sömürgecilik karşıtı müdahale başlatmak için uygun bir üs olacağını düşünüyordu. Ancak bu girişim, Florida'yı kısa süre sonra İspanya'dan satın alacak olan Amerika Birleşik Devletleri tarafından durduruldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MACGREGOR_CHAPTER_HISTORY_PARA_4">
+			<Text>Ardından Avrupa'ya döndü ve (hayali) bir Güney Amerika ülkesinin lideri olduğunu iddia etti. Zengin İngiliz ve İskoç yatırımcılardan para toplayarak küçük bir servet biriktirdi, ta ki gerçek ortaya çıkana kadar. 'Poyais'e varan yatırımcılar, orman dışında hiçbir şeyle karşılaşmadı. Hayatının ilerleyen dönemlerinde Venezuela'ya döndü ve eski yoldaşlarını, bir gazi maaşıyla emekli olmasına izin vermeleri konusunda başarıyla ikna etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PIAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Latin Amerika bağımsızlık savaşlarının kaosu içinde, geleceğe dair yeni vizyonlar filizlendi, tartışıldı ve zaman zaman söndü. Hangi yeni devletler ortaya çıkacaktı? Nasıl yönetileceklerdi? Bu devletlerde farklı soylardan gelen insanların kaderi ne olacaktı? Manuel Piar, bu ütopik umudun bir kısmını ve aynı zamanda kırılganlığını somutlaştırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PIAR_CHAPTER_HISTORY_PARA_2">
+			<Text>Piar bir 'morisco'ydu; bu sözcük İspanyol kolonilerinde annesinin karışık Avrupalı ve Afrikalı soydan geldiği anlamına geliyordu. Bu durum, criollo (Avrupa soylu) yoldaşlarından belirli bir düzeyde ayrımcılık görmesine yol açtı; bu da muhtemelen savaşma motivasyonunu ve nihayetinde kaderini etkilemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PIAR_CHAPTER_HISTORY_PARA_3">
+			<Text>Piar, ilk olarak İngilizleri Curaçao'dan çıkarma girişimiyle başlayarak birçok farklı sömürge rejimine karşı savaştı. Ardından, Yeni Dünya'daki ilk gerçek kölelik karşıtı devrimlerden biri olan Haiti Devrimi'nde savaşmaya başladı. Haiti'den sonra Piar, Bolivar'a ve Latin Amerika bağımsızlık mücadelesine katıldı, ancak daha da ileri giderek Santiago Mariño'ya katılıp Guayana'yı kurtarmaya (ve muhtemelen ele geçirmeye) çalıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_PIAR_CHAPTER_HISTORY_PARA_4">
+			<Text>Piar'ın temel motivasyonu, ister kendi kişisel deneyimlerinden ister Haitili isyancılar arasında geçirdiği zamandan kaynaklanmış olsun, saf Avrupa kanı taşımayan Latin Amerikalılar olan melez nüfus için eşit haklardı. Bağımsızlık sonrası Bolivar rejimine karşı yürüttüğü ajitasyon, unvanının elinden alınmasına yol açtı ve o da Guayana'ya kaçtı. Orada, Marino, José Félix Ribas ve Bolivar'ın Latin Amerika'sının şekillenme biçiminden memnun olmayan diğer generallerle bir araya geldi. Bu isyan ona – ve yalnızca ona – hayatına mal olacaktı. Bolivar onu tutuklattı ve ardından idam ettirdi. Piar'ın ölüm haberini alan Bolivar'ın 'Kendi kanımı akıttım' dediği rivayet edilir; bu bir pişmanlık ifadesi ya da sadece bir hikâye olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_NARINO_CHAPTER_HISTORY_PARA_1">
+			<Text>Latin Amerika bağımsızlık savaşları, Fransız Devrimi'nin hemen ardından geldi ve kısmen bu mücadelenin ideallerinden ilham aldı. Bogota'nın varlıklı bir tüccarı olan Antonio Nariño için de durum kesinlikle böyleydi. Nariño, Fransız ve Amerikan Devrimi liderlerine hayrandı (evinde şöminenin üzerine Benjamin Franklin'in bir portresini asmıştı). Nariño, Fransız İnsan ve Yurttaş Hakları Bildirisi'ni çevirip bastırdı ve Latin Amerika'daki yeni doğan devrimcilere dağıttı; bu da onu İspanyol yetkililerle başını derde soktu. Bildirinin özgür siyasi örgütlenme, ulusal egemenlik ve toplumsal ayrımların yalnızca ortak iyilik için var olması gerektiği yönündeki çağrıları, monarşi fikrine dayanan İspanyol otorite iddiasıyla ters düştü. Ancak Nariño işi daha da ileri götürerek koloni genel valisine 'insanlar her yerde' İspanyol yönetiminden memnuniyetsiz olduğunu yazdı. Bu nedenle Nariño, Devrimin 'Öncüsü' olarak adlandırıldı. Ayrıca tutuklandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_NARINO_CHAPTER_HISTORY_PARA_2">
+			<Text>Fakat o geri dönecekti. 1811'de Nariño, devrimciler tarafından hücresinden kurtarıldı ve Yeni Granada kuvvetlerine komuta ederek devrimciler adına Popayán'ı (Kolombiya) ele geçirdi. Devrimlerdeki rolü sayesinde Nariño'nun adı Kolombiya milli marşında yer alır ve kendisi günümüz cumhuriyetinin bir kahramanı olarak kabul edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MONTILLA_CHAPTER_HISTORY_PARA_1">
+			<Text>Mariano Montilla, bağımsızlığın ilk destekçileri arasındaydı; 1810'da Venezuela devletinin bağımsızlık ilanında hazır bulundu. Ancak bu devrim ve Birinci Venezuela Cumhuriyeti uzun ömürlü olmadı. 1812'deki yıkıcı bir deprem ve bir dizi askeri yenilginin ardından Cumhuriyet yok oldu ve Montilla Amerika Birleşik Devletleri'ne kaçtı. Böylece Cumhuriyet'in çöküşünü izleyen şiddet dalgasının en kötüsünden kurtuldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MONTILLA_CHAPTER_HISTORY_PARA_2">
+			<Text>Montilla sürgündeyken Bolívar, Venezuela'yı batıdan kurtarmak için 'Hayranlık Uyandıran Sefer'ine başladı; aynı anda Mariño da doğudaki seferine girişmişti. Montilla geri döndü ve bir zamanlar bağımsız bir Venezuela (birleşik bir Büyük Kolombiya'nın aksine) için savaşmış olmasına rağmen Bolívar'ın kuvvetlerine katıldı. Montilla, San Mateo, Ocumare ve Carabobo'nun savunmasında savaştı. Ayrıca Cartagena şehrinin savunmasına liderlik etti, ancak şehir düştüğünde Montilla – yine – kuzeye sürgüne gitmek zorunda kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MONTILLA_CHAPTER_HISTORY_PARA_3">
+			<Text>Tekrar döndü; bu kez Margarita Adası'ndaki bir İrlanda birliğinin başına getirildi. Oradan, Karayip kıyısı boyunca kralcıların işgalindeki topraklara akınlar düzenledi ve nihayetinde bir Cartagena kuşatmasına daha katıldı – bu kez kuşatan tarafında ve bu kez zaferle sonuçlandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_MONTILLA_CHAPTER_HISTORY_PARA_4">
+			<Text>Bağımsızlıktan sonra Montilla, Büyük Kolombiya siyasetinin Bolívarist kanadını destekledi. Bu nedenle bir kez daha sürgüne gönderildi ve bir kez daha geri döndü; bu sefer yeniden destek vermek ve nihayet bağımsız bir Venezuela'nın kuruluşunu görmek için. Naşı şu anda Karakas'taki en yüksek onur makamında, Venezuela Ulusal Panteonu'nda yatmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_RIBAS_CHAPTER_HISTORY_PARA_1">
+			<Text>José Félix Ribas, İspanyol tacına karşı Latin Amerika savaşlarında bir bağımsızlık lideriydi. Venezuela doğumlu olan Ribas'ın askeri bir geçmişi yoktu, ancak İspanyol yönetimine karşı ajitasyonda aktifti. Aynı zamanda zengindi ve kendi taburunu finanse ederek askeri bir mevki elde edebildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_RIBAS_CHAPTER_HISTORY_PARA_2">
+			<Text>Ribas'ın en önemli askeri zaferi, kralcıların şehri kuşattığı La Victoria Muharebesi'ydi. Adamları azalan Ribas, yerel kolej ve seminerlerden öğrencileri silahlandırdı ve onlara şöyle dedi: “Zaferle ölüm arasında seçim yapamayız; zafer kazanmalıyız!” Ve zaferi kazandı – Morales komutasındaki İspanyol kuvvetleri yenilgiye uğratıldı. Ribas, “Zorbaların Galibi” unvanını kazandı ve savaşın yıldönümü, Ribas'ın öğrencileri silahlandırmasını anmak için Venezuela'da Gençlik Günü olarak kutlanmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_RIBAS_CHAPTER_HISTORY_PARA_3">
+			<Text>Ribas'ın kariyeri yalnızca şanlı yükselişlerden ibaret değildi. Bir noktada, Aragua de Barcelona'daki bir yenilginin cumhuriyetçi güçleri dağıtmasının ardından Bolívar'ı bile tutukladı. Bolívar, şehrin kilise gümüşlerini alarak Margarita Adası'na deniz yoluyla kaçtı. Bolívar'ın kaçışını gören ve Büyük Kolombiya üzerinde hak iddia etme fırsatı yakalayan Ribas, Bolívar'ı hain ilan etti; ancak daha sonra bu kararından vazgeçti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_COMMANDANTE_RIBAS_CHAPTER_HISTORY_PARA_4">
+			<Text>Ribas, sonunu Urica Muharebesi'nde bulacaktı. Devasa bir çatışmada Ribas'ın kralcı rakibi Boves öldürüldü, ancak Boves'in kuvvetleri direnerek günü İspanyollar adına kazandı. Ribas kaçtı ancak kralcılar tarafından bulunarak öldürüldü. Yine de bu yenilgiye rağmen Boves'in ölümü, birçok Venezuelalı llaneronun (süvariye dönüşen kovboylar) İspanyol tarafından ayrılarak karizmatik cumhuriyetçi lider Páez'e katılmasına yol açtı. Urica ve La Victoria sayesinde Ribas, Latin Amerika bağımsızlık davasının bir kahramanı olarak anılmaya devam etmektedir.</Text>
+		</Row>
+		<!-- features -->
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_BERMUDA_TRIANGLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Her şey garip ışıklarla ilgili raporlarla başladı. Zamanla kayıp gemiler ve hayalet mürettebatlı tekneler hikâyelerine dönüştü. 19. yüzyılın ortalarından beri (hatta Kolomb'un günlüklerine inanılacak olursa daha da öncesinden), Bermuda Şeytan Üçgeni olarak bilinen bölgede gemiler ve uçaklar kaybolmaktadır. Üçgen içinde 50'den fazla gemi ve 20 uçağın iz bırakmadan yok olduğu iddia edilmektedir. Uzaylılar, bu toplu ulaşım ve insan kayıpları için popüler bir teori olsa da üçgeni açıklamak için daha sıradan hipotezler de mevcuttur. Bazı bilim insanları, gemileri batırmış olabilecek 'hava bombaları' veya mikro patlamalar olduğunu öne sürmektedir. Diğer bilim insanları ise dev 'hayalet dalgalar' veya pusulalarda gerçek kuzeyi yanlış gösteren manyetik kaymalardan söz etmektedir. Süregelen efsanelere ve söylentilere rağmen, Bermuda Şeytan Üçgeni'ndeki kaybolma ve batma sıklığının, işlek okyanusun diğer bölgelerinden daha fazla olmadığı genel kabul görmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_FOUNTAIN_OF_YOUTH_CHAPTER_HISTORY_PARA_1">
+			<Text>Efsanedeki Gençlik Pınarı, beton veya taştan bir çeşmeden ziyade, içen veya yıkanan herkesin gençliğini geri kazandırdığı söylenen bir kaynaktır. Güvenilir Herodot, bu pınardan MÖ 5. yüzyılda söz etmişti ve Büyük İskender'in de yüz yıl sonra iyileştirici bir nehir bulduğu rivayet edilir. Ne yazık ki ikisi de, yaşlılık ve yaralar onları sırasıyla Hades'e götürdüğünde kendilerine yardımcı olması için bu sudan şişeleyip saklamadılar. Sayısız yüzyıl boyunca bu mit varlığını sürdürdü ve Juan Ponce de Leon gibi kâşifler, bu mistik kaynağı aramak için sayısız yıl harcadı. Eğer bulan olduysa, sırrı dünyayla paylaşmadı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_PAITITI_CHAPTER_HISTORY_PARA_1">
+			<Text>İnsanoğlu, 'kayıp şehirlerin', özellikle de Altın Şehirler'in peşinde koşarken, büyük zenginlik ve refah efsanelerine yönelme eğilimindedir. Çoğu mistik şehir gibi, Païtiti'nin de keşfedilmeyi bekleyen bilinmez vahşi doğanın derinliklerinde var olduğu düşünülmektedir. İnkalar bu şehri, İspanyol Fethi'nden son sığınak olarak gördüler. Ancak başkaları (ağırlıklı olarak 1600'lerden İnka kökenli olmayan kâşifler) şehri yağmayı bekleyen bir hazine sandığı olarak algıladı. Païtiti'nin zenginlik efsaneleri, Francisco Pizarro'nun saldırısı ve son İnka hükümdarı Atahualpa'yı öldürmesiyle körüklendi. Var olduğu söylenen kalan altını aradı, ancak Pizarro, fetihinden elde etmek için çaresizce uğraştığı iddia edilen altının tamamını asla ele geçiremedi. Amazon'un 'bilinmez' ormanlarına yapılan sayısız sefere rağmen, hiçbir kâşif Païtiti'nin yerini henüz keşfedememiştir.</Text>
+		</Row>
+    <Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FIRES_TITLE">
+      <Text>Orman Yangınları</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FIRES_PARA_1">
+      <Text>Orman veya Yağmur Ormanı içeren herhangi bir bölge (tile) alev alabilir. Yangın üç tur boyunca şiddetle yanar, bölgedeki geliştirmeleri yok eder, sahibi olan şehrin nüfusunu azaltır ve birliklere hasar verir. İkinci ve üçüncü turlarda bu yangın, bitişikteki herhangi bir Orman veya Yağmur Ormanı bölgesine sıçrayabilir.</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FIRES_PARA_2">
+      <Text>Yangın söndüğünde, Orman veya Yağmur Ormanı'nın yerini Yanmış bir varyant alır ve bölgenin [ICON_Food] Besin getirisini artırır. Sonraki 3 tur boyunca, normal haline dönene kadar yeniden büyür ve bu noktada bölgenin [ICON_Production] Üretim getirisini de artırır.</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_SHOWERS_TITLE">
+      <Text>Meteor Yağmurları</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_SHOWERS_PARA_1">
+      <Text>Göktaşları, oyuncu bölgeleri arasındaki boşlukta karadaki herhangi bir yere yağabilir ve arkalarında bir Göktaşı Bölgesi bırakır. Herhangi bir birim bu Göktaşı Bölgesi'ni toplayarak düşen kayalardaki kolayca erişilebilir gelişmiş cevherleri toplar ve en yakın şehirlerine ücretsiz bir Ağır Süvari Birliği kazandırır. Bu birimin kaynak bakım maliyeti yoktur.</Text>
+    </Row>
+	<!-- promotions -->
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_NIHANG_SUZERAIN_COMBAT_BONUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir Nihang'ın kuşandığı ilk teçhizat parçalarından biri kara, yani çelik bileziktir. Savaşçının en güçlü eline takılan bu bilezik, hem kılıç dövüşleri sırasında fiziksel bir savunma sağlar hem de Nihang'ın ettiği yeminlerin bir simgesiydi. Onun gücü, savaşçının Tanrı'ya olan bağlılığının gücüydü ve kesintisiz çelik halka da Tanrı'nın ebedi varlığını ve takan kişinin sarsılmaz inancını simgeliyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_NIHANG_MOVEMENT_BONUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir Nihang, kılıcıyla, silahıyla... ve ayakkabılarıyla savaşmayı öğrenirdi. Cengi muceler, askerin tekmelerine ekstra ölümcül bir keskinlik kazandıran bıçaklı terliklerdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_NIHANG_FLANKED_BONUS_CHAPTER_HISTORY_PARA_1">
+			<Text>Tegh, yani basitçe 'kılıç', on yumruk uzunluğunda geniş, kavisli bir namluyu ifade eder; Sihlerin taşıdığı geleneksel kirpan ya da hançere ek bir silahtır. Bu silahlar bağımsızlığa bağlılığı, dünyadaki kötülüğü cezalandırma ve iyiliği koruma yeminini simgeler. Tegh'in kullanımı son çare olmalıydı; nezaket ve yardımseverliğin ('deg' yani 'kazan') yetersiz kaldığı kanıtlandıktan sonra başvurulmalıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_NIHANG_NO_WOUNDED_PENALTY_CHAPTER_HISTORY_PARA_1">
+			<Text>Zincir zırh (sanjo), bin yılın başlarında Persler tarafından getirilmesiyle Pencap'ta uzun bir geçmişe sahiptir ve zincir gömlek, bir Nihang'ın teçhizatının temel bir parçasıydı. 18. yüzyıl savaşlarında tüfekler mevcuttu ve Nihang'lar kesinlikle bunların kullanımında eğitilmişti, ancak tüfekler yavaş ve güvenilmezdi; gerçek bir çarpışma her zaman kılıçlara ve zırha kalırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_NIHANG_FAITH_FOR_VICTORIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Savaşta kendini kanıtlamış bir Nihang için en büyük onur, türbanına üç dişli mızrağı – Trehsool Mukh - takmaktı. Bu, savaşçının Şiva ile olan yakınlığını gösteriyordu ve son çare olarak son derece keskin, çok yakın bir silah sağlıyordu.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

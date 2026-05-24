@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_NUBIA_MOD_TITLE">
+			<Text>Nübye Uygarlık Paketi</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_MOD_TEASER">
+			<Text>Yeni Uygarlık ve Lider: Nübye Kraliçesi Amanitore</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_MOD_DESCRIPTION">
+			<Text>Yeni bir uygarlık ve liderin yanı sıra yeni bir dünya harikası içerir.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_TITLE">
+			<Text>Senaryo: Nil'in Armağanları</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_TEASER">
+			<Text>Nil Nehri vadisindeki en büyük imparatorluk olmayı başarabilecek misin? En fazla 125 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_DESCRIPTION">
+			<Text>Bu 125 turluk senaryoda, imparatorluğunuzu Nil Nehri vadisi boyunca genişleterek büyük tanrı Amun'un en mübarek kıldığı halk olmak için yarışmalısınız. Onun şanına 7 tapınak inşa edin ve zafer sizin olsun!</Text>
+		</Row>
+	</EnglishText>
+</GameData>

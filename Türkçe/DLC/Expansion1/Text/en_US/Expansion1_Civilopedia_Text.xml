@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Sections -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_LEADERS_TITLE">
+			<Text>Uygarlıklar/Liderler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNORS_TITLE">
+			<Text>Valiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_MOMENTS_TITLE">
+			<Text>Tarihi Anlar</Text>
+		</Row>
+		<!-- Page Groups -->
+		<Row Tag="LOC_PEDIA_PAGEGROUP_CIVILIZATIONS_NAME">
+			<Text>Uygarlıklar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGEGROUP_LEADERS_NAME">
+			<Text>Liderler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNORS_PAGEGROUP_GOVERNORS_NAME">
+			<Text>Valiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNORS_PAGEGROUP_PROMOTIONS_NAME">
+			<Text>{1_GovernorShortTitle} Unvanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_MOMENTS_PAGEGROUP_MAJOR_NAME">
+			<Text>Büyük Anlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_MOMENTS_PAGEGROUP_MINOR_NAME">
+			<Text>Küçük Anlar</Text>
+		</Row>
+		<!-- Traits -->
+		<Row Tag="LOC_UI_PEDIA_TITLES">
+			<Text>Unvanlar:</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ERA_SCORE">
+			<Text>Çağ Puanı: {1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_INTEREST_LEVEL">
+			<Text>İlgi Seviyesi: {1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MIN_ERA">
+			<Text>Min. Çağ: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAX_ERA">
+			<Text>Maks. Çağ: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_REQUIRES_DARK_AGE">
+			<Text>Karanlık Çağ</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTION_BASE">
+			<Text>Seviye: Temel</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_PROMOTION_LEVEL">
+			<Text>Seviye: {1_Level}</Text>
+		</Row>
+		<!-- Progression -->
+		<Row Tag="LOC_UI_PEDIA_LEADS_TO_GOVERNOR_PROMOTIONS">
+			<Text>Unvanlara Yönlendirir</Text>
+		</Row>
+		<!-- Concepts -->
+		<!-- Updated Concepts from base game -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_4_CHAPTER_CONTENT_PARA_2">
+			<Text>Her bir uygarlık için ayrı ayrı Diplomatik Görünürlük seviyeleri biriktirmelisiniz. Rakibinizin sizin üzerinizdekinden daha yüksek bir görünürlük seviyesine sahip olmanız durumunda bir muharebe bonusu kazanırsınız. Seviyeler, çeşitli Dedikodu kaynaklarını biriktirerek elde edilebilir. Bu kaynaklar şunları içerir:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Yerleşimci seçiliyken, ideal şehir konumları haritada bir simgeyle gösterilir. Ayrıca ilk Yerleşimcinizden sonraki her bir Yerleşimci, Yerleşimci Merceği'ni etkinleştirerek haritada şehriniz için en iyi su kaynağını sağlayacak bölgeleri ve kullanılamayan bölgeleri işaretler. Negatif Bağlılık işareti taşıyan konumlara karşı dikkatli olun; bu bölgeler diğer uygarlıklara sadıktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
+			<Text>Çekicilik. Her karenin çekicilik seviyesini gösterir.[NEWLINE][NEWLINE]Kıta. Her kıtanın coğrafi sınırlarını gösterir.[NEWLINE][NEWLINE]Bölge Yerleşimi. Harikalar ve bölgeler için geçerli yerleşim konumlarını ve bölgeler için mevcut komşuluk bonuslarını gösterir. Bu, yalnızca bir bölge veya harika inşa etmeye çalışırken görünecektir.[NEWLINE][NEWLINE]Hükümet. Haritadaki hükümetlerin dağılımını gösterir.[NEWLINE][NEWLINE]Politik. Her karenin sahibini gösterir.[NEWLINE][NEWLINE]Din. Haritadaki çoğunluk dinini ve dini takipçi dağılımını gösterir. Bu, bir dini birlik seçildiğinde görünür.[NEWLINE][NEWLINE]Yerleşimci. Önerilen şehir alanlarını ve su mevcudiyetini, ayrıca her karedeki Bağlılık cezalarını gösterir.[NEWLINE][NEWLINE]Turizm. Bir karenin çektiği [ICON_Tourism] Turist sayısını gösterir.[NEWLINE][NEWLINE]İmparatorluk. Şehir sınırlarınızı ve komşuluk bonuslarıyla birlikte bölge konumlarını gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_2">
+			<Text>Ayrıca, Askeri Acil Durum, Şehir Devleti Acil Durumu, Nükleer Acil Durum ve İhanet Acil Durumu hedefine karşı, bu Acil Duruma katılırsanız savaş ilan edersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
+			<Text>+2: Each adjacent Natural Wonder and City Park</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
+			<Text>+1: Each adjacent Golf Course, Château and Sphinx.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_4">
+			<Text>Hükümet Meydanı'nda inşa edilen İstihbarat Teşkilatı binası, ayrıca bir ek Casus ve Casus kapasitesi ekler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_3">
+			<Text>Skandal Uydurma casusluk görevini başarıyla tamamlamak, rakip bir oyuncunun [ICON_ENVOY] Elçilerini hedef alınan şehir devletinden kaldıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Savunma Paktı, iki lider arasında, bir Savaş İlanı'nın hedefi olduklarında birbirlerinin yardımına koşmalarını sağlayan bir anlaşmadır. Savunma Paktı'nın herhangi bir üyesi hedef alınırsa, diğer üye de saldırgana karşı savaş ilan edecektir. İki lider bir İttifak içindeyse, aralarında otomatik olarak bir Savunma Paktı bulunur. Savunma Paktları artık diplomatik anlaşmalarda bir kalem olarak mevcut değildir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Savunma Paktı'nın, bir lideri otomatik olarak savaşa sürüklemediği bazı durumlar vardır. Örneğin, Gılgamış ve Kleopatra arasında bir Savunma Paktı varken, Pedro ve Petro arasında da bir Savunma Paktı olsun. Gılgamış, Pedro'ya savaş ilan ederse, Savunma Paktı gereği Petro, Gılgamış'a savaş ilan eder. Ancak Kleopatra, ne Pedro'ya ne de Petro'ya otomatik olarak savaş ilan etmez. Acil Durumlar da Savunma Paktlarını tetiklemez. Önceki örneğimizi kullanırsak, Pedro'ya karşı bir Acil Durum olsaydı ve Gılgamış, Pedro'ya karşı savaşa girseydi, Petro, Gılgamış'a otomatik olarak savaş ilan etmezdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_12_CHAPTER_CONTENT_PARA_2">
+			<Text>Müttefikler. İttifaklar, Civilopedia'da ayrıntılı olarak açıklanan kendi bölümlerine sahiptir. Bunlar yalnızca İlan Edilmiş Dostlar arasında oluşturulabilir ve İttifak'ın faydalarına ek olarak ortaklar arasında Açık Sınırlar ve bir Savunma Paktı sağlar. Bir İttifak içindeki uygarlıklar birbirlerine savaş ilan edemez. Bir İttifak oluşturmak için Kamu Hizmeti Sosyal Politikası'na sahip olmalısınız.[NEWLINE][NEWLINE]İlan Edilmiş Dost. Bir lidere dostluğunuzu ilan etmeyi seçtiğinizde, birbirinize resmi savaş ilan edemezsiniz ve birbirinizle yaptığınız anlaşmalar daha elverişli olur. Bu ilişki durumu, bir İttifak yapmak için gereklidir.[NEWLINE][NEWLINE]Dostça. Bu, liderin sizin hakkınızda olumlu düşündüğü ve onlarla elverişli anlaşmalar yapma şansınızın daha yüksek olduğu anlamına gelir.[NEWLINE][NEWLINE]Tarafsız. Lideri etkilemek veya üzmek için hiçbir şey yapmadınız, bu nedenle etkileşimleriniz standart olacaktır.[NEWLINE][NEWLINE]Dostça Olmayan. Nedense bu lideri üzecek bir şey yaptınız; onlarla yapacağınız anlaşmalar muhtemelen sizin için elverişsiz olacak veya onlardan taleplerde bulunmayı seçebilirsiniz.[NEWLINE][NEWLINE]Kınanmış. Bu lider, diğer tüm liderlere onları gücendirecek bir şey yaptığınızı bildirmiştir. Onlarla anlaşma yapacak olursanız, bu anlaşmalar elverişsiz olacaktır, ancak onlara karşı Resmî Savaş ilan edebilir ve taleplerde bulunabilirsiniz.[NEWLINE][NEWLINE]Savaşta. Aranızda açık düşmanlıklar başlamıştır; bu lidere saldırabilir veya işgal edebilirsiniz, ancak savaş kışkırtıcılığı ve savaş yorgunluğu cezaları biriktirirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_3">
+			<Text>Bağlılık. Şehirlerin Bağlılığını ve onu etkileyen Bağlılık kaynaklarını gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_PARA_2">
+			<Text>1. Hiçbir kaynaktan [ICON_Gold] Altın, [ICON_Science] Bilim, [ICON_Culture] Kültür veya [ICON_Faith] İnanç alamazsınız.[NEWLINE]2. Anarşi'nin herhangi bir hükümet özel bonusu veya Mirası yoktur.[NEWLINE]3. Politikalarınız hiçbir fayda sağlamaz ve yerleştirilemez.[NEWLINE]4. Anarşi durumu sona erene kadar hükümet değiştiremezsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Yönetim Bilimleri Ağacı aracılığıyla açılan mevcut hükümetler, zaman içinde ilerledikçe değişecektir. Başlangıçta yalnızca birkaç yuvaya sahip basit bir hükümetiniz olacaktır. Ancak daha sonraki çağlara ulaştıkça, farklı kombinasyonlarda daha fazla yuva açılacaktır. Bunun da ötesinde, hükümetlerin kendilerine özgü özel bonusları vardır; örneğin Teokrasi hükümeti, Teolojik Muharebe'de Dini [ICON_Strength] Güç, [ICON_GOVERNOR] Valilere sahip şehirlerde Vatandaş başına [ICON_Faith] İnanç ekler ve kara birliklerini [ICON_Faith] İnanç ile satın almanıza olanak tanır ve aktifken [ICON_Faith] İnanç satın alımlarında indirim sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>Bir oyuncu yalnızca sınırlı sayıda aktif [ICON_TradeRoute] Ticaret Yolu sürdürebilir. Bu kapasite öncelikle sahip olunan Pazar ve Deniz Feneri binalarının sayısına göre belirlenir, ancak başka yollarla da artırılabilir. Pazar ve Deniz Feneri binalarından gelen [ICON_TradeRoute] Ticaret Yollarının aynı şehirde birikmediğini unutmayın—fayda yalnızca inşa ettiğiniz ilk bina için geçerlidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_1">
+			<Text>6 farklı politika türü ve 4 politika yuvası bulunmaktadır. Tüm türler, hükümette aynı türdeki boş bir yuvaya uygulanmalıdır, ancak bir Joker yuvası her tür politikayı barındırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_5">
+			<Text>Joker: Bu politikalar, [ICON_GreatPerson] Büyük Kişi üretim hızını artırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_6">
+			<Text>Hükümet: Bu politikalar, farklı Hükümet türleri için güçlü miras bonusları sağlar. Bunlar, bir Hükümet Meydanı bölgesi ve bir Hükümetin kademesine karşılık gelen binalardan birini inşa ettiğinizde açılır. Örneğin, Klasik Cumhuriyet Hükümeti'ni benimser ve ardından bir Hükümdar Tahtı, Atalar Salonu veya Kabul Odası inşa ederseniz, Cumhuriyetçi Miras Politikası'nı açarsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_7">
+			<Text>Karanlık Çağ: Bir Karanlık Çağ'a girerseniz, yalnızca Karanlık Çağ'da geçerli olan özel Politikalara erişim kazanabilirsiniz. Karanlık Çağ Politikalarının seçimi, Çağlar ilerledikçe değişecektir. Bu politikalar size yardımcı olabilecek özel bir avantaj sağlayabilir, ancak sizi başka yönlerden kısıtlayabilecek bir maliyeti vardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY">
+			<Text>Oyunun başlarında, Amerika'nın tek avantajı kendi kıtasında +5 [ICON_Strength] Muharebe Gücü'dür. Kıtaları boyunca hızla genişlemek ve yakınlardaki şehir devletlerinin desteğini kazanmak isteyeceklerdir. Diplomatik politika yuvalarının joker yuvalara dönüşmesiyle hükümet seçimleri önem kazanır; ancak Klasik Cumhuriyet ve Tüccar Cumhuriyeti, Amerika'nın tercihi olan Kültür Zaferi için en faydalı olanlardır. Ayrıca Hükümet Meydanları'nda Ulusal Tarih Müzesi inşa etmeyi düşünmelidirler. Film Stüdyoları, Milli Park bonusu ve Sanayi sonrası iki eşsiz birimleriyle 20. yüzyıldan itibaren parlamaya başlarlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_1">
+			<Text>Başka bir uygarlığa savaş ilan etmek, oyundaki diğer uygarlıklarla ilişkilerinizde savaş kışkırtıcılığı cezası adı verilen bir cezaya yol açar. Bu, diğer liderlerin eylemlerinize duyduğu güvensizlik veya korkuyu yansıtır. Savaş ilan etmenin en yaygın yolu ve tüm savaş kışkırtıcılığı cezalarının hesaplandığı yöntem Resmî Savaş'tır. Bu yöntemde bir uygarlık önce hedef uygarlığı kınar, ardından Resmî Savaş ilan eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_11_CHAPTER_CONTENT_PARA_2">
+			<Text>Savaş kışkırtıcılığı cezası her çağla birlikte artar; zira savaş, dünyadaki uygarlıklar arasındaki anlaşmazlıklarda giderek daha az kabul edilebilir bir çözüm haline gelir. Savaş kışkırtıcılığı cezası ayrıca ilan ettiğiniz savaşın türüne göre de değişir. Çoğu durumda, savaş ilan etmek ve bir düşman şehrini ele geçirmek size o çağın savaş kışkırtıcılığı cezasını verir; bir şehri yerle bir etmek ise o çağın savaş kışkırtıcılığı cezasının üç katını verir. Bazı Savaş Gerekçeleri (Diplomasi altındaki Savaş Gerekçeleri bölümüne bakın) bu savaş kışkırtıcılığı cezalarını değiştirebilir, belirli eylemler için azaltabilir veya daha maliyetli hale getirebilir. Nükleer silah kullanmak gibi diğer eylemler de savaş kışkırtıcılığı cezanızı değiştirecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_13_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir bölgeyi yağmalamak 3 Hareket Puanı veya tüm hareketinizi gerektirir. Bir bölgedeki her bina ayrı ayrı yağmalanmalıdır ve bölgeye bağlı olarak bir tür yağma ödülü verir. Belirli getiriler için bölgenin sayfasına bakın. Bir kere yağmalandıktan sonra, sahibi tarafından tekrar çevrimiçi hale getirilene kadar (Üretim Menüsü üzerinden yapılır ve o binanın ilk inşasının [ICON_Production] Üretim maliyetinin %25'ini alır) bina tekrar yağmalanamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_2_CHAPTER_CONTENT_PARA_1">
+			<Text>[ICON_Science] Bilim, [ICON_Citizen] Vatandaşlarınız (her [ICON_Citizen] için 0.5), Sarayınız, bazı Politikalar, bazı Dini İnançlar, bazı kaynaklar, harikalar, ticaret ve tabii ki Kampüs bölgesi ve binaları dahil olmak üzere çeşitli kaynaklardan gelir. [ICON_Science] Bilim kaynaklarını bulmak için Civilopedia'ya göz atın.</Text>
+		</Row>
+		<!-- New Concepts -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_EXPANSION_NAME">
+			<Text>Yükseliş ve Çöküş</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_PRIDE_MOMENTS_1_CHAPTER_CONTENT_TITLE">
+			<Text>Tarihi Anlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_PRIDE_MOMENTS_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Tarihi Anlar, oyun tarihi boyunca gerçekleşen önemli olaylardır; yeni bir hükümet biçimini seçen ilk kişi olmaktan, Eşsiz Birim inşa etmeye, Doğa Harikaları keşfetmeye kadar uzanır. Oyun boyunca dünyada bir ilk veya oyuncu olarak bir ilk başarılarını temsil eden düzinelerce Tarihi An bulunur. Bu anlar çağlara göre farklılık gösterir. Örneğin, Antik Çağ'da bir Barbar Kampı'nı temizlemek önemli bir dönüm noktasıyken, Modern Çağ'da birini temizlemek takdiri bile hak etmez. Tarihi Anlarınızı oyun içinde herhangi bir zamanda, üst sol araç çubuğundaki Tarih Zaman Çizelgesi'ne tıklayarak görüntüleyebilirsiniz.[NEWLINE][NEWLINE]Her Tarihi An, o çağ için Çağ Puanınıza eklenir; bu puan, bir sonraki çağda Altın Çağ'a yükselip yükselmeyeceğinizin veya Karanlık Çağ'a batıp batmayacağınızın ölçüsüdür. Bir çağda çok sayıda Tarihi An elde ediyorsanız, bir sonraki çağda Altın Çağ'a girme olasılığınız yüksektir. Dünyada bir Tarihi An'ı elde eden ilk oyuncu olursanız, daha fazla Çağ Puanı kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Altın ve Karanlık Çağlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Oyun çağdan çağa ilerledikçe uygarlığınız bir Altın Çağ'a ya da Karanlık Çağ'a girebilir. Diğer uygarlıklardan daha iyi durumdaysanız veya birçok Tarihi Anı tamamlıyorsanız, bir sonraki çağda Altın Çağ'a girme ihtimaliniz yüksektir. Geride kalmaya başlarsanız, bir Karanlık Çağ'a düşebilirsiniz. [NEWLINE][NEWLINE]Altın Çağ, halkınız için büyük bir refah dönemidir. Bağlılığınız normalden daha düşük bir oranda azalır. Şehirlerinizin uygarlığınızda kalma olasılığı artmakla kalmaz, aynı zamanda yakındaki şehirleri de uygarlığınıza dâhil edebilirsiniz. Ayrıca, bir sonraki çağ için bir Adanma seçebilirsiniz. Adanmalar, uygarlığınızın belirli bir bölümüne uygulanan güçlü bonuslardır. Ancak şunu unutmayın ki bir Altın Çağ kazanmak, bir sonraki Altın Çağ'ı kazanmayı zorlaştırır ve bir Karanlık Çağ'a düşmeyi kolaylaştırır.[NEWLINE][NEWLINE]Karanlık Çağlar, halkınız için zorlu dönemlerdir. Bağlılığınız normalden daha hızlı azalır; bu da uygarlığınızın sınırındaki şehirlerin ayrılarak bağımsız şehirler haline gelmesine veya diğer oyuncular tarafından fethedilip onların uygarlıklarına katılmasına yol açabilir. Bunu, [ICON_GOVERNOR] Valilerinizi kullanarak veya stratejik olarak şehirleri kaybetmeyi seçerek (ve belki de daha sonra geri fethetmeyi umarak) önleyebilirsiniz.[NEWLINE][NEWLINE]Bir Karanlık Çağ'a düşerseniz endişelenmeyin veya çok üzülmeyin, çünkü bir Kahramanlık Çağı'na girme şansınız vardır. Karanlık Çağ'dayken Altın Çağ'a girme eşiğiniz daha düşük olacaktır ve bu Altın Çağ eşiğini geçerseniz, bir Kahramanlık Çağı'na girersiniz. Kahramanlık Çağı, bir sonraki çağda üç Adanma seçmenize olanak tanır! Bu, yeteneklerinizden faydalanabilirseniz sizi Altın Çağ'dan Altın Çağ'a geçen bir oyuncunun önüne geçirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Bir Karanlık Çağ için Çağ Puanı eşiğini aşar ancak bir Altın Çağ'a girecek kadar yüksek puana sahip değilseniz, Normal Çağ'a girersiniz. Normal Çağ boyunca yine de o çağ için bir Adanma seçebilirsiniz, ancak başka herhangi bir bonus veya ceza kazanmazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Karanlık Çağlar ayrıca size özel Karanlık Çağ Politikalarına erişim sağlar. Bu joker politikalar, Karanlık Çağ'dan çıkmak için seçenekler sunabilir, ancak bir bedelleri vardır. Örneğin, Yalnızcılık Politikası, iç [ICON_TradeRoute] Ticaret Yollarına bonus verir, ancak Yerleşimci inşa etmenizi veya satın almanızı ya da yeni şehirler kurmanızı engeller.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOLDEN_AGES_1_CHAPTER_CONTENT_PARA_4">
+			<Text>Normal ve Karanlık Çağ boyunca Adanmaları tamamlayarak Çağ Puanınızı artırabilir, gelecekte bir Altın Çağ kazanma şansınızı yükseltebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_TITLE">
+			<Text>Bağlılık</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Bağlılık, bir şehrin uygarlığınıza olan bağlılığının ölçüsüdür. Her şehrin 0 ila 100 arasında bir Bağlılık değeri vardır; bu değer, şehrin [ICON_Citizen] Vatandaşlarının uygarlığınızın bir parçası olarak kalmak isteme derecesini yansıtır. Bağlılık 75'in altına düştüğünde, şehrin getirileri ve büyümesi %25 cezalandırılır. Bağlılık 25'in altına düştüğünde, şehrin getirileri %50, büyümesi %75 cezalandırılır. Bağlılık 0'a ulaştığında, şehir sahibine isyan eder ve Özgür Şehir haline gelir. Özgür Şehirler hiçbir uygarlığa ait değildir ve askeri müdahalelere karşı kendilerini savunmaya çalışırlar. Bir Özgür Şehrin Bağlılığı 0'a düşerse, bağımsızlık girişimi başarısız olur ve bir uygarlığa katılmak ister. Hangi uygarlığa katılmak istedikleri, bağımsızlıkları sırasında Özgür Şehir üzerinde en fazla baskıyı kimin uyguladığına bağlıdır. Bu şekilde, bir Özgür Şehir barışçıl bir şekilde uygarlığınıza katılabilir (veya uygarlığınıza geri döndürülebilir).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Bağlılık her tur pek çok faktöre bağlı olarak değişir, ancak en önemli faktör, şehirde veya yakınında yaşayan [ICON_Citizen] Vatandaşların baskısıdır. Kendi [ICON_Citizen] Vatandaşlarınızdan gelen baskı, diğer uygarlıkların baskısından ağır basarsa, şehrin Bağlılığı artar (tur başına +20'ye kadar). Diğer uygarlıkların baskısı daha güçlüyse, şehrin Bağlılığı azalır (tur başına -20'ye kadar). Her [ICON_Citizen] Vatandaş, 1 temel baskı uygular, ancak bu değiştirilebilir. Örneğin, bir Başkent'teki [ICON_Citizen] Vatandaşlar ek olarak 1 baskı uygular. Altın ve Kahramanlık Çağları, tüm [ICON_Citizen] Vatandaşlar için 0,5 eklerken, Karanlık Çağlar 0,5 çıkarır. Bu [ICON_Citizen] Vatandaş baskısı, 9 kare içindeki şehirleri etkiler, ancak her kare uzaklıkta %10 daha az etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Şehrin [ICON_GOVERNOR] Valisi ve Mutluluk seviyesi, şehrin tur başına Bağlılığını etkileyen diğer güçlü faktörlerdir. Ayrıca, askeri güçle fethedilen şehirler Bağlılık cezaları alır, ancak şehirde garnizon halinde bir askeri birlik bulundurarak bu cezalar hafifletilebilir. Bağlılık faktörlerini, yakındaki diğer şehirlerden gelen baskı kaynakları da dâhil olmak üzere görmek için Bağlılık merceğini kullanın. Bir şehrin Bağlılığını etkileyen faktörlerin tam dökümü, Şehir Detayları panelinin Bağlılık ve Valiler bölümünde görüntülenebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_LOYALTY_1_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir Din kuran oyuncular için, şehirler o Dini takip ediyorsa +3 Bağlılık alır, ancak başka bir oyuncunun Dinini takip ediyorsa tur başına -3 Bağlılık alır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_TITLE">
+			<Text>Valiler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Valiler [ICON_GOVERNOR] oyuncuların uygarlıklarındaki şehirleri aşağıdaki şekillerde yönetmelerine olanak tanır:[NEWLINE][ICON_BULLET] Eşsiz güç ve yeteneklere sahip Valileri uygarlıklarında hizmet etmek üzere atamak.[NEWLINE][ICON_BULLET] Atanmış Valileri yeni yetenekler ve etkiler açmak için terfi ettirmek.[NEWLINE][ICON_BULLET] Atanmış bir Valiyi uygarlıklarındaki belirli bir şehre atamak.[NEWLINE][ICON_BULLET] Atanmış Valilerin özel yeteneklerini kullanarak o şehirde çeşitli eşsiz etkiler elde etmek.[NEWLINE][ICON_BULLET] Atanmış Valileri şehirde daha güçlü bir Bağlılık oluşturma sürecini hızlandırmak için kullanmak.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_2">
+			<Text>İşe alınıp terfi ettirilebilecek 7 farklı Vali vardır:[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_AMBASSADOR_NAME}  '{LOC_GOVERNOR_THE_AMBASSADOR_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_BUILDER_NAME}  '{LOC_GOVERNOR_THE_BUILDER_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME}  '{LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_CARDINAL_NAME}  '{LOC_GOVERNOR_THE_CARDINAL_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_EDUCATOR_NAME}  '{LOC_GOVERNOR_THE_EDUCATOR_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_MERCHANT_NAME}  '{LOC_GOVERNOR_THE_MERCHANT_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_DEFENDER_NAME}  '{LOC_GOVERNOR_THE_DEFENDER_TITLE}'</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir Vali Atamak:[NEWLINE] Valiler ve terfileri, Vali Unvanları kullanılarak elde edilir. Vali Unvanları, oyun boyunca başta Yönetim Bilimleri ağacı olmak üzere, Hükümet Meydanı bölgesi ve binalarının inşa edilmesiyle ve Casa de Contratación Harikası'nın inşa edilmesiyle açılır. Bir Vali atandıktan sonra, görevlerini yerine getirmek üzere bir şehre atanabilir. Oyuncular, uygarlıklarında her türden yalnızca bir Valiye sahip olabilir ve bir şehre aynı anda yalnızca bir Vali atanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_4">
+			<Text>Bir Valiyi Terfi Ettirmek:[NEWLINE] Oyuncular, daha önce atadıkları Valileri terfi ettirmek için Vali Unvanlarını da kullanabilirler. Her Vali türünün eşsiz bir terfi ağacı vardır. Bir terfi seçmek, Valinin atandığı şehirde yerleşik hale geldiğinde uygulayabileceği yeni bir yetenek açar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_5">
+			<Text>Vali Etkileri:[NEWLINE] Valilerin atandıkları bir şehri etkileyebilecekleri çeşitli yollar vardır:[NEWLINE][ICON_BULLET] Şehirde uygarlıklarına yönelik kimlik kazanarak, [ICON_Citizen] Vatandaşlarının Bağlılığını artırmak.[NEWLINE][ICON_BULLET] Orada yerleşik hale gelerek Valinin özel yeteneklerini o şehirde uygulamak.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_6">
+			<Text>Yerleşik Hale Gelmek:[NEWLINE] Bir Vali ilk kez bir şehre atandığında, o şehirde yetki kazanması için belirli bir süre geçmesi gerekir. Bu süre, bir Valinin politikalar ve yasalar oluşturmak, değişiklikler önermek ve şehir üzerindeki gücünü ve nüfuzunu tesis etmek için gereken süreyi temsil eder. 'Geçiş' süresinin miktarı Valiye bağlıdır. Belirli bir Vali bir şehirde yerleşik hale gelip ayrıldığında, oradaki yerleşiklik süresi zamanla azalmaya başlar. Gerekli süre geçtikten sonra, Valinin özel yetenekleri devreye girer. Bu, temel yeteneklerini ve kendilerine verilen tüm terfileri içerir. Bu yetenekler pasiftir, yani oyuncu tarafından etkinleştirilmeleri gerekmez ve tek kullanımlık etkiler değildir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_7">
+			<Text>Vali Atamalarını Değiştirmek:[NEWLINE] Bazen oyun sırasında Valilerinizin atandığı konumu değiştirmek gerekebilir. Valiler herhangi bir zamanda farklı bir şehre yeniden atanabilir, ancak farklı bir şehre atandıklarında orada yerleşik hale gelmelerinin zaman alacağını unutmayın. Bir Vali halihazırda bir Vali bulunan bir şehre atanırsa, mevcut Vali şehirden çıkarılır ve Vali havuzunuza geri konur, yeni bir konuma atanmaya hazır hale gelir.[NEWLINE][NEWLINE]Valiler, bir istisna dışında yalnızca uygarlıkları içindeki şehirlere atanabilir. 'Diplomat' Valisi, bir şehir devletine ve ayrıca uygarlığı içindeki herhangi bir şehre atanabilmesi bakımından benzersizdir. 'Diplomat', oyuncunun halihazırda savaş halinde olduğu bir şehir devletine atanamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ALLIANCES_1_CHAPTER_CONTENT_TITLE">
+			<Text>İttifaklar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ALLIANCES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>İttifaklar, iki farklı uygarlık arasında, bir şekilde birlikte çalışmak üzere yapılan karşılıklı bir anlaşmadır. Bir İttifaka girmek için önce uygarlıkla Dostluk İlan etmiş olmalısınız ve her iki uygarlık da Kamu Hizmeti sosyal politikasını araştırmış olmalıdır.[NEWLINE][NEWLINE]Birkaç İttifak türü vardır, her biri türüne göre farklı karşılıklı faydalar sağlar. Bu seviyelerin etkileri kümülatiftir, yani 3. Seviye bir İttifaktaysanız, 1. ve 2. Seviye etkilerini de kazanırsınız. Başka bir Oyuncuyla İttifak halindeyken her tur İttifak Puanı kazanırsınız. Yeterli puan toplamak İttifak Seviyenizi yükseltir ve İttifaklarınızdan daha fazla fayda elde etmenizi sağlar. Müttefikinizle ticaret yaparak İttifak Puanı kazanma hızınızı artırabilirsiniz.[NEWLINE][NEWLINE]Her İttifak, türü ne olursa olsun, her iki tarafa da Açık Sınırlar ve bir Savunma Paktı sağlar. Bir İttifakın üyeleri birbirlerine savaş ilan edemez.[NEWLINE][NEWLINE]Başka bir uygarlıkla yalnızca bir tür ittifak kurabilirsiniz ve bu ittifakı bir kez oluşturduktan sonra başka bir uygarlıkla aynı tür ittifaka sahip olamazsınız, ancak onlarla başka bir tür ittifakınız olabilir. Örneğin, Kore ile bir Araştırma İttifakınız olabilir, bu nedenle Kri ile yeni bir Araştırma İttifakı kuramazsınız. Ancak Kri ile Askeri, Kültürel, Dini veya Ekonomik bir İttifak kurabilirsiniz. Bunun sizi bir oyunda toplam beş İttifakla sınırladığını unutmayın.[NEWLINE][NEWLINE]Araştırma İttifakı[NEWLINE][ICON_BULLET]Seviye 1: Müttefikler arasındaki [ICON_TradeRoute] Ticaret Yolları ek [ICON_Science] Bilim sağlar.[NEWLINE][ICON_BULLET]Seviye 2: Müttefikler her 30 turda bir (Standart Hızda) 1 Teknoloji Sıçraması paylaşır.[NEWLINE][ICON_BULLET]Seviye 3: Müttefikinizle aynı teknolojiyi veya müttefikinizin tamamladığı bir teknolojiyi çalışırken ve müttefikiniz sizin tamamladığınız bir teknolojiyi araştırırken bonus [ICON_Science] Bilim sağlar.[NEWLINE][NEWLINE]Kültürel İttifak[NEWLINE][ICON_BULLET]Seviye 1: Müttefikler birbirlerine Bağlılık baskısı uygulamaz ve müttefikler arasındaki [ICON_TradeRoute] Ticaret Yolları ek [ICON_CULTURE] Kültür sağlar.[NEWLINE][ICON_BULLET]Seviye 2: Şehirleriniz müttefikinizle [ICON_TradeRoute] Ticaret Yollarına sahip olduğunda, bu şehirlerdeki bölgelere bağlı olarak başlangıç şehirlerinde ek [ICON_GreatPerson] Büyük Kişi puanı kazanın.[NEWLINE][ICON_BULLET]Seviye 3: Müttefikinizin şehirlerinden elde ettiği [ICON_Tourism] Turizm ve [ICON_CULTURE] Kültürün bir kısmını kazanırsınız.[NEWLINE][NEWLINE]Askeri İttifak[NEWLINE][ICON_BULLET]Seviye 1: Müttefikler, her iki müttefiğin de savaş ilan ettiği uygarlıklara karşı bonus [ICON_Strength] Muharebe Gücü kazanır.[NEWLINE][ICON_BULLET]Seviye 2: Müttefikler görüş paylaşır ve müttefiklerden biri savaş halindeyken askeri birliklere yönelik bonus [ICON_Production] Üretim kazanır.[NEWLINE][ICON_BULLET]Seviye 3: Birlikler bir bonus terfi ile başlar.[NEWLINE][NEWLINE]Dini İttifak[NEWLINE][ICON_BULLET]Seviye 1: Müttefik şehirler birbirlerine Dini baskı uygulamaz ve müttefikler arasındaki [ICON_TradeRoute] Ticaret Yolları ek [ICON_Faith] İnanç sağlar.[NEWLINE][ICON_BULLET]Seviye 2: Müttefikler, her iki müttefiğin de kurmadığı Dinlere karşı [ICON_Religion] dini Muharebe Gücü kazanır.[NEWLINE][ICON_BULLET]Seviye 3: Müttefikinizin Dinini takip eden [ICON_Citizen] Vatandaşlarınızın sayısına bağlı olarak İnanç kazanırsınız ve müttefikinizin Dininin takipçisi olmayan şehirlerde bonus Dini Baskı elde edersiniz.[NEWLINE][NEWLINE]Ekonomik İttifak[NEWLINE][ICON_BULLET]Seviye 1: Müttefikler arasındaki [ICON_TradeRoute] Ticaret Yolları ek [ICON_Gold] Altın sağlar.[NEWLINE][ICON_BULLET]Seviye 2: Müttefikinizin Süzeren olduğu her Şehir Devleti için bir [ICON_ENVOY] Elçi puanı kazanın.[NEWLINE][ICON_BULLET]Seviye 3: Müttefikler, Süzeren oldukları tüm şehir devletlerinin Süzeren bonusunu paylaşır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Acil Durumlar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Acil durumlar, bir uygarlığın bir şehir devletini fethetmek, kutsal bir şehri din değiştirmeye zorlamak veya nükleer saldırı başlatmak gibi ciddi bir eylemine yanıt olarak tetiklenir. Oyundaki diğer uygarlıklar, acil durumu tetikleyen oyuncuya karşı bu duruma katılma fırsatına sahip olur. Hedef uygarlıkla Dostluk İlanı veya İttifak içinde olan uygarlıklar, yalnızca İhanet Acil Durumlarına karşı katılmaya davet edilir.[NEWLINE][NEWLINE]Katılan uygarlıklar, belirli bir süre içinde tamamlanması gereken belirli bir hedefe yönelik çalışır. Ayrıca grup üyelerinin hedefe ulaşmasına yardımcı olacak bonuslar da olabilir. Hedefe ulaşılırsa, Acil Duruma katılan tüm üyeler özel bir ödül ve toplu bir [ICON_Gold] Altın alır; ancak süre önce dolarsa, bir ceza uygulanır ve hedef [ICON_Gold] Altın alır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Oyundaki Acil Durumlar şunlardır:[NEWLINE][NEWLINE][ICON_BULLET]Askeri Acil Durum: Bir zafer türünde önde giden bir uygarlık, başka bir uygarlığın şehrini ele geçirmiştir. Üyeler, Hedeften şehirler ele geçirmelidir. Üyeler, Hedefin topraklarında [ICON_Movement] Hareket bonusu alır ve birbirleriyle Barış, Açık Sınırlar ve Paylaşılan Görünürlük elde eder. Tüm üyeler Hedefle Savaşa girer ve Hedefin [ICON_Strength] Gücü, onlarla savaşırken azalır. Başarılı olurlarsa, gelecekte Hedefin topraklarında bonus iyileşme elde ederler. Üyeler, Acil Durum sonunda yeterli sayıda şehri ele geçiremezse, Hedef kazanır ve şehir menzilli saldırısının [ICON_Strength] Gücüne kalıcı bir bonus alır. [NEWLINE][NEWLINE][ICON_BULLET]Şehir Devleti Acil Durumu: Bir uygarlık bir şehir devletini ele geçirmiş ve işgal etmektedir. Üyeler, şehir devletini kurtarmalıdır. Tüm üyeler Hedefle Savaşa girer ve birbirleriyle Barış, Açık Sınırlar ve Paylaşılan Görünürlük elde eder. Üyeler şehir devletini kurtarırsa, oradaki her [ICON_ENVOY] Elçileri için Tur Başına [ICON_Gold] Altın alırlar. Hedef, şehir devletinin kontrolünü elinde tutarsa, kazanır ve oradaki her [ICON_TradeRoute] Ticaret Yolu için Tur Başına bonus [ICON_Gold] Altın alır. [NEWLINE][NEWLINE][ICON_BULLET]Dini Acil Durum: Bir uygarlık, Dini Yayma eylemiyle başka bir dinin Kutsal Şehrini din değiştirmeye zorlamıştır. Üyeler, Acil Durum sona ermeden önce Kutsal Şehri belirli bir tur sayısı boyunca yeni dininden uzaklaştırmalıdır. Başarılı olurlarsa, her üye bir Kutsal Emanet alır. Hedef, Üyelerin yeni dini uygun sayıda tur boyunca Kutsal Şehirden uzak tutamaması durumunda kazanır. Ardından yeni dinin baskısında bir artış olur.[NEWLINE][NEWLINE][ICON_BULLET]Nükleer Acil Durum: Bir uygarlık bir şehre nükleer silah kullanmıştır. Üyeler, Hedeften şehirler ele geçirmelidir. Üyeler, Hedefin topraklarında [ICON_Movement] Hareket bonusu alır ve birbirleriyle Barış, Açık Sınırlar ve Paylaşılan Görünürlük elde eder. Tüm üyeler Hedefle Savaşa girer ve Hedefin [ICON_Strength] Gücü, onlarla savaşırken azalır. Üyeler başarılı olursa, Hedefin askeri birlikleri Üyelerle savaşırken [ICON_Strength] Güçte daha büyük ve kalıcı bir ceza alır. Başarısız olurlarsa, tüm Üye şehirlerinin Bağlılığı azalır. [NEWLINE][NEWLINE][ICON_BULLET]İhanet Acil Durumu: Bir uygarlık, yüksek seviyeli bir İttifak içinde olduğu başka bir uygarlığa savaş ilan etmiştir. Üyeler, Hedeften şehirler ele geçirmelidir. Üyeler, Hedefin topraklarında [ICON_Movement] Hareket bonusu alır ve birbirleriyle Barış, Açık Sınırlar ve Paylaşılan Görünürlük elde eder. Tüm üyeler Hedefle Savaşa girer ve Hedefin [ICON_Strength] Gücü, onlarla savaşırken azalır. Üyeler ve Hedefler arasındaki [ICON_TradeRoute] Ticaret Yolları iptal edilir ve üyeler arasındaki [ICON_TradeRoute] Ticaret Yolları ayrıca [ICON_PRODUCTION] Üretim sağlar. Üyeler kazanırsa, Hedefin askeri birlikleri Üyelere karşı [ICON_Strength] Güçte kalıcı bir ceza alır. Üyeler Acil Durum sonunda yeterli şehri ele geçiremezse, Hedef kazanır ve Üyelerle savaşırken Savaş Yorgunluğunda kalıcı bir azalma elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_EMERGENCY_ALLIANCES_1_CHAPTER_CONTENT_PARA_3">
+			<Text>Bir uygarlığın bir Acil Duruma katılma yeteneği, oyundaki diğer uygarlıklar ve şehir devletleriyle olan diplomatik ilişkisine göre belirlenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FREE_CITIES_1_CHAPTER_CONTENT_TITLE">
+			<Text>Özgür Şehirler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FREE_CITIES_1_CHAPTER_CONTENT_PARA_1">
+			<Text>Özgür Şehir, Bağlılık kaybı nedeniyle asıl uygarlığından ayrılmış bir şehirdir. Bunlar Şehir Devleti değildir; zira oyunun büyük uygarlıklarından birine yeniden katılmayı hedeflemeleri muhtemeldir. Özgür bir Şehrin, tıpkı normal bir şehir gibi koruması gereken bir Bağlılığı vardır ve diğer Uygarlıklardan Bağlılık Baskısı alır. Bağlılığı 0'a ulaşırsa, Özgür Şehir bağımsız hale geldiğinden beri üzerinde en fazla Bağlılık Baskısı uygulayan Uygarlığa katılır. Bu, Özgür bir Şehri kendi uygarlığınıza çekmek istediğinizde diğer uygarlıklara karşı bir yarış olduğu anlamına gelir. Bağlılık Baskınızı en üst düzeye çıkarmak, en fazla Bağlılığı biriktirme ve şehri kazanma şansınızı artıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_FREE_CITIES_1_CHAPTER_CONTENT_PARA_2">
+			<Text>Özgür bir Şehir, yağmalanmış iyileştirmeleri onarır ve kendini savunmak için birlikler çıkarır; ayrıca kendini savunmak için surlar inşa edebilir. Bir uygarlık tarafından saldırıya uğrarsa, Özgür Şehir o uygarlığın şehirlerinden birine karşı misilleme yapmaya çalışır. Aksi takdirde, vatandaşları kendi faaliyetlerini sürdürür ve dünyanın hangi uygarlığının kendileri için en cazip olacağını bekler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_TITLE">
+			<Text>Adanmalar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_1">
+			<Text>Adanmalar, Klasik Çağ'dan başlayarak her Çağın başında uygarlığınızın büyümesine odaklanmanın bir yoludur. Bir Çağın başında mevcut olan Adanmaların listesi oyun süresince değişir ve bazı Adanmalar birden çok Çağ boyunca kullanılabilir. Karanlık Bir Çağ sırasında Adanmalar, Kahramanlık Çağı'na doğru ilerlerken Çağ Puanınızı artırmanın güvenilir bir yoludur. Altın Bir Çağ'a girdiğinizde, bu Adanmalar daha güçlü hale gelir, artık Çağ Puanı sağlamaz, ancak uygarlığınıza önemli bonuslar sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_2">
+			<Text>Kalem, Fırça ve Ses: Her [ICON_CivicBoosted] İlham tetiklediğinizde +1 Çağ Puanı kazanın. Bir Büyük Eser Yuvası içeren bir bina inşa etmek için +1 Çağ Puanı. Altın Bir Çağ'ın başında seçilirse, [ICON_CivicBoosted] İlhamlar toplumbilim maliyetlerinin ek %10'unu sağlar. Her şehir, her uzmanlık bölgesi için +1 [ICON_Culture] Kültür alır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_3">
+			<Text>Paranın Reformu: Her başarıyla tamamlanan [ICON_TradeRoute] Ticaret Yolu için +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Tüccarlarınız yağmalanamaz. Uluslararası [ICON_TradeRoute] Ticaret Yolları, yabancı şehirdeki her uzmanlık bölgesi için +3 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_4">
+			<Text>Hic Sunt Dracones: Her yeni bir Kıta veya doğal harika keşfettiğinizde +3 Çağ Puanı kazanın. Muharebede Barbar olmayan bir deniz birliğini her öldürdüğünüzde +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, ilk şehrinizden farklı bir kıtada kurulan şehirler için +3 başlangıç [ICON_Citizen] Vatandaş. Deniz ve binitli birlikler için +2 [ICON_Movement] Hareket. Orijinal [ICON_Capital] Başkentinizin kıtasında olmayan şehirler için tur başına +2 Bağlılık.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_5">
+			<Text>Buharın Kalp Atışı: Her Sanayi veya sonrası dönem binası inşa ettiğinizde +2 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Sanayi dönemi ve sonrası harikalara karşı +%10 [ICON_Production] Üretim. Kampüs bölgesinin [ICON_SCIENCE] Bilim komşuluk bonusu ayrıca [ICON_PRODUCTION] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_6">
+			<Text>Anıtsallık: Her yeni bir uzmanlık Bölgesi inşa ettiğinizde +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, tüm İşçiler için +2 [ICON_Movement] Hareket. Sivil birlikleri [ICON_Faith] İnanç ile satın alabilirsiniz. İşçiler ve Yerleşimciler [ICON_FAITH] İnanç ve [ICON_GOLD] Altın ile %30 daha ucuza satın alınır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_7">
+			<Text>Silah Başına!: Muharebede Barbar olmayan bir Kolorduyu her öldürdüğünüzde +1 Çağ Puanı ve Barbar olmayan bir Orduyu her öldürdüğünüzde +2 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, resmî savaştan %75 daha az savaş kışkırtıcılığı cezası veren ve Hedefi Kınadıktan hemen sonra kullanılabilen özel bir Savaş Gerekçesinin kilidini açar. Askeri birliklere karşı +%15 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_8">
+			<Text>Vaizlerin Göçü: Bir şehri ilk kez kurduğunuz dine döndürdüğünüzde +2 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, tüm Misyonerler, Havariler ve Engizisyoncular için +2 [ICON_Movement] Hareket. Ayrıca yeni eğitilenler +2 Hak kazanır. Tur başına +4 [ICON_GreatProphet] Büyük Peygamber puanı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_9">
+			<Text>Özgür Araştırma: Her [ICON_TechBoosted] Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa etmek için +1 Çağ Puanı. Altın Bir Çağ'ın başında seçilirse, [ICON_TechBoosted] Buluşlar teknoloji maliyetlerinin ek %10'unu sağlar. Ticaret Merkezi ve Liman bölgesinin [ICON_Gold] Altın komşuluk bonusu ayrıca [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_10">
+			<Text>Gök ve Yıldızlar: Her inşa edilen Hava Meydanı binası için +1 Çağ Puanı kazanın. Her [ICON_GreatPerson] Büyük Şahsiyet kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Atom Çağı'nda ise Gelişmiş Uçuş, Nükleer Fisyon ve Roket Bilimi için [ICON_TechBoosted] Buluşların kilidini açar. Bilgi Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji için Buluşların kilidi açılır. Tüm Hava Birlikleri için kazanılan +%100 Tecrübe.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_11">
+			<Text>Yalanların Muhafızı: Her başarılı saldırgan Casus operasyonu için +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Casuslar düşman bir şehirde varlık göstermek için zaman harcamaz. Tüm saldırı görevlerini tamamlama süresi %25 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_12">
+			<Text>Keşke Burada Olsaydınız: Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, [ICON_Governor] Valiye sahip şehirler, Dünya Harikalarından +%50 [ICON_Tourism] Turizm alır. Tüm Milli Parklara +%100 [ICON_Tourism] Turizm.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_13">
+			<Text>Automaton Warfare: Gain +1 Era Score each time you kill a non-Barbarian unit with a Giant Death Robot. If chosen at the start of a Golden Age, gain a Giant Death Robot in your capital. Receive 3 [ICON_Resource_Uranium] Uranium per turn. [ICON_Resource_Uranium] Uranium mines accumulate +1 more resource per turn. Information and Future Era.</Text>
+		</Row>
+		<!-- Features -->
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_REEF_CHAPTER_HISTORY_PARA_1">
+			<Text>Resifler, açık suların yüzeyinin altında oluşur ve gemiler için hız tümseği görevi görür. Bazıları kum, kaya gibi inorganik malzemelerden veya kum ve kayadan oluşan resiflerde birikmiş gemi batıklarından oluşsa da, en canlı olanları tropikal sularda bulunan mercan resifleridir.</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_TURTLES_CHAPTER_HISTORY_PARA_1">
+			<Text>Kaplumbağaların yakalanmasının ve etlerinin hazırlanmasının zorluğu nedeniyle, tarih boyunca toplumların seçkinleriyle ilişkilendirilmiş, bu da aşırı avlanmaya yol açmıştır. Ancak, son yıllarda yabani kaplumbağaları korumak ve yetiştiricilik faaliyetlerini düzenlemek amacıyla yasal koruma önlemleri alınmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_OLIVES_CHAPTER_HISTORY_PARA_1">
+			<Text>Zeytinin meyvesi ve yağı, Tunç Çağı'ndan bu yana insanoğlunun günlük yaşamında büyük önem taşımıştır. Ne var ki, zeytinin kullanımını ve yetiştiriciliğini asıl yaygınlaştıranlar Romalılar olmuş; öyle ki, miladi ilk ve üçüncü yüzyıllar arasında vergi toplama işlemlerinin bir parçası olarak zeytinyağı talep edecek kadar ileri gitmişlerdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RESOURCES_PAGE_RESOURCE_AMBER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kehribar, Neolitik Çağ'dan bu yana süs eşyası olarak değer görmüş ve dini ritüellerde de önemli bir yer edinmiştir. Sadece parıltılı taşlar olmanın ötesinde, kehribarın kokusu; onu Reform döneminde Avrupalı Katolikler için son derece pazarlanabilir kılmış, zira Katolikler bu kokuyu Tanrı'nın bir lütfu olarak görmüşlerdir.</Text>
+		</Row>
+		<!-- Districts -->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GOVERNMENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir hükümet, yönetilenlerin gönlünde, zihninde ve rızasında var olsa da, hükümetin fiili işleyişi çalışılacak masalar, kayıtların saklanacağı arşivler ve devlet işlerinin müzakere edileceği toplantı odaları gerektirir. Hükümetin; kâtipler, memurlar, mevki sahipleri ve siyasetçilerin verimli çalışabilmesi için bir yerde özel bir alan ayırabilmesi, devlet meselelerinin zamanında yürütülebilmesi açısından faydalıdır. Tarih boyunca pek çok uygarlık bürokrasilerini merkezi bölgelerde toplayarak, yönetime adanmış ofislerin kümelendiği Hükümet Meydanları oluşturmuştur. Londra'daki Westminster, Moskova'daki Kremlin veya Brezilya'daki Eixo Monumental, Hükümet Meydanı'na örnek olarak gösterilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_WATER_STREET_CARNIVAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Haklı olarak dünyanın en ünlü plaj semtlerinden biri olan (ve ilginç bir şekilde, adını Bolivya'nın yaylalarındaki bir yerden alan) Copacabana, Brezilya kimliğinde hem yurt içinde hem de dünya çapında büyük bir yer kaplar. Resmî olarak güney ucundaki Copacabana Kalesi ile kuzey ucundaki Duque de Caxias Kalesi arasında yer alan bu semt, tarihinin büyük bölümünde Rio de Janeiro seçkinleri için lüks bir mahalle olmuş, en büyük simgesi ise Copacabana Palace Oteli olmuştur. 1970'lerde dar plajın genişletilmesi ve bölgenin her sosyal sınıftan güneşlenenler ve turistler için patlama yapan bir varış noktası haline gelmesiyle birlikte burası; konserler, Yılbaşı kutlamaları ve hatta bir papalık ayini için devasa bir mekân olarak hizmet vermiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_CHAPTER_HISTORY_PARA_1">
+			<Text>Tarih boyunca bir şehirde yapılan en popüler aktivitelerden biri, yaz sıcakları bastırdığında şehirden kaçmak olmuştur. Sanayi Devrimi sırasında kamu ulaşımının daha geniş bir kitleye daha serin alternatifler sunmasıyla birlikte sahil kasabalarının popülaritesi patlama yapmış; bu kasabalar, plaj (veya göl, büyük nehir ya da bölgedeki herhangi bir su özelliği…) ve tekne turlarının yanı sıra tahta kaldırımlar ve lunapark tesisleri gibi olanakları da hizmet yelpazelerine eklemişlerdir. Bir zamanlar yalnızca zengin ve güçlünün tekelinde olan bu zevk, artık milyonlara sunulmaktadır ve güneş doğarken su parkı, insanları yaz güneşine karşı serinletmek ve eğlendirmek için kapılarını açar.</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FOOD_MARKET_CHAPTER_HISTORY_PARA_1">
+			<Text>Günümüzün floresan aydınlatmalı ticari gıda üretim merkezlerinin çok uzağında olan ilk açık hava pazarları, çiftçilerin fazla mahsul ve hayvanlarını elden çıkardıkları yerlerdi. Müşteriler de bu sayede gıdaları (nispeten) temizlik açısından denetleme şansı bulurlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FOOD_MARKET_CHAPTER_HISTORY_PARA_2">
+			<Text>Gıda pazarları, gıda üretim alanlarından giderek uzaklaşan şehirlerin zorunlu bir özelliği haline gelecekti; bir yönüyle ticaret, bir yönüyle de nüfusun beslenmesini sağlamaya yönelik bir sivil çabaydı bu. Bazı pazarlar, kuruldukları şehirlerle birlikte inşa edilmişti. Örneğin Kahire'deki Suq Bab al-Lūq'da tüccarlar, miladi 969'dan bu yana peynir ve et satmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_TALL_CHAPTER_HISTORY_PARA_1">
+			<Text>Monarşik ve hükümdar merkezli yönetim sistemlerinin gelişmesiyle birlikte, hükümdarın devlet işlerini yürütme biçimi de ritüelleşti. Bu durum mimariye de yansıdı; zira hükümdarın devlet başkanı sıfatıyla görüp görülebileceği özel alanlar yaratmanın somut faydaları vardı. Her şeyden önce, mekânı gösterişli bir şekilde ihtişamlı ya da son derece süslü hale getirip, içeri adım atan herkesi daha bir şey istemeye başlamadan önce bile büyüleyebilirdiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_TALL_CHAPTER_HISTORY_PARA_2">
+			<Text>Kabul salonu, bir hükümdara hükümdar sıfatıyla erişim için özel olarak tasarlanmış bir mekândır. Bir taht içerebilir (ve taht odası olarak anılabilir) ya da bir taht bulunmayabilir (gerçi genellikle kimin söz sahibi olduğunu belli eden bir düzenek mevcuttur). Ancak hükümdar o kadar önemli de olabilir ki, fiilen taht odasında otururken, yalnızca uşaklarını kendi adına gönderir; böylece şu anda kimseyle görüşemeyecek kadar meşgul olduğunu ima etmiş olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_WIDE_CHAPTER_HISTORY_PARA_1">
+			<Text>Atalar Salonu, atalara hürmetle ilişkilendirilen bir yapıdır ve bunun en güzel örnekleri Çin'den günümüze ulaşmıştır (ne var ki bu kavramın farklı varyantları tarih boyunca başka yerlerde de inşa edilmiştir). Bu salonlar, yaşayanların soylarındaki önceki nesillere saygı ve hürmetlerini gösterebilecekleri ve evlilik ile cenaze gibi önemli ailevi törenleri gerçekleştirebilecekleri bir yer olarak hizmet eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_WIDE_CHAPTER_HISTORY_PARA_2">
+			<Text>Bir soyun merkezi olarak bu salonlar, bir ailenin kimliğinde önemli bir odak noktası işlevi görür. Bir aile ne kadar uzağa taşınırsa taşınsın, atalar salonuna dönüp kökenlerine önemli bir şekilde yeniden bağlanabileceklerini bilirler. Kimliğin bu şekilde sağlamlaştırılması, bu insanlar için bir güç kaynağıdır; onları kesintisiz bir insan çabası ve başarı zincirinin bir parçasıymış gibi hissettirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CONQUEST_CHAPTER_HISTORY_PARA_1">
+			<Text>İngilizce 'Warlord' (Savaş Ağası) kelimesi nispeten modern bir icattır (ilk kez 1850'lerde ortaya çıkmıştır), ancak askerî gücü olağanüstü olan bir uygarlık lideri kavramı çok eskidir. Latince 'Dux Bellorum' (soylu unvanı 'duke'un kökeni) veya 20. yüzyılda Çince 'junfa' gibi benzer terimler, tarih boyunca birbirinden bağımsız olarak defalarca ortaya çıkmış ve kaçınılmaz olarak fiilî gücü sözde yöneticilerininkini aşan bir askerî lider fikrine bağlanmıştır. Kral hüküm sürebilir, ancak savaş ağası çoğu zaman yönetir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CONQUEST_CHAPTER_HISTORY_PARA_2">
+			<Text>Başarılı bir savaş ağası, savaş alanındaki başarıyı siyasî sermayeye dönüştürebilen kişidir; bu nedenle tarih boyunca pek çok başarılı savaş ağasının, kendi şanlarına anıtlar diktirdikleri (Trajan Sütunu gibi), mevcut anıtları değiştirdikleri (tarihi adı kadar ilginç olan Kleopatra İğnesi gibi), yanlarında övgücüler getirdikleri (Büyük İskender'inkiler gibi) veya kendi takipçi saraylarıyla kendilerini kuşattıkları (Wei Krallığı'nın kurucusu Cao Cao gibi) görülür. Bazen bu, savaş ağasının hem askerî hem de siyasî seferleri planlayıp güvendiği danışmanlarıyla istişare edebileceği bir bina inşa etmek anlamına gelir – tabii ki yalnızca devletin iyiliği için.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_FAITH_CHAPTER_HISTORY_PARA_1">
+			<Text>Her ne kadar nadir olsalar da, dinî askerî tarikatlar ruhani olanla dünyevi olanın ilginç bir kesişim noktasıdır. En iyileri seçkin askerler olmuş ve tarihsel etkilerinin çok ötesinde, kültürel hayal gücünde bir yer edinmişlerdir. Batı'da Tapınak Şövalyeleri, Hastane Şövalyeleri ve Töton Şövalyeleri gibi Haçlı tarikatları vardı. Japonya ise savaşçı Budist keşişlerden oluşan bir tarikat olan sohei'yi ortaya çıkarmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_FAITH_CHAPTER_HISTORY_PARA_2">
+			<Text>Batı'da, bir dinî askerî tarikatın liderine genellikle 'Büyük Üstat' denir ve bu kişi, hem şahsında hem de rolünde ruhanî ve askerî liderliği birleştirirdi. Bir Büyük Üstat'ın, takipçilerinin ideallerine örnek teşkil etmesi beklenirdi; ancak aynı zamanda belirli ayrıcalıklara ve imtiyazlara da sahipti. Bunlar arasında, tefekkür için çekilebileceği ve cennetin güçlerine yeryüzünde zafer getirmek için gereken gücü kazanabileceği özel bir ibadet ve dua yeri ayrıcalığı da bulunuyor olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CITYSTATES_CHAPTER_HISTORY_PARA_1">
+			<Text>Uygarlıklar ve uluslar arasındaki ilişkiler uzun süredir formalitelerle tanımlanmıştır; zira iyi davranışlar yanlış anlaşılmaları yatıştırmaya ve savaşların patlak vermesini engellemeye yardımcı olur. Bu durum doğal olarak uygarlıkların diplomat olarak görev yapacak kişileri işe almasına ve diğer uygarlıkların da bu diplomatları kabul etmesine yol açar. İşler giderek daha karmaşık hale geldikçe, yönetim sistemine hükümet adına diplomatlarla etkileşime girmekten sorumlu bütün bir insan sınıfı eklenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CITYSTATES_CHAPTER_HISTORY_PARA_2">
+			<Text>Dışişleri Bakanlığı; diplomatlar, büyükelçiler, yetkilendirme ve diğer hükümetlerle bakanlarının tanınması gibi tüm konuları ele alır. Devlet başkanının en önemli makamlarından biri olmasa da en önemlilerinden biri olarak sık sık görülür; zira ulusu veya uygarlığı dünya sahnesinde temsil eden kurum olarak hizmet eder. Bakanlar ve Dışişleri görevlileri genellikle sıkı testlerden ve denetimlerden geçirilir; çünkü bugün halklar arasındaki iyi ilişkilerin önemi, antik çağda Mısır ile Babil'in diplomatik selamlaşmalarını değiş tokuş ettiği zamanki kadar büyüktür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SPIES_CHAPTER_HISTORY_PARA_1">
+			<Text>Devlet işlerinin pek çoğu, ihtiyatla ele alınmayı gerektirir. Pratik çözümleri, devletin ve liderliğinin amaçlanan kamu imajıyla çelişen meseleler vardır. Bu nedenle hükümdarlar, devletin gizli meseleleri için gereken sağduyuya ve cesarete sahip küçük bir profesyonel grubuna güvenme eğiliminde olmuşlardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SPIES_CHAPTER_HISTORY_PARA_2">
+			<Text>Tarih boyunca sayısız ve ünlü örnek vardır. Casusluk hikâyeleri Eski Ahit'te bulunur. Casusluk, aldatma ve yanıltma konusundaki en iyi uygulamalara dair incelemeler klasik Hindistan ve Çin'de yazılmıştır. Sun Tzu'nun Savaş Sanatı eserinde 'İstihbarat ve Casusluk' başlıklı bütün bir bölüm bulunur; Arthashastra'da ise casusluk, karşı istihbarat ve bilgi savaşı üzerine bir bölüm yer alır. Gürcistan Kralı IV. Davud'un, egemenliği altındaki çeşitli komplolardan kendisini haberdar eden mstovari'leri vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SPIES_CHAPTER_HISTORY_PARA_3">
+			<Text>Ancak modern istihbarat teşkilatının kökeni, Kraliçe I. Elizabeth'in sadık hizmetkârı ve korkusuz casus şefi Francis Walsingham'ın çalışmalarına kadar uzanır. Ona ve ekibine; kodlama ve kod kırma konusundaki metodik uygulamaları, saha ajanlarının denetimini ve başkalarının postalarını okumayı borçluyuz. Casusları için lazer kalemler ve fırlatma koltuklu spor arabalar gibi akıllı aletler yapan bütün bir ekibi olup olmadığını ne doğrulayabilir ne de yalanlayabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_MILITARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Savaş Bakanlığı (ya da örtmece adıyla Savunma Bakanlığı), devlet başkanının "en önemli makamı" unvanı için Dışişleri Bakanlığı ile yarışır. Bu kurum, bir dizi gücün birleşmesinin sonucudur: Yönetimin giderek karmaşıklaşması, profesyonel ordunun ve kurmay subay birliğinin yükselişi ve sınırsız yetkiye sahip, karizmatik bir savaş ağasının ordunun başına geçirilmesinin, hükümetin uzun vadeli hayatta kalma şansı için kötü sonuçlar doğurabileceğinin anlaşılması. Askeri tarih öğrencileri için, ordunun sivil kontrole tabi olması gibi bir zamanlar tartışmalı olan bir kavramın, bugün dünyanın büyük uluslarında etkili bir şekilde kanunlaştırılmış olması dikkat çekicidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_MILITARY_CHAPTER_HISTORY_PARA_2">
+			<Text>Günümüzde Amerika Birleşik Devletleri Savunma Bakanlığı, bu Savaş Bakanlıkları'nın en büyüğüdür. Merkezi Washington D.C.'nın eteklerindeki devasa Pentagon binasında bulunan bu kurum, dünyanın en büyük işverenidir, dünyanın en büyük ordusunu yönetir ve herhangi bir ulusun en büyük askeri bütçesini harcar (sonraki bir düzineden fazla ordunun toplam bütçesini aşmaktadır).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CULTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir ulus kimliğini geliştirmeye başladığında, bu kimliği kutlamanın ve ona katkıda bulunan tarihi unsurları korumanın yollarını arar; işte bu şekilde Ulusal Tarih Müzesi doğar. Amacı, önemli eserleri ve kayıtları toplayıp koruyarak ulusun ve halkının hikayesini anlatmak, ardından bunları yorumlayarak hem vatandaşlara hem de ziyaretçilere sergilemektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_CULTURE_CHAPTER_HISTORY_PARA_2">
+			<Text>Ulusal Tarih Müzesi, en iyi haliyle, ulusun ve onu oluşturan tüm grupların tarihi ve kültürel başarılarını kutlar. Modern çağda, azınlık etnik ve kültürel grupların tanınması daha da önem kazandıkça, bu grupların hikayeleri daha sık ve daha ayrıntılı bir şekilde anlatılmaktadır. Bu durum, rahatlatıcı ulusal mitleri sorgulama sonucunu doğurmuş olsa da, gerçeğe olan bağlılık ve unutulmuş katkıda bulunanların yeniden keşfi, ulusun geçmişine dair daha doğru bir tablo ve umarız ki daha iyi bir geleceğe nasıl ilerleyeceğimize dair bir vizyon netliği sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SCIENCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Aydınlanmış bir hükümdar, bilgisinin sınırlarının farkında olan kişidir. Özellikle kurnaz bir hükümdar, bu eksiklikleri gidermeye yardımcı olmaları için yanında bir grup bilgin ve filozof bulundurur ve zaman zaman bu kişiler, krallık veya devlet için pratik avantajlar sağlayan bilimsel konular üzerinde çalışmaya teşvik edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SCIENCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Orijinal Kraliyet Cemiyeti, Kral II. Charles'ın bir tüzüğüyle İngiltere'de kuruldu; kral zaman zaman toplanır ve doğa felsefesi veya fizyoloji alanında deneyler yapardı. Bu durum, tam da Erken Modern Dönem'in başlamakta olduğu ve Isaac Newton ile Robert Hooke gibi devlerin hayatta olduğu bir döneme denk geldi ve sonuçta bilimin gelmiş geçmiş en üretken çiçeklenmelerinden biri yaşandı. Bizler, Kraliyet Cemiyeti'nin çalışmalarının meyvelerini bugün bile toplamaktayız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_GOV_SCIENCE_CHAPTER_HISTORY_PARA_3">
+			<Text>Bu ilk Kraliyet Cemiyeti'nden bu yana, dünyanın dört bir yanında, her disiplinden en iyi bilginlerden oluşan, doğanın ve evrenin gizemlerini özgür araştırma ruhuyla inceleyen çok sayıda ulusal bilim kurumu oluşturuldu. Ancak hepsi, orijinal Kraliyet Cemiyeti'nin "Nullius in verba" (Kimsenin sözünü sorgusuz sualsiz kabul etmeyin) sloganına bağlı kalır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SHOPPING_MALL_CHAPTER_HISTORY_PARA_1">
+			<Text>Modern alışveriş merkezi, Antik Roma'nın halk pazarlarının bir uzantısıdır—ancak taze pişmiş simit sosisli sandviçlere daha kolay erişim imkânı sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SHOPPING_MALL_CHAPTER_HISTORY_PARA_2">
+			<Text>Alışveriş merkezleri ya da çarşılar, dükkanların tek bir konumda toplandığı merkezi yapılardır. Bazıları, 19. yüzyıldaki Şam'daki El-Hamidiye Çarşısı gibi, esasen kapalı pazarlarken, Sankt Petersburg'daki Büyük Gostiny Dvor, 1785'te daha erken bir 'geleneksel' alışveriş merkezi deneyimi sunuyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_SHOPPING_MALL_CHAPTER_HISTORY_PARA_3">
+			<Text>Yirminci Yüzyılın ortalarına gelindiğinde, bugün bildiğimiz şekliyle kapalı alışveriş kompleksi, 1955'te Appleton, Wisconsin'deki Valley Fair Alışveriş Merkezi ve İsveç'in Lulea kentinde Ralph Erskine tarafından tasarlanan alışveriş merkeziyle ortaya çıktı. Dondurulmuş yoğurt stantları da çok geçmeden bunu takip etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FERRIS_WHEEL_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir köprü mühendisinin yaratıcılığını, iki adet 1000 beygir gücünde motoru ve biraz da dinamiti gerektiren ilk Dönme Dolap, Chicago'daki 1893 Dünya Kolomb Sergisi'nin en parlak başarılardan biri olacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FERRIS_WHEEL_CHAPTER_HISTORY_PARA_2">
+			<Text>Artık modern fuarların, karnavalların ve lunaparkların bir özelliği olan ilk Dönme Dolap, Chicago'lu mühendis George Washington Gale Ferris Jr.'ın beyin çocuğuydu ve 1889 Dünya Fuarı'nın göze çarpan bir özelliği olan Eyfel Kulesi'ne bir yanıt olarak tasarlanmıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_FERRIS_WHEEL_CHAPTER_HISTORY_PARA_3">
+			<Text>Yirminci Yüzyıla gelindiğinde, lunaparklar ve fuarlar Ferris'in tasarımını (diğer oyuncaklarla birlikte) ödünç alarak bu eğlence etkinliklerini üst sınıfların ötesine taşıdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUARIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Modern akvaryum, derinliklerin büyük canavarlarını görmenin zevkini, kişinin uzuvlarını riske atmadan sunar. Gösteri ile eğitim arasında bir köprü vazifesi görür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUARIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>Romalılar, yaklaşık MS 50 yılında tek cam bölmeli erken dönem mermer akvaryumlarıyla akvaryum oyununa bir başlangıç yapmışlardı. Ancak ilk halka açık akvaryum, 1853'te Londra Hayvanat Bahçesi'nin 'Balık Evi'nin inşasına kadar ortaya çıkmayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUARIUM_CHAPTER_HISTORY_PARA_3">
+			<Text>Günümüzde Atlanta, Georgia, dünyanın en büyük akvaryumuna ev sahipliği yapmakta olup, içinde devasa 24 milyon galonluk bir köpekbalığı tankı bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUATICS_CENTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Su aktivitelerinin keyfini, vahşi deniz ve göl canlılarının eğlenceyi bölme tehlikesi olmadan yaşamanın topluluk deneyimi hakkında söylenecek bir şey var.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUATICS_CENTER_CHAPTER_HISTORY_PARA_2">
+			<Text>Havuzlar ve su sporları merkezleri bir süredir şehirlerin bir özelliği olmuştur; örneğin Pakistan'daki bilinen en eski havuzlardan biri olan 'Büyük Hamam'ı ele alalım. MÖ 3000 civarında inşa edilen bu yapı, büyük olasılıkla dini bir yapıydı (kaydırak ve dalga kulesi olmamasından da anlaşılacağı gibi).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_AQUATICS_CENTER_CHAPTER_HISTORY_PARA_3">
+			<Text>Bu mütevazı 11,88 x 7,01 metrelik yapıyı, İtalya'daki devasa, 40 metre derinliğindeki Y-40 havuzuyla (2014'te açıldı) karşılaştırın ve yüzme deneyiminin genişliğini ve derinliğini görebilirsiniz.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRONE_CHAPTER_HISTORY_PARA_1">
+			<Text>20. Yüzyıl yerini 21. Yüzyıla bırakırken, modern savaşın ve casusluğun yüzü de değişti. İnsansız hava araçları (dronlar), bir ordunun kendi askerlerini tehlikeye atmadan düşmanı gözlemlemesine ve saldırmasına olanak tanır. Her ne kadar hiç kimse dronları fiziksel olarak uçurmasa da, pilotlara ihtiyaç duyarlar - ister önceden programlanmış uçuş desenleriyle, ister insan pilotların uydu aracılığıyla komut iletmesiyle. Savaş alanı veya doğal afet bölgeleri gibi tehlikeli alanlar için "gökyüzündeki gözler" olarak hizmet edebilirler ve hatta en sıradan görevleri bile yerine getirebilirler: pizza ve paket teslimatı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DRONE_CHAPTER_HISTORY_PARA_2">
+			<Text>Şaşırtıcı bir şekilde, bu silahlar yeni bir icat değildir—her ne kadar önceki denemelerin pratik kullanımı ve muharebe verimliliği en hafif tabirle sorgulanabilir olsa da. (II. Dünya Savaşı sırasında Amerikalı bir diş hekimi tarafından önerilen 'bomba taşıyan yarasalar' planı, Müttefikler için hiçbir zaman etkili bir silah olarak işe yaramamıştı.)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PIKE_AND_SHOT_CHAPTER_HISTORY_PARA_1">
+			<Text>İspanyol orduları, Seminara Muharebesi'ndeki feci tecrübelerinin ardından çok yönlü bir savunma taktiği geliştirdiler. Kargıcılar ve arkebüzcülerden (ilk ateşli silahları kullanan piyadeler) oluşan birlik, uyumlu bir blok hâlinde hareket ediyordu: Kargıcılar merkezde, arkebüzcü grupları ise onları çevreleyecek şekilde konumlanıyordu. Arkebüzcüler, menzil içindeki düşmanları vurabiliyor, ardından düşman piyadesi veya süvarisi tarafından tehdit edildiklerinde kargıcıların oluşturduğu 'perde duvarı'nın arkasına çekilebiliyorlardı. Bu taktik, meşhur derecede karmaşık silahlarını at çiğneme korkusu olmadan doldurabilen İspanyol arkebüzcüleri için oldukça işe yaradı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SUPPLY_CONVOY_CHAPTER_HISTORY_PARA_1">
+			<Text>Mekanize piyadenin ortaya çıkışıyla birlikte lojistik giderek karmaşık bir hâl aldı. Motorize bir ordu, ancak yakıtının yeteceği kadar ilerleyebilir; işte bu nedenle ikmal konvoyları modern savaşın can damarı hâline geldi. Motorlu nakliye araçları, yük hayvanlarının çektiği arabalara kıyasla erzak, yakıt ve tıbbi malzemeleri çok daha güvenilir ve verimli bir şekilde taşıyabiliyordu. Ayrıca, daha değişken bir cephe hattında harekât yaparken seyyar sahra hastanelerinin veya yakıt depolarının hızla yer değiştirmesine de olanak sağlıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SPEC_OPS_CHAPTER_HISTORY_PARA_1">
+			<Text>Bazı askerî sorunlar, yalnızca askerî çözümlerle ele alındığında ciddi bir başarısızlık riski taşır—hassas siyasi yankılar, aşırı hava koşulları/çevresel tehlikeler ya da öfkeli ve dirençli bir yerel halk gibi. Özel harekâtçılar (kısaca 'özel harekât'), muharebe ve keşiften siyasi veya sivil işlere kadar uzanan bu zorlu durumlarla başa çıkmak için eşsiz bir şekilde eğitilmiş askerlerdir. Daha büyük birlikler için imkânsız olacak görevleri tamamlamak üzere üstün beceri, taktik ve teçhizata güvenirler; harekât sahalarının yabancı dillerini ve geleneklerini öğrenirler. Güçleri, düşmanla angajmana yönelik yaratıcı yaklaşımlarında ve bir durum ne kadar alışılmadık veya tehlikeli olursa olsun tereddütsüz harekete geçme kapasitelerinde yatar.</Text>
+		</Row>
+		<!-- City States -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_1">
+			<Text>Şair Joseph Brodsky, Venedik'i 'sonsuzluğun ta kendisi' olarak tanımlar. Benzer şekilde, 14. yüzyılda Toskana'lı şair Petrarch da Venedik'i 'mundus alter' – 'başka bir dünya' olarak nitelendirmiştir. Övgülerinde yalnız değillerdir. Lord Byron, Thomas Mann, William Shakespeare, Daphne du Maurier ve daha pek çok yazar, film yapımcısı ve şair, denizin kıyısına tutunmuş bu kadim şehirde ilham bulmuştur. Şehrin kalbi, bir lagünün ortasındaki bir ada üzerine inşa edilmiştir ve bu haliyle Venedik, suyla iç içe yaşayan bir şehirdir. Ticaret geçmişi göz önüne alındığında, bunu her zaman yapmış bir şehirdir. Nitekim Venedik Dükü (Latince 'dük' anlamındaki kelimeden türetilen bir unvandır; internet memesindeki 'doge' ile karıştırılmamalıdır) özel günlerde sembolik olarak denizle 'evlenirdi'. Venedik gibi bir devlet için doğru terim bir talassokrasidir – bir deniz cumhuriyeti. Bir deniz ülkesi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_2">
+			<Text>Venedik'in kökenleri, Roma İmparatorluğu'nun sonunda yaşanan Cermen ve Hun istilalarına dayanır. İtalya'da Roma egemenliği çökerken, zengin Romalı aileler servetlerini korumak ve bunu istemeden de olsa yakında zenginleşecek Hun ailelerine kaptırmamak için adaya taşındılar. İtalya'nın harabeye dönmesiyle Venedik, Roma'nın kalıntıları olan Bizanslılar ile ittifak kurdu, ancak sonunda ayrılarak bağımsız bir şehir devleti hâline geldi. Bizans'ın gücü azaldıkça ve özellikle 1204'te Konstantinopolis'in Haçlılar tarafından yağmalanmasından sonra Venedik, Akdeniz'de yeni ortaya çıkan Arap güçleriyle ticarette pazarı köşeye sıkıştırmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_3">
+			<Text>Bu dönemde Venedik, gücünün zirvesindeydi. Venedik sanatı son derece etkiliydi. Venedikli sanatçılar arasında, resim ile mevcut ışık arasındaki etkileşime odaklanmayı vurgulayan Bellini ailesi de vardı. Diğer sanatçılar arasında doku ve şehvet, ışık ve manzara ile deneyler yapan Titian, Giorgione ve Veronese yer alıyordu. Gösterişli maskeleri ve kostümleriyle Venedik karnavalı, aşırılık ve şehvetin popüler bir imgesi olmaya devam ederken, Venedik cam üfleme sanatı da son derece beceri gerektiren bir sanat dalı olarak varlığını sürdürmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_4">
+			<Text>Venedik'in imparatorluğu ticaret üzerine kuruluydu. Ancak ticaret, beraberinde kırılganlıkları da getirir. Sıçanların postlarıyla taşınan ve bu sıçanların da gemi ambarlarında saklanmasıyla yayılan Kara Ölüm ve ardından gelen vebalar, şehri defalarca harap etti. Ayrıca 15. yüzyılda Venedik iki büyük darbe aldı; biri doğudan, diğeri batıdan. Doğuda Venedik, Osmanlı Türklerine karşı direnen eski müttefiki Bizans'ı desteklemişti; Osmanlı Padişahı bunu ne affetti ne de unuttu ve Osmanlılar doğu Akdeniz'de güç kazandıkça Venedik gemilerinin yağmalandığını ve limanlarının kesildiğini gördü. Batıda ise Portekizli denizciler, Doğu Asya ile uzun mesafeli deniz ticaretini mükemmelleştirerek Akdeniz (ve Venedik gemileri) ile uğraşma ihtiyacını tamamen ortadan kaldırdılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_5">
+			<Text>Venedik, kısa boylu Fransız diktatörün adını taşıyan savaşlar sırasında 19. yüzyılın başlarında Napolyon tarafından fethedildiğinde bağımsızlığını kaybetti. Venedik'te Napolyon'un fethi, şehrin bağımsızlığına son vermekle birlikte, tamamen kötü değildi. Napolyon, Venedik'in Yahudi nüfusunun yaşamak zorunda olduğu şehrin bölgesi olan Getto'nun kapılarını kaldırdı ve şehirdeki Yahudilerin diledikleri yere yerleşmelerine izin vererek bazı Venedikliler nezdinde bir nevi kahraman oldu. Napolyon'un yenilgisinin ardından Venedik bağımsızlığına kavuşamadı, önce Avusturya'ya, daha sonra da yeni kurulan İtalya Krallığı'na teslim edildi. Bugün de İtalyan olarak kalmaya devam etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANTIOCH_CHAPTER_HISTORY_PARA_6">
+			<Text>Şehir şu anda dünyanın en ünlü turistik yerlerinden biridir. Aynı zamanda Adriyatik Denizi'ne batmaktadır. İklim değişikliği ve deniz seviyesinin yükselmesi şehir için ciddi bir tehdit oluşturmaktadır; zira önceden tuzlu su lagününde bataklık bir ada üzerindeki avantajlı konumu, şehrin en tehlikeli özelliğine dönüşmüştür: Örneğin 2019'da şehrin yüzde 80'i sular altında kalmıştır. Görünen o ki, denizle evlilik, Dük'ün arzu edeceğinden daha samimi hâle gelmiştir. Vay be. Ne çok su.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_1">
+			<Text>Elam sanatı, insan ve hayvan formlarını son derece hassas ve güzel bir şekilde birleştiriyordu. Örneğin, şu anda New York Metropolitan Sanat Müzesi'nde bulunan proto-Elam 'Kaplı Boğa Heykelciği', bir boğanın başı ve toynaklarına sahip, yumuşak, etli bir insan formunun bir kadehi tuttuğu gümüş bir heykeldir. Aynı anda hem kadınsı hem erkeksi, hem hayvani hem insanidir. 'Kaplı Boğa'nın aksine, 'Guennol Dişi Aslan' kireçtaşı heykeli, pençeleri, kuyruğu ve bir dişi aslan başı olan güçlü, kaslı, androjen bir insan formudur – güç saçar ama aynı zamanda androjendir. Elam mühürleri – yuvarlak silindirler olup ıslak kile yuvarlandığında bir görüntü oluşturan – özellikle ayrıntılıydı ve heykeller ve diğer imgeler dinî bir öneme sahip olabilirken, mühürler ticarette kişisel kimlik için kullanılıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_2">
+			<Text>Medeniyetler yükselir ve çöker, ancak Anşan önemini korudu. MÖ 2700'de Anşan bir süreliğine Sümerler tarafından fethedildi ve diğer zamanlarda günümüz İran'ındaki yakın grupların egemenliği altına girdi, ancak uzun süre düşmedi. Bin yıldan fazla bir süre sonra, MÖ 1500'de Anşan, Babil'e karşı savaşan ve hatta büyük şehri yağmalayarak Babil'in tanrı-kralı Marduk'un heykelini bir ganimet olarak geri götüren yeni bir imparatorluğun merkezi olacaktı. Ancak Elam egemenliği kalıcı olmayacaktı ve şehir MÖ 500'lerde gerilemeye başladı. İncil peygamberi Hezekiel, çökmekte olan Elam'ı şu şekilde tarif eder:</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_3">
+			<Text>“İşte Elam ve bütün kalabalığı, Mezarının çevresinde, Hepsi kılıçtan geçirilmiş, düşmüş, Sünnetsiz olarak yerin derinliklerine inmiş, Diriler diyarında dehşet salmış olanlar; Şimdi Çukur'a inenlerle birlikte utançlarını taşıyorlar” (Hezekiel 32:24).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_4">
+			<Text>Zamanla Persler Anşan'a yerleşerek bölgenin karakterini değiştirdi ve şehri canlandırdı. Bir süreliğine Anşan, Pers'in başkenti oldu ve efsanevi Büyük Kiros orada doğdu. Kiros'un uzak bir antik çağdan geldiğini düşünsek de – ne de olsa MÖ 550'lerde hüküm sürdü – o, zaten 2.500 yaşında olan bir şehirde doğmuştu. Yani Anşan, Kiros orada hüküm sürdüğünde, Kiros'un bugün olacağı kadar yaşlıydı. Eğer hayatta olsaydı. Ki değil.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BABYLON_CHAPTER_HISTORY_PARA_5">
+			<Text>Ancak Perslerin ilgisi başka yerlere kaydı ve İmparatorluk Persepolis'te yeni bir başkent inşa ederken Anşan sıradan bir köye dönüştü. Ve ardından, bir harabeye.</Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_FISHERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Geçinmek için balıkçılığa bel bağlayan kültürler, eninde sonunda aşırı avlanma tehdidiyle boğuşmak zorunda kalır. Denizden ne kadar çok balık çıkarılırsa, daha fazla balık üretecek o kadar az balık kalır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_FISHERY_CHAPTER_HISTORY_PARA_2">
+			<Text>Denenmiş ve test edilmiş bir çözüm, stoklarını kapalı alanlarda yetiştirerek bir nebze öngörülebilir miktarda balık üreten mütevazı balık çiftliğidir. Kültürler bu 'sürdürülebilir su çiftçiliğini' binlerce yıldır, antik Çin'in sazan çiftliklerinden modern kıyı somon ağıllarına kadar uygulamıştır. Bu tür uygulamalar, işin içinde olan herkes için iyi sonuç verir—tabii ki balıklar hariç.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CITY_PARK_CHAPTER_HISTORY_PARA_1">
+			<Text>Kentsel ortamlar insan faaliyeti için bir dizi avantaj sunar, ancak kentsel ortam zamanla sakinler için stresli de olabilir. Bu nedenle, halk tarafından kurulan ve bakımı yapılan alanlar, şehre daha fazla doğal unsur getirme fırsatı sunar. 19. ve 20. yüzyıllardaki doğaya yönelik romantik duyarlılıklar ve kamusal rekreasyon alanlarına yönelik ilerici tutumlar, hem en ünlü parkların (New York'taki Central Park gibi) yaratılmasına hem de daha önce kısıtlanmış parkların (Londra'daki Regent's Park veya Madrid'deki Casa de Campo gibi) halka açılmasına yön vermiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CITY_PARK_CHAPTER_HISTORY_PARA_2">
+			<Text>Şehir Parkı, şehrin sakinleri tarafından sevgiyle anılacaktır, çünkü pek çok şey sunar: Bir doğa vahası, sivil toplanma ve etkileşim için bir alan ve bazen de sahne sanatları için bir mekân. Burada, ağaçların altında insanlar, sadece günlük işlerinde oynadıkları rol değil, insan olmak için bir an ayırabilirler.</Text>
+		</Row>
+		<!-- Great People -->
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Timur (Batı'da sıkça 'Aksak Timur' veya 'Timurlenk' olarak bilinir), 12. yüzyılın Türk-Moğol bir savaş lorduydu; mütevazı kökenlerden yükselerek ölümü sırasında İran ve Orta Asya'da bir hanedan kuran ve ardından gelişen bir kültür çağına öncülük eden, gözü pek, amansız bir hükümdardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_2">
+			<Text>1336 yılında Semerkant yakınlarında doğdu. Dünyanın çalkantılı bir bölgesinde, çalkantılı bir çağda dünyaya gelmişti. Bundan bir asırdan az bir süre önce Cengiz Han ve Moğol İmparatorluğu Orta Asya'yı kasıp kavurmuş ve bölgeyi halef krallıklara bölmüştü. Timur, bugünkü Özbekistan topraklarına yerleşmiş bir Moğol grubundan gelen Çağatay Hanlığı'nda doğdu. Küçük bir göçebe topluluğun lideri olarak başladığı yolculuğunda, Cengiz Han'ın kullandığı alışılmadık atlı savaş taktikleri, siyasi entrika, diplomatik müzakere ve dehşet verici ünün aynı karışımını kullanarak, henüz 40 yaşına gelmeden tüm Maverâünnehir'in hükümdarı oldu. Hayatının geri kalanını savaşla geçirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_3">
+			<Text>Timur, Moğol İmparatorluğu'nun yeniden kurucusu olduğunu iddia etti ve fetihleri ile başarılı seferlerinin listesi etkileyicidir. İran'a karşı başladı, ardından Kuzey Hindistan, Rusya, Gürcistan, Mezopotamya, Suriye ve Mısır'daki fetihlere yöneldi ve nihayet 1405'te Çin seferinin başlangıcında öldü. Ancak o, cömert bir fatih değildi; Timur'un seferleri vahşet ve kan dökme ile ünlüdür. Halep şehrinin tüm zanaatkârlarını köleleştirdi ve onları zincirler içinde başkenti Semerkant'a sürükledi. Delhi ve Bağdat şehirlerini harabe halinde bıraktı. Çağdaş yazarlar, onu düşmanlarının kafataslarından kuleler ve piramitler yapmakla suçlarlar ki bu pek de inanılmaz görünmemektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_4">
+			<Text>Hayatı boyunca başkenti Semerkant'a büyük yatırımlar yapmış, orada çok az zaman geçirmesine rağmen şehri imar etmişti. Ölümünden sonra şehir, Selçuklu Türklerinin (mimari gibi) ve İran'ın (sanat ve edebiyat gibi) katkılarının yanı sıra uzun ticaret ve ticaret geleneğiyle harmanlanmış bir sanat ve kültür merkezi haline geldi. Soyundan gelenler, fethettiği toprakları bir yüzyıl boyunca ellerinde tuttular, ta ki Timur İmparatorluğu kardeş kavgası ve iç çekişmelerle çökene dek.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_TIMUR_CHAPTER_HISTORY_PARA_5">
+			<Text>Nasreddin Hoca fıkralarında Timur, bazen Nasreddin'in sade, halk bilgeliğinin acımasız ve güçlü bir karşıtı olarak görünür. İlgilenenlerin bunları okuması önerilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_1">
+			<Text>İspanya hizmetinde yetenekli bir Portekizli kaptan ve denizci olan Macellan, dünyayı dolaşan ilk seferi yönetmesiyle ünlüdür, ancak kendisi yolculuğun sonundan önce şiddetli bir sonla karşılaştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_2">
+			<Text>1480 yılında soylu bir Portekizli ailede doğan Macellan, kısa bir süre sarayda sayfa olarak görev yaptı. Portekiz valisini atamak üzere gönderilen bir birlikle Hindistan'a yelken açtı ve neredeyse on yıl orada yaşadı, ardından izinsiz bir yan ticaret işi yürüttüğü için Portekiz hizmetinden kovuldu. Tordesillas Antlaşması kısa süre önce dünyayı İspanya ve Portekiz arasında bölmüştü ve bu durum girişimci Macellan'a İspanya hizmetinde bir kâşif olarak hizmet etme fırsatı sundu. Mart 1518'de İspanya Kralı I. Charles, Macellan'a batıya giderek Baharat Adaları'na bir yol bulması için önemli bir fon verdi ve Eylül 1519'da Macellan beş gemi ve 270 adamla yola çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Sefer oldukça sıkıntılı geçti. Atlas Okyanusu'nu geçmek beklenenden uzun sürdü ve neredeyse bir isyana yol açıyordu. Bir gemi Patagonya üzerinden bir deniz yolu ararken kayboldu, bir diğeri ise seferi tamamen terk etti. Güney Amerika'nın ucundan geçen bir boğaz keşfedilip haritalandıktan ve sefer Pasifik Okyanusu'na girdikten sonra Macellan, Baharat Adaları'nın yalnızca birkaç günlük yelken mesafesinde olduğunu varsayarak Pasifik'in büyüklüğünü tamamen tahmin edemedi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_4">
+			<Text>Macellan, Filipinler'deki Mactan adasında kabileler arası yerel bir savaşa karıştıktan sonra çıkan bir çarpışmada öldürüldü. 6 Eylül 1522'de, yalnızca 18 sağ kalan mürettebat ve bir gemi (orijinal filodaki en küçük gemi) İspanya'ya döndü. Kurtulanlara ücretlerinin tamamı hiçbir zaman ödenmedi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_CHAPTER_HISTORY_PARA_5">
+			<Text>Sefer, bir dizi bilimsel keşif sağladı (gezegenin gerçek boyutunun doğrulanması dahil), ancak daha da önemlisi, dünyanın çevresini dolaşmanın mümkün olduğunu kanıtladı. Avrupa Keşif Çağı artık tüm ihtişamıyla sürmekteydi.</Text>
+		</Row>
+		<!-- Governors -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_CARDINAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Kardinal, Roma Katolik Kilisesi'ndeki en yüksek rahip rütbelerinden biridir, ancak benzer dini rütbeler birçok başka dinde de mevcuttur; Ortodoks Kiliselerindeki bazı Metropolitler veya Vajrayana Budizmi'ndeki Lama gibi. Bu makam, geniş mülklerin veya inancın önemli yönlerinden sorumlu büyük grupların denetimini gerektirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_AMBASSADOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Diplomatlar, halklarının dünyanın diğer bölgelerindeki temsilcileridir ve devlete hizmetin en eski ve saygın rollerinden biridir. Diplomatlara geleneksel olarak ayrıcalık ve saygı gösterilir ve diplomat da ev sahibine hem nezaket hem de incelikle davranır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_DEFENDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kale muhafızı, bir kale veya istihkâmın ve çevresindeki toprakların günlük işlerini yönetmekten sorumlu bir askeri görevlidir. Kaleler büyük hazine yatırımları ve önemli askeri güç noktaları olduğundan, kale muhafızı hem yetkin hem de siyasi açıdan güvenilir olmak zorundaydı. Savaş zamanlarında, yetkin bir kale muhafızı seferlerin kaderini ve dolayısıyla tarihi sonucu belirleyebilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_RESOURCE_MANAGER_CHAPTER_HISTORY_PARA_1">
+			<Text>"Kâhya" unvanı, Karanlık Çağlar'a kadar uzanır ve bir malikanenin efendisinin yokluğunda onun adına hareket edebilen temsilcisine verilir. Büyük güven ve öneme sahip bir konumdur ve iyi bir kâhya, malikanenin zenginliğini artırmak için çalışır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_BUILDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Eski bir fıkra der ki: "Toprağa yatırım yapın; çünkü onu yapmayı bıraktılar." Gerçek şu ki, arazinin etkili kullanımı önemli bir iştir ve alanın verimli kullanımı, araştırmalar ve haritalama yoluyla sahip olduklarınızı anlamakla başlar. Arazi ölçümü, antik çağlara kadar uzanan ve toprağın değerini anlayanlardan önemli destek gören bir diğer zanaattır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_EDUCATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Eğitimciler öğretmenden daha fazlasıdır; çağların bilgisinin koruyucularıdır ve hayatlarını bilginin korunmasına ve yayılmasına adarlar. Eğitim daha yaygın ve kapsamlı hale geldikçe, eğitimcinin çağlar boyunca biriktirilen bilgeliği öğrencilerine aktarmak için yeni ve etkili yollar bulma rolü de genişlemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_THE_MERCHANT_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir maliyeci, bütçe ve mali konuları çözmekle görevli bir memurdur; ekonomi ve piyasa psikolojisi konusunda keskin bir anlayış gerektirir. Devletin parasıyla oynamak, yüreksizlerin işi değildir.</Text>
+		</Row>
+		<!-- Espionage -->
+		<Row Tag="LOC_PEDIA_ESPIONAGE_FABRICATE_SCANDAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Takipçisi olmayan bir siyasi lider tehdit oluşturmaz ve bu takipçileri ortadan kaldırmanın en iyi yollarından biri, lideri halk nazarında itibarsızlaştırmaktır. İyi bir skandal genellikle işi görür ve skandalı ortaya çıkarmak veya uydurmak, yetkin bir istihbarat teşkilatının temel becerilerindendir. Altta yatan skandal tamamen uydurma olsa bile, hedef kişi iddiayı çürütmek için değerli siyasi sermayesini harcamak zorunda kalır. Bu uygulamayla ilgili zengin bir terim dağarcığı vardır: kompromat, bal kapanı ve rakip araştırması gibi. Başarılı bir skandal kampanyası yalnızca bir lideri devirmekle kalmaz, tüm partisini itibarsızlaştırabilir ve onu iktidardan uzaklaştırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_ESPIONAGE_FOMENT_UNREST_CHAPTER_HISTORY_PARA_1">
+			<Text>Yönetim konularında her zaman muhalif görüşler vardır. Bazen bu muhalif görüşler, marjinal grupların gerçekten uç noktadaki fikirlerini temsil eder, ancak siyasi tartışmada orantısız bir ağırlığa sahiptir. Ve bazen bunun nedeni, bu grupların dışarıdan biraz yardım almasıdır. İstihbarat ajanları genellikle destek arayışındaki muhalifleri bulmak, temas kurmak ve bu grupların kendi kaynaklarıyla olacağından daha etkili olmalarına yardımcı olmak için eğitilir. Bu genellikle hedef hükümetin politikalarını ve uygulamalarını sabote etme veya zayıflatma niyeti taşır. Hatta bu uygulamada uzmanlaşmış bir istihbarat subayı için teknik bir terim bile vardır: Kışkırtıcı ajan (agent provocateur).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_ESPIONAGE_NEUTRALIZE_GOVERNOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Casusluğun en üzücü biçimlerinden biri, kilit kişilerin ortadan kaldırılmasını içerir - örtmece bir ifadeyle "etkisiz hale getirme" olarak adlandırılır - ve bu acınası uygulama, MÖ 2. veya 3. yüzyılda Hint devlet yönetimi el kitabı Arthashastra'da kodifiye edilecek kadar eskidir. Civilization VI'daki liderlerden birkaçı etkisiz hale getirme girişimlerine hedef olmuştur. Pek çok lider, etkisiz hale getirme nedeniyle kariyerlerine erken son vermiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_ESPIONAGE_NEUTRALIZE_GOVERNOR_CHAPTER_HISTORY_PARA_2">
+			<Text>Ancak bu oyunda, etkisiz hale getirme girişimi Vali için asla ölümcül değildir; Vali ya sakinleştirici bir okla vurulur ve bir süre kestirir ya da korku geçirir ve sinirlerini yatıştırmak için güzel bir fincan çay eşliğinde biraz zaman geçirmek zorunda kalır.</Text>
+		</Row>
+		<!-- Spy Promotions -->
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SPY_LICENSE_TO_KILL_CHAPTER_HISTORY_PARA_1">
+			<Text>Casusluk edebiyatında, “öldürme yetkisi” – devlet adına yargısız infaz gerçekleştirme izni – sıkça rastlanan bir izlektir. Bu öykülerde, böyle bir yetki yalnızca en seçkin ajanlara, en tehlikeli görevler için verilir. Gerçekte ise yargısız infazlar ve ölümcül güç kullanımı sıkı bir denetime tabidir; zira bu güç, ilgili kurumlar tarafından suiistimal edilebilir. En azından böyle olması gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SPY_SMEAR_CAMPAIGN_CHAPTER_HISTORY_PARA_1">
+			<Text>Karalama kampanyası, bir kişi veya kurumun itibarını veya popülerliğini zedelemek için aleyhte bilgilerin ortaya atıldığı koordineli bir çabadır. Malzemenin gerçek (ve skandal) olması işe yarar, ancak bağlamından koparılmış alıntılar veya kurbanın geçmişinden unutulmuş bilgiler de kullanılabilir. Bazen malzeme uydurulur ve gerçekmiş gibi sunulur; mağdurun inkârları çoğu zaman karalamalara daha fazla dikkat çekmekten başka işe yaramaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SPY_COVERT_ACTION_CHAPTER_HISTORY_PARA_1">
+			<Text>Örtülü operasyon, bir devlet tarafından üstlenilmeyen ya da kanıtları ortaya çıktığında inkâr edilecek siyasi bir eylemdir. Bu, çoğu aktif casusluk görevi ve karşı istihbarat operasyonlarının yanı sıra bir dizi başka faaliyeti de kapsar. Örtülü operasyonun kamuoyuna sızma olasılığını en aza indirmek için görevden yalnızca küçük bir grup birey haberdar edilir, planlar veya yürütür.</Text>
+		</Row>
+		<!-- Governor Titles -->
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_CHAPTER_HISTORY_PARA_1">
+			<Text>20. yüzyılda şehirlerin stratejik bombalanmasının artması, şehir merkezleri için hava savunma sistemlerinin oluşturulmasına yol açtı. Şehir hava savunmasındaki asıl patlama, I. Dünya Savaşı sırasında projektörler ve toplarla başladı ve erken Soğuk Savaş dönemine kadar radar ağları ve füze rampalarıyla devam etti. Nihayetinde nükleer silahlar ve kıtalararası balistik füzeler o kadar güçlü hale geldi ki hava savunması fikri bir nebze Don Kişotvari bir hal aldı ve sivil hava savunmasına olan ilgi azaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Varlık, bol zenginliğin niteliğidir; genellikle sahibinin hayatta kalma endişesinden kurtulup parasını boş zaman etkinliklerine ayırabileceği kadar büyük bir servet olarak tanımlanır. Para mutluluk satın alamayabilir, ama güzel şeyler acıları biraz daha katlanılır kılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Elçi, belirli bir diplomatik veya siyasi görev için gönderilen temsilcidir. Çoğu zaman, bir barış anlaşması sağlamak veya veraset tanıklığı yapmak gibi belirli bir yetkileri vardır. Diplomasi ve incelik gerektiren bir roldür. Bir elçi, diplomatlara tanınan dokunulmazlıktan yararlanamayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_CHAPTER_HISTORY_PARA_1">
+			<Text>Resmî olarak onaylanmış bir haberci, devlet yöneticileri adına mesaj taşıyabilen veya sunabilen kişidir. Bu basit görünse de, haberci rolünün o kadar önemli görüldüğünü düşünmek gerekir ki birçok din, panteonlarına bir haberci tanrısı dahil etmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Saygınlık, başarıdan doğan saygı ve nüfuzdur. Saygınlık eylemlerle kazanılmalıdır, doğrudan verilmez. Diplomatları, uluslarının dünya sahnesindeki saygınlığını parlatmak için kullanmak yaygındır; bu da gelecekteki müzakerelerde siyasi avantaj sağlayabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir tanıtıcı, bir etkinliğe veya mekâna dikkat çeker ve insanları oraya çekmeyi amaçlar. Tanıtımın bir sanatı vardır; tanıtıcı, davasını o kadar cazip kılmalıdır ki insanlar doğal durağanlıklarını yenip hakkında çok şey duydukları bu şeyi görmeye gelsinler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kuklacı, insanları arzuladığı sona ulaşmak için birer araç olarak manipüle eder, ancak kendi rolünün inkâr edilebileceği (ya da en azından kamuoyu tarafından fark edilmeyeceği) bir biçimde. Kuklacı, usta bir politikacı olmalı ya da hedeflerinin katılımını ve sessizliğini sağlayacak kadar kirli bilgiye sahip olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_AQUACULTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>En eski avcı-toplayıcı kültürlerden itibaren, kıyılarda yaşayan insanlar balık bentleri ve havuzlar inşa ederek doğal balıkçılık alanlarından yararlandılar. Kara tabanlı tarımın maliyeti arttıkça ve doğal balık stokları tehdit altına girdikçe, su ürünleri yetiştiriciliği akımı sürdürülebilir, kontrollü deniz ürünü popülasyonları oluşturmanın yollarını aramaktadır. Yetiştiricilikten elde edilen deniz ürünleri, günümüzde dünya deniz ürünlerinin giderek artan bir yüzdesini oluşturmaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_ARCHITECT_CHAPTER_HISTORY_PARA_1">
+			<Text>Halka yönelik eğlence ve keyif biçimleri, bir liderin halkı nezdinde popülerlik kazanmasının yaygın bir yoludur. Başarılı halk eğlencelerini organize etme ve yönetme yeteneği, en azından Roma döneminden beri büyük değer görmüştür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Lonca başkanı, bir zanaatkâr loncasının başıdır. Lonca başkanı, loncanın şehrin siyasi ve ekonomik yaşamındaki önemini sürdürmekten ve lonca sırlarının ve uygulamalarının ustalardan çıraklara sorunsuz aktarılmasını sağlamaktan sorumludur. Çoğu lonca başkanı emsalleri tarafından seçilir ve bu nedenle büyük saygınlık ve kentsel öneme sahip bir konumdur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_BISHOP_CHAPTER_HISTORY_PARA_1">
+			<Text>Piskopos unvanı en yaygın olarak, diocese adı verilen bir coğrafi bölgedeki kilise işlerinden sorumlu Hristiyan liderler tarafından kullanılır. Çoğu diocese, Roma İmparatorluğu döneminde başlayan bir süreçle şehirlerde merkezlenmiştir. Piskoposlar, tarih boyunca ruhani otoritelerinin yanı sıra önemli ölçüde seküler siyasi güç de elde etmişlerdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_CHAPTER_HISTORY_PARA_1">
+			<Text>Fiziksel bir kaleye, inşa edildiği çatışma dinî bir boyut içeriyorsa, ruhani bir anlam yüklenebilir. Mont Saint-Michel, “Tanrı’nın Kalesi” olarak kabul edilebilecek mükemmel bir örnektir; tıpkı haşhaşilerin ünlü yuvası olan Masyaf kalesi gibi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_CHAPTER_HISTORY_PARA_1">
+			<Text>Dünya genelinde ilahi ilhamla yapılan mimari tasarım ve planlama gelenekleri vardır. Örneğin, Himalaya dzongları (bir tür devasa, müstahkem manastır kompleksi) geleneksel olarak mimari planlar kullanılmadan inşa edilir; lama ilahi ilhamla bir vizyon sunar ve işçileri bunu hayata geçirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Baş Engizisyoncu, özellikle yüksek rütbeli bir dinî engizisyoncudur ya da engizisyoncuların kararları için bir tür temyiz mahkemesi işlevi gören kişidir. Dinî unsurlar içeren suçların yargı yetkisi konusunda seküler ve dinî organlar arasında müzakereler yürütebilirler. Bir baş engizisyoncunun huzuruna çağrılmaktan mutluluk duyacak birini hayal etmek güçtür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_CHAPTER_HISTORY_PARA_1">
+			<Text>Elleri koyma, antik bir dinî harekettir; takdis, özel bir kutsallığa meshetme veya mucizevi şifayı temsil eder. Elleri koyma biçimleri birçok büyük din tarafından uygulanır ve bu dinlerde az ya da çok kodifiye edilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_CHAPTER_HISTORY_PARA_1">
+			<Text>Birçok din, kutsal kişileri över ve onların hayatlarını yerler ve uygulamalarla ilişkilendirir. Aziz daha sonra o yerin veya mesleğin insanları için aracı olarak hizmet edebilir. Şaşırtıcı sayıda ve çeşitlilikte koruyucu aziz vardır: Guan Yu (Hong Kong'da hem gangsterler hem de polis tarafından sahiplenilir), Paris'in koruyucu azizi Aziz Denis (kendi kopmuş kafasını taşırken tasvir edilir) veya kedilerin koruyucu azizi Nivellesli Azize Gertrude gibi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Eski bir askerî deyiş vardır: “Amatörler strateji çalışır; uzmanlar lojistik çalışır.” Bir ordu, mermisi veya ekmeği yoksa savaşamaz; bu nedenle bu malzemelerin sürekli tedariki bir generalin zamanının önemli bir kısmını alır. İyi yapılırsa, küçük bir kuvvet bile zafere ulaşabilir. Kötü yapılırsa, savaş daha başlamadan biter.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_CHAPTER_HISTORY_PARA_1">
+			<Text>Silahlanma yarışı genellikle devletler için pahalı, istenmeyen ve tehlikeli bir uğraş olarak görülür; zira hazineyi hızla tüketebilir ve istem dışı savaşlara yol açabilir. Ancak bazı siyaset felsefecileri, bir silahlanma yarışında ayakta kalan son devletin kazanan olduğuna ve bu yolda rakibinizi iflasa sürükleyebilirseniz bunun daha da iyi olacağına işaret ederler. Bu düşünce, Birinci Dünya Savaşı öncesi zırhlı silahlanma yarışı ve Soğuk Savaş'ın Stratejik Savunma Girişimi gibi olgulara yol açmıştır ki, sonradan bakıldığında bunların herkesin vergi dolarlarının en akıllıca kullanımı olmadığı anlaşılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir 'connoisseur' (uzman beğeni sahibi), yiyecek, şarap veya sanat gibi bir ürünün kalitesindeki ince dereceleri ve farklılıkları takdir eden kişidir. Hazcı felsefelerde (Epikürcülük gibi) zevklerin kalitesini ayırt etme ve ifade etme yeteneği övülür. Huysuz muhalifler ve eğitimsizler ise bu uzmanın alışkanlıklarını ve zarif zevklerini alaya alma eğilimindedir. Ne kadar kaba bir davranış!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Hibe, bir araştırma projesi için kamu parası bağışıdır. Hükümetler, bu araştırmanın uygulanmasını teşvik edeceği ve yaşam kalitesinde iyileşmelere ya da yeni ürün ve hizmetlere yol açacağı umuduyla temel araştırmaları destekler. İnternet, hibe ile finanse edilen ve tarihte derin bir etki yaratmış olan harika bir araştırma projesi örneğidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Kütüphaneci, bir kütüphanenin kitaplarını korumaktan ve kütüphanenin standartlarına uygun yeni kitaplar edinmekten sorumludur. Bu nispeten kadim bir meslektir ve metinleri okuma ile değerlendirmede nadir bulunan bir uzmanlık gerektirir. Kütüphaneciler ayrıca gelecek nesiller için değerli bilgilerin arşivleyicileri ve koruyucuları olarak hizmet ederler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_CHAPTER_HISTORY_PARA_1">
+			<Text>Kelime kökeni açıklaması korundu. 'Research' için İngilizce terim parantez içinde verildi. 'Go about seeking' ifadesi 'aramaya gitmek' olarak çevrildi. 'We owe much to these people' cümlesi 'Bu insanlara çok şey borçluyuz' şeklinde aktarıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_CHAPTER_HISTORY_PARA_1">
+			<Text>Uzay programları genellikle ulus tarafından çılgınca benimsenir ve bu halk desteği, beraberinde getirdikleri maliyetler ve riskler göz önüne alındığında önemlidir. İyi bir uzay girişimi, bilimsel programdan elde edilen potansiyel ve fiili kazanımları kamuya aktarır ve popüler desteği güvence altına alır. Hatta yakın çağlarda, devam eden araştırma programına anlamlı yollarla katkıda bulunmaları için vatandaş ve öğrenci bilim insanlarını teşvik etmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_EMBRASURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Teknik olarak konuşmak gerekirse, bir mazgal (embrasure), menzilli silahların kullanıcılarını korurken ateş etmesine izin vermek için bir tahkimatta açılan boşluk veya aralıktır. Bu terim, genellikle ustalıkla örtüşen ve saldırganlar için işleri çok tehlikeli hale getiren bir savunma sisteminin parçası olarak menzilli ateş bölgelerinin yerleştirilmesine daha genel olarak uygulanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_GARRISON_COMMANDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Garnizon, bir tahkimata atanmış daimi bir asker gücüdür. Garnizon komutanı bu birlikleri yönetir ve aynı zamanda tahkimatların bakımından sorumludur. Barış zamanlarında bu çok sıkıcı bir görev olabilir. Ancak savaş zamanlarında, garnizon komutanı çok daha büyük bir kuvvete sahip olabilir ve yakın bölgenin askeri operasyonlarını yürütebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_INFRASTRUCTURE_CHAPTER_HISTORY_PARA_1">
+			<Text>Altyapı, hayatın üzerine inşa edildiği maddi yüzeydir: Yollar, köprüler, limanlar vb. Her ne kadar pek heyecan verici olmasa da altyapı, bir toplumun sağlığında kritik bir rol oynar. İyi altyapı, malzemelerin pazarlara taşınma maliyetlerini düşürür, bu da piyasa verimliliklerini artırır ve genel olarak fiyatları düşürür. İyi altyapıya sahip uygarlıklar, altyapı çökmeye başladığında hızla gerileyebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Hükümetler, kamu sektörünün ayrıntıları verimli ve uygun maliyetli bir şekilde ele alabileceği umuduyla işleri yürütmek için genellikle kamu sektörüne sözleşmeler verir. Bu süreç, kaçınılmaz olarak, bu sözleşmeleri taslak haline getirebilen ve denetleyebilen, yüklenicilerden güncellemeler isteyebilen ve sözleşmelerin nasıl işlediğine dair sonsuz durum raporları sunabilen kamu görevlilerinin uzmanlaşmasına yol açmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_CURATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Küratör, sanat ve eserlerin yorumlanmasında uzmanlaşmış ve bunları öğrenmeyi ve anlamayı kolaylaştıracak şekilde halka sunan kişidir. Bu önemli ve ödüllendirici bir konumdur ve bir alandaki araştırmacı ve küratörlerin bir sonraki neslinin hayal gücünü ateşleyebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Sikke basımının başlamasından bu yana, herkesin paralarının eşit değerde olmadığı konusunda bir anlaşma olmuştur. Bunun üzerine döviz değişimi ortaya çıkmış ve tüccarların, geldikleri herhangi bir parayı yerel olarak kabul edilen para birimiyle değiştirmelerine olanak sağlamıştır; genellikle değiştiricinin işlemin bir yüzdesini elinde tutmasına izin verilmiştir. İngilizce "bank" (banka) kelimesi, ortaçağ para adamlarının döviz işlemlerini gerçekleştirdikleri tezgahların adı olan İtalyanca "banca" kelimesinden türemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Liman müdürü, limanın günlük işleyişini denetler, gelen gemileri ve yüklerini kaydeder ve gümrük tarifelerinden elde edilen geliri toplar. Limanının sorunsuz ve düzenli işlemesini sağlamalıdır; aksi takdirde itibarını kaybeder ve değerli ticaretin başka, daha dost canlısı limanlar aramasına neden olur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_CHAPTER_HISTORY_PARA_1">
+			<Text>Devletin toprağa ihtiyacı vardır ve devlet toprak edinecektir. Devlet için toprak kazanma yöntemleri kadimdir ve çoğu modern devlet, özel mülkiyetteki arazinin, adil piyasa değeri karşılığında devlet kullanımı için bireylerden zorla alınabileceği "kamulaştırma" (eminent domain) yasal kavramının eşdeğerine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_CHAPTER_HISTORY_PARA_1">
+			<Text>İnsanlık halinin kaçınılmaz iki gerçeğinden biri olan vergi tahsildarları, devletin en önemli ve en sevilmeyen çalışanlarındandır. Devlet operasyonlarını finanse edecek gelir olmadan birçok kamu malı mümkün olmazdı. Tarih boyunca vergi toplama yöntemleri nispeten ılımlı olandan aşırıya kadar uzanmıştır. Sahip olduğunuz bu beceriye sahip Valinizin bunu halkın öfkesini çekmeden başardığını varsayın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_PARKS_RECREATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Kamusal arazinin ve kamusal rekreasyonun önemi hakkında artan farkındalık (özellikle 20. yüzyıldaki İlerlemeci Dönem'de), bu kamu mallarının etkin kullanımını denetlemek için hükümet kurumlarının oluşumuna yol açmıştır. Güzel bir günde kalabalık bir halk parkının görüntüsü, yalnızca Parklar ve Rekreasyon Komisyonu'nun değil, herhangi bir sivil bilinçli vatandaşın moralini yükseltir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_REDOUBT_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir tabya (redoubt), daha büyük bir savunma sisteminde yerel bir savunma odak noktası olan küçük bir kaledir. Bir tabyayı ele geçirme (veya tutma) girişimleri, askeri tarihin birçok noktasında, nadir cesaret eylemlerine sahne olarak çok önemli bir rol oynamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_CHAPTER_HISTORY_PARA_1">
+			<Text>"Kara borsa", yasa dışı veya ruhsatsız malların alınıp satıldığı bir pazardır. Bazı hükümetler, özellikle satılan malların devleti devirmesi muhtemel görünmüyorsa, belirli kara borsalara tolerans gösterir. Hatta bir hükümetin, bu mallardan bazılarına, inkâr edilebilir bir şekilde ihtiyaç duyulması halinde, bir hatta sahip olması faydalı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_CHAPTER_HISTORY_PARA_1">
+			<Text>Tedarik (provisioning), bir şeye başarıya götürecek temel araç ve malzemeleri sağlamaktır. Başlangıçta yiyeceği ifade etse de, şimdi daha genel bir şekilde temel malzemeler anlamına gelir. Etkili tedarik, yeni girişimlerin savunmasız büyüme aşamalarında başarı şanslarını artırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_CHAPTER_HISTORY_PARA_1">
+			<Text>"Temel kazma" (breaking ground), bir binanın inşaatının başlangıcıdır ve daha genel olarak herhangi bir projenin başlangıcı anlamında kullanılabilir. Bir planın teorik olmaktan çıkıp fiziksel varlığa dönüştüğü noktadır ve bu nedenle önemli bir törensel öneme sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir sanayici, fabrikalar inşa ederek ve çok sayıda işçi çalıştırarak bir endüstrinin kurulmasını veya genişletilmesini denetler. Piyasa fırsatları ortaya çıkmaya başladığında, kurnaz sanayiciler bu fırsatları görür ve mallarına olan talebi karşılamak (veya yaratmak!) için çalışır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>İyi bir şeyin fazlası, o şeyin israfı olabilir. Fazla olan malları, kıt oldukları yerlere ulaştırmak faydalıdır; ancak bu, malların en çok ihtiyaç duyulan yerlere organize edilmesi ve taşınması konusunda çok fazla çalışma gerektirir. Neyse ki, bu tür işlere yatkın insanlar vardır. Ve bu iyi bir şeydir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_CHAPTER_HISTORY_PARA_1">
+			<Text>İş dünyasında dikey entegrasyon, bir ürünün üretim ve dağıtımının tedarik zincirinin birçok noktasında kontrol edilmesi sürecidir. Klasik örnek, otomobillerinde kullanılan çeliği sağlamak için çelik fabrikalarına sahip olan bir otomobil şirketidir. Bu uygulama, bir ürünü üretmek için güvenilir bir malzeme kaynağı sağlama avantajına sahiptir. Ancak aşırıya kaçıldığında, dikey entegrasyon tekeller yaratır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_SECURITY_EXPERT_CHAPTER_HISTORY_PARA_1">
+			<Text>Kilit kişileri ve kritik bilgileri düşman aktörlerden korumak önemli bir iştir; olası olmayan tehlikeleri ve imkânsız riskleri düşünmeyi ve bunları kaçınılmazmış gibi ele almayı gerektirir. Başarılı güvenlik uzmanları, düşman eylemlerini önceden tahmin eder ve engeller, zayıf noktaları ortadan kaldırır ve kötü niyetlileri kurnaz tuzaklara yönlendirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_PAGE_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_CHAPTER_HISTORY_PARA_1">
+			<Text>İmar, insanların tehlikeli veya zararlı endüstrilerin veya işletmelerin bitişiğinde yaşaması gibi istenmeyen durumları önlemek için arazinin nasıl kullanılacağını belirleme sürecidir. Komiser, imar yönetmeliklerine karar veren kişidir ve bu nedenle belirli faaliyetlerin nerede yapılabileceği konusunda hatırı sayılır bir güce sahiptir. Komiser, arazinin tüm olası kullanımlarını değerlendirmeli ve toplumun gelecekteki ihtiyaçlarını şimdiki ihtiyaçlarla dengeleyerek düşünmelidir.</Text>
+		</Row>
+		<!-- Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LIMITANEI_CHAPTER_HISTORY_PARA_1">
+			<Text>Limitanei, Geç Batı Roma İmparatorluğu ve erken Bizans İmparatorluğu'nun sınır garnizon birlikleriydi; isimleri 'askeri sınır bölgesi' anlamına gelen 'limes' kelimesiyle aynı kökten gelir. Zamanla bu birlikler, Romalılar için yerel olarak toplanan bir milis gücüne dönüştü ve imparatorluğun diğer güçlerinin prestij ve profesyonelliğinin bir kısmını kaybetti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_AFTER_ACTION_REPORTS_CHAPTER_HISTORY_PARA_1">
+			<Text>Askerler tarih boyunca başarıları üzerine düşünmüşlerdir ve katılımcılar tarafından yazılmış sayısız askeri tarih örneği farklı kültürlerde bulunabilir. Ancak modern Harekat Sonrası Raporu (AAR), kurmay subayının artan profesyonelliğinin bir ürünüdür. AAR, hedeflerin ve amaçların, sonuçların ve gelecekteki eylemler için tavsiyelerin analitik bir incelemesine dayanan resmî bir iştir. Harekat Sonrası Raporları, modern subay müfredatının kritik bir parçasıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_SECOND_STRIKE_CAPABILITY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir nükleer saldırıdaki ilk vuruş, başlangıç salvosudur. İkinci vuruş, ilk saldırı (ilk vuruş) ikinci vuruşu yapanın yok olmasına yol açsa bile, bir nükleer saldırganı misilleme saldırısıyla yok etme yeteneğidir. Özetle, ölümün ötesine vurmanın bir yoludur. Nükleer caydırıcılık teorisinin soğuk, insanlık dışı, rasyonel hesaplamasında, ikinci vuruş kabiliyeti, ulusun ezici bir ilk vuruşla yok edilmeyeceğini garanti eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_WISSELBANKEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Hollanda şehirleri erken modern dönemde bankacılık merkezleri haline gelirken, tüccarlar arasında poliçelerin istikrarlı ve güvenilir bir şekilde ele alınması ihtiyacı da gelişti. Wisselbank, tüccarlar arasındaki işlemleri kolaylaştırmak için kendi senetlerini sunan ve kendi değerli metal rezervine sahip bir tür ticari borç veren ve komisyoncu olarak hareket ediyordu. Bankgeld banknotları, Avrupa'da itibari paranın en eski örneklerinden bazılarıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_PRAETORIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>Aslen Roma praetor'unun bir Lejyon kampındaki çadırı olan 'Praetorium' terimi, Roma yargı merkezinin bulunduğu binayı ifade etmek için daha yaygın olarak kullanılmaya başlandı. Hem yasal işlemlerin hem de yürütme yönetiminin gerçekleştiği bir yer haline geldi ve yasanın uygulanmasında kendine özgü ritüelleri ve gelenekleri vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COMMUNICATIONS_OFFICE_CHAPTER_HISTORY_PARA_1">
+			<Text>Modern diplomasi kitle iletişim araçlarıyla karşılaştığında, iletişim ofisi devreye girer. Gece gündüz ofis, kamuoyunu şekillendirmek, eleştirileri savuşturmak, olumsuz olayları hafife aldırmak ve modern diplomatı her zaman bilge ve soğukkanlı göstermek için çalışır. Bu uzman ekipler, her gelişen olay için mesajı hazırlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_CIVIL_PRESTIGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Kamu işlerinin özel olarak finanse edilmesi, bireyin prestijini artırmanın bir yoludur ve Geç Cumhuriyet ile Erken İmparatorluk dönemlerinde Roma'da yaygın olarak uygulanmıştır. Hamam, bazilika ve su kemeri gibi kamu olanakları bağışlayarak halkın desteğini kazanmanın bir yoluydu; böylece patron daha yüksek bir makam için seçime girdiğinde güvenilir bir destek tabanı sağlayabiliyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_DARKAGE_POLICIES_NAME">
+			<Text>Karanlık Çağ Politikaları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_MONASTICISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Manastırlarda dünyadan izole bir şekilde yaşayan keşişler, bazen toplumsal çalkantı dönemlerinde aksi takdirde kaybolabilecek bilgiyi korumaya hizmet etmişlerdir. Örneğin, Batı Roma İmparatorluğu'nun çöküşünü takip eden Avrupa Karanlık Çağı'nda, birçok yerdeki manastırlar, laik kütüphanelerde veya özel koleksiyonlarda kaybolan metinleri kopyalamış ve korumuştur. Bu metinler bu dönemde daha geniş bir dolaşıma girmemiş olabilir, ancak bu dini toplulukların çabaları bu bilginin tamamen kaybolmasını önleyebilir. Bununla birlikte, Aristoteles'in 'Poetika'sının ikinci kitabının günümüze ulaşan bir kopyasının olması güzel olurdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_TWILIGHT_VALOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Hiçbir şeyin, dikkati keskinleştirmek ve kahramanlığı, yakın ve kesin bir ölüm kadar iyi ilham ettiği söylenir. Mahkûm güçlerin son direnişi, Rokugo İsyanı'ndan Alamo'ya, Masada'ya kadar sayısız destansı şiire, hüzünlü şarkıya ve diğer edebi eserlere konu olmuştur. Belki mahkûm askerler yoldaşlarını kurtarmak için zaman kazanırlar; belki de tek tesellileri görevleri ve silah arkadaşlarıdır. Belki de şanslılarsa, kendilerinden sonra gelen çağlarda hatırlanırlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_INQUISITION_CHAPTER_HISTORY_PARA_1">
+			<Text>Hain sapkınlıkların peşinde güçlü bir karşı-reform, dini otoritelerin sapkınları suçlu olarak takip etmek için laik otoritelerle birlikte çalışmasını ve engizisyoncular tarafından dini temalı suçlar işleyen suçluları yargılamasını gerektirebilir. İspanya Engizisyonu en ünlüsüdür (kötü şöhretli muhtemelen daha doğru olur), ancak benzer Engizisyonlar Protestan Reformu sırasında Avrupa ve Yeni Dünya'da kurulmuştur. Engizisyon süreci, genel olarak, sanığın aleyhineydi. Bunun sonucunda, engizisyonların en aktif olduğu topraklarda özgür araştırma üzerinde daha geniş çapta bastırıcı etkileri oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ISOLATIONISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Ticaret, ulus dışındaki tarafları kayıran sıfır toplamlı bir oyun olarak görüldüğünde ve bu, olumsuz bir ekonomik dönüşle birleştiğinde, ekonomik izolasyon siyasi bir çözüm olarak özellikle çekici hale gelir. Tokugawa Şogunluğu'nun Japonya'yı kapatması, tarihin en ünlü izolasyonizm örneklerinden biridir ve yaklaşık 250 yıl sürmüştür. Ancak dış ticaretin yokluğu durgunluğa ve büyüme eksikliğine ve nihayetinde ekonominin dünyaya yeniden entegre olmasıyla şoka neden olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LETTERS_OF_MARQUE_CHAPTER_HISTORY_PARA_1">
+			<Text>Marka ve Misilleme Mektubu, bir hükümet adına düzenlenen ve taşıyıcısına savaş zamanında karşı bir ulusun ticari gemilerini ele geçirme hakkı veren bir belgedir. Bu mektupları taşıyanlar, korsanlardan (çünkü sizi destekleyen bir ulus olmadan korsanlık yapmak yasa dışıdır) ayırt edilen özel korsanlardır (privateer). Marka Mektupları, 18. yüzyılın sonu ve 19. yüzyılın başlarında askeri politikanın son derece popüler bir aracıydı ve başarılı bir özel korsanın destekçileri için kazançlı bir yatırım olabilirdi. Ele geçirilen bir ganimetin değeri, özel korsanın destekçisi ve mürettebatı arasında paylaştırılırdı ve çoğu zaman çok büyük bir meblağ olabilirdi; bu da güneşli bir öğleden sonra bir yıllık maaş kazanma umuduyla deneyimli denizcileri cezbederdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LETTERS_OF_MARQUE_CHAPTER_HISTORY_PARA_2">
+			<Text>1812 Savaşı sırasında, 'Chasseur' brik gemisinin küstah Amerikan mürettebatı, Manş Denizi'nde İngiliz ganimetlerini ele geçirmeyi başardı ve hatta adanın tek gemilik bir ablukasını uyguladığını alenen ilan etti; bunun gerçek bir pratik gücü yoktu, ancak Kraliyet Donanması'nı çılgına çevirdi, Londralı tüccarları dehşete düşürdü ve Baltimore sakinlerini sevindirdi. Dolaylı olarak, eylemleri Beyaz Saray'ın yakılmasına da yol açtı, ancak şimdilik bunu bir kenara bırakıp hareketin cüretkârlığına hayran kalalım.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ELITE_FORCES_CHAPTER_HISTORY_PARA_1">
+			<Text>Josef Stalin'in 'Niceliğin kendine has bir kalitesi vardır' sözünü söylediği rivayet edilir, ancak bu, askeri güçlerin çağlar boyunca ellerinden gelebilecek en kaliteli savaş araçlarını ve eğitimi elde etmeye çalışmasını engellememiştir. Antik çağdaki Mısır savaş arabası okçusundan başlayarak, bir çağın en etkili birlikleri genellikle etkilerini elde etmek için pahalı ekipman ve uzun eğitim gerektiriyordu. Yüksek Orta Çağ'ın Fransız şövalyesi, üstün ekipman ve uzun eğitimin bir sonucu olan başka bir örnektir. Günümüze gelindiğinde, hava saldırıları, insansız hava araçları ve savaş alanı gözetlemesinin yüksek teknolojisiyle desteklenen sahada küçük özel harekat ekipleri vardır. Bazen ekipman ve eğitimin kalitesi, zafer ve yenilgi arasındaki farktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_COLLECTIVISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Geleneksel olarak bireyselliğin siyasi-felsefi öteki kutbu olarak görülen kolektivizm, ortak emeği, mülkiyeti ve bir iç grupla özdeşleşmeyi vurgular. Bu yapı, hiyerarşik olabilir (bireylerin hiyerarşiye uyum kabiliyetine göre övüldüğü bir düzen) ya da daha yatay olabilir (grup içindeki bireyler arasındaki eşitliğin vurgulandığı bir yapı). Tarih boyunca çeşitli kolektivist ekonomik ve sosyal deneyler, değişen başarı dereceleriyle hayata geçirilmiştir. 1920'lerde Sovyet çiftliklerinin zorla kolektifleştirilmesi, bütünüyle bir felaketti. Güney Afrika'nın ubuntu teoloji hareketi, ülkenin Hakikat ve Uzlaşma Komitesi ile Apartheid sisteminin yıkılmasında belirleyici bir rol oynadı. Toplu eylemin avantajları ve tehlikeleri hâlâ hararetle tartışılmakta olup, muhtemelen daha uzun bir süre daha tartışılmaya devam edecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROGUE_STATE_CHAPTER_HISTORY_PARA_1">
+			<Text>Bireyler gibi uluslar da birbirleriyle düzenli ve sorunsuz bir ilişki sürdürebilmek için belirli siyasi normlara uyarlar. Bir ulus, bir avantaj elde etmek amacıyla bu normları görmezden gelmeyi seçebilir; bu davranış tekrarlandığında veya aşikar bir hal aldığında, o ulus "haydut devlet" olarak damgalanır. Bu durum çoğu zaman rejimin siyasi olarak tecrit edilmesine yol açar, ancak haydut devletin cezalandırılmasının maliyeti, uluslar topluluğunun ödemeye razı olduğu bedelden daha yüksekse, bu asi ulus istediğini yapmakta özgür kalabilir. Haydut devletler tamamen siyasi parya konumunda olabilir veya onları ayakta tutmaya gönüllü bir avuç hamisi bulunabilir (bazen başarısız bir haydut devlet, istikrarlı bir haydut devletten daha tehlikelidir). Dünyanın geri kalanı bu devletleri en iyi ihtimalle son derece sinir bozucu, diplomatik normların kırılganlığının tatsız bir hatırlatıcısı olarak görür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_ROBBER_BARONS_CHAPTER_HISTORY_PARA_1">
+			<Text>Serbest girişim sistemi bazen, azim, acımasızlık, kurnazlık, güç, öngörü, saf talih ve çoğu zaman da daha az vicdani yöntemlerle ticaret ve sanayi üzerinde olağanüstü bir nüfuz kazanan bireyler doğurur. "Soyguncu Baron" sıfatı daha önce Kutsal Roma İmparatorluğu'nun topraklarını yağmacı faaliyetler için üs olarak kullanan soyluları için kullanılırken; sonradan Yaldızlı Çağ iş dünyasının Carnegie'ler, Rockefeller'lar, Stanford'lar, Cooke'lar ve Duke'ları gibi isimlerine de yakıştırılmıştır. Nihayetinde kamuoyunun öfkesi hükümetleri bu baronların uygulamalarını dizginlemeye zorladı ve pek çoğu devasa servetlerinin bir kısmını hayırsever faaliyetlerle itibarlarını onarmak için kullandı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

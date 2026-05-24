@@ -1,0 +1,312 @@
+<GameData>
+	<EnglishText>
+		<!-- Indonesia --> 
+		<Row Tag="LOC_CIVINFO_INDONESIA_LOCATION">
+			<Text>Güneydoğu Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDONESIA_SIZE">
+			<Text>735.358 mil kare</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDONESIA_POPULATION">
+			<Text>2017 tahminine göre 263,51 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDONESIA_CAPITAL">
+			<Text>Cakarta</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Budist-Hindu Majapahit Krallığı (bugünkü Endonezya sınırları içinde) gücünün zirvesinde, 98 bölgesel bağımlı devlet üzerinde hüküm süren, bir zamanlar kudretli Moğol İmparatorluğu'na bile direnmiş müthiş bir devletti. Burada hükümdar yalnızca yönetici değil, aynı zamanda halkı tarafından yetki verilmiş bir koruyucuydu. Peki ya halk, liderin artık bu yetkiyi hak etmediğini düşünürse?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_2">
+			<Text>1293 ile 1500 yılları arasında, Güneydoğu Asya'daki Majapahit Krallığı, bugünkü Endonezya'nın bir kısmını ve merkezi Nusantara'da (Maluku ve Sumatra bölgeleri) olmak üzere geniş bir alanı kapsıyordu. Bu krallık, akıl almaz derecede zengindi ve elbette bu zenginlik, hem bölgesel düşmanlar hem de iç rakipler kazanmasına yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Majapahit'in, Cava-Hindu Singhasari Krallığı'ndan (1222-1292) doğduğunu biliyoruz. Bu krallığın öncesinde ise Kediri (1042-1222) vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_4">
+			<Text>Krallığın kökenlerine gelince, tarihsel kayıtları çok sayıdaki tapınaklarından ve bölgesel rakiplerinin belgelerinden öğrenebiliyoruz. Ancak Majapahit hakkındaki en önemli birincil kaynaklardan bazıları, 'Nagarakretagama' (diğer adıyla 'Krallar Kitabı') adlı destansı şiirin çevirileridir. 'Nagarakretagama'nın bir Majapahit saray şairi tarafından yazıldığı göz önüne alındığında, bazı ayrıntıların iyi bir hikaye uğruna biraz abartılmış olabileceğini varsaymak gerekir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_5">
+			<Text>Efsaneye göre, Majapahit hükümdarları, bir insan anneden ve tanrı Brahma'dan doğan yetim Ken Arok'un soyundan geliyordu. Ken Arok, Kediri'yi yöneterek adını duyurdu—ta ki suikasta kurban gidene kadar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_6">
+			<Text>Yine de soyu, 1293'te Majapahit'in ilk kralı olarak taç giyen Raden Wijaya'ya (kraliyet adıyla Kertarajasa Jayawardhana) kadar devam etti. Wijaya, imparatorluğuna, adını bölgedeki acı maja meyvesinden alan küçük bir köyde başladı.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_7">
+			<Text>Köy hayatına yerleşmek yerine Wijaya, Singhasari'nin son kralı Kertanegara'nın dört kızıyla evlendi. Singhasari'nin en yakın danışmanları, bir yabancının gelip tüm prenseslerle evlenerek krallığı ele geçirmesine pek sıcak bakmadılar. Bu nedenle Raden Wijaya'nın saltanatı büyük ölçüde isyanları bastırmakla ve aynı zamanda selefinin genişlemesini durdurmak için 1.000 gemiyle yaklaşık 100.000 adam gönderen Yuan Hanedanı Moğollarını püskürtmekle geçti. Tüm bunlar, Majapahit'in ilk ve son kralı olmamak içindi.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Majapahit, imparatorluğunu pirinç taneleriyle (bazı araştırmalar nüfusun yüzde 80'ine varan bir kesimin pirinç üretiminde yer aldığını gösteriyor) ve baharat ticaretiyle inşa etti. Deniz yolları Hindistan ile Çin arasında bağlantı sağlıyordu ve krallık, yollarından geçen mallara vergi koyarak hazinelerini dolduruyordu.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_9">
+			<Text>Ve deniz gücünü göstermekten çekinmiyorlardı: Döneme ait kabartma oymalar, Majapahit'in etkileyici armadalarla yakın krallıklara karşı düzenlediği deniz baskınlarını tasvir ediyor. Devasa jong gemilerini kullanan Majapahit, insanları ve ürünleri taşıyarak Doğu Cava'dan pirinç ve Malay dilini yaydı.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_10">
+			<Text>Negara ya da mandala yönetim tarzı altında, ilahi güç kraldan dışarıya doğru yayılır, askeri koruma sağlar ve başkentin dini hayatına katılımı da beraberinde getirirdi. Köylüler ve bölgesel soylular, Majapahit başkenti Trowulan'a haraç gönderir; karşılığında kral tapınakları onarır, hediyeler verir ve aile üyelerini yönetmeleri için uzak bölgelere gönderirdi.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_11">
+			<Text>Krallık, bir süreliğine Johor Sultanlığı ve Siam (Tayland) ile olan bölgesel rekabetlere, 15. yüzyılda Malay Sultanlarına karşı çok sayıda baskın düzenleyerek dayandı. Zirve döneminde Majapahit'in erimi, bölgedeki modern öncesi en büyük devlet haline gelmesini sağladı.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_12">
+			<Text>1309'daki ölümünün ardından Raden Wijaya'nın yerine oğlu Jayanegara geçti. Ancak onun 1309-1328 arasındaki saltanatı, küçük bir suikast vakasıyla kısa kesildi. Yerine üvey kız kardeşi Dyah Gitarja geçti ve o da 1350'de tahtı oğlu Hayam Wuruk'a devretti.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_13">
+			<Text>İşte tam bu noktada, Majapahit Krallığı'nın hakkında çok şey duyduğumuz altın çağına giriyoruz. Hayam Wuruk (Rajasanagara olarak da bilinir) saltanatına 16 yaşında başladı ve 'pati'si (başbakan/büyük vezir) Gajah Mada'nın yardımıyla Rajasa hanedanının erimini kıta geneline yaydı.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_14">
+			<Text>Annesi tarafından kral olarak yetiştirilmiş yetenekli bir okçu (ve söylentiye göre son derece yakışıklı) olan Hayam Wuruk, ailesinin gücünü genişletti ve Majapahit mandalasının merkezi haline geldi.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_15">
+			<Text>Ancak halk ile kral arasındaki sevgi, krallığı kanlı (ve pahalı) bir veraset iç savaşından kurtarmaya yetmedi. Kralın cariyeden doğma oğlu Bhre Wirabumi, 1404-1406 yılları arasında, henüz taç giymiş eniştesinden tacı koparmaya çalıştı.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_16">
+			<Text>Bu da yetmezmiş gibi, uzun süre gücünün kaynağı olan ticaret yolları, krallığın nihai çöküşüne yol açtı. Doğu adaları, Avrupalı tüccarlar için liman haline geldi ve güç, imparatorluktan bu küçük topluluklara kaydı. Liman kenti Melaka (bugünkü Malay Yarımadası'nda), Majapahit'in yerini alarak Güneydoğu Asya'nın en önemli ticaret merkezi oldu. Majapahit tüccar sınıfı ise Melaka'nın Müslüman çoğunluğunun ticari hayatına daha iyi uyum sağlamak için İslam'a yöneldi.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_17">
+			<Text>Anlaşılan o ki, halk artık liderine ihtiyaç duymuyordu.</Text>
+		</Row>
+    <Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_18">
+      <Text>İlerleyen yıllar, Majapahit'in izlerini silecekti: On Altıncı Yüzyıla gelindiğinde, Hindu-Budist krallığın yerini tamamen, Batı adalarından Aceh ve Melaka gibi bölgelerden İslami etkiler alan bir sultanlık alacaktı. Sultanlar da bölgenin kontrolünü ellerinde tutmakta zorlanacaktı. Nihayetinde hükümdarlıkları, Güneydoğu Asya baharatlarına umutsuzca bağımlı olan ve On Altıncı ile On Yedinci Yüzyıllarda imparatorluk için yarışan Hollandalı ve Portekizli sömürgecilerin akınlarıyla kısa kesilecekti.</Text>
+    </Row>	
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_TITLE">
+			<Text>Gitarja</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_SUBTITLE">
+			<Text>Tribhuwannottunggadewi Jayawishnuwardhani, Cava naibi kraliçe, ayrıca Dyah Gitarja olarak da bilinir</Text>
+		</Row>			
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_QUOTE">
+			<Text>Toprak yetmezse yelken aç. Okyanus sana daha fazla toprak gösterecektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_1">
+			<Text>Kuleye kapatılmış bir prensesken, On Dördüncü Yüzyılın baharat imparatorluğunun savaşçı naibi kraliçesi olmaya nasıl geçilir? Önce küçük bir suikastle başlanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_2">
+			<Text>Gitarja'nın hükümdarlığı hakkında bildiklerimizin çoğu, 'Nagarakretagama' adlı destansı şiirden gelir. Saray şairi Rakawi Prapanca tarafından yazılan bu tarih ve mitoloji karışımı eseri ihtiyatla karşılamak gerekir. Ancak 'Nagarakretagama' bize, Kahuripan Düşesi Gitarja'nın hikayesinin gerçekten de üvey kardeşi Kral Jayanagara'nın öldürülmesiyle başladığını anlatır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_3">
+			<Text>Naip Kraliçe Tribhuwannottunggadewi Jayawishnuwardhani, bilinen adıyla Dyah Gitarja, 1309'dan bir süre önce, Majapahit imparatorluğunun kurucusu Raden Wijaya ile kraliçe eşi Gayatri Rajapatni'nin kızı olarak doğdu. Majapahit İmparatorluğu için açık isyan ve kaos döneminde, üvey kardeşi Kadiri Prensi olarak da bilinen Jayanagara'nın ardılı olarak 1329'dan 1350'ye kadar Güneydoğu Asya'daki bu baharat krallığını yönetti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_4">
+			<Text>Efsaneye göre Jayanagara, düşmanlarının o kadar kuşatması altındaydı ki kendi kız kardeşlerini bile tahtına tehdit olarak görüyordu. Bu yüzden onları, taliplerin ulaşamayacağı bir saraya kapattı. Ancak hesaba katmadığı şey, kıskanç bir saray hekimiydi. Hekim, Jayanagara'nın karısını baştan çıkardığını öğrenince 1328'de kralı öldürdü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_5">
+			<Text>Jayanagara, tebaasının eşlerini etkilemeye bir vâris yetiştirmekten daha fazla zaman harcadığı için kraliçe eşi, kızı Dyah Gitarja'yı 1329'da tahta çıkarmayı başardı. Yeni taç giyen Naip Kraliçe, artık resmî unvanı olan Tribhuwannottunggadewi Jayawishnuwardhani olarak anılacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_6">
+			<Text>Aynı yıl Gajah Mada'yı 'pati,' yani Majapahit İmparatorluğu'nun başbakanı olarak atadı. Tarih, Mada'yı Majapahit İmparatorluğu'nun azimli bir yayılmacısı, üç hükümdar boyunca Rajasa hanedanına sadık kalmış bir saray entrikacısı olarak tasvir eder. Mada'nın Kral Jayanagara'ya düzenlenen suikastle bir ilgisi olup olmadığına dair söylentilerin doğruluğu henüz kesinlik kazanmamıştır; tarihi kayıtlar ise Dyah Gitarja'nın patisinin bu küçük kralsuikastindeki olası rolünden haberdar olup olmadığı konusunda sessizdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_7">
+			<Text>Aynı yıl, yalnızlığın o soğuk kulesinden kurtulup soylu Chakradhara'yı eş olarak aldı ve birlikte 1334'te Hayam Wuruk adında bir oğulları oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_8">
+			<Text>Naip Kraliçe'nin hükümdarlığı, Sadeng ve Keta bölgelerindeki isyanları bastırmasına tanıklık etti. Kuzeni Malayapura kralı Adityawarman ile birlikte savaşa at sürdüğü söylenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_9">
+			<Text>Ancak tarih onun hükümdarlığını, başbakanının askeri becerileri sayesinde Majapahit'in Bali adasını fethetmesiyle hatırlayacaktır. Gajah Mada, yerel Bali liderliğinin soyunu sona erdirerek krallığın Majapahit egemenliği altına girmesini sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_10">
+			<Text>Gitarja'nın hükümdarlığı savaş ya da saray entrikalarıyla değil, Majapahit verasetindeki talihsiz bir tuhaflık yüzünden sona erdi. Annesi Gayatri, Gitarja'ya Naip Kraliçe unvanını vermekle sorumluydu; yani Gitarja, kraliçe validenin hoşnutluğuyla hükmediyordu. Ancak Gayatri 1350'de bir manastırda ölünce Gitarja hamisini kaybetti ve tahttan çekilmek zorunda kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_11">
+			<Text>Gitarja'nın yerine oğlu Hayam Wuruk geçti ve bazı Endonezyalıların Majapahit krallığının altın çağı olarak kabul ettiği dönemi başlattı. Tarihçiye göre değişmekle birlikte, Hayam Wuruk annesinin güvence altına aldığı imparatorluğu devraldı ve sınırlarını bugünkü Endonezya'nın ötesine, şimdiki Malezya'nın bir kısmına kadar genişletti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_HISTORY_PARA_12">
+			<Text>Peki Dyah Gitarja'nın tahttan sonraki hayatı? Kayıtlar, sonraki yıllarına, hatta ne zaman öldüğüne dair gerçekler konusunda sessizdir. Ama o, imparatorluğunun sınırlarını genişletmesi ve Majapahit'in ihtişamını artırmasıyla hatırlanacaktır.</Text>
+		</Row>
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_CAPSULE_BODY">
+      <Text>Gitarja tüm adaların ve kıyıların kraliçesidir; şehirleri sulara yayılır ve Endonezya Jongları tarafından korunur.</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GITARJA_CHAPTER_DETAILED_BODY">
+      <Text>Endonezya, çok sayıda koy ve girintiye sahip kıyı şeritleri bulmak ister. Bu tür araziler, çoğu bölgenin komşuluk bonuslarını en üst düzeye çıkarmak için idealdir. Gemi İnşası teknolojisi etkinleşir etkinleşmez, Gitarja'nın İşçileri bu şehirleri açık denizdeki Kampung kazık evlerle güçlendirebilir, böylece büyük şehirler yetiştirmek için çiftlik alanı ihtiyacını azaltır. Endonezya, dev bir Jong donanmasını finanse etmek, kritik [ICON_GreatPerson] Büyük Kişileri almak veya su geçebilen dinî birliklerini kullanarak dinî bir zafere ulaşmak için kullanılabilecek [ICON_Faith] İnanç üretimini en üst düzeye çıkarmaya çalışmalıdır.</Text>
+    </Row>
+    
+		<!-- Indonesia --> 
+		<Row Tag="LOC_CIVINFO_KHMER_LOCATION">
+			<Text>Güneydoğu Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHMER_SIZE">
+			<Text>460.000 mil kare</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHMER_POPULATION">
+			<Text>1150 yılında tahmini 2.000.000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KHMER_CAPITAL">
+			<Text>Çeşitli: Mahendraparvata, Hariharalaya, Koh Ker, Yasodharapura</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_1">
+			<Text>Dokuzuncu ile On Beşinci Yüzyıllar arasında, Khmer İmparatorluğu'nun tanrı-savaşçı-kralları Güneydoğu Asya'ya hükmetti. Onlarınki, kuzeydeki güçlü Çin'i bile etkileyen zenginliğiyle göz kamaştıran, zorlu bir tarım-askeri krallıktı. Ne yazık ki, tüm bu altın ve pirinç bölgesel rakipler için fazlasıyla cazip olacak ve nihayetinde Suvarnabhumi'nin fatihlerini mağlup duruma düşürecekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_2">
+			<Text>Arkeoloji ve Çin tarih kayıtları bize Khmer İmparatorluğu'nun izlerinin, MS Birinci Yüzyılda Güneydoğu Asya'daki Mekong bölgesine kadar sürülebileceğini söyler. Çinliler bu bölgeyi ve buradaki dağınık halklar topluluğunu Funan Krallığı olarak adlandırmışlardır (böylece çeşitli, çoğu zaman birbiriyle savaşan beylikler grubunu tek bir çatı altında toplamışlardır).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_3">
+			<Text>Khmer efsanesine göre bu halk, Kamboçya'nın ilk kralı, Hint prensi Preah Thong (Çin kayıtlarında Huntian) ile büyülü bir deniz krallığından gelen ilahi bir yılan [naga] prensesi Neang Neak'ın birleşmesinin ürünüdür. Bölgenin, prensesin babasının Nokor Kauk Thlork Adası çevresindeki suları boşaltarak mutlu çift ve onların soyundan gelenler için yaşanabilir hale getirmesiyle oluşan bir düğün hediyesi olduğu söylenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_4">
+			<Text>Efsane, Hindu kültürünün bölgedeki muazzam etkisini gözler önüne serer. Mekong merkezli Funan halkı, batıya giden Hint gezginler ve tüccarlar için mükemmel bir durak noktasıydı. Hintliler, beraberlerinde Hinduizmi, yasalarını, ticaretlerini ve Sanskritçeyi getirerek sonunda yerel animist geleneklerle kaynaştılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_5">
+			<Text>Funan'ın Hint etkisindeki küçük beyliklerinin halkı yüzyıllar boyunca birbirleriyle savaştı ve her ne kadar kısa süreli merkezi yönetimler kursalar da, merkezi yönetimin Angkor dönemini başlatmak için Dokuzuncu Yüzyılda II. Jayavarman'ın sağlam eli gerekecekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_6">
+			<Text>Khmer İmparatorluğu'nun ilk fatih kralı, işe Dokuzuncu Yüzyılda başladı. O noktaya kadar II. Jayavarman ya Cava'nın misafiri ya da tutsağıydı. Her ne şekilde olursa olsun, anavatanına döndüğünde, Mekong'daki rakiplerini ezmek gibi dağınık bir işe girişmeye hevesli görünüyordu.</Text>
+		</Row>		
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_7">
+			<Text>Bu çetrefilli iş halledildikten sonra geriye kalan tek şey, Kulen Dağları'ndaki Mahendra Dağı'nın zirvesinde düzenlenen bir törenle kendisini 'Çakravartin' yani 'evrensel hükümdar' ilan etmekti. Ve MS 802'de II. Jayavarman tam da bunu yaparak imparatorluğunu kurarken tanrıların desteğini arkasına aldı.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_8">
+			<Text>Onun yaklaşımı hakkında söylenecek bir şey var: Altı yüzyıllık imparatorluklarının zirvesinde Khmerler, günümüz Tayland'ının çoğunu ve Vietnam'ın yarısını kapsayan, başkentte bir milyondan fazla insanın yaşadığı topraklara hükmediyordu. Onuncu Yüzyıla gelindiğinde imparatorluk, Moğol ve Tang imparatorluklarının kuzeyden sınırladığı Güney Çin Denizi'nden uzanıyordu. Mekong'daki ticareti kontrol altında tutmak istiyorsanız fena bir yayılım değildi.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_9">
+			<Text>1296 ile 1297 yılları arasında Çinli yetkili Zhou Daguan, Khmer İmparatorluğu'nu ziyaret etti. Bu ziyaretine dair 'Kamboçya Kaydı: Bir Ülke ve Halkı' adlı kronikinde şöyle diyecekti: 'Uzun zamandır bir ticaret ülkesidir.' Zhou, altın ve taş kulelerle dolu, Siam ve Champa'dan kumaşların, Çin'den ise yerlilerin şemsiyeleri için ipeğin aktığı bir diyarı anlatıyordu.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_10">
+			<Text>Khmerlerin muazzam zenginliği, imparatorluğa girip çıkan hammaddelerin sürekli akışından geliyordu. İmparatorluk, Güneydoğu Asya'nın pirinç ihtiyacını karşılıyordu; Khmer nüfusunun yaklaşık %80'i bu temel gıda maddesinin üretimine veya ticaretine katılıyordu.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_11">
+			<Text>Bu, II. Suryavarman'ın Angkor Wat'taki tapınak kompleksinin inşasına başladığı Khmer İmparatorluğu'nun altın çağıydı (yapı, ölümünden 27 yıl sonra tamamlanacaktı). Angkor Wat, fiziksel, metafiziksel ve ruhani dünyaların kesiştiği nokta olduğu söylenen efsanevi Meru Dağı'nın şeklini yansıtıyordu. Bu şekilde Khmer kralları, cenneti yeryüzünde yansıtmaya çalışıyordu.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_12">
+			<Text>Bu basit bir dindarlık değildi; bu Hindu (ve VII. Jayavarman döneminde geç dönem Budist) krallar, tanrıları kendi taraflarında tutmaya hevesliydi. Bir kral, tanrıları en iyi yansıtacak bir duruş sergilemek ve gökyüzünün şeklini taklit eden tapınaklar inşa etmek için elinden geleni yapardı. Khmer yönetimi altında, kral ne kadar güçlü ve çekiciyse, o kadar çok takipçisi ve toprağı olurdu.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_13">
+			<Text>Elbette bu, duruşu yeterince ilahi olmayan zayıf bir kralın artık krallığına layık olmayacağı anlamına geliyordu.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_14">
+			<Text>İronik bir şekilde, Khmer İmparatorluğu'nun zenginliği ve ihtişamı onun çöküşüne neden olacaktı. On İkinci ve On Dördüncü Yüzyıllar arasında, kuzeydeki Tai halkı (günümüz Tay, Lao ve Shan) sürekli genişleyen Moğol İmparatorluğu ile mücadele ediyordu. Bu yüzden zorlu dağ yaşamlarından vazgeçip güneye göç ederek Sukhothai, Lanna ve Ayutthaya gibi Khmer İmparatorluğu'nun sınırlarını kemiren daha küçük krallıklar kurdular.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_15">
+			<Text>Khmerler, kuzeydeki işgalcilerle ve doğuda Champa ile olan köklü rekabetlerle baş edemedi. Nihayet 1431'de Tayland krallığı Ayutthaya, Angkor'u ele geçirdi ve Khmer kralları, Kamboçya'nın şu anki başkenti Phnom Penh'e çekildi.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_16">
+			<Text>İmparatorluk yok olmuş olabilir, ancak tapınakları hâlâ ayakta. Ve bugün bile Kamboçya halkı, denizden geldiklerinden, ataları olan bir Brahman ve bir Naga prensesinden söz etmeye devam ediyor.</Text>
+		</Row>	
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_TITLE">
+			<Text>VII. Jayavarman</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_SUBTITLE">
+			<Text>Khmer İmparatorluğu'nun Kralı</Text>
+		</Row>			
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_QUOTE">
+			<Text>Halkını doyur. Bundan eksiğini yapmak, eksik kalmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Birçoklarının Khmerlerin altın çağı olarak nitelendirdiği dönemde, inanılmaz derecede çok sayıda altyapı inşasına ve rakip krallıkları yıkıma uğratmaya öncülük etti. İşte karşınızda halkın kralı, VII. Jayavarman.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_2">
+			<Text>M.S. 1123 yılında doğan ve Kral II. Dharanindravarman'ın oğlu olan VII. Jayavarman hakkında bildiklerimizin çoğu, Rajavihara (şimdiki Ta Prohm) ile Phimeanakas tapınaklarındaki yazıtlardan gelmektedir. Bu yazıtlar, bu sevilen kralın zengin ama yine de eksik bir tarihini sunar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Ancak bildiğimiz şu ki, VII. Jayavarman'ın saltanatı Khmerler için bir kriz döneminde başladı. Kuzeyde, uzak vasal krallıklar üzerindeki kontrolleri zayıflıyor, Moğollar (ve daha sonra Ming Hanedanı) Güneydoğu Asya'da ticari çıkarlarını genişletiyordu (Khmerlerin muazzam zenginliklerini sürdürmesini sağlayan hammadde ticaretiydi). Güneyde Malyang'da devrim hazırlanıyordu. Doğuya bakıldığında ise İmparatorluk, Çampa ile (bugünkü Orta Vietnam topraklarını işgal edenler) savaşının 14. yılına giriyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_4">
+			<Text>VII. Jayavarman, 20'li ve 30'lu yaşlarını savaşta geçirecek, Kral II. Yasovarman'a (kökeni bilinmeyen bir akraba) Çamlara karşı savaşında destek olacaktı. İlginç bir ayrıntı: Efsaneye göre, Kral II. Yasovarman, dehşet verici ilahi varlık Rahu (tutulmalar sırasında güneşleri yiyen uçan bir kafa) tarafından saldırıya uğramış, ancak VII. Jayavarman'ın oğullarından biri tarafından kurtarılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_5">
+			<Text>1178 yılına gelindiğinde, Çamlar Kral IV. Jaya Indravarman önderliğinde Khmer İmparatorluğu'nu iki kez işgal edecek, ikinci girişimde başkent Yaśodharapura'yı yıkacak ve tapınak kenti Angkor Wat'ı yağmalayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_6">
+			<Text>Şimdi bunun nedeni net değil, ancak bu sıralarda VII. Jayavarman'ın Orta Çampa'da bulunan Vijaya'da yaşadığı söyleniyor (dönemin tarihi göz önüne alındığında, sadece bir misafir olabilirdi). Batıya yürüyecek ve arkasında Çam kuvvetleriyle birlikte Khmer kontrolünü yeniden ele geçirecekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_7">
+			<Text>Bu, Çampa yazıtlarına göredir bu arada; bu yazıtlar, bu Çam kuvvetlerinin neden bir yabancıyla ittifak kuracağını tam olarak açıklamaz. Ya da tahta çıkışından on yıl sonra, bir Çam prensinin Kral Jayavarman'ın Çampa başkenti Vijaya'yı ele geçirmesine ve Kral Indravarman'ın esir alınmasına yardım etmesi?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_8">
+			<Text>1181 yılına gelindiğinde, bir miktar diplomasi (ve Çam müttefiklerinin yardımıyla) VII. Jayavarman, Çam işgalcilerini püskürtmüştü. Düşmanlıklar yatıştığında, kendini kral ilan etti. Saltanatının başlangıcını, elbette, Angkor Thom'da yeni bir başkent kurarak kutlayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_9">
+			<Text>Bu noktada, yeni taçlanmış hükümdarınızın toprak kapma ve genişleme dönemine başlamasını beklersiniz. Kral Jayavarman Çampa ile çatışmayı sürdürse de, hatta 1190'da kukla bir kral atayacak kadar ileri gitse de, saltanatı içe dönüşle, benzeri görülmemiş bir inşaat ve altyapı dönemiyle dikkat çekiyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_10">
+			<Text>Kral VII. Jayavarman kendini tebaası için bir savaşçı olarak görüyordu, yalnızca yabancı düşmanlarla dövüşmek için savaşa atılan biri değil (biraz da bunu yapsa da). Tahtı devlet işlerinin merkezine koyan önceki Hindu-Khmer krallarından farklı olarak, Kral Jayavarman Budist bir düşünce tarzını benimsedi; bu düşünce nüfusu devletin merkezine koyuyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_11">
+			<Text>Mahayana Budizmi'nin hem şefkati (Bodhisattva Lokesvara tarafından kişileştirilen) hem de bilgeliği (Prajnaparamita) birleştirdiğine inanılır ve Kral Jayavarman'ın amacı tebaası için güvenli bir yer ve cennet yaratmaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_12">
+			<Text>Aslında Mahayana Budizmi'ni devlet dini yapacak ve 400 yıllık Khmer Hinduizmi'nden kopacaktı. Bu vesileyle, çok sayıda tapınak, 102 hastane, taş döşeli yüksek yollar, Bayon'daki 54 kule ve geniş sulama projelerinin inşasını başlatacaktı. Belgelenen bir diğer proje ise krallık boyunca her 15 km'de bir dinlenme evleri inşa edilmesiydi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_13">
+			<Text>Ayrıca, neredeyse 40 yıl süren hükümdarlığı hoşgörüsüyle de damgalanacaktı; Kral VII. Jayavarman Budizm'i desteklerken, Brahman rahiplerine sarayda bir rol bıraktı; bu rol bugün Kamboçya krallığında da devam etmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_14">
+			<Text>Kral VII. Jayavarman'ın hayatının son yılları veya hatta öldüğü yıl hakkında pek fazla ayrıntıya sahip değiliz (ancak 1215 ile 1220 arasında bir yerdeydi). Ancak ölümünden sonra, büyüklüğüne bir övgü olarak kendisine Mahaparamasaugata adı verildi. Peki ya Khmer İmparatorluğu? Dik bir düşüşe geçmiş gibi görünüyordu. 1222'de Çamlar, VII. Jayavarman'ın saltanatı sırasında fethettiği toprakları geri alabildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_HISTORY_PARA_15">
+			<Text>Yine de, tüm bu tapınak inşa etme ve iyi niyet yaymanın izlerini silmek zordur. Kral VII. Jayavarman ve halk odaklı saltanatı, Kamboçya'da 20. yüzyıla kadar devlet tarafından hazırlanan eğitim materyallerinde önemli bir yer edindiği için sevgiyle hatırlanmaktadır.</Text>
+		</Row>
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_CAPSULE_BODY">
+      <Text>Jayavarman'ın Khmer İmparatorluğu, özellikle tüm yeteneklerinin devreye girebileceği nehirler boyunca uzanan, dindar Budistlerin yaşadığı kalabalık şehirlerle öne çıkar.</Text>
+    </Row>
+    <Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JAYAVARMAN_CHAPTER_DETAILED_BODY">
+      <Text>Jayavarman, nehir başlangıç eğiliminden yararlanmak ve Kutsal Alanlarını nehirler boyunca inşa etmek ister; böylece bu alanlar yakındaki toprakları ele geçirecek ve [ICON_Food] Besin ile [ICON_Housing] Konut sağlayacaktır. Bu şehirler, Khmerler Geç Klasik Çağ'a ulaştığında hem Su Kemerleri hem de eşsiz Prasat tapınakları devreye girdiğinde serpilecektir. Komşular onları sıkıştırırsa, eşsiz Domrey birimlerini kullanarak birkaç yakın şehri kuşatabilir, muhtemelen nehirler boyunca ek bölgeler ele geçirebilirler. Budist inancına dayalı kalabalık bir imparatorlukla Jayavarman, oyunun ilerleyen aşamalarında herhangi bir zafer türüne yönelebilir.</Text>
+    </Row>
+    
+	<!-- Rest -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDONESIAN_JONG_CHAPTER_HISTORY_PARA_1">
+			<Text>Yüksek denizlere hükmetmek istiyorsanız, düşmanla ezici bir güçle karşılaşın. Devasa jong gemilerinin, yani Majapahit uskunalarının ardındaki felsefe buydu. Bu gemi, İmparatorluğun büyüklük ve güç birleşimiyle Cava sularını kontrol etmesini sağladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDONESIAN_JONG_CHAPTER_HISTORY_PARA_2">
+			<Text>Majapahit yelkenli gemileri, ikinci bir dümen ekleyerek kendilerini Çin conklarının gerisinde bırakmış; bu sayede 600 tonluk jong, hem süratli hem de kolay kumanda edilir hale gelmiştir. Jong'un manevra kabiliyeti bununla da sınırlı değildi; rüzgâr zayıfladığında, bir sıra kürekçi gemiyi düşman ateşinin menzilinden çıkarabilir veya denizdeki engellerin etrafından dolaştırabilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_INDONESIAN_JONG_CHAPTER_HISTORY_PARA_3">
+			<Text>Öncelikle ticaret gemisi olarak kullanılsalar da jonglar, askeri nakliye gemisi olarak da hizmet vermiştir. Tüm bu ağırlık yalnızca gösterişten ibaret değildi: Dört katmanlı ahşap direklerin eklenmesi, düşman top ateşine karşı koruma sağlıyor; saldırıya uğrayan bir jong, kendi toplarıyla aynı şekilde karşılık verebiliyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_1">
+			<Text>Süvariniz için yeterli at bulamıyorsanız, düşmanlarınızı ezmek ve dehşete düşürmek için kudretli fili kullanmaya ne dersiniz?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_2">
+			<Text>Khmerler, savaş fillerini ordularında kullanma geleneğine uzun bir geçmişten katılmıştır. Araştırmalar, Hintlerin savaş fillerini ilk kez MÖ 1.100 civarında kullandığını; o dönemde yalnızca bir çiftlik hayvanı olan filin, 5.440 kilogramlık gücünü savaş alanında düşmanları için korkunç bir sese ve dehşete dönüştürdüğünü göstermektedir (en azından barutun icadı dengeleri eşitleyene kadar).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_3">
+			<Text>Kralların bineği olan savaş filleri, komutanları sırtlarında taşıyarak savaş alanına girer; saflarını kullanarak düşman kuvvetlerini çiğneyip geçerdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KHMER_DOMREY_CHAPTER_HISTORY_PARA_4">
+			<Text>Khmer binicileri, fillerinin ham gücünü çift yaylı tatar yaylarının hassasiyetiyle tamamlardı. Ancak bu domrey varyantı, kaçacak kadar akıllı olmayan gözü pek askerleri şişlemek için monte edilmiş bir balista ile işe biraz daha kaba kuvvet ekler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_KAMPUNG_CHAPTER_HISTORY_PARA_1">
+			<Text>Güneydoğu Asya'nın sıkış tepiş adalarında yerel hükümdarlar, halklarını en iyi şekilde barındırırken aynı zamanda sel ve yaban hayatından koruma sorunuyla karşı karşıyaydı. Bunun yanıtı, sıkı sıkıya bir arada duran, kazıklar üzerine inşa edilmiş ev topluluklarıydı: kampung.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_KAMPUNG_CHAPTER_HISTORY_PARA_2">
+			<Text>Terim genel olarak bir mahalleyi ifade etse de, Endonezya kampungları Java'nın dünyadaki herhangi bir adadan daha yüksek bir nüfus yoğunluğuna ulaşmasına yardımcı olmakla ünlüydü. Nitekim yabancı ziyaretçiler, Endonezya ve Malay kampunglarının verimliliğinden o kadar etkilenmişti ki bu terimi İngilizce 'compound' sözcüğü olarak benimsediler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PRASAT_CHAPTER_HISTORY_PARA_1">
+			<Text>Khmer İmparatorluğu'nun kralları, Mekong ve Güneydoğu Asya anakarasına hükmetmedikleri zamanlarda dikkatlerini inançlarına çevirirlerdi. Peki tanrıları yüceltmenin, devasa tapınaklar dikmekten daha iyi bir yolu olabilir miydi?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PRASAT_CHAPTER_HISTORY_PARA_2">
+			<Text>Khmer ibadetinin merkezindeki bu kutsal alanlar, hem savaşçı krallarının dindarlığının hem de mühendislerinin dehasının simgeleri olarak hizmet ederdi. Kayıtlardaki en eski Khmer tapınağı, yaklaşık MS 800 yılına tarihlenen Prasat Ak Yom'dur; tasarımı, tepesinde bir taçla sonlanan yüksek yapılar olan Güney Hindistan geleneğindeki 'ratha' tarzı tapınakları yansıtır. Elbette Khmerler kendi dokunuşlarını da ekleyerek yapılara prang yani kuleler ilave etmişlerdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_PRASAT_CHAPTER_HISTORY_PARA_3">
+			<Text>Bu tapınakların inşası, sonraki Khmer hükümdarlarının kalıcı bir özelliği haline gelecekti. İlk tapınaklar Hindu tanrısı Şiva onuruna doğuya bakarken, Jayavarman VII'nin 12. yüzyılda İmparatorluğa Mahayana Budizmi'ni getirmesinden sonraki yapılar batıya yöneldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_1">
+			<Text>Neredeyse 1.000 yıldır ayakta duruyor; bir tanrıya adanmış bir anıt ve belki de onu inşa eden fatih kralın son istirahatgâhı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_2">
+			<Text>Yine de Angkor Wat'taki tapınak ayakta kalmayı sürdürüyor; merkez kulesi çevredeki ormanın 65 metre üzerinde yükseliyor. Khmer Kralı II. Suryavarman tarafından 12. yüzyılda, günümüzde kuzey Kamboçya olan yerde inşa edilen bu yapı, dünyanın en yüksek dini anıtlarından biridir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_3">
+			<Text>Hindu tanrısı Vişnu'nun şehir-tapınağına gelen bir hacı, önce yapıyı çevreleyen 198 metre genişliğinde ve 4,3 metre derinliğindeki hendeği geçer, ardından yükseltilmiş bir yürüyüş yoluna açılan üç kuleli bir giriş olan 'gopura'dan içeri girerdi. Tapınak kompleksinin içinde, kutsal Meru Dağı'nı çağrıştıran, 65 metrelik merkezi bir kuleyi çevreleyen dört küçük kule bulurlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ANGKOR_WAT_CHAPTER_HISTORY_PARA_4">
+			<Text>Khmer Şaivizm tapınakları genellikle doğuya bakar; ancak Angkor Wat batıya baktığı için, Suryavarman'ın naaşının son istirahatgâhı Vişnu'yu onurlandıran bir tapınak olacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ANGKOR_WAT_QUOTE">
+			<Text>“Tapınak bir hendekle çevrilidir ve giriş, ziyaretçinin yüreğine korku salacak kadar görkemli ve dehşet verici iki taş kaplan tarafından korunan tek bir köprüden sağlanır.”[NEWLINE]– Diogo do Couto</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir milletin yaratılış mitinde kaç tane doğal oluşum yer alır? Vietnam efsanesine göre tanrılar, yeşim taşı ve mücevher kusan ejderhaları buraya göndermiş; ejderhalar körfezi noktalayan kayalık adaları yaratmış ve erken dönem Çinli istilacılara karşı bir savunma oluşturmuştur. Aslında adı, 'inen ejderhalar' veya 'denize inen ejderhalar' anlamına gelen bir varyasyondur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_2">
+			<Text>Ha Long Körfezi, milyonlarca yıllık erozyon sonucu oluşmuş, sırtlar, kuleler ve mağaralarla bezeli karst adacıklarından oluşan bir topluluğa verilen isimdir. Bugün onu görmek ve keşfetmek, modern Vietnam kıyı şeridinin 120 kilometresi boyunca uzanan yaklaşık 1.600 kireçtaşı adası ve mağarasından oluşan bir ağın izini sürmek demektir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_3">
+			<Text>MÖ 16.000 gibi erken bir tarihte, burası erken dönem balıkçı kabilelerine ev sahipliği yaparken, tarih boyunca istilacılara karşı doğal bir siper olarak durmuştur: 1288 yılında, Vietnamlı General Tran Hung Dao'nun Moğol gemilerini çelik uçlu kazıklara geçirerek ilerleyişlerini durdurduğu Moğol yenilgisine sahne olmuştur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_HA_LONG_BAY_CHAPTER_HISTORY_PARA_4">
+			<Text>Ha Long Körfezi, 2000 yılından bu yana UNESCO Dünya Mirası Listesi'nde yer almaktadır.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HA_LONG_BAY_QUOTE">
+			<Text>“Göklerin ve Yerin harikalarına bakın. Berrak deniz mavisi bir ayna gibidir; binlerce turkuaz kuzgun, hafif bir siyah dokunuşuyla süslenmiştir.”[NEWLINE]– Nguyễn Trãi</Text>
+		</Row>
+	</EnglishText>
+</GameData>

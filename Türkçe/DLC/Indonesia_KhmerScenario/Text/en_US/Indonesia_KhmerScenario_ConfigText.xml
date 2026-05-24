@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME">
+			<Text>Nirvana'ya Giden Yol</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP">
+			<Text>Asya'da en parlak hangi inanç parlayacak? 50 tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME">
+			<Text>Doğu Asya</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION">
+			<Text>Doğu Asya'nın bir senaryo temsili</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>Hint Okyanusu çevresindeki topraklar birçok din ve insanla bereketlenir. Cennet, tüm bu topraklara ışık getirmen için seni seçti. İnancın bu meydan okumaya hazır mı? Güneydoğu Asya halkını dinine ikna edebilecek misin?[NEWLINE][NEWLINE]Bu 50 turlu senaryoda, [ICON_Religion] Din'inin en çok takipçisine, tur başına en çok [ICON_FAITH] İnanc'a ve dinini takip eden en çok yabancı şehre sahip olmak için rekabet et.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION">
+			<Text>Nirvana'ya, zaman sınırından sonra en yüksek puana ulaşarak varılır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO">
+			<Text>Göklerin bereketi üzerine olsun, ey hükümdar! Bu topraklarda pek çok din ve pek çok inanç kurtuluş vaat ediyor. Sözünü insanların kalbine yayabilecek misin? Yoksa bu ruhlar başka inançlar tarafından mı etkilenecek? Devlet işlerini yöneticilere bırak ve merhamet dolu kalbini aydınlanma görevine çevir.</Text>
+		</Row>
+		<!-- China-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME">
+			<Text>Taoizm</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION">
+			<Text>Taoizm Dini kurulmuş olarak başlar. Bu dinin inançları şunlardır:[NEWLINE][ICON_Bullet]Nehir Tanrıçası: Nehir kenarındaki bir Kutsal Alan bölgesine sahip şehirler +1 [ICON_Amenities] Olanak kazanır.[NEWLINE][ICON_Bullet]Dünyayı Besle: Mabetler ve Tapınaklar, kendilerine ait [ICON_Faith] İnanç çıktısına eşit miktarda [ICON_Food] Besin sağlar.[NEWLINE][ICON_Bullet]Pagoda: Pagodaların inşasına izin verir (+3 [ICON_Faith] İnanç). Rahip birimleri +1 Sapkınlık Temizleme ve Guru +1 İyileştirme Hakkı kazanır. Matbaa ile açılır.[NEWLINE][ICON_Bullet]Manastır Tecriti: Dininin baskısı, Teolojik Muharebedeki kayıplar nedeniyle asla düşmez.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME">
+			<Text>Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION">
+			<Text>Erken İmparatorluk Yönetim Bilimi ile başlar.</Text>
+		</Row>
+		<!-- Chola-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Chola İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE">
+			<Text>Chola</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME">
+			<Text>Şaivizm</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Şaivizm Dini kurulmuş olarak başlar. Bu dinin inançları şunlardır:[NEWLINE][ICON_Bullet]Kutsal Yol: Kutsal Alan bölgeleri, bitişik Yağmur Ormanı bölgelerinden +1 [ICON_Faith] İnanç kazanır.[NEWLINE][ICON_Bullet]Linga: Ticaret Merkezi ve Liman bölgesi binaları [ICON_Faith] İnanç ile satın alınabilir.[NEWLINE][ICON_Bullet]Vekillik: Bu Dini takip eden bir şehirdeki her Ticaret Merkezi veya Liman bölgesi +1 [ICON_Faith] İnanç sağlar.[NEWLINE][ICON_Bullet]Yoga: Sivil birimler [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME">
+			<Text>Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION">
+			<Text>Göksel Seyrüsefer Yönetim Bilimi ile başlar.</Text>
+		</Row>
+		<!-- Ghaznavid-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME">
+			<Text>Gazneli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Gazne İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE">
+			<Text>Gazneli</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME">
+			<Text>İslam</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>İslam dini kurulu olarak başlar. Bu din şu inançlara sahiptir:[NEWLINE][ICON_Bullet]Çöl Folkloru: Kutsal Alan bölgeleri, komşu Çöl bölgelerinden +1 [ICON_Faith] İnanç kazanır.[NEWLINE][ICON_Bullet]Dini Topluluk: Mabetler ve Tapınaklar, her biri +1 [ICON_Housing] Konut sağlar.[NEWLINE][ICON_Bullet]Cami: Cami inşasına izin verir (+3 [ICON_Faith] İnanç). Misyoner ve Keşiş birimleri +1 Yayma kazanır. Matbaa ile açılır.[NEWLINE][ICON_Bullet]Hac: Diğer uygarlıklar ve şehir devletlerindeki bu dini takip eden her şehir için +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME">
+			<Text>Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION">
+			<Text>Göksel Seyrüsefer, Para ve Erken İmparatorluk Yönetim Bilimleri ile başlar.</Text>
+		</Row>
+		<!-- Indonesia-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME">
+			<Text>Hindu Dharma</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION">
+			<Text>Hindu Dharma dini kurulu olarak başlar. Bu din şu inançlara sahiptir:[NEWLINE][ICON_Bullet]Deniz Tanrısı: Balıkçı Teknelerinden +1 [ICON_Production] Üretim kazanılır.[NEWLINE][ICON_Bullet]Büyük Nusantara: Kıyı ve Göl bölgeleri, Kutsal Alan bölgelerine küçük bir komşuluk bonusu sağlar.[NEWLINE][ICON_Bullet]Kampung: İşçileriniz artık Kampung iyileştirmesi yapabilir. Loncalar ile açılır.[NEWLINE][ICON_Bullet]Gezgin Vaizler: Din, şehirlere %30 daha uzaktan yayılır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME">
+			<Text>Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION">
+			<Text>Göksel Seyrüsefer Yönetim Bilimi ile başlar.</Text>
+		</Row>
+		<!-- Khmer-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME">
+			<Text>Theravada Budizmi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION">
+			<Text>Theravada Budizmi dini kurulu olarak başlar. Bu din şu inançlara sahiptir:[NEWLINE][ICON_Bullet]Taş Çemberler: Taş Ocaklarından +2 [ICON_Faith] İnanç ve +2 [ICON_Production] Üretim kazanılır.[NEWLINE][ICON_Bullet]Dāna: Tahıl ambarları her biri +3 [ICON_Faith] İnanç sağlar. Her şehre +1 [ICON_Amenities] Olanak sağlanır.[NEWLINE][ICON_Bullet]Wat: Wat inşasına izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Housing] Konut). Matbaa ile açılır.[NEWLINE][ICON_Bullet]Dünya Kilisesi: Diğer uygarlıklardaki bu dinin her 5 takipçisi için +1 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME">
+			<Text>Yönetim Bilimleri</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION">
+			<Text>Erken İmparatorluk, Mühendislik ve Gizemcilik Yönetim Bilimleri ile başlar.</Text>
+		</Row>
+		<!-- Pala-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME">
+			<Text>Pala</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION">
+			<Text>Pala İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE">
+			<Text>Pala</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME">
+			<Text>Mahayana Budizmi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION">
+			<Text>Mahayana Budizmi dini kurulu olarak başlar. Bu din şu inançlara sahiptir:[NEWLINE][ICON_Bullet]Yer Tanrıçası: Büyüleyici veya daha iyi Çekiciliğe sahip bölgelerden +1 [ICON_Faith] İnanç kazanılır.[NEWLINE][ICON_Bullet]Çalışma Ahlakı: Her takipçi için +%1 [ICON_Production] Üretim.[NEWLINE][ICON_Bullet]Mahayana Stupası: Stupa inşasına izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Amenities] Olanak). Matbaa ile açılır.[NEWLINE][ICON_Bullet]Kutsal Tarikat: Misyonerler ve Keşişler %30 daha ucuza satın alınır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME">
+			<Text>Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION">
+			<Text>Gizemcilik Yönetim Bilimi ile başlar.</Text>
+		</Row>
+		<!-- Tufan-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME">
+			<Text>Tufan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Tufan İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE">
+			<Text>Tufan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME">
+			<Text>Vajrayana Budizmi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Vajrayana Budizmi dini kurulmuş olarak başlar. Bu din şu inançlara sahiptir:[NEWLINE][ICON_Bullet]Açık Gökyüzü Tanrısı: Otlaklardan +2 [ICON_FOOD] Besin.[NEWLINE][ICON_Bullet]Zen Meditasyonu: 2 uzmanlık bölgesi bulunan şehirlerde +1 [ICON_Amenities] Olanak.[NEWLINE][ICON_Bullet]Vajrayana Stupası: Stupaların inşasına izin verir (+3 [ICON_Faith] İnanç, +1 [ICON_Amenities] Olanak). Matbaa ile açılır.[NEWLINE][ICON_Bullet]Misyoner Şevki: Dinî birlikler, arazi ve özelliklerin [ICON_Movement] Hareket maliyetini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME">
+			<Text>Yönetim Bilimi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION">
+			<Text>Mistisizm Yönetim Bilimi ile başlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_NAME">
+			<Text>Diplomatik Mahalle</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_DESCRIPTION">
+			<Text>Uygarlığınız, diplomasi yoluyla yabancı bir uygarlıktan gelen her Heyet veya Büyükelçilik için +1 [ICON_CULTURE] Kültür kazanır. Şehir merkezinin yanına inşa edilirse +1 [ICON_ENVOY] Elçi kazanır. Düşman Casusları, bu bölgeyi ve bitişik bölgeleri hedef alırken normalin 2 seviye altında çalışır. İmparatorluğunuzda aynı anda yalnızca 1 adet bulunabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DIPLOMATIC_QUARTER_EXPANSION2_DESCRIPTION">
+			<Text>Uygarlığınız, diplomasi yoluyla yabancı bir uygarlıktan gelen her Heyet veya Büyükelçilik için +1 [ICON_FAVOR] Diplomatik Destek kazanır. Şehir merkezinin yanına inşa edilirse +1 [ICON_ENVOY] Elçi kazanır. Düşman Casusları, bu bölgeyi ve bitişik bölgeleri hedef alırken normalin 2 seviye altında çalışır. İmparatorluğunuzda aynı anda yalnızca 1 adet bulunabilir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

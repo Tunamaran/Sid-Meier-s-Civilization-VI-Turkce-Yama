@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_MACEDON_NAME">
+			<Text>Makedonya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
+			<Text>Helenistik Füzyon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION">
+			<Text>Şehir fethedildiğinde güçlendirme alınır: Fethedilen şehirdeki her Ordugah veya Kampüs için [ICON_TechBoosted] Buluş; her Kutsal Alan veya Tiyatro Meydanı için [ICON_CivicBoosted] İlham.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PERSIA_NAME">
+			<Text>Pers</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+			<Text>Satraplıklar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+			<Text>Politika Yönetim Bilimi sosyal politikası ile +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi. Kendi şehirleriniz arasındaki ticaret yollarından +2 [ICON_Gold] Altın ve +1 [ICON_Culture] Kültür kazanılır. Kendi topraklarınızdaki yollar normalden bir seviye daha gelişmiştir.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Büyük İskender</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>Dünyanın Sonuna Kadar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>Şehirler savaş yorgunluğuna maruz kalmaz. Bu oyuncu bir dünya harikasına sahip şehri ele geçirdiğinde tüm askeri birimler tamamen iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CYRUS_NAME">
+			<Text>Büyük Kiros</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME">
+			<Text>Babil'in Düşüşü</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION">
+			<Text>Büyük bir uygarlığa Sürpriz Savaş ilan ettikten sonraki ilk 10 tur boyunca birimlere +2 [ICON_Movement] Hareket. İşgal altındaki şehirlerde getiri cezası yoktur. Sürpriz Savaş ilanı, savaş kışkırtıcılığı ve savaş yorgunluğu açısından yalnızca Resmî Savaş olarak sayılır.</Text>
+		</Row>
+		<!-- Building Info-->
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Basilikoi Paides</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
+			<Text>Makedonya'ya özgü bir bina. Bu şehirde eğitilen tüm yakın dövüş, menzilli kara birimleri ve Hetairoi için +%25 savaş deneyimi. Bu şehirde askeri olmayan bir birim üretildiğinde, birimin maliyetinin %25'i kadar [ICON_SCIENCE] Bilim kazanılır.[NEWLINE][NEWLINE]Halihazırda bir Ahır bulunan Ordugah bölgesinde inşa edilemez.</Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>Pairidaeza</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+			<Text>Pers'e özgü Pairidaeza inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Kültür ve +2 [ICON_GOLD] Altın. +1 Çekicilik. Bitişikteki her Kutsal Alan ve Tiyatro Meydanı için +1 [ICON_CULTURE] Kültür. Bitişikteki her Ticaret Merkezi ve Şehir Merkezi için +1 [ICON_GOLD] Altın. Teknoloji ve Yönetim Bilimleri Ağacında ilerledikçe ek [ICON_Culture] Kültür ve [ICON_Tourism] Turizm. Kar, Tundra, Karlı Tepe veya Tundra Tepe üzerine ya da başka bir Pairidaeza'ya bitişik inşa edilemez.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
+			<Text>Hipaspist</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
+			<Text>Hetairoi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+			<Text>Ölümsüz</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
+			<Text>Kılıç Ustası'nın yerini alan Makedon eşsiz yakın dövüş birimi. Bölgeleri kuşatırken +5 [ICON_Strength] Muharebe Gücü. %50 Ek Destek Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
+			<Text>Makedonya'ya özgü, Süvari'nin yerini alan ağır süvari birimi. Bir Büyük General'e komşu olduğunda fazladan +5 [ICON_Strength] Muharebe Gücü kazanır. Bir düşman birimini öldürdüğünde +5 Büyük General puanı verir. 1 adet ücretsiz Terfi ile başlar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+			<Text>Pers'e özgü, Kılıç Ustası'nın yerini alan yakın dövüş birimi. Menzilli saldırıya sahip yakın dövüş sınıfı birimdir, [ICON_Range] Menzil 2. Güçlü savunma gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION">
+			<Text>Bir bölgeyi kuşatırken +5</Text>
+		</Row>
+		<Row Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>Yakındaki Büyük General'den +5 Muharebe Bonusu</Text>
+		</Row>
+		<!-- Expansion 1 -->
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
+			<Text>Büyük bir uygarlığa Sürpriz Savaş ilan ettikten sonraki ilk 10 tur boyunca +2 [ICON_Movement] Hareket. İşgal altındaki şehirlerde, garnizonlu bir birim varken tur başına +5 Bağlılık. Sürpriz Savaş ilanı, savaş kışkırtıcılığı ve savaş yorgunluğu açısından yalnızca Resmî Savaş olarak sayılır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
+			<Text>Özgür Şehir olmayan bir şehri fethederken, fethedilen şehirdeki her Ordugâh veya Kampüs için bir [ICON_TechBoosted] Buluş ve her Kutsal Alan veya Tiyatro Meydanı için bir [ICON_CivicBoosted] İlham kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
+			<Text>Bölgeleri kuşatırken +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet] +%50 Destek Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
+			<Text>Bir Büyük General'e komşu olduğunda +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet] Bir düşman birimini öldürdüğünde +5 Büyük General puanı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>Basilikoi Paides'ten Muharebede +%25 deneyim.</Text>
+		</Row>
+		<!-- Expansion 2 -->
+		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
+			<Text>Büyük bir uygarlığa Sürpriz Savaş ilan ettikten sonraki ilk 10 tur boyunca +2 [ICON_Movement] Hareket. İşgal altındaki şehirlerde, garnizonlu bir birim varken tur başına +5 Bağlılık. Sürpriz Savaş ilanı, [ICON_STAT_GRIEVANCE] Şikayetler ve savaş kışkırtıcılığı açısından yalnızca Resmî Savaş olarak sayılır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+			<Text>Makedonya'ya özgü bir bina. Bu şehirde eğitilen tüm yakın dövüş, menzilli kara birimleri ve Hetairoi için +%25 muharebe deneyimi. Bu şehirde sivil olmayan bir birim üretildiğinde, birimin maliyetinin %25'i kadar [ICON_SCIENCE] Bilim kazanırsınız.[NEWLINE][NEWLINE]Stratejik Kaynak Stokları +10 artar (Standart Hızda).[NEWLINE][NEWLINE]Halihazırda bir Ahır bulunan bir Ordugâh Bölgesi'nde inşa edilemez.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

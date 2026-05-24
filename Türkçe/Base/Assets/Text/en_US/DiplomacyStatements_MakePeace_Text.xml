@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		
+		<!-- AI accepts from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_ANY_ANY">
+			<Text>Barış için şartlarınızı kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Barış sizinle olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Bir savaş kışkırtıcısı olarak anılmak istemiyorum. Farklılıklarımızı bir kenara bırakalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>İtiraf etmeliyim ki, sizinle barış içinde olmayı çok daha tercih ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Cesurca savaştınız ve barışı hak ettiniz. Size bir ateşkes teklif etmekten mutluluk duyuyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GANDHI_ANY">
+			<Text>Evet, evet. Bu iyi bir şey.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Güçlü bir rakibe saygı duyarım. Barış içinde olalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GORGO_ANY">
+			<Text>Bu savaş sona erdi. Yaşamak istiyorsanız barışa sahip olabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Pekâlâ.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_HOJO_ANY">
+			<Text>Savaş alanında kendime denk birini bulmaktan onur duyuyorum. Bu kadar büyük bir savaşçıyı yok etmektense kılıcımı kınına koymayı tercih ederim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PEDRO_ANY">
+			<Text>Barış için şartlarınızı kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PERICLES_ANY">
+			<Text>İyi bir teklif, kabul ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Ölüm saçmaktan çok yaşamı sürdürmekle ilgileniyorum. Aramızda barış olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Size ve İmparatorluğunuza barış olsun. Savaştan yorulduk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY">
+			<Text>Etkilendik. Aramızda barış olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SALADIN_ANY">
+			<Text>Artık bu kadar savaşın ardından bilgelik ve barışı bilelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ulusumuzun görevi kendi hak ve çıkarlarını korumaktır. Bu iş tamamlandı; barış içinde ilerleyelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Barış için şartlarınızı kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Evet, bir ateşkes ilan edelim. Bu savaş bizi hiçbir yere götürmüyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_VICTORIA_ANY">
+			<Text>Büyük Britanya ve İrlanda Birleşik Krallığı adına, iki ulusumuz arasındaki bu barışı onaylıyorum.</Text>
+		</Row>
+
+		<!-- AI refuses human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_ANY_ANY">
+			<Text>Aramızda asla barış olmayacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_MVEMBA_ANY">
+			<Text>Evet diyemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Asla ve kat'a.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CLEOPATRA_ANY">
+			<Text>Hayır! Bunu kabul etmiyorum!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_BARBAROSSA_ANY">
+			<Text>Ben yaşadığım sürece asla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GANDHI_ANY">
+			<Text>Üzgünüm ama hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GILGAMESH_ANY">
+			<Text>Gılgamış reddediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GORGO_ANY">
+			<Text>Daha sonra düşünürüm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HARDRADA_ANY">
+			<Text>Hayır. Kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_HOJO_ANY">
+			<Text>Ben yaşadığım sürece asla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PEDRO_ANY">
+			<Text>Aramızda asla barış olmayacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PERICLES_ANY">
+			<Text>Atina reddediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PETER_GREAT_ANY">
+			<Text>Bütün Rusyalar için bile olmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_PHILIP_II_ANY">
+			<Text>Tanrı aşkına, hayır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY">
+			<Text>Yalvarışlarınızı duymazlıktan geleceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SALADIN_ANY">
+			<Text>Daha iyi bir teklifte bulunmalısın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ciddi olamazsınız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TOMYRIS_ANY">
+			<Text>Aramızda asla barış olmayacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TRAJAN_ANY">
+			<Text>Bütün imparatorluğun için bile olmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_VICTORIA_ANY">
+			<Text>En kesin hayır.</Text>
+		</Row>
+
+		<!-- AI requests from human -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Barış, tamam mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Bu savaş nihayet bulsun. Gelin, barışın mukaddes ışığında yürüyelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Sevdiklerimizin hatırına sana yalvarıyorum, aramıza barış girsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Barış, savaştan çok daha caziptir, siz de öyle düşünmüyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Halkınızı iyi savundunuz. Şimdi, isterseniz size barışı bahşedeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Göze göz, dişe diş dünyayı kör eder. Bunun yerine barış içinde yaşayalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Yer altının en dibinden Ea'nın dağlarına dek, senin kadar kudretli bir hasımla karşılaşmadım. Gelin, barış kuralım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Dinlenmeyi hak ettiniz... barış mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>İstersen sana barışı veririm. Her ikimizin de sayacak yağması var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Dövüşecek bir şey kalmadı. Gelin, yaptıklarımızın muhasebesini yapalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Barış vaktidir. Siz de aynı fikirde misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Demokrasi barışa oy verdi. Bu savaşın sona ermesini kabul ediyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Bu savaşı bitirmek için ortak bir zemin bulabilirim, eğer müzakereye açıksanız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Rabbimizin barışı aramızda hüküm sürsün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY">
+			<Text>Barış zamanı geldi. Bu savaşı bitirelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Barış üzerinize olsun ve ikimize de. Bu savaşı bitirmeme yardımcı olur musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ulusun çıkarlarını korudum ve haklarımızı muhafaza ettim. Bu iş tamamlandı. Artık barış içinde yaşayabiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Barış vaktidir. Katılıyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Savaş, dehşetli savaş! Bunun yerine bir Roma barışı yaşayalım. Cevabınız nedir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Karşılıklı memnuniyet sağlayacak bir anlaşmaya varılabileceği kanaatindeyiz.</Text>
+		</Row>
+
+		<!-- Human accepts, AI responds -->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Savaş sona ermiştir.</Text>
+		</Row>
+
+		<!-- Human rejects, AI responds -->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_PEACE_FROM_AI_ANY_ANY">
+			<Text>Öyleyse savaş devam edecek.</Text>
+		</Row>
+
+		<!-- Choices -->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_NEGATIVE">
+			<Text>Barış Anlaşmasını Reddet</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_CHOICE_POSITIVE">
+			<Text>Barış Anlaşmasını Kabul Et</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

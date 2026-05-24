@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Mods Section -->
+		<Row Tag="LOC_MODS_TITLE">
+			<Text>EK İÇERİK</Text>
+		</Row>
+		<Row Tag="LOC_MODS_INSTALLED">
+			<Text>YÜKLENENLER</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SUBSCRIPTIONS">
+			<Text>ABONELİKLER</Text>
+		</Row>
+		<Row Tag="LOC_MODS_BROWSE_WORKSHOP">
+			<Text>WORKSHOP'A GÖZ AT</Text>
+		</Row>
+		<Row Tag="LOC_MODS_WORLD_BUILDER">
+			<Text>DÜNYA OLUŞTURUCU</Text>
+		</Row>
+		<Row Tag="LOC_MODS_NONE_INSTALLED">
+			<Text>Yüklü mod bulunmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_NONE_SELECTED">
+			<Text>Detayları görmek için soldan bir mod seçin.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_NO_SUBSCRIPTIONS">
+			<Text>Abonelik bulunmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED">
+			<Text>Yüklendi</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING">
+			<Text>İndirme Bekliyor...</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SUBSCRIPTION_SUBSCRIBED">
+			<Text>Abone olundu (ancak indirilmedi)</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SUBSCRIPTION_DOWNLOADING">
+			<Text>İndiriliyor... ({1 : number} / {2 : number})</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE_MOD">
+			<Text>Modu Etkinleştir</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DOWNLOADING">
+			<Text>Öğe İndiriliyor...</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SUBSCRIPTION_NAME_PENDING">
+			<Text>Abonelik Adı Alınıyor...</Text>
+		</Row>
+		<Row Tag="LOC_MODS_UPDATE">
+			<Text>Güncelle</Text>
+		</Row>
+		<Row Tag="LOC_MODS_VIEW">
+			<Text>Görüntüle</Text>
+		</Row>
+		<Row Tag="LOC_MODS_UNSUBSCRIBE">
+			<Text>Abonelikten Çık</Text>
+		</Row>
+		<Row Tag="LOC_MODS_GROUP_DEFAULT_NAME">
+			<Text>(Varsayılan)</Text>
+		</Row>
+		<Row Tag="LOC_MODS_GROUP_ADD_NAME">
+			<Text>+</Text>
+		</Row>
+		<Row Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
+			<Text>Yeni bir Mod grubu oluşturun. Gruplar, hangi modların etkin olduğunu hızlıca değiştirmek için kullanılabilir.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_GROUP_DELETE_NAME">
+			<Text>-</Text>
+		</Row>
+		<Row Tag="LOC_MODS_GROUP_ENTER_NAME">
+			<Text>Yeni mod grubunun adını girin.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
+			<Text>Seçili mod grubunu silin. Bu işlem modları değil, yalnızca grubu siler. Varsayılan grup silinemez.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SEARCH_NAME">
+			<Text>Ara...</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SEARCH_DESCRIPTION">
+			<Text>İçerikleri başlık ve tanıtıma göre arayın.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SORTBY">
+			<Text>Sıralama Ölçütü:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SORTBY_NAME">
+			<Text>Sıralama Ölçütü: Ad</Text>
+		</Row>
+		<Row Tag="LOC_MODS_SORTBY_ENABLED">
+			<Text>Sıralama Ölçütü: Etkin</Text>
+		</Row>
+		<Row Tag="LOC_MODS_LAST_UPDATED">
+			<Text>Son Güncelleme: {1_Time: datetime}</Text>
+		</Row>
+		<Row Tag="LOC_MODS_FILTER">
+			<Text>Filtre</Text>
+		</Row>
+		<Row Tag="LOC_MODS_FIRAXIAN_CONTENT">
+			<Text>Resmî İçerik</Text>
+		</Row>
+		<Row Tag="LOC_MODS_USER_CONTENT">
+			<Text>Topluluk Tarafından Oluşturulan İçerik</Text>
+		</Row>
+		<Row Tag="LOC_MODS_WORLDBUILDER_CONTENT">
+			<Text>Dünya Oluşturucu Haritası</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE_ALL">
+			<Text>Tümünü Etkinleştir</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DISABLE_ALL">
+			<Text>Tümünü Devre Dışı Bırak</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE">
+			<Text>Etkinleştir</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLED">
+			<Text>Etkin</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE_INCLUDE">
+			<Text>Bunu etkinleştirmek aşağıdakileri de etkinleştirecektir:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE_ERROR">
+			<Text>Aşağıdaki nedenlerden dolayı etkinleştirilemiyor:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DISABLE">
+			<Text>Devre Dışı Bırak</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DISABLED">
+			<Text>Devre Dışı</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DISABLE_ERROR">
+			<Text>Aşağıdaki nedenlerden dolayı devre dışı bırakılamıyor:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DISABLE_ERROR_DEPENDS">
+			<Text>Aşağıdaki modlar buna bağlı olduğu için devre dışı bırakılamıyor:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_YES">
+			<Text>Evet</Text>
+		</Row>
+		<Row Tag="LOC_MODS_NO">
+			<Text>Hayır</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_VERSION">
+			<Text>Sürüm:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_AUTHOR">
+			<Text>Yazar(lar):</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
+			<Text>Özel Teşekkürler:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_DLC_STORE">
+			<Text>Mağaza sayfasını ziyaret etmek için buraya tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
+			<Text>Tek Oyunculu?</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_MULTIPLAYER">
+			<Text>Çok Oyunculu?</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_CREATED">
+			<Text>Oluşturulma:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
+			<Text>Kayıtlı Oyunları Etkiler:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_OWNERSHIP">
+			<Text>Mülkiyet:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_TAGS">
+			<Text>Etiketler:</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
+			<Text>Sahip olunan</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
+			<Text>Sahip olunmayan</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_COMPATIBLE_NOT">
+			<Text>Uyumlu değil</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_DESCRIPTION">
+			<Text>Açıklama</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_REFERENCES">
+			<Text>Referanslar</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
+			<Text>Bağımlı Oldukları</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
+			<Text>Referanslar</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
+			<Text>Engelledikleri</Text>
+		</Row>
+		<Row Tag="LOC_MODS_EXCLUSIVE">
+			<Text>Bu mod, münhasır bir moddur.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
+			<Text>Bu mod, kısmen münhasır bir moddur.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
+			<Text>Şu anda etkin olan modlar bu kayıtlı oyunla uyumlu değil.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
+			<Text>Gerekli tüm modlar yüklenmemiş.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
+			<Text>Bu modun başka bir sürümü zaten etkin.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
+			<Text>Mod, başka bir mod tarafından engelleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
+			<Text>Modun gerekli bağımlılıkları eksik.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+			<Text>Mod, münhasırlık çakışması nedeniyle engelleniyor.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
+			<Text>Oyunun bu sürümü bu modla uyumlu değil.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_AUTHORS_FIRAXIS">
+			<Text>Firaxis</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE_WARNING_NOT_COMPATIBLE">
+			<Text>Bu mod, oyunun bu sürümüyle uyumlu olarak işaretlenmemiş. Devam etmek istiyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_MODS_ENABLE_WARNING_NOT_COMPATIBLE_MANY">
+			<Text>Bir veya daha fazla mod, oyunun bu sürümüyle uyumlu olarak işaretlenmemiş. Devam etmek istiyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_MODS_WARNING_WHITELIST">
+			<Text>Bu uyarıyı bu mod için yok say.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_WARNING_WHITELIST_MANY">
+			<Text>Bu uyarıyı bu modlar için yok say.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_COMPATIBILITY_WHITELIST_PROMPT">
+			<Text>Bu mod için uyumluluk uyarılarını yok say.</Text>
+		</Row>
+		<Row Tag="LOC_MODS_DETAILS_NOT_COMPATIBLE_WARNING">
+			<Text>[COLOR_RED]Bu mod, kendisini mevcut oyun sürümüyle uyumlu olarak işaretlememiştir.[ENDCOLOR]</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

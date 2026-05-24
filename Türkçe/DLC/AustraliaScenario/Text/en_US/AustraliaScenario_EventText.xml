@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Political Event Titles-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_1">
+			<Text>KÂŞİF HAZIR</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_2">
+			<Text>SÖMÜRGE GEMİSİ GELİYOR</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_3">
+			<Text>BİR MİLLET DOĞUYOR</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_4">
+			<Text>BİRİNCİ DÜNYA SAVAŞI</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_5">
+			<Text>İKİNCİ DÜNYA SAVAŞI</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_TITLE_6">
+			<Text>İLAVE GÖÇMENLER</Text>
+		</Row>
+		<!-- Political Event Descriptions-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_1">
+			<Text>Maceraperest bir kâşif, Avustralya kıtasının gizemlerini keşfetmek üzere İngiliz Yeni Güney Galler kolonisinden yola çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_2">
+			<Text>Yeni koloninizi kurmak üzere dayanıklı ruhlardan oluşan bir gemi kiraladık. Bu topluluktan umudumuz yüksek: hepsi hükümlü değil.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_3">
+			<Text>Artık pek çok nesil yerlisi Avustralyalı olarak yaşayıp öldüğüne göre, halkımız ayrı eyaletlerimizi birleşik bir ülke haline getirmek istiyor. Avustralya'nın federasyonlaşarak Britanya'dan bağımsız yeni bir ulus oluşturma zamanı geldi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_4">
+			<Text>Büyük bir savaş Avrupa kıtasını kasıp kavuruyor ve anavatanımız Britanya da bu mücadelenin içine çekildi. Biz de destek olmak için birlikler göndereceğiz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_5">
+			<Text>Bir dünya savaşı daha patlak verdi ve bu kez vatanımız Avustralya bile tehdit altında. Başbakanımız John Curtin'in bize hatırlattığı gibi: “Bu topraklarda ilk yerleşimcilerimiz tarafından yakılan ve ardından gelen nesiller tarafından canlı tutulan özgürlük alevi, hiçbir düşman tarafından söndürülemez.”</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_DESCRIPTION_6">
+			<Text>Toplumsal ilerlemeniz İngiltere'de fark edildi. Koloninizi yeni yuvaları yapmak isteyen daha fazla göçmen geldi.</Text>
+		</Row>
+		<!-- Political Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_1">
+			<Text>Bu kâşifi, yeni bir yerleşim için en iyi yeri bulmak üzere sonraki dört tur boyunca kullanın.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_2">
+			<Text>Bir sonraki turun başında, kâşifinize en yakın kıyı bölgesinde ücretsiz bir Yerleşimci belirecek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_3">
+			<Text>Federasyon Sosyal Politikası'nı tamamladığınızda, en güçlü yönetim sistemi olan Eyalet Hükümeti'ne yükseltebileceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_4">
+			<Text>Artık herhangi bir şehrinizde AIF projesini başlatabilirsiniz. Savaş çabalarına yaptığınız her katkı, eyaletinizin ulusumuzdaki konumunu güçlendirecek ve size tur başına +10 [ICON_Gold] Altın kazandıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_5">
+			<Text>AIF projesini tamamlamak bu zamanda daha da kritik öneme sahiptir ve size tur başına +20 [ICON_Gold] Altın ödül kazandıracaktır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_POLITICAL_EFFECT_6">
+			<Text>Başkentinizde ücretsiz bir Yerleşimci belirdi. Bu noktadan itibaren, yeni şehirler mevcut şehirlerinizden birine 10 bölge mesafede inşa edilmelidir.</Text>
+		</Row>
+		<!-- Danger Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_1">
+			<Text>{1_UnitName} biriminiz {2_Damage} hasar aldı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_2">
+			<Text>{1_UnitName} biriminiz öldürüldü.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_3">
+			<Text>{1_UnitName} biriminiz kalıcı olarak 1 [ICON_Movement] Hareket puanı kaybetti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_4">
+			<Text>{1_Amount} [ICON_Gold] Altın kaybedersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_5">
+			<Text>{1_UnitName} biriminiz en yakın şehir olan {2_CityName}'e döndü.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DANGER_EFFECT_6">
+			<Text>Yakınınızdaki {1_Improvement} yağmalandı.</Text>
+		</Row>
+		<!-- Delay Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_1">
+			<Text>{1_UnitName} biriminiz bu tur {2_Movement} hareket puanı kaybetti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_2">
+			<Text>{1_UnitName} biriminiz bu tur hareket edemeyecek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_DELAY_EFFECT_3">
+			<Text>{1_UnitName} biriminizin yakınındaki bazı araziler hakkındaki bilgi kayboldu.</Text>
+		</Row>
+		<!-- Benefit Event Gameplay Effects-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_1">
+			<Text>{2_CityName} şehrine yeni bir {1_UnitName} ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_2">
+			<Text>{2_UnitName} biriminizin yanına bir {1_UnitName} ulaştı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_3">
+			<Text>{1_UnitName} biriminizin yakınındaki keşfedilmemiş bölge açığa çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_4">
+			<Text>{1_UnitName} biriminiz kalıcı olarak +1 [ICON_Movement] Hareket puanı kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_5">
+			<Text>{1_UnitName} biriminiz tamamen iyileştirildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_6">
+			<Text>{1_UnitName} biriminiz {2_HitPoints} hasar puanı iyileştirildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_7">
+			<Text>Yakınınızdaki {1_CityName} şehri 1 Nüfus kazandı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_8">
+			<Text>{1_Amount} [ICON_Gold] Altın kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_9">
+			<Text>{1_TechName} teknolojisi için bir Buluş kazanıyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_BENEFIT_EFFECT_10">
+			<Text>{1_CivicName} yönetim bilimi için bir İlham kazanıyorsunuz.</Text>
+		</Row>
+		<!-- Exploration Event Titles-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_1">
+			<Text>Rip Akıntısına Kapıldı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_2">
+			<Text>Kutu Denizanasına Sürttü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_3">
+			<Text>Konik Kabuk Topladı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_4">
+			<Text>Tehlikeli Sis Yüzünden Gecikme</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_5">
+			<Text>Aborjin Balıkçılardan İkmal</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_6">
+			<Text>Kiralık Kaya Hoplayıcıları</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_TITLE_7">
+			<Text>Bereketli Sular Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_1">
+			<Text>Su İhtiyacı Vahim Şekilde Hafife Alındı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_2">
+			<Text>Panikleyen Deve Sürüsü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_3">
+			<Text>Ölüm Engereğine Basıldı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_4">
+			<Text>Ara Vermeyen Toz Fırtınası Yüzünden Gecikme</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_5">
+			<Text>Vaha Görüldü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_TITLE_6">
+			<Text>Korumasız Dingo Yavruları Bulundu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_1">
+			<Text>Bushranger'lar Tarafından Yolu Kesildi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_2">
+			<Text>Çalı Yangınına Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_3">
+			<Text>Dingolar Tarafından Taciz Edildi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_4">
+			<Text>Yanlış Yemişler Yenildi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_5">
+			<Text>Squatter'lardan İkmal</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_TITLE_6">
+			<Text>Kiralık Swagmen'ler</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_1">
+			<Text>Kaya Kayması!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_2">
+			<Text>Olağanüstü Dondurucu Geceler</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_3">
+			<Text>Malzemeler Kanyona Düştü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_4">
+			<Text>Verimsiz Geçit</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_5">
+			<Text>Kiralık Altın Arayıcıları</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_TITLE_6">
+			<Text>Dağ Pınarı Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_1">
+			<Text>Kızıl Kanguru ile Çatışma</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_2">
+			<Text>Kuraklık Sürüyor</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_3">
+			<Text>Spinifex Enfeksiyonu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_4">
+			<Text>Yönün Tamamen Kaybı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_5">
+			<Text>Kiralık Sığırtmaçlar</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_TITLE_6">
+			<Text>Galah Sürüsü Suya Götürdü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_1">
+			<Text>Sıtma Belaları</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_2">
+			<Text>Veba Çekirgeleri Kıtlığa Sürükledi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_3">
+			<Text>Ani Selde Kaybolmak</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_4">
+			<Text>Çamur Düzlüklerinde Mahsur Kalmak</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_TITLE_5">
+			<Text>Derede Tatlısu Istakozu Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_1">
+			<Text>Tuzlu Su Timsahına Yem Olmak</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_2">
+			<Text>Korkunç Kurtlu Yaralar</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_3">
+			<Text>Huni Ağ Örümceği Isırığı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_4">
+			<Text>Zehirli Balık Yendi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_5">
+			<Text>Bataklıkta Kayboluş</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_TITLE_6">
+			<Text>Dehşet Verici Bunyip Rivayetleri</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_1">
+			<Text>Kıl Kurdu İstilası</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_2">
+			<Text>Suyu Çok Hızlı İçti</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_3">
+			<Text>İsyanı Kıl Payı Önledi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_4">
+			<Text>Billabong'da Sağlığına Kavuştu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_TITLE_5">
+			<Text>Huzurlu İyileşme</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_1">
+			<Text>Buradaki Her Şey Zehir</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_2">
+			<Text>Bir Kasovaryı Ürküttü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_3">
+			<Text>Dang Hummasına Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_4">
+			<Text>Yakıcı Karınca Sürüsü Belası</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_TITLE_5">
+			<Text>Bilimsel Gizemi Keşfetti</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_1">
+			<Text>Doğu Kahverengi Yılanını Kızdırdı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_2">
+			<Text>Sakız Ağacından Odun Yaktı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_3">
+			<Text>Bölgesine Sahip Çıkan Emuyu Kızdırdı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_4">
+			<Text>Asılsız Drop Bear Söylentileri</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_TITLE_5">
+			<Text>Emu Yumurtası Kümesi Buldu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_1">
+			<Text>Uğursuz Düşüş</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_2">
+			<Text>İskorbüt Hastalığına Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_3">
+			<Text>Yön Karmaşası</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_4">
+			<Text>Atları Bağlamayı Unuttu</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_5">
+			<Text>Kestirme Bir Yol Keşfetti</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_6">
+			<Text>Aborjin Klanı Tarafından İkmal Edildi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_7">
+			<Text>Bir Dingo'nun İzini Sürdük</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_8">
+			<Text>Rakip Kâşiflerle Çekişme</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_9">
+			<Text>Haritalardaki Yanlışlıkların Keşfi</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_10">
+			<Text>Hazine!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_11">
+			<Text>Kiralık Aborijin Rehberler</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_12">
+			<Text>İstemeden Aborijinleri Gücendirdik</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_13">
+			<Text>Kazara Bir Orman Yangını Başlattık</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_14">
+			<Text>Aborijin Göçü</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_TITLE_15">
+			<Text>Aborijinlerle Sonuçsuz Bir Söyleşi</Text>
+		</Row>
+		<!-- Exploration Event Descriptions-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_1">
+			<Text>Okyanusta serinlemek için girilen bir dalış, bir trajediyle noktalandı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_2">
+			<Text>Ne kadar da kırılgan bir varlık, içi sıvı acıyla dolu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_3">
+			<Text>Güzel bir dış görünüş, minik ve zehirli bir zıpkını gizler.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_4">
+			<Text>Denizden geldi, top dumanından daha yoğun.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_5">
+			<Text>Yerel suları ve balıkları onlar bilirdi; biz ise hiçbirini.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_6">
+			<Text>Kıyı kayalıklarından kaymadan nasıl balık tutuyorlar? Bir gizem!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_DESCRIPTION_7">
+			<Text>Harika bir keşifti. Bir yerleşimi desteklemeye yeterliydi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_1">
+			<Text>İlk ölen atlar oldu, susuzluktan sayıklıyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_2">
+			<Text>İlk sömürgeciler tarafından terk edilmiş, o zamandan beri yabanileşmişler.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_3">
+			<Text>O güneşin kavurduğu arazide her şey birbirine karışıyor. Yılanlar bile.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_4">
+			<Text>Her şeye bulaştı. Günler sonra hâlâ arkamızda saçıyorduk onu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_5">
+			<Text>O kavurucu çorak toprakların ortasında bir yaşam adası bulduk.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_DESCRIPTION_6">
+			<Text>Anlamalısınız. Hayatta kalmamız için bunu yapmak zorundaydık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_1">
+			<Text>Yiyeceğimizi aldılar ama suyumuzu bıraktılar. Katil değil, hırsızdılar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_2">
+			<Text>Bir dökümhaneden beter kavuruyordu. Kaşlar yandı, deriler kızardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_3">
+			<Text>Günlerce peşimizi bırakmadılar, sonunda bir yük hayvanımızı öldürdüler.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_4">
+			<Text>Acı, bağırsaklarımızı dağlayan kor gibiydi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_5">
+			<Text>Kendilerine taşrada yepyeni bir hayat kuruyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_DESCRIPTION_6">
+			<Text>Gezgin çiftçiler, mevsime göre düzenli iş arıyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_1">
+			<Text>Onun yolunda kamp kurmak bizim talihsizliğimizdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_2">
+			<Text>İncecik battaniyeler, dağlardan esen ayazı durduramıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_3">
+			<Text>Geriye dönüp baktığımızda, onları uçurumdan daha uzakta saklamalıydık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_4">
+			<Text>Ümit vaat eden bir kestirme yol sandığımız şey, boşa geçen bir güne mal oldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_5">
+			<Text>Birçoğu dört bir yanda altın yataklarını aradı. Çok azı gerçek servet buldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_DESCRIPTION_6">
+			<Text>Korunaklı bir kaynak, taşıyabileceğimizden fazla su sağladı bize.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_1">
+			<Text>Kendimizi savunmak adına, kesesinde ne taşıdığını öğrenmek istedik.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_2">
+			<Text>Açgözlü bitkiler, biz susuzluktan ölelim diye bekler gibiydi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_3">
+			<Text>Sürtündüğümüzde yaprak uçları etimize saplanıp kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_4">
+			<Text>Birbirinin aynısı sonsuz arazide yol kaybetmek çok kolaydı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_5">
+			<Text>Yalnız ve zorlu bir işti ama koşullardan şikayetçi değillerdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_DESCRIPTION_6">
+			<Text>Yerleştikleri yere doğru yürüdük. Güzel kuşlardı. Biraz av hayvanı tadı vardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_1">
+			<Text>Havada gökyüzünü karartacak kadar çok sivrisinek vardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_2">
+			<Text>Bizi ayakta tutabilecek her şeyi manzaradan silip süpürdüler.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_3">
+			<Text>Yüksek bir yere ulaşılamazsa, insan basitçe yok olabilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_4">
+			<Text>Bazı çizmeler ve çoraplar çamura kurban gitti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_DESCRIPTION_5">
+			<Text>Kabukları hariç, haşlandıklarında yenilebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_1">
+			<Text>Ne bir ses ne bir çığlık. Yalnızca suda bir dalgacık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_2">
+			<Text>O lanet olası mavi şişeler kesinlikle suçlulardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_3">
+			<Text>Yaratık ne kadar küçükse, zehri o kadar güçlü. Genelde.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_4">
+			<Text>Her balık yemeklik değildir. Hele o hiç değil.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_5">
+			<Text>Arazi gün boyunca değişiyor gibi. Işığın oyunu mu?</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_DESCRIPTION_6">
+			<Text>O bataklıkta bir çalı ruhunun bizi takip ettiğine hiç şüphe yok.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_1">
+			<Text>Outback'in en taze suları bile bağırsak tehlikeleri taşır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_2">
+			<Text>Uzun süre susuz kaldıktan sonra, susuzluk kötü kararlara yol açar.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_3">
+			<Text>Vahadan ayrılmayı reddettiler. Neredeyse kavgaya tutuşuyorduk.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_4">
+			<Text>O yalnız su birikintisi moralimizi yükseltti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_DESCRIPTION_5">
+			<Text>Güzel bir gün. Keşke diğerlerini dengeleyebilse.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_1">
+			<Text>Her böcek, hayvan, çiçek, kök veya asma bizi öldürebilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_2">
+			<Text>Düşünmek gerek, ilk sıçrayıp ayaklarını tekmelediğinde gülmüştük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_3">
+			<Text>Ateş bir süre devam etti, ta ki bir yara kaderin mührünü taşıyana dek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_4">
+			<Text>Karınca yuvalarının üzerinde yatma talihsizliğine uğramıştık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_DESCRIPTION_5">
+			<Text>Bu tuhaf ormanda keşfedilmeyi bekleyen harikalar vardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_1">
+			<Text>Hiçbir sebep yokken saldırdığında, ne denli uğursuz olduğunu gösterdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_2">
+			<Text>Patlamayı öngörememiştik. Kimileri top ateşi sanmıştı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_3">
+			<Text>Vahşi gagalamaları bizi hazırlıksız yakaladı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_4">
+			<Text>Hiç etobur bir koalaya rastlamadık. Biz şanslı olanlardık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_DESCRIPTION_5">
+			<Text>Çiğ yenildiğinde, sarısının kıvamı çalı istiridyeleri gibiydi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_1">
+			<Text>Gerekirse topallayan bir bineği vurabilirdiniz. Ama bir insanı vurmak öyle değildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_2">
+			<Text>Damaktan deri soyulurdu. Oldukça nahoş.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_3">
+			<Text>Sert koşullar ve yıpranmış sabırlar çoğu zaman didişmeye yol açardı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_4">
+			<Text>Kasabada basit bir hataydı. Taşrada ise hiç öyle değildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_5">
+			<Text>Görünüşte sıradan bir patika, bazen umut vaat ederdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_6">
+			<Text>Neyse ki çalılığın her yeri insan hayatından yoksun değildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_7">
+			<Text>Dingolar suya ve ava giderdi. En iyisi yerel halkı takip etmekti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_8">
+			<Text>Birçok kişi buluntuları kendine mal etmeye hevesliydi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_9">
+			<Text>Belki de haklıydılar. Taşrada bakış açısı tuhaftır.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_10">
+			<Text>Ne yazık ki başarısız bir kâşifin cesedinde bulundu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_11">
+			<Text>Ekibimizi bölüp daha fazla alan keşfetmeyi başardık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_12">
+			<Text>Çok sonra, bunun klana ağır bir hakaret olduğunu anladık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_13">
+			<Text>O zamanlar ne kadar uzağa gideceğini bilmiyorduk. Fazlasıyla uzağa.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_14">
+			<Text>Kötü koşullar, onları başka yerlerde şanslarını denemeye itti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_DESCRIPTION_15">
+			<Text>Görünüşe göre yabancılarla önceki karşılaşmaları olumsuzmuş.</Text>
+		</Row>
+
+		<!-- Exploration Event Journal Entries-->
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_1">
+			<Text>Denize sürüklendi, boğulduğu varsayılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_2">
+			<Text>Çiftleşen denizanalarının üzerine bastı. Kesme işlemi başarısız oldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_3">
+			<Text>Konk kabuğunu kulağına dayadı. Okyanusu duymadı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_4">
+			<Text>Görüş mesafesi yok. İlerleme kaydedilemedi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_5">
+			<Text>Taze yiyecek ve su karşılığında takas yapıldı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_6">
+			<Text>Uyumlu tipler, çalışmaya hevesli.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_COAST_ADJACENT_JOURNAL_7">
+			<Text>Tam bir bereket boynuzu. Konum kaydedildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_1">
+			<Text>Hayatta kalmak için ürettiğimiz suya güveniyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_2">
+			<Text>Ezildi. Deve tükürüğüyle kör oldu. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_3">
+			<Text>Baldırından ısırıldı. Kısa süre sonra akciğerleri kapandı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_4">
+			<Text>Görüş yok. Tükürük çamurlu. İlerleme yok.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_5">
+			<Text>Hoş bir rahatlama göründü. Konum kaydedildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_DESERT_JOURNAL_6">
+			<Text>Erzak yenilendi. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_1">
+			<Text>İlk yumruklaşmada dişler kaybedildi. Erzak da kayboldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_2">
+			<Text>Küller arasında kalıntılar seçilemedi. Yola devam ediliyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_3">
+			<Text>Bitmeyen ulumalar. Dört gece uykusuz. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_4">
+			<Text>Susuz kalmış. Morali bozulmuş. Seyahat edemeyecek kadar zayıf.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_5">
+			<Text>Beslenmiş ve yeniden tedarik edilmiş. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_GRASSLAND_JOURNAL_6">
+			<Text>En yakın yerleşime harita sağlandı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_1">
+			<Text>Tıbbi malzemeler kayboldu. Yaralılar bakımsız, tedavi yetersiz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_2">
+			<Text>Donma vakaları. Hepimiz etkilenmeden ilerlemeliyiz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_3">
+			<Text>Kurtarma girişimi başarısız. Aç, yaralı ve moralsiz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_4">
+			<Text>Geçit çıkmazdı. Önceki kamp alanına dönüldü.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_5">
+			<Text>Fossicker'ları en yakın sömürge maden ofisine yönlendirdi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MOUNTAINS_ADJACENT_JOURNAL_6">
+			<Text>Barınıldı ve erzak yenilendi. İyi toplayıcılık. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_1">
+			<Text>Tekrarlanan tekmeler organ hasarına ve ardından ölüme yol açtı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_2">
+			<Text>Toprak kavrulmuş. Keşif ekibi de kavrulmuş. İleri.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_3">
+			<Text>Bu arazide spinifex yığınlarından kaçınmak imkânsız.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_4">
+			<Text>Öğleden önce dünkü yolu iki kez geçtik. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_5">
+			<Text>En yakın taşra istasyonu yakında daha fazla sığırtmaça kavuşacak.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_PLAINS_JOURNAL_6">
+			<Text>Su tulumları ve mideler ağzına kadar dolu. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_1">
+			<Text>Bitmeyen ateş. İyileşme imkânsız. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_2">
+			<Text>Toplayıcılık sonuçsuz. Kemerler sıkıldı. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_3">
+			<Text>Gece kamp dışına sürüklendi, öldü sanılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_4">
+			<Text>Kayda değer ilerleme yok. Sineklerle kaplı. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_FLOODPLAINS_JOURNAL_5">
+			<Text>Kabuklular bulundu! Erzak tazelendi. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_1">
+			<Text>Doyduğunu sanınca ayrıldık. Bir kez yanıldık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_2">
+			<Text>Müptelalar çığlık atarak bataklığa kaçtı. Öldü sanılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_3">
+			<Text>Bu ıssız topraklar ne dehşetler barındırıyor!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_4">
+			<Text>Tam bir felcin ardından gelen ölüm, hiç de temiz olmadı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_5">
+			<Text>Saatlerce süren zorlu yolculuk. Dünkü kendi kampımızı bulduk.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_MARSH_JOURNAL_6">
+			<Text>Bunyip iddiaları, sorumluluktan kaçma girişiminin açık bir göstergesi. Hiç ilerleme yok.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_1">
+			<Text>Kaşıntı enfeksiyona dönüştü. Ne uyuyabiliyorum ne de rahatça oturabiliyorum.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_2">
+			<Text>Su hastalığından kurtulmamız bekleniyordu ama hiçbir ilerleme yok.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_3">
+			<Text>Sağduyu, nekahet dönemimizi uzatmamızı salık veriyor.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_4">
+			<Text>Keyifli bir yıkanma. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_OASIS_JOURNAL_5">
+			<Text>Azıklar yenilendi. Su tulumları ağzına kadar dolu. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_1">
+			<Text>Bilinmeyen bir sebepten, yabancı bir kaynaktan bir can daha gitti.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_2">
+			<Text>Bir kuşun jilet gibi pençeleri boğazını kesti. Ölüm anlık oldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_3">
+			<Text>Dang humması. Hepimiz bunun nasıl sonuçlandığını biliyoruz. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_4">
+			<Text>Yatak takımları kullanılamaz hâlde. Günü karıncaları tütsüleyerek geçirdik.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_RAINFOREST_JOURNAL_5">
+			<Text>Kapsamlı notlar tuttum. Adlandırma hakkı bizim olacak!</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_1">
+			<Text>Yılanları köşeye sıkıştırmanın tehlikeleri bir kez daha vurgulandı.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_2">
+			<Text>Atlar tedirgin. Yanıklar sarıldı. Kaşlar kömür oldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_3">
+			<Text>Bir göz kaybedildi, çukuru enfekte oldu. Kurbana deve kuşu butu sunuldu.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_4">
+			<Text>Bir günü tamamen saçma sapan laflarla kaybettim. Etrafım aptallarla çevrili.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_WOODS_JOURNAL_5">
+			<Text>Azıklar yenilendi. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_1">
+			<Text>Arazinin insafızlığı yüzünden ağır bir yaralanma.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_2">
+			<Text>Çaresizce kaliteli azık arıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_3">
+			<Text>Kavgaya tutuştuk, bazı darbeler ağırdı. Moral düşük.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_4">
+			<Text>İple bağlamanın gerekliliğini hararetle vurguladık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_5">
+			<Text>Yarınki yolculuğu hızlandıracak gizli bir patika bulduk.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_6">
+			<Text>Taze yiyecek ve su karşılığında takas yaptık. Daima ileri.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_7">
+			<Text>Bir su birikintisi bulduk, dingoları kovaladık, suyumuzu tazeledik.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_8">
+			<Text>Sonunda ortak adlandırma hakları konusunda anlaşmaya vardık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_9">
+			<Text>Biraz daha keşif gerekiyor. Konum kaydedildi.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_10">
+			<Text>Ödül vaadi topluluğumuzu heyecanlandırdı. Moral yüksek.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_11">
+			<Text>Ne şans! Şimdi servetimizi ikiye katladık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_12">
+			<Text>Daha fazla düşmanlık yaşamamak için bölgeyi aceleyle terk ettik.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_13">
+			<Text>Kamp ateşinin kıvılcımları yangını başlattı. Canımızı kurtarmak için kaçtık.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_14">
+			<Text>Klanı en yakın yerleşime yönlendirdik. İleri.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_AUSTRALIA_EVENT_EXPLORATION_ANY_JOURNAL_15">
+			<Text>Güvencelere rağmen ticaret reddedildi. Kısa süre sonra ayrıldık.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Joao-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Ufukta yelkenlerini görmek bana neşe verecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Dostluğuna hayır demek canımı acıtsa da, bunu yapmak zorundayım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Deniz uçsuz bucaksız ve ıssız. Dost olalım mı? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Mükemmel!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Beni hüzünlendiriyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Sizi bu kadar gücendirecek ne yaptım? Neyse, bu hatayı düzeltmek için çok geç. Ne kadar üzücü ki savaşa girmek zorundayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Size savaş ilan ettim. Bunu yapmak istemezdim, ama artık sizi yanımda da istemiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Heyetiniz iyi karşılandı. Yeşil şarap içtik ve kederli fadistaların denizi anlatan şarkılarını dinledik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Hediyelerinizi aşırı doymuş bir pazara gönderiyorsunuz. Hiçbirini istemiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Denizler imparatorluğu size Hint Adaları'ndan baharatlar, Çin'den ipekler ve Afrika'dan altın getiriyor. Ve memleketten biraz da bacalao.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Şeytan tarafından bana eziyet etmek için mi gönderildin? Nereye gitsen neden bu kadar nifak tohumu ekiyorsun? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Neden dünyaya bu kadar bela olmak zorundasın? Sözlerin yalan, eylemlerin saldırgan ve taleplerin, açıkçası, aşırı. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JOAO_III_ANY">
+			<Text>Tanrı'nın lütfuyla ben João, Portekiz Kralı. Sizi ağırlamaktan onur duyarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JOAO_III_ANY">
+			<Text>Zeytinyağı ve morina balığı, ızgara sardalya ve castella ile bir ziyafetimiz var! Gelip benimle fado dinler misin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JOAO_III_ANY">
+			<Text>Evet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JOAO_III_ANY">
+			<Text>Seyahatlerimiz ve evlerimiz hakkında hikâyeler paylaşalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JOAO_III_ANY">
+			<Text>Görüyorum ki dönmüşsünüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOAO_III_ANY">
+			<Text>Ah, evet. Denizin tatlı hüznünü ikimiz de biliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOAO_III_ANY">
+			<Text>Kendi sahillerinde oturup ötesine bakmamaya nasıl katlanabiliyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Birlikte yelken açalım mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JOAO_III_ANY">
+			<Text>Barışa kucak açıyoruz. Ne yazık ki daha önce gelememiş olması.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JOAO_III_ANY">
+			<Text>Savaş acıklı bir şeydir. Ama henüz barış yapamayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Savaş alanlarını çarşıya çevirelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Halkınızın yolculuklarında talihi açık olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JOAO_III_ANY">
+			<Text>Üzgünüm, ama askerlerinizin topraklarımızda dolaşmasına dayanamayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Sularınızda yelken açıp yollarınızda yürüyebilir miyiz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JOAO_III_ANY">
+			<Text>Lütfen askerlerinizi çekin, yoksa feci bir şey olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_JOAO_III_ANY">
+			<Text>Üzgünüm, ama planlarımız birliklerimizin şu an bulunduğu yerde olmasını gerektiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_JOAO_III_ANY">
+			<Text>Anlaştık. Güçlerim başka diyarlara yelken açacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Duyduğuma göre Portekiz'in fatihi sizmişsiniz. Gerçek bu olabilir, ama zaferinizi asla tanımayacağım. Defolun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Buna razı olamam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JOAO_III_ANY">
+			<Text>Tamam! Bu tür anlaşmalar ikimizin de gelişmesini sağlayacak.</Text>
+		</Row>
+    <!-- AI Agenda Text -->
+    <Row Tag="LOC_AGENDA_JOAO_EXPLORER_NAME">
+      <Text>Kâşifin Mirası</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_JOAO_EXPLORER_DESCRIPTION">
+      <Text>Dünyayı keşfeden uygarlıkları takdir eder, sınırlarına yakın duranlardan hoşlanmaz.</Text>
+    </Row>
+    <Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_JOAO_AGENDA_HIGH_EXPLORATION">
+      <Text>João, dünyayı keşfeden uygarlıkları sever</Text>
+    </Row>
+    <Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_JOAO_AGENDA_LOW_EXPLORATION">
+      <Text>João, keşfetmeyen uygarlıklardan hoşlanmaz</Text>
+    </Row>
+    <Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_JOAO_AGENDA_JOAO_HIGH_EXPLORATION">
+      <Text>João, dünyayı keşfeden uygarlıkları sever</Text>
+    </Row>
+    <Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_JOAO_AGENDA_JOAO_LOW_EXPLORATION">
+      <Text>João, keşfetmeyen uygarlıklardan hoşlanmaz</Text>
+    </Row>
+    <Row Tag="LOC_TOOLTIP_KUDO_EXIT_JOAO_III_ANY">
+      <Text>Keşif ve buluşlar kendi ödülleridir, ama izin verin tebriklerim de bunlara eklensin.</Text>
+    </Row>
+    <Row Tag="LOC_TOOLTIP_WARNING_EXIT_JOAO_III_ANY">
+      <Text>Kendi topraklarından asla ayrılmayanlar, dışarıya açılanların elinden düşer.</Text>
+    </Row>
+  </EnglishText>
+</GameData>

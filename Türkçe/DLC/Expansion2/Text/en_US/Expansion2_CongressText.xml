@@ -1,0 +1,340 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_WC_RES_MERCENARY_COMPANIES_NAME">
+			<Text>Paralı Asker Şirketleri</Text>
+		</Row>
+		<Row Tag="LOC_RESOLUTION_DIPLOVICTORY_NAME">
+			<Text>Diplomatik Zafer</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_LUXURY_NAME">
+			<Text>Lüks Mal Politikası</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_TRADE_TREATY_NAME">
+			<Text>Ticaret Politikası</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_WORLD_RELIGION_NAME">
+			<Text>Dünya Dini</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_POWER_RESOURCE_NAME">
+			<Text>Enerji Politikası</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_FAVORED_UNITS_NAME">
+			<Text>Dünya Tarafından Onaylanan Ordular</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_GOVERNANCE_DOCTRINE_NAME">
+			<Text>Yönetim Doktrini</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_ARMS_CONTROL_NAME">
+			<Text>Silah Kontrolü</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_LOYAL_CITIZENS_NAME">
+			<Text>Kayrılan Uygarlık</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_HERITAGE_ORG_NAME">
+			<Text>Miras Teşkilatı</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_POLICY_TREATY_NAME">
+			<Text>Politika Antlaşması</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_WORLD_IDEOLOGY_NAME">
+			<Text>Dünya İdeolojisi</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_URBAN_DEVELOPMENT_NAME">
+			<Text>Kentsel Gelişim Antlaşması</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_BORDER_CONTROL_NAME">
+			<Text>Sınır Kontrolü Antlaşması</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_PUBLIC_WORKS_NAME">
+			<Text>Kamu İşleri Programı</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_PATRONAGE_NAME">
+			<Text>Hamilik</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_TREATY_ORGANIZATION_NAME">
+			<Text>Antlaşma Teşkilatı</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_GLOBAL_ENERGY_TREATY_NAME">
+			<Text>Küresel Enerji Antlaşması</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_SOVEREIGNTY_NAME">
+			<Text>Egemenlik</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_MIGRATION_TREATY_NAME">
+			<Text>Göç Antlaşması</Text>
+		</Row>
+		<Row Tag="LOC_WC_RES_DEFORESTATION_TREATY_NAME">
+			<Text>Ormansızlaştırma Antlaşması</Text>
+		</Row>
+    <Row Tag="LOC_WC_RES_PUBLIC_RELATIONS_NAME">
+      <Text>Halkla İlişkiler</Text>
+    </Row>
+    <Row Tag="LOC_WC_RES_ESPIONAGE_PACT_NAME">
+      <Text>Casusluk Paktı</Text>
+    </Row>
+    <Row Tag="LOC_WC_RES_MILITARY_ADVISORY_NAME">
+      <Text>Askeri Danışmanlık</Text>
+    </Row>
+		<Row Tag="LOC_WORLD_CONGRESS_ADD_DIPLOVICTORY_DESC">
+			<Text>Seçilen Oyuncu 2 Diplomatik Zafer puanı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IMPROVE_LUXURY_DESC">
+			<Text>Seçilen Lüks Kaynağın fazladan kopyaları [ICON_Amenities] Olanak sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IMPROVE_TRADE_WTH_PLAYER_DESC">
+			<Text>[ICON_TradeRoute] Seçilen oyuncuya gönderilen Ticaret Yolları, gönderene +4 [ICON_Gold] Altın sağlar. Seçilen oyuncu +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_EMPOWER_RELIGION_DESC">
+			<Text>Bu [ICON_Religion] Dinin tüm birimleri için +10 Güç (Muharebe ve Dini).</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RELIGION_COMBAT_PREVIEW_DESCRIPTION">
+			<Text>Dünya Dininden +{1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IMPROVE_POWER_CONVERSION_RESOURCE_DESC">
+			<Text>[WIP] Seçilen Enerji kaynağını dönüştürmek iki kat daha etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_PRODUCTION_YIELD_DESC">
+			<Text>Seçilen para birimi türünü kullanarak askeri birlik üretmenin veya satın almanın maliyeti, bir sonraki Dünya Kongresi'ne kadar +%100 artar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PRODUCTION_YIELD_DESC">
+			<Text>Seçilen para birimi türünü kullanarak askeri birlik üretmenin veya satın almanın maliyeti, bir sonraki Dünya Kongresi'ne kadar -%50 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SUBTRACT_DIPLOVICTORY_DESC">
+			<Text>Seçilen Oyuncu 2 Diplomatik Zafer puanı kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_LUXURY_DESC">
+			<Text>Seçilen Lüks Kaynak hiçbir [ICON_Amenities] Olanak sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_TRADE_WITH_PLAYER_DESC">
+      <Text>Diğer uygarlıklar ile seçilen oyuncu arasındaki tüm uluslararası [ICON_TradeRoute] Ticaret Yollarını iptal eder ve yenilerinin başlatılmasını ambargo ile engeller.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_RELIGION_DESC">
+			<Text>Tüm oyuncular seçilen Dinin birimlerini kınayabilir ve bunu yapmak 25 [ICON_Favor] Diplomatik Destek kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_POWER_CONVERSION_RESOURCE_DESC">
+			<Text>[WIP] Seçilen Enerji kaynağını dönüştürmek yarı yarıya daha az etkilidir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NERF_UNITPROMOTIONCLASS_DESC">
+			<Text>[WIP] Seçilen terfi sınıfı -5 [ICON_Strength] Muharebe Gücüne sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUFF_ARMS_CONTROL_DESC">
+			<Text>Tüm oyuncuların Kitle İmha Silahları, hedef oyuncununkine eşitlenir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NERF_ARMS_CONTROL_DESC">
+			<Text>Hedef oyuncu, elindeki tüm Kitle İmha Silahlarını kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PLAYER_LOYALTY_DESC">
+			<Text>[WIP] Hedef oyuncunun şehirleri %100 Sadıktır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NERF_PLAYER_LOYALTY_DESC">
+			<Text>[WIP] Hedef oyuncu, diğerlerinin şehirleri üzerinde Bağlılık baskısı uygulayamaz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUFF_WORK_TOURISM_DESC">
+			<Text>Bu türden Büyük Eserlerden elde edilen [ICON_Tourism] Turizm iki katına çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_WORK_TOURISM_DESC">
+			<Text>Bu türden Büyük Eserlerden [ICON_Tourism] Turizm elde edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_POLICY_FAVOR_DESC">
+			<Text>Bu Politika Hükümetinizde etkinken her tur [ICON_Favor] Diplomatik Destek kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_POLICY_DESC">
+			<Text>Bu Politikanın kullanımı yasaklanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_GAIN_WILDCARD_DESC">
+			<Text>Bu Hükümet türü bir Joker politika yuvası kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_LOSE_WILDCARD_DESC">
+			<Text>Bu Hükümet türü bir Joker politika yuvası kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DISTRICT_BUILDING_PRODUCTION_DESC">
+			<Text>Bu bölgedeki binalara yönelik [ICON_Production] Üretim +%100.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_DISTRICT_BUILDING_DESC">
+			<Text>Bu bölgede hiçbir bina inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_CULTURE_BORDER_GROWTH_DESC">
+			<Text>Bu oyuncunun sınırları [ICON_Culture] Kültür yoluyla genişlemez.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DISTRICTS_CULTURE_BOMB_DESC">
+			<Text>Bu oyuncu tarafından inşa edilen yeni bölgeler, [ICON_Culture] Kültür Bombası olarak işlev görür.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PROJECT_PRODUCTION_DESC">
+			<Text>Bu Projeye yönelik [ICON_Production] Üretim +%100.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_PROJECT_DESC">
+			<Text>Bu Projeye yönelik [ICON_Production] Üretim -%50.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUFF_GP_POINTS_DESC">
+			<Text>Bu sınıftaki [ICON_GreatPerson] Büyük Şahsiyetlere yönelik iki kat puan kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_GP_POINTS_DESC">
+			<Text>Bu sınıftaki [ICON_GreatPerson] Büyük Şahsiyetlere yönelik hiçbir puan kazanılmaz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DOUBLE_SUZERAIN_FAVOR_DESC">
+			<Text>Bu tür bir Şehir Devletinin Süzereni olmaktan elde edilen [ICON_Favor] Diplomatik Destek iki katına çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BAN_BUILDING_DESC">
+			<Text>Bu tür binaların üretimi yasaklanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BUILDING_DISCOUNT_DESC">
+			<Text>Bu tür binaların üretiminde %50 indirim uygulanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_FAVOR_DESC">
+			<Text>Bu tür bir Şehir Devleti'nin Süzeren'i olarak [ICON_Favor] Diplomatik Destek kazanılmaz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_TRADE_AND_ENVOYS_WITH_MINORS_DESC">
+			<Text>Bu tür bir Şehir Devleti'ne [ICON_TradeRoute] Ticaret Yolu gönderirken, Şehir Devletleri'nin getiri türünden +%100 kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_BONUS_DESC">
+			<Text>Bu tür Şehir Devletleri, kendilerine özgü Süzeren bonusunu sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_GOVERNOR_DESC">
+			<Text>Belirtilen [ICON_Governor] Vali türünü atamak ve terfi ettirmek, 15 [ICON_Favor] Diplomatik Destek kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NEUTRALIZE_GOVERNOR_TYPE_DESC">
+			<Text>Belirtilen türdeki tüm aktif [ICON_Governor] Valiler, 6 Tur boyunca etkisiz hale getirilir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MORE_GROWTH_LESS_LOYALTY_DESC">
+			<Text>Bu oyuncunun şehirlerinde [ICON_Citizen] Nüfus artışı %20 daha hızlı olur ancak tur başına -5 Bağlılık azalır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_LESS_GROWTH_MORE_LOYALTY_DESC">
+			<Text>Bu oyuncunun şehirlerinde tur başına +5 Bağlılık olur ancak [ICON_Citizen] Nüfus artışı %20 yavaşlar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DEFORESTATION_BAN_DESC">
+			<Text>Seçilen türdeki Özelliklerin kesilmesini veya temizlenmesini yasaklar.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DEFORESTATION_GOLD_DESC">
+			<Text>Seçilen türdeki Özelliklerin temizlenmesi, [ICON_Production] Üretim ve [ICON_Food] Besin değerine eşit miktarda [ICON_Gold] Altın kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_MORE_GRIEVANCES_DESC">
+			<Text>Seçilen oyuncu %100 daha fazla [ICON_STAT_GRIEVANCE] Şikayet üretir ve diğer oyuncular bu oyuncuya karşı %100 daha fazla [ICON_STAT_GRIEVANCE] Şikayet üretir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_FEWER_GRIEVANCES_DESC">
+			<Text>Seçilen oyuncu %50 daha az [ICON_STAT_GRIEVANCE] Şikayet üretir ve diğer oyuncular bu oyuncuya karşı %50 daha az [ICON_STAT_GRIEVANCE] Şikayet üretir.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_BUFF_DESC">
+			<Text>Seçilen Operasyonu yürüten Casus'lar 2 seviye daha yüksek işlev görür.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_DISABLE_DESC">
+			<Text>Seçilen Operasyon kullanılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_BUFF_DESC">
+			<Text>Seçilen terfi sınıfındaki birlikler +5 Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_NERF_DESC">
+			<Text>Seçilen terfi sınıfındaki birlikler 5 Muharebe Gücü kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_BUFF">
+			<Text>Askeri Danışma Kararından {1_Value: number +#;-#}</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_DEBUFF">
+			<Text>Askeri Danışma Kararından [COLOR_RED]{1_Value: number +#;-#}[ENDCOLOR]</Text>
+		</Row>
+		<!--Additional UI Text-->
+		<Row Tag="LOC_WORLD_CONGRESS_SELECT_AN_OUTCOME">
+			<Text>Bu Karar için bir sonuç seçin:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_PRODUCTION">
+			<Text>Birim üretimi, Dünya Kongresi'nin bir kararıyla yasaklanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_GOLD">
+			<Text>Birimlerin [ICON_Gold] Altın ile satın alınması, Dünya Kongresi'nin bir kararıyla yasaklanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_FAITH">
+			<Text>[ICON_Faith] İnanç ile birim satın alınması, Dünya Kongresi'nin bir kararıyla yasaklanmıştır.</Text>
+		</Row>
+		<!-- Proposal UI Text -->
+		<Row Tag="LOC_WC_PROPOSAL_TYPE_AID_REQUEST_NAME">
+			<Text>Yardım Talebi</Text>
+		</Row>
+		<Row Tag="LOC_WC_PROPOSAL_TYPE_EMERGENCY_NAME">
+			<Text>Acil Durumlar</Text>
+		</Row>
+		<Row Tag="LOC_WC_PROPOSAL_TYPE_COMPETITION_NAME">
+			<Text>Yarışmalar</Text>
+		</Row>
+		<Row Tag="LOC_WC_VOTING_BLOCKER_NOT_BLOCKING_DESC">
+			<Text>Bu Tartışma için lehte veya aleyhte oy kullanabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_HOSTILE_DESC">
+			<Text>Bu Tartışma lehine oy kullanamazsınız. Hedef oyuncu sizsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_FRIENDLY_DESC">
+			<Text>Bu Tartışma aleyhine oy kullanamazsınız. Hedef oyuncu sizsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WC_VOTING_BLOCKER_HAVENT_MET_TARGET_DESC">
+			<Text>Bu Tartışmada oy kullanamazsınız. Hedef oyuncuyla henüz tanışmadınız.</Text>
+		</Row>
+		<Row Tag="LOC_WC_VOTING_BLOCKER_NOT_INVITED_TO_EMERGENCY_DESC">
+			<Text>Bu Tartışmada oy kullanamazsınız. Acil Durum'un tarafı değilsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_WC_PROPOSAL_BLOCKER_ALREADY_PROPOSED_DESC">
+			<Text>Bu Tartışmayı zaten bu Dünya Kongresi için önermiş bulunuyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_WC_PROPOSAL_BLOCKER_CONGRESS_LOCKOUT_DESC">
+			<Text>Az önce sona eren bir Dünya Kongresi'nin ardından bu kadar kısa süre içinde Özel Oturum çağrılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_OPERATION_REMOVE_FEATURE_BANNED">
+			<Text>[COLOR_RED]Bu Özelliğin kaldırılması Dünya Kongresi tarafından yasaklanmıştır.[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_WON">
+      <Text>Dünya Kongresi bu Kararı en son değerlendirdiğinde, seçilen seçenek {1_Target} hedefini alan A seçeneğiydi.</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_WON">
+      <Text>Dünya Kongresi bu Kararı en son değerlendirdiğinde, seçilen seçenek {1_Target} hedefini alan B seçeneğiydi.</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_WAS_TIE">
+      <Text>[ICON_BOLT] Bu, bir eşitlik bozucu ile karara bağlandı</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_SOLE_VOTE">
+      <Text>[ICON_BOLT] {1_PlayerName} A seçeneği için tek oy veren kişiydi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_SOLE_VOTE">
+      <Text>[ICON_BOLT] {1_PlayerName} B seçeneği için tek oy veren kişiydi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_TARGET_SOLE_VOTE">
+      <Text>[ICON_BOLT] {1_PlayerName}, {2_Target} için tek oy veren kişiydi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_A">
+      <Text>[ICON_BOLT] A seçeneği B seçeneğini kıl payı yendi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_B">
+      <Text>[ICON_BOLT] B seçeneği A seçeneğini kıl payı yendi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_TARGET">
+      <Text>[ICON_BOLT] {1_Target}, {2_SecondPlaceTarget}'nin kıl payı önünde hedef olarak seçildi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_A">
+      <Text>[ICON_BOLT] A Seçeneği oybirliğiyle seçildi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_B">
+      <Text>[ICON_BOLT] B Seçeneği oybirliğiyle seçildi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_TARGET">
+      <Text>[ICON_BOLT] {1_Target} oybirliğiyle hedef olarak seçildi</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_A">
+      <Text>[ICON_BOLT] {1_Player}, A Seçeneği'ne öncülük etti</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_B">
+      <Text>[ICON_BOLT] {1_Player}, B Seçeneği'ne öncülük etti</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_TARGET">
+      <Text>[ICON_BOLT] {1_Player}, {2_Target} için en çok oyu kullandı</Text>
+    </Row>
+    <Row Tag="LOC_DVP_TOOLTIP_AGREEING_RESOLUTIONS">
+      <Text>[ICON_BOLT] Kongre Katılımından {1_Amount}</Text>
+    </Row>
+    <Row Tag="LOC_DVP_TOOLTIP_DVP_RESOLUTION">
+      <Text>[ICON_BOLT] Diplomatik Zafer Kararından {1_Amount}</Text>
+    </Row>
+    <Row Tag="LOC_DVP_TOOLTIP_SCORED_COMPETITIONS">
+      <Text>[ICON_BOLT] Puanlı Yarışmalardan {1_Amount}</Text>
+    </Row>
+    <Row Tag="LOC_DVP_TOOLTIP_OTHER_SOURCES">
+      <Text>[ICON_BOLT] Harikalar, Teknolojiler ve Yönetim Bilimlerinden {1_Amount}</Text>
+    </Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--New-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_BARBARIAN_CLANS_CHAPTER_CONTENT_TITLE">
+			<Text>Barbar Klanları Modu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_BARBARIAN_CLANS_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_BARBARIAN_CLANS_CHAPTER_WELCOME_PARA_1">
+			<Text>Bu oyun modu, standart Barbar Kabilelerinin yerine, her biri kendine özgü arazi ve muharebe tercihlerine sahip çeşitli Klanlar getirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CLANS_NAME">
+			<Text>Barbar Klanları</Text>
+		</Row>
+		<!-- Game Mode Concept -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_CONTENT_TITLE">
+			<Text>Barbar Klanları</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_WELCOME_TITLE">
+			<Text>Hoş Geldiniz</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_WELCOME_PARA_1">
+			<Text>Oyun kurulumunda oyuncular, Barbarlara daha fazla çeşitlilik kazandıran ve onlarla yeni etkileşimler sunan Barbar Klanları oyun modunu etkinleştirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_TYPES_TITLE">
+			<Text>Klan Türleri</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_TYPES_PARA_1">
+			<Text>Standart kurallardaki yakın dövüş, süvari ve deniz kabilelerinin yerini alan bu mod, yedi farklı Barbar klanı türü içerir. Her klan türünün sahaya sürmeyi tercih ettiği belirli bir birim yelpazesi vardır ve ortaya çıkabilmesi için farklı harita koşulları gerektirir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_TYPES_PARA_2">
+			<Text>Yakın dövüş kabileleri, menzilli birimleri tercih eden Ormanlık Klanlar, yakın dövüş ve süvari karşıtı birimleri tercih eden Tepe Klanları ve dengeli bir yaklaşıma sahip Ova Klanı tarafından temsil edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_TYPES_PARA_3">
+			<Text>Süvari kabileleri, çeşitli atlı birimleri tercih eden Akıncı Klanlar, hem araçları hem de atlı birimleri tercih eden Savaş Arabası Klanları ve süvari ile yaya askerlerin bir karışımını tercih eden Orman Klanları tarafından temsil edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_TYPES_PARA_4">
+			<Text>Deniz kabileleri, deniz birimlerine dengeli bir yaklaşım sergileyen Denizci Klan tarafından temsil edilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITS_TITLE">
+			<Text>Klanlar ve Eşsiz Birimler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITS_PARA_1">
+			<Text>Klanlar, normal birimlerine ek olarak, dünyanın dört bir yanından Eşsiz Birimleri de sahaya sürme yeteneğine sahiptir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITS_PARA_2">
+			<Text>Klan Modu'nun etkin olduğu herhangi bir oyunda, o oyunda bulunmayan uygarlıklarla ilişkili Eşsiz Birimler, Barbar klanlarının talep etmesi ve kullanması için kullanılabilir hale gelir. Klanlar, oyun tarzlarına uyan ve klanın mevcut en iyi birimine güç bakımından yakın olan mevcut eşsiz birimlerden birini periyodik olarak talep edecektir. Bir klan bir Eşsiz Birimi talep ettiğinde, klan var olduğu sürece ona özel erişime sahip olur. Klan yok edilirse, talep iptal edilir ve başka bir klan sonraki bir turda aynı birimi talep edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_CITYCONVERSION_TITLE">
+			<Text>Klanların Şehir Devletlerine Dönüşümü</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_CITYCONVERSION_PARA_1">
+			<Text>Bu modda, oyunda yeterince uzun süre hayatta kalmayı başaran klanlar Şehir Devletlerine dönüşebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_CITYCONVERSION_PARA_2">
+			<Text>Her klan, Karakollarının etrafındaki sahipsiz bölgelerin [ICON_FOOD] Besin getirisine bağlı olarak her tur dönüşüme doğru ilerleme kaydeder. Klanı kiralamak veya rüşvet vermek gibi faydalı oyuncu faaliyetleri bu ilerlemeyi hızlandırabilirken, akın düzenlemek ve kışkırtmak gibi şiddet içeren faaliyetler yavaşlatabilir. Klan yeterli ilerleme kaydettiğinde, o turda veya sonraki herhangi bir turda dönüşüm için aday haline gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_CITYCONVERSION_PARA_3">
+			<Text>Bir Barbar Klanı bir Şehir Devletine dönüştüğünde, Karakolu derhal yeni adı altında yeni şehirle değiştirilir ve mevcut tüm klan birimleri yeni Şehir Devletinin birimleri haline gelir. Şehir Devleti ayrıca klanı keşfetmiş olan tüm uygarlıklara derhal tanıtılacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_CITYCONVERSION_PARA_4">
+			<Text>Oyun ayarlarına bağlı olarak, yalnızca belirli sayıda klan dönüşümü gerçekleşebilir. Olası tüm dönüşümler gerçekleştikten sonra, mevcut ve gelecekteki tüm klanlar oyunun geri kalanında Barbar olarak kalacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITCOMMANDS_TITLE">
+			<Text>Klanlara Akın Düzenlemek ve Onları Dağıtmak</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITCOMMANDS_PARA_1">
+			<Text>Bir Barbar Karakolu'na giren muharebe birlikleri, onu otomatik olarak yok etmez. Bunun yerine, klanla başa çıkmak için iki yeni birim komutu arasından seçim yapabilirler: Akın ve Dağıt.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITCOMMANDS_PARA_2">
+			<Text>Bir Karakola akın düzenlemek, oyuncuya [ICON_GOLD] Altın kazandırır ve klanın Şehir Devleti'ne dönüşme sürecini yavaşlatır, ancak Karakolu yok etmez. Bir klan akına uğradığında, kısa bir süreliğine akınlara karşı dokunulmazlık kazanır. Akına uğrayan klanlar, aynı turda misilleme olarak bir savunma birimi çıkarır ve bu süreçte Karakollarındaki yabancı birlikleri dışarı atar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_UNITCOMMANDS_PARA_3">
+			<Text>Bir Karakolu dağıtmak, klanı tamamen yok eder ve dağıtma işlemini gerçekleştiren birliğe hatırı sayılır miktarda Deneyim Puanı kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_TITLE">
+			<Text>Klanlarla Gelişmiş Etkileşimler</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_PARA_1">
+			<Text>Klan birlikleri ve Karakollarla yapılan muharebe seçeneklerinin yanı sıra oyuncular, klanlarla barışçıl veya diplomatik eylemlerde de bulunabilir. Bunlar arasında klanlardan Kiralama, Rüşvet Verme, Kışkırtma veFidye Karşılığında Birim Alma yer alır. Bu etkileşimlerden birini başlatmak için Karokolun üzerindeki harita başlığına tıklayın. Karakolun konumu size açıklanmamışsa bu etkileşimler de kullanılamaz olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_PARA_2">
+			<Text>Bir Klanı KİRALAMAK: Klana [ICON_GOLD] Altın harcayarak klandan bir askeri birim satın alın. Sağlanan birim, klanın o an eğitebileceği en iyi birim olacaktır – hatta bir Eşsiz Birim bile olabilir! Bir Şehir Devleti'nden asker kiralamanın aksine, kiralanan birimler kalıcı olarak sizin kontrolünüzdedir. Aynı turda en yakın şehrinizin yakınındaki bir bölgede belirirler. Kiralanan klanlar, kısa bir süre boyunca tekrar kiralanamaz. Bir klanı kiralamak, Şehir Devleti'ne dönüşme sürecini hızlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_PARA_3">
+			<Text>Bir Klan'a RÜŞVET VERMEK: [ICON_GOLD] Altın harcayarak klan birimlerini topraklarınızdan kovun ve belirli sayıda tur boyunca şehirlerinizi hedef almalarını önleyin. Rüşvet maliyetleri düşük başlar ancak sahip olduğunuz şehir sayısı arttıkça yükselir. Rüşvet verilen klanlar, rüşvet süresi dolana kadar aynı oyuncu tarafından tekrar rüşvet alamaz, ancak aynı anda birden fazla oyuncu tarafından rüşvet verilebilir. Bir klana rüşvet vermek, Şehir Devleti'ne dönüşme sürecini hızlandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_PARA_4">
+			<Text>Bir Klanı KIŞKIRTMAK: [ICON_GOLD] Altın harcayarak klanı başka bir uygarlığın şehirlerine akın düzenlemeye ve saldırmaya teşvik edin. Klanı kışkırtabilmek için sizin ve klanın en az bir başka uygarlık veya Şehir Devleti'nden haberdar olması gerekir. Kışkırtma maliyetleri yüksektir, ancak kışkırtmanın son kullanma tarihi yoktur. Bununla birlikte, klanlar aynı anda yalnızca bir uygarlığa karşı kışkırtılabilir. Bir klanı kışkırtmak, Şehir Devleti'ne dönüşme sürecini yavaşlatır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_PARA_5">
+			<Text>Bir Klandan BİRİMİ FİDYEYLE KURTARMAK: Bir klan sivil birimlerinizden birini ele geçirdiyse, onu geri almak için [ICON_GOLD] Altın harcayabilirsiniz. Bir birimi fidye ile kurtarmanın maliyeti, onu şehirlerinizden birinde sıfırdan satın alma maliyetinden her zaman biraz daha düşüktür. Fidye ile kurtarılan birimler aynı turda en yakın Şehir Merkezi'nizde belirir. Birimlerini fidye ile kurtaran klanlar, Şehir Devleti'ne dönüşme sürecinde geriler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_PLAYEROPS_PARA_6">
+			<Text>Bir klana rüşvet vermek ve ondan bir birimi fidye ile kurtarmak birbirini dışlayan eylemlerdir: Bir klan, birimlerinizden birini rehin tutarken rüşvet tekliflerinize kulak vermez! Onlara tekrar rüşvet verebilmek için önce klanın elindeki tüm birimleri geri almalı veya fidye ile kurtarmalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_HISTORY_TITLE">
+			<Text>Tarihçe</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_HISTORY_PARA_1">
+			<Text>"Barbar" sözcüğü, Yunancadan (Sanskritçede ilgili bir terim olan "barbara" ile birlikte) gelir ve dili konuşamayan (kulağa "bar bar bar" gibi gelen) kişilere atıfta bulunur. Yani "barbarların" ortak noktası farklı bir ırktan veya etnik kökenden olmak değil, insanların kültürel merkez olarak düşündükleri şeyin dışında olmaktı. Galyalılardan (Yunanlılara göre barbarlar), Sakalardan (eski Hintlilere göre "mleccha") veya Hiung-nu'dan (Han Hanedanlığı Çin'ine bela olan "Beş Hu" veya Beş Barbardan biri) bahsediyor olalım, imparatorluklar ve devletler kimin "içeride", kimin "dışarıda" olduğunu belirlemenin bir yolunu bulmuştu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANS_CHAPTER_HISTORY_PARA_2">
+			<Text>Ancak imparatorlukların tüm propaganda çabalarına rağmen, tarihsel barbarlar, yerleşik rakiplerinin sandığı gibi vahşiler değildi. Ne yerleşik hayata geçmemiş geri kalmış insanlardı ne de ulus-devletlerle teması olmayan insanlardı. Aksine, devlet dışı halklar uluslarla iç içe var oluyordu. Coğrafyacı James C. Scott'ın yazdığı gibi, erken devletler, nüfusları sıkışık ve sağlıksız topluluklarda yaşamaya (çoğunlukla zorla) ikna etmek için büyük çaba harcıyordu, böylece artı üretimleri kontrol edilebilir ve sahiplenilebilirdi. Öte yandan barbar yaşamı, bir özgürlük seçeneği sunuyordu ve barbar gruplar, devletleri avlayan akıncılar ve korsanlar kaynağı olmasının yanı sıra, devletlerin doğrudan kontrol etmek zorunda olmadıkları topraklar üzerinde ticaret ve diplomasi ağlarını genişletebilecekleri bir araç haline geldi. Barbar ve medeni – ikisi birbirine bağımlıdır.</Text>
+		</Row>
+		<!--Clan Type: Melee Open-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_OPEN_CHAPTER_CONTENT_PARA_1">
+			<Text>Ova klanı, Barbar Klanları modu etkin olduğunda ortaya çıkan bir klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_OPEN_CHAPTER_CONTENT_PARA_2">
+			<Text>Ova klanları, Karakollarını ormanlardan ve tepelerden uzak, açık arazilere yerleştirmeyi tercih eder. Saldırı için yakın dövüş birlikleri ile savunma için menzilli birlikler arasında bir denge kurarlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_OPEN_CHAPTER_HISTORY_TITLE">
+			<Text>Tarihçe</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_OPEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Ova halkları, dünyanın büyük düzlüklerinde ve sıcak savanalarında yaşar. Yaya olarak seyahat ederler (aksi takdirde Göçebe veya Savaş Arabası Klanı'nın sancağı altında olurlardı), ancak bu halklar gibi ova halkları da çoğunlukla çobandır. Bu terim, tarıma elverişli olmayan topraklarda koyun, keçi, sığır vb. sürü hayvanlarıyla yaşayan insanları ifade eder; bu insanlar manzara boyunca hareket eder ve bu nedenle çoğu zaman şehirlerin ve devletlerin yakalamasından kaçarlar (veya kaçmaya çalışırlar). Bunlar arasında Doğu Afrika grupları: Masai, Turkana, Nuer ve diğerleri en ünlülerinden bazılarıdır – hayatlarının çoğunu sığırlarının kanı, sütü ve etiyle geçiren insanlar. Bu grupların çoğu için sığır, hayatlarının hayati bir parçası haline gelir; hayvanlar bir kişinin statüsünü gösterir, iyi bakılan bir inek gurur ve takıntı noktası olur ve hayvanlar düğünlerde takas edilir. Ancak bunlar göçebe değildir. Örneğin Güney Sudanlı Nuerler, geçtiğimiz yüzyılda yerleşik topluluklarda yaşamıştır. Antropolog E. Evans-Pritchard'a göre bunlar büyük ölçüde sınıfsız ve eşitlikçiydi, ancak tek amacı anlaşmazlıkları çözmek olan "leopar derili bir şefleri" vardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_OPEN_CHAPTER_HISTORY_PARA_2">
+			<Text>Ancak iç hiyerarşinin olmaması pasifizm anlamına gelmez: Birçok ova grubu, geçimlerini biraz akıncılıkla – veya akın tehditlerinden toplanan haraç paralarıyla – desteklemiştir. Nuerler ve Dinkalar acı bir rekabet sürdürmüştür ve sürdürmektedir. Kenya'nın Masaileri ise silahlarıyla, özellikle de "ol alem" kılıç-mızraklarıyla ünlüydü ve hâlâ ünlüdür. Atsız olmalarına rağmen Masai savaşçıları, yaya hızlarıyla ünlüdür – Kenya'nın maraton rekorları kırmadaki istikrarlı başarısının da kanıtladığı gibi!</Text>
+		</Row>
+		<!--Clan Type: Melee Woodland-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_FOREST_CHAPTER_CONTENT_PARA_1">
+			<Text>Orman klanı, Barbar Klanları modu etkin olduğunda ortaya çıkan bir klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_FOREST_CHAPTER_CONTENT_PARA_2">
+			<Text>Ormanlık klanlar, Karakollarını ormanların ve yağmur ormanlarının içine veya bitişiğine yerleştirmeyi tercih eder. Yakın dövüş birliklerinden ziyade daha fazla sayıda menzilli birliği tercih eder ve bu birlikleri hem saldırı hem de savunma için kullanırlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_FOREST_CHAPTER_HISTORY_TITLE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_FOREST_CHAPTER_HISTORY_PARA_1">
+			<Text>Şehirlerden, devletlerden ve krallardan ve bunların beraberinde getirdiği adaletsizliklerden uzak, bağımsız bir hayat arayanlar için ormanlar ideal bir sığınak sunar. Ormanlar, kentleşmiş devletlerin dayandığı yoğun tahıl tarımına elverişli değildir ve otokratik devletlerin köle akınlarından saklanmak ya da baskınlar düzenlemek için pek çok saklanma yeri sağlar. Burada 'orman klanları' tabiri, Sibirya taygasındaki Tunguslar, Kuzey Amerika'daki Şavniler, Haudenosaunee (Irokua) veya Powhatan gibi daha küçük yerli gruplar ya da yağmur ormanlarındaki çeşitli yerli halkları ifade eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_FOREST_CHAPTER_HISTORY_PARA_2">
+			<Text>Ilıman ormanlardaki yaşam, kış aylarında dağınık av kampları arasında yer değiştirmeyi (ormanlarda geyik avlamanın daha elverişli olduğu zaman) ve yaz toplantılarını içerir. Tropik bölgelerde ise bazı gruplar 'kes ve yak' tarımı uygulayabilir: ormanın belirli bölümlerini dönüşümlü olarak kesip yakmak, zamanla köy yaşamı için sürdürülebilir hale gelir. Amazon'daki Achuar gibi diğer gruplar ise doğrudan tarım yapmaz, ancak ormanın belirli bölgelerine zamanla bir tür gölge tarıma dönüşecek ekinler ekerdi. Bugün bu grupların çoğu kereste veya madencilik şirketlerinden artan bir baskı altında olsa da, tarihsel olarak orman halkları kent bölgeleriyle, özellikle kürk, ilaç veya baharat gibi mallar konusunda ticaret yapmıştır.</Text>
+		</Row>
+		<!--Clan Type: Melee Hills-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_HILLS_CHAPTER_CONTENT_PARA_1">
+			<Text>Tepelik Klan, Barbar Klanları modu etkin olduğunda bulunan bir Klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_HILLS_CHAPTER_CONTENT_PARA_2">
+			<Text>Tepelik klanlar, Karakollarını tepelik açık arazilere yerleştirmeyi tercih eder. Yakın dövüş birliklerini o kadar güçlü bir şekilde tercih ederler ki, menzilli birlikleri tamamen dışlayacak noktaya varabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_HILLS_CHAPTER_HISTORY_TITLE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_HILLS_CHAPTER_HISTORY_PARA_1">
+			<Text>Günümüz Burma, Laos ve komşu ülkelerinde bulunan Himalayalar'ın uzantılarında, yerel krallıklar insanları sıklıkla iki kategoriye ayırırdı: tepe ve vadi. Vadi halkı – Şan, Tay, Birmanyalı ya da Lao – pirinç yetiştirir, Budist'ti ve kralın yönetimine tabiydi. Ancak yayla halkı – Akha, Hmong, Mien ya da Kaçin – animistti, kök bitkileri yetiştirir ve büyük ölçüde eşitlikçi olan kendi yasalarına göre yaşardı. Bu ayrımlar siyasi, dini ve ekonomik dünyaları belirliyordu, ancak aynı zamanda geçirgendiler. Baskıcı bir kraldan kaçan ova sakinleri tepelere kaçabilirken, kent yaşamının cazibesine kapılan yaylalılar aşağı inebilirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_MELEE_HILLS_CHAPTER_HISTORY_PARA_2">
+			<Text>Zaman zaman bu ilişkiler barışçıldı ve bu gruplar açıkça ticaret yapardı: tepelerden tuz ve gümüş; ovalardan işlenmiş mallar. Ancak bu barış kırılgandı. Ova devletleri yayla gruplarına baskın düzenlerdi (Laos dilinde yayla halkı için kullanılan 'kha' kelimesinin 'köle' ile eşanlamlı olması buna kanıttır) ya da yaylalılar ova malları için ticaret yapmak istemeyip istediklerini almak için baskınlara çıkabilirdi. Bu yayla gruplarından bazıları korkunç bir ün geliştirdi. Örneğin Burma'nın Va halkı, düşmanlarının kafalarını köylerinin dışında sergilerdi; bu sadece Va savaşçılarının cesaretini göstermekle kalmaz, aynı zamanda – anlatılanlara göre – ölülerin ruhlarını köyü korumak için görevlendirirdi. Zamanla bu yayla grupları, farklı dönemlerde Britanya (sömürge döneminde) ve Amerika (Soğuk Savaş'ta) güçlerinin, kendi egemenlik arayışlarında ova devletlerine karşı müttefik bulma girişimleriyle kendi başlarına siyasi aktörler haline geldi.</Text>
+		</Row>
+		<!--Clan Type: Cavalry Open-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_OPEN_CHAPTER_CONTENT_PARA_1">
+			<Text>Dolayıcı Klan, Barbar Klanları modu etkin olduğunda bulunan bir Klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_OPEN_CHAPTER_CONTENT_PARA_2">
+			<Text>Dolayıcı klanlar, yakınlarda bir [ICON_RESOURCE_HORSES] At kaynağı gerektirir ve Karakollarını ormanlardan uzak, açık arazilere yerleştirmeyi tercih eder. Hem saldırı hem de savunma için hafif ve ağır süvarileri kullanarak mümkün olduğunca fazla atlı birliği tercih ederler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_OPEN_CHAPTER_HISTORY_TITLE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_OPEN_CHAPTER_HISTORY_PARA_1">
+			<Text>Atlar Kuzey Amerika'nın Büyük Ovaları'na geldiğinde her şeyi değiştirdi. Ovalar daha önce yaşaması zor yerlerdi; bizon bakımından zengindiler, ancak büyük sürüleri avlamak, onları uçurumlardan kovalanabilecekleri veya pusuya düşürülebilecekleri yerlere sıkıştırmak anlamına geliyordu. Ancak at sırtındaki bir avcı, bizon sürülerini kilometrelerce kendi hızında takip edebilirdi. Bir yüzyıl boyunca, at ve atlı savaşçı etrafında bütün bir yaşam biçimi ortaya çıktı ve ovaların büyük yerli kabilelerinin mirasına yol açtı: Lakota (ve diğer 'Siyu' grupları), Apsáalooke (Karga), Tsitsistas (Çeyen) ve diğerleri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_OPEN_CHAPTER_HISTORY_PARA_2">
+			<Text>Benzer şekilde, ancak daha uzun bir zaman diliminde, Asya'nın bozkırlarında, atlı göçebe pastoralistler yeni teknolojiler geliştirdi – en önemlisi, bir uzun yayın gücüyle atılabilen ancak daha küçük ve süvari için uygun olan karma yay – bu da onların yerleşik topraklara yıkıcı baskınlar düzenlemesine olanak tanıdı. Moğollar ve İskitler'in yanı sıra, Hunlar, Sakalar, Kazaklar ve çeşitli Türkçe konuşan halklar gibi gruplar, kayıtsız şehirler için varoluşsal bir tehdit oluşturan geniş, son derece hareketli ordular yarattı. Bozkıra sınırı olan hemen her tarım devletinin bu gruplarla çatışmalara (ve yenilgilere) dair efsaneleri vardır: Çin Seddi, Hun akınlarına karşı inşa edildi; Kore tarihi, Curcenlerle mücadelelerden bahseder; Romalılar ise Hun tehdidiyle karşı karşıyaydı. Bütün bunlar, at ve insan arasındaki derin bağdan geliyordu; bugün büyük ölçüde kaybettiğimiz bir bağ, çünkü içten yanmalı motorlara, paletlere ve lastiklere yöneldik.</Text>
+		</Row>
+		<!--Clan Type: Cavalry Jungle-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_JUNGLE_CHAPTER_CONTENT_PARA_1">
+			<Text>Cangıl Klanı, Barbar Klanları modu etkin olduğunda bulunan bir Klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_JUNGLE_CHAPTER_CONTENT_PARA_2">
+			<Text>Cangıl klanları, yakınlarda bir [ICON_RESOURCE_IVORY] Fildişi kaynağı gerektirir ve Karakollarını yağmur ormanlarının içine yerleştirmeyi tercih eder. Piyade ve menzilli birlikler tarafından desteklenen, hafif ve ağır süvari birliklerinin bir karışımını tercih ederler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_JUNGLE_CHAPTER_HISTORY_TITLE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_JUNGLE_CHAPTER_HISTORY_PARA_1">
+			<Text>Yağmur ormanları, kaçmak isteyenler için bir başka sığınak – ya da akıncıların faaliyet gösterebileceği bir üs – sağlar. Amazon, Orta Afrika yağmur ormanları ve Güneydoğu Asya ormanları (özellikle Borneo/Kalimantan), acımasız olabilen bir ortamda yaşayan son derece çeşitli insan topluluklarına ev sahipliği yapar. Bunlardan bazıları hem korkunç bir ün hem de dönemin ittifaklarını ve rekabetlerini yönetme becerisi geliştirdi – örneğin Amazon'un Tamoio halkı, gevşek bir konfederasyon halinde örgütlenip Portekiz sömürge güçlerine karşı savaştı (diğer Avrupa güçleriyle seçici olarak ittifak kurarak); tıpkı Burma'nın yayla Karenleri gibi, ovalı Birmanyalılara karşı İngilizlerle ittifak kurdular. Bu gruplardan bazıları düşmanlarının kafalarını sergileyerek ünlerini artırdı – Filipinler'deki Bugkalot ve Endonezya'daki Dayaklar kafa avcılığı yapardı ve Amazon'un ünlü 'küçültülmüş kafaları' aslında Achuar ve diğer gruplar tarafından yapılan, kemikleri çıkarılmış ve mumyalanmış kafalardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_JUNGLE_CHAPTER_HISTORY_PARA_2">
+			<Text>Yağmur ormanı gruplarının askeri kapasitesini düşündüğümüzde, aklımıza üflemeli tüfekler (Amazon), tatar yayları (Güneydoğu Asya) ve mızraklar (her yerde) ile hafif zırhlı piyadeler gelebilir. Ancak onların tankları da vardı: filler. Fillerin yumuşak ayakları orman zeminine çok az zarar verir, sık örtü içinde nispeten kolayca hareket edebilirler ve boyları sayesinde kabarmış cangıl derelerini geçebilirler. 20. yüzyıl savaşlarında, Burma'nın Kaçinleri, Burma ordusuna karşı filleri büyük etkiyle kullandı (ve kullanmaya devam ediyor). Burma ordu araçlarının paletleri ve lastikleri çamurlu zeminde batarken, Kaçin filleri nispeten sessiz geçebiliyor, bu da onların sözde daha iyi silahlanmış rakiplerini kanattan çevirmelerine ve manevra yapmalarına olanak tanıyordu.</Text>
+		</Row>
+		<!--Clan Type: Cavalry Chariot-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_CHARIOT_CHAPTER_CONTENT_PARA_1">
+			<Text>Savaş Arabası Klanı, Barbar Klanları modu etkin olduğunda bulunan bir Klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_CHARIOT_CHAPTER_CONTENT_PARA_2">
+			<Text>Savaş arabası klanları, yakınlarda [ICON_RESOURCE_HORSES] At kaynağına ihtiyaç duyar ve Karakollarını çöle kurmayı tercih eder. Tüm görevlerde atlı araçlar ve hafif süvarileri kullanır, menzilli birlikleri nadiren tercih eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_CHARIOT_CHAPTER_HISTORY_TITLE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_CHARIOT_CHAPTER_HISTORY_PARA_1">
+			<Text>Unutmamak gerekir ki, antik çağların büyük bölümünde insanların çoğu devletlerin dışında yaşıyordu. Mezopotamya Babil, Asur ve Sümer'e ev sahipliği yaparken, Shang Hanedanı antik Çin'de şekillenirken, bu krallıkların dışında da sayısız insan yaşıyordu. Yaklaşık MÖ 250'de Orta Asya'yı tehdit eden Partlar gibi oldukça hareketli atlı okçulara dayanan güçler ortaya çıkmadan çok önce, bu tür ilk hareketli akın teknolojisi savaş arabasıydı ve bunun kökenleri için binlerce yıl öncesine gitmeliyiz. İlk savaş arabaları, Sintaşta veya Maykop gibi halklar arasında Orta Asya arkeolojik alanlarında ortaya çıkar. Yine bu bölgede atların evcilleştirilmesini takiben, parmaklı tekerlek insanların – ve savaş gruplarının – açık ovalarda hareket etmesini sağladı (her ne kadar bu tür teknolojiler muson bölgelerinde, ormanlık alanlarda veya engebeli arazide daha az kullanışlı hale gelse de).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_CHARIOT_CHAPTER_HISTORY_PARA_2">
+			<Text>Savaş arabaları, ilk halkların hareketi için hayati önem taşıyordu. Mısırlılar yaklaşık MÖ 1600'de akıncı Hiksoslar tarafından ele geçirildiğinde, saldırganları savaş arabalarının sırtında gelmişti. Hindistan'daki Vedik halkı için – atlarına bağlı ve onları takip eden benzer göçmenler – savaş arabası, imgelerinin merkezi bir parçası haline gelir (Rig Veda'daki önemi gibi). Çin Shang Hanedanı da savaş arabalarını ikmal treni olarak kullandı, ancak sırayla bunları savaşa uyarlamış dışarıdan gelen akıncılar tarafından tehdit edildiler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_CAVALRY_CHARIOT_CHAPTER_HISTORY_PARA_3">
+			<Text>Zamanla yeni teknolojiler ortaya çıktı. Yakın Doğu'da Partlar gibi gruplar, bir at ve binicisinin bir savaş arabacısından çok daha hızlı hareket etmesine (ve saldırmasına) olanak tanıyan kompozit yayı benimsedi. Çin'de ise yeni tatar yayı teknolojisi, daha iyi süvari karşıtı silahlar ve atlı kompozit yay okçuluğunun benimsenmesinin birleşimi, savaş arabasının düşüşüne yol açtı; ancak savaş arabaları yüzyıllar boyunca süslü arabalar olarak kullanımda kaldı.</Text>
+		</Row>
+		<!--Clan Type: Naval-->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_NAVAL_CHAPTER_CONTENT_PARA_1">
+			<Text>Denizci klanı, Barbar Klanları modu etkin olduğunda mevcut olan bir Klan türüdür.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_NAVAL_CHAPTER_CONTENT_PARA_2">
+			<Text>Denizci klanları Karakollarını her zaman kıyı bölgelerine kurar. Karakollarını kara tabanlı süvari karşıtı birliklerle savunurlar, ancak bunun dışında keşif ve saldırı için yalnızca deniz yakın dövüş ve deniz menzilli birlikleri kullanırlar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_NAVAL_CHAPTER_HISTORY_TITLE">
+			<Text>Tarih</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_NAVAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Denizden geçinen ve zaman zaman yağma yapan, gevşek örgütlenmiş bir göçebe ya da akıncı topluluğu – işte bunlar korsanlar! 'Korsan krallığı' sözcüğü akla tahta bacaklar ve papağanları, günümüz filmlerini ve müzikalelerini getirebilir, ancak tarihte korsan krallıkları (ya da cumhuriyetleri) imparatorlukların sınırlarındaki kanunsuz yerlerde, özellikle de kârlı ticaret yollarının yakınında ve karmaşık ada sistemlerinin yerel denizi iyi bilenlerin kolayca saklanmasına olanak tanıdığı bölgelerde ortaya çıktı. Bunların belki de en tanınmışı olan Korsanlar Cumhuriyeti, günümüzde Bahamalar olan bölgede kurulmuş, Mary Read, Anne Bonny, Calico Jack ve hatta Blackbeard gibi ünlü korsanları barındıran kısa ömürlü bir konfederasyondu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_NAVAL_CHAPTER_HISTORY_PARA_2">
+			<Text>Ancak, önemli olan şu ki, New Providence'daki korsan başkentinin valisi burasını 'yeni bir Madagaskar' yapacağını ilan etmişti. Başka bir deyişle, korsan devletleri bilinen, yaygın ve dünya çapında bir olguydu. 1400'lerden 1800'lere kadar Güneydoğu Asya'da, çeşitli küçük sultanlıklar (özellikle Sulu Sultanlığı) doğu Endonezya ve Filipinler çevresindeki deniz yollarında seyreden gemileri yağmalayarak geçimini sağlıyordu. 1200-1500'ler arasında Doğu Asya kıyıları, 'Japon korsanları' anlamına gelen ancak aslında Kore, Çin ve Japonya arasındaki sularda üslenmiş çok etnikli bir deniz akıncıları grubuna atıfta bulunan 'Wokou' tarafından rahatsız ediliyordu. Ve elbette, doğu Afrika'da Madagaskar ve Somali kıyıları korsan faaliyetleriyle meşhurdur – ve hâlâ da öyledir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CLANTYPE_NAVAL_CHAPTER_HISTORY_PARA_3">
+			<Text>Korsanlık, diğer birçok akıncı toplum gibi, ticarete ihtiyaç duyar. Özellikle Avrupa ticaret şirketleri çağında (1500'ler-1700'ler) veya Ming Çin'e haraç gönderme döneminde (1300'ler-1600'ler), hazine yüklü kârlı gemiler okyanusun korumasız bölgelerinde devasa mesafeler kat ediyordu ve bu hazineyi ele geçirme cazibesi neredeyse her kıtadan insanı cezbetmiştir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

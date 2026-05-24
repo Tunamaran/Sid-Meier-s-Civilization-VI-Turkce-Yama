@@ -1,0 +1,41 @@
+<GameData>
+	<EnglishText>
+		<!-- Soothsayer Emergency -->
+		<Row Tag="LOC_EMERGENCY_APPEASE_NAME">
+			<Text>Tanrıları Yatıştır</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_APPEASE_SUMMARY">
+		  <Text>"Tanrılar bizi uyardı: dünyanın sonu yaklaşıyor. Onlar sadıklarına lütuflar bahşedecek, ancak önce şevkimizi kanıtlamalıyız. Yalnızca en gayretli olanlar ödüllendirilecek."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_APPEASE">
+			<Text>Tanrılar bizi uyardı ki son yakındır. Onlar taraftarlarına bahşişler verecek, ancak önce coşkumuzu ispatlamalıyız. Yalnızca en coşkulu olanlar mükafatlandırılacak.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_APPEASE">
+			<Text>Tanrılar bizi uyardı ki son yakındır. Onlar taraftarlarına bahşişler verecek, ancak önce coşkumuzu ispatlamalıyız. Yalnızca en coşkulu olanlar mükafatlandırılacak.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_APPEASE_DESC">
+			<Text>Kahin birimleri ile 'Bitişik Birliği Kurban Et' eylemini kullanarak, kurban edilen birimin [ICON_Strength] Muharebe Gücü'ne eşit puan kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_APPEASE_UNIT_ACTION">
+			<Text>Üye medeniyetlerin Kahin birimleri, aktif yanardağlara bitişik dost birimler üzerinde 'Bitişik Birliği Kurban Et' eylemini kullanabilir.</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_FREE_SOOTHSAYER_DESCRIPTION">
+      <Text>1 bedava Kahin birimi</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_SOOTHSAYER_PROMOTION_DESCRIPTION">
+      <Text>Mevcut ve gelecekteki tüm Kahin birimleri için 1 bedava rastgele Terfi.</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_FAITH_PER_TURN_DESCRIPTION">
+      <Text>+2 [ICON_Faith] Tur başına İnanç</Text>
+    </Row>
+    <Row Tag="LOC_ACTIVATE_BLOCKER_NO_ADJACENT_VOLCANO">
+      <Text>Aktif bir yanardağa bitişik olan bir dost muharebe birimine bitişik olmalıdır.</Text>
+    </Row>
+    <Row Tag="LOC_ACTIVATE_BLOCKER_NOT_VALID_DISASTER_TILE">
+      <Text>Bir doğal afetten etkilenebilecek bir bölgede bulunmalıdır.</Text>
+    </Row>
+    <Row Tag="LOC_ACTIVATE_BLOCKER_NOT_VALID_TERRITORY_TILE">
+      <Text>Yabancı topraklarda bir afete yol açmak için o toprakların sahibi oyuncuyla savaş halinde olmalıdır.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

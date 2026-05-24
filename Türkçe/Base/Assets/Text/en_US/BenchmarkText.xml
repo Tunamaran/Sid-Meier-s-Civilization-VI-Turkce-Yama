@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BaseGameText>
+    <!-- Main menu text -->
+    <Row Tag="LOC_BENCHMARK_GRAPHICS">
+      <Text>Grafikler</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS">
+      <Text>Toplayan Fırtına Grafikleri</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI">
+      <Text>Yapay Zeka</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI">
+      <Text>Toplayan Fırtına Yapay Zekası</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_GRAPHICS_TT">
+      <Text>Bilgisayarınızdaki grafik performansını ölçün.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT">
+      <Text>Bilgisayarınızdaki grafik performansını ölçmek için ağır bir kıyaslama.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI_TT">
+      <Text>Bilgisayarınızdaki yapay zeka ve tur işleme performansını ölçün.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI_TT">
+      <Text>Bilgisayarınızdaki yapay zeka ve tur işleme performansını ölçmek için ağır bir kıyaslama.</Text>
+    </Row>
+		<Row Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>[COLOR_RED]Bu kıyaslamayı gerçekleştirmek için Aztek Uygarlık Paketi'nin etkinleştirilmesi gerekmektedir.[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI_TT_ERROR">
+      <Text>[COLOR_RED]Bu kıyaslamayı gerçekleştirmek için Toplayan Fırtına genişleme paketinin etkinleştirilmesi gerekmektedir.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT_ERROR">
+      <Text>[COLOR_RED]Bu kıyaslamayı gerçekleştirmek için Toplayan Fırtına genişleme paketinin etkinleştirilmesi gerekmektedir.[ENDCOLOR]</Text>
+    </Row>
+
+    <!-- Benchmarking UI text -->
+    <Row Tag="LOC_BENCHMARK_TIME">
+      <Text>Süre:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_TURN">
+      <Text>Tur:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+      <Text>Ortalama Tur Süresi:</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

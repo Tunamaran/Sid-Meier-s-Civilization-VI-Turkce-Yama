@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- UI -->
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT">
+			<Text>Etkinleştirilen Etki</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_CREATE_GREAT_WORK">
+			<Text>Büyük Eser Oluştur</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_FOUND_RELIGION">
+			<Text>Din Kur</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_NAME_RETIRE">
+			<Text>Emekli Ol</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_CHARGES">
+			<Text>{1_ChargeAmount} {1_ChargeAmount : plural 1?Kullanım Hakkı; other?Kullanım Hakları;}</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_FOUND_RELIGION">
+			<Text>Bir Kutsal Alan bölgesinde veya Stonehenge'de etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CREATE_GREAT_WORK">
+			<Text>Büyük Eser yuvası bulunan bir bölgede veya harikada etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNOWNED_TILE">
+			<Text>Hiçbir oyuncuya ait olmayan bir bölgede etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ENEMY_TERRITORY">
+			<Text>Bir düşmanın topraklarında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_NONHOSTILE_TERRITORY">
+			<Text>Düşmanca olmayan bir yabancı gücün topraklarında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_STATE_TERRITORY">
+			<Text>Bir şehir devletinin topraklarında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_SUZERAIN_TERRITORY">
+			<Text>Süzereni olduğunuz bir şehir devletinin topraklarında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_DOES_NOT_NEED_OWNED_TILE">
+			<Text>Size ait olmayan bölgelerde dahi etkinleştirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OWNED_TILE">
+			<Text>Size ait bir bölgede etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_BARBARIAN_UNIT">
+			<Text>Barbar birliklerinin yanında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_MOUNTAIN">
+			<Text>Bir dağın yanında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ADJACENT_TO_OWNED_TILE">
+			<Text>Size ait bir bölgenin yanında etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_CITY_GREAT_WORK_OBJECT">
+			<Text>İçinde {LOC_GRAMMAR_A_AN_WITH_ICON &lt;&lt; {1_GreatWorkObjectTypeName} &lt;&lt; {2_IconString}} büyük eseri bulunan bir şehirde etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_COMPLETED_DISTRICT">
+			<Text>Bir {1_DistrictName} bölgesinde etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_SPACE_RACE_PROJECT">
+			<Text>Yapım aşamasındaki bir Uzay Yarışı projesinde etkinleştirin.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_INCOMPLETE_WONDER">
+			<Text>Yapım aşamasındaki bir Harika üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT">
+			<Text>Bir kara askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_SEA_UNIT">
+			<Text>Bir deniz askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_AIR_UNIT">
+			<Text>Bir hava askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
+			<Text>Üzerinde askerî birlik bulunmayan bir bölgede etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT_WITHIN_RANGE">
+			<Text>{1_Distance} bölge mesafesindeki bir kara askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
+			<Text>{1_FeatureName} özelliğine sahip bir bölge veya bitişiğinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
+			<Text>Bir Doğa Harikası veya bitişiğinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION">
+			<Text>Kolordu veya Ordu olmayan bir askerî birlik üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION">
+			<Text>Bir Kolordu askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION">
+			<Text>Bir Ordu askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_STANDARD_MILITARY_FORMATION_SEA">
+			<Text>Donanma veya Armada olmayan bir askerî birlik üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_CORPS_MILITARY_FORMATION_SEA">
+			<Text>Bir Donanma askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_UNIT_ARMY_MILITARY_FORMATION_SEA">
+			<Text>Bir Armada askerî birliği üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_LUXURY_RESOURCE">
+			<Text>Bir Lüks Kaynak üzerinde etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ANYWHERE">
+			<Text>Herhangi bir bölgede etkinleştir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_OPEN_PLAYER_RELIC_SLOT">
+			<Text>Şehirlerinizden birinde boş bir [ICON_GreatWork_Relic] Kutsal Emanet büyük eser yuvası bulunmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MISSING_BUILDING">
+			<Text>Şehirde zaten {1_BuildingName} binası bulunmamalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_GOLD_COST">
+			<Text>Eylem maliyeti: {1_GoldAmount} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_FOUND_RELIGION">
+			<Text>Bir Din kurar ve bu şehri Kutsal Şehir hâline getirir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ACTION_EFFECT_GREAT_WORK_OBJECT">
+			<Text>{1_GreatWorkName} ({2_GreatWorkObjectIconString} {3_GreatWorkObjectName}).</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_PASSIVE_NAME_DEFAULT">
+			<Text>Pasif Etki</Text>
+		</Row>
+		<!-- Shared by Multiple Classes -->
+		<Row Tag="LOC_GREATPERSON_GOLD">
+			<Text>Hemen {Amount} {YieldType} kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMPUTERSTECHBOOST">
+			<Text>Bilgisayarlar teknolojisi için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
+			<Text>Modern çağdan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<!-- Generals -->
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
+			<Text>Büyük General'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
+			<Text>Büyük Amiral'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_GENERAL_MOVEMENT_DESCRIPTION">
+			<Text>Büyük General'den +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_ADMIRAL_MOVEMENT_DESCRIPTION">
+			<Text>Büyük Amiral'den +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
+			<Text>Klasik ve Orta Çağ kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
+			<Text>Orta Çağ ve Rönesans kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
+			<Text>Rönesans ve Sanayi Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
+			<Text>Sanayi Çağı ve Modern Çağ kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
+			<Text>Modern Çağ ve Atom Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
+			<Text>Atom Çağı ve Enformasyon Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
+			<Text>Enformasyon Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
+			<Text>Yakındaki Barbar birimlerini kontrolünüze geçirir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HANNIBAL_BARCA_ACTIVE">
+			<Text>Bir askeri kara birimine 1 terfi seviyesi bahşeder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
+			<Text>Anında bir Şövalye birimi yaratır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EL_CID_ACTIVE">
+			<Text>Bir askeri kara biriminden bir Kolordu oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GENGHIS_KHAN_ACTIVE">
+			<Text>Bir askeri kara birimine 1 terfi seviyesi ve +%25 muharebe deneyimi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GUSTAVUS_ADOLPHUS_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Bombardıman birimi oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOAN_OF_ARC_ACTIVE">
+			<Text>[ICON_GreatWork_Relic] Kutsal Emanet oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ANA_NZINGA_ACTIVE">
+			<Text>{Amount} [ICON_Envoy] {Amount : plural 1?Elçi; other?Elçiler;} kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_NAPOLEON_BONAPARTE_ACTIVE">
+			<Text>Bir askeri kara biriminden bir Ordu oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RANI_LAKSHMIBAI_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Süvari birimi oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
+			<Text>{Amount} [ICON_Envoy] {Amount : plural 1?Elçi; other?Elçiler;} kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOHN_MONASH_ACTIVE">
+			<Text>Bir askeri kara birimine 1 terfi seviyesi ve +%75 muharebe deneyimi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
+			<Text>Bu bölgedeki bölge +1 hava birimi yuvası kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Piyade birimi oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DWIGHT_EISENHOWER_ACTIVE">
+			<Text>Askeri birimlere +%5 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GEORGY_ZHUKOV_ACTIVE">
+			<Text>Tüm kara birimleri için +%50 kanatlama bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
+			<Text>Bir askeri kara birimine 1 terfi seviyesi ve +%100 muharebe deneyimi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Tank birimi oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_AHMAD_SHAH_MASSOUD_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Modern Tank Avcısı birimi oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_VIJAYA_WIMALARATNE_ACTIVE">
+			<Text>Bir askeri kara birimine 1 terfi seviyesi ve +%100 muharebe deneyimi kazandırır.</Text>
+		</Row>
+		<!-- Admirals -->
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
+			<Text>2 bölge içindeki Klasik ve Orta Çağ deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
+			<Text>2 bölge içindeki Orta Çağ ve Rönesans dönemi deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
+			<Text>2 bölge içindeki Rönesans ve Sanayi Çağı deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
+			<Text>2 bölge içindeki Sanayi ve Modern Çağ deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
+			<Text>2 bölge içindeki Modern ve Atom çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
+			<Text>2 bölge içindeki Atom ve Bilgi çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
+			<Text>2 bölge içindeki Bilgi çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
+			<Text>Bir askeri donanma birimine 1 terfi seviyesi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GAIUS_DUILIUS_ACTIVE">
+			<Text>Bir askeri donanma biriminden bir Donanma oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
+			<Text>Anında bir Dört Kürekli birimi yaratır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
+			<Text>Tüm donanma birimlerinin normal teknoloji gereksinimi olmadan okyanus bölgelerinde hareket etmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
+			<Text>50 [ICON_Gold] Altın kazandırır (Standart hızda). Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken +%40 daha fazla ödül alır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHENG_HE_ACTIVE">
+			<Text>{Amount} [ICON_Envoy] {Amount : plural 1?Elçi; other?Elçi;} kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANCIS_DRAKE_ACTIVE">
+			<Text>75 [ICON_Gold] Altın kazandırır (Standart hızda). Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken +%50 daha fazla ödül alır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SANTA_CRUZ_ACTIVE">
+			<Text>Bir askeri donanma biriminden bir Armada oluşturur.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_YI_SUN_SIN_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Zırhlı birimi yaratır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHING_SHIH_ACTIVE">
+			<Text>100 [ICON_Gold] Altın kazandırır (Standart hızda). Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken +%60 daha fazla ödül alır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HORATIO_NELSON_ACTIVE">
+			<Text>Tüm donanma birimleri için +%50 kanatlama bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LASKARINA_BOUBOULINA_ACTIVE">
+			<Text>Bir askeri donanma birimine 1 terfi seviyesi ve +%50 muharebe tecrübesi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_ACTIVE">
+			<Text>Anında 1 terfi seviyesine sahip bir Zırhlı birimi yaratır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOAQUIM_MARQUES_LISBOA_ACTIVE">
+			<Text>Her zamankinden %25 daha az savaş yorgunluğu biriktirir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
+			<Text>Bir askeri donanma birimine 1 terfi seviyesi ve +%75 muharebe tecrübesi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHESTER_NIMITZ_ACTIVE">
+			<Text>Deniz Akıncısı terfi sınıfındaki birimlere karşı +%20 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRACE_HOPPER_ACTIVE">
+			<Text>Atom veya Bilgi çağından {Amount} rastgele {Amount : plural 1?teknolojinin; other?teknolojinin;} [ICON_TechBoosted] Buluş Anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SERGEY_GORSHKOV_ACTIVE">
+			<Text>Bir askeri deniz birliğine 1 terfi seviyesi ve +%100 muharebe deneyimi kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
+			<Text>Bir askeri deniz birliğine 1 terfi seviyesi ve +%200 muharebe deneyimi kazandırır.</Text>
+		</Row>
+		<!-- Engineers -->
+		<Row Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
+			<Text>Bu şehrin, [ICON_Citizen] Nüfus sınırının izin verdiğinden bir fazla bölge inşa etmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_PRINTINGTECHBOOST">
+			<Text>[ICON_TechBoosted] Matbaa teknolojisi için Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_MEDIEVAL">
+			<Text>Harika inşaatına yönelik {Amount} [ICON_Production] Üretim kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JAMES_OF_ST_GEORGE_ACTIVE">
+			<Text>Bu şehirde Antik ve Orta Çağ Surlarını anında inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_RENAISSANCE">
+			<Text>Harika inşaatına yönelik {Amount} [ICON_Production] Üretim kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_WORKSHOP_CULTURE">
+			<Text>Atölyeler +{Amount} [ICON_Culture] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_SMALL">
+			<Text>Bu şehir için +{Amount} [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_SMALL">
+			<Text>Bu şehir için +{Amount} [ICON_Amenities] {Amount : plural 1?Olanak; other?Olanaklar;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INDUSTRIAL">
+			<Text>Harika inşaatına yönelik {Amount} [ICON_Production] Üretim kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JAMES_WATT_ACTIVE">
+			<Text>Bu bölgede bir Fabrika ve Atölye inşa eder. Fabrikalar +2 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
+			<Text>Bu şehir, sahip olduğu tüm bölgelere +{Amount} Çekicilik sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
+			<Text>Bu bölgenin bölgesel binaları {Amount} {Amount : plural 1?bölge; other?bölgeler;} daha uzağa erişir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
+			<Text>Bu bölgenin bölgesel binaları +{Amount} [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_SMALL">
+			<Text>Uzay Yarışı projelerine yönelik +%{Amount} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ROCKETRYTECHBOOST">
+			<Text>[ICON_TechBoosted] Roket Bilimi teknolojisi için Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_MEDIUM">
+			<Text>Bu şehir için +{Amount} [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_HOUSING_LARGE">
+			<Text>Bu şehir için +{Amount} [ICON_Housing] Konut.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_AMENITIES_LARGE">
+			<Text>Bu şehir için +{Amount} [ICON_Amenities] {Amount : plural 1?Olanak; other?Olanaklar;}.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_EARLY_SPACE_RACE">
+			<Text>Uzay Yarışı projesi inşasına {Amount} [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
+			<Text>Bu şehir, sahip olduğu tüm bölgelere +{Amount} Çekicilik sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
+			<Text>Bu bölgenin bölgesel binaları +{Amount} [ICON_Amenities] {Amount : plural 1?Olanak; other?Olanaklar;} sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_INFORMATION">
+			<Text>Harika inşasına {Amount} [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<!-- Merchants -->
+		<Row Tag="LOC_GREATPERSON_GRANT_PLOT_RESOURCE">
+			<Text>Bu bölgedeki Lüks Kaynağın {Amount} ücretsiz {Amount : plural 1?kopyasını; other?kopyasını;} [ICON_Capital] Başkent şehrinize verir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FAITH_SMALL">
+			<Text>{Amount} [ICON_Faith] İnanç kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PLOT">
+			<Text>En yakın şehriniz bu bölgeyi topraklarına katar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_TINY">
+			<Text>{Amount : number #} [ICON_Gold] Altın kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHANG_QIAN_ACTIVE">
+			<Text>Ticaret Yolu kapasitesini 1 artırır. Bu şehre gelen yabancı Ticaret Yolları her iki şehre de +2 Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARCO_POLO_ACTIVE">
+			<Text>Bu şehirde ücretsiz bir Tüccar birimi sağlar ve Ticaret Yolu kapasitesini 1 artırır. Bu şehre gelen yabancı Ticaret Yolları her iki şehre de +2 Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_TO_INCOMING_FOREIGN_ROUTES">
+			<Text>Bu şehir, yabancı Ticaret Yollarına +{Amount} Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_FROM_INCOMING_FOREIGN_ROUTES">
+			<Text>Bu şehir, yabancı Ticaret Yollarından +{Amount} Altın alır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FREE_TRADER_UNIT">
+			<Text>Bu şehirde ücretsiz bir Tüccar birimi kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EXTRA_TRADE_ROUTE_CAPACITY">
+			<Text>Ticaret Yolu kapasitesini {Amount} artırır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_SMALL">
+			<Text>{Amount : number #} [ICON_Gold] Altın kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_SMALL">
+			<Text>{Amount} [ICON_Envoy] {Amount : plural 1?Elçi; other?Elçi;} kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GIOVANNI_DE_MEDICI_ACTIVE">
+			<Text>Bu bölgede anında bir Banka ve Pazar inşa eder. Banka, her şeyi barındırabilecek 2 Büyük Eser yuvası kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MARKET">
+			<Text>Bu bölgede anında bir Pazar inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BANK">
+			<Text>Bu bölgede anında bir Banka inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_BANK_GREAT_WORK_SLOTS">
+			<Text>Bu Banka, [ICON_GreatWork_Relic] Kutsal Emanetler dışında her şeyi barındırmak için {Amount} Büyük Eser yuvası kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_MEDIUM">
+			<Text>{Amount : number #} [ICON_Altın] Altın kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INFLUENCE_TOKENS_MEDIUM">
+			<Text>{Amount} [ICON_Elçi] {Amount : plural 1?Elçi; other?Elçiler;} kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_SPECIALTY_DISTRICT">
+			<Text>Kendi şehirlerinize giden [ICON_TicaretYolu] Ticaret Yollarınız, varış noktasındaki her uzmanlık bölgesi için +{Amount} [ICON_Altın] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ECONOMIC_POLICY_SLOT">
+			<Text>Herhangi bir hükümette +1 Ekonomik Politika Yuvası.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_JEANS">
+			<Text>{Amount} [ICON_KAYNAK_KOT] Kot, eşsiz bir şekilde üretilmiş ve +4 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GOLD_LARGE">
+			<Text>{Amount : number #} [ICON_Altın] Altın kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PERFUME">
+			<Text>{Amount} [ICON_KAYNAK_PARFÜM] Parfüm, eşsiz bir şekilde üretilmiş ve +6 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
+			<Text>1 [ICON_KAYNAK_PETROL] Petrol, bir Stratejik Kaynak bahşeder. [ICON_TicaretYolu] Ticaret Yollarınız, varış şehrindeki her Stratejik Kaynak için +2 [ICON_Altın] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_OIL">
+			<Text>{Amount} [ICON_KAYNAK_PETROL] Petrol, bir Stratejik Kaynak bahşeder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
+			<Text>[ICON_TicaretYolu] Ticaret Yollarınız, varış şehri tarafından geliştirilmiş her Stratejik Kaynak için +{Amount} [ICON_Altın] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
+			<Text>[ICON_TicaretYolu] Ticaret Yolu sahibi olduğunuz diğer uygarlıklara karşı +{Amount}% [ICON_Turizm] Turizm oranı.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_COSMETICS">
+			<Text>{Amount} [ICON_KAYNAK_KOZMETİK] Kozmetik, eşsiz bir şekilde üretilmiş ve +4 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
+			<Text>Diğer tüm uygarlıklarla +{Amount} {Amount : plural 1?seviye; other?seviye;} diplomatik görünürlük.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_TOYS">
+			<Text>{Amount} [ICON_KAYNAK_OYUNCAK] Oyuncak, eşsiz bir şekilde üretilmiş ve +4 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
+			<Text>Sanayi Bölgesi bölgeleri +{Amount} [ICON_Turizm] Turizm sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
+			<Text>Kampüs bölgeleri +{Amount} [ICON_Turizm] Turizm sağlar.</Text>
+		</Row>
+		<!-- Scientists -->
+		<Row Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
+			<Text>Klasik veya Orta Çağ'dan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
+			<Text>Matematik ve Orta Çağ'dan 1 rastgele teknoloji için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
+			<Text>Orta Çağ'dan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_MATHTECHBOOST">
+			<Text>Matematik teknolojisi için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARY">
+			<Text>Bu bölgede anında bir Kütüphane inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARY_FREE_MAINTENANCE">
+			<Text>+{Amount} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITY">
+			<Text>Bu bölgede anında bir Üniversite inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITY_FREE_MAINTENANCE">
+			<Text>+{Amount} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCETECHBOOST">
+			<Text>Orta Çağ veya Rönesans döneminden rastgele {Amount} {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HOLY_SITE_ADJACENCY_AS_SCIENCE">
+			<Text>Bu Kutsal Alan bölgesinin [ICON_Faith] İnanç komşuluk bonusu aynı zamanda [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FAITH">
+			<Text>{Amount} [ICON_Faith] İnanç kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_OMAR_KHAYYAM_ACTIVE">
+			<Text>Orta Çağ veya Rönesans döneminden 2 rastgele teknoloji için [ICON_TechBoosted] Buluş anı ve 1 rastgele toplumbilim için [ICON_CivicBoosted] İlham anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2MEDIEVALRENAISSANCETECHBOOSTS">
+			<Text>Orta Çağ veya Rönesans döneminden rastgele {Amount} {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MEDIEVALRENAISSANCECIVICBOOST">
+			<Text>Orta Çağ veya Rönesans döneminden rastgele {Amount} {Amount : plural 1?toplumbilim; other?toplumbilim;} için [ICON_CivicBoosted] İlham anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GALILEO_GALILEI_ACTIVE">
+			<Text>Bu bölgeye bitişik her Dağ parseli için (Standart hızda) 250 [ICON_Science] Bilim kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB">
+			<Text>Bu bölgede anında bir Araştırma Laboratuvarı inşa eder.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCHLABS_BIG_SCIENCE">
+			<Text>Araştırma Laboratuvarları +{Amount} [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RESEARCH_LAB_FREE_MAINTENANCE">
+			<Text>+{Amount} [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ISAAC_NEWTON_ACTIVE">
+			<Text>Bu bölgede anında bir Üniversite ve Kütüphane inşa eder. Üniversiteler +2 [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3RENAISSANCEINDUSTRIALTECHBOOSTS">
+			<Text>Rönesans veya Sanayi Çağından rastgele {Amount} {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GREAT_PERSON_FREE_POINTS">
+			<Text>Mevcut ve gelecekteki tüm Büyük Kişileri toplamak için {Amount} ücretsiz [ICON_GreatPerson] Büyük Kişi puanı uygular.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHARLES_DARWIN_ACTIVE">
+			<Text>Bu parselde veya bitişiğindeki her Doğa Harikası parseli için (Standart hızda) 500 [ICON_Science] Bilim kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_DMITRI_MENDELEEV_ACTIVE">
+			<Text>Kimya ve Sanayi Çağından 1 rastgele teknoloji için [ICON_TechBoosted] Buluş anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ALAN_TURING_ACTIVE">
+			<Text>Bilgisayarlar ve Modern Çağdan 1 rastgele teknoloji için [ICON_TechBoosted] Buluş anı tetiklenir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1INDUSTRIALTECHBOOST">
+			<Text>Sanayi çağından {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHEMISTRYTECHBOOST">
+			<Text>Kimya teknolojisi için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LIBRARIES_SCIENCE">
+			<Text>Kütüphaneler +{Amount} [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_SMALL_SCIENCE">
+			<Text>Üniversiteler +{Amount} [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_UNIVERSITIES_BIG_SCIENCE">
+			<Text>Üniversiteler +{Amount} [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_1MODERNATOMICTECHBOOST">
+			<Text>Modern veya Atom çağından {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_REVEAL_OIL">
+			<Text>Normal teknoloji gereksinimi olmadan [ICON_RESOURCE_OIL] Petrolü ortaya çıkarır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_2INDUSTRIALMODERNTECHBOOSTS">
+			<Text>Sanayi veya Modern çağından {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ADJACENT_RAINFOREST_SCIENCE">
+			<Text>Burada veya bitişikteki her Yağmur Ormanı bölgesi için {Amount} [ICON_Science] Bilim kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTIFACT_TOURISM_MODIFIER">
+			<Text>Tüm şehirlerinizdeki [ICON_GreatWork_Artifact] Eserler, normal [ICON_Tourism] Turizm değerlerinin %{ScalingFactor}'ını üretir.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ARTIFACT_SCIENCE">
+			<Text>Bu şehirdeki her [ICON_GreatWork_Artifact] Eser için {Amount} [ICON_Science] Bilim kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_3ATOMICINFORMATIONTECHBOOSTS">
+			<Text>Atom veya Enformasyon çağından {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ALLINFORMATIONTECHBOOSTS">
+			<Text>Enformasyon çağındaki tüm teknolojiler için [ICON_TechBoosted] Buluş anını tetikler.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRANT_PRODUCTION_IN_CITY_LATE_SPACE_RACE">
+			<Text>Uzay Yarışı projesi inşaatına {Amount} [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SPACE_RACE_PRODUCTION_RATE_LARGE">
+			<Text>Uzay Yarışı projelerine +%{Amount} [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ABU_AL_QASIM_AL_ZAHRAWI_ACTIVE">
+			<Text>Yaralı kara birlikleri her tur +5 HP iyileşebilir.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

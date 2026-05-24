@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+    <Row Tag="LOC_DIPLOMACY_DISCUSS">
+      <Text>Söz İste</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_CASUS_BELLI">
+      <Text>Savaş Gerekçesi</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_CASUS_BELLI_TT">
+      <Text>Savaş Gerekçeleri, savaş ilanı veya şehir ele geçirme sırasında oluşan normal Savaş Kışkırtıcılığı Cezasını azaltan veya tamamen ortadan kaldıran savaş nedenlerini temsil eder.</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TITLE">
+			<Text>İSTİHBARAT RAPORU</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON">
+			<Text>Dedikodular:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_NAME">
+			<Text>DEDİKODU</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON">
+			<Text>Erişim Seviyesi:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL">
+			<Text>Erişim Seviyesi:</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_HEADER">
+			<Text>ERİŞİM SEVİYESİ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP">
+			<Text>İlişkimiz:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_HEADER">
+			<Text>İLİŞKİMİZ</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TO_RAISE_RELATIONSHIP">
+			<Text>İlişkinizi [COLOR_Civ6Green]yükseltmek[ENDCOLOR] için şunları yapabilirsiniz:[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
+			<Text>İlişkinizi [COLOR_Civ6Red]düşürmek[ENDCOLOR] için şunları yapabilirsiniz:[NEWLINE]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+      <Text>Anlaşmalar:</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
+			<Text>Gündemler:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT">
+			<Text>Hükümet:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIPS">
+			<Text>İlişkiler:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP">
+			<Text>İlişki</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_REASONS">
+			<Text>MEVCUT İLİŞKİNİN GEREKÇELERİ</Text>
+		</Row>			
+		<Row Tag="LOC_DIPLOMACY_INTEL_RELATIONSHIP_NOTHING_ABJECT">
+			<Text>Şu anda ilişkinizi kayda değer bir şekilde etkileyen hiçbir durum bulunmamaktadır.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLOMACY_INTEL_INFORMATION_SHARED_HEADER">
+			<Text>Paylaşılan Bilgi:</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_NEXT_ACCESS_LEVEL_HEADER">
+			<Text>Sonraki Erişim Seviyesi:</Text>
+		</Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_GAIN_ACCESS_LEVEL_HEADER">
+      <Text>Erişim seviyenizi [COLOR_Civ6Green]yükseltmek[ENDCOLOR] için şunları yapabilirsiniz:</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_LAST_TEN_TURNS">
+      <Text>SON ON TUR</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_OLDER">
+      <Text>DAHA ESKİ</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
+      <Text>Yok</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
+      <Text>+{1_Value} Yeni {1_Value : plural 1?Rapor; other?Raporlar;}</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE_THIS_TURN">
+      <Text>Yeni Rapor Yok</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NO_RECENT">
+      <Text>[COLOR_Grey]Son 10 turda herhangi bir olay bildirilmedi.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_HISTORICAL_AGENDA">
+      <Text>Tarihi Gündem</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_RANDOM_AGENDA">
+      <Text>Rastgele Gündemler</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_AGENDA_NOT_REVEALED">
+      <Text>Rastgele gündem gizlidir. Ortaya çıkarmak için GİZLİ erişim seviyesi kazanın.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_HISTORICAL_AGENDA_NONE">
+      <Text>Tarihi gündem yok</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_RANDOM_AGENDA_NONE">
+      <Text>Rastgele gündem yok</Text>
+    </Row>
+	<!-- Used in titles -->
+	<Row Tag="LOC_DIPLOMACY_OF">
+      <Text>İLE İLGİLİ</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_OFFER">
+      <Text>Avantajlı bir ticaret teklifinde bulun.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE">
+      <Text>{1_Civ}'in kınadığı bir uygarlığı kına.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_TRADE_ROUTE">
+      <Text>{1_Civ} ile bir [ICON_TradeRoute] Ticaret Yolu kur.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_OPEN_BORDERS">
+      <Text>{1_Civ}'e Açık Sınırlar ver.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DELEGATION_EMBASSY">
+      <Text>Bir heyet gönder veya bir büyükelçilik kur.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_POSITIVE_AGENDA">
+      <Text>Gündemlerinden birini tatmin et.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
+      <Text>Gündemlerinden birine karşı gel.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_THEM">
+      <Text>Bu lideri kına.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_REJECT_PROMISE">
+      <Text>Talep ettikleri bir sözü vermemek.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_BREAK_PROMISE">
+      <Text>Onlara verdiğin bir sözü bozmak.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
+      <Text>{1_Civ}'in bir dostunu kınamak.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
+      <Text>{1_Civ}'in bilinen bir düşmanıyla dostluk ilan etmek.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_DRAG_BUTTON_TOOLTIP">
+      <Text>Yeniden boyutlandırmak için sürükleyin.</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_DRAG_BUTTON_CLICK_TOOLTIP">
+			<Text>Yeniden boyutlandırmak için tıklayın</Text>
+		</Row>
+	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
+      <Text>Bu anlaşmayı daha adil hale getir.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE_TOOLTIP">
+      <Text>Daha iyi bir anlaşma bulmak için liderle pazarlık yap.[NEWLINE]Bu, anlaşma masasının HER İKİ TARAFINDAKİ öğeleri değiştirebilir.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_MY_OFFER">
+      <Text>BENİM TEKLİFİM:</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_THEIR_OFFER">
+      <Text>ONLARIN TEKLİFİ:</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_DEAL_WHAT_IT_WILL_TAKE_TOOLTIP">
+      <Text>Bu liderden bunu almak için ne gerektiğini sor.[NEWLINE]Bu, anlaşma masasının yalnızca bizim tarafımıza öğe ekleyecek.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
+      <Text>Erişim Seviyeniz sayesinde duyduğunuz tüm Dedikoduları görüntüleyin.</Text>
+  </Row>
+  <Row Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
+      <Text>Genel Bakış</Text>
+  </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
+      <Text>Bu liderle olan Erişim Seviyeniz hakkında, erişebileceğiniz Dedikodu türleri de dahil olmak üzere önemli bilgileri görüntüleyin.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_OUR_RELATIONSHIP_TOOLTIP">
+      <Text>Bu liderle olan ilişkinizin ayrıntılarını, mevcut ilişkinizin bilinen nedenleri de dahil olmak üzere görüntüleyin. Burada ek bilgileri ortaya çıkarmak için Erişim Seviyenizi yükseltin.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_ADGENDAS_TOOLTIP">
+      <Text>Gündemler, diğer liderlerle olan ilişkinizde önemli bir itici güçtür. Liderlerin bir Tarihi Gündemi ve bir Gizli Gündemi vardır. Gizli Gündemi ortaya çıkarmak, bu lideri neyin memnun ettiğini ve neyin rahatsız ettiğini bilmek açısından önemlidir.</Text>
+    </Row>
+	<Row Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
+      <Text>Bu uygarlık tarafından benimsenen mevcut hükümet.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
+      <Text>Dedikodu</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
+      <Text>Erişim Seviyesi</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_GOVERNMENT">
+      <Text>Hükümet</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGENDAS">
+      <Text>Gündemler</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_AGREEMENTS">
+      <Text>Anlaşmalar</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_OUR_RELATIONSHIP">
+      <Text>İlişkimiz</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_OVERVIEW_OTHER_RELATIONSHIPS">
+      <Text>İlişkiler</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_OVERVIEW">
+      <Text>İstihbarat Raporu : Genel Bakış</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_GOSSIP">
+      <Text>İstihbarat Raporu : Dedikodu</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_ACCESS_LEVEL">
+      <Text>İstihbarat Raporu : Erişim Seviyesi</Text>
+    </Row>
+    <Row Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
+      <Text>İstihbarat Raporu : İlişki</Text>
+    </Row>
+    <Row Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
+      <Text>Anarşi ({1_num} {1_Num : plural 1?tur; other?tur;})</Text>
+    </Row>
+		<Row Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
+			<Text>Yok</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
+			<Text>{1_CivName}, {2_CivName}'nin kötü işlerini kınadı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
+			<Text>{1_CivName}, {2_CivName} ile dostluğunu ilan etti. [{3_RemainingTurns} {3_RemainingTurns : plural 1?tur daha; other?tur daha;}]</Text>
+		</Row>
+  </BaseGameText>
+</GameData>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_CAPSULE_BODY">
+			<Text>Menelik, şehirlerini tepelerde kurar, [ICON_Faith] İnanç'a odaklanır ve Bakanlar Kurulu sayesinde [ICON_Science] Bilim ve [ICON_Culture] Kültür'ünü artırarak Dinî veya Kültür Zaferi'ne yönelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_DETAILED_BODY">
+			<Text>Menelik'in odağı savunmaya, dine ve kültüre dayalı bir oyun tarzıdır. Etiyopya'nın avantajları tepelere yerleşmekle ortaya çıkar: Bakanlar Kurulu, tepe şehirlerinde üretilen [ICON_Faith] İnanç'ın %15'i kadar [ICON_Science] Bilim ve [ICON_Culture] Kültür bonusu sağlar; Menelik ise tepelere Kayadan Oyma Kiliseler inşa ederek [ICON_Faith] İnanç'ını daha da artırabilir. Yayla manastırlarını korumak için Menelik, oyunun ortalarında ortaya çıkan ve tepelerde cezasız hareket eden Oromo Süvarisi'ne sahiptir. Menelik bu sayede Etiyopya şehirlerinin özgür kalmasını ve [ICON_Faith] İnanç merkezleri olarak güçlenmesini sağlayabilir. Oyunun ilerleyen safhalarında Menelik bu İnanç'ı Arkeolog satın almak için kullanabilir; bu da onun en iyi stratejisini Dinî veya Kültür Zaferi haline getirir.</Text>
+		</Row>
+		<!-- civs -->
+		<Row Tag="LOC_CIVINFO_ETHIOPIA_LOCATION">
+			<Text>Doğu Afrika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ETHIOPIA_SIZE">
+			<Text>Yaklaşık 426 bin mil kare (1,1 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ETHIOPIA_POPULATION">
+			<Text>Yaklaşık 108 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ETHIOPIA_CAPITAL">
+			<Text>Addis Ababa</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Atalarımız Doğu Afrika'da evrimleşti ve 1974'te keşfedilen o üç milyon yıllık insansı “Lucy” Awash vadisinde yaşadı. O halde Etiyopya'dan daha uzun bir (ön)tarihe sahip çok az bölge olduğunu söylemek yanlış olmaz. Ülke, insan evriminin, Hristiyanlığın yayılışının ve sömürgeciliğin sona erişinin kavşağı olmuş ve her birinde belirleyici bir rol oynamıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_2">
+			<Text>Etiyopya'nın doğusunda Kızıldeniz (ve ötesinde Arap Yarımadası ile Mezopotamya), batısında ise Nil Nehri bulunur. En eski insan uygarlıklarına bu kadar yakın olunca, erken antik çağda Etiyopya'da zengin bir ticaret merkezi olarak “Punt” adlı bir krallığın yükselmesi şaşırtıcı değildir. Punt, altın, mür, buhur, abanoz ve fildişi gibi değerli mallar üretip ihraç ediyordu; bu mallar krallığa Mısırlı tüccarlar arasında “Tanrı'nın Ülkesi” adını kazandırmıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_3">
+			<Text>Bunu bir dizi bağımsız krallık izledi. Bunlardan Aksum, MÖ 1. yüzyıl civarında Kızıldeniz'den Güney Arabistan'a ve iç kesimlerde günümüz Sudan'ındaki Nil vadisine kadar uzanan en güçlü siyasi oluşumlardan biri haline geldi. Sonraki birkaç yüzyıl boyunca Mısır Roma'nın eline geçerken Aksum refah içinde yaşadı. Krallık bir ticaret kavşağında bulunuyor, muhteşem boyalar, silah yapımında kullanılan demir ve cam eşyalar ticareti yapıyordu; bir Roma kaydı, Aksum'da ticareti yapılabilecek tüm farklı malları listelemeye bir sayfa ayırmıştı; ticaret ağları Hindistan'a kadar uzanıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_4">
+			<Text>MS 4. yüzyılda Hristiyanlık Aksum'a tanıtıldı ve böylece Aksum dünyadaki ilk Hristiyan krallıklardan biri oldu (Ermenistan'dan hemen sonra, ancak Roma'dan önce). Bizans (Doğu Roma İmparatorluğu) tarihçileri, kralın Suriyeli bir Hristiyan'ı esir aldığını ve ardından esiriyle uzun sohbetler sürecinde kendisinin de Hristiyan olduğunu anlatır. Kraliyet sikkeleri daha sonra bir haçla süslenmiş olsa da, din tüm krallığa yayılmadı ve seçkinlerin dini olarak kaldı (Hristiyanlığın daha çok sıradan halkla ilişkilendirildiği Roma'nın aksine). Ancak Roma'dan Hristiyanlara yönelik tasfiyelerden biri sırasında, birçok Hristiyan aziz Etiyopya'ya sığındı ve yavaş yavaş nüfusun büyük bir kısmını Hristiyanlaştırdı (geleneksel dinler ve Yahudilik varlığını sürdürdü ve bugüne kadar sürdürmektedir). Aynı dönemde, Dokuz Aziz olarak bilinen bir grup Aksum'a geldi ve İncil'i Yunancadan yerel dil Ge'ez'e çevirdi ve bir manastır düzeni kurdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_5">
+			<Text>Ancak güç dengeleri değişir. Roma yıkıldı, Müslüman yöneticiler Kızıldeniz bölgesine hakim oldu ve Aksum'un kendi tebaası kırılgan kurak toprakları aşırı işledi. Etiyopya'nın gücü güneye kaydı ve içe döndü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_6">
+			<Text>Bu yalnızlık anında her şey kaybolmamıştı. Dokuz Aziz tarafından kurulan gelenekler, Zagwe hanedanlığı döneminde (900-1200'ler) inşa edilen Lalibela'nın zamanda donmuş kiliselerinde devam etti ve korundu. Bu kiliseler bugün hâlâ bir Dünya Mirası alanıdır ve hacılar tarafından aktif olarak ziyaret edilmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_7">
+			<Text>Etiyopya sonsuza dek uykuda kalmayacaktı. Yeni bir imparator olan Yekuno Amlak, Zagwe krallarının sonuncusunu ortadan kaldırdı ve yönetimini sağlamlaştırmak için o kralların kızlarından biriyle evlendi. Ayrıca meşruiyetini güçlendirmeye yardımcı olacak bir efsane yaydı: Eski kral Süleyman ile Saba Melikesi'nin soyundan geldiğini iddia etti; bu nedenle bu yeni hanedana Süleyman hanedanı adı verildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Süleyman hanedanı altında Etiyopya, tarihsel karanlık çağından çıkarak yeniden yükselmeye başladı. Hâlâ sabit bir başkentleri olmasa da (imparatorluk seyyar kamplar halinde hareket ediyordu), imparatorluk başka yönlerden ilerledi. Askeri başarılar elde ettiler ve Afrika Boynuzu'nun çoğunu kontrol ettiler. Bölgenin dini coşkusu devam etti ve özellikle 1400'lerin sonlarından 1500'lerin başlarına kadar Avrupalı güçlerle teması kolaylaştırdı. Sanatçılar ve yazarlar da bu dönemde gelişti ve Saba Melikesi'nin hikâyesini, Kral Süleyman'la ilişkisini ve oğulları Menelik'le Ahit Sandığı'nın Etiyopya'ya nasıl getirildiğini yeniden anlatan Ge'ez destanı Kebra Nagast gibi büyük eserler yarattı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_9">
+			<Text>Ne yazık ki 1500'lerin ortaları Etiyopya'ya çatışma getirdi. Hristiyan Etiyopya (Habeşistan) ile Müslüman Somali (Adal) arasındaki Habeşistan-Adal Savaşı MS 1528'den 1543'e kadar sürdü ve Etiyopya'yı kanlı ve ciddi şekilde zayıflamış bir halde bıraktı. Kiliseler ve el yazmaları yakıldı, çatışmalarda birçok hayat kaybedildi. Etiyopya İmparatoru Lebna Dengel Portekiz'e başvurdu; Portekiz de 1541'de Massawa'ya tüfekçilerle donatılmış bir filo göndererek yanıt verdi. Portekiz filosunun yardımına rağmen Etiyopya, “Fatih” Ahmed ibn İbrahim el-Gazi'yi püskürtmekte zorluk çekiyordu. İmparator Galavdevos, hayatta kalan Portekiz kuvvetleriyle birleşti ve Fatih'le bir kez daha yüzleşmek için batıya yürüdü. El-Gazi nihayet Wayna Daga Muharebesi'nde yenildi ve orduları Etiyopya'dan çekildi. Ancak çatışmalar 1559'a kadar, Galavdevos'un Harar şehrine iskelet bir kuvvetle aptalca saldırmasına kadar devam etti. İdam edildi ve monarşiyi harap halde bıraktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_10">
+			<Text>Kalıcı bir başkent ancak 1636'da yeniden kurulabildi. Gonder'in kuruluşu Etiyopya'ya istikrarı geri getirmeye yardımcı oldu (her ne beraberinde Shakespearevari düzeyde siyasi entrika ve dramaya yol açan saray kargaşasını da getirmiş olsa da). Gonder yeniden ticaretin merkezi haline geldi ve önemli bir altyapı inşa edebildi. Etiyopya soyluları yeni saraylar ve güzel bahçeler inşa ederek filozofları ve sanatçıları yeniden kendine çekti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_11">
+			<Text>1800'lerin sonlarına doğru Gonder geriledi ve geride birbirine düşman eyaletlerden oluşan bir karmaşa bıraktı. Üç imparator kendi dönemlerinde Etiyopya'yı birleştirmek için çalıştı. İmparator II. Tewodros, bir şefin oğluyken eğitim için yerel bir manastıra gitti ve sonunda bir haydut grubunun lideri oldu. Zeki bir lider ve yetenekli bir savaşçıydı; bu da ona takipçiler kazandırdı ve haydut grubu küçük bir ordu büyüklüğüne ulaştı. O kadar ünlendi ki, onu yatıştırmak için İmparatoriçe Menen Liben Amede, onunla torunu arasında bir evlilik ayarladı. Bu bir süre işe yaradı, ta ki Tewodros yeni akrabalarından bıkıp daha fazla güç isteyene kadar. Bölgeyi ele geçirip fetih yoluyla büyük bir kısmını birleştirdi. Ancak tamamen acımasız da değildi. Öldürdüğü bir prensin oğlunu yanına aldı ve sonunda bu çocuğu kızı Alitaş'la evlendirdi. Çocuk, artık genç bir adam olarak Tewodros'tan kaçtı ve ileride Etiyopya'nın sömürgeciliğe karşı bir kale olarak ününü pekiştiren İmparator II. Menelik oldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_12">
+			<Text>Sömürgecilik Avrupa'da bir ateş gibi yayılmıştı ve oyuna geç kalan güçler -özellikle İtalya- kendi imparatorluklarını kurma şansını kolluyordu. Etiyopya bölgesinde Osmanlı İmparatorluğu yıllardır hüküm sürüyordu. Ancak İngilizler, güç ve kurnazlıkla Mısır'ı, Fransızlar ise Somali'yi ele geçirmeyi başarmıştı. İngiliz ve Fransız egemenlikleri arasında Kızıldeniz'de bir toprak parçası -günümüz Eritre'si- Afrika yaylalarına hayati bir çıkış noktası haline geldi ve İngilizler, Fransız egemenliğinden korkup Etiyopya yönetimine güvenmeyerek burayı İtalyanlara “verdi”. Böylece Birinci İtalya-Habeşistan Savaşı başladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_13">
+			<Text>Bu Avrupalılar için iyi bitmedi. Sayıca çok daha az olan ve kendi topraklarından uzakta savaşan İtalyanlar bozguna uğradı ve yenilgiyle evlerine döndü. Ve birdenbire dünya, Avrupa'ya karşı durmaya cesaret eden ve kazanan Afrikalı bir hükümdarı duydu. İtalyanlar, İkinci Dünya Savaşı'ndan hemen önce tekrar saldıracak ve bu kez galip gelecekti. Onlara karşı duran imparator Menelik gibi, Haile Selassie – doğum adı Ras Tafari Makonnen (evet, günümüz Rastafaryanlarının özdeşleştiği “Ras Tafari”) – Avrupa egemenliğine karşı duran bir kahraman olarak ünlendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ETHIOPIA_CHAPTER_HISTORY_PARA_14">
+			<Text>Bugün Etiyopya, Doğu Afrika'da kalabalık bir ülkedir. Afrika'daki diğer birçok ülke gibi Soğuk Savaş'ta bölünme ve kanlı çatışmalarla karşı karşıya kaldı ve Süleyman'ın soyu 1974'te bir Komünist darbeyle devrildi. 1990'larda, Sovyetler Birliği'nin çöküşü ve Eritre'nin (eski İtalyan kolonisi ve Etiyopya'nın Kızıldeniz limanı) bağımsızlığı karşısında Etiyopya yeniden Batı'ya ısındı.</Text>
+		</Row>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_TITLE">
+			<Text>II. Menelik</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_QUOTE">
+			<Text>Uzaktaki güçler Afrika'yı aralarında paylaşmak üzere öne atılırsa, ben kayıtsız bir seyirci olmayı düşünmüyorum.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_1">
+			<Text>İyi bir adam dostlarından, daha iyi bir adam ise düşmanlarından öğrenir. Daha sonra II. Menelik unvanını alacak olan Sahle Miriam, 17 Ağustos 1844'te Etiyopya'nın Shewa bölgesinde doğdu. İmparator II. Tewodros, Shewa bölgesini işgal edip Miriam'ın babası Prens Haile-Melekot'u öldürdüğünde Miriam henüz bir çocuktu. İmparator Tewodros, Haile-Melekot'un soyunu sona erdirip yönetimine potansiyel bir tehdidi ortadan kaldırmak yerine, genç çocuğu Magdala'daki sarayına götürmeye karar verdi. Miriam kesinlikle özgür değildi; o bir siyasi rehineydi. Ne var ki Tewodros, Miriam'ı uzak bir kuleye hapsetmedi. Tewodros, Miriam'ı kendi çocuklarıyla birlikte büyüttü ve ona iyi davrandı. Miriam bu süre zarfında Tewodros'tan öğrenebildiği her şeyi öğrendi, sonunda onun birleşik bir Etiyopya hayalini anlamaya ve hatta paylaşmaya başladı. Ancak Miriam hâlâ özgür olmak istiyordu ve 1865'te diğer Shewalı rehinelerin yardımıyla saraydan kaçtı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_2">
+			<Text>Miriam eve döndüğünde Shewa'nın o zamanki valisi kaçtı ve geri dönen prens çok az direnişle tahta çıkarak Shewa Kralı oldu. Ancak sadece Shewa ile yetinmeye niyeti yoktu. Miriam, Tewodros'u izledi ve bekledi. İmparator Tewodros 1868'de öldüğünde bile Miriam sabırlı olmayı sürdürdü. Miriam, bir sonraki imparator olmak istiyorsa desteğe ihtiyacı olacağını biliyordu. Modernleşmiş ve birleşmiş bir Etiyopya hayalini gerçekleştirmek için de müttefiklere ihtiyacı vardı. Bu düşünceyle Miriam, Shewa ile yakın krallıklar arasında bağlantılar kurdu. İmparator Yohannes, kuzeyde Mısır'daki yayılmacı Avrupalılar ile batıda Sudan'daki dini köktenci bir akım arasında sıkışıp savaşta can verdiğinde Miriam, zamanın geldiğini anladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_3">
+			<Text>Miriam, 3 Kasım 1889'da imparatorluk unvanını alarak İmparator II. Menelik adını benimsedi. Yeni ismine, Süleyman ile Saba Melikesi'nin oğlu I. Menelik'ten ilham aldı. Bu isim altında, saltanatını Etiyopya halkı için refah dolu ve uzun bir dönem hâline getirmeyi planladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_4">
+			<Text>Menelik'in imparator olarak karşılaştığı ilk zorluklardan biri, İngilizlerin ikiyüzlü bir manevrayla Kızıldeniz kıyısını 'armağan ettiği' İtalyanların ilerleyişiydi (İngilizler, yeni ele geçirdikleri Mısır ile Fransız Somali'si arasında bir tampon bölge istiyordu). Menelik, İtalyanlarla müzakere ederek Wichale Antlaşması'nı imzaladı. Antlaşmanın amacı yalnızca yeni kurulan Eritre kolonisini İtalya'ya vermekti; ancak antlaşma, İtalyanlara Etiyopya üzerinde hak iddia etme hakkı tanıyacak şekilde yanlış yorumlandı. Menelik sorunu barışçıl yollarla çözmeye çalıştı ancak sonunda antlaşmayı reddetmek ve Etiyopya topraklarını savunmak zorunda kaldı. Bir dizi çatışma ve ardından Adwa'da yapılan büyük savaşın sonunda Menelik ve Etiyopya zafer kazandı. Bu zaferle birlikte, Etiyopya'nın bağımsız olduğunu bir kez daha teyit eden Addis Ababa Antlaşması'nı müzakere etti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_5">
+			<Text>Adwa Savaşı dünya tarihinde bir dönüm noktasıydı. O zamana kadar Avrupalı devletler kendilerini dünyanın neredeyse her yerinden üstün görüyorlardı. Ancak şimdi bir Afrika ulusu, bir Avrupalı güce karşı başarıyla savunma yapmıştı. Bu başarıyla birlikte Afrika, Asya ve Amerika'daki sömürgeleştirilmiş halklar olayı fark etti. Sömürgeciliğin dünyadaki ömrü uzun olmayacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_6">
+			<Text>Antlaşmanın ardından Menelik, Etiyopya'yı modernleştirmeye ve kendine özgü kimliğine sahip güçlü bir ulus olarak kurmaya girişti. Oromo topraklarından alınan arazide Addis Ababa başkentini inşa etti ve ulusal bir para birimi oluşturdu. Menelik ayrıca okullar inşa ederek ve demiryolları sayesinde seyahati daha erişilebilir ve konforlu hâle getirerek ulusal bir altyapı geliştirmek için çalıştı. Ayrıca posta ve telgraf sistemiyle insanların iletişim hâlinde kalmasını sağladı. Menelik, ülkesinin hem mecazi hem de gerçek anlamda refaha kavuşmasını ve büyümesini istiyordu. Önceki koalisyonları sayesinde sınırlarını neredeyse bugünkü boyutlarına kadar genişletti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_7">
+			<Text>Bununla birlikte, Menelik'in duymadığını bildiği sesler hâlâ vardı ve bu sözlerin dile getirilmesini sağlamaya kararlıydı. Etiyopya içindeki köle ticaretini bastırmak ve nihayetinde yok etmek için aktif olarak çalıştı. Önceki yöneticiler bu 'endüstriyi' yasaklamış olsa da Menelik köle tacirlerini uzuv kesmeyle cezalandırdı ve köle ticareti yapılan kasabaları dağıttı. Ulusundaki herkesin fikrini değiştiremese de gelecek nesiller için tohumların atılmasını sağladı. Ancak bu ileri görüşlülük, Etiyopya'daki etnik azınlıkları kapsamıyordu. Menelik'in yönetimi, Menelik'in Amhara halkının ülkedeki iktidarın dizginlerini sıkı sıkıya elinde tuttuğunu düşünen etnik gruplar tarafından eleştirilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_8">
+			<Text>Menelik, yönetimi öncesinde ve sırasında olmak üzere üç kez evlendi. İmparator Tewodros'tan kaçtıktan sonra ilk karısını terk etti. Her ikisinin de kısa süre sonra başkalarıyla evlenmesi nedeniyle bu durumun herhangi birini üzüp üzmediği belirsizdir. Menelik'in ilk karısından 'boşandığı' aynı yıl Woizero Befana Wolde Michael ile evlendi. Menelik onu çok sevdi, ancak birden fazla vatana ihanet iddiasının ardından onu boşamak zorunda kaldı. Bu iddialara rağmen Menelik, üçüncü ve son evliliğini Taytu Betul ile yapana kadar ona olan sevgisini dile getirmeye devam etti. Menelik ölene kadar onunla kaldı. Taytu'nun güçlü bir hükümdar olduğu kanıtlandı ve evliliklerinden önce bile etkili bir kadındı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MENELIK_CHAPTER_HISTORY_PARA_9">
+			<Text>1909'da Menelik geçirdiği bir felç sonucu eski benliğinin bir gölgesi hâline geldi. İmparatoriçe, Ras Bitwaddad Tesemma yönetimi devralana kadar onun yerine hükmetmek üzere harekete geçti. Ancak onun yönetimi kısa sürdü ve Menelik'in 1913'teki ölümüne kadar ülkeyi yönetmek üzere bir konsey oluşturuldu. İmparatoriçe, üzüntüsüne rağmen konseyde fikirlerini dile getirmeye davet edilmedi. Menelik'in cenazesi sessiz ve ani oldu. Hiçbir duyuru, hiçbir tören yapılmadı; sadece Etiyopya'nın en olumlu hatırlanan hükümdarlarından birinin sessiz vedasıydı. Mirası arkasında, kimliği modernleşmeye rağmen korunmuş istikrarlı bir ülke bıraktı; ancak son yıllarda Etiyopya'daki diğer etnik gruplar Menelik'in Amhara şovenizmi için tarihten hesap sormaya başladı.</Text>
+		</Row>
+		<!-- units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ETHIOPIAN_OROMO_CAVALRY_CHAPTER_HISTORY_PARA_1">
+			<Text>'Oromo' sözcüğü, toplam nüfusun yaklaşık üçte birini oluşturan Etiyopya'daki baskın etnik grubu ifade eder. Oromolar zaman zaman kendi krallıklarına, dillerine ve dinlerine sahip olmuşlardır (her ne kadar günümüz Etiyopya'sında Müslümanlar ve Hıristiyanlar arasında eşit olarak bölünmüş olsalar da). Birinci İtalya-Habeş Savaşı sırasında, İtalya Etiyopya'yı bir sömürge olarak ele geçirmeye çalıştığında, Etiyopya imparatoru Menelik, özellikle belirleyici Adwa Savaşı'nda yıkıcı bir etki yaratmak için Oromo süvarilerini kullandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ETHIOPIAN_OROMO_CAVALRY_CHAPTER_HISTORY_PARA_2">
+			<Text>Oromo süvarileri gerçek süvari değil, atlı piyadelerdi. Yani at üzerinde silah ateşlemezler, İtalyanlara doğru dörtnala gider, iner ve ardından ateş ederlerdi. Aslan yelesi başlıkları ve korkunç ünleriyle dönemin en korkulan askerî birimlerinden biri hâline geldiler. İtalyan işgali sırasında İtalyan kamplarında, Oromo süvarilerinin (İtalyanların 'Galla' dediği - Oromolar tarafından saldırgan bulunan bir sözcük) silah taşıyan düşmanların cesetlerini hadım edeceği söylentisi yayıldı. Bu söylenti, Oromolar hücuma geçtiği anda birçok İtalyan'ın silahını fırlatıp atmasına neden oldu. İtalyan askerleri, yoldaşlarının Oromolarla yüzleşmektense silahlarını kendilerine çevirdiklerini bildirdi. Bir raporda, Oromo saldırısından kurtulan tek bir İtalyan'ın aklını kaçırmış bir hâlde sadece 'Galla süvarisi. Galla süvarisi. Dehşet. Dehşet.' diyebildiği anlatılır.</Text>
+		</Row>
+		<!-- buildings and districts -->
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_DIPLOMATIC_QUARTER_CHAPTER_HISTORY_PARA_1">
+			<Text>Eski çağlarda bile yabancı liderlerin toplantıları sadece iki kişinin oturup konuşmasından ibaret değildir. Aksine, bu toplantılara büyükelçiler, konsoloslar, yardımcılar, tercümanlar vb. kişilerden oluşan geniş bir ağ eşlik eder. Tüm bu insanların çalışacak bir yere ihtiyacı vardır. Washington D.C.'de Massachusetts Bulvarı'nın bir bölümü tam da bu türden, diplomasiye adanmış bir alan olarak hizmet verir. Bu cadde boyunca sıralanan binalar kimi zaman lüks, kimi zaman mütevazı, kimi zaman eski, kimi zaman yepyenidir ve üzerlerinde birçok ulusun bayrakları dalgalanır. Çoğu ulusun bu tür mahalleleri vardır: Seul'ün Itaewon'u, Pekin'in Chaoyang'ı, Paris'in 7. bölgesi, Abuja'nın Independence ve Constitution caddeleri sadece birkaç örnektir. Burası yabancı liderlerin gelip tartıştığı ve temsilcilerinin bulunduğu yerlerdir. Üstelik sadece yabancılar için değil: diplomatik mahalleler aynı zamanda üniversitelerin uluslararası okulları, düşünce kuruluşları ve lobi şirketleri, yeme, içme ve eğlenme yerleri... ve ayrıca casusluk ve karşı casusluk merkezleridir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_CHANCERY_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir dizi konsolosluk ve büyükelçiliğin oluşturduğu yapıya şansölyelik adı verilir. Diplomatlar burada anlaşmalar hazırlamak ve ilişkileri düzenlemek için bir araya gelir… ve (büyük olasılıkla) casuslarla omuz omuza verir. Bir şansölyelik, ülkedeki yabancı ajanları izlemek ve gözetlemek, ilişkileri geliştirmek (ve diğer ülkelerin neyin peşinde olabileceğini anlamaya çalışmak) için merkezi bir yer sağlar. Bir konsolosluktan daha büyük ve kapsamlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_CONSULATE_CHAPTER_HISTORY_PARA_1">
+			<Text>Konsolosluk, oldukça basit bir şekilde, bir konsolosun çalışma yeri anlamına gelir – bu bağlamda, büyükelçinin daha küçük bir versiyonudur ve bir elçiliğin işlevlerini daha küçük ölçekte yerine getirmek üzere tasarlanmıştır. Bir ülke, örneğin, orada yaşayan veya ziyaret eden vatandaşlarına yardımcı olmak için New York'ta bir konsolosluk kurabilirken, ana elçiliği Washington D.C.'de olabilir. Burada 'konsolosluk' mutlaka buna işaret etmez, aynı zamanda yabancı ileri gelenleri başkente yakın bir yerde – ve yakın gözetim altında – barındırmak için inşa edilmiş bir tesisi de ifade eder.</Text>
+		</Row>
+		<!-- improvements -->
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ROCK_HEWN_CHURCH_CHAPTER_HISTORY_PARA_1">
+			<Text>11. yüzyılda Etiyopyalı Hıristiyanlar kendilerini kopmuş bir hâlde buldular. Önceki yüzyıllarda kadim Hıristiyan merkezlerinden gelen hacılar Kutsal Topraklar'a seyahat edebilirken, Müslüman fetihleri bu yolculukları engelledi. Bunun üzerine Kral Lalibela, evlerine daha yakın, bölgeden gelen hacıların savaşın kasıp kavurduğu bir bölgeyi kat etmek zorunda kalmadan seyahat edebilecekleri kadar etkileyici bir yer inşa etmeye karar verdi. Bu amaçla bir 'Yeni Kudüs' inşasını emretti: Lalibela'nın kayadan oyma kiliseleri.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_ROCK_HEWN_CHURCH_CHAPTER_HISTORY_PARA_2">
+			<Text>Bunlar sıradan kiliseler değildi. Aksine, her biri kapıları, pencereleri, sütunları ve tüm pratik unsurlarıyla (drenaj hendekleri, yer altı mezarları ve münzevi mağaraları) birlikte tek bir devasa taştan oyulmuştu. Bir 'Yeni Kudüs' yaratma emrinin gereği olarak bu kiliseler, İsa'nın doğum yeri ve mezarının kopyalarını da içeriyordu. Böylece ziyaret eden hacılar, canlarını tehlikeye atmadan Tanrı ile bağlantı kurabildiklerini hissedebiliyorlardı. Bunlar, Kıpti Hıristiyanlar için hayati öneme sahip hac ve ibadet yerleriydi – ve hâlâ öyledir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

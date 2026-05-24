@@ -1,0 +1,46 @@
+<GameData>
+	<EnglishText>
+		<!-- Admirals -->
+		<Row Tag="LOC_GREATPERSON_YI_SUN_SIN_EXPANSION2_ACTIVE">
+			<Text>Derhal 1 terfi seviyesine sahip bir Zırhlı Gemi birimi oluşturur. Tur Başına 1 [ICON_RESOURCE_Coal] Kömür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_EXPANSION2_ACTIVE">
+			<Text>Derhal 1 terfi seviyesine sahip bir Zırhlı birimi oluşturur. Tur Başına 1 [ICON_RESOURCE_Coal] Kömür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHESTER_NIMITZ_EXPANSION2_ACTIVE">
+			<Text>Derhal 1 terfi seviyesine sahip bir Denizaltı birimi oluşturur. Tur Başına 1 [ICON_RESOURCE_Oil] Petrol sağlar. Deniz Akıncısı terfi sınıfındaki birimlere yönelik [ICON_Production] Üretimde +20% artış.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_ZHENG_HE_EXPANSION2_ACTIVE">
+			<Text>Bu şehre ücretsiz bir Tüccar birimi sağlar ve [ICON_TradeRoute] Ticaret Yolu kapasitesini 1 artırır. Bu şehre yapılan yabancı [ICON_TradeRoute] Ticaret Yolları, her iki şehre de +2 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_EXPANSION2_ACTIVE">
+			<Text>Tüm deniz birimleri için +3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_EXPANSION2_ACTIVE">
+			<Text>Tüm deniz birimleri için +1 görüş menzili. Tüm deniz birimlerinin normal teknoloji gereksinimi olmadan okyanus bölgelerinde hareket etmesini sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_CHING_SHIH_EXPANSION2_ACTIVE">
+			<Text>500 [ICON_Gold] Altın kazanılır (Standart hızda). Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken %60 daha fazla ödül alır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_EXPANSION2_ACTIVE">
+			<Text>Derhal bir Dört Kürekli birimi oluşturur. Deniz Menzilli terfi sınıfındaki birimlere yönelik [ICON_Production] Üretimde +20% artış.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FRANCIS_DRAKE_EXPANSION2_ACTIVE">
+			<Text>Derhal 1 terfi seviyesine sahip bir Korsan birimi oluşturur. Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken %50 daha fazla ödül alır.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_HORATIO_NELSON_EXPANSION2_ACTIVE">
+			<Text>Bu bölgede derhal bir Deniz Feneri ve Tersane inşa eder. Tüm deniz birimleri için +50% kanatlama bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_GRACE_HOPPER_EXPANSION2_ACTIVE">
+			<Text>Rastgele seçilmiş 2 ücretsiz teknoloji kazanılır.</Text>
+		</Row>
+		<!-- Generals -->
+		<Row Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_EXPANSION2_ACTIVE">
+			<Text>Derhal 1 terfi seviyesine sahip bir Tank birimi oluşturur. Tur Başına 1 [ICON_RESOURCE_Oil] Petrol sağlar.</Text>
+		</Row>
+		<!-- Merchants -->
+		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_EXPANSION2_ACTIVE">
+			<Text>Tur Başına 3 [ICON_RESOURCE_Oil] Petrol sağlar. [ICON_TradeRoute] Ticaret Yollarınız, varış şehrindeki her Stratejik Kaynak için +2 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

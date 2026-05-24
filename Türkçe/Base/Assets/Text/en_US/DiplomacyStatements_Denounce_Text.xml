@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_ANY_ANY">
+			<Text>Bu durum iyileşmeden önce daha da kötüleşecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MVEMBA_ANY">
+			<Text>Hiçbir yanlış yapmadım ve Kongo halkı sizin iftiralarınızı hak etmiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Fransa'nın ihtişamı ve kudreti bu apaçık yalanlarla lekelenemez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CLEOPATRA_ANY">
+			<Text>Yeni İsis'e hakaret etmeye nasıl cüret edersin?!? Bunun bedelini ödeyeceksin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_BARBAROSSA_ANY">
+			<Text>Sana kılıcımla cevap vermem gerek... Belki de veririm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GANDHI_ANY">
+			<Text>Yalanlarınıza bilgeler inanmayacak, akılsızlar ise derslerini alacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GILGAMESH_ANY">
+			<Text>Hah! Gilgameş sizin sahte sözlerinizden daha güçlüdür.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GORGO_ANY">
+			<Text>Sözleriniz, bizim eylemlerimizin yanında anlamsız kalır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HARDRADA_ANY">
+			<Text>Hah, daha küçük hakaretler için krallıkları yakıp yıktım. Bunun hesabını vereceksin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HOJO_ANY">
+			<Text>Boş sözler tehdit değildir. Bana eylem, amaç ve disiplin göster!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PEDRO_ANY">
+			<Text>Bu durum iyileşmeden önce daha da kötüleşecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PERICLES_ANY">
+			<Text>Tüm liderler nefret ve sevimsizlikle karşılaşır; eğer büyük bir hedefin peşindeyse, bu kıskançlık yükünü kabullenmek zorundadır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PETER_GREAT_ANY">
+			<Text>Halkım, sizin ordunuzdan daha tehlikeli kışları atlatmıştır. Tehditlerinizden korktuğumuzu mu sanıyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_PHILIP_II_ANY">
+			<Text>Rab'bin meshedilmiş kuluna karşı gelmekten daha büyük bir günah yoktur. Bunun bedelini ağır ödeyeceksiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY">
+			<Text>Demek bir böcek, bir ejderhayı gücendirmeye cüret ediyor. Bu pek akıllıca değildi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SALADIN_ANY">
+			<Text>Herkes başkalarının kusurlarını eleştirir, kendi kusurlarına karşı ise kördür.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_T_ROOSEVELT_ANY">
+			<Text>Ne cüret!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMYRIS_ANY">
+			<Text>Kimse sizin içi boş yalanlarınıza inanmayacak. Tomyris, layık olana iyi bir dosttur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TRAJAN_ANY">
+			<Text>Demek doğruymuş: Kıskançlıkla dolu olan, iyi ya da kötü her şeyi yerer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_VICTORIA_ANY">
+			<Text>Kraliçe, halkına ve onun yetkisine saygısızlık edenleri, bunun ardından gelecek pek çok sıkıntı konusunda uyarmak ister.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_ANY_ANY">
+			<Text>Dünya, günahlarının farkına varmalı. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MVEMBA_ANY">
+			<Text>Bu dünyanın başına bir belasın. Adın çağlar boyu lanetle anılacak. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+			<Text>Ne yaptığının pek de hoşuma gitmediğini söylemeliyim. Bu bilgiyi duyunca dostların ne düşünür acaba? (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+			<Text>Brutus ile Cassius'tan bile betersin. Dünya gerçeği öğrenecek! (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+			<Text>Dünya ihanetini öğrenecek. Ve yargılanacaksın. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GANDHI_ANY">
+			<Text>Güvenilmezsin; bu, şiddetin en kötü türüdür. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GILGAMESH_ANY">
+			<Text>Dünya sözlerimi işitsin: İştar kadar hainsin. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GORGO_ANY">
+			<Text>Sofistlerden bile betersin. Dünyanın geri kalanı da bilsin. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HARDRADA_ANY">
+			<Text>Odin'in sofrasında sana yer yok. Yüzkarasısın. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HOJO_ANY">
+			<Text>Aptal ve basit bir lidersin. Halkın da gerçeği bilmeli. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PEDRO_ANY">
+			<Text>Dünya, günahlarının farkına varmalı. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PERICLES_ANY">
+			<Text>Senin gibi zalimler iğrençtir. Halkın sözlerimin doğruluğunu öğrenecek. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+			<Text>Hayatımda çok şey gördüm ama bu kadar aşağılık bir lider görmedim. Utanmalısın ve utanacaksın. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_PHILIP_II_ANY">
+			<Text>Rab'be ihanet etmeye gelen bir başka Yahuda'sın. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY">
+			<Text>İtibarın sonsuza dek lekelendi. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SALADIN_ANY">
+			<Text>Halkım der ki zalimin evi harabedir... ve etrafında gördüğüm tek şey harabe. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+			<Text>Onursuz bir hükümdara tahammül edemem ve dünya bunu bilmeli. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMYRIS_ANY">
+			<Text>Sefil bir yalancısın ve güvenilmezsin! Türünün en kötüsüsün. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TRAJAN_ANY">
+			<Text>Yüzkarasısın. Dünyaya anlatacağım, kim olduğunu herkes bilecek. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_VICTORIA_ANY">
+			<Text>Yönetiminizle hiçbir işimiz olmayacak. İşte buradan kınıyoruz sizi. (Sizi kınıyor.)</Text>
+		</Row>
+		<!-- Diplomatic rationales for denouncement -->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_OPPORTUNITY">
+			<Text>(Muhtemelen bize savaş ilan etmeyi planlıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ARCHAEOLOGY">
+			<Text>(Onlara ait bir Tarihi Eseri topraktan çıkardın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_BROKEN_PROMISE">
+			<Text>(Onlara verdiğin sözü tutmadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NO_PROMISE">
+			<Text>(Onlara bir söz vermeyi reddettin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CONVERTED_CITY">
+			<Text>(Şehirlerinden birini dininden döndürdün.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_CULTURE_BOMB">
+			<Text>(Şehirlerinden birine Kültür Bombası uyguladın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DEMAND">
+			<Text>(Onlardan ticaret malları talep ettin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_DENOUNCED">
+			<Text>(Onları kınadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_ESPIONAGE">
+			<Text>(Onlara karşı görevler için Casuslar gönderdin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_GOVERNMENT_DIFFERENT">
+			<Text>(Farklı hükümetlere sahipsiniz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_INCURSION">
+			<Text>(Güçlerin topraklarına tecavüz ediyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_NEAR_BORDER_WARNING">
+			<Text>(Askerlerini sınırlarında tutuyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_CITY">
+			<Text>(Şehirlerinden birini işgal ediyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_OCCUPIED_FRIENDLY_CITY">
+			<Text>(Müttefiklerinin şehirlerinden birini işgal ediyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RANDOM">
+			<Text>(Senden hiç hoşlanmıyorlar.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_RAZED_MY_CITY">
+			<Text>(Şehirlerinden birini yerle bir ettin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMACY_SETTLED_CITIES">
+			<Text>(Kendi toprakları olarak gördükleri bir bölgeye yerleştin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+			<Text>(Seni bir savaş kışkırtıcısı olarak görüyorlar.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_SURPRISE_WAR_ON_FRIEND">
+			<Text>(Arkadaşlarıyla savaşa girdin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DENOUNCED_FRIEND">
+			<Text>(Arkadaşlarını kınadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_DECLARED_FRIENDSHIP_WITH_ENEMY">
+			<Text>(Onların düşmanıyla dostluk bildirisi yaptın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_3RD_PARTY_ALLIED_WITH_ENEMY">
+			<Text>(Düşmanlarıyla ittifak kurdun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ALLY_OF_ENKIDU_DENOUNCED_FRIEND">
+			<Text>(Onların dostunu kınadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_AYYUBID_DYNASTY">
+			<Text>(Onun dini yapısı hiçbir şehrinde bulunmuyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BACKSTAB_AVERSE_SURPRISE_WAR">
+			<Text>(Sürpriz savaş ilan ettin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BLACK_QUEEN">
+			<Text>(Casuslukta zayıfsın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BUSHIDO">
+			<Text>(İnanç ve Kültürde zayıfsın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CONTINENT_ATTACKED">
+			<Text>(Onların kıtasındaki bir oyuncuya saldırdın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HAS_DESIRED_LUXURY">
+			<Text>(Onların göz diktiği bir Lüks Mal'a sahipsin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAST_VIKING_KING">
+			<Text>(Donanman zayıf.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_GREAT_PEOPLE">
+			<Text>(Onlardan daha fazla Büyük Kişiye sahipsin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LAGS_PROGRESS">
+			<Text>(Bilim ve Kültürde geridesin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_LEADS_WONDERS">
+			<Text>(Onlardan daha fazla Harikaya sahipsin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_NEVER_AT_WAR">
+			<Text>(Hiç savaşa girmedin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_PAID_FOR_PEACE">
+			<Text>(Barış için ödeme yaptın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_WARMONGER">
+			<Text>(Bir savaş kışkırtıcısısın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_ENCROACHING_RELIGION">
+			<Text>(Şehirlerini dinine döndürüyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_COMPETING_MINORS">
+			<Text>(Onlarla şehir devletleri için rekabet ediyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_RELIGION_NOT_RECEIVED">
+			<Text>(Dinini onlara yaymadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MODIFIER_CONQUERING_ALLYING_MINORS">
+			<Text>(Çok fazla şehir devletinde benden daha fazla elçin var.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_OPTIMUS_PRINCEPS">
+			<Text>(Çok sınırlı toprağa hükmediyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_QUEEN_OF_NILE">
+			<Text>(Zayıfsın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SUN_SETS_NEW_CONTINENT">
+			<Text>(Varlık göstermek istedikleri bir kıtaya yerleştin.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_CULTURE">
+			<Text>(Kültürün çok düşük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INDUSTRY">
+			<Text>(Üretimin çok düşük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_HAPPINESS">
+			<Text>(Halkının Olanakları yetersiz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_INCOME">
+			<Text>(Gelirin çok düşük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_POPULATION">
+			<Text>(Nüfusun çok düşük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_SCIENCE">
+			<Text>(Bilimin çok düşük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_STANDING_ARMY">
+			<Text>(Düzenli ordun çok küçük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PARANOID">
+			<Text>(Senden korkuyorlar.)</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ZEALOT">
+      <Text>(Şehirlerinin çoğunda onların dinine izin vermedin.)</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

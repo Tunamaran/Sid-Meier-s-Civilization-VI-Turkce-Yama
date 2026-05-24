@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Sejong-->
+		<Row Tag="LOC_DIPLO_MODIFIER_SEJONG_LAGGING">
+			<Text>Sejong, Bilim ve Kültür alanında geri kalmış olmanızdan memnuniyet duyar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SEJONG_LEADING">
+			<Text>Sejong, Bilim ve Kültür seviyenizden ötürü hayal kırıklığına uğramıştır.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SEJONG_NAME">
+			<Text>Neo-Konfüçyüsçülük</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SEJONG_DESCRIPTION">
+			<Text>Bilim ve Kültür'de geri kalmış uygarlıklara dostça yaklaşır. Kendisinden [ICON_Science] Bilim ve [ICON_Culture] Kültür'de ileride olan uygarlıkları sevmez.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SEJONG_ANY">
+			<Text>Ben, şiddet dolu bölünmenin kol gezdiği diyarlara sükûnet düzeni getiren Sejong'um.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Joseon, sizin kötü tesirinizden kurtulacak!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Topraklarımızı gölgeniz çok uzun süre karanlığa boğdu! Sizin gelmenizi beklemeyeceğiz - biz size geliyoruz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SEJONG_ANY">
+			<Text>Gerçek bir bilgin, liderlik eder ve izlenecek bir örnek teşkil eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SEJONG_ANY">
+			<Text>Yanlış bir yola adım atmak, ilerleme değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Ordularımı yenebilir, şehirlerimi yağmalayabilirsin. Ancak kalbimizde size karşı besleyeceğimiz kini asla silemezsin.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Birbirimize Yol'da rehberlik edebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Birlikte olacağım kişileri iyi seçmeliyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Sadece dostlarımızdan öğrenerek büyürüz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Barış işe yarayacaktır - yeter ki kendi rollerimizi bilelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Bizim özenle çizdiğimiz sınırları bir öküz gibi çiğniyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Heyetinizi Anapci'deki antik göle götürdük, orada şiirler yazdık ve alacakaranlıkta şarap kadehlerini suya bıraktık. Heyetinizin şiirleri... pek iyi değildi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Biz sınırlarımıza iyi sahip çıkarız, siz de kendinizinkine sahip çıkın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>İşte bir surasang! Joseon'da yenebilecek her güzel şeyin yemekleri - sura, jjim, tang ve dokuz farklı türde kimçi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Öfkeyle söylenen sözlerin yapıcı bir faydası yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Burada derin bir hataya düştünüz. (Sizi kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SEJONG_ANY">
+			<Text>Topraklarınız etkileyici, ancak yine de yurdumuza dönmeyi özlüyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SEJONG_ANY">
+			<Text>Elbette.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SEJONG_ANY">
+			<Text>Başkalarının diyarlarını anlamalıyız ki daha iyi öğrenebilelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SEJONG_ANY">
+			<Text>Bugün birbirimizden nasıl ders alabiliriz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>İki direkli bir gemi daha hızlı yol alır, öyle değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SEJONG_ANY">
+			<Text>Zorlukların sonunda mutluluk vardır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SEJONG_ANY">
+			<Text>Hâlâ bir kin besliyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Topraklarınız etkileyici, ancak yine de yurdumuza dönmeyi özlüyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Birlikte yürüyelim ve gelişelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEJONG_ANY">
+			<Text>Size yeterince güvenmiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Halklarımız arasındaki dostluğu artırırsak bilgimizi birlikte genişletebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SEJONG_ANY">
+			<Text>Sınırlarımdaki tehditleri görmezden gelerek büyük bir kral olmadım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Bu olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SEJONG_ANY">
+			<Text>Birlikte büyüyeceğiz.</Text>
+		</Row>
+		<!-- Ludwig II-->
+		<Row Tag="LOC_CITY_NAME_MUNICH_CAPITAL">
+			<Text>Münih</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LUDWIG_REASON_ANY">
+			<Text>(Şehirlerinizi bölgelerle doldurdunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LUDWIG_REASON_ANY">
+			<Text>(Şehirlerinizi mümkün olan tüm bölgelerle doldurmuyorsunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ETERNAL_LAGGING">
+			<Text>Ludwig, bölge inşasında geride kaldığınız için memnun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_ETERNAL_LEADING">
+			<Text>Ludwig, şehirlerinizi bölgelerle doldurduğunuz için mutsuz.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETERNAL_NAME">
+			<Text>Ebedi Muamma</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ETERNAL_DESCRIPTION">
+			<Text>Her şehirde azami sayıda Bölge bulundurmayan medeniyetleri sever. Mümkün olduğunca çok Bölge inşa eden medeniyetleri sevmez.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LUDWIG_ANY">
+			<Text>Ben Bavyeralı Ludwig, bu toprakların Kralı ve efsanelerin Kuğu Şövalyesi'nin vücut bulmuş haliyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Alçak! Ne kadar da aşağılıksın, tıpkı o Kont Telramund gibi! Tıpkı o Fafnir gibi!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Hadi bakalım, karşınızdayım! Bu günün yeni efsanelerini yazacağız!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LUDWIG_ANY">
+			<Text>Anavatanının ormanlarına ve göllerine değer vermeyi iyi biliyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LUDWIG_ANY">
+			<Text>Şehirlerini bir muhasebe defteri gibi düzenliyorsun: işte bilim insanlarının gideceği yer, şu bölge şairler için. Ne bayağılık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Belki Orman ile Dünya arasındaki yolda karşılaşabiliriz.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Tüm kalbimle dostluğunu kabul ediyorum. Şimdi yalnız kalabilir miyim?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Müziğim ve sanatım varken dostlara ne ihtiyacım var?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Haydi dost olalım! Yeter ki sık sık görüşmek zorunda kalmayalım. Ve bir maske takman gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Fantastik. Lütfen gidin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Çok yazık. Lütfen gidin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Heyetiniz başkentimde dokuz saat süren bir Alman romantik müziği dinletisine katıldı. Gözlerinde yaşlar gördüm, o kadar beğenmişlerdi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>O gece planlarım var. Okumayı ve ağaçlardaki yağmuru düşünmeyi planlıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Sana yüz tane kuğu gönderdim- elli kuğ- Affedersin, onları iyi bağlayamamışım. Sana bir kuğu gönderdim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Bu... bu pek hoş bir davranış değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Şövalyelik kurallarım seni bir alçak ve hain olarak kınamamı emrediyor. İşte. Kınandın. (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LUDWIG_ANY">
+			<Text>Gel, kuğu mağarasını gör. Evimin kulelerini ve çatılarını izle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LUDWIG_ANY">
+			<Text>Öyle olsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LUDWIG_ANY">
+			<Text>Bana topraklarının şarkılarını söyle! Kuğuların var mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LUDWIG_ANY">
+			<Text>Tam burada okuyordum. Sen kimdin acaba?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>İttifak kuralım mı? İşte, bu pelerini ve maskeyi siz giyinin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LUDWIG_ANY">
+			<Text>Savaşta mıydık?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LUDWIG_ANY">
+			<Text>Savaşçılarımdan en heyecan verici yiğitlik hikâyeleri topluyorum; şimdi duramam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Az önce bana savaşta olduğumuzu söylediler! İnsanlar birbirini öldürmeye çalışıyor! Hikâyelerde harika olur ama şimdi buna bir son verelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Ormanlarımı ve derelerimi, saraylarımı ve kalelerimi ziyaret edebilirsiniz. Yalnız önce ben orada değil miyim diye bir bakın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LUDWIG_ANY">
+			<Text>Ah, orman ruhlarının vahşeti size yaklaşırsanız sizi dehşete düşürür! Böylesi daha iyi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Uzak diyarların hikâyelerini arıyoruz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LUDWIG_ANY">
+			<Text>Şövalyeliğin ateşli kalbi askerlerimin göğsünde atıyor, sizin toplanan birliklerinize bakarlarken. Yalvarırım, onları son derece görkemli kahramanlık eylemlerine kışkırtmayın!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Kuğu Şövalyesi'ne kırk metrelik bir anıt dikeceğim ve bunu böyle anlaşmalarla yapamam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LUDWIG_ANY">
+			<Text>Ne hoş. Mağarada bir resepsiyon vereceğiz. Gece tabii ki.</Text>
+		</Row>
+		<!-- Theodora-->
+		<Row Tag="LOC_DISTRICT_FARM_1_FAITH">
+			<Text>+{1_num} [ICON_Faith] İnanç, bitişikteki {1_Num : plural 1?Çiftlik; other?Çiftlikler;} sayesinde.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NEW_ROME_NAME">
+			<Text>Yeni Roma</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_NEW_ROME_DESCRIPTION">
+			<Text>[ICON_Culture] Kültür biriktirmeye çalışır ve aynı zamanda [ICON_Culture] Kültür'e odaklanan uygarlıkları sever.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_THEODORA_ANY">
+			<Text>Ben Theodora, yoktan var olup tahta yalnızca hayallerle çıkan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Hiç kimse imparatoriçeyi köşeye sıkıştıramaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Halkım daha iyi bir yaşam talep ediyor. Siz bu oluşun önünde duruyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_THEODORA_ANY">
+			<Text>Gücü dekorlar ve sahne düzenleriyle, şiir ve zarafetle yaratırız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_THEODORA_ANY">
+			<Text>Elbette hayat, sizin sunduklarınızdan daha fazlası değil midir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Taht, şanlı bir mezardır.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Ne hoş. Tahmin edilebilir ama hoş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Bir sosyete dalkavuğunu ancak bir başka sosyete dalkavuğu tanır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Dostluk ve sohbet, her başarının kalbidir, öyle değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Demek Roma'nın cazibesi işe yarıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Yapacak daha iyi işlerim ve konuşacak daha önemli insanlarım var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Heyetinizi araba yarışlarına götürdük, fakat ne yazık ki Yeşiller'i desteklediler. Geriye kalanları size iade ediyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Heyetine önce biraz görgü öğret, belki o zaman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Size Leda ve Kuğu'yu canlandırmaları için bir dansçı topluluğu gönderiyoruz. Fazla şoke olmamaya çalışın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Şok oldum. Daha kötülerini duymuştum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Bir de kendine bak. Halkın adaletsizliklerden mustarip, dostların seni terk ediyor ve anlaşılan terzin de grevde. (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_THEODORA_ANY">
+			<Text>Gelin, boğazlardan geçen gemileri görün, hipodromda arabacıların naralarını işitin; gelin ve ihtişamımızı seyredin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_THEODORA_ANY">
+			<Text>Doğru anlaşma olursa, razıyım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_THEODORA_ANY">
+			<Text>İmparatorluğumuzu ve onun nimetlerini size gösterelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_THEODORA_ANY">
+			<Text>Sana söz hakkı tanıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Bir ortaklığın değerini her zaman bilmişimdir. Bir tane kuralım mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_THEODORA_ANY">
+			<Text>Savaşlar, Hipodrom'da çok daha eğlenceli oluyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_THEODORA_ANY">
+			<Text>Askerlerimiz bu kadar yolu, sırf eve dönmek için mi geldi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Zekâ ve söz savaşları, spor ve maharet dövüşleri çok daha ilginçtir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Dünyanın kavşak noktasında durduğumuzun farkındayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_THEODORA_ANY">
+			<Text>Dünyanın kavşak noktasını kontrol ediyoruz, bu da bize hayır deme gücü veriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>İmparatorluğumuz sınırlarını genişletiyor; bu gayemize ortak olur musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_THEODORA_ANY">
+			<Text>İmparatorluğumuza dostlar, ziyaretçiler, hacılar olarak gelin. Fakat asker sıfatıyla değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Hadi ama, daha iyisini sunabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_THEODORA_ANY">
+			<Text>Haydi, bu tasarıyı hayata geçirelim.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

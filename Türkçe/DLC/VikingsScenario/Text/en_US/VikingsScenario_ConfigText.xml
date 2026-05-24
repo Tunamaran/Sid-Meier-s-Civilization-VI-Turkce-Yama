@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Map Name -->
+		<Row Tag="LOC_VIKING_SCENARIO_MAP_NAME">
+			<Text>Midgard</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION">
+			<Text>Vikinglerin diyarı.</Text>
+		</Row>
+		<!--Game Speed-->
+		<Row Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME">
+			<Text>Valhalla</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP">
+			<Text>Sonsuz savaşın temposu.</Text>
+		</Row>
+		<!-- Eras -->
+		<Row Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME">
+			<Text>Lindisfarne</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION">
+			<Text>Lindisfarne Çağı, Vikinglerin başlangıcı.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME">
+			<Text>Rus</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION">
+			<Text>Rus Çağı, Vikinglerin zirvesi.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME">
+			<Text>Hastings</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION">
+			<Text>Hastings Çağı, Vikinglerin alacakaranlığı.</Text>
+		</Row>
+		<!-- Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION">
+			<Text>Danimarka İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION">
+			<Text>İsveç İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION">
+			<Text>Endülüs Halifeliği</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION">
+			<Text>Bizans İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION">
+			<Text>Frank İmparatorluğu</Text>
+		</Row>
+		<!--Leader Names-->
+		<Row Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME">
+			<Text>II. Hakem</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME">
+			<Text>II. Basil</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME">
+			<Text>Şarlman</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_CNUT_NAME">
+			<Text>Knut</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SCENARIO_OLOF_NAME">
+			<Text>Olof Skötkonung</Text>
+		</Row>
+		<!-- Civilizations-->
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME">
+			<Text>Danimarka</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME">
+			<Text>İsveç</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME">
+			<Text>Endülüs</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME">
+			<Text>Bizans</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME">
+			<Text>Francia</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_SCENARIO_VIKING_NAME">
+			<Text>Viking</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION">
+			<Text>Birimler, gemiye binme ve gemiden inme sırasında ek hareket maliyetlerini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME">
+			<Text>Frank</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION">
+			<Text>Mt. St. Michel Harikası, Rouen'de bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME">
+			<Text>Mağrib</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION">
+			<Text>Elhamra Harikası, İşbiliye'de bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME">
+			<Text>Bizans</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION">
+			<Text>Ayasofya Harikası, Konstantinopolis'te bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME">
+			<Text>Kuzey Denizi İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION">
+			<Text>Fazladan bir askeri politika yuvasına sahiptir. Yerleşimci, Viking Uzun Gemisi, Misyonerler ve Liman inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION">
+			<Text>Deniz birimleri +2 hareket puanına sahiptir. Yerleşimci, Viking Uzun Gemisi, Misyonerler ve Liman Bölgesi inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME">
+			<Text>Hazine Kralı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION">
+			<Text>Fazladan bir ekonomi politika yuvasına sahiptir. Yerleşimci, Viking Uzun Gemisi, Misyonerler ve Liman Bölgesi inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PIOUS_NAME">
+			<Text>Dindar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION">
+			<Text>Teokrasi ve Şövalye inşa etme yeteneği ile başlar.</Text>
+		</Row>
+		<!-- Scenario Name and Description-->
+		<Row Tag="LOC_VIKING_SCENARIO_NAME">
+			<Text>Vikingler, Tüccarlar ve Akıncılar!</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_TOOLTIP">
+			<Text>Bir Viking kralı olarak en büyük serveti biriktirebilir misin? 60 Tur sürer.</Text>
+		</Row>
+		<Row Tag="LOC_VIKING_SCENARIO_DESCRIPTION">
+			<Text>Bu 60 turluk senaryoda, en güçlü Viking lordu olarak Avrupa'yı hükmün altına al. Danimarka, Norveç veya İsveç'ten üç eşsiz Viking hükümdarından biri olarak oyna ve Avrupa'da yağma ve akın rotanı çiz. İngiltere'ye bir deniz istilası başlat, Paris'i fethet ya da Cebelitarık'ı dolaşıp Akdeniz'i yağmala.[NEWLINE][NEWLINE]Ana vatanda, en kârlı şehirlerle ticaret yolları biriktirerek bir tüccar imparatorluğu inşa et. Eğer bir dine bağlanırsan, iyi haberi yay ve halkın için [ICON_Faith] İnanç üret.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_VIKING_SCENARIO">
+			<Text>Bir Viking lordunun değeri nedir? Emrinde, bilinen dünyanın okyanuslarında seni takip edecek denizci savaşçılar var. Uzun gemilerin, servetini kıyıların gözü önünde saklayanların kalplerine gölge düşürür. Ama sırf yağma olsun diye yağmalamak basit haydutluktur. Sen, lordum, ne basitsin ne de haydut. Onlara gösteriş yaptıkları servetin acı gerçeğini öğret—eğer onu koruyamıyorlarsa, o servet asla onların olmamıştır.</Text>
+		</Row>
+		<!--Units Name-->
+		<Row Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME">
+			<Text>Süvariler</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME">
+			<Text>Farfanlar</Text>
+		</Row>
+		<!--Units Description-->
+		<Row Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION">
+			<Text>Vikinglere özel eşsiz birim. Bu birim düşman topraklarında tura başlarsa 4 [ICON_Movement] Hareket puanı. Saldırırken +10 [ICON_Strength] Muharebe Gücü, savunurken -5 [ICON_Strength] Muharebe Gücü. Öldürmelerden Büyük General puanı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION">
+			<Text>Vikinglere özel, Kadırga'nın yerini alan eşsiz deniz birimi. Bitişikteyse düşman kıyı topraklarını yağmalayabilir ve sivilleri ele geçirebilir. Tarafsız bölgede iyileşebilir. Öldürmelerden Büyük Amiral puanı kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION">
+			<Text>Francia'ya özel, Şövalye'nin yerini alan eşsiz birim. Hasar aldığında muharebe cezası çekmez.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION">
+			<Text>Endülüs'e özel eşsiz birim. Kendi topraklarında veya bitişiğinde daha iyi savaşan hafif süvari birimi. Hareket puanı kaldıysa saldırdıktan sonra hareket edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION">
+			<Text>Yeni şehirler kurabilen Vikinglere özel eşsiz birim.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION">
+			<Text>Bizans'a özel eşsiz birim. İlk menzilli deniz birimi.</Text>
+		</Row>
+		<!--District Description-->
+		<Row Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION">
+			<Text>Şehrinde deniz faaliyetleri için Vikinglere özel bir bölge. Ayrıca bu bölgeye asker çıkarma ve bindirme sırasındaki [ICON_Movement] Hareket cezasını kaldırır. Kara bölgesine bitişik Kıyı veya Göl Arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi.[NEWLINE][NEWLINE]Komşuluk: Bitişikteki her kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Bitişik bölge hücreleri için Küçük [ICON_Gold] Altın bonusu.</Text>
+		</Row>
+		<!--Improvements Name-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME">
+			<Text>Alkazar</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME">
+			<Text>Manastır</Text>
+		</Row>
+		<!--Improvements Description-->
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION">
+			<Text>Tahkimat, [ICON_Faith] İnanç ve [ICON_Gold] Altın sağlayan Endülüs geliştirmesi.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION">
+			<Text>Frenk, Bizans ve Şehir Devleti geliştirmesi. [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Tree Randomizer -->
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_CONTENT_TITLE">
+			<Text>Teknoloji ve Yönetim Biçimi Karıştırma Modu</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_TITLE">
+			<Text>Karşılama</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TREE_RANDOMIZER_CHAPTER_WELCOME_PARA_1">
+			<Text>Bu oyun modu, teknolojileri ve yönetim bilimlerini kendi tarihsel çağları içinde karıştırarak normalden farklı maliyetler ve ön koşullar oluşturur. Ortaya çıkan ağaçlar tüm oyuncular için aynıdır. Teknolojiler ve yönetim bilimleri, bir ön koşul elde edilene kadar gizli kalır; böylece keşif gizemi oyunun sonuna kadar korunur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

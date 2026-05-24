@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- FrontEnd Text -->
+		<Row Tag="LOC_EXPANSION1_NAME">
+			<Text>Genişleme Paketi: Yükseliş ve Çöküş</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION1_DESCRIPTION">
+			<Text>Bu oyun, Büyük Çağlar, Bağlılık, Valiler ve Acil Durumlar içeren Yükseliş ve Çöküş Genişleme Paketi'ni kullanmaktadır. Halkınızı bir refah Altın Çağı'na yönlendirebilecek misiniz? Yoksa imparatorluğunuz bir Karanlık Çağ'ın zorluklarıyla mı yüzleşecek?</Text>
+		</Row>
+		<!-- Map Config Text -->
+		<Row Tag="LOC_MAP_ARCHIPELAGO_NAME">
+			<Text>Takımadalar</Text>
+		</Row>
+		<Row Tag="LOC_TSLEUROPE_NAME">
+			<Text>Gerçek Başlangıç Konumu: Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_TSLEUROPE_DESCRIPTION">
+			<Text>Uygarlıklar, Avrupa haritasındaki tarihi başkentlerinin bulunduğu konumdan başlar.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EUROPE_NAME">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_MAP_EUROPE_DESCRIPTION">
+			<Text>Avrupa'nın kaynaklarını, arazisini ve özelliklerini tarihi konumlarını yansıtacak şekilde gösteren bir haritadır.</Text>
+		</Row>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_NAME">
+			<Text>Narin Kemeri</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
+			<Text>Tek bölmeli, geçilemez bir doğa harikası. Komşu bölgelere +2 [ICON_FAITH] İnanç ve +1 [ICON_GOLD] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
+			<Text>Sahra'nın Gözü</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION">
+			<Text>Üç bölgeli bir doğa harikası. +1 [ICON_PRODUCTION] Üretim sağlar. Oyun Atom Çağı'na ulaştığında ek olarak +1 [ICON_PRODUCTION] Üretim ve +3 [ICON_SCIENCE] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_NAME">
+			<Text>Matterhorn</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
+			<Text>Tek bölmeli, geçilemez bir doğa harikası. Komşu bölgelere +1 [ICON_CULTURE] Kültür sağlar. Matterhorn'un yanına hareket eden kara muharebe birimleri, oyunun geri kalanında Tepeleri yok sayar ve tepelerde savaşırken +3 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_NAME">
+			<Text>Roraima Dağı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
+			<Text>Dört bölgeli, geçilemez bir doğa harikası. Komşu bölgelere +1 [ICON_FAITH] İnanç ve +1 [ICON_SCIENCE] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
+			<Text>Ubsunur Çukuru</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION">
+			<Text>Dört bölgeli bir doğa harikası. +2 [ICON_FAITH] İnanç, +1 [ICON_FOOD] Besin ve +1 [ICON_PRODUCTION] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_NAME">
+			<Text>Zhangye Danxia</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ZHANGYE_DANXIA_DESCRIPTION">
+			<Text>Üç bölgeli, geçilemez bir doğa harikası. Bu bölgelerden en az birine sahipseniz 2 [ICON_GREATGENERAL] Büyük General puanı ve 2 [ICON_GREATMERCHANT] Büyük Tüccar puanı sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_NAME">
+			<Text>Retba Gölü</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION">
+			<Text>İki bölgeli bir doğa harikası. Göl olarak görünür ve +2 [ICON_CULTURE] Kültür, +2 [ICON_GOLD] Altın ve +1 [ICON_PRODUCTION] Üretim sağlar. Tatlı Su sağlamaz.</Text>
+		</Row>
+		<!-- Player Config Text -->
+		<!-- District Config Text -->
+		<Row Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
+			<Text>Copacabana</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
+			<Text>Brezilya'ya özgü bir bölge. Su Parkı bölgesinin yerini alır ve +2 [ICON_Amenities] Olanak sağlar. Ayrıca Karnaval projesini açar; bu proje devam ederken ek +1 [ICON_Amenities] Olanak ve tamamlandığında çeşitli [ICON_GreatPerson] Büyük Kişi puanı kazandırır. Sokak Karnavalı olan bir şehirde inşa edilemez. Resif üzerine inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
+			<Text>Brezilya'ya özgü bir bölge. Eğlence Kompleksi bölgesinin yerini alır ve +2 [ICON_Amenities] Olanak sağlar. Ayrıca Karnaval projesini açar; bu proje devam ederken ek +1 [ICON_Amenities] Olanak ve tamamlandığında çeşitli [ICON_GreatPerson] Büyük Kişi puanı kazandırır. Copacabana olan bir şehirde inşa edilemez.</Text>
+		</Row>
+		<!-- Unit Config Text -->
+		<Row Tag="LOC_UNIT_ZULU_IMPI_NAME">
+			<Text>İmpi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
+			<Text>Zulu'ya özgü Orta Çağ birimi olup Kargıcı'nın yerini alır. Artırılmış Kanatlama bonusu, düşük maliyet ve düşük bakım. Daha hızlı Tecrübe (XP) kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
+			<Text>Hwacha</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
+			<Text>Kore'ye özgü Rönesans Çağı birimi olup Saha Topu'nun yerini alır. Yüksek [ICON_Ranged] Menzilli Saldırı Gücü. Aynı turda hareket edip saldıramaz.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
+			<Text>Dağlı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>İskoçya'ya özgü Sanayi Çağı birimi olup Korucu'nun yerini alır. Güçlü bir keşif birimi. Tepe ve Orman arazisinde savaşırken +5 [ICON_Strength] Muharebe Gücü bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
+			<Text>De Zeven Provinciën</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>Hollanda'ya özgü Rönesans Çağı birimi olup Fırkateyn'in yerini alır. Savunulabilir bölgelere saldırırken +7 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
+			<Text>Keşik</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Moğolistan'a özgü Orta Çağ Menzilli Süvari birimi. Hareket halindeki sivil ve destek birimlerine kendi yüksek [ICON_Movement] Hareket hızında refakat edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
+			<Text>Khevsur</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>Gürcistan'a özgü Orta Çağ birimi olup Zırhlı Piyade'nin yerini alır. Tepe arazisinde savaşırken +7 [ICON_Strength] Muharebe Gücü bonusu. Tepe arazisinde [ICON_Movement] Hareket cezası yok.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
+			<Text>Malon Akıncısı</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>Mapuçe'ye özgü Rönesans Çağı birimi. Dost bölgeye 4 kare mesafe içindeyse +5 [ICON_Strength] Muharebe Gücü bonusu. Yağmalama 1 [ICON_Movement] Hareket harcar.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
+			<Text>Okihtcitaw</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Kri'ye özgü Antik Çağ birimi olup İzci'nin yerini alır. Güçlü bir keşif birimi. 1 ücretsiz terfi ile başlar.</Text>
+		</Row>
+		<!-- America -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
+			<Text>Mevcut hükümetteki tüm Diplomatik politika yuvaları Joker yuvalarına dönüştürülür.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FILM_STUDIO_EXPANSION1_DESCRIPTION">
+			<Text>Amerika'ya özgü bir bina. Oyun Modern Çağ'a girdiğinde bu şehirden diğer medeniyetlere yönelik [ICON_Tourism] Turizm baskısı +%100 oranında artar.</Text>
+		</Row>
+		<!-- China -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Buluşlar ve [ICON_CivicBoosted] İlhamlar, %40 yerine Yönetim Bilimleri ve Teknolojilerin %50'sini sağlar. Bir harika tamamlandığında, varsa o harikanın çağından rastgele bir [ICON_TechBoosted] Buluş ve [ICON_CivicBoosted] İlham kazanılır.</Text>
+		</Row>
+		<!-- Cleopatra -->
+		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
+			<Text>Diğer medeniyetlere giden [ICON_TradeRoute] Ticaret Yollarınız Mısır için +4 [ICON_Gold] Altın sağlar. Diğer medeniyetlerin Mısır'a giden [ICON_TradeRoute] Ticaret Yolları onlara +2 [ICON_Food] Besin ve Mısır'a +2 [ICON_Gold] Altın sağlar. Müttefiklerle ticaret yapmak iki kat daha fazla bonus İttifak Puanı kazandırır.</Text>
+		</Row>
+		<!-- Chandragupta -->
+		<Row Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
+			<Text>Chandragupta</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
+			<Text>Arthashastra</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
+			<Text>Askeri Eğitim Yönetim Bilimi elde edildikten sonra Toprak Genişletme Savaşı ilan edilebilir. Toprak Genişletme Savaşı ilanından sonraki ilk 10 tur boyunca +2 [ICON_Movement] Hareket ve +5 [ICON_Strength] Muharebe Gücü sağlar.</Text>
+		</Row>
+		<!-- England -->
+		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
+			<Text>İngiltere'ye özgü, şehrinizdeki deniz faaliyetleri için bir bölge. Liman Bölgesi'nin yerini alır. Ayrıca bu bölgeye çıkarma ve bu bölgeden denize açılma [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl Arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Tersanede inşa edilen tüm deniz birimlerine +1 [ICON_Movement] Hareket[NEWLINE]Yabancı bir kıtada inşa edildiğinde tur başına +2 [ICON_Gold] Altın ve +4 Bağlılık. Resif üzerine inşa edilemez.</Text>
+		</Row>
+		<!-- Lautaro-->
+		<Row Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
+			<Text>Mapuçe</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
+			<Text>Mapuçe</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
+			<Text>Mapuçe İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
+			<Text>Toqui</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
+			<Text>Atanmış [ICON_Governor] Valiye sahip şehirler +%5 [ICON_CULTURE] Kültür, +%5 [ICON_Production] Üretim ve bu şehirde eğitilen tüm birimler için savaşta +%10 deneyim sağlar. Bu değerler Mapuçe tarafından kurulmamış şehirlerde üç katına çıkar. Sizin [ICON_Governor] Valinize sahip bir şehrin 9 bölge yakınındaki tüm şehirler, medeniyetinize yönelik tur başına +4 Bağlılık kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
+			<Text>Altın Çağ'daki medeniyetlere veya Özgür Şehir'e karşı +{1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_LAUTARO_NAME">
+			<Text>Lautaro</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
+			<Text>Çevik Şahin</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
+			<Text>Bir Mapuçe Birliği, düşman şehrinin sınırları içinde bir düşman birliğini yok ederse, o şehir 5 Bağlılık kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+			<Text>Özgür Şehirlerle veya Altın ya da Kahramanlık Çağı'ndaki medeniyetlerle savaşırken +10 [ICON_Strength] Muharebe Gücü. Düşman şehrinin sınırları içinde bir düşman birliğini yok etmek, o şehrin 20 Bağlılık kaybetmesine neden olur; eğer o medeniyet Altın veya Kahramanlık Çağı'ndaysa 40 Bağlılık kaybeder.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
+			<Text>Chemamull</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
+			<Text>İşçi'nin Mapuçe'ye özgü bir Chemamull inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [Icon_Production] Üretim. Bölgenin Çekiciliğinin %75'i kadar [ICON_CULTURE] Kültür sağlar. Uçuş araştırıldıktan sonra ek [ICON_TOURISM] Turizm sağlar. Minimum Çekicilik: Nefes Kesen.</Text>
+		</Row>
+		<!-- Gilgamesh-->
+		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
+			<Text>Müttefikleriyle savaşan herkese savaş kışkırtıcılığı cezası olmadan savaş ilan edebilir. Ortak bir düşmana karşı savaşırken, kendisi ve müttefikleri yağma ödüllerini paylaşır ve 5 kare mesafe içinde muharebe tecrübesi kazanımlarını paylaşırlar. İttifakları, ortak bir düşmana karşı savaştıkları için İttifak Puanı kazanır. Sizin ve müttefikinizin savaştığı oyuncuların birimlerine karşı +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<!-- Poundmaker-->
+		<Row Tag="LOC_CIVILIZATION_CREE_NAME">
+			<Text>Kri</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
+			<Text>Kri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
+			<Text>Kri İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
+			<Text>Nîhithaw</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
+			<Text>Çömlekçilik teknolojisiyle birlikte +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi ve ücretsiz bir Tüccar kazandırır. Bir Tüccar ilk kez hareket ettiğinde, bir Kri şehrine 3 kare mesafedeki sahipsiz bölgeler Kri kontrolüne geçer.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POUNDMAKER_NAME">
+			<Text>Poundmaker</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
+			<Text>Elverişli Koşullar</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
+			<Text>Tüm İttifak türleri Ortak Görünürlük sağlar.[NEWLINE]Gönderdiğiniz [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her Kamp veya Mera başına Poundmaker'a +1 [ICON_Food] Besin kazandırır. Şehirlerinize gönderilen [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her Kamp veya Mera başına Poundmaker'a +1 [ICON_Gold] Altın kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
+			<Text>Mekewap</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
+			<Text>İşçi'nin, Kri'ye özgü bir Mekewap inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Üretim ve +1 [ICON_Housing] Konut sağlar. Bir Lüks Kaynağa bitişikse +1 [ICON_Gold] Altın sağlar. Bitişikteki her 2 Bonus Kaynak için +1 [ICON_FOOD] Besin sağlar. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_PRODUCTION] Üretim, [ICON_Gold] Altın, [ICON_FOOD] Besin ve [ICON_HOUSING] Konut kazandırır. Bir Bonus veya Lüks Kaynağa bitişik olarak inşa edilmelidir. Başka bir Mekewap'ın bitişiğine inşa edilemez.</Text>
+		</Row>
+		<!-- Robert the Bruce -->
+		<Row Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
+			<Text>İskoçya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
+			<Text>İskoç</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
+			<Text>İskoç İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
+			<Text>İskoç Aydınlanması</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
+			<Text>Mutlu şehirler ek olarak +5% [ICON_SCIENCE] Bilim ve +5% [ICON_PRODUCTION] Üretim kazanır. Mutlu şehirler, her Kampüs başına +1 [ICON_GreatScientist] Büyük Bilim İnsanı puanı ve her Sanayi Bölgesi başına +1 [ICON_GreatEngineer] Büyük Mühendis puanı üretir. Coşkulu şehirler tüm bu miktarları ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
+			<Text>Robert the Bruce</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
+			<Text>Bannockburn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
+			<Text>Savunma Taktikleri Sosyal Politikası elde edildikten sonra Kurtuluş Savaşı ilan edebilir. Bir Kurtuluş Savaşı ilan ettikten sonraki ilk 10 tur boyunca +100% [ICON_Production] Üretim ve +2 [ICON_Movement] Hareket kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
+			<Text>Golf Sahası</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
+			<Text>İşçi'nin İskoçya'ya özgü bir Golf Sahası inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Olanak ve +2 [ICON_GOLD] Altın. Bir Şehir Merkezi Bölgesi'ne bitişikse +1 [ICON_CULTURE] Kültür ve bir Eğlence Kompleksi Bölgesi'ne bitişikse +1 [ICON_CULTURE] Kültür. Yönetim Bilimleri ve Teknoloji Ağacı'nda ilerledikçe ek [ICON_TOURISM] Turizm ve [ICON_HOUSING] Konut. Çöl veya Çöl Tepeleri'ne yerleştirilemez. Şehir başına bir tane. Golf Sahası olan bölgeler değiştirilemez. +1 Çekicilik.</Text>
+		</Row>
+		<!-- Seondeok -->
+		<Row Tag="LOC_CIVILIZATION_KOREA_NAME">
+			<Text>Kore</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
+			<Text>Kore</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
+			<Text>Kore İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
+			<Text>Üç Krallık</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
+			<Text>Maden Ocakları, bitişik her Seowon Bölgesi için +1 [ICON_SCIENCE] Bilim kazanır. Çiftlikler, bitişik her Seowon Bölgesi için +1 [ICON_FOOD] Besin kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SEONDEOK_NAME">
+			<Text>Seondeok</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
+			<Text>Hwarang</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
+			<Text>[ICON_Governor] Bir şehirde bulunan Valiler, kazandıkları ilk Terfileri dahil olmak üzere her Terfi için +%3 [ICON_Culture] Kültür ve [ICON_Science] Bilim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEOWON_NAME">
+			<Text>Seowon</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
+			<Text>Kore'ye özgü, bilimsel amaçlar için kullanılan bir bölge. Kampüs Bölgesi'nin yerini alır. +4 [ICON_SCIENCE] Bilim. Bitişik her bölge parseli için -1 [ICON_SCIENCE] Bilim. Tepelere inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Bitişik her Bölge için -1 [ICON_SCIENCE] Bilim.</Text>
+		</Row>
+		<!-- Genghis Khan -->
+		<Row Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
+			<Text>Moğolistan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
+			<Text>Moğol</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
+			<Text>Moğol İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
+			<Text>Örtöö</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu başlatmak, varış şehrinde hemen bir [ICON_TradingPost] Ticaret Karakolu oluşturur. Bir uygarlığın herhangi bir şehrinde bir [ICON_TradingPost] Ticaret Karakoluna sahip olmak için fazladan bir seviye [ICON_VisLimited] Diplomatik Görünürlük kazanın. Tüm Moğol birimleri, rakiplerinden daha yüksek bir [ICON_VisLimited] Diplomatik Görünürlük seviyesine sahip oldukları için olağan [ICON_Strength] Muharebe Bonusunu ikiye katlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
+			<Text>Cengiz Han</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
+			<Text>Moğol Sürüsü</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
+			<Text>Tüm süvari sınıfı birimler +3 [ICON_Strength] Muharebe Gücü kazanır ve mağlup edilen düşman süvari sınıfı birimlerini ele geçirme şansı elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORDU_NAME">
+			<Text>Ordu</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORDU_DESCRIPTION">
+			<Text>Moğolistan'a özgü bir bina. Bu şehirde eğitilen Ağır ve Hafif Süvari birimlerine +1 [ICON_MOVEMENT] Hareket kazandıran bir yetenek sağlar. Bu şehirde eğitilen tüm süvari ve kuşatma sınıfı birimlerine +%25 savaş tecrübesi kazandırır. Halihazırda bir Kışlası bulunan bir Ordugâh Bölgesinde inşa edilemez.</Text>
+		</Row>
+		<!-- Shaka Zulu -->
+		<Row Tag="LOC_CIVILIZATION_ZULU_NAME">
+			<Text>Zulu</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
+			<Text>Zulu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
+			<Text>Zulu İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
+			<Text>Isibongo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
+			<Text>Garnizon birliği bulunan şehirler tur başına +3 Sadakat kazanır; eğer bu birlik bir Kolordu veya Ordu ise +5 Sadakat kazanır. Bir birimle bir şehri fethetmek, uygun Yönetim Bilimleri açıldıysa o birimi bir Kolordu veya Ordu'ya yükseltir.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_SHAKA_NAME">
+			<Text>Shaka</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
+			<Text>Amabutho</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
+			<Text>Kolordu (Paralı Askerler Yönetim Bilimi) ve Ordu (Milliyetçilik Yönetim Bilimi) oluşturma imkânını daha erken elde eder. Hem Kolordu hem de Ordulara ek +5 [ICON_STRENGTH] Temel Muharebe Gücü sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IKANDA_NAME">
+			<Text>Ikanda</Text>
+			<Gender>masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
+			<Text>Zulu'ya özgü ve Ordugâh'ın yerini alan bir bölge. +1 [ICON_Housing] Konut sağlar. Gerekli Yönetim Bilimi veya Teknoloji ön koşulu sağlandığında, Kolordu ve Ordular doğrudan inşa edilebilir. Ikanda'daki binalar +2 [ICON_GOLD] Altın ve +1 [ICON_SCIENCE] Bilim kazanır. Daha hızlı Kolordu ve Ordu oluşturma.</Text>
+		</Row>
+		<!-- Spain -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
+			<Text>Donanma ve Armadalar, Milliyetçilik ve Seferberlik yerine Merkantilizm ile oluşturulabilir. [ICON_TradeRoute] Ticaret Yolları +3 [ICON_Gold] Altın, +2 [ICON_Faith] İnanç ve +1 [ICON_Production] Üretim kazanır. Birden çok kıta arasında yapılan [ICON_TradeRoute] Ticaret Yolları bu değerlerin üç katını alır. Orijinal Başkentinizin bulunduğu kıtada olmayan şehirler, kurulduklarında bölgelere ve bir İşçi'ye +%25 [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MISSION_EXPANSION1_DESCRIPTION">
+			<Text>İşçi'nin, İspanya'ya özgü olan Misyon'u inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. [ICON_Capital] Başkentinizden farklı bir kıtadaysa +2 [ICON_Faith] İnanç, +1 [ICON_PRODUCTION] Üretim ve +1 [ICON_FOod] Besin. Çevresindeki her Kampüs ve Kutsal Alan bölgesi için +1 [ICON_Science] Bilim. Kültürel Miras keşfedildiğinde ek [ICON_SCIENCE] Bilim. Şehir Merkezi'ne bitişik olan ve orijinal [ICON_Capital] Başkentinizin kıtasında bulunmayan bir şehirdeki Misyon geliştirmesi, tur başına +2 Sadakat sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION1_DESCRIPTION">
+			<Text>Yunanistan'a özgü, kültürel alanlar için bir bölge. Tiyatro Meydanı bölgesinin yerini alır ve inşası daha ucuzdur. Tamamlandığında 1 [ICON_Envoy] Elçi kazandırır.[NEWLINE][NEWLINE]Çevresindeki her bölge için +1 [ICON_Culture] Kültür bonusu ve bitişik Şehir Merkezi için ek +1 [ICON_Culture] Kültür bonusu. Çevresindeki her harika için +2 [ICON_Culture] Kültür bonusu. Yalnızca Tepeler üzerine inşa edilebilir.</Text>
+		</Row>
+		<!-- Tamar-->
+		<Row Tag="LOC_CIVILIZATION_GEORGIA_NAME">
+			<Text>Gürcistan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
+			<Text>Gürcü</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
+			<Text>Gürcü İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
+			<Text>Birlikten Kuvvet Doğar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+			<Text>Altın Çağ veya Kahramanlık Çağı başlangıcında Adanma yapılırken, diğer bonusun yanı sıra Çağ Puanını artırmaya yönelik Normal Çağ bonusu da alınır. Savunma binalarına +%50 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TAMAR_NAME">
+			<Text>Tamar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
+			<Text>Dünyanın, Krallığın ve İnancın Zaferi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
+			<Text>Muharebe zaferleri, mağlup edilen birliğin Muharebe Gücü'nün %50'si kadar [ICON_FAITH] İnanç sağlar (Standart Hız'da). Çoğunluk Dininize sahip bir Şehir Devleti'ne gönderdiğiniz her [ICON_ENVOY] Elçi, iki [ICON_ENVOY] Elçi olarak sayılır. (Bir çoğunluk Dininiz olmalıdır.)</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_NAME">
+			<Text>Tsikhe</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
+			<Text>Gürcistan'a özel bir bina. Rönesans Surları'ndan daha düşük [ICON_Production] Üretim maliyeti. Dış savunmalarınızın gücünü mümkün olan en yüksek seviyeye çıkarır. Koruma Sosyal Politikası'na ilerledikten sonra +3 [ICON_TOURISM] Turizm sağlar. +3 [ICON_Faith] İnanç sağlar.</Text>
+		</Row>
+		<!-- Wilhemina -->
+		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
+			<Text>Hollanda</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
+			<Text>Hollanda</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
+			<Text>Hollanda İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
+			<Text>Büyük Nehirler</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
+			<Text>Bir nehrin yanındaysa Kampüsler, Tiyatro Meydanları ve Sanayi Bölgeleri için büyük komşuluk bonusu. Bir Liman tamamlandığında bitişik bölgelere Kültür Bombası uygular.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_WILHELMINA_NAME">
+			<Text>Wilhelmina</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
+			<Text>Radio Oranje</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
+			<Text>Kendi şehirlerinize giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrine tur başına +2 Bağlılık sağlar. Yabancı şehirlere giden veya yabancı şehirlerden gelen [ICON_TradeRoute] Ticaret Yolları size +2 [ICON_Culture] Kültür sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_POLDER_NAME">
+			<Text>Polder</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
+			<Text>İşçi'nin, Hollanda'ya özel bir Polder inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Besin, +1 [ICON_Production] Üretim ve +0.5 [ICON_Housing] Konut. Bir Polder iyileştirmesine bitişik ise +1 [ICON_FOOD] Besin. Yönetim Bilimleri ve Teknoloji Ağacı'nda ilerledikçe ek [ICON_Production] Üretim, [ICON_GOLD] Altın ve [ICON_FOOD] Besin. Bir Kıyı veya Göl bölgesine, en az 3 geçilebilir kara bölgesine bitişik olarak yerleştirilmelidir. Bölgenin [ICON_Movement] Hareket Maliyeti'ni 3'e yükseltir.</Text>
+		</Row>
+		<!-- Jerusalem -->
+		<!-- XP2 -->
+		<Row Tag="LOC_BUILDING_TSIKHE_DESCRIPTION_XP2">
+			<Text>Gürcistan'a özel bir bina. Rönesans Surları'ndan daha düşük [ICON_Production] Üretim maliyeti ve daha yüksek dış savunma. Koruma Sosyal Politikası'na ilerledikten sonra +3 [ICON_TOURISM] Turizm sağlar. +4 [ICON_Faith] İnanç sağlar. Bir Altın Çağ'dayken [ICON_TOURISM] Turizm ve [ICON_FAITH] İnanç +%100'dür.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

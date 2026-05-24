@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_POUNDMAKER">
+			<Text>Evet! Halklarımızın yan yana yol alması, yalnız başlarına yürümelerinden çok daha hayırlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_POUNDMAKER">
+			<Text>Önceden yakındık belki ama Kri halkı artık kendi yolunu çizmeli.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_POUNDMAKER">
+			<Text>Tüm hayatım boyunca halklar arasında barışı aradım. İttifakımız başkalarına daha iyi bir yol göstersin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_POUNDMAKER">
+			<Text>Bu çok iyi oldu!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_POUNDMAKER">
+			<Text>Belki bir gün anlarsın ki, birleştiğimizde her iki halkımız da daha güçlüydü.</Text>
+		</Row>
+
+		<!-- Chandragupta Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Gerçekten de Hindistan, halkınız hakkında uzun süredir aynı düşüncelere sahipti. Bunu alenen ilan etmek bir ayrıcalıktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Halkım dostluğumuza olan heyecanımı paylaşmıyor. Ama bir gün size ısınabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hindistan, halkınıza büyük saygı duyuyor. İzninizle, karşılıklı dostluğumuzu herkese ilan edeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Buna saygı duyarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hata bana aitti. Beni bağışla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Heyetinizi ağırlamaktan büyük keyif aldım. Geleceğimize dair düşünecek çok şey verdiler bana.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Heyetinizi karşılamaktan mutluluk duysam da, başka yerlerde meşgulüm. Başka bir sefere!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Heyetimiz pek çok hediye getiriyor. Dilediğiniz kadar baharatlı ayran için! Daha fazlasını her zaman gönderebiliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Acımasız sözlerinizi görmezden gelsem de, Hindistan onları uzun süre hatırlayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Halkına utanç getiriyorsun! İki ağızla konuşuyorsun, ikisi de hoş değil. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Buyurun, konuşun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hindistan, geleceğinizi ne bir rakip ne de bir vasal olarak görüyor; aksine gerçek bir ortak olarak. Ne dersiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Halklarımız yeterince kan döktü; sizinki de benimki de. Bu savaşı onların hatrına sonlandıralım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bu bir şaka mı? Hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Güçlerimizi savaş alanından çekmenin zamanı çoktan geldi. Bunun ardındaki bilgeliği görmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Talebinizi alçakgönüllülükle kabul ediyorum. Hindistan'ın böyle bir anlaşmadan elde edeceği çok şey var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bunu yapamam. Şimdilik, Hindistan sınırları size kapalı kalmalı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Sınırlarınızı açmanız, halkınızı benimkine yaklaştırmaya yardımcı olur. Elbette ben de aynı şekilde karşılık veririm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Ordunuzun Hindistan'ı tehdit etmeyi amaçladığına inanmıyorum. Yine de geri çekilmeleri en iyisi olacaktır. Derhâl.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Kendi derslerimi fazlasıyla iyi öğrendiniz. Kendi sonumu size ben öğrettim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hayır. Hindistan bundan fayda sağlamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bilgece bir teklif!</Text>
+		</Row>
+
+		<!-- Lautaro Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Dünya, iki halkı tek bir iradeyle yönettiğimizi bilecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Mapuçe bu dostluğa hazır değil. Belki zamanla hazır oluruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Tek irade; iki halk. Dünyaya dost olarak durduğumuzu söyleyelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Evet, iyi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Bu, ağzımda kötü bir tat bırakıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Heyetiniz için teşekkür ederim. Mapuçe onları onurlu ziyaretçiler olarak karşılıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Heyetiniz Mapuçe şehirlerine giremez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuçe hediyeler gönderiyor. Kumaş en iyi işçiliğimizdir. Charquicán lezzetlidir. Lütfen kabul edin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Eylemleriniz gerçek doğanızı yansıtıyor. Mapuçe size tahammül edemez!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuçe adınızı bir lanet gibi kullanıyor. Kim sizinle birlikte durabilir? Dostlarınız size sırt çeviriyor. (Sizi kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LAUTARO_ANY">
+			<Text>Ah, sensin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Artık layık olduğunuzu biliyorum. Mapuçe sizi bizimle birlikte durmaya davet ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LAUTARO_ANY">
+			<Text>Mapuçe'nin bu savaşa daha fazla tahammülü kalmadı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LAUTARO_ANY">
+			<Text>Yapamam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Bu savaş bizi yıkıma mahkûm ediyor. Gelin, özgürce yürüyelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Mapuche topraklarından geçmeye hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Bu topraklar yalnızca Mapuche'ye aittir. Başka yere gitmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche, sizin topraklarınızdan geçmek istiyor, tıpkı sizin bizimkilerden geçmek isteyeceğiniz gibi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LAUTARO_ANY">
+			<Text>Mapuche, ordularınızın bize zarar vermek istediğini düşünüyor. Sana, içimizi rahatlatma şansı vereceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Son ana kadar direndik, ama çok geçti… çok geçti.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Beni aşağılıyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Bununla Mapuche'yi onurlandırıyorsunuz.</Text>
+		</Row>
+
+		<!-- Poundmaker Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Uluslar arasında barışı sağlamaktan en büyük mutluluğu duyuyorum. Halklarımız arasındaki dostluk bana neşe veriyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Kri halkıyla dost olmak istemeniz güzel, ancak halkım buna hazır değil. Şimdi değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Kri halkı sizi dost olarak karşılamaya hazır. Lütfen, sana yalvarıyorum, onların güvenini onurlandır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>İyi, iyi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>İstediğim bu değildi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Halkım, heyetinizi meclis ateşlerimizde ağırladı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Hayır, halkım bu tür hediyeleri arzulamıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Halkım size hediyeler gönderiyor: bufalo postları ve pimihkan. Bunlarla kışı atlatırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Sözünüz değersiz, halkınız yoldan sapmış ve yanınızda duracak dostunuz yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Halkımı sizin gibilerden koruyacağıma yemin ederim. Yalanlarınız havayı kirletiyor. Sadece çalmak için yaşıyorsunuz. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_POUNDMAKER_ANY">
+			<Text>Hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Kri halkı, uzun zamandır dostlarımızı müttefik edinmiştir. Bize katılacak sıradaki siz misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>Haksız bir savaştan, aramızda tam bir barış doğabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>Hayır, bu sürdürülemez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Ben daima barışı arzuladım. Halklarımız bu yolda birlikte yürüyebilir mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Halkınızın topraklarımızdan geçmesine yetecek kadar yerimiz var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Kri halkı size güvenmiyor. Lütfen kendi topraklarınızda kalın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Halkım, topraklarınızdan geçmek istiyor. Müsaade eder misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_POUNDMAKER_ANY">
+			<Text>Neden sınırlarımıza bu kadar çok ordu gönderiyorsunuz? Tek bir aceleci adım barışı bozmaya yeter.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Savaş isteseydim şimdi burada olmazdım. Beni yakalamadınız. Kendiliğinden teslim oldum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Bunu ancak bir aptal kabul eder. Ben aptal değilim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Bunun ardındaki bilgeliği görüyorum. Anlaştık.</Text>
+		</Row>
+
+		<!-- Robert The Bruce Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Ne mutlu bir gün! Tıpkı haçın iki kolu gibi, birlikte dimdik duracağız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bence siz doğru adamlarsınız, ama İskoçya'nın size karşı hâlâ çekinceleri var. Şimdi değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Gizli düşmanlarla kaynayan bir dünyada, adil insanlar dost olup birleşmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Muhteşem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hayır, anlıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Heyetinizi kabul ettim ve onlara bir cèilidh şöleni düzenledim. Horozlar ötene kadar dans ettik!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>İskoçya, güzel hediyelerden ziyade sizden samimi sözler duymayı tercih eder, bu yüzden heyetinizi geri gönderdim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Lütfen halkımın en iyi tivitlerini ve haggisini kabul edin. Ah, gaydacıları dinleyin! Ne kadar görkemliler, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Seni pis kokulu gübre yığını! Değersiz sözlerin çarpık simsarı! Gözümün önünden kaybol!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Sersem herif! Seni bir baltayla ezip geçerdim ama kafan o kadar kalın ki balta kırılır. (Seni Kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Söyle bakalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Birbirimize çok benziyoruz, sen ve ben. Elimi tut ve dünyaya müttefik olduğumuzu gösterelim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>İskoçya, birliklerini hırpalamaktan keyif alıyor ama yeter artık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Elbette hayır!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Açık konuşalım. 'Karşılıklı çekilme, düşmanlıkların sona erdirilmesi, vesaire' yok. Ateşkes mi, değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Adil. Dikkat et de geçerken mera duvarlarını yıkma.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Gelip öylece dolaşamazsın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>İyi komşu, adamın tarlalarından geçmesine izin verendir, katılmaz mısın?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Birliklerin İskoçya toprakları dışında gezinmemeli. En iyisi onları uzaklaştırman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bugün yaylalarda yalnız bir rüzgar esiyor. İskoçya için bir ağıt. Duyabiliyor musun onu?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Ne kadar zavallı bir teklif. Hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hımm. Kabul.</Text>
+		</Row>
+
+		<!-- Seondeok Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Kore beyanınızı memnuniyetle kabul ediyor. Ben de size aynısını sormak üzereydim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Beyanınızı kabul edemem. Bunu yapmak Kore'ye değeceğinden daha fazla soruna yol açar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Kore'nin halkınızla dostluğunu ilan etmem gerektiğini hissediyorum. Tabii sizin onayınızla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Ne harika.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>O halde olmayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Heyetinizi kabul ettiğimiz için minnettarız. Sağladığınız hediyeleri memnuniyetle karşılıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Kore, bağışçının niyetlerini bilene kadar bir hediye almaktan çekinir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Lezzetli yukpomuzu kabul edin. Soya, sığır etini yumuşacık ve lezzetli kılar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Kore, iğrenç hakaretlerinizi hak edecek hiçbir şey yapmadı! Ama şimdi, belki de yapacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Sen okyanusun işkembesisin—dokunduğun her şeye kokun siner. (Seni Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SEONDEOK_ANY">
+			<Text>Konuşabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Kore'nin müttefikleri onun gücüdür. Birlikte daha güçlü oluruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Kalıcı bir barış karşılığında sizi yenme arzuma ihanet edeceğim. Ama bu söze ihanet etmeyeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Söz konusu bile olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Bu savaş ikimiz için de bir dikkat dağıtıcıya dönüştü. Ayrılalım ve halkımızla ilgilenelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Açık sınırlarla gelen ticareti ve fikir alışverişini memnuniyetle karşılıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Niyetleriniz netleşene kadar sınırlarımızı size kapalı tutmak ihtiyatlı olacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>İhtiyatın gerekliliğine rağmen açık sınırlar, ilişkilerimizi geliştirmek için faydalı olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SEONDEOK_ANY">
+			<Text>Kore, sınırlarımıza yaklaşan askerleri hoş karşılamıyor. Onları derhâl geri çekin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Kendi sonumu öngörmüştüm, ama Kore'nin kaderimi paylaşacağını değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Teşekkür ederim, ancak kabul edemiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Cazip bir teklif. Kore kabul edecektir.</Text>
+		</Row>
+
+		<!-- Genghis Khan Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kartallar, güvercinlerin ve tavşanların üzerinde süzülür. Dostluk içinde duralım, geri kalanlar gölgemizde titreşsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Hayır. Moğolistan'ın size o kadar hayran olduğunu sanmayın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Moğolistan'ın dostluğunu kabul edin! Birleştiğimizi öğrendiklerinde dünyanın titrediğini görmek istiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Moğolistan bunu takdir edecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Moğolistan bunu unutmayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Süvarilerim heyetinizi güvenle getirdi ve hediyelerinizi dağıttı. Yeterliydiler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Hediyelerine ihtiyaç yok. İsteseydim onları alırdım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Sana hediyeler gönderiyorum: fazla atlar, bir genç yayı ve kımız. Güçlen diye! İç bakalım!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ahmak ve zayıf! Nasıl olur da hâlâ fethedilmemişsin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Zayıflığın ve ahmaklığın beni öfkelendiriyor. Bir gün, belki de yakında, bunun tehlikesini anlayacaksın. (Seni Kınıyor.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Sözlerini tartacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Moğolistan'la birlikte at sür. Kalbinin bu ittifakı arzuladığını biliyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ben bu savaşı sürdürmeyi tercih etsem de Moğolistan öyle istemiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>En iyi atını da versen olmaz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>İkimiz de biliyoruz ki Moğolistan seni yenecek. Bu savaşı askıya alalım. Şimdilik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Topraklarımızdan geçebilirsiniz. Geçerken gücümüze hayran kalın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bizim olan bizimdir, ister sürüler olsun ister topraklar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kuvvetlerimin topraklarınızdan geçmesine izin vermenizi istiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Sınırlarımıza yakın orduların cezbedici bir hedef. Güvenlikleri için onları uzaklaştırmalısın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Moğol klanlarını sakat bıraktın. Sana duyduğum saygı, nefrete neredeyse denk.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Sen buna anlaşma diyorsun, ben soygun diyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Anlaştık. İkimiz için de en iyisi.</Text>
+		</Row>
+
+		<!-- Shaka Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Elbette! Zulu'nun çocukları halkınıza saygı duyuyor ve siz kendinizi gerçek bir dost olarak kanıtladınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Sen Zulu'nun çocuklarına gerçek bir dost değilsin. Daha çok çaba gösterirsen olabilirdin ama şimdi? Hayır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Zulu'nun çocukları seninle birlikte duracak, eğer sen de onlarla durursan. Dostluğumuzu ilan edelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Minnettarlıktan aciz değilim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Benimle alay etme.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Heyetiniz ulaştı. Zulu'nun evlatları hediyelerinizi hoş karşılar, lakin sadakati satın alacağınızı düşünmeyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Sizi tanıyana kadar, gönderdiğiniz hiçbir hediyeyi kabul edemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Törensel bir iklwa yolladım. Adını, yaradan çekilirken çıkardığı sesten alır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Sözleriniz iğrenç. İçinizde bir çürüme var. Bunu arındırmanın tek yolu, onu kesip çıkarmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Zayıf bir beden eğitilebilir. Zayıf bir akıl öğrenebilir. Ama sizin ortaya koyduğunuz gibi, zayıf bir kalbin çaresi yoktur. (Sizi kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SHAKA_ANY">
+			<Text>Yine sen.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Halklarımız arasındaki farklılıkların önemi yok. Bizimle savaşacak mısın? Önemli olan tek şey bu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SHAKA_ANY">
+			<Text>Barış peşindeyseniz, Zulu'nun evlatları bu talebinizi kabul edecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SHAKA_ANY">
+			<Text>Vaktimi boşa harcıyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Bu savaş ikimizi de mahvediyor. Hiçbir zafer tatmin getirmez. Gelin, silahlarımızı susturalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Kabul. Komşunun gücünü görmek, zayıflık hayal etmekten iyidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Zulu evlatlarının, topraklarımızda acemice gezen sizin halkınıza ihtiyacı yoktur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Zulu'nun evlatlarının saklayacak hiçbir şeyi yok. Halkınız topraklarımızda hoş karşılanır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SHAKA_ANY">
+			<Text>Zulu sınırlarında yürüyen birlikleriniz, impi askerlerim için cezbedici bir hedef teşkil ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Doğru, hükümdarlığıma son verdiniz. Ama ben kabuslarınızda yaşamaya devam edeceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Benimle alay etmeyin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Evet—şimdilik.</Text>
+		</Row>
+
+		<!-- Tamar Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>İlk başta bunu zalim bir şaka zannetmiştim; ancak düşününce samimiyetinizi gördüm. Gürcistan, talebinizi kabul ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Dostluk mu? Gürcistan birçok şeydir, ama onlardan biri senin dostun olmak değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Sen, Gürcistan'ın güvenebileceği az sayıdaki kişiden birisin. Kabul edersen, bunu herkese duyuracağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Yaptıkların minnettarlığımı hak ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>İmkânsız birisin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Heyetin bir olaya yol açmadı. Bunu başarı sayıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Gürcistan'ın acil meseleleri var. Tüccarlarını ağırlamanın zamanı değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Gürcü tüccarlar birçok çurçela getiriyor. Doyurucu bir tatlı olur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>İğrenç birisin. Halkın senden daha iyi bir lideri hak ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Sana düşüncesiz bir it demek, itlere hakarettir. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TAMAR_ANY">
+			<Text>Neden beni rahatsız ettin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Güçlerimizi birleştirmek, ortak düşmanlarımızı düşündürecektir. Faydasını gördüğünü varsayıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TAMAR_ANY">
+			<Text>Dersini aldığına kanaat getirdim. Bu savaş sona erebilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TAMAR_ANY">
+			<Text>Üzücü. Derin bir üzüntüyle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Bu savaş bitmeli. Sebebinde hiçbir kusur kabul etmiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Sanırım halklarımız arasında ticareti teşvik edecek. Gürcistan sınırlarını açacak. Şimdilik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Gürcistan topraklarında yabancı etkiye ihtiyaç duymaz. En azından, seninkine değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Danışmanlarım Gürcistan'ın sınırlarını açmasını öneriyor. Sözlerinde bir nebze bilgelik görüyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TAMAR_ANY">
+			<Text>Gürcistan sınırlarındaki askerlerinle sabrımı sınıyorsun. Onları geri çek, yoksa çekilecekler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Surlar Gürcistan'ı yıkımdan kurtarmaya yetmedi. Ben de yetmedim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Tekrar dene. Bu sefer, gerçek bir teklifle.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Kabul etmek canımı acıtsa da, mecburum.</Text>
+		</Row>
+
+		<!-- Wilhelmina Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Dostluk elini kabul etmekten büyük memnuniyet duyuyoruz. Geleceğimiz uzun ve müreffeh olsun!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda ile dostluk iddianızı tanımıyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Bizimki gibi dostane ilişkilere sahip uygarlıklar bunu dünyaya ilan etmelidir, siz de öyle düşünmüyor musunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Harika.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Ne yazık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Elçilerinizi uygun şereflerle karşıladık ve size teşekkür ederiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Hediyelerinizi kabul etmemiz uygun değildir, eminim anlıyorsunuzdur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda size selam hediyeleri gönderiyor: tahta ayakkabılar, peynirler ve nefis stroopwafeller.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Size açık fikrimizi bildiriyoruz: Yönetmeye layık değilsiniz ve Hollanda için bir tehditsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Size karşı ne kadar korkunç bulduğumuzu söylemek en içten arzumuzdur ve hükümdarlığınızın kısa sürmesini dileriz. (Sizi Kınıyor).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WILHELMINA_ANY">
+			<Text>Dikkatimiz sizdedir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Ulusumuzun davasında güvenilir bir ortak olduğunuzu kanıtladınız ve bu ilişkiyi derinleştirmek istiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Evet. Mücadelemiz yeterince uzun sürdü. Kaybettiklerimizi yeniden inşa edelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Kesinlikle imkânsız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda, yumruklardansa mal ticaretini tercih eder. Bu savaşı derhal sonlandırmalıyız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda teklifinizi kabul etmekten memnuniyet duyar ve sınırlarını size açar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Topraklarımızda serbestçe dolaşmanıza izin veremeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Çıkarlarımıza en iyi hizmet edecek şey, topraklarımız arasında seyahati açmak değil midir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILHELMINA_ANY">
+			<Text>Planlarınızdan habersiz olduğumuzu mu sanıyorsunuz? Birliklerinizi derhal sınırlarımızdan çekmenizi talep ediyoruz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Tanrı'nın yardımıyla, Hollanda bir gün topraklarını yeniden kazansın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Reddetmek zorundayız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Daha iyi bir teklif duymadık.</Text>
+		</Row>
+
+		<!-- Leader Text-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>En iyi komşular uzakta olanlardır. Şu an, Hindistan'ın en iyi komşusu sensin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Topraklarımız arasında mesafe yok. Halkım, senin halkının pis kokusuna katlanmak zorunda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Halkın, geldikleri yerle büyük gurur duyuyor. Açıkça görülüyor ki senin liderliğini takip ediyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Böyle sıkıcı bir halkı nasıl yönetiyorsun? Belirlediğin örneği mi takip ediyorlar?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Dostluklarını dünyaya ilan edenlere büyük saygı duyarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Dostluklarını akıllıca seç—ama seçmek zorundasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Komşularınla barışı korumak akıllıca. Kan davaları ağır bedeller ödetir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Savaşlarını uzağında tut. Yoksa kendi topraklarında pislik sürüklersin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Yaratılışın sırlarına olan hakimiyetin, halkımın imrendiği bir yetenek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Diğerleri göklere uzanırken, sen toprağı tırmalıyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Savaşa sürdüğün süvariler bir rezalet, ama neyse ki küçük bir rezalet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Koyun idrar torbasını kask diye takmazsın. O halde neden 'süvari' biriktirdiğini iddia ediyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SHAKA_ANY">
+			<Text>Savaşa sürdüğün ordular gücünü ortaya koyuyor. Sürüyü temizledin mi? Sürüyü temizlemek her zaman akıllıcadır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SHAKA_ANY">
+			<Text>Neden güçlerinin kimliklerini korumalarına izin veriyorsun? Tek bir iradeye—seninkine—hizmet etmek için birleşmeliler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TAMAR_ANY">
+			<Text>Halkın için inşa ettiğin surları takdir ediyorum. Bir Gürcü ruhuna sahipsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TAMAR_ANY">
+			<Text>Halkın çok güveniyor. Şehirlerine herkesi—hatta barbarları bile—alıyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda, bize gönderdiğin her sevkiyatla çiçek açıyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Ticareti reddedenler çoğu kez istediklerini bizden zorla alabileceklerini sanırlar. Acı bir yanılgı içindedirler.</Text>
+		</Row>
+		<!-- First AI line -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Ben Çandragupta, birleşmiş Hindistan'ın Maurya imparatoru. Hayır, bu başımı döndürmedi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LAUTARO_ANY">
+			<Text>Ben Lautaro, Hızlı Şahin. Mapuçeler beni hürmetle onurlandırır. Sizden de aynısını görecek miyim?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_POUNDMAKER_ANY">
+			<Text>Ben Poundmaker, Kri halkını temsil ediyorum. Aramızda daima barış hüküm sürsün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Ben Robert the Bruce. İskoçya beni izler—ister buğday tarlalarından ister savaş meydanlarından geçsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SEONDEOK_ANY">
+			<Text>Ben Kore Kraliçesi Seondeok, sizi huzuruma kabul ediyorum. Karşılaşmamız önceden biliniyordu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ben Cengiz Han. Önümde geleceğin Moğol toprakları uzanıyor. Arkamda ise tek önemli süvari birliğim var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SHAKA_ANY">
+			<Text>Zulu Şaka'sının huzurunda duruyorsun. Ordularıma sırt çevirmeye cüret eder misin? Ben asla böyle bir hata yapmam.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TAMAR_ANY">
+			<Text>Ben Gürcistan Kraliçesi Tamar. Ne diyeceksen de ve yoluna git.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILHELMINA_ANY">
+			<Text>Ben Wilhelmina, Hollanda Kraliçesi. Sonunda sizinle tanışmak benim için büyük bir onur.</Text>
+		</Row>					
+		<!-- AI invitation to visit nearby City -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hindistan topraklarına yakın seyahat ediyorsunuz. Neden gelip görkemli basamaklı kuyularımızda dinlenmiyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LAUTARO_ANY">
+			<Text>Mapuçe topraklarına yaklaşıyorsun. Çemamullarımız arasında yürümek ve atalarımızı öğrenmek mi istiyorsun?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_POUNDMAKER_ANY">
+			<Text>Sizi misafirim olarak Kri halkının yaşamını görmeye davet ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Bu civardayken başkentimizi görmek istemez miydiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SEONDEOK_ANY">
+			<Text>Başkentimizi ziyaret etmelisiniz. Seowonlarımız bilimsel ve siyasi düşüncenin en güzel örnekleridir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Kimin topraklarına yaklaştığını biliyor musun? Keşiklerin toplandığını gör ve burasının Moğolistan olduğunu anla.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SHAKA_ANY">
+			<Text>Zulu başkentine yolculuk etmelisin. İkandamızda güç vardır; bunu kendi gözlerinle görmelisin.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TAMAR_ANY">
+			<Text>Sizi başkentimize yönlendireceğim. Savunması güçlü tsikhemize bir bakın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda sizi başkentimizi keşfetmeye davet ediyor ve aynı nezaketi göstermenizi bekliyor.</Text>
+		</Row>		
+		<!-- AI accepts Human invitation -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Bunu ancak bir ahmak geri çevirir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LAUTARO_ANY">
+			<Text>Bununla Mapuçe'yi onurlandırıyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_POUNDMAKER_ANY">
+			<Text>Bunda bir hikmet görüyorum. Kabul.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Buna hayır diyemem.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SEONDEOK_ANY">
+			<Text>Cazip bir teklif. Kore kabul edecektir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Bunu kabul edebilirim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SHAKA_ANY">
+			<Text>Kabul edilebilir.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TAMAR_ANY">
+			<Text>Pekâlâ.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILHELMINA_ANY">
+			<Text>Şükranlarımızı sunarız.</Text>
+		</Row>		
+		<!-- AI invitation to exchange Capital Information -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Başkentlerimiz hakkında konuşmalıyız. Aramızdaki mesafeyi belirleyelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LAUTARO_ANY">
+			<Text>Sana Mapuçe'nin başkentini anlatırım, eğer sen de bana kendi başkentini anlatırsan.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_POUNDMAKER_ANY">
+			<Text>Gel, halkımın nerede yaşadığını gör ve bize yuva dediğin yeri göster.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Başkentine bir göz atmak niyetindeyim. Adil bir adam olduğum için seni de İskoçya'nın başkentini görmeye götüreceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SEONDEOK_ANY">
+			<Text>Eğer karşılık verirsen, başkentimizin yol tarifini vereceğim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Başkentlerimiz hakkında bilgi alışverişi yapmalıyız. Bir gün seni ziyaret etmek isteyebilirim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SHAKA_ANY">
+			<Text>Seni Zulu başkentine yönlendirebilirim, eğer sen de beni kendi başkentine yönlendirirsen. Paylaşılacak bir risk, evet—ama küçük bir risk.</Text>
+		</Row>		
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TAMAR_ANY">
+			<Text>Başkentlerimizin yol tariflerini vermeliyiz ki birbirimizle doğrudan muhatap olabilelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILHELMINA_ANY">
+			<Text>Başkent şehirlerimizin konumlarını, karşılıklı ve kalıcı faydamız için takas etmek arzusundayız.</Text>
+		</Row>	
+
+		<!-- Diplomatic rationales for denouncement -->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BILLIONAIRE_TRADE">
+			<Text>(Onlarla ticaret yapmıyorsunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>(Bilim üretiminiz içler acısı.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_FLOWER_OF_SCOTLAND_WAR_NEIGHBORS">
+			<Text>(Komşularınızla savaşıyorsunuz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HORNS_CHEST_LOINS">
+			<Text>(Kolordu/Ordu kullanımın gerçekten acınası.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HORSE_LORD">
+			<Text>(Süvarilerin fazla iddialı.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_IRON_CONFEDERACY_FEW_ALLIANCES">
+			<Text>(Yeterli ittifakın yok.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MAURYA_EMPIRE_NEIGHBORS">
+			<Text>(Sınırların ona fazla yakın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>(Yeterince sur inşa etmiyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>(Sadakat eksikliği yüzünden şehirler kaybediyorsun.)</Text>
+		</Row>
+
+		<!-- Human Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Hindistan savaştan asla korkmaz. Tüm yapabileceğin, haklı ilerleyişimizi bir anlığına geciktirmektir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Sana güvenilemeyeceğini biliyordum! Bu savaş için çoktan hazırlandık. Peki ya sen?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>Başka bir yol bulabilirdin. Şimdi pişmanlıkların kanla ölçülecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Seni akılsız serseri! İskoçya'ya ayak basmadan önce kendi dişlerini yersin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Yenilgin ani olacak... halkın unutulacak. Bunu öngördüm.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Söz bitti. Bugün Moğolistan, seni yenilgiye sürüklüyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Güçlü laflar ediyorsun ama sesin titriyor. Korkudan nasıl da tükendiğini görüyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Gürcistan'ın yürekleri senin kalabalıkların önünde asla titremez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Haince saldırın başarılı olmayacak. Hollanda direnmektedir!</Text>
+		</Row>
+
+		<!-- AI Declares War -->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Toprakların Hint idaresinde çok daha iyi olur. Bunu sağlamak boynumun borcu.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Savaş kapıda. Mapuçe kendi silahlarınla vurur seni!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Sana savaşın dehşetini yaşatmak istemezdim, lakin adalet bunu emrediyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Savaş yüreklerimizde sönmedi. Neden yalancı bir barışla oyalanalım?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Yıldızlar yenilgini yazmış. Göklerle neden didişesin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ordularımın önünde bir engelsin. Yakında onların karşısında yok olacaksın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Sende fazlasıyla zafiyet var. Korkma—Zulu'nun çocukları onu temizleyecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Tanrı bizimle birlikte savaşıyor. Sen tek başınasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Hollanda senden korkmaz. Seni yendiğimizde, her zamankinden daha güçlü olacağız.</Text>
+		</Row>
+
+	</EnglishText>
+</GameData>

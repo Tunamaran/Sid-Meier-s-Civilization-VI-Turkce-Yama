@@ -1,0 +1,218 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Name-->
+		<Row Tag="LOC_ABILITY_GUIDE_MOVEMENT_AOE_RELIGIOUS_NAME">
+			<Text>Rehber</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAGE_COMBAT_AOE_RELIGIOUS_NAME">
+			<Text>Bilge</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GURU_MOVEMENT_NAME">
+			<Text>Guru Hareket Etki Alanı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GURU_STRENGTH_NAME">
+			<Text>Guru Bilge Etki Alanı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDITERRANEAN_COLONIES_NAME">
+			<Text>Akdeniz Kolonileri</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BIREME_PROTECT_TRADER_NAME">
+			<Text>Birem Ticaret Koruması</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRADER_PROTECTED_BY_BIREME_NAME">
+			<Text>Tüccar Birem Koruması</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THE_RAVEN_KING_NAME">
+			<Text>Kuzgun Kral</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUSZAR_NAME">
+			<Text>Kuruc</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLACK_ARMY_NAME">
+			<Text>Kara Ordu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MOUNTIE_NAME">
+			<Text>Park Koruyucusu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MANDEKALU_NAME">
+			<Text>Altın Verici</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRADER_PROTECTED_BY_MANDEKALU_NAME">
+			<Text>Tüccar Mandekalu Koruması</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CORBACI_NAME">
+			<Text>Çorbacı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_TURKISH_BOMBARD_NAME">
+			<Text>Büyük Türk Bombardı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAROLEAN_NAME">
+			<Text>Saldırı</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CORSAIR_NAME">
+			<Text>Korsan</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROCK_BAND_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Yabancı Topraklara Giriş</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FINEST_HOUR_FRIENDLY_TERRITORY_NAME">
+			<Text>En Parlak Saatleri</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CYBER_WARFARE_COMBAT_BONUS_NAME">
+			<Text>Siber Savaş</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHOLA_NAVAL_COMBAT_NAME">
+			<Text>Rajendra Chola</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ERIKSON_NAVAL_SIGHT_NAME">
+			<Text>Leif Erikson</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARYORGANIZATION_MOVEMENT_NAME">
+			<Text>Askeri Teşkilat</Text>
+		</Row>
+		<!--Description-->
+		<Row Tag="LOC_ABILITY_GUIDE_MOVEMENT_AOE_RELIGIOUS_DESCRIPTION">
+			<Text>Yakındaki dinî birliklere Hareket puanı verir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SAGE_COMBAT_AOE_RELIGIOUS_DESCRIPTION">
+			<Text>Yakındaki dinî birliklere ek muharebe gücü verir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GURU_MOVEMENT_DESCRIPTION">
+			<Text>+1 Hareket</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GURU_STRENGTH_DESCRIPTION">
+			<Text>+5 Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MEDITERRANEAN_COLONIES_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Hareket ve suda seyir halindeyken +2 görüş menzili.[NEWLINE][ICON_Bullet]Denize açılma ve karaya çıkma sırasındaki ek [ICON_Movement] Hareket maliyetlerini yok sayar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BIREME_PROTECT_TRADER_DESCRIPTION">
+			<Text>Su Bölgelerinde yakındaki Ticaret birliklerinin Yağmalanmasını engeller.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRADER_PROTECTED_BY_BIREME_DESCRIPTION">
+			<Text>Bir Bireme'nizin yakınındaki Ticaret birlikleri, Su Bölgelerinde Yağmalanmaya karşı bağışıktır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THE_RAVEN_KING_DESCRIPTION">
+			<Text>Kiralık birliklere +2 [ICON_Movement] Hareket ve +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BLACK_ARMY_DESCRIPTION">
+			<Text>Her bir bitişik Kiralık birlikten +3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HUSZAR_DESCRIPTION">
+			<Text>Her bir aktif İttifaktan +3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MOUNTIE_DESCRIPTION">
+			<Text>Bir Milli Park oluşturabilir.[NEWLINE][ICON_Bullet]Bir Milli Park'a 2 bölge mesafede savaşırken +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet]Size ait bir Milli Park'a 2 bölge mesafede savaşırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MANDEKALU_DESCRIPTION">
+			<Text>Kara bölgelerinde yakındaki Ticaret birliklerini Yağmalamaya karşı korur.[NEWLINE][ICON_Bullet]O birimin temel [ICON_Strength] Muharebe Gücü'nün %100'ü kadar [ICON_GOLD] Altın kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MANDEKALU_PROTECT_TRADER_DESCRIPTION">
+			<Text>Bu Mandekalu Süvarisi, Kara Bölgelerindeki yakın Ticaret birliklerinin Yağmalanmasını engeller.[NEWLINE][ICON_Bullet]O birimin temel [ICON_Strength] Muharebe Gücü'nün %100'ü kadar [ICON_GOLD] Altın kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRADER_PROTECTED_BY_MANDEKALU_DESCRIPTION">
+			<Text>Bir Mandekalu Süvarinizin yakınındaki Ticaret birlikleri, Kara Bölgelerinde Yağmalanmaya karşı bağışıktır.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CORBACI_DESCRIPTION">
+			<Text>Ücretsiz bir terfiyle başlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>Birim tüm Hareketini kullanmamışsa tur başına +1 ek saldırı.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+			<Text>Bölge savunmalarına karşı +5 [ICON_Strength] Muharebe Gücü. (Büyük Türk Bombardı)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CAROLEAN_DESCRIPTION">
+			<Text>Kullanılmayan her [ICON_Movement] Hareket için +3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CORSAIR_DESCRIPTION">
+			<Text>Kıyı baskını yapmak [ICON_Movement] Hareket gerektirmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ROCK_BAND_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Açık Sınırlar olmasa bile bu birlik yabancı topraklara girebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FINEST_HOUR_FRIENDLY_TERRITORY_DESCRIPTION">
+			<Text>Kendi topraklarında veya kendi topraklarına bitişik alanlardayken Finest Hour'dan +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CYBER_WARFARE_COMBAT_BONUS_DESCRIPTION">
+			<Text>Siber Savaş'tan Bilgi ve Gelecek Çağları'ndaki birimlere karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOA_DESCRIPTION">
+			<Text>Bitişik düşman birimleri -5 [ICON_STRENGTH] Muharebe Gücü alır.[NEWLINE][ICON_Bullet]Eşsiz Pā iyileştirmesini inşa edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MANA_DESCRIPTION">
+			<Text>Denize açıldığında +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_WMD_RESISTANCE_DESCRIPTION">
+			<Text>Kitle İmha Silahlarına karşı dirençlidir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_FIGHT_WHILE_EMBARKED_DESCRIPTION">
+			<Text>Suda hareket edebilir ve savaşabilir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DIGITAL_DEMOCRACY_DEBUFF_DESCRIPTION">
+			<Text>Dijital Demokrasi'den -3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ENABLE_WALL_PROMOTION_CLASS_ATTACK_DESCRIPTION">
+			<Text>Bir düşman şehrine bitişik olduğunda, yakın dövüş ve süvari karşıtı birimler şehrin Surlarına tam hasar verir. Orta Çağ veya Rönesans Surlarına sahip şehirleri etkilemez. Kentsel Savunmaya karşı etkisizdir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_BYPASS_WALLS_PROMOTION_CLASS_DESCRIPTION">
+			<Text>Bir düşman şehrine bitişik olduğunda, dost yakın dövüş ve süvari karşıtı birimler şehir surlarını aşarak doğrudan şehre saldırabilir. Rönesans Surlarına sahip şehirleri etkilemez. Kentsel Savunmaya karşı etkisizdir.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHOLA_NAVAL_COMBAT_DESCRIPTION">
+			<Text>Tüm deniz birimleri için +3 [ICON_Strength] Muharebe Gücü. (Rajendra Chola)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ERIKSON_NAVAL_SIGHT_DESCRIPTION">
+			<Text>Tüm deniz birimleri için +1 görüş menzili. (Leif Erikson)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARYORGANIZATION_MOVEMENT_DESCRIPTION">
+			<Text>Askeri Organizasyon politikasından [ICON_GreatGeneral] Büyük Generallere +2 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<!--Combat-->
+		<Row Tag="LOC_ABILITY_GURU_STRENGTH_XP2_DESCRIPTION">
+			<Text>Bir Guru'ya yakın olmaktan +{Amount}</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAVEN_LEVY_COMBAT_DESCRIPTION">
+			<Text>Kuzgun Kral özelliğinden +{Amount} Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ADJACENT_LEVIED_BONUS_DESC">
+			<Text>Bitişik Kiralık birimlerden +{1_Amount} Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_ALLIES_BONUS_DESC">
+			<Text>Aktif İttifaklar için +{1_Amount} Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_ALL_PARK_COMBAT_BONUS_DESCRIPTION">
+			<Text>Bir Milli Park'a 2 bölge mesafedeyken +{1_Amount} Muharebe Gücü</Text>
+		</Row>
+		<Row Tag="LOC_OWNER_PARK_COMBAT_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, bu oyuncuya ait bir Milli Park'ın 2 bölge yakınındayken</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_TURKISH_BOMBARD_COMBAT_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, Büyük Türk Bombardı özelliğinden</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOA_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount} Muharebe Gücü, düşman bir Toa'ya bitişikken</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_UNUSED_MOVEMENT_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Muharebe Gücü, kullanılmayan [ICON_Movement] Hareket için</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CITY_FRIENDLY_COMBAT_BONUS">
+			<Text>+{1_Amount} Muharebe Gücü, Baş Doğancı'dan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_DIGITAL_DEMOCRACY_COMBAT_DEBUFF">
+			<Text>{1_Amount} Muharebe Gücü, Dijital Demokrasi'den</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ABILITY_GLOBAL_COALITION_FRIENDLY_TERRITORY_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, Küresel Koalisyon'dan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CYBER_WARFARE_INFO_FUTURE_BUFF">
+			<Text>+{1_Amount} Muharebe Gücü, Siber Savaş'tan</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ABILITY_MANA_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, denizdeyken</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CHOLA_NAVAL_UNITS_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü, Rajendra Chola'dan</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

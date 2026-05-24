@@ -1,0 +1,109 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CIVILIZATION_AYUTTHAYA_NAME">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AYUTTHAYA_DESCRIPTION">
+			<Text>Ayutthaya Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AYUTTHAYA_ADJECTIVE">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AYUTTHAYA_NAME">
+			<Text>Ayutthaya Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AYUTTHAYA_DESCRIPTION">
+			<Text>Binalar tamamlandığında, inşa maliyetinin %10'u kadar [ICON_CULTURE] Kültür kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINGUETTI_NAME">
+			<Text>Chinguetti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINGUETTI_DESCRIPTION">
+			<Text>Chinguetti Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINGUETTI_ADJECTIVE">
+			<Text>Chinguetti</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CHINGUETTI_NAME">
+			<Text>Chinguetti Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CHINGUETTI_DESCRIPTION">
+			<Text>Uluslararası ve yurt içi [ICON_TradeRoute] Ticaret Yolları, bu şehirde kurduğunuz veya çoğunluk dininizin her bir takipçisi için +1 [ICON_FAITH] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JOHANNESBURG_NAME">
+			<Text>Johannesburg</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JOHANNESBURG_DESCRIPTION">
+			<Text>Johannesburg Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JOHANNESBURG_ADJECTIVE">
+			<Text>Johannesburg</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JOHANNESBURG_NAME">
+			<Text>Johannesburg Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JOHANNESBURG_DESCRIPTION">
+			<Text>Şehirler, iyileştirilmiş her kaynak türü için +1 [ICON_Production] Üretim kazanır. Sanayileşme araştırıldıktan sonra bu +2 [ICON_PRODUCTION] Üretime çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NALANDA_NAME">
+			<Text>Nalanda</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NALANDA_DESCRIPTION">
+			<Text>Nalanda Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NALANDA_ADJECTIVE">
+			<Text>Nalanda</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NALANDA_NAME">
+			<Text>Nalanda Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NALANDA_DESCRIPTION">
+			<Text>İşçileriniz artık Mahavihara iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Bilim ve +1 [Icon_Housing] Konut. Her bitişik Kutsal Alan bölgesi için +1 [ICON_Faith] İnanç ve her bitişik Kampüs bölgesi için +1 [ICON_Science] Bilim. Bilimsel Teori araştırıldıktan sonra bitişik her Kampüs için ek +1 [Icon_Science] Bilim kazanılır. Bir oyuncu ilk Mahaviharasını inşa ettiğinde rastgele bir teknoloji kazanır. Düz arazide ve başka bir Mahavihara'ya bitişik olmayacak şekilde inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAMARKAND_NAME">
+			<Text>Semerkant</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAMARKAND_DESCRIPTION">
+			<Text>Semerkant Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SAMARKAND_ADJECTIVE">
+			<Text>Semerkant</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SAMARKAND_NAME">
+			<Text>Semerkant Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_SAMARKAND_DESCRIPTION">
+			<Text>İşçileriniz artık Ticaret Kubbesi iyileştirmeleri yapabilir.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Altın. Her komşu Lüks Kaynak için +1 [ICON_Gold] Altın. Dışarıya yönelik [ICON_TradeRoute] Uluslararası Ticaret Yollarınız, çıkış noktanızdaki her Ticaret Kubbesi başına +1 [ICON_GOLD] Altın sağlar. Başka bir Ticaret Kubbesi'nin yanına inşa edilemez.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WOLIN_NAME">
+			<Text>Wolin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WOLIN_DESCRIPTION">
+			<Text>Wolin Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_WOLIN_ADJECTIVE">
+			<Text>Wolin</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_WOLIN_NAME">
+			<Text>Wolin Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_WOLIN_DESCRIPTION">
+			<Text>Bir kara birimi, büyük veya küçük bir uygarlığın birimini yok ettiğinde [ICON_GreatGeneral] Büyük General puanı ve bir deniz birimi, büyük veya küçük bir uygarlığın birimini yok ettiğinde [ICON_GreatAdmiral] Büyük Amiral puanı kazanırsınız; bu puanlar, karşı birimin gücünün %25'ine eşittir (Standart Hız).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_LAND_UNITS_NAME">
+			<Text>Büyük General Puanları</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_LAND_UNITS_DESCRIPTION">
+			<Text>Bir kara birimi, büyük veya küçük bir uygarlığın birimini yok ettiğinde, karşı birimin gücünün %25'i kadar [ICON_GreatGeneral] Büyük General puanı kazanırsınız (Standart Hız). (Wolin Şehir Devleti)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_NAME">
+			<Text>Büyük Amiral Puanları</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WOLIN_NAVAL_UNITS_DESCRIPTION">
+			<Text>Bir deniz birimi, büyük veya küçük bir uygarlığın birimini yok ettiğinde, karşı birimin gücünün %25'i kadar [ICON_GreatAdmiral] Büyük Amiral puanı kazanırsınız (Standart Hız). (Wolin Şehir Devleti)</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HAMMURABI">
+			<Text>Büyük Hammurabi, sözün kanundur. Kanunlarına göre yaşar ve liderlik eder, imparatorluğunun da aynısını yapmasını sağlarsın. Dünyayı ittifaklar, olasılıklar ve risklerden oluşan karmaşık bir ağ olarak görürsün. Mezopotamya'yı birleştirmek için imparatorluğunu inşa ederken şansını dikkatlice tart.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

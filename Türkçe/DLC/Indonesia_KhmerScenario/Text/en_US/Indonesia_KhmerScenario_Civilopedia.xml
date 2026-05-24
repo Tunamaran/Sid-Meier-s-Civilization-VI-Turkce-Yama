@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- This is a bit of a kludge to deal with the fact that our loc tool doesn't like duplicate keys between main DLC and scenario. -->
+		<!-- The following strings are prefixed with a unique scenario key then later renamed. -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_1_SCENARIO">
+			<Text>Majapahit'in ilk kralı Raden Wijaya, On Üçüncü Yüzyıl'ın son demlerinde Budizm ile Hinduizm'i devlet dininde birleştirerek tanrıların yan yana var olmasını sağladı; Budizm, Hinduizm'e tabi kılındı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_2_SCENARIO">
+			<Text>Bununla birlikte, Budist ve Hindu bağlıların kendilerine ait katı sınırlarla çizilmiş toplulukları vardı ve Majapahit yasaları misyonerlik faaliyetlerini ve din değiştirmeyi yasaklıyordu. Öte yandan, ücra dağlarda ve köylerde, kadim yerel inanışların mensuplarının ritüellerini kesintisizce sürdürmelerine izin veriliyordu (devlet dini için bir tehdit olarak görülmediklerinden). Kral, bu sayede, yeni yöneticilerin tanrılarını değiştireceğinden endişelenebilecek yerel hükümdarlarla yaşanabilecek müşkül çatışmalardan kaçınmış oluyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_INDONESIA_CHAPTER_HISTORY_PARA_3_SCENARIO">
+			<Text>Bu ikicilik, Budist Singasari hanedanlığından sorunsuz bir geçişe olanak tanırken, Majapahit'in kralın hükümdarlığını kutsamak için kendi Hindu ritüellerini kullanmasını da mümkün kıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_1_SCENARIO">
+			<Text>MS 802'de iktidara geldiğinde, II. Jayavarman kendisini 'Cakravartin' yani 'evrensel hükümdar' ilan etti. Sıradan bir fatih veya hevesli bir kral için bu hiç de kolay bir başarı olmazdı, ancak II. Jayavarman'ın arkasında devaraja kültü vardı ve iktidarı ele geçirir geçirmez bu kültü krallığının devlet yapısına yerleştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_2_SCENARIO">
+			<Text>Adı 'Tanrı-Kral' anlamına gelen devaraja kültü, Şiva'ya adanmış ana soylu bir tarikattı ve Angkor kralları tarihi boyunca hükümdarların taç giyme törenlerinde kullanıldı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KHMER_CHAPTER_HISTORY_PARA_3_SCENARIO">
+			<Text>Devaraja soyu, kralın tahta çıkış törenini yöneten ve talimatlarını kutsal adamdan alan rahip Sivakaivalya aracılığıyla devam etti. Devaraja'nın ve uygulamalarının sürekliliği o kadar önemliydi ki kral başkentini taşıdığında, kült (Sivakaivalya'nın tüm ailesiyle birlikte) onunla birlikte nakledildi.</Text>
+		</Row>
+
+		<!-- Units -->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GURU_CHAPTER_HISTORY_PARA_1">
+			<Text>'Guru', belirli bir alanda, özellikle din ve din eğitiminde usta ve öğretmen anlamına gelen Sanskritçe bir terimdir. Guru, Hinduizm, Jainizm, Budizm'in bazı kolları ve en önemlisi kurucusu Guru Nanak olan Sihizm'de büyük önem taşır. Guru ile öğrenci arasındaki uygun ilişki, bu dinlerde öğrencilere rehberlik etmek açısından hayati kabul edilir; ancak gurunun öğrenciye talimat verme yöntemleri gelenekler arasında farklılık gösterir. Tüm bunlar, gurunun yalnızca bir öğretmenden ibaret olmadığını, aynı zamanda ruhsal bilgelik ve kutsal öğretinin pınarı olduğunu açıkça ortaya koyar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MONK_CHAPTER_HISTORY_PARA_1">
+			<Text>Keşiş, dua ve ruhsal adanmışlıkla geçen çileci bir hayat yaşamak için dünyevi hayattan el etek çekmiş bir din uygulayıcısıdır. Hristiyanlık, Budizm ve Jainizm'in de aralarında bulunduğu pek çok dini gelenek, inançlarının bir parçası olarak manastır geleneğine sahiptir. Kimi manastır tarikatları neredeyse tamamen dünyadan uzaklaşırken, kimileri de çevrelerindeki topluma hizmetleriyle tanınırlar. Keşişler, dünyevi işlerden ayrılışlarını belirtmek için sıklıkla özel giysiler giyerler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_PRIEST_CHAPTER_HISTORY_PARA_1">
+			<Text>Rahip, genellikle görevi için özel bir hazırlıktan geçmiş bir dini liderdir. Terim, 'yaşlı' anlamına gelen Latince 'presbyter' kelimesinden türemiştir, ancak genel olarak günümüzde ve tarih boyunca birçok dinde oynanan rolü kapsadığı kabul edilir. Rahiplik, arkeolojik ve kültürel kayıtlarda neredeyse tarımın gelişimiyle eş zamanlı olarak ortaya çıkan, en eski insan mesleklerinden biri olabilir. Rahipler, insanlarla tanrıları arasında aracılık yapmak, kurban sunmak ve kritik yaşam olaylarını işaretleyen ritüelleri gerçekleştirmek üzere çağrılırlar. Bir rahip, rollerinin bir parçası olarak özel yükümlülüklere ve kısıtlamalara uyabilir veya toplumdaki rollerine ek olarak unvanlarını alabilirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MISSIONARY_CHAPTER_HISTORY_PARA_1">
+			<Text>Misyoner, dinini yaymak ve inançsızları bu dine döndürmek için kendini çağrılmış hisseden kişidir. Bu sürece din değiştirme çalışmaları (proselitizm) denir ve müstakbel inançlılar adına yapılan hayır işleri ya da daha zorlayıcı yöntemler eşlik edebilir. Misyonerler, rahipler gibi kutsanmış din adamları veya inanca adanmış dinî eğitim almamış kişiler olabilir. Misyonerler, çoğu zaman bunları kendi tercih ettikleri inançla değiştirme niyeti taşısalar da, temas kurdukları ön-temas kültürlerine dair inançları, ritüelleri ve dili belgelemek gibi konularda içgörü sağlayabilirler.</Text>
+		</Row>
+		<!-- Civs -->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHINA_CHAPTER_HISTORY_PARA_1">
+			<Text>Song Hanedanı yönetimindeki Çin, MS Onuncu ve On Birinci Yüzyıllarda nüfusun iki katına çıktığı geniş çaplı bir büyüme dönemiydi. Çin'in nüfuzu bu dönemde o kadar büyüktü ki, İpek Yolu üzerindeki Hotan ve Dali gibi uzak krallıklarla himaye devleti ilişkisi sürdürebiliyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHINA_CHAPTER_HISTORY_PARA_2">
+			<Text>O bölgelerdeki Müslümanlar, Yahudiler ve Maniheistler için şans eseri, Çin büyük ölçüde hoşgörülü bir Budizm dönemi yaşıyordu. Taşınabilir matbaa, din ve maneviyat üzerine edebiyatın yaygınlaşmasını sağlarken, keşişler Çin'den Hindistan'a seyahat ederek eğitim alıyor ve öğrendiklerini geri getiriyorlardı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHINA_CHAPTER_HISTORY_PARA_3">
+			<Text>Kuzey Song'da, devasa Budist pagodalarının bir gezginin göreceği ilk şey olması amaçlanmıştı. Bunların arasında en dikkat çekeni, İmparator Renzong döneminde 1049'da inşa edilen Youguo Tapınağı Demir Pagodası, yani 'Demir Pagoda'ydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_1">
+			<Text>Chola Tamil Hanedanı, MÖ Üçüncü Yüzyıl ile MS On Üçüncü Yüzyıl arasındaki geniş hükümdarlıkları boyunca ağırlıklı olarak Şaivite Hindulardı. Güney Hindistan'da, Şiva ve ailesine adanmış tapınakların inşasıyla tanınırlardı. Cholalar imparatorluklarını genişlettikçe, diğer Hint dinlerine hoşgörü gösterirken bir yandan tapınaklar inşa edip Şiva ibadetini yaydılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_2">
+			<Text>Belki de bu nedenle, 1133'te Vişnu yanlısı havari Ramanachulu, Vişnu hakkındaki iyi haberi yaymanın güvenli olacağını düşündü. Ancak dönemin Chola Racası'nın başka fikirleri vardı: Tüm tebaasının Şiva'ya iman ikrarında bulunmasını emretti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CHOLA_CHAPTER_HISTORY_PARA_3">
+			<Text>Ramanachulu, Mysore'a kaçtı ve orada racayı kendi dinine döndürdü; raca da bu dönüşümü onurlandırmak için adını Vişnu Vardhana olarak değiştirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_1">
+			<Text>Bu Müslüman hanedan, düzenli olarak Türk askerlerini Hindistan'a seferlere gönderiyordu; bu durum, o dönemde bölgedeki Jainler, Hindular ve diğer Müslüman olmayan dinlerin büyük zararına oluyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_2">
+			<Text>On Birinci Yüzyılda, Gazneli vakayiname yazarı Ebu Nasr el-Utbi, Sultan'ın Hindistan'a yönelik görevine, tüm o müşkül, yabancı putları temizlemek ve Hindistan'a İslam'ı getirmek için çıktığını yazacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_3">
+			<Text>Bir yüzyıl önce, Gazneli Mahmud farklı bir yol izlemişti (Hint Hindularıyla daha karmaşık bir ilişkisi vardı). 998'den 1030'daki ölümüne kadar hüküm süren Mahmud, yabancı dinlere karşı daha hoşgörülü bir el göstermesiyle ve fethedilen Hint topraklarını yönetmek için Hindu vasallar istihdam etmesiyle tanınırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GHAZNAVID_CHAPTER_HISTORY_PARA_4">
+			<Text>Ancak 'hoşgörülü' olmak, 'yumuşak' olmak anlamına gelmez. Mahmud, Hindistan'ı 17 kez işgal etti ve 1027'de nihayet Somnath Tapınağı'nı yağmalayarak çarpışmada 5.000 Hindu'yu öldürdü.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_1">
+			<Text>MS 750'de hanedanlıklarının başlangıcından dört yüzyıl sonraki çöküşlerine kadar Pala Hanedanlığı, bölgede Budizm'in hamileri olarak kendilerini ayrıcalıklı bir konuma taşıdı. Bu himaye, birinci binyılın ikinci yarısında Mahayana Budizmi'nin Güneydoğu Asya'da filizlenmesine olanak tanıyan türdendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_2">
+			<Text>Ve bu nüfuzun büyük bir kısmı, keşiş Atisha'ya (veya Atiśa) verdikleri destekten kaynaklanıyordu. MS 982'de Candragarbhaa adıyla doğan Atisha, kraliyet ailesinin bir üyesiydi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_3">
+			<Text>Bir keşiş olarak, 1013'ten itibaren Srivijaya Krallığı'na seyahat edecek, orada 12 yıl boyunca eğitim görecekti (muhtemelen 1025'te Srivijaya'da baş gösteren siyasi kargaşadan kaçmak için Hindistan'a döndü).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PALA_CHAPTER_HISTORY_PARA_4">
+			<Text>Seyahatleri (ve ailesinin nüfuzu) en çok Tibet'te geçirdiği zamanla tanınır; burada yerliler arasında kendini kanıtlayarak onları Mahayana Budizmi ile yeniden tanıştırdı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Uygurlar, 803'te Tufan'ı Tibetlilerden aldıktan sonra, burayı ulusal kimliklerine işleyerek dini devletin inancı haline getirdiler. Bir süreliğine.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_2">
+			<Text>Budizm, Çin'in yakın etkisi ve Tufan'ın İpek Yolu güzergahındaki konumu sayesinde hâlâ egemendi; ancak Moğol komşuları arasındaki Müslümanların varlığı, Uygurların ve Tufan'ın dinî kimliğini kökten değiştirmeye yardımcı olacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Onuncu Yüzyıla gelindiğinde, Kaşgar Sultanı Boghra Han (veya Satuq Bughra Han Gazi) gibi fatihler Tufan'a göz dikmişti ve komşu Hıtay yönünde bir yıl süren bir ihtida savaşı başlatacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TUFAN_CHAPTER_HISTORY_PARA_4">
+			<Text>Yuan Hanedanlığı döneminde (1260-1368 arası) bu dönüşüm tamamlanmıştı; Müslüman topluluk üyeleri bölge geneline (nispeten) barış içinde entegre olmuş, hatta Çin sarayında görev almışlardı.</Text>
+		</Row>
+		<!-- City States -->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DALI_CHAPTER_HISTORY_PARA_1">
+			<Text>Dağlık Dali Krallığı halkı, Tantrik Budizm'i yakınlardaki Tang Hanedanlığı'ndan miras almıştı. MS 937 ile 1253 yılları arasında, Güney İpek Yolu'nun yönetimini üstlenerek Budizm'i bölge genelinde canlı tuttular ve yaydılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_DELHI_CHAPTER_HISTORY_PARA_1">
+			<Text>Bazen 3500 yıldan daha eski olduğu söylenen bu kadim şehir; Zerdüştlük, Budizm, Hinduizm ve İslam dahil sayısız inanca ev sahipliği yapacaktı. Ancak Sultan Kutbüddin Aybek'in 'Köle Hanedanlığı' olarak adlandırılan döneminde olduğu gibi, cami inşasını büyük ölçüde artırırken 27 Jain tapınağının yıkılmasını emreden tasfiyelere de maruz kalacaktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GAOCHANG_CHAPTER_HISTORY_PARA_1">
+			<Text>Dokuzuncu Yüzyılda Gaochang, Türk Uygurlara yurt oldu. Çöldeki bu vaha; Budizm, Maniheizm ve Nasturi Hristiyanlık mensupları dahil herkesi kendine çekiyordu. Ancak Uygurlar yerleştiklerinde Budizm'e geçtiler ve Koço Krallığı döneminde tapınaklar inşa etmeye başladılar.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_GOA_CHAPTER_HISTORY_PARA_1">
+			<Text>Yerel Hindu liderlerin teşvikiyle İslam, On Birinci Yüzyılda Arap tüccarlar aracılığıyla Goa'ya ulaştı. Bu hoşgörü uzun sürmeyecekti; On Üçüncü Yüzyılda Delhi'den gelen İslam fatihleri, inançlarının daha katı bir biçimini getirdiler ve bir yüzyıl içinde bu, izin verilen tek din haline geldi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_HEIAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Bu dönemde Çin'den üç önemli ihracat kalemi geldi: çay ve birbiriyle yarışan iki Budizm yorumu. Eşitlikçi Tendai Budizmi Enryaku-ji tapınağında (kelimenin tam anlamıyla) kutsanırken, Şingon Budizmi imparatorluk sarayı tarafından benimsendi ve devlet ile inanç birleşti.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KAESONG_CHAPTER_HISTORY_PARA_1">
+			<Text>Hükümdarlığı sırasında (918-943) Wang Geon, Kaesong'da Budizm'in ateşli bir hamisiydi ve yeni başkent Gaegyeong'da 10 manastırın inşasını emretti. Ardılları ise onu geride bırakmamak için 70 manastır ve Budist metinlerinin tamamını toplayan 80.000 ahşap blok oyma eser inşa ettirdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KASHGAR_CHAPTER_HISTORY_PARA_1">
+			<Text>Kaşgar Uygurlarının vaha yurdu, İpek Yolu üzerinde bir durak noktasıydı ve bu özelliği onu bölgedeki tüccarlar için kültürel, sosyal ve ekonomik bir varış noktası haline getiriyordu. İşin kötü tarafı ise, MS 711'den başlayarak üç yüzyıl boyunca bir dizi işgal girişiminde bulunan Müslüman akıncılar da dahil olmak üzere, tüm o baş belası fatih adaylarıydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KHOTAN_CHAPTER_HISTORY_PARA_1">
+			<Text>İslam öncesi tarihinde Hotan, uzun süre Çin'in Budist bir müttefikiydi; iki ulusun seçkinleri birbiriyle evlilikler yapıyordu. Ancak MS 1000 yılına gelindiğinde Hotan, Kaşgar'la kanlı bir savaşın ardından Yusuf Kadir'in İslam egemenliği altına girdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_KUCHA_CHAPTER_HISTORY_PARA_1">
+			<Text>Kuça'nın Uygur yöneticileri, Song Hanedanlığı döneminde Çinli komşularıyla güçlü diplomatik ve dinî bağlarını sürdürdüler. Bu ilişki, On Birinci Yüzyılda Karahanlı fatih Sultanları döneminde de devam edecek; hatta bu sultanların 1072 ve 1096'da Çinlilere yeşim Buda heykelleri gönderdiği söylenmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAMPHUN_CHAPTER_HISTORY_PARA_1">
+			<Text>Efsaneye göre, Lamphun ve Lop Buri'nin Budist kralları 1130 ve 1150'de savaşa tutuştuklarında, her ikisi de Wat Jam Thewi çevresinde çatışma yerine kutsal bir inşaat olan 'dhammayuddha'yı kabul ettiler. Efsanelerde gerçek payı olabilir; bugün bölgede bu mabetlerin kanıtları mevcuttur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAMURI_CHAPTER_HISTORY_PARA_1">
+			<Text>Bu krallığın Onuncu ve On Birinci yüzyıllar arasındaki kaydı karışık ve biraz da belirsizdir. Dönemin Hint ve Arap tüccarları, buranın bağımsız bir sultanlık olduğunu ve daha sonra Mahayana Budisti Srivijaya'nın etkisi altına girdiğini söyler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MALABANG_CHAPTER_HISTORY_PARA_1">
+			<Text>Sömürge öncesi Malabang'a ev sahipliği yapan gruplar arasında Maranaolar da vardı. Bu göl halkı kabilesi, Müslüman kimliklerini, 1475'te Johor'dan bugünkü Filipinler topraklarına İslam'ı getiren Maguindanao Sultanı Şerif Muhammed Kabunsuwan'a dayandırır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PAGAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Burma'yı birleştirdikten sonra Kral Anawrahta, 1057'de ele geçirdiği Thatonlu Monları Pagan Krallığı'na sürdü—farkında olmadan Mon Budizmini hevesli bir halka taşıdı. Bu din, 1301'deki son Moğol istilalarına dek orada serpildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PALEMBANG_CHAPTER_HISTORY_PARA_1">
+			<Text>671 yılında Çinli Budist keşiş Yijing, Palembang tarzı Budizm'den etkilenmiş ve daha sonra bunun Hindistan'da uygulanan stille neredeyse aynı olduğunu belirtmiştir. Yijing, gelecekteki Çinli hacılara Hindistan'a gitmeden önce doğru uygulamaları öğrenmek için Srivijaya'yı ziyaret etmelerini tavsiye ederdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SAMARKAND_CHAPTER_HISTORY_PARA_1">
+			<Text>8. yüzyıldan itibaren Semerkant, Nasturi Hristiyanlarının metropolitlik makamlarından biriydi. Bölgede Hristiyanlığın kökleri o kadar derindi ki, Cengiz Han'ın haleflerinden Algigidai'nin din değiştirerek hükümdarlığı sırasında Katolikliğe izin verdiği söylenir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_SOMNATH_CHAPTER_HISTORY_PARA_1">
+			<Text>Somnath'taki Şiva tapınağını yok etme girişimleri hakkında, yapımından daha fazla bilgiye sahibiz. MS 1027'de ikinci tapınak, Gazneli Sultan Mahmud tarafından yerle bir edildi ve 1169'da yeniden inşa edilmesinin zeminini hazırladı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_THANG_LONG_CHAPTER_HISTORY_PARA_1">
+			<Text>Lý Thái Tổ, Thăng Long'u Vietnam'ın yeni başkenti yaptığında, Budizm'i de devlet dini olarak yerleştirdi. Bağlılığı o derecedeydi ki vatandaşları Budist rahip olarak atanmaya teşvik etti ve 1016'da yalnızca başkentte en az 1.000 kişi bunu yaptı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TEMASEK_CHAPTER_HISTORY_PARA_1">
+			<Text>Temasek, birçok hükümdarın (ve dinlerinin) egemenliğine girdi. Sırasıyla Mecapahit ve Siyam bölgenin kontrolünü ele geçirerek Budizm'i getirdiler. 'Malay Annals' bize 1409'da Kral Paramesvara'nın kontrolü ele geçirip İslam'a geçtiğini ve Malay yarımadasını da peşinden sürüklediğini anlatır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TONDO_CHAPTER_HISTORY_PARA_1">
+			<Text>Hinduizm ve Budizm, MS 900 gibi erken bir tarihte Tondo'ya ulaştı. En azından, en eski yazılı kanıt olan Laguna Bakır Levhası'nın tarihi budur ve bu levha bir Budist-Hindu ay takvimine atıfta bulunur. Her ikisi de daha sonra 14. yüzyılda İslam tarafından yerinden edildi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_TURPAN_CHAPTER_HISTORY_PARA_1">
+			<Text>MS 762'de Turfan'ı fethettikten sonra Uygurlar, Maniheist misyonerlerden o kadar etkilendiler ki Maniheizm'i resmî din ilan ettiler—bir devletin bunu yaptığı tarihteki ilk ve tek kez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_UJJAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Delhi Sultanlığı tarafından MS 1235'te şehrin yağmalanmasından önce, Ujjain uzun süre önemli bir Hindu merkezi olarak kabul edilirdi. O kadar önemliydi ki, bazıları tanrılar bir ölümsüzlük kabı için savaşırken bir damlanın Ujjain'e düştüğüne ve şehri kutsadığına inanıyordu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_VIJAYA_CHAPTER_HISTORY_PARA_1">
+			<Text>MS 12. yüzyılın sonunda Vijaya, siyasi ve kültürel bir merkez haline gelmişti; bu da Hindu Çam devletini, yeni taç giymiş Khmer Kralı VII. Jayavarman için cazip bir hedef haline getirdi. 1200'lerin ilk on yılına gelindiğinde Vijaya, Khmer'lerin Mahayana Budist etkisi altına girdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_XINGQING_CHAPTER_HISTORY_PARA_1">
+			<Text>Tangut halkı, Batı Xia'nın merkezi olan Xingqing Eyaleti'nin nüfusunu oluşturuyordu (yani, 1227'de Moğollar tarafından yağmalanmadan önce). Muhtemelen Song komşularının Budizm'inden etkilenmiş olsalar da, kendi şamanist uygulamalarını sürdürdüler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ZHONGJING_CHAPTER_HISTORY_PARA_1">
+			<Text>1189'da Zhongjing'de inşa edilen Beyaz Pagoda yalnızca bir Budist anıtı değildi; yapı elemanlarından bazıları, örneğin beyaz cüppeli Guayin tasvirlerinin eklenmesi, inşaata şamanizmin—ve ev tanrıları arzusunun—yön vermiş olabileceğine işaret edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_BANDAR_BRUNEI_CHAPTER_HISTORY_PARA_1">
+			<Text>Bandar Brunei, Borneo adasında bulunan Brunei Sultanlığı'nın başkentidir ve 7. yüzyıl gibi erken bir tarihte bir Malay limanı olarak yerleşim görmüştür. Sultanlık, gücünün zirvesine 14. ve 15. yüzyıllarda ulaşmıştır.</Text>
+		</Row>
+		<!-- Govts/Policies -->
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_QUECHANG_CHAPTER_HISTORY_PARA_1">
+			<Text>Quechang ya da "kontrollü ticaret bölgesi", tüm uluslararası ticaretin ticaret kontrolüne tabi tutulmak ve vergilendirilmek üzere geçmek zorunda olduğu bir İmparatorluk Çin bölgesiydi. İlk olarak 1142'de Jin hanedanı döneminde ortaya çıktılar ve en önemlileri su yolları ile ana kara ticaret yolları boyunca konumlanmıştı. Ancak hükümetin tüm uluslararası ticareti bu merkezlerden geçirme çabasına rağmen, resmî olmayan aktörler arasında daha esnek düzenlemeler bulmak için güçlü bir teşvik vardı, özellikle de vergi ödemekle ilgilenmeyenler (okuyun: Kaçakçılar).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_NOBLE_PATH_CHAPTER_HISTORY_PARA_1">
+			<Text>Asil Yol ya da Sekiz Katlı Yol, Siddhartha Gautama tarafından ortaya konan, çilecilik ve hazcı şımartma aşırılıkları arasında bir orta yol olarak Budist aydınlanma yolunun bir formülasyonudur. Bunlar genellikle aydınlanmış bir bireyin entelektüel olarak anlayacağı ve davranışlarında sergileyeceği nitelikler olarak anlaşılır: Doğru görüş, doğru niyet, doğru konuşma, doğru eylem, doğru geçim, doğru çaba, doğru farkındalık ve doğru konsantrasyon.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_JUNK_CHAPTER_HISTORY_PARA_1">
+			<Text>Cank (Junk), tanınabilir ve ortak tasarım özelliklerine sahip bir dizi geleneksel Çin deniz gemisinden herhangi biridir: Tam çıtalı kare yelkenler, yüksek kıç kasara, düz bir alt gövde ve aynı zamanda omurga işlevi gören devasa dümenler. Canklar, bölmeli ve su geçirmez ambarlara sahip ilk gemilerden bazılarıydı; bu da büyük gövde dayanıklılıklarına katkıda bulunmuştur. Terim, Portekizce "junco" veya Malayca "jong"dan türemiş olabilir; bu da Çince "chuan"ın lehçesel bir varyasyonudur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_DEVOTION_CHAPTER_HISTORY_PARA_1">
+			<Text>Adanmışlık, bir dine bağlılık eylemidir ve hem bireyleri hem de kültürleri tanımlayabilir. Adanmış bir kültür, dini uygulamalarını kimliğinin bir parçası olarak kullanır ve insanları daha büyük bir ortak amaç etrafında birleştirir. Bu dini adanmışlığın uygulamaları daha yüksek idealleri hedeflese de, birleşmiş bir halkın pratik, dünyevi avantajları da vardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_THALASSOCRACY_CHAPTER_HISTORY_PARA_1">
+			<Text>Talasokrasi, kontrolü sürdürmek için donanmasının gücüne dayanan siyasi bir örgütlenmedir. Yunanlılar bu terimi ilk olarak, Ege Denizi çevresindeki bölgeyi sayısız ticaret ve savaş gemileri sayesinde kontrol eden Minoslular için kullanmışlardır. Bir talasokrasi içte hemen hemen her sistemle yönetilebilir—bir monarşi, bir oligarşi ya da didişen tüccar loncaları—ancak dünyanın geri kalanıyla ilişkileri neredeyse tamamen deniz gücü ve kontrolü açısından tanımlanır. Bir Tüccar Cumhuriyeti kadar ticaret ve alışveriş odaklı olmak zorunda değildirler ve bazı talasokrasiler başkalarıyla ilişkilerinde oldukça yağmacı olmuşlardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_GOVERNMENT_THALASSOCRACY_CHAPTER_HISTORY_PARA_2">
+			<Text>Endonezya'daki Mecapahit İmparatorluğu, baharat ticaretini ve Hindistan ile Çin arasındaki yolları kontrol eden büyük bir talasokratik güçtü. Hem Portekizliler hem de Hollandalılar, donanmaları sayesinde coğrafi büyüklüklerinin ötesinde siyasi güç kullanan Avrupa'nın büyük talasokrasileriydi. Modern çağ ilerledikçe, denizcilik antlaşmaları bir zamanlar güçlü olan donanmaların boyutunu kısıtladı (zaten hızla karşılanamaz hale geliyorlardı). Sömürgecilik azaldıkça, hükümetin güç yansıtma ve sürdürme gereksinimleri de azaldı ve talasokrasiler tarihe karıştı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_COMPASS_CHAPTER_HISTORY_PARA_1">
+			<Text>Denizcilerin kadim bilgileri pratik seyrüseferin incilerini barındırsa da, size geminin yönünü güvenilir bir şekilde veren basit, iyi yapılmış bir cihazın kesinliğinin yerini hiçbir şey tutamaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_PAPERMAKING_CHAPTER_HISTORY_PARA_1">
+			<Text>Kağıdın, diğer yazı malzemelerine karşı pek çok üstünlüğü vardır. Kil tabletten daha hafif, papirüsten daha dayanıklı ve keten ya da parşömenden daha ucuzdur. Ayrıca, bir öğrencinin köpeği tarafından acil durumlarda yenilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_LIBERALISM_CHAPTER_HISTORY_PARA_1">
+			<Text>Hayırseverlik, hem İlahi Olan'a hem de insanlığa duyulan derin sevgiyi, aynı zamanda dünyada gerçekleştirilen merhametli eylemleri (ihtiyaç sahiplerine sadaka ve ekmek dağıtmak gibi) ifade eder. Bu merhametli eylemler genellikle o derin, kutsal sevginin dışa vurumu olarak görülür ve birçok din hayırseverliğe büyük bir saygınlık atfeder.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SANGHA_CHAPTER_HISTORY_PARA_1">
+			<Text>Sangha, geleneksel olarak rahibelerden, keşişlerden, kadın ve erkek dindar sıradan halktan oluşan ve topluluğun sadakalarıyla desteklenen bir Budist manastır düzenidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_PRACTITIONER_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir uygulayıcı, bir dini takip eden kişidir ve bu unvan bazen inanç konusunda özel eğitim almış olanlara saklanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_ALCHEMIST_CHAPTER_HISTORY_PARA_1">
+			<Text>Simya, sıklıkla ezoterik veya mistik unsurlar ve uygulamaları içeren kadim bir disiplindir. Bunlar uygulayıcıları hakkında büyüleyici bilgiler sunsa da kimyanın nasıl işlediğini açıklamakta daha az yardımcıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GUIDE_CHAPTER_HISTORY_PARA_1">
+			<Text>En dindar uygulayıcı bile, daha zengin bir iç dua ve meditasyon hayatı yaratmak için tavsiyelerde bulunan bir dış rehbere sahip olmaktan fayda görebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_MASTER_CHAPTER_HISTORY_PARA_1">
+			<Text>İnanç alanındaki başarıları onları tüm müminlere parlak birer örnek haline getiren bireyler vardır. Bunlara "Üstat" unvanını veririz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SAGE_CHAPTER_HISTORY_PARA_1">
+			<Text>Bilge, öğreniminin derinliği ve genişliği sıradan olanın çok ötesinde olan, onları bilgi ve hikmetin yaşayan bir kütüphanesi haline getiren kişidir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TEACHER_CHAPTER_HISTORY_PARA_1">
+			<Text>İnanç öğrenilmesi gerektiğinden, öğretme eylemi büyük bir öneme sahiptir; zira inancın yeni üyeleri ancak öğretim yoluyla kurtuluşa eriştirilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_INTERPRETER_CHAPTER_HISTORY_PARA_1">
+			<Text>Misyonerler bazen yeni bir uygarlıkla uzun süreli temas kuran ilk kişiler olur ve bu nedenle, inancı günlük uygulamada daha iyi paylaşabilmek için yeni bir dil öğrenmeyi üstlenirler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_PROPAGATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Bir misyoner, inancı yeni insanlarla paylaşma veya yayma konusunda uzmanlaşabilir; ya kutsal metinleri geniş çapta dağıtarak ya da kitlelere vaaz vererek, bazen de aynı anda kalabalıkların dönüşümüyle sonuçlanır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TRAVELER_CHAPTER_HISTORY_PARA_1">
+			<Text>Bazı misyonerler, inancı evlerinden çok uzaktaki uygarlıklarla paylaşmak için çağrıldıklarını hisseder, her şeyi geride bırakır ve birçok tehlikeyle dolu destansı yolculuklara çıkarlar; fedakarlıkları, inançlarını paylaşanlar tarafından onurlandırılır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_WALK_ON_WATER_CHAPTER_HISTORY_PARA_1">
+			<Text>İnancı paylaşma şevki fiziksel engellerle sınırlandırılamayanlar vardır. Dağlarla karşılaşırlarsa onları aşarlar; derin okyanuslarla yüzleşirlerse ilerlemekten çekinmezler.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_PROSELYTIZER_CHAPTER_HISTORY_PARA_1">
+			<Text>Bazı keşiş tarikatları, inancı en yoksul köylüye de en büyük imparatora da açıklayabilen ünlü vaizlerdir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TRANSLATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Birçok dilde kutsal metinlerin kütüphanelerini muhafaza edenler, bu metinlerin içindeki fikirlerin korunmasını ve yayılmasını sağlamak gibi özel bir sorumluluğa sahiptir; işte bu noktada dil yeteneği en çok değer görendir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GOVERNMENTS_PAGEGROUP_MILITARY_POLICIES_NAME">
+			<Text>Dini Politikalar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_DEBATER_CHAPTER_HISTORY_PARA_1">
+			<Text>Müminler sapkın fikirlerle yozlaşmayacaksa, teolojik sorular sağlam bir sorgulamaya tabi tutulmalıdır. Teoloji tartışması rahip için uygun bir iş değil midir?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GARRISON_CHAPTER_HISTORY_PARA_1">
+			<Text>Krallıkların ve inançların savunması, askeri papaz olarak görev yapan rahipler veya militan tarikat üyeleri şahsında sıklıkla birbirine bağlanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_ORATOR_CHAPTER_HISTORY_PARA_1">
+			<Text>Retorik sanatları yalnızca seküler alanlarda uygulanmaz. İnanç meselelerinde, ustaca retorik yalnızca dinleyiciyi memnun etmekle kalmaz, aynı zamanda tanrıları da memnun eder.</Text>
+		</Row>
+		<!-- Religions -->
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_1_CHAPTER_HISTORY_PARA_1">
+			<Text>Şaivizm, Tanrı Şiva'nın yüce tanrı olarak örgütlü bir şekilde tapınılmasıdır ve günümüzde Hinduizm'in ana kollarından biridir. MÖ 2. yüzyıl ile MS 2. yüzyıl arasında Paşupata mezhebiyle Hindistan'da örgütlenmiş ve oradan Güneydoğu Asya'ya yayılmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_2_CHAPTER_HISTORY_PARA_1">
+			<Text>Dharma, geleneksel Vedik dininde mevcut olan bir kavramdı ve zamanla evrilerek Hinduizm'de insanlığın düzenleyici ilkesi hâline geldi. Toplumdaki davranışları, ritüelleri, yasaları ve ahlakı düzenleyen kurallar ve gelenekler bütününden oluşur. Dharma'ya uymak, kişinin hayattaki gerçek amacını takip etmesi anlamına gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_3_CHAPTER_HISTORY_PARA_1">
+			<Text>Theravada veya "İhtiyarların Yolu", doktriner çekirdeği Pali Kanonu (Budizm'in en eski ve en eksiksiz kutsal metin derlemesi) olan ve ilk Budist rahip topluluğundan geldiğini iddia eden bir Budizm koludur. Güneydoğu Asya'da en yaygın olan ve çoğunlukla baskın ibadet biçimi olarak görülen yapıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_4_CHAPTER_HISTORY_PARA_1">
+			<Text>Mahayana veya "Büyük Araç" Budizmi, Budist pratiklerinin başlıca sınıflandırmalarından biridir ve günümüzde Budizm'in en büyük geleneğidir. Zengin kozmolojisi, ritüelizmi, metafiziği ve evrensel ahlak anlayışıyla karakterize edilir. Chan, Seon ve Zen Budizmi dâhil olmak üzere kendisinden birçok okul türemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_RELIGIONS_PAGE_RELIGION_CUSTOM_5_CHAPTER_HISTORY_PARA_1">
+			<Text>Vajrayana veya "Yıldırım Aracı", en bilinen şekliyle Tibet'te geliştirilen Tantrik bir Budizm biçimidir. Aydınlanmaya tek bir insan ömrü içinde ulaşma konusundaki bazı temel farklılıklarla Mahayana Budizmi'nden ayrılır. Vajrayana Budizmi, Mandala dâhil olmak üzere göz alıcı görsel sanatları ve ezoterik uygulamalarıyla dikkat çeker.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

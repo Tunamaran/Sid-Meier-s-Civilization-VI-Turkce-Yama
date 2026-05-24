@@ -1,0 +1,11 @@
+<GameData>
+	<EnglishText>
+    <!--New for XP2-->
+    <Row Tag="LOC_ROUTE_RAILROAD_NAME">
+      <Text>Demiryolu</Text>
+    </Row>
+    <Row Tag="LOC_ROUTE_RAILROAD_DESCRIPTION">
+      <Text>Yalnızca Askeri Mühendisler tarafından inşa edilebilir. Bir kullanım hakkı gerektirmez, ancak 1 [ICON_RESOURCE_IRON] Demir ve 1 [ICON_RESOURCE_COAL] Kömür harcar. Herhangi bir birimin bir Demiryolu hücresinden diğerine hareket ederken [ICON_Movement] Hareket hızını büyük ölçüde artırır. Demiryolları üzerinden seyahat eden [ICON_TradeRoute] Ticaret Yolları, varış noktalarındaki bölgelerden elde ettikleri [ICON_Gold] Altını katlayabilir.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

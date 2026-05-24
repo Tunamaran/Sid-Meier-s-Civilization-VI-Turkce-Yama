@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Base Menu-->
+		<Row Tag="LOC_UI_ENDGAME_REPLAY_MOVIE">
+			<Text>Filmi Tekrar İzle</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_MAIN_MENU">
+			<Text>Ana Menü</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_EXTENDED_GAME">
+			<Text>Bir Tur Daha...</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_MP_PLAYER_CHANGE_CONTINUE">
+			<Text>Sonraki Oyuncu</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_VICTORY_INFO">
+			<Text>SONUÇLAR</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING">
+			<Text>SIRALAMA</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_REPLAY">
+			<Text>GRAFİKLER</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_CHAT">
+			<Text>SOHBET</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+			<Text>{1_number}.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_POP_SCORE">
+			<Text>Puan</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_LEADER_NAME">
+			<Text>Lider Adı</Text>
+		</Row>
+		<!-- Rankings -->
+		<Row Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
+			<Text>{1_LeaderName} seviyesine eriştiniz.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_NAME">
+			<Text>Augustus Sezar</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_1_QUOTE">
+			<Text>Roma'yı tuğladan bir şehir olarak buldum, mermerden bir şehir olarak bıraktım.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_NAME">
+			<Text>Hammurabi</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_2_QUOTE">
+			<Text>Hükümetin ilk görevi, güçsüzleri güçlülerden korumaktır.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_NAME">
+			<Text>Abraham Lincoln</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_3_QUOTE">
+			<Text>Bugün yapılabilecek hiçbir şeyi yarına bırakma.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_NAME">
+			<Text>Winston Churchill</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_4_QUOTE">
+			<Text>Büyük gücün olduğu yerde büyük sorumluluk vardır; daha az gücün olduğu yerde daha az sorumluluk vardır; ve gücün olmadığı yerde, bence, hiçbir sorumluluk olamaz.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_NAME">
+			<Text>Nelson Mandela</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_5_QUOTE">
+			<Text>Gerçek liderler, halklarının özgürlüğü için her şeyi feda etmeye hazır olmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_NAME">
+			<Text>Büyük Katerina</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_6_QUOTE">
+			<Text>Bir milletin güveni olmadan güç hiçbir şeydir.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_NAME">
+			<Text>Aşoka</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_7_QUOTE">
+			<Text>Başka mezhepleri yermek yasaktır; gerçek mümin, onlardaki hürmete layık olana hürmet eder.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_NAME">
+			<Text>Marcus Aurelius</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_8_QUOTE">
+			<Text>Hayatın amacı çoğunluğun yanında olmak değil, kendini delilerin arasında bulmaktan kaçınmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_NAME">
+			<Text>Lech Wałęsa</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_9_QUOTE">
+			<Text>Bir millet olarak, kendi işlerimizi belirleme ve kendi geleceğimizi şekillendirme hakkına sahibiz.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_NAME">
+			<Text>Hatşepsut</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_10_QUOTE">
+			<Text>İşitin, ey tüm insanlar! Ne kadar çoksanız ey halk! Yüreğimin tasarısına uygun işler eyledim.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_NAME">
+			<Text>Charles de Gaulle</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_11_QUOTE">
+			<Text>Metin, saf ve sadık olalım; kederimizin sonunda, dünyanın en büyük yüceliği vardır: boyun eğmeyen insanların yüceliği.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>Akitanyalı Eleanor</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>Ne acınası haldeyim, ne de acıyanım var; iki krallığın hâkimi, iki kralın anası iken nasıl oldu da bu nefretlik yaşlılığın utancına düştüm? İç organlarım parçalandı, ailem elimden alınıp götürüldü.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_NAME">
+			<Text>Korkunç İvan</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_13_QUOTE">
+			<Text>Sakal tıraşı, tüm şehitlerin kanının bile temizleyemeyeceği bir günahtır; Tanrı'nın suretini bozmaktır.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_NAME">
+			<Text>Herbert Hoover</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_14_QUOTE">
+			<Text>Ülkenin ihtiyacı olan şey iyi bir gülümsemedir… Biri on günde bir güzel bir şaka yapabilse, sorunlarımızın biteceğini düşünüyorum.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_NAME">
+			<Text>XVI. Louis</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_15_QUOTE">
+			<Text>Her yüksek bir makamı doldurduğumda, yüz tane memnuniyetsiz adam ve bir nankör yaratırım.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_NAME">
+			<Text>Neville Chamberlain</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_16_QUOTE">
+			<Text>Çağımızda barış.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_NAME">
+			<Text>Neron</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_17_QUOTE">
+			<Text>Kendisine söylenene her zaman inanmaya hazır olan adam, asla iyi bir iş çıkaramaz.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_NAME">
+			<Text>Warren G. Harding</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_18_QUOTE">
+			<Text>En tehlikeli eğilimimiz hükûmetten çok fazla şey bekleyip aynı anda ona çok az şey vermektir.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_NAME">
+			<Text>Hazırlıksız Ethelred</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_19_QUOTE">
+			<Text>Kutsal Teslis adına, bu Hristiyan halkına, yani tebaama üç şey vaat ediyorum: Birincisi, Tanrı’nın Kilisesi’ni ve krallığımdaki tüm Hristiyanları gerçek barış içinde tutacağım; ikincisi, her sınıftan insana karşı tüm yağma ve adaletsizliği yasaklayacağım; üçüncüsü, tüm yargılarda adaleti ve merhameti vaat ediyor ve emrediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_NAME">
+			<Text>I. Mary Tudor</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_20_QUOTE">
+			<Text>Rabbim, sana güveniyorum; asla utandırılmayayım: Tanrı bizden yanaysa, bize karşı kim olabilir?</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_NAME">
+			<Text>Dan Quayle</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
+			<Text>Gerçekleşebilecek ya da gerçekleşmeyebilecek her türlü öngörülemeyen olaya hazırız.</Text>
+		</Row>
+		<!-- Replay -->
+		<Row Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
+			<Text>Grafik Verisi Yok</Text>
+		</Row>
+		<!-- Graph Data Sets -->
+		<Row Tag="LOC_REPLAYDATASET_CULTURE_NAME">
+			<Text>Tur Başına Kültür</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_CULTURE_DESC">
+			<Text>Her tur elde edilen Kültür miktarı.</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_NAME">
+			<Text>Altın Dengesi</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALGOLD_DESC">
+			<Text>Oyuncunun toplam Altın miktarı.</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESBUILT_NAME">
+			<Text>Kurulan Toplam Şehir Sayısı</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALDISTRICTSBUILT_NAME">
+			<Text>Toplam İnşa Edilen Bölge</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWONDERSBUILT_NAME">
+			<Text>Toplam İnşa Edilen Harika</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALBUILDINGSBUILT_NAME">
+			<Text>Toplam İnşa Edilen Bina</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESCAPTURED_NAME">
+			<Text>Toplam Ele Geçirilen Şehir</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESLOST_NAME">
+			<Text>Toplam Kaybedilen Şehir</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCITIESDESTROYED_NAME">
+			<Text>Toplam Yok Edilen Şehir</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWARSDECLARED_NAME">
+			<Text>Toplam İlan Edilen Savaş</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWARSWON_NAME">
+			<Text>Toplam Kazanılan Savaş</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALCOMBATS_NAME">
+			<Text>Toplam Muharebe Sayısı</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALUNITSDESTROYED_NAME">
+			<Text>Toplam Öldürülen Birim</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALPLAYERUNITSDESTROYED_NAME">
+			<Text>Toplam Kaybedilen Birim</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALRELIGIONSFOUNDED_NAME">
+			<Text>Toplam Kurulan Din</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GREATPEOPLEEARNED_NAME">
+			<Text>Toplam Kazanılan Büyük Kişi</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALWARSAGAINSTPLAYER_NAME">
+			<Text>Toplam Alınan Savaş İlanı</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_TOTALPANTHEONSFOUNDED_NAME">
+			<Text>Toplam Kurulan Panteon</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_SCOREPERTURN_NAME">
+			<Text>Tur Başına Puan</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_SCIENCEPERTURN_NAME">
+			<Text>Tur Başına Bilim</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_FAITHPERTURN_NAME">
+			<Text>Tur Başına İnanç</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

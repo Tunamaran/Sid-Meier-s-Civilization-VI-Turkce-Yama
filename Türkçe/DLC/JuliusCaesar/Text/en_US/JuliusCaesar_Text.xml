@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_AGENDA_GALLIC_WARS_NAME">
+			<Text>Galya Savaşları</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GALLIC_WARS_DESCRIPTION">
+			<Text>Barbarlardan nefret eder. Barbar karakollarını temizleyen uygarlıkları sever. Barbar karakollarını görmezden gelen uygarlıkları sevmez.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Ben, Alp ormanlarında olduğu gibi Senato'da da komploları bozguna uğratan Sezar'ım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>İhtiraslısın. Ben sana yürümeden evvel beni fethetmeye niyetlisin. Beğendim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Zar atıldı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Muzaffer bir ordu, bir muzaffer tarafından yönetilendir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Tehlike kapınızın önünde, oysa siz elinizi kıpırdatmıyorsunuz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Sen de mi? Öyleyse devril, Sezar.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Dostlarım arasında Octavianus, Antonius ve sevgili Brutus vardır. Şimdi de sen!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Hain bir dostu her zaman tanırım. Her zaman.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Roma kendine has zarafetten yoksun değildir. Gel, dostluğumuza katıl.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Sana, sevgili Brutus'ün bana olduğu kadar vefalı bir dost olacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Zayıf ve aç görünüyorsun. Böyle insanlar tehlikelidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Onları, Vercingetorix'e yaptığımız gibi Roma'da gezdiririz!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Hediyeler asla karşılıksız değildir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Roma'nın armağanları: ekmek, zeytin, peynirler ve garum. Bunlar ve benim lütfum, uzun ömür bahşedermiş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Söylediklerinde samimi olman iyi olur. Zira ben boş tehditler savurmam.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Solgun ve aç bir görünüşün var. Pek hoşuma gitmedi. (Seni Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Bütün yolların sonu Roma'dır, iyi ya da kötü. Görmek ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Geçecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Roma'dan selamlar! Vahşi doğadaki diğer uygarlık ışıklarını öğrenmek için sabırsızlanıyoruz. Bana kendinizinkinden bahseder misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Bana kulak verin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Çıkarlarımız tıpkı bir testudo gibi birbirine kenetlenmiştir. Bunu resmîleştirelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Bir kılıç bile vurmaktan yorulur.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Barış, ancak almam gereken benim olanı teslim aldığımda gelecektir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Bu savaş, başkalarına karşı daha iyi kullanılacak gücü tüketiyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>İmparatorluğumuz binlerce farklı halkı bağrında barındırır. Sizinkiler de topraklarımızdan geçerken kendilerini yabancı hissetmez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Barbar savaşçıların topraklarımızda başıboş dolaşmasına izin verir miyiz? Hayır. Asla vermeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Düzenli insanlar gibi, birliklerimizin barış içinde başka diyarlara yürümesine izin vermeyi kabul edelim mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Açıkça söyle: Bu birlikler Roma'ya mı yönelik? Onları barışa mı çağıracaksın, yoksa katliama mı süreceksin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Veto.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_JULIUS_CAESAR_ANY">
+			<Text>Öyle olsun.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Çağ boyunca güçlü bir oyun bonusu sağlayacak Altın Çağ Politikaları'nı yuvana yerleştirebilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT_PARAM">
+			<Text>Bu oyun çağında bir [ICON_GLORY_GOLDEN_AGE] Altın Çağ'ın içindesiniz![NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde {Amount} oranında Bağlılık baskısı uygular. Bu baskı, 9 bölge içerisindeki diğer şehirleri de etkiler ancak her bölge başına %10 daha az etkilidir.[NEWLINE][NEWLINE][ICON_BULLET]Tamamladığınız her Teknoloji veya Yönetim Bilimi için 1 Çağ Puanı kazanırsınız.[NEWLINE][NEWLINE][ICON_BULLET]İlk terfisinden sonra terfi kazanan her askerî birim için 1 Çağ Puanı kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM}[NEWLINE][NEWLINE][ICON_BULLET]Çağ boyunca güçlü bir oyun bonusu sağlayacak Karanlık Çağ Politikaları'nı yuvana yerleştirebilirsin.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT_PARAM">
+			<Text>Bu oyun çağında bir [ICON_GLORY_DARK_AGE] Karanlık Çağ'ın içindesiniz.[NEWLINE][NEWLINE][ICON_BULLET]Her bir [ICON_Citizen] Vatandaşınız, bulunduğu şehirde {Amount} oranında Bağlılık baskısı uygular. Bu baskı, 9 bölge içerisindeki diğer şehirleri de etkiler ancak her bölge başına %10 daha az etkilidir.[NEWLINE][NEWLINE][ICON_BULLET]Bazı şehirleriniz isyan ederek artan Bağlılık baskısıyla Özgür Şehirler haline gelmiş olabilir. Dikkatli olun: onlarla ilgilenmezseniz yakındaki diğer şehirlerinizi de kaybedebilirsiniz.[NEWLINE][NEWLINE][ICON_BULLET]Tamamladığınız her Teknoloji veya Yönetim Bilimi için 1 Çağ Puanı kazanırsınız.[NEWLINE][NEWLINE][ICON_BULLET]İlk terfisinden sonra terfi kazanan her askerî birim için 1 Çağ Puanı kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+			<Text>Altın Çağ'dayken fazladan bir Joker Politika Yuvası kazanır ve Karanlık Çağ Politikaları'nı kullanabilir. Savunma binalarına +%50 [ICON_Production] Üretim.</Text>
+		</Row>
+		<!-- ========== -->
+		<!-- Notifications -->
+		<!-- ========== -->
+		<Row Tag="LOC_NOTIFICATION_COMMERATION_REPLACEMENT_MESSAGE">
+			<Text>Yeni Bir Çağ</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMERATION_REPLACEMENT_SUMMARY">
+			<Text>Oyun yeni bir çağa girdiği için Bağlılık baskınız değişti; Karanlık veya Altın Çağ Politikaları'nı yuvana yerleştirebilirsin.</Text>
+		</Row>
+		<!-- ========== -->
+		<!-- Social Policies -->
+		<!-- ========== -->
+		<Row Tag="LOC_POLICY_FREE_ENQUIRY_NAME">
+			<Text>Özgür Araştırma</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FREE_ENQUIRY_DESCRIPTION">
+			<Text>Ticaret Merkezi ve Liman bölgelerinin [ICON_GOLD] Altını aynı zamanda [ICON_Science] Bilim de sağlar. Kampüs bölgeleri ise [ICON_SCIENCE] Bilim bonuslarına eşit miktarda [ICON_GOLD] Altın üretir.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRAETORIAN_GUARD_NAME">
+			<Text>Praetorian Muhafızları</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PRAETORIAN_GUARD_DESCRIPTION">
+			<Text>Yaralı birimler tur başına +10 Can iyileşebilir. Ordugâh bölgelerine ve binalarına +2 [ICON_PRODUCTION] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_NAME">
+			<Text>İncilcilerin Çıkışı</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EXODUS_OF_THE_EVANGELISTS_DESCRIPTION">
+			<Text>Tüm Dinî birliklere +2 [ICON_Movement] Hareket. Ayrıca yeni eğitilenler +2 Kullanım Hakkı kazanır. Tur başına +4 [ICON_GreatProphet] Büyük Peygamber puanı.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONUMENTALITY_NAME">
+			<Text>Anıtsallık</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONUMENTALITY_DESCRIPTION">
+			<Text>Tüm İşçi ve Yerleşimcilere +2 [ICON_Movement] Hareket. [ICON_Faith] İnanç ile sivil birimler satın alınabilir. İşçiler [ICON_FAITH] İnanç ve [ICON_GOLD] Altın ile %30 daha ucuza satın alınır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REFORM_THE_COINAGE_NAME">
+			<Text>Para Reformu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_REFORM_THE_COINAGE_DESCRIPTION">
+			<Text>Tüccarlarınız yağmalanamaz. Uluslararası [ICON_TradeRoute] Ticaret Yolları, yabancı şehirdeki her uzmanlık bölgesi başına +3 [ICON_Gold] Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CULTURE_INDUSTRY_NAME">
+			<Text>Kültür Endüstrisi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CULTURE_INDUSTRY_DESCRIPTION">
+			<Text>Şehirler her uzmanlık bölgesi için +1 [ICON_CULTURE] Kültür kazanır. Uzmanlık dışı bölgelere +%25 [ICON_PRODUCTION] Üretim. Eğlence Kompleksi ve Su Parkı bölgesi binaları [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_HEARTBEAT_OF_STEAM_NAME">
+			<Text>Buharın Nabzı</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_HEARTBEAT_OF_STEAM_DESCRIPTION">
+			<Text>Sanayi Çağı ve sonrasındaki harikalara +%10 [ICON_Production] Üretim. Kampüs bölgesinin [ICON_SCIENCE] Bilim komşuluk bonusu ayrıca [ICON_PRODUCTION] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TO_ARMS_NAME">
+			<Text>Silah Başına!</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TO_ARMS_DESCRIPTION">
+			<Text>Tüm birliklerin kazandığı XP +%50 ve askeri birliklere yönelik [ICON_Production] Üretim +%15.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WISH_YOU_WERE_HERE_NAME">
+			<Text>Keşke Burada Olsaydın</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_WISH_YOU_WERE_HERE_DESCRIPTION">
+			<Text>Tüm Milli Parklara +%100 [ICON_TOURISM] Turizm ve Dünya Harikalarından +%50 [ICON_TOURISM] Turizm.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKY_AND_STARS_NAME">
+			<Text>Gökyüzü ve Yıldızlar</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SKY_AND_STARS_DESCRIPTION">
+			<Text>Uzay Limanı ve Hava Meydanı bölgelerine +%30 [ICON_PRODUCTION] Üretim. Uzay Limanı veya Hava Meydanı bulunan şehirlere +%15 [ICON_SCIENCE] Bilim ve [ICON_PRODUCTION] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_NAME">
+			<Text>Askeri-Endüstriyel Kompleks</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MILITARY_INDUSTRIAL_COMPLEX_DESCRIPTION">
+			<Text>Geliştirilmiş tüm Alüminyum, Petrol ve Uranyum kaynakları tur başına 2 ek kaynak sağlar. Tüm muharebe birlikleri +5 [ICON_Strength] Muharebe Gücü kazanır ve menzilli saldırısı olan birlikler +1 Menzil kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MANDALA_STATE_NAME">
+			<Text>Mandala Devleti</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MANDALA_STATE_DESCRIPTION">
+			<Text>Her Harika için +4 [ICON_CULTURE] Kültür. Şehirlerinizdeki her Harika, 9 kare içindeki yabancı şehirlerin tur başına 2 Bağlılık kaybetmesine neden olur.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SAKDINA_NAME">
+			<Text>Sakdina</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SAKDINA_DESCRIPTION">
+			<Text>Projeleriniz aktifken her Vatandaşınız şehrine +0,5 Bağlılık baskısı uygular. Projeleriniz tamamlandığında, projenin bulunduğu bölgedeki her Bina için ek olarak +%10 [ICON_GreatPerson] Büyük Kişi puanı elde edersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SOLIDARITY_NAME">
+			<Text>Dayanışma</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SOLIDARITY_DESCRIPTION">
+			<Text>Tüm [ICON_Governor] Valiler 2 ek yabancı Bağlılık baskısı uygular. Vali bulunan tüm şehirleriniz +%25 [ICON_GOLD] Altın ve +%25 [ICON_FAITH] İnanç kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POPULAR_FRONT_NAME">
+			<Text>Halk Cephesi</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_POPULAR_FRONT_DESCRIPTION">
+			<Text>Şehir Devletlerinde Süzerenlikten ve İttifak Seviyesinden +%100 İtibar. Şehir Devletlerine giden Ticaret Yollarınız tüm getirilere +4 sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_NAME">
+			<Text>Askeri-Endüstriyel Kompleks</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>Askeri-Endüstriyel Kompleks politikasından +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>Askeri-Endüstriyel Kompleks politikasından +{1_Amount} Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_NAME">
+			<Text>Askeri-Endüstriyel Kompleks</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MILITARY_INDUSTRIAL_COMPLEX_RANGE_DESCRIPTION">
+			<Text>Askeri-Endüstriyel Kompleks politikasından +1 Menzil.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MONASTICISM_DA_DESCRIPTION">
+			<Text>Kutsal Alana sahip şehirlerde +75% [ICON_Science] Bilim.[NEWLINE]ANCAK: Kutsal Alana sahip olmayan şehirlerde -25% [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ELITE_FORCES_DA_DESCRIPTION">
+			<Text>Tüm birimler için +100% muharebe deneyimi.[NEWLINE]ANCAK: Her muharebe ve casus birimini beslemek için +1 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_INQUISITION_DA_DESCRIPTION">
+			<Text>Engizisyon'a 1 Havari kullanım hakkı ile başla. Tüm Dinî Birlikler dost bölgede +15 [ICON_Religion] Dinî Muharebe Gücü kazanır.[NEWLINE]ANCAK: Tüm şehirlerde -15% [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ISOLATIONISM_DA_DESCRIPTION">
+			<Text>Yurt içi ticaret yolları +3 [ICON_Food] Besin, +3 [ICON_Production] Üretim ve +3 [ICON_Gold] Altın sağlar.[NEWLINE]ANCAK: Yerleşimci eğitilemez, satın alınamaz ve yeni şehir kurulamaz.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_ROBBER_BARONS_DA_DESCRIPTION">
+			<Text>Banka veya Tersane bulunan şehirlerde +50% [ICON_Gold] Altın ve +25% [ICON_Production] Üretim.[NEWLINE]ANCAK: Tüm şehirlerde -2 [ICON_Amenities] Olanak.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVISM_DA_DESCRIPTION">
+			<Text>Çiftlikler +1 [ICON_Production] Üretim sağlar. Tüm şehirler +2 [ICON_Housing] Konut kazanır. Sanayi Bölgeleri komşuluk bonuslarına eşit miktarda [ICON_FOOD] Besin sağlar.[NEWLINE]ANCAK: [ICON_GreatPerson] Büyük Kişi Puanları %50 daha yavaş kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DECENTRALIZATION_NAME">
+			<Text>Adem-i Merkeziyet</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DECENTRALIZATION_DESCRIPTION">
+			<Text>6 veya daha az [ICON_CITIZEN] nüfusa sahip şehirler tur başına +4 Bağlılık kazanır. ANCAK: 6'dan fazla [ICON_CITIZEN] nüfusa sahip şehirler -15% [ICON_Gold] Altın alır.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SOFT_TARGETS_NAME">
+			<Text>Yumuşak Hedefler</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SOFT_TARGETS_DESCRIPTION">
+			<Text>Şehir saldırılarına ve bölge savunmalarına karşı +10 [ICON_Strength] Muharebe Gücü. ANCAK: Birimlere karşı -3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_NAME">
+			<Text>Yumuşak Hedefler</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_DESCRIPTION">
+			<Text>Yumuşak Hedefler politikasından şehir saldırılarına karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_NAME">
+			<Text>Yumuşak Hedefler</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_DESCRIPTION">
+			<Text>Yumuşak Hedefler politikasından bölge savunmalarına karşı +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_NAME">
+			<Text>Yumuşak Hedefler</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_DESCRIPTION">
+			<Text>Yumuşak Hedefler politikasından birimlere karşı -3 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ABILITY_SOFT_TARGETS_DEFENDING_CITY_RANGE_COMPLEX_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>Yumuşak Hedefler politikasından +{1_Amount} [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_DISTRICTS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>Yumuşak Hedefler politikasından +{1_Amount} [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SOFT_TARGETS_ATTACKING_UNITS_COMBAT_STRENGTH_PREVIEW_DESCRIPTION">
+			<Text>[COLOR_RED]{1_Amount}[ENDCOLOR][ICON_Strength] Soft Targets politikasından gelen Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DESPOTIC_PATERNALISM_NAME">
+			<Text>Despotik Paternalizm</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DESPOTIC_PATERNALISM_DESCRIPTION">
+			<Text>[ICON_Governor] Vali bulunan şehirlerde tur başına +4 Bağlılık. ANCAK: Yerleşik bir [ICON_Governor] Vali bulunmayan tüm şehirlerde -%15 [ICON_Science] Bilim ve -%15 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SAMODERZHAVIYE_NAME">
+			<Text>Samoderjaviye</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_SAMODERZHAVIYE_DESCRIPTION">
+			<Text>Başkentinizde %+50 [ICON_PRODUCTION] Üretim. ANCAK: Tüm [ICON_Governor] Valiler etkisiz hâle getirilir ve yeniden atanamazlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

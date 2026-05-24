@@ -1,0 +1,17 @@
+<GameData>
+	<EnglishText>
+		<!--Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_MAHAVIHARA_NAME">
+			<Text>Maha Vihara</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MAHAVIHARA_DESCRIPTION">
+			<Text>İşçi'nin Maha Vihara inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_SCIENCE] Bilim ve +1 [Icon_Housing] Konut. Yakındaki her Kutsal Alan bölgesi için +1 [ICON_Faith] İnanç ve yakındaki her Kampüs bölgesi için +1 [ICON_Science] Bilim. Bilimsel Teori araştırmasından sonra yakındaki her Kampüs için ek +1 [Icon_Science] Bilim kazancı elde edilir. Bir oyuncu ilk Maha Vihara'sını inşa ettiğinde rastgele bir teknoloji kazanır. Başka bir Maha Vihara'ya bitişik olmayan düz arazide inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_TRADING_DOME_NAME">
+			<Text>Ticaret Kubbesi</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_TRADING_DOME_DESCRIPTION">
+			<Text>İşçi'nin Ticaret Kubbesi inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Altın. Yakındaki her Lüks Kaynak için +1 [ICON_Gold] Altın. Kaynak şehrinizden başlayan giden uluslararası [ICON_TradeRoute] Ticaret Yolları, menşeideki her Ticaret Kubbesi başına +1 [ICON_GOLD] Altın sağlar. Başka bir Ticaret Kubbesi'nin yanına inşa edilemez.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

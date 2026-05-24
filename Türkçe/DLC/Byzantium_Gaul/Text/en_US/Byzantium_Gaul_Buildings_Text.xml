@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_STATUE_OF_ZEUS_NAME">
+			<Text>Zeus Heykeli</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_OF_ZEUS_DESCRIPTION">
+			<Text>3 Okçu, 3 Kargıcı ve bir Koçbaşı verir. Süvari karşıtı birliklere karşı %50 [ICON_PRODUCTION] Üretim bonusu sağlar. Kışlası olan bir Ordugâh Bölgesi'ne bitişik düz arazide inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSPHERE_NAME">
+			<Text>Biyosfer</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSPHERE_DESCRIPTION">
+			<Text>Tamamlandığında, bu şehirdeki her Bataklık, Yağmur Ormanı ve Orman için 100 [ICON_SCIENCE] Bilim kazanılır. İmparatorluğunuzdaki Yağmur Ormanı ve Bataklık alanlarına bitişik bölgeler +1 Çekicilik kazanır. Bir Mahalle Bölgesi'ne bitişik bir Nehir kıyısında inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSPHERE_EXPANSION2_DESCRIPTION">
+			<Text>Tüm Açık Deniz Rüzgâr Çiftlikleri, Güneş Çiftlikleri, Rüzgâr Çiftlikleri, Jeotermal Santralleri ve Hidroelektrik Barajları için %200 [ICON_POWER] Enerji. Bu bina ve bu geliştirmeler, sağladıkları [ICON_POWER] Enerji miktarına eşit [ICON_TOURISM] Turizm sağlar. İmparatorluğunuzdaki Yağmur Ormanı ve Bataklık alanlarına bitişik bölgeler +1 Çekicilik kazanır. Bir Mahalle Bölgesi'ne bitişik bir Nehir kıyısında inşa edilmelidir.</Text>
+		</Row>
+		<Row Tag="LOC_TOURISM_LENS_GREEN_ENERGY_TOOLTIP">
+			<Text>Ziyaretçiler, yeşil enerji kaynaklarınızdan etkileniyor.[NEWLINE]+{1_CurrentTourists} [ICON_Tourism] Turizm üretiliyor[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_OF_ZEUS_QUOTE">
+			<Text>"Tanrının başında bir zeytin tacı vardı; sağ elinde kanatlı bir Zafer heykeli taşıyordu"[NEWLINE]- Samuel Augustus Mitchell</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BIOSHPERE_QUOTE">
+			<Text>"Cennet, başımızın üstünde olduğu kadar ayaklarımızın altındadır"[NEWLINE]- Henry David Thoreau</Text>
+		</Row>
+	</EnglishText>
+</GameData>

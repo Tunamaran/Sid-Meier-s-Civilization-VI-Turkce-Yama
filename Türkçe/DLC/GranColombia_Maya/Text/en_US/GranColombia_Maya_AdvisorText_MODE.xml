@@ -1,0 +1,26 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+    <Row Tag="LOC_TUTORIAL_FIRST_TIME_MEGADISASTERS">
+      <Text>Dünyamız bize karşı döndü! Kıyamet Modu etkinleştirildiğinde kuraklıklar, fırtınalar, seller ve volkanik patlamalar daha sık ve daha tehlikeli hale gelir. Neyse ki, bu felaketleri düşmanlarınızın üzerine yönlendirebilecek bir Kahin eğitebilirsiniz. İklimi izleyin; son sıcaklık artışıyla birlikte dünya Kıyamet'e girecek ve her turda felaketler yaşanacak!</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_FOREST_FIRES">
+      <Text>Yıldırım ya da insan hatası bir orman yangını başlattı! Alevler bitişikteki herhangi bir orman veya cangıla yayılacak. Duman başımıza biraz dert açsa da kül iyi bir gübre sağlayacak. Tabii alevler söndükten sonra.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_METEOR_SHOWERS">
+      <Text>Gökten meteorlar düştü! Bakalım yanlarında ne getirmişler.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_COMET_IMPACT">
+      <Text>Bir kuyruklu yıldız Dünya'ya çarptı! Kuyruklu yıldız çarpmaları isabet ettikleri her şeyi yok eder.[NEWLINE]‘En başından beri hiçbir şey kalıcı olmadı.’</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_SOLAR_FLARES">
+      <Text>Dünya, tüm elektrikli ekipmanlarımıza zarar veren bir güneş patlaması yaşıyor. Enerji üreten binalarımız ve iyileştirmelerimiz, hatta elektrik kullanan birimlerimiz bile hasar gördü!</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_SOOTHSAYERS">
+      <Text>Kahinler artık İnanç yoluyla kullanımımıza sunuldu. Kahinler, düşmanlarınızın üzerine felaketler çağırabilir. Diğer uygarlıklarla rekabet ederek, muharebe birimlerinizi volkanlara kurban ederek güçlerini artırabilirsiniz.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_APOCALYPSE">
+      <Text>Dünya sona eriyor! Daha önce hiç görmediğimiz boyutta felaketler başlıyor! Yok olmadan önce zafere koşun!</Text>
+    </Row>
+  </EnglishText>
+</GameData>

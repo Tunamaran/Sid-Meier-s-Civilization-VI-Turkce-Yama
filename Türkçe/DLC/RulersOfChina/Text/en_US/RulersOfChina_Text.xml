@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Yongle-->
+		<Row Tag="LOC_PROJECT_LIJIA_FAITH_NAME">
+			<Text>Lijia (İnanç)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FAITH_SHORT_NAME">
+			<Text>Lijia (İnanç)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FAITH_DESCRIPTION">
+			<Text>Her tur bu şehrin üretiminin %50'si kadar [ICON_Faith] İnanç sağlayan proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FOOD_NAME">
+			<Text>Lijia (Besin)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FOOD_SHORT_NAME">
+			<Text>Lijia (Besin)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_FOOD_DESCRIPTION">
+			<Text>Her tur bu şehrin üretiminin %50'si kadar [ICON_Food] Besin sağlayan proje.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_GOLD_NAME">
+			<Text>Lijia (Altın)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_GOLD_SHORT_NAME">
+			<Text>Lijia (Altın)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LIJIA_GOLD_DESCRIPTION">
+			<Text>Her tur bu şehrin üretiminin %100'ü kadar [ICON_Gold] Altın sağlayan proje.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_YINDING_NAME">
+			<Text>Yinding</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_YINDING_DESCRIPTION">
+			<Text>Tur başına pozitif gelire sahip uygarlıkları sever, tur başına negatif geliri olan uygarlıkları sevmez.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_POSITIVE_INCOME">
+			<Text>Pozitif gelirinizden memnuniyet duyuyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_NEGATIVE_INCOME">
+			<Text>Negatif geliriniz onları üzüyor.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_YONGLE_ANY">
+			<Text>Ben İmparator Yongle; ticaret gemilerini benim yönüme çevirenlere dost, bana karşı gelenlere ise dehşet veren bir hükümdarım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Sanki göklerin kendisini fethetmeye kalkışıyorsunuz. Bakalım oklarınız ne kadar yükseğe uçacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Silah gücüyle fetih hiçbir zaman amacım olmadı, fakat artık başka seçeneğin kalmadığı bir noktaya geldik.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_YONGLE_ANY">
+			<Text>Yalnızca sunacak bir şeyi olanlarla iş yaparız. Sizin gibi, mesela.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_YONGLE_ANY">
+			<Text>Öküz sürücüsünden krala kadar herkes zenginliğin peşinde olmalı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Önümdeki yol karanlık, çevredeki çamlar simsiyah. Yukarıda göğü göremiyorum, aşağıda yeri göremiyorum.</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Örneğimizden ders alasınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Dost, denktir. Sen ise denk değilsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Aynı fikirdeki insanlardan bir koalisyon kuruyoruz. Siz de katılır mısınız?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Her iki taraf da faydalansın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Böyle bir şeyi kabul edemeyiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Halkınıza iyi yönetimin, edep ve inceliğin erdemlerini öğretmek için elimizden geleni yaptık. Başardığımızdan emin değiliz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Onlardan zaten var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>İpek ve porselen, çay ve kumaş - Çin İmparatorluğu'nun can damarı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Köpek havlaması.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Sana defalarca kötülükten kaçınmanı söyledim. Yakında söylemekten yorulacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_YONGLE_ANY">
+			<Text>Gel ve Yüce Uyum Salonu'nu gör, düşüncelerin dinsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_YONGLE_ANY">
+			<Text>Gökler bunu destekler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_YONGLE_ANY">
+			<Text>Dünya hakkında bilgi arıyoruz. Sen dünyanın merkezine çekiliyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_YONGLE_ANY">
+			<Text>Çağrıldım, söyleyin?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Ming ile bir olmak, Çin ile bir olmak - bundan daha büyük ne olabilir?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_YONGLE_ANY">
+			<Text>Yeryüzünde barış hüküm sürdüğünde, gökyüzünde de barış hüküm sürer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_YONGLE_ANY">
+			<Text>Her şeyin merkezinin iradesine direnmeye devam ediyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Savaş yalnızca dullar yaratır. Elbette daha kârlı uğraşlar vardır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Dünya açıktır, birlikte dolaşalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_YONGLE_ANY">
+			<Text>Girmek için iznimize ihtiyacınız var ve biz bu izni vermiyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Topraklarınıza erişmek isteyen ticaret filolarımız ve tüccar kervanlarımız var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_YONGLE_ANY">
+			<Text>Sınırlarımızdaki Barbar sürüleriyle nasıl başa çıkılacağını iyi biliriz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Tahtımdan kalkıp bunu dinlemek için mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_YONGLE_ANY">
+			<Text>Herkes anlaşınca ticaret o kadar da zor olmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_POSITIVE_INCOME">
+			<Text>(Tur başına pozitif geliriniz var.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_NEGATIVE_INCOME">
+			<Text>(Tur başına negatif geliriniz var.)</Text>
+		</Row>
+		<!--Wu Zetian-->
+		<Row Tag="LOC_CITY_NAME_SHEN_DU">
+			<Text>Shendu</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COURT_INTRIGUE_NAME">
+			<Text>Saray Entrikası</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_COURT_INTRIGUE_DESCRIPTION">
+			<Text>Tehdit oluşturmayan uygarlıkları sever. Güçlü ordulara sahip veya yakınında şehirleri olan uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<!-- Diplo VO -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_WU_ZETIAN_ANY">
+			<Text>Ben Wu Zetian, Çin'de en çok korkulan ve sevilen İmparatoriçe. Çin'deki tek İmparatoriçe.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>İşte karşımda kılıç sallayıp bağıran bir grup adam. Yoksa bu rezilliğe 'sanat' mı demeliyim?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Canım, gitme vaktin geldi.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WU_ZETIAN_ANY">
+			<Text>Bana büyük bir teselli oldun. Hadımlarım kadar sadık.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WU_ZETIAN_ANY">
+			<Text>Burada kendisine komplo kurulacak biri olduğumu mu sanıyorsun? Komplo kuran benim!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Lütfen... Eminim bir çözüm bulabiliriz. Bunun son olması gerekmiyor... değil mi?</Text>
+		</Row>
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Harika. Sana kendi çocuğum gibi davranacağım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Birçok hayranım var, maalesef.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Seni daha yakından tanımak isterim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Arkadaşlıklar, hırs merdivenini tırmanma şeklimizdir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Seninle ilişki kurmaktan hiçbir şey kazanmıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Heyetinizin neredeyse tamamı sağ salim döndü!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Ah... Bu, Han Hanedanı döneminde ilginç olabilirdi. Ne yazık ki artık modası geçmiş.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Size yeşim taşından oyma atlar, Çin'in dört bir yanından dansçılar ve tezgâhlarımızın ürettiği en iyi ipekleri gönderiyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Sözleriniz keskin. Daha keskin şeyler de var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Uzun bir düşman listem var. Siz de o listedesiniz. (Sizi Kınıyor)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WU_ZETIAN_ANY">
+			<Text>Başkentimiz, tarihin katmanlarına ve tozun içine işlemiş sanata sahiptir. Görmek ister misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WU_ZETIAN_ANY">
+			<Text>Elbette.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WU_ZETIAN_ANY">
+			<Text>Bütün yollar buraya, Zhou İmparatorluğu'na çıkar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_WU_ZETIAN_ANY">
+			<Text>Lütfen oturun. Biraz çay için. Hayır, o fincan değil. Bunu sizin için özel olarak yaptırdım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Dostlarınızı yakın tutun, ama düşmanlarınızı daha da... Yani, dostlarımızı yakın tutalım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WU_ZETIAN_ANY">
+			<Text>Ölüm, tüm bu bağrışmalar olmadan çok daha keyifli.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WU_ZETIAN_ANY">
+			<Text>Dünya sahnesindeki yükselişimi durdurabilecek misiniz? Sanmıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Bu savaş ilham vermekten çıktı.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Saklayacak bir şeyimiz yok.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WU_ZETIAN_ANY">
+			<Text>Hayır. Yasak olanın bir gizem yanı vardır, öyle değil mi?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Birbirimizi daha iyi tanımak için iki toprağımızın sınırlarını ölçelim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WU_ZETIAN_ANY">
+			<Text>Buradaki varlığınız... pek incelikli değil.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>Verebileceğiniz daha çok şey var.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WU_ZETIAN_ANY">
+			<Text>İyi bir anlaşmayı gördüğümde anlarım.</Text>
+		</Row>
+		<!-- Qin Alt-->
+		<Row Tag="LOC_AGENDA_SIHAI_NAME">
+			<Text>Sihai</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SIHAI_DESCRIPTION">
+			<Text>Tüm Barbarların kendi tarafına katılmasını ister. Barbar Karakollarını yok eden uygarlıklardan hoşlanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_QIN_MELEE_UNITS_DESCRIPTION">
+			<Text>Bu birim, bir eylem kullanarak yakındaki Barbarları kendi tarafınıza geçirebilir, ancak bu birim yok olur. (Qin (Birleştirici))</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SIHAI_ATTACKS_BARBARIANS">
+			<Text>Barbar Karakollarını temizlemenizden hayal kırıklığı duyar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SIHAI_IGNORES_BARBARIANS">
+			<Text>Barbar Karakollarını temizlememenizden memnuniyet duyar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DELEGATION_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_GREETING_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_QIN_ALT_ANY">
+			<Text>Toprak meyve vermeden önce nasıl işlenirse, küçük kavimler de bize katılmaları için öylece terbiye edilir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_QIN_ALT_ANY">
+			<Text>Tüm yapabildiğin bu mu, vahşi kavimlerin katili olmak?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_QIN_ALT_ANY">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_QIN_ANY}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ATTACKS_BARBARIANS">
+			<Text>(Bir Barbar Kampına saldırdınız.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDOS_LEADER_ANY_REASON_AGENDA_IGNORES_BARBARIANS">
+			<Text>(Barbar Kamplarını temizlemeyi ihmal ettiniz.)</Text>
+		</Row>
+	</EnglishText>
+</GameData>

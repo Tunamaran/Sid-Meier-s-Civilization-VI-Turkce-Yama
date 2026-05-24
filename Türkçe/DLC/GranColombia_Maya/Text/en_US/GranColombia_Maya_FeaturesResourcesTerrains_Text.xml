@@ -1,0 +1,57 @@
+<GameData>
+	<EnglishText>
+		<!-- Features-->
+		<Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_QUOTE">
+			<Text>"İnsanın bilmediği, bu denizin içindeki o tatlı gizem; yumuşak ama ürkütücü dalgaları altında gizli bir ruhun varlığından söz eder gibidir... çünkü burada, milyonlarca karışık gölge ve hayalet, boğulmuş düşler, uyurgezerlikler, hayaller; yaşam ve ruh dediğimiz her şey hâlâ düş görmekte, düşlemekte, düş kurmaktadır."[NEWLINE]– Herman Melville</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_QUOTE">
+			<Text>"Chyavana, güzelliğe kavuşma arzusuyla hızla suya daldı. Ey Kral, Aswin ikizleri de su tabakasına gömüldü. Bir sonraki anda, hepsi... olağanüstü güzel ve genç suretlerde çıktı."[NEWLINE]- Anonim</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAITITI_QUOTE">
+			<Text>"Görkemli vahşi doğada, çıkarılmamış altın gibi gizli."[NEWLINE]– John Muir</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAITITI_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Komşu Païtiti Doğa Harikası'ndan Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAITITI_GOLD">
+			<Text>+{1_num} [ICON_GOLD] Komşu Païtiti Doğa Harikası'ndan Altın.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNING_FOREST_NAME" >
+			<Text>Yanan Orman</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNING_FOREST_DESCRIPTION">
+			<Text>Alevlere gömülmüş orman.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNT_FOREST_NAME" >
+			<Text>Yanmış Orman</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNT_FOREST_DESCRIPTION">
+			<Text>Yangından sonra yeniden büyüyen orman.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNING_JUNGLE_NAME" >
+			<Text>Yanan Yağmur Ormanı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNING_JUNGLE_DESCRIPTION">
+			<Text>Alevlere gömülmüş bir yağmur ormanı.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNT_JUNGLE_NAME" >
+			<Text>Yanmış Yağmur Ormanı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BURNT_JUNGLE_DESCRIPTION">
+			<Text>Yangından sonra yeniden büyüyen bir yağmur ormanı.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_COMET_LAKE_NAME" >
+			<Text>Çarpma Bölgesi</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_COMET_LAKE_DESCRIPTION">
+			<Text>Bir kuyrukluyıldız, daha önce burada ne varsa ezip geçti.</Text>
+		</Row>
+		<!-- Resources-->
+		<Row Tag="LOC_RESOURCE_MAIZE_NAME">
+			<Text>Mısır</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_HONEY_NAME">
+			<Text>Bal</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Named Rivers -->
+		<Row Tag="LOC_NAMED_RIVER_MAGDALENA_RIVER_NAME">
+			<Text>Magdalena Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_APURE_RIVER_NAME">
+			<Text>Apure Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_META_RIVER_NAME">
+			<Text>Meta Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ARAUCA_RIVER_NAME">
+			<Text>Arauca Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CAUCA_RIVER_NAME">
+			<Text>Cauca Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CARONI_RIVER_NAME">
+			<Text>Caroní Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MOTAGUA_RIVER_NAME">
+			<Text>Motagua Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GRIJALVA_RIVER_NAME">
+			<Text>Grijalva Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAMALA_RIVER_NAME">
+			<Text>Samalá Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CHIXOY_RIVER_NAME">
+			<Text>Chixoy Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_USUMACINTA_RIVER_NAME">
+			<Text>Usumacinta Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BELIZE_RIVER_NAME">
+			<Text>Belize Nehri</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HONDO_RIVER_NAME">
+			<Text>Hondo Nehri</Text>
+		</Row>
+		<!-- Named Volcanoes -->
+		<Row Tag="LOC_NAMED_VOLCANO_CHIMBORAZO_NAME">
+			<Text>Chimborazo Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_PURACE_NAME">
+			<Text>Puracé Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NEVADO_DEL_TOLIMA_NAME">
+			<Text>Nevado del Tolima Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_COTOPAXI_NAME">
+			<Text>Cotopaxi Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_GUAGUA_PICHINCHA_NAME">
+			<Text>Guagua Pichincha Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TUNGURAHUA_NAME">
+			<Text>Tungurahua Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HUNAHPU_NAME">
+			<Text>Hunahpú Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_ATITLAN_NAME">
+			<Text>Atitlán Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_TOLIMAN_NAME">
+			<Text>Tolimán Yanardağı</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PACAYA_NAME">
+			<Text>Pacaya Yanardağı</Text>
+		</Row>
+		<!-- Named Mountains -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_CENTRAL_NAME">
+			<Text>Merkez Dağ Sırası (Cordillera Central)</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_OCCIDENTAL_NAME">
+			<Text>Batı Dağ Sırası (Cordillera Occidental)</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_ORIENTAL_NAME">
+			<Text>Doğu Dağ Sırası (Cordillera Oriental)</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GUIANA_HIGHLANDS_NAME">
+			<Text>Guayana Yaylaları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_MERIDA_NAME">
+			<Text>Mérida Dağ Sırası (Cordillera de Mérida)</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_LA_COSTA_NAME">
+			<Text>Sahil Dağ Sırası (Cordillera de la Costa)</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAYA_MOUNTAINS_NAME">
+			<Text>Maya Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_MADRE_DE_CHIAPAS_NAME">
+			<Text>Sierra Madre de Chiapas Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_LOS_CUCHUMATANES_NAME">
+			<Text>Sierra de los Cuchumatanes Dağları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GUATEMALAN_HIGHLANDS_NAME">
+			<Text>Guatemala Yaylaları</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_LAS_MINAS_NAME">
+			<Text>Sierra de las Minas Dağları</Text>
+		</Row>
+		<!-- Named Deserts -->
+		<Row Tag="LOC_NAMED_DESERT_LA_GUAJIRA_DESERT_NAME">
+			<Text>La Guajira Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TATACOA_DESERT_NAME">
+			<Text>Tatacoa Çölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_MEDANOS_DE_CORO_NAME">
+			<Text>Médanos de Coro Çölü</Text>
+		</Row>
+		<!-- Named Lakes -->
+		<Row Tag="LOC_NAMED_LAKE_LAKE_LEOPOLDO_NAME">
+			<Text>Leopoldo Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VALENCIA_NAME">
+			<Text>Valencia Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TOTA_NAME">
+			<Text>Tota Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAGUNA_DE_LA_COCHA_NAME">
+			<Text>Laguna de la Cocha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HERRERA_NAME">
+			<Text>Herrera Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_IZABAL_NAME">
+			<Text>Izabal Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PETEN_ITZA_NAME">
+			<Text>Petén Itzá Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AMATITLAN_NAME">
+			<Text>Amatitlán Gölü</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_GUIJA_NAME">
+			<Text>Güija Gölü</Text>
+		</Row>
+		<!-- Named Seas -->
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_DARIEN_NAME">
+			<Text>Darién Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_VENEZUELA_NAME">
+			<Text>Venezuela Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_PARIA_NAME">
+			<Text>Paria Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_HONDURAS_NAME">
+			<Text>Honduras Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_AMATIQUE_BAY_NAME">
+			<Text>Amatique Körfezi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TERMINOS_LAGOON_NAME">
+			<Text>Términos Lagünü</Text>
+		</Row>
+	</EnglishText>
+</GameData>

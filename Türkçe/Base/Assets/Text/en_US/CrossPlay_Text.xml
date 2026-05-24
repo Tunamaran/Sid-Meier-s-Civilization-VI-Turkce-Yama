@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME">
+			<Text>İnternet (Birleşik PC Oyunu)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME">
+			<Text>[ICON_Exclamation] İnternet (Birleşik PC Oyunu)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE">
+			<Text>[ICON_CheckFail] İnternet (Birleşik PC Oyunu)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_OFFLINE">
+			<Text>[ICON_Exclamation][ICON_CheckFail] İnternet (Birleşik PC Oyunu)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_TT">
+			<Text>Diğer platformlardaki kullanıcılara karşı internet üzerinden çok oyunculu bir oyun oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_TT">
+			<Text>Yeni çok oyunculu mod: Diğer platformlardaki kullanıcılara karşı internet üzerinden çok oyunculu bir oyun oynayın.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE_TT">
+			<Text>Birleşik Oyun sunucuları çevrim dışıyken Birleşik PC Oyunu oyunları mevcut değildir.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_OFFLINE_TT">
+			<Text>Yeni çok oyunculu mod: Birleşik Oyun sunucuları çevrim dışıyken Birleşik PC Oyunu oyunları mevcut değildir.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_NEW_MODE_TT">
+			<Text>Yeni çok oyunculu mod mevcut!</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_LOBBY">
+			<Text>BİRLEŞİK PC OYUNLARI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_OK">
+			<Text>Tamam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_LOGIN_ERROR_TITLE">
+			<Text>Giriş Hatası</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_LOGIN_ERROR_MESSAGE">
+			<Text>Oturum açma denemeniz sırasında bir hata oluştu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_AUTHORIZATION_ERROR_MESSAGE">
+			<Text>Steam hesabınız doğrulanırken bir sorun oluştu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_CREATE_USER_ERROR_MESSAGE">
+			<Text>Hesabınız için bir Birleşik Oyun Kimliği oluşturulurken bir sorun oluştu.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EOS_INVITE_TITLE">
+			<Text>Davet İstendi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EOS_PLAYER_INVITE_TEXT">
+			<Text>{1_PlayerName} sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EOS_PLAYER_INVITE_TEXT_IN_GAME">
+			<Text>{1_PlayerName} sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?  Mevcut ilerlemeniz kaydedilmeyecektir.</Text>
+		</Row>
+    <Row Tag="TXT_KEY_EOS_INVITE_TEXT">
+      <Text>Bir arkadaşınız sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EOS_INVITE_TEXT_IN_GAME">
+      <Text>Bir arkadaşınız sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?  Mevcut ilerlemeniz kaydedilmeyecektir.</Text>
+    </Row>
+	</EnglishText>
+</GameData>

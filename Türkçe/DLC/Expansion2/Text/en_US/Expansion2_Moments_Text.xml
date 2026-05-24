@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--Moments-->
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER">
+			<Text>Taşkın Tehlikesi Altındaki Nehir Kenarında Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_DESCRIPTION">
+			<Text>Şehir, taşkın riski taşıyan bir nehre 2 kare yakınlıkta inşa edilmiştir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_INSTANCE_DESCRIPTION">
+			<Text>{CityName} halkı yeni yurtlarına alışırken, yakındaki nehri tedirgin gözlerle izlemektedir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO">
+			<Text>Yanardağ Kenarında Şehir</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_DESCRIPTION">
+			<Text>Şehir, patlama riski taşıyan bir yanardağa 2 kare mesafeye kurulur.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_INSTANCE_DESCRIPTION">
+			<Text>"{CityName} halkı, 'Bir şey olmaz,' diyor. 'Bütün dağlar biraz tüter, değil mi?'"</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST">
+			<Text>Enerji İçin Tüketilen İlk Kaynak</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız, şehirleri için [ICON_Power] Enerji üretmek amacıyla bir kaynak tüketir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Makinaların uğultusu ve yükselen duman, enerji üretimimizin başlangıcını işaret ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD">
+			<Text>Dünyada Enerji İçin Tüketilen İlk Kaynak</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız, şehirleri için Enerji üretmek amacıyla kaynak tüketen dünyadaki ilk uygarlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Yükselen duman! Uğuldayan makinalar! Doğanın gücü, {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} tarafından enerji ve ilerleme davası uğruna dizginlenmiştir!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE">
+			<Text>İklim Değişikliği Evresi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_DESCRIPTION">
+			<Text>CO2 emisyonları, dünya iklimini daha tehlikeli bir seviyeye değiştirecek kadar artmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_INSTANCE_DESCRIPTION">
+			<Text>Dünya, {ClimateChangeName} evresine ulaşarak küresel çevre için korkunç sonuçlara yol açar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL">
+			<Text>Kanal Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL_DESCRIPTION">
+			<Text>Uygarlığınızın ilk Kanal bölgesini tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL_INSTANCE_DESCRIPTION">
+			<Text>{CityName} Kanalı'nın açılışı, yeniden canlanan ticaret ve refah getirir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST">
+			<Text>İlk 4. Kademe Hükümet</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız ilk 4. Kademe Hükümetini benimser.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Halkımız siyasi sistemini geliştirmeye devam ediyor ve devrim niteliğindeki yeni {GovernmentType} yönetimini deniyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk 4. Kademe Yönetim Biçimi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız dünyada 4. Kademe bir Yönetim Biçimini benimseyen ilk uygarlık.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin cesur halkı, yeni bir {GovernmentType} siyasi sistemi geliştirerek yeni bir yönetim çağını başlattı!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST">
+			<Text>İlk Dağ Tüneli</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız ilk Dağ Tüneli'ni inşa ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Otur da sana John Henry'nin {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'da ilk dağ tünelini nasıl kazdığını anlatan türküyü söyleyeyim.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk Dağ Tüneli</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız dünyada bir Dağ Tüneli inşa eden ilk uygarlık.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkı için dağlar bir engel değil; çünkü onlar, dünyada dağların içinden tünel geçiren ilk halk.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST">
+			<Text>Doğal Afet Sonrası İlk Geliştirme</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız, bir doğal afetle zenginleşmiş bir bölgeye ilk geliştirmesini inşa ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin uyum sağlayan halkı, bir doğal afetin ardından yenilenen topraklardan faydalanarak inşa ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST">
+			<Text>İlk Yeşil Geliştirme</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_DESCRIPTION">
+			<Text>Uygarlığınız, yenilenebilir [ICON_Power] enerjisi sağlamaya adanmış ilk bölge geliştirmesini inşa ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Artık bu {ImprovementType}'i temiz enerji üretmek için inşa ettiğimize göre, belki de {CityName} şehrinin dumanı dağılmaya başlar.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk Yeşil Geliştirme</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız, dünyada yenilenebilir [ICON_Power] enerjisi sağlamaya adanmış bir bölge geliştirmesi inşa eden ilk uygarlık.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} vatandaşları, {CityName} yakınlarındaki yeni {ImprovementType}'lerinin açılışını kutlarken güneş bulutların arasından sıyrılıyor. Gökyüzü şimdiden daha temiz görünüyor!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD">
+			<Text>Kıyı Sel Baskını Hafifletildi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_DESCRIPTION">
+			<Text>Sel Bariyerin, kıyı selinin yol açtığı felaket boyutundaki hasarı önledi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_INSTANCE_DESCRIPTION">
+			<Text>Yükselen sular {CityName} Sel Bariyeri'ne vuruyor, fakat şehir emniyette.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD">
+			<Text>Nehir Taşkını Önlendi</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_DESCRIPTION">
+			<Text>Altyapı yatırımların, bir nehir taşkınının vereceği zararı engelledi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_INSTANCE_DESCRIPTION">
+			<Text>{RiverName} Nehri'nin suları yükseldi, ancak ileri görüşlülüğümüz çevredeki toprakların su altında kalmasını engelledi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT">
+			<Text>Diplomatik Zafer Kararı Kazanıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_DESCRIPTION">
+			<Text>Diplomatik Zafer kararını kazandın ve Zafer Puanları elde ettin.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_INSTANCE_DESCRIPTION">
+			<Text>Dünyanın tüm uygarlıklarının takdirini kazandık; düşmanlarımız dahi bunu itiraf etmek mecburiyetindedir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET">
+			<Text>Ötegezegen Seferi Başlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_DESCRIPTION">
+			<Text>Uygarlığının uzak bir gezegene yönelik seferini başlattın.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_INSTANCE_DESCRIPTION">
+			<Text>Uzak bir gezegene doğru yola çıkan seferimiz yörüngeden ayrılırken, halkımız gözyaşlarıyla nemlenmiş umut dolu gözlerle izliyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD">
+			<Text>Dünyanın İlk Ötegezegen Seferi Başlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uzak bir gezegene sefer düzenleyen dünyadaki ilk uygarlık sensin.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nin uzay gemisi, Dünya'nın kütle çekiminden kurtulup, insanlarla, erzaklarla ve umutla yüklü olarak, uzak bir dünyayı yurt edinmek üzere süzülüyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES">
+			<Text>İlk Demiryolu Bağlantısı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_DESCRIPTION">
+			<Text>Uygarlığın, iki şehrini birbirine bağlamak için ilk Demiryolunu inşa ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_INSTANCE_DESCRIPTION">
+			<Text>{CityName} ile {OtherCityName} arasındaki Demiryolu, şehirlerimizi başarıyla birleştiriyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk Demiryolu Bağlantısı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığın, dünyada iki şehrini birbirine bağlamak için Demiryolu inşa eden ilk uygarlıktır.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bir çekiç altın bir çiviyi yerine çakıyor, kalabalık tezahürat yapıyor; zira {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} halkı {CityName} ile {OtherCityName} arasındaki dünyanın ilk demiryolunu tamamladı!</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB">
+			<Text>İlk Rock Grubu Konseri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_DESCRIPTION">
+			<Text>Uygarlığınız ilk Rock Grubu konserini veriyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'ın dünyaca ünlü grubu, mutlu hayranlardan oluşan devasa bir kalabalığa ilk kez sahne alıyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD">
+			<Text>Dünyadaki İlk Rock Grubu Konseri</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Uygarlığınız, dünyada bir Rock Grubu konseri veren ilk uygarlık oluyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}'nın grubu, bir çağa damgasını vuracak konser için sahneye çıkarken devasa kalabalık coşkuyla tezahürat ediyor.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL">
+			<Text>Dünya Kongresi Karar Teklifi Kazanıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_DESCRIPTION">
+			<Text>Bir Karar için yapılan teklifi başarıyla kazandınız ve artık sonucunu belirleyebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_INSTANCE_DESCRIPTION">
+			<Text>Bir Karar'a başarıyla teklif vererek, Dünya Kongresi'nde güce giden ilk adımı atıyoruz: Dünyanın önceliklerini şekillendirme kapasitesi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER">
+			<Text>Dünya Kongresi Karar Oylaması Tek Başına Kazanıldı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_DESCRIPTION">
+			<Text>Bu karar için oy veren tek kişi olmanıza rağmen, seçtiğiniz Karar Dünya Kongresi'nde değerlendirilmek üzere kabul edildi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_INSTANCE_DESCRIPTION">
+			<Text>Bu Kararı ileri taşıyan tek oyumuz, uygarlığımızın Dünya Kongresi'nin gerçekten vazgeçilmez bir üyesi olduğunu göstermektedir.</Text>
+		</Row>
+		<!--Updates to old Moments-->
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_XP2">
+			<Text>Mars Kolonisi Kuruldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION_XP2">
+			<Text>Mars'ta bir koloni kurdunuz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION_XP2">
+			<Text>Elbette, herkes Mars'ta bir varlık gösterebilir. Ama bizim kolonimiz en iyisi.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_XP2">
+			<Text>Dünyanın İlk Mars Kolonisi Kuruldu</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION_XP2">
+			<Text>Mars'ta koloni kuran dünyadaki ilk uygarlık sizsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION_XP2">
+			<Text>Bir mühendis, kolonicileri yeni bir hayata taşıyan roketin fırlatma rampasından gürleyerek yükselişini izliyor. "Bu gerçekten oluyor," diyor. "Mars'a gidiyoruz."</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION_XP2">
+			<Text>İşçileriniz bu eşsiz arazi iyileştirmesini ilk kez inşa etti.</Text>
+		</Row>
+		<!--Commemorations-->
+		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_EXPANSION2_GOLDEN_AGE">
+			<Text>Gökyüzü ve Yıldızlar Altın Çağı:[NEWLINE]Bilgi Çağı'nda ise Uydular, Nükleer Füzyon ve Nanoteknoloji için [ICON_TechBoosted] Buluşlarının kilidini açar. Gelecek Çağı'nda seçildiğinde Akıllı Malzemeler, Tahmin Sistemleri ve Dünya Dışı Görev için [ICON_TechBoosted] Buluşlarının kilidi açılır. Tüm Hava Birimlerinin kazandığı +%100 Deneyim Puanı. Alüminyum madenleri tur başına 2 fazla kaynak biriktirir.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNITS_KILLED_BY_GDR">
+			<Text>Adanma Bonusu: Dev Ölüm Robotları tarafından öldürülen Barbar olmayan birlikler (her biri için +{1_ScoreIncrement})</Text>
+		</Row>
+		<Row Tag="LOC_GDR_KILL_OPPONENT_NOTIFICATION">
+			<Text>Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği yok ettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON">
+			<Text>Otomasyon Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_GOLDEN_AGE">
+			<Text>Otomasyon Savaşı Altın Çağı:[NEWLINE]Başkentinizde bir Dev Ölüm Robotu kazanırsınız. Tur başına 3 [ICON_Resource_Uranium] Uranyum alırsınız. [ICON_Resource_Uranium] Uranyum madenleri tur başına +1 daha fazla kaynak biriktirir.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_NORMAL_AGE">
+			<Text>Otomasyon Savaşı Adanma Bonusu:[NEWLINE]Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği öldürdüğünüzde +1 Çağ Puanı kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_DARK_AGE">
+			<Text>Otomasyon Savaşı Adanma Bonusu:[NEWLINE]Bir Dev Ölüm Robotu ile Barbar olmayan bir birliği öldürdüğünüzde +1 Çağ Puanı kazanırsınız.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

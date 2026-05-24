@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CHANDRAGUPTA">
+			<Text>Hırsına güven, Chandragupta; çünkü o hırs, tüm Hindistan'ı birleştirmene rehberlik etti. Adını lanetleyen her rakibine savaş fillerini sal, gururlu Maurya kralı. Halkın için topraklarını geri aldığında, basamaklı kuyuların o toprakların bereketlenmesini sağlayacak. İmparatorluğunun sınırları sonsuza dek genişlesin.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_GENGHIS_KHAN">
+			<Text>Cengiz Han, kurnazlığın sayesinde atının sırtından Moğolistan'a bir imparatorluk kurdun. Düşman süvarilerini karşılamak için daima saldır; çünkü bir zafer onları saflarına katabilir. Hızlı ve güçlü Keşik okçularını göndererek halkını topraklarında hızla ilerlet. Yakında, Moğol süvarilerinin düzenli nal sesleri dünyaya öğreteceğin bir ses olacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LAUTARO">
+			<Text>Genç Lautaro, Mapuçe'yi sen kurtarmadın—onlara kendilerini kurtarmaları için ilham verdin. Atalarını onurlandırmak ve torunlarını cesaretlendirmek için totemler inşa et. Böylesi bir gurur, süvarilerinin yüreğini dolduracak ve düşman topraklarına yaptıkları akınları iki katına çıkaracak. Balta taşıyıcısı, Mapuçe ile yan yana dur ve tek bir gölge düşür.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_POUNDMAKER">
+			<Text>Poundmaker, Kri halkının kaderini şikâyet etmeden taşıyorsun. Savaşçılarının becerisinden kimsenin şüphesi yok, ancak onlar senin bilgeliğine güveniyor—düşmanlarına vurmak, evlerini koruyamazsan hiçbir işe yaramaz. Dünya beklenmedik şekillerde değişirken, ittifakların seni kalıcı bir geleceğe bağlayacak. Yalnız duranlar yalnız ölür.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ROBERT_THE_BRUCE">
+			<Text>Robert the Bruce, İskoçya'nın sadık savunucusu olarak savaş sana yabancı değil, ancak nadiren savaşı başlatırsın. Halkını mutlu tutarsan, onları büyüklüğe ilham edersin. Zayıf komşularından faydalanmaya çalışan herkes, korkusuz dağlılarınla karşılaşsın. Onlar özgürlüğün gerçek anlamını öğretebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SEONDEOK">
+			<Text>Kraliçe Seondeok, yıldızlar Kore'yi büyüklüğe taşıdığını gösteriyor. Halkını eğitmek için Seowon'lar inşa et, çünkü dünyanın sırları onların keşfini bekliyor. Bilgini çalmak isteyenlere, Hwacha'larından roket ateşi yağdır. Göklere uzan, kurnaz kraliçe, halkın da seninle uzanacak.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SHAKA">
+			<Text>Kurnaz Shaka, Zulu kralı, askerlerin sana bir imparatorluk kazandıracak. Emrindeki İmpi savaşçıları, karşılarına çıkan herkesi kanatlardan çevirip alt eder. Boyun eğmez Zulu orduları, gücünün sayılarda olduğunu kanıtlayacak. Her komşunla savaşmak zorunda değilsin—ama onlar savaşabileceğini düşünsün.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TAMAR">
+			<Text>Vahşi Tamar, ancak bir aptal Gürcistan'ın gerçek değerini yanlış anlayabilir. Düşmanlarını tepelerden saldıran sadık aşiret üyelerinle kovala. Hasımlarını en iyi kuvvetlerini şehirlerinin dayanıklı surlarına çarpmaya teşvik et. Koruyuculuğundaki devletlerin orduları kaçarken onları ezip geçecek. Aptallara tahammül etmezsen, büyük kraliçe, Gürcistan da acı çekmez.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_WILHELMINA">
+			<Text>Kraliçe Wilhelmina, Hollanda'yı sonuna kadar savunacaksın. Hollanda yaratıcılığıyla kıyıyı tarım arazisine dönüştür. Vatandaşların, güçlü savaş gemilerinin koruması altında olduklarını bilerek büyük bir verimle çiftçilik yapacaklar. Her şeyden önce, tanıştığın herkesle ticaret yap. İyi bir anlaşma düşmanı dost yapabilir—yapmazsa, para muhalefetini finanse edecek.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

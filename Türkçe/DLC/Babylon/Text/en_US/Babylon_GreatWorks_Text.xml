@@ -1,0 +1,111 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GREATWORK_BEHZAD_1_NAME">
+			<Text>Timur ve Mısır Kralı'nın Savaş Alanı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BEHZAD_2_NAME">
+			<Text>Yusuf ile Züleyha</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BEHZAD_3_NAME">
+			<Text>Timur'un Tahta Çıkışı Münasebetiyle Kabul Töreni</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOHAKU_1_NAME">
+			<Text>Çam Ağaçları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOHAKU_2_NAME">
+			<Text>Akçaağaç</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_TOHAKU_3_NAME">
+			<Text>Kuşlar ve Çiçekler</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KADINSKY_1_NAME">
+			<Text>Kompozisyon 8</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KADINSKY_2_NAME">
+			<Text>Mavi Süvari</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KADINSKY_3_NAME">
+			<Text>Kızıl Meydan</Text>
+		</Row>
+    
+		<!-- Music -->
+		<Row Tag="LOC_GREATWORK_CANTEMIR_1_NAME">
+			<Text>Peşrev Adjem Yegiahi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CANTEMIR_2_NAME">
+			<Text>Boğdan Prensi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_CANTEMIR_3_NAME">
+			<Text>Uzzusule Beresvan</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOPLIN_1_NAME">
+			<Text>Eğlendirici</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOPLIN_2_NAME">
+			<Text>Akçaağaç Yaprağı Rag</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_JOPLIN_3_NAME">
+			<Text>Kolay Kazananlar</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BARTOK_1_NAME">
+			<Text>2 Numaralı Yaylı Çalgılar Dörtlüsü</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BARTOK_2_NAME">
+			<Text>Dans Süiti</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_BARTOK_3_NAME">
+			<Text>1 Numaralı Yaylı Çalgılar Dörtlüsü</Text>
+		</Row>
+		    
+    <!-- Writing -->
+    <Row Tag="LOC_GREATWORK_BEATRIX_POTTER_1_NAME">
+      <Text>Peter Tavşan'ın Hikâyesi</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_BEATRIX_POTTER_2_NAME">
+      <Text>Gloucester Terzisi</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_VALMIKI_1_NAME">
+      <Text>Ramayana</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_VALMIKI_2_NAME">
+      <Text>Yoga Vasistha</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_RUMI_1_NAME">
+      <Text>Divan-ı Şems-i Tebriz</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_RUMI_2_NAME">
+      <Text>Mesnevi</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_GABRIELA_MISTRAL_1_NAME">
+      <Text>Kadınlar için Okumalar (Kadınlara Kitaplar)</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_GABRIELA_MISTRAL_2_NAME">
+      <Text>Ölüm Soneleri (Ölüm Sone)</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_BEATRIX_POTTER_1_QUOTE">
+      <Text>"Bir sabah," dedi yaşlı Bayan Tavşan, "sevgili çocuklarım, tarlalara ya da patikaya gidebilirsiniz, ama Bay McGregor'un bahçesine adım atmayın: Babanız orada bir kaza geçirmişti; Bayan McGregor onu bir böreğe koydu."</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_BEATRIX_POTTER_2_QUOTE">
+      <Text>Artık büküm yok!</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_VALMIKI_1_QUOTE">
+      <Text>Kahraman yayına bir ok yerleştirdi,[NEWLINE]Tıslayan bir yılan gibi.[NEWLINE]Tüyleri esen yelden yapılmıştı;</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_VALMIKI_2_QUOTE">
+      <Text>Her ruhun kendi özünü unutması ve kendini bedende ikamet eden bir canlı ruh olarak görmesi şaşırtıcıdır… sanki bir tencereye hapsolmuş gibi.</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_RUMI_1_QUOTE">
+      <Text>Sancağını, cesur adamlar gibi, çölün ortasına dik.</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_RUMI_2_QUOTE">
+      <Text>Ekmek kırılmadan nasıl yiyecek olur?[NEWLINE]Üzüm ezilmeden nasıl şarap verir?</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_GABRIELA_MISTRAL_1_QUOTE">
+      <Text>Gerçek usta her zaman biraz sanatçı olacaktır; bazılarının ruhani liderin dönüşmesini istediği türden bir "iş patronu" veya "çiftlik kâhyası" kabul edemeyiz.</Text>
+    </Row>
+    <Row Tag="LOC_GREATWORK_GABRIELA_MISTRAL_2_QUOTE">
+      <Text>Güzel intikamımı terennüm ederek uzaklaşacağım, zira o tenha derinliklerde hiçbir el uzanıp bir avuç kemiğini benden alamaz!</Text>
+    </Row>
+	</EnglishText>
+</GameData>
+

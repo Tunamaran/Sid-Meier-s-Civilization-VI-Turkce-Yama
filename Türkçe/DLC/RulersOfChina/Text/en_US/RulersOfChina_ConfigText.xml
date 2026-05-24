@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Ramses-->
+		<Row Tag="LOC_LEADER_YONGLE_NAME">
+			<Text>Yongle</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YONGLE_NAME">
+			<Text>Lijia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YONGLE_DESCRIPTION">
+			<Text>Tüm Şehirler, [Icon_Production] Üretimlerinin %50'sini [Icon_Food] Besin'e, [Icon_Faith] İnanç'a dönüştürebilecekleri Projeler alır; eğer [Icon_GOLD] Altın ise %100'ünü dönüştürebilirler.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_YONGLE_XP_DESCRIPTION">
+			<Text>Tüm Şehirler, [Icon_Production] Üretimlerinin %50'sini [Icon_Food] Besin'e, [Icon_Faith] İnanç'a veya eğer [Icon_GOLD] Altın ise %100'ünü dönüştürebilecekleri Projeler alır. 10 veya daha fazla Nüfusa sahip Şehirler, şehirdeki her Nüfus için Tur Başına +2 [Icon_Gold] Altın, +1 [Icon_Science] Bilim ve +1 [Icon_Culture] Kültür kazanır.</Text>
+		</Row>
+		<!-- Qin Alt-->
+		<Row Tag="LOC_LEADER_QIN_ORIGINAL_NAME">
+			<Text>Qin (Cennetin Görevi)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_QIN_ALT_NAME">
+			<Text>Qin (Birleştirici)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_QIN_ALT_NAME">
+			<Text>Otuz Altı Stratej</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_QIN_ALT_DESCRIPTION">
+			<Text>Yakın Dövüş birlikleri, Barbarları Dönüştür eylemini kazanır. Bu eylem, Barbar birliklerini sizin birliklerinize dönüştürür ancak Yakın Dövüş birliğini ortadan kaldırır.</Text>
+		</Row>
+		<!-- Wu Zetian-->
+		<Row Tag="LOC_LEADER_WU_ZETIAN_NAME">
+			<Text>Wu Zetian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_WU_ZETIAN_NAME">
+			<Text>Tuzak Kılavuzu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_WU_ZETIAN_DESCRIPTION">
+			<Text>Tüm saldırı Casusları 1 seviye daha yüksekte çalışır. Bir saldırı casusluk görevi başarılı olduğunda, hedef şehrin o turda kazandığı [ICON_Faith] İnanç, [ICON_Culture] Kültür ve [ICON_SCIENCE] Bilimin %100'ünü de elde edersiniz. Savunma Taktikleri keşfedildikten sonra ücretsiz bir Casus (ve ek casus kapasitesi) kazanırsınız. Casuslar [ICON_Faith] İnanç ile satın alınabilir.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_YONGLE">
+			<Text>Dünya seni bekliyor, ey Ming Çini'nin yüce İmparatoru Yongle! Uzat elini, kavra onun servetini ve irfanını. Ulusunu her şeyin merkezine yerleştir ve herkesin sana niyazla yönelmesine müsaade et. Hiç kimse senin hakkında dil uzatmasın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_WU_ZETIAN">
+			<Text>Mütevazı başlangıçlardan dünyanın merkezine yükseldin, ey Çin İmparatoriçesi Wu Zetian. Sarayının entrikalarının seni durdurmasına izin verme, zira hepsini alt edecek zekaya sahipsin. İster ressamın fırçasıyla, ister sözlerindeki maharetinle, isterse zehirli bir hançerle – düşmanlarının üstesinden gelecek ve dünyanın sana boyun eğmesini sağlayacaksın; sevgiden ya da korkudan, pek fark yoktur.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

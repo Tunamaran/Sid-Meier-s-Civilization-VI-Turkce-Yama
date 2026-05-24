@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Mısırlı Kleopatra</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Selamlar, gezgin. Bilmelisin ki bir büyüklüğün huzurunda duruyorsun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>Ne emredersiniz, lordum?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Dostluk İlanı</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Barış Yap</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Açık Sınırlar Talep Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Heyet Gönder[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Daimi Büyükelçilik Kur[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Kınama</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Sürpriz Savaş İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Resmî Savaş İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Kutsal Savaş İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Kurtuluş Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+      <Text>[NEWLINE][NEWLINE](Dost şehirleri ele geçirirken savaş kışkırtıcılığı cezası yok)</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Yeniden Fetih Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+      <Text>[NEWLINE][NEWLINE](Kendi şehirlerinizi geri alırken savaş kışkırtıcılığı cezası yok)</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Koruma Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+      <Text>[NEWLINE][NEWLINE](Müttefik şehir devletlerini savunurken savaş kışkırtıcılığı cezası yok)</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Sömürge Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Toprak Genişletme Savaşı İlan Et[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Savaş Kışkırtıcılığı Cezası: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Maliyeti: {1_Cost} [ICON_Gold] Altın</Text>
+		</Row>
+    <Row Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+      <Text>Hedef güç, şehirlerinizden birini dinî yönden dönüştürmüştür.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+      <Text>Hedef güç, şehirlerinizden birini ele geçirmiştir.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+      <Text>Hedef güç, mevcut dostlarınızdan veya müttefiklerinizden birine ait bir şehri ele geçirmiştir.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+      <Text>Hedef güç, mevcut müttefik şehir devletlerinizden birine savaş ilan etmiştir.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+      <Text>Hedef güç, sizden iki teknoloji çağı geridedir.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+      <Text>Hedef gücün şehirlerinden ikisi, 2 rakibin şehrine 10 kare mesafe içindedir.</Text>
+    </Row>
+   <Row Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Savaşa gitmek istediğinizden emin misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Evet</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>Hayır</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Anlaşma Yap</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Talepte Bulun</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Bu Talebi Görmezden Gel</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Hoşçakalın</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Açık Artırma Öner</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>Sizin için ne yapabilirim?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>Bunun hakkında ne düşünüyorsunuz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>Taleplerim karşılanmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>Anlaşmayı Görüntüle</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>Talebi Görüntüle</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>Talep edilecek öge bulunmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>Anlaşmada kullanılabilecek öge bulunmuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Bana Casusluk Yapmama Sözü Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Şehirlerime Çok Yakın Yerleşmeme Sözü Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Şehirlerimi Din Değiştirmeye Zorlamama Sözü Ver</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Tarihi Eserlerimi Kazmama Sözü Ver</Text>
+		</Row>
+		<!-- Action Failure Reasons -->
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Takımınızdaki bazı üyeler, bu oyuncunun takımındaki bir üyenin dostu ya da müttefikidir.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Bu oyuncuyu kınamadınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Kınamanın ardından {2_Turns} tur beklemelisiniz ({3_Remaining} tur içinde kullanılabilir).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Bu liderle bir savunma paktınız bulunuyor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE][COLOR_RED]Bu Savaş Gerekçesi için gereken koşulları sağlamıyorsunuz.[ENDCOLOR][NEWLINE][{2_CasusBelliDescription}]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Barış yapılmasının ardından {2_Turns} tur beklemelisiniz ({3_Remaining} tur içinde kullanılabilir).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Bu oyunda büyük bir uygarlığa savaş ilan edebilmek için {2_TurnNumber}. tura kadar beklemelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>{1_ActionType} yapılamıyor.[NEWLINE][COLOR_RED]{2_GoldRequirement} [ICON_Gold] Altına ihtiyacınız var.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Savaş ilan edilmesinin ardından {2_Turns} tur beklemelisiniz ({3_Remaining} tur içinde kullanılabilir).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>{1_WarActionType} yapılamıyor.[NEWLINE]Bu oyunda savaşlar sonsuza kadar sürer.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Full Civs -->
+		<Row Tag="LOC_CIVILIZATION_RADZIWILL_DESCRIPTION">
+			<Text>Litvanya soylu aileleri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POTOCKI_DESCRIPTION">
+			<Text>Polonya soylu aileleri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_OSTROGSKI_DESCRIPTION">
+			<Text>Volhinya soylu aileleri</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RADZIWILL_ADJECTIVE">
+			<Text>Litvanya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POTOCKI_ADJECTIVE">
+			<Text>Polonya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_OSTROGSKI_ADJECTIVE">
+			<Text>Volhinya</Text>
+		</Row>
+		<!-- City States-->
+		<Row Tag="LOC_CIVILIZATION_GDANSK_NAME">
+			<Text>Gdańsk</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIENNA_NAME">
+			<Text>Viyana</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRAGUE_NAME">
+			<Text>Prag</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GDANSK_DESCRIPTION">
+			<Text>Gdańsk şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIENNA_DESCRIPTION">
+			<Text>Viyana şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRAGUE_DESCRIPTION">
+			<Text>Prag şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GDANSK_ADJECTIVE">
+			<Text>Gdańsk</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VIENNA_ADJECTIVE">
+			<Text>Viyanalı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRAGUE_ADJECTIVE">
+			<Text>Praglı</Text>
+		</Row>
+		<!-- Cities-->
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_CAPITAL">
+			<Text>Vilnius</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_1">
+			<Text>Trakai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_2">
+			<Text>Nesvyžius</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_3">
+			<Text>Kėdainiai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_4">
+			<Text>Biržai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_5">
+			<Text>Dubingiai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_6">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_7">
+			<Text>Naugardukas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_8">
+			<Text>Vitebskas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RADZIWILL_9">
+			<Text>Daugavpils</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_CAPITAL">
+			<Text>Kraków</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_1">
+			<Text>Potok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_2">
+			<Text>Lublin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_3">
+			<Text>Lviv</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_4">
+			<Text>Warsaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_5">
+			<Text>Częstochowa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_6">
+			<Text>Sandomierz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_7">
+			<Text>Przemyśl</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_8">
+			<Text>Chełm</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTOCKI_9">
+			<Text>Brześć Litewski</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_CAPITAL">
+			<Text>Ostroh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_1">
+			<Text>Korets</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_2">
+			<Text>Zaslav</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_3">
+			<Text>Rivne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_4">
+			<Text>Zhytomyr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_5">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_6">
+			<Text>Braclaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_7">
+			<Text>Trembowla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_8">
+			<Text>Kamieniec Podolski</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTROGSKI_9">
+			<Text>Ołyka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_GDANSK">
+			<Text>Gdansk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_VIENNA">
+			<Text>Vienna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCENARIO_PRAGUE">
+			<Text>Prague</Text>
+		</Row>
+		<!-- Citizen Names-->
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_1">
+			<Text>Krzysztof</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_2">
+			<Text>Grzegorz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_3">
+			<Text>Bogusław</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_4">
+			<Text>Albert</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_MALE_5">
+			<Text>Aleksander</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_1">
+			<Text>Barbara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_2">
+			<Text>Krystyna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_3">
+			<Text>Ludwika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_4">
+			<Text>Katarzyna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_RADZIWILL_SCENARIO_FEMALE_5">
+			<Text>Elisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_MALE_1">
+			<Text>Jakub</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_MALE_2">
+			<Text>Stefan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_MALE_3">
+			<Text>Alfred</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_MALE_4">
+			<Text>Feliks</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_MALE_5">
+			<Text>Andrzej</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_FEMALE_1">
+			<Text>Ewa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_FEMALE_2">
+			<Text>Józefina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_FEMALE_3">
+			<Text>Julia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_FEMALE_4">
+			<Text>Konstancja</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_POTOCKI_FEMALE_5">
+			<Text>Natalia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_1">
+			<Text>Daniil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_2">
+			<Text>Feodor</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_3">
+			<Text>Władysław</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_4">
+			<Text>Ilia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_MALE_5">
+			<Text>Janusz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_1">
+			<Text>Elizaveta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_2">
+			<Text>Zofia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_3">
+			<Text>Anna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_4">
+			<Text>Teofilia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_OSTROGSKI_SCENARIO_FEMALE_5">
+			<Text>Alojza</Text>
+		</Row>
+		<!-- City State Bonuses-->
+		<Row Tag="LOC_LEADER_TRAIT_GDANSK_NAME">
+			<Text>Gdańsk Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GDANSK_DESCRIPTION">
+			<Text>Herhangi bir Şehir Devleti'ne yapılan ticaret yolları, kaynak şehirdeki her bir uzmanlık bölgesi için 5 Altın sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VIENNA_NAME">
+			<Text>Viyana Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VIENNA_DESCRIPTION">
+			<Text>Şehir devleti birliklerini kiralamak için gereken normal maliyetin yarısını ödersiniz.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRAGUE_NAME">
+			<Text>Prag Süzeren Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRAGUE_DESCRIPTION">
+			<Text>Bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar (Tiyatro Meydanı bölgeleri için hem [ICON_GreatWriter] Büyük Yazar hem de [ICON_GreatArtist] Büyük Sanatçı puanı).</Text>
+		</Row>
+		<!-- Scenario-specific barbarian tribes-->
+		<Row Tag="LOC_BARBARIAN_CAVALRY_1">
+			<Text>Tatarlar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CAVALRY_2">
+			<Text>Altın Orda</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CAVALRY_3">
+			<Text>Kırım Hanlığı</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_CAVALRY_4">
+			<Text>Altın Orda'dan Tatarlar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_COSSACKS_1">
+			<Text>Kazaklar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_COSSACKS_2">
+			<Text>Kazak Hetmanlığı</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_KNIGHTS_1">
+			<Text>Töton Şövalyeleri</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_KNIGHTS_2">
+			<Text>Töton Tarikatı</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_KNIGHTS_3">
+			<Text>Livonya Tarikatı</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_MOLDAVA_1">
+			<Text>Boğdanlılar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_MOLDAVA_2">
+			<Text>Boğdan Prensliği</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_OTTOMAN_1">
+			<Text>Osmanlılar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_OTTOMAN_2">
+			<Text>Osmanlı İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_RUS_1">
+			<Text>Ruslar</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_RUS_2">
+			<Text>Moskova Büyük Dükalığı</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_RUS_3">
+			<Text>Novgorod Cumhuriyeti</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_RUS_4">
+			<Text>Rus Çarlığı</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_SWEDES_1">
+			<Text>İsveçliler</Text>
+		</Row>
+		<Row Tag="LOC_BARBARIAN_SWEDES_2">
+			<Text>İsveç İmparatorluğu</Text>
+		</Row>
+		<!-- Scenario-specific invasion warnings-->
+		<Row Tag="LOC_POLAND_SCENARIO_EARLY_WARNING">
+			<Text>Birliğimiz bir kez daha tehdit altında. {1_InvaderName} ordusu topraklarımıza doğru ilerliyor ve {2_Turns : plural 1?{2_Turns} tur; other?{2_Turns} turlar;} içinde varacak. Görünüşe göre {3_CityName} şehrine yöneliyorlar.</Text>
+		</Row>
+		<Row Tag="LOC_POLAND_SCENARIO_INVASION_HERE">
+			<Text>{1_InvaderName} ordusu geldi. Bu yabancıları püskürtün. Polonya henüz kaybedilmedi!</Text>
+		</Row>
+		<!-- Scenario-specific religion-->
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_NAME">
+			<Text>Gök Gürültüsü Tanrısı</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_GOD_OF_THE_THUDERCLAP_DESCRIPTION">
+			<Text>+25% [ICON_Production] Orta Çağ ve Rönesans askeri birlikleri için Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ORTHODOX_CHURCH_NAME">
+			<Text>Ortodoks Kilisesi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ORTHODOX_CHURCH_NAME">
+			<Text>Ortodoks Kilisesi</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_ORTHODOX_CHURCH_DESCRIPTION">
+			<Text>Ortodoks Kiliseleri inşa edilmesine olanak sağlar (+3 [ICON_Faith] İnanç, +2 [ICON_Food] Besin).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_CATHEDRAL_DESCRIPTION">
+			<Text>Katedrallerin inşa edilmesine olanak sağlar (+3 [ICON_Faith] İnanç, +1 [ICON_Housing] Konut).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
+			<Text>Camilerin inşa edilmesine olanak sağlar (+5 [ICON_Faith] İnanç).</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_INNER_PEACE_NAME">
+			<Text>İç Huzur</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_SCENARIO_TITHE_DESCRIPTION">
+			<Text>Her takipçi için +1% [ICON_Gold] Altın.</Text>
+		</Row>
+		<!-- Scenario-specific units-->
+		<Row Tag="LOC_UNIT_JANISSARY_NAME">
+			<Text>Yeniçeri</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_JANISSARY_DESCRIPTION">
+			<Text>Osmanlılar için Rönesans dönemi yakın dövüş birimi. Düşman bir birimi yok ettiğinde iyileşir.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARCHER_NAME">
+			<Text>Atlı Okçu</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HORSE_ARCHER_DESCRIPTION">
+			<Text>Tatarlar için Orta Çağ dönemi atlı okçu birimi.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME">
+			<Text>Töton Şövalyesi</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION">
+			<Text>Töton Tarikatı için güçlü saldırılara sahip, Orta Çağ dönemi ağır süvari birimi.</Text>
+		</Row>
+		<!-- Scenario-specific Great People-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_STANISLAW_SAMOSTRZELNIK_NAME">
+			<Text>Stanisław Samostrzelnik</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARTIN_KOBER_NAME">
+			<Text>Martin Kober</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BARTOLOMMEO_BERRECCI_NAME">
+			<Text>Bartolommeo Berrecci</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_ADAM_KOCHANSKI_NAME">
+			<Text>Adam Adamandy Kochański</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAZIMIERZ_SIEMIENOWICZ_NAME">
+			<Text>Kazimierz Siemienowicz</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KRZYSZTOF_GRODZICKI_NAME">
+			<Text>Krzysztof Grodzicki</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SEBASTIANO_MONTELUPI_NAME">
+			<Text>Sebastiano Montelupi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_KONSTANTY_KORNIAKT_NAME">
+			<Text>Konstanty Korniakt</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICOLAUS_COPERNICUS_NAME">
+			<Text>Nicolaus Copernicus</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SENDIVOGIUS_NAME">
+			<Text>Sendivogius</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PIOTR_SKARGA_NAME">
+			<Text>Piotr Skarga</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JAN_KOCHANOWSKI_NAME">
+			<Text>Jan Kochanowski</Text>
+		</Row>
+		<!-- Scenario-specific Great Works-->
+		<Row Tag="LOC_GREATWORK_SAMOSTRZELNIK_1_NAME">
+			<Text>Piotr Tomicki'nin Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SAMOSTRZELNIK_2_NAME">
+			<Text>Aziz Stanislaus</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SAMOSTRZELNIK_3_NAME">
+			<Text>I. Sigismund'un Dua Kitabı</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KOBER_1_NAME">
+			<Text>Anna Maria Vasa'nın Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KOBER_2_NAME">
+			<Text>Kral III. Sigismund</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KOBER_3_NAME">
+			<Text>Kraliçe Anna Jagiellon'un Portresi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SKARGA_1_NAME">
+			<Text>Azizlerin Hayatları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_SKARGA_2_NAME">
+			<Text>Sejm Vaazları</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KOCHANOWSKI_1_NAME">
+			<Text>Yunan Elçilerinin Geri Çevrilmesi</Text>
+		</Row>
+		<Row Tag="LOC_GREATWORK_KOCHANOWSKI_2_NAME">
+			<Text>Ağıtlar</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

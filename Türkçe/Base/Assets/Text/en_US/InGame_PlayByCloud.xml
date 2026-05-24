@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- ==================== Action Panel ==================== -->
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADING">
+			<Text>TUR İLETİLİYOR</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADING_TOOLTIP">
+			<Text>Turunuz buluta yükleniyor. Oyundan çıkmanız ilerlemenizin kaybolmasına neden olabilir.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADED">
+			<Text>ÇIKIŞ YAPILIYOR</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADED_TOOLTIP">
+			<Text>Turunuz buluta yüklendi. Ana menüye dönülüyor.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_END_TURN_ASK_ME_TITLE">
+			<Text>Bulut Turu İletildi</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_END_TURN_ASK_ME_TEXT">
+			<Text>Turunuz buluta iletildi. İlerlemeniz kaydedildi. Şimdi ne yapmak istersiniz? Bu seçenek oyun seçeneklerinden değiştirilebilir.</Text>
+		</Row>
+		<Row Tag="LOC_REMEMBER_MY_CHOICE">
+			<Text>Seçimimi Hatırla</Text>
+		</Row>
+		<!-- ==================== Your Turn Notification Popup ==================== -->
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_YOUR_TURN_TITLE">
+			<Text>Bulut Üzerinden Oyun Sıranız</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_YOUR_TURN_BODY">
+			<Text>Bulut Üzerinden Oyun'da sıra sizde:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]Maça şimdi katılırsanız, kaydedilmemiş tüm ilerlemeniz kaybolacak.</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_JOIN_MATCH">
+			<Text>Maça Katıl</Text>
+		</Row>
+		<!-- ==================== Unseen Completed Cloud Game Notification Popup ==================== -->
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_UNSEEN_COMPLETE_TITLE">
+			<Text>Bulut Üzerinden Oyun Bitti</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_UNSEEN_COMPLETE_BODY">
+			<Text>Bulut Üzerinden Oyun'da oyununuz sona erdi:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]Sonuçları şimdi görüntülerseniz, kaydedilmemiş tüm ilerlemeniz kaybolacak.</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_VIEW_RESULTS">
+			<Text>Sonuçları Görüntüle</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

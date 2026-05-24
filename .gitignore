@@ -1,0 +1,18 @@
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Git
+.git/
+
+# Temp
+*.bak
+*.tmp

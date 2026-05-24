@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BUILDING_CONSULATE_NAME">
+			<Text>Konsolosluk</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHANCERY_NAME">
+			<Text>Şansölyelik</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSULATE_DESCRIPTION">
+			<Text>Tur başına +2 Etki Puanı. Bu şehri veya Ordugâh bulunan şehirleri hedef alan Düşman Casusunun seviyesi 1 azalır.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CHANCERY_DESCRIPTION">
+			<Text>Tur başına +3 Etki Puanı. Bu uygarlık bir düşman Casusunu yakaladığında veya öldürdüğünde, düşman Casusunun her seviyesi için 50 [ICON_Science] Bilim kazanır.</Text>
+		</Row>
+		<!--City-States changed by these buildings-->
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te ve her Kütüphane binasında +1 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Üniversite ve Konsolosluk binasında +2 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Araştırma Laboratuvarı ve Şansölyelik binasında +3 [ICON_Science] Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te ve her Mabet binasında +1 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Tapınak ve Konsolosluk binasında +2 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her ibadet ve Şansölyelik binasında +3 [ICON_Faith] İnanç.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te ve her Pazar veya Deniz Feneri binasında +2 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Banka, Tersane ve Konsolosluk binasında +4 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Borsa, Liman ve Şansölyelik binasında +6 [ICON_Gold] Altın.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te ve her Amfi Tiyatro binasında +1 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Her Sanat Müzesi, Arkeoloji Müzesi ve Konsolosluk binasında +2 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Her Yayın Merkezi ve Şansölyelik binasında +3 [ICON_Culture] Kültür.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te ve Kışla veya Ahır bulunan her şehirde, birim üretirken +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Cephanelik veya Konsolosluk binası bulunan her şehirde birim üretirken +2 [ICON_Production] Üretim. Eğer bu binaların her ikisine de sahipse +4 [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Askeri Akademi veya Şansölyelik binası bulunan her şehirde birim üretirken +3 [ICON_Production] Üretim. Eğer bu binaların her ikisine de sahipse +6 [ICON_Production] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+			<Text>[ICON_Capital] Başkent'te ve Atölye binası bulunan her şehirde harika, bina ve bölge üretirken +1 [ICON_Production] Üretim.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>Fabrika veya Konsolosluk binasına sahip her şehirde, harika, bina ve bölge üretirken +2 [ICON_Production] Üretim kazanılır. Her iki binaya da sahipse +4 [ICON_Production] Üretim kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>Şansölyelik veya Enerji Santrali binasına sahip her şehirde, harika, bina ve bölge üretirken +3 [ICON_Production] Üretim kazanılır. Hem Şansölyelik hem de Enerji Santrali binasına sahipse +6 [ICON_Production] Üretim kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_ETHIOPIA">
+			<Text>Bir şehirdeki her Hükümet Meydanı binası, Diplomatik Mahalle binası ve Saray, tüm getirilere +1 sağlar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

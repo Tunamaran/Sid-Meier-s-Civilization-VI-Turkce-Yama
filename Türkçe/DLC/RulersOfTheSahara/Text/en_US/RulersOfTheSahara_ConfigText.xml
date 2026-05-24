@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Ramses-->
+		<Row Tag="LOC_LEADER_RAMSES_NAME">
+			<Text>II. Ramses</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RAMSES_NAME">
+			<Text>Ebu Simbel</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RAMSES_DESCRIPTION">
+			<Text>Binaları tamamlarken inşa maliyetinin %15'i kadar, Harikaları tamamlarken ise %30'u kadar [ICON_CULTURE] Kültür kazanın.</Text>
+		</Row>
+		<!-- Cleopatra Alt-->
+		<Row Tag="LOC_LEADER_CLEOPATRA_ORIGINAL_NAME">
+			<Text>Kleopatra (Mısırlı)</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CLEOPATRA_ALT_NAME">
+			<Text>Kleopatra (Ptolemaios)</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CLEOPATRA_ALT_NAME">
+			<Text>Hapi'nin Gelişi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CLEOPATRA_ALT_DESCRIPTION">
+			<Text>Taşkın Yataklarındaki kaynaklar +1 [ICON_FOOD] Besin ve +1 [ICON_CULTURE] Kültür kazanır. Kendinize ait Taşkın Yatağı bölgeleri, çevre bölgelere normal -1 yerine +1 Çekicilik kazandırır.</Text>
+		</Row>
+		<!-- Sundiata Keita-->
+		<Row Tag="LOC_LEADER_SUNDIATA_KEITA_NAME">
+			<Text>Sundiata Keita</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUNDIATA_KEITA_NAME">
+			<Text>Sogolon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_SUNDIATA_KEITA_DESCRIPTION">
+			<Text>Büyük Kişileri işe almanın [ICON_GOLD] Altın maliyeti %20 daha azdır ve Mali tarafından kurulan şehirlerdeki Pazar, 2 [ICON_GreatWork_WRITING] Büyük Yazı Eseri yuvası kazanır. [ICON_GreatWork_WRITING] Büyük Yazı Eserleri +4 [ICON_GOLD] Altın ve +2 [ICON_PRODUCTION] Üretim kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_RAMSES">
+			<Text>Ramses, kara toprağın ve kızıl toprağın firavunu, Horus gibi sevilen, buyurgan yüzün sayısız taş heykelde çölün üzerine bakar. Başkaları Tanrı'nın elçisi olduğunu iddia eder, ama sen güneşin vücut bulmuş hali olduğunu söylersin. Mısır'ın yaşayan kayasından inşa edilen tapınaklardan emrin halkını sana çağırır. Şimdi hükmet ve yükselen tufana karşı kimse durmasın.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SUNDIATA_KEITA">
+			<Text>Sundiata Keita, Mali'nin Aslanı, griotların seni överek şarkı söylüyor! Mütevazı başlangıçlardan yükselip halkının kehanetini gerçekleştirdin. Sen bir avcı ve büyücüsün; şimdi kral olma zamanı geldi! Mali'yi mütevazı başlangıçlarından kaderinde olan imparatorluğa taşı.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

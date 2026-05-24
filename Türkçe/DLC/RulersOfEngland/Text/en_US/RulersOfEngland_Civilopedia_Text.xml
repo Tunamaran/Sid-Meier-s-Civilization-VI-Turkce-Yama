@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- leaders -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_TITLE">
+			<Text>I. Elizabeth</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_QUOTE">
+			<Text>Dünya izliyor, biz onun sahnesinde hüküm sürüyoruz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_1">
+			<Text>Kraliçe I. Elizabeth (1533-1603), günümüzde kendi döneminde olduğundan biraz daha fazla ün kazanır. İleride kurulacak Britanya İmparatorluğu'nun temellerini attı; ancak onun zamanında bu, düşman güçlerin egemen olduğu bir dünya düzeninde korsanlar ve casuslardan oluşan çaresiz bir yamalı bohçaydı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_2">
+			<Text>Tudor İngiltere'si, tarihte Erken Modern Dönem'in özünü yansıtır. Burada, günümüz dünya sisteminin pek çok temelinin atıldığını görürüz: Britanya Doğu Hindistan Şirketi'nin salonlarında finans, sigorta ve yatırımın kökenleri, Reform hareketi, mutlak monarşinin temel taşları ve aynı zamanda demokratik parlamentarizm. Tüm bunlar Elizabeth döneminde, İngiliz -hatta dünya- tarihinin en büyük hükümdarlarından birinin yönetimi altında şekillendi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_3">
+			<Text>1500'lü yıllardaki dünya, önceki bir dünya düzenini temsil ediyordu. İspanyol ve Portekiz imparatorlukları zirvedeydi ancak sömürgelerinden elde ettikleri olağanüstü zenginliği, çoğunlukla kraliyet verasetini ilgilendiren ve sıradan halkın pek ilgisini çekmeyen savaşlarda tüketiyorlardı. Ming ve Babür imparatorlukları doruk noktasındaydı; bu durum, ileride sömürgeci fetih fırtınası karşısında rehavete yol açacaktı. İngiltere ise dünyanın ucundaki yağmurlu, çamurlu bir kayaydı. Ondan bir imparatorluk çıkması beklenmezdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_4">
+			<Text>Kraliçe Elizabeth, VIII. Henry ile talihsiz ikinci eşi Anne Boleyn'in kızıydı. Boleyn'in idamı ve evliliğinin iptaliyle birlikte Elizabeth gayrimeşru hale geldi - bu hiç de hayırlı bir başlangıç değildi. Katolik Mary tahta çıkınca işler daha da kötüleşti; Elizabeth'in Protestan eğilimleri onun için çok büyük bir risk oluşturuyordu. Genç kraliçe adayı hapsedildi. Ancak Mary hastaydı ve ölümü üzerine Elizabeth, 1558'de tehlikeli bir tahta oturdu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_5">
+			<Text>Elizabeth'in saltanatının ilk yılları en belirsiz dönemdi. On iki yıl tahtta kaldıktan ve Katolik saflara dönme belirtisi göstermedikten sonra Papa onu aforoz etti; hayatına ve yönetimine yönelik komplolar çoğaldı. Buna karşı Elizabeth savunmalar geliştirdi: artırılmış bir donanma varlığı, casus Francis Walsingham merkezli bir gizli polis teşkilatı ve bir Katolik hükümdarla evlenme konusundaki sürekli bir flört. Ancak tehditler her zaman bu kadar gizli değildir. İngiliz korsanlarının onlarca yıllık tacizleri ve Hollandalı Protestanların İspanyol yönetimine karşı isyanının ardından İngiltere, 1585'te İspanya'ya savaş açtı. İspanya, ünlü Armada'sını İngiltere kıyılarına gönderdi - bu hiç de küçük bir tehdit değildi, çünkü 1580'ler İspanyol İmparatorluğu'nun zirve yaptığı dönemdi.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_6">
+			<Text>Armada'nın yenilgisi, İngiltere'nin 'tahta duvarının' ve yüzyıllar boyu sürecek deniz üstünlüğünün başlangıcı oldu. Zaferi simgeleyen büyük bir Salamis Muharebesi (Greko-Pers savaşları) yoktu; aksine, İspanyol gemilerine karşı bir dizi taciz baskını, yağa batırılmış ateş gemilerinin cüretkâr kullanımı ve şanslı bir fırtına İspanyol kayıplarına katkıda bulundu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_7">
+			<Text>İç cephede Elizabeth konumunun kırılgan olduğunun farkındaydı. Katolik güçlerle gerginliği zaten tırmandırmıştı ve bu nedenle açık Protestan sembolizmini hafifletti, hatta Püritenleri (daha sonra Kuzey Amerika'daki İngiliz sömürgelerine gidecek olanları) sınır dışı edecek kadar ileri gitti. Ayrıca, evlilik anlaşmalarını reddetti - bu, kişisel eğilimden mi yoksa kocasına siyasi olarak fazla borçlu kalma korkusundan mı kaynaklandığı tarihsel bir spekülasyon konusudur. Bu nedenle 'Bakire Kraliçe' olarak adlandırıldı - bu yüzden Kuzey Amerika'daki yerleşimi 'Virginia' olarak tanındı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_8">
+			<Text>Ancak bir yerde pek tedbirli davranmadı: İrlanda halkı yoğun bir şekilde Katolikti ve İngiliz yönetimine kin besliyordu. Elizabeth, kendisine sadık İngiliz astlarına toprak ve unvan vermeyi teşvik etti ve kendisine karşı gelen tüm toprakları yakıp yıktı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_9">
+			<Text>Hayatının ilerleyen dönemlerindeki yönetimi ilk yıllarıyla kıyaslanamazdı. Önemli saray mensuplarının gitmesiyle Elizabeth'in saltanatı, güçlü ticari tekeller peşinde koşan siyasi ve sosyal tırmanıcılar tarafından içeriden kemirilmeye başlandı. Bu tekeller, hem İngiltere içinde hem de dışında tebaa için zaman zaman zararlı olsa da etkili olacaktı. Gerçekten de İngiltere'deki büyük ticaret şirketlerinin başlangıcı buradadır. Elizabeth Virginia'nın kuruluşunu hiç görmemiş olsa da, bunun nedeni denememiş olması değildi - talihsiz Roanoke kolonisi onun saltanatı sırasında kuruldu.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_10">
+			<Text>Elizabeth dönemi edebi hayatı, en çarpıcı biçimde Shakespeare ve Marlowe'un şahıslarında günümüze kadar gelmiştir; bu da İngiliz sanat ve kültüründe bir çiçeklenmeyi tetiklemiştir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_HISTORY_PARA_11">
+			<Text>Elizabeth, 44 yıl tahtta kaldıktan sonra 1603'te öldü. Ancak temellerini attığı İngiltere yıkılmadı ve sonraki yüzyıllarda dünya sahnesine hükmetmeye hazırlandı.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_CAPSULE_BODY">
+			<Text>İngiltere ile bir ticaret anlaşmasına ilginiz olur muydu? Ticareti kontrol etmek, İngiltere'yi yeni bir Elizabeth çağına hazırlamanın yoludur.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELIZABETH_CHAPTER_DETAILED_BODY">
+			<Text>Elizabeth'in yönetimi altında İngiltere'de ticaret ve [ICON_GreatAdmiral] Büyük Amiral odak noktasıdır. Kraliyet Donanma Tersanesi size ek donanma hareketi ve [ICON_GreatAdmiral] Büyük Amiral puanı sağlar. Deniz Kurdu birimiyle ek donanma hareketini kullanarak düşman [ICON_TradeRoute] Ticaret Yollarını yağmalayın ve Drake'in Mirası sayesinde daha fazla ganimet elde edin. İlk [ICON_GreatAdmiral] Büyük Amiral'inizi aldığınızda 2 ek [ICON_TradeRoute] Ticaret Yolu kazanırsınız; bunları Şehir Devletlerine göndererek hazinenizi hızla doldurun.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARDRADA_TITLE">
+			<Text>Harald Hardrada (Konge)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARALD_ALT_TITLE">
+			<Text>Harald Hardrada (Vareg)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARALD_ALT_QUOTE">
+			<Text>Sancağın taşındığı kişi zaferi kazanmalıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARALD_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>Harald, kendi Vareg Muhafızları'nı kurmak için paralı askerler toplamak ister; bu paralı askerlerle rakiplerini yendiğinde büyük getiriler elde eder.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HARALD_ALT_CHAPTER_DETAILED_BODY">
+			<Text>Harald ile Şehir Devletleriyle dostluk kurarak Valhalla'ya layık büyük bir ordu oluşturun. Harald, eşsiz yeteneği sayesinde Şehir Devletlerinden daha ucuza asker kiraladığında, düşman birimlerini öldürerek büyük miktarlarda [ICON_Faith] İnanç, [ICON_Science] Bilim ve [ICON_Culture] Kültür elde eder. Çivisiz Kilise, [ICON_Faith] İnanç üretimine daha da katkıda bulunur; Monarşi hükümetini seçerseniz bu, ordusu için daha fazla birim satın almanızı sağlar. Norveç'in Knarr yeteneği, Harald'ın erken okyanus geçişi kazanması ve biniş cezalarını görmezden gelmesi sayesinde büyük ordusunu Okyanus boyunca kolayca göndermesine olanak tanır. Askeri Taktikler teknolojisini açtığınızda Berserker, ordusuna ekstra bir darbe gücü verir. En iyi zaferi Hakimiyet'tir, ancak askeri gücünü herhangi bir zafer için kullanabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VICTORIA_TITLE">
+			<Text>Victoria (İmparatorluk Çağı)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VICTORIA_ALT_TITLE">
+			<Text>Victoria (Buhar Çağı)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VICTORIA_ALT_QUOTE">
+			<Text>Büyük olaylar beni sakin ve dingin kılar; asıl sinirlerimi bozan, önemsiz ayrıntılardır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VICTORIA_ALT_CHAPTER_CAPSULE_BODY">
+			<Text>Victoria ile Buhar Çağı'nda İngiltere'yi Sanayi Devrimi'ne yönlendirerek zaferinizi inşa edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_VICTORIA_ALT_CHAPTER_DETAILED_BODY">
+			<Text>Victoria yönetimindeki İngiltere, [ICON_Production] Üretim devidir. İlk araştırması, Demiri kullanıma açan Bronz İşleme'ye yönelmelidir; zira Demir, lider yeteneği sayesinde +2 [ICON_Production] Üretim kazanır ve uygarlık yeteneğiyle daha hızlı birikir. Ardından, Sanayi Bölgesi ve Atölyeyi açacak olan Çıraklık'a doğru ilerleyin. Yetenekleri sayesinde Atölye, [ICON_Production] Üretim makinesinin motorunu ateşleyecektir. Biriktireceği tüm Stratejik Kaynaklar için Kraliyet Donanma Tersanesi ideal bir depolama alanıdır. Victoria zafere doğru ilerlerken [ICON_Production] Üretim bonusları, onu ya Hakimiyet Zaferi için büyük bir ordu kurmaya ya da İngiltere'yi uzaya taşıyacak bölgelere ve binalara yönlendirir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

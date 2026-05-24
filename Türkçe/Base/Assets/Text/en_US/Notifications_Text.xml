@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!--Turn-Blocking Notifications -->
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_MESSAGE">
+			<Text>Tarihi Eser Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_ARTIFACT_PLAYER_SUMMARY">
+			<Text>Bir antik sit alanı kazdınız. Şimdi müzenize götürmek üzere bir tarihi eser seçin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_TECH_MESSAGE">
+			<Text>Bir Teknoloji Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_TECH_SUMMARY">
+			<Text>Araştırmaya başlamak için yeni bir teknoloji seçin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_MESSAGE">
+			<Text>Üretim Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CITY_PRODUCTION_SUMMARY">
+			<Text>Bu şehirde üretim tamamlandı. Sırada ne üreteceğimizi seçin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_MESSAGE">
+			<Text>Bir Yönetim Bilimi Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_CIVIC_SUMMARY">
+			<Text>Geliştirmeye başlamak için yeni bir yönetim bilimi seçin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_MESSAGE">
+			<Text>Birliklere Komuta Et</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_COMMAND_UNITS_SUMMARY">
+			<Text>Bir birimi hareket ettirin veya bir işlem yapmasını sağlayın.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_MESSAGE">
+			<Text>Şehir Menzilli Saldırısı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGE_ATTACK_SUMMARY">
+			<Text>Şehriniz bir menzilli saldırı gerçekleştirebilir.</Text>
+		</Row>		
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_MESSAGE">
+			<Text>Hükümet Değiştirmeyi Düşünün</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_GOVERNMENT_CHANGE_SUMMARY">
+			<Text>Yeni bir hükümetin kilidini açan bir yönetim bilimini tamamladınız. Bu yönetim biçimine geçmeyi düşünmelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_MESSAGE">
+			<Text>Şehri Yerle Bir Et veya Tut</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CONSIDER_RAZE_CITY_SUMMARY">
+			<Text>Bu tur bir şehri fethettiniz. Onu kurtarmaya, yerle bir etmeye veya tutmaya karar verin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_MESSAGE">
+			<Text>Politika Yuvasını Doldur</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FILL_CIVIC_SLOT_SUMMARY">
+			<Text>Hükümetimize bir politika eklenmesi gerekiyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_PANTHEON_MESSAGE">
+			<Text>Panteon Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_RELIGION_MESSAGE">
+			<Text>Din Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CHOOSE_BELIEF_MESSAGE">
+			<Text>İnanç Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
+			<Text>Büyük Kişiyi Edin</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_SUMMARY">
+			<Text>Bir Büyük Kişi kazandınız. Onu kabul edip etmemeye karar vermelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
+			<Text>Elçi Gönder</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
+			<Text>Bir [ICON_Envoy] Elçi kazandınız. Bonuslar için bir şehir devletine gönderebilirsiniz.</Text>
+		</Row>
+		<!-- Unit Notifications -->
+		<Row Tag="LOC_NOTIFICATION_UNIT_DIED">
+			<Text>Birim Yok Edildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_DISBANDED_MESSAGE">
+			<Text>Birim Dağıtıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_DISBANDED_SUMMARY">
+			<Text>[ICON_Gold] Altın bakiyeniz negatif olduğu için {1_UnitName} birliğiniz dağıtıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_MESSAGE">
+			<Text>Birim Terfiye Uygun</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_PROMOTION_AVAILABLE_SUMMARY">
+			<Text>{1_UnitName} birliği terfi edebilir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_MESSAGE">
+			<Text>Yenildi!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_SUMMARY">
+			<Text>{1_leader} yenildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DEFEATED_BY_SUMMARY">
+			<Text>{1_leader}, {2_leader} tarafından yenildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_MESSAGE">
+			<Text>Yenildi!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNMET_PLAYER_DEFEATED_SUMMARY">
+			<Text>Tanımadığınız bir oyuncu yenildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNMET_CITY_STATE_DEFEATED_SUMMARY">
+			<Text>Tanımadığınız bir şehir devleti yenildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_OCCUPATION">
+			<Text>Düşman işgali nedeniyle bir {1_UnitName} birliğinizi kaybettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
+			<Text>Düşman işgali, {1_UnitName} birliğinizi geri çekilmeye zorladı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_RADIATION_POISONING">
+			<Text>Radyasyon zehirlenmesi nedeniyle bir {1_UnitName} birliğinizi kaybettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_TO_WATER_DAMAGE">
+			<Text>Su zehirlenmesi nedeniyle bir {1_UnitName} birliğinizi kaybettiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_LIFESPAN_EXPIRED_MESSAGE">
+			<Text>Birim Ömrünü Tamamladı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_LOST_LIFESPAN_EXPIRED_SUMMARY">
+			<Text>{1_UnitName}, [ICON_Lifespan] ömür süresinin sonuna ulaştı.</Text>
+		</Row>
+		<!-- Diplomacy Notifications-->
+		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
+			<Text>Savaş İlanı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?has; other?have;} {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}'e savaş ilan etti.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
+			<Text>Barış Sağlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?has; other?have;} {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}} ile barış imzaladı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
+			<Text>Yeni bir uygarlıkla tanıştınız</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CITY_STATE">
+			<Text>Yeni bir şehir devletiyle tanıştınız</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER &lt;&lt; {1_leader}} adlı {LOC_GRAMMAR_CIVDESC &lt;&lt; {2_CivDesc}} lideriyle tanıştınız.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_MESSAGE">
+			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} Sınırları Korumaya Aldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BORDERS_NOW_ENFORCED_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?is; other?are;} artık sınırlarını denetliyor. İmparatorlukları içindeki birimleriniz, topraklarının hemen dışındaki bir bölgeye kaydırıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_MESSAGE">
+			<Text>Dostluk Sona Erdi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_FRIENDSHIP_EXPIRED_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER &lt;&lt; {1_leader}} ile olan dostluğunuz sona erdi ve yenilenmesi gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_MESSAGE">
+			<Text>İttifak Sona Erdi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_ALLIANCE_EXPIRED_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER &lt;&lt; {1_leader}} ile olan ittifakınız sona erdi ve yenilenmesi gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_MESSAGE">
+			<Text>Savaş Gerekçesi Kazanıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_GAINED_SUMMARY">
+			<Text>{LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}'e karşı {1_WarType} ilan etmek için bir Savaş Gerekçesi kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_COLONIAL">
+			<Text>Sömürge Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_HOLY">
+			<Text>Kutsal Savaş</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_LIBERATION">
+			<Text>Kurtuluş Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_PROTECTORATE">
+			<Text>Koruma Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_RECONQUEST">
+			<Text>Yeniden Fetih Savaşı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_TERRITORIAL_EXPANSION">
+			<Text>Toprak Genişletme Savaşı</Text>
+		</Row>
+		<!-- Espionage Notifications -->
+		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_ESCAPE_ROUTE_MESSAGE">
+			<Text>Kaçış Rotası Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CHOOSE_DRAGNET_PRIORITY_MESSAGE">
+			<Text>Takip Önceliği Seç</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>{1_unitName} adlı ajanın {2_CityName} şehrinde "{3_Work}" adlı Büyük Eser'i çalmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Büyük Eser Çalma Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_SUMMARY">
+			<Text>Düşman bir casus, {1_CityName} şehrinde "{2_Work}" adlı Büyük Eser'i çalmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_HEIST_GREAT_WORK_MESSAGE">
+			<Text>Düşman Büyük Eser Çaldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>{1_unitName} adlı ajanın {2_cityName} şehrindeki Sanayi Bölgesi'ne sabotaj yapmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Üretim Sabotajı Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_SUMMARY">
+			<Text>Düşman bir casus, {1_cityName} şehrindeki Sanayi Bölgesi'ne sabotaj yapmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SABOTAGED_PRODUCTION_MESSAGE">
+			<Text>Düşman Casus Üretimi Sabote Etti</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_SUMMARY">
+			<Text>{1_unitName} adlı ajanın {3_cityName} şehrinden {2_Amount} [ICON_Gold] Altın sifonlamayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Altın Sifonlama Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_SUMMARY">
+			<Text>Düşman bir casus, {2_cityName} şehrinden {1_Amount} [ICON_Gold] Altın sifonlamayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_SIPHONED_FUNDS_MESSAGE">
+			<Text>Düşman Casus Altın Sifonladı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>{1_unitName} adlı ajanın {2_CityName} şehrinde {3_Tech} teknolojisinin hızlandırmasını çalmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Teknoloji Hızlandırma Çalma Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_SUMMARY">
+			<Text>Düşman bir casus, {1_CityName} şehrinde {2_Tech} teknolojisinin hızlandırmasını çalmayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_STOLE_TECH_BOOST_MESSAGE">
+			<Text>Düşman Teknoloji Sıçraması Çaldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_CityName} şehrinde, şehirlerini geri almak isteyen partizan güçleri toplamayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Partizan Toplama Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_SUMMARY">
+			<Text>{1_CityName} şehrindeki bir düşman Casusu, artık şehrinizi tehdit eden partizan güçleri toplamayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_RECRUITED_PARTISANS_MESSAGE">
+			<Text>Düşman Partizan Topladı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_cityName} şehrindeki Uzay Limanı'nı yağmalamayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Roket Bilimini Engelleme Başarılı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_SUMMARY">
+			<Text>Bir düşman Casusu, {1_cityName} şehrindeki Uzay Limanı'nı yağmalamayı başardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_DISRUPTED_ROCKETRY_MESSAGE">
+			<Text>Düşman Casusu Roket Bilimini Engelledi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_CityName} şehrinin iç işleyişine vakıf kaynaklar edindi. Bu şehirdeki casuslarınız {4_Turns} tur boyunca {3_Levels} seviye daha yüksek performans gösterecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CITY_SOURCES_GAINED_MESSAGE">
+			<Text>Kaynak Edinildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_CityName} şehrindeki bir dinleme noktasındaki görevini tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_LISTENING_POST_MESSAGE">
+			<Text>Dinleme Noktası Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {2_CityName} şehrinde yeni bir imparatorluk iktidara geldiği için şehri terk etti.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_MESSAGE">
+			<Text>Casus Şehri Terk Ediyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_ALLIANCE_SUMMARY">
+			<Text>Ajanınız {1_unitName}, sahibiyle yeni kurduğunuz ittifak koşullarına saygı göstermek adına {2_CityName} şehrinden ayrıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_FLED_CITY_ALLIANCE_MESSAGE">
+			<Text>Casus Şehirden Ayrılıyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {3_cityName} şehrindeki {2_mission} görevinde başarısız oldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_FAILED_MESSAGE">
+			<Text>Casus Başarısız Oldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CAPTURED_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {3_cityName} şehrinde bir {2_mission} görevi sırasında yakalandı!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_CAPTURED_MESSAGE">
+			<Text>Casus Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_SUMMARY">
+			<Text>{1_civName} uygarlığına ait bir casus, {3_cityName} şehrinde yürüttüğü {2_mission} görevi sırasında yakalandı!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_CAPTURED_MESSAGE">
+			<Text>Düşman Casusu Yakalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_KILLED_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {3_cityName} şehrinde yürüttüğü {2_mission} görevi sırasında öldürüldü!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_KILLED_MESSAGE">
+			<Text>Casus Öldürüldü</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_SUMMARY">
+			<Text>{1_civName} uygarlığına ait bir casus, {3_cityName} şehrinde yürüttüğü {2_mission} görevi sırasında öldürüldü. {4_CounterspyAssist}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_KILLED_MESSAGE">
+			<Text>Düşman Casusu Öldürüldü</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_TO_CAPITAL">
+      <Text>Casusunuz {1_unitName}, hedef şehir el değiştirdiği için yolculuğunu yarıda kesti. Kendisini başkentinizde bulabilirsiniz.</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_SUMMARY">
+			<Text>Ajanınız {1_unitName}, {3_cityName} şehrindeki {2_mission} görevini iptal etti. Görev hedefi artık geçerli değil.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_MISSION_ABORTED_MESSAGE">
+			<Text>Casus Görevi İptal Edildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_SUMMARY">
+			<Text>{2_cityName} şehrinde düşmanın {1_mission} görevini durdurmadaki rolü nedeniyle casusunuz {3_unitName} terfi etti!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_PROMOTED_MESSAGE">
+			<Text>Karşı Casus Terfi Etti</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_COUNTERSPY_ASSIST">
+			<Text>Karşı casusunuz {1_unitName}, güvenlik güçlerimizin bu zaferinde önemli rol oynadı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_SUMMARY">
+			<Text>Casusunuz {1_unitName}, yakalanmaktan kurtuldu ve {2_turns} tur içinde [ICON_Capital] Başkentinize dönecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_ESCAPED_CAPTURE_MESSAGE">
+			<Text>Casus Kaçtı</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_SUMMARY">
+      <Text>Kimliği belirsiz bir uygarlıktan gelen düşman bir casus, yakalanmaktan kurtuldu ve {1_cityName} şehrinizden kaçtı.</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_SPY_ENEMY_ESCAPED_CAPTURE_MESSAGE">
+      <Text>Düşman Casusu Kaçtı</Text>
+    </Row>
+		<!-- City-State Notifications -->
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_MESSAGE">
+			<Text>Yeni Şehir Devleti Görevi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_GIVEN_SUMMARY">
+			<Text>{1_CityStateName} size yeni bir görev verdi: {2_QuestName}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_MESSAGE">
+			<Text>Şehir Devleti Görevi Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_QUEST_COMPLETED_SUMMARY">
+			<Text>{1_CityStateName} için bir görevi tamamladınız ve bir ödül kazandınız: {2_RewardText}.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
+			<Text>Şehir Devletiyle Tanışma Bonusu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
+			<Text>{1_CityStateName} ile tanışan ilk büyük uygarlık olarak, orada {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?Elçi; other?Elçi;} kazandınız.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_MESSAGE">
+			<Text>Süzeren Statüsü Kaybedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITYSTATE_USURPED_SUMMARY">
+			<Text>[ICON_Envoy] Elçi sayısındaki bir değişimin ardından, {1_CityStateName} şehir devletinin Süzereni değilsiniz.</Text>
+		</Row>
+		<!-- Trade Route Notifications -->
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_MESSAGE">
+			<Text>Ticaret Yolu Yağmalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_NO_ROUTE">
+			<Text>{1_PlayerName} {1_PlayerName: plural 1?Tüccar birliğinizi yağmaladı; other?Tüccar birliğinizi yağmaladılar;}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_PLUNDERED_SUMMARY_ACTIVE_ROUTE">
+			<Text>{1_PlayerName} {1_PlayerName: plural 1?Tüccar birliğinizi yağmaladı; other?Tüccar birliğinizi yağmaladılar;}. {2_OriginCityName} şehrinden {3_DestinationCityName} şehrine giden [ICON_TradeRoute] Ticaret Yolunuz artık aktif değil.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_MESSAGE">
+			<Text>Ticaret Karakolu Oluşturuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADING_POST_CREATED_SUMMARY">
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu'nun tamamlanması, {1_CityName} şehrinde sizin için bir [ICON_TradingPost] Ticaret Karakolu oluşturdu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_MESSAGE">
+			<Text>Ticaret Yolu Kapasitesi Arttı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TRADE_ROUTE_CAPACITY_INCREASED_SUMMARY">
+			<Text>Artık eskisinden daha fazla [ICON_TradeRoute] Ticaret Yolu oluşturup sürdürebilirsiniz.</Text>
+		</Row>
+		<!-- Economic Notifications -->
+		<Row Tag="LOC_NOTIFICATION_REBELLION_MESSAGE">
+			<Text>İsyan!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_REBELLION_SUMMARY">
+			<Text>{1_CityName} şehrindeki [ICON_Amenities] Olanak eksikliği, halkın bize karşı silaha sarılmasına neden olarak {2_NumUnits} düşman birliği ortaya çıkardı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_MESSAGE">
+			<Text>Daha Fazla Olanak Gerekli</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOW_AMENITIES_SUMMARY">
+			<Text>{1_CityName} şehrinin üretken kalabilmesi için daha fazla [ICON_Amenities] Olanağa ihtiyacı var. Bu durum kötüleşirse halk bize karşı isyan edebilir!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_MESSAGE">
+			<Text>Daha Fazla Konut Gerekli</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOUSING_PREVENTING_GROWTH_SUMMARY">
+			<Text>{1_CityName} şehrinin büyümeye devam edebilmesi için daha fazla [ICON_Housing] Konuta ihtiyacı var. Bu böyle devam ederse yeni [ICON_Citizen] Vatandaş kazanmakta zorlanacağız.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_STARVING_MESSAGE">
+			<Text>Şehir Açlık Çekiyor!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_STARVING_SUMMARY">
+			<Text>{1_CityName} şehri halkının beslenmesi için yeterli [ICON_Food] Besin sağlayamıyor. Bu böyle devam ederse [ICON_Citizen] Vatandaş kaybedecek!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_MESSAGE">
+			<Text>Şehrin Besine İhtiyacı Var</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_FOOD_FOCUS_SUMMARY">
+			<Text>{1_CityName} şehri halkının büyümesi için yeterli [ICON_Food] Besin sağlayamıyor. Şehrini [ICON_Food] Besin'e odaklamayı düşün.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_MESSAGE">
+			<Text>Hazine İflas Etti!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TREASURY_BANKRUPT_SUMMARY">
+			<Text>Hiç [ICON_Gold] Altınımız kalmadı ve gelirimiz giderlerimizi karşılamıyor. Bu böyle devam ederse şehirlerimiz [ICON_Amenities] Olanak kaybedecek ve birliklerimiz bizi terk edecek!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_MESSAGE">
+			<Text>İnançla Satın Alınabilir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAN_PURCHASE_WITH_FAITH_SUMMARY">
+			<Text>{LOC_GRAMMAR_A_AN &lt;&lt; {1_ItemName}} satın almak için yeterli [ICON_Faith] İnanç biriktirdiniz.</Text>
+		</Row>
+		<!-- Multiplayer Notifications -->
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING">
+			<Text>{1_playerName} Odaya Katılıyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTING_TT">
+			<Text>{1_playerName} oyuna katılıyor. Bu işlem birkaç dakika sürebilir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTED">
+			<Text>{1_playerName} Katıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_CONNECTED_TT">
+			<Text>{1_playerName} oyuna katılmayı tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT">
+			<Text>{1_playerName} Bağlantısı Koptu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DISCONNECT_TT">
+			<Text>{1_playerName} oyunla bağlantısını kesti.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED">
+			<Text>{1_playerName} Atıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_KICKED_TT">
+			<Text>{1_playerName} oyundan atıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS">
+			<Text>{1_playerName} Mod İndiriyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
+			<Text>{1_playerName} bu oyunda oynamak için gerekli modları indiriyor. ({2 : number} / {3 : number})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_MIGRATION">
+			<Text>Ev Sahibi Geçişi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_MIGRATION_TT">
+			<Text>Oyun yeni bir ev sahibine geçiyor. Oyun kısa süre içinde devam edecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_CHANGED">
+			<Text>Ev Sahibi Geçti</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_HOST_CHANGED_TT">
+			<Text>{1_playerName} yeni oyun ev sahibidir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_YOURTURN">
+			<Text>Bulut Üzerinden Oyun - Sıra Sizde</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_YOURTURN_TT">
+			<Text>Bir Bulut Üzerinden Oyun oyununda sıra sizde. ({1_cloudGameName})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_GAMEREADY">
+			<Text>Bulut Üzerinden Oyun Hazır</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_GAMEREADY_TT">
+			<Text>Bulut Üzerinden oyunlarınızdan biri başlamaya hazır. ({1_cloudGameName})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_UNSEENCOMPLETE">
+			<Text>Bulut Üzerinden Oyun Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYBYCLOUD_UNSEENCOMPLETE_TT">
+			<Text>Bulut Üzerinden oyunlarınızdan biri yakın zamanda tamamlandı. ({1_cloudGameName})</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WRONG_PHASE_TT">
+			<Text>[color:Civ6Red]Yanlış Aşama[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS">
+			<Text>Eş Zamanlı Turlar</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SIMULTANEOUS_TURNS_TT">
+			<Text>Bir insan oyuncuyla savaşınız sona erdi. Turlarınız, savaşta olmayan tüm uygarlıklarla eş zamanlı olarak oynanacak.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS">
+			<Text>Sıralı Turlar</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SEQUENTIAL_TURNS_TT">
+			<Text>Bir insan oyuncuyla savaş halindesiniz. Turlarınız, çatışma sona erene kadar savaşan tüm uygarlıklarla sıralı olarak oynanacak.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED">
+			<Text>{1_playerName} Eşzamanlaması Bozuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_DESYNCED_TT">
+			<Text>{1_playerName} oyunu ev sahibinin oyunundan saptı. Oyuncu, sorunu düzeltmek için yeniden yüklüyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE">
+			<Text>{1_playerName} Yeniden Eşzamanlama Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESYNC_COMPLETE_TT">
+			<Text>{1_playerName} yüklemeyi tamamladı.</Text>
+		</Row>
+		<!-- Multiplayer deferred popup notifications -->
+		<Row Tag="LOC_NOTIFICATION_TECH_BOOST_MESSAGE">
+			<Text>Teknoloji Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_BOOST_SUMMARY">
+			<Text>Teknoloji Sıçraması: {1_Name}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_BOOST_MESSAGE">
+			<Text>Yönetim Sıçraması</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
+			<Text>Yönetim Sıçraması: {1_Name}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_DISCOVERED_MESSAGE">
+			<Text>{1_Name} keşfedildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TECH_DISCOVERED_SUMMARY">
+			<Text>Keşfettiniz: {1_Name}!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_MESSAGE">
+			<Text>Keşfedildi: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_SUMMARY">
+			<Text>Keşfettiniz: {1_Name}!</Text>
+		</Row>
+		<!-- Great Work Notifications -->
+		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
+			<Text>Kutsal Emanet Yaratıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_RELIC_CREATED_SUMMARY">
+			<Text>[ICON_GreatWork_Relic] Kutsal Emaneti {1_RelicName}, {3_CityName} şehrindeki {2_BuildingName} binasına yerleştirildi.</Text>
+		</Row>
+		<!-- Discovery Notifications -->
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_MESSAGE">
+			<Text>Yeni Kıta Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_CONTINENT_SUMMARY">
+			<Text>Yeni bir kıta keşfettik. Kâşifimiz bu kıtaya {1_ContinentName} adını veriyor.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>Kabile Köyü Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>Dost canlısı bir kabilenin yaşadığı bir köy buldunuz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_MESSAGE">
+			<Text>Doğa Harikası Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_NATURAL_WONDER_SUMMARY">
+			<Text>Kâşifleriniz {1_NaturalWonderName} doğa harikasını keşfetti.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_MESSAGE">
+			<Text>Kaynak Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_RESOURCE_SUMMARY">
+			<Text>Yeni bir {1_ResourceName} kaynağı keşfettik.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_MESSAGE">
+			<Text>Barbarlar Yaklaşıyor</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
+			<Text>{1_CityName} şehrimize yaklaşan barbarlar tespit ettik.</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+      <Text>Yeni Barbar Karakolu</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+      <Text>Yeni bir Barbar kabilesinin yakınlardaki bir bölgeye yerleştiğine dair söylentiler aldık.</Text>
+    </Row>
+		<!-- Victory Notifications -->
+		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
+			<Text>Kültürünüz Baskın</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_SUMMARY">
+			<Text>{1_CivName} uygarlığına karşı kültürünüzü baskın kılmak için yeterli [ICON_Tourism] Turist çektiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_MESSAGE">
+			<Text>Yabancı Kültür Baskın</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_DOMINANT_CULTURE_SUMMARY">
+			<Text>{1_CivName}, kültürünü sizinkine üstün kılacak kadar [ICON_Tourism] Turist çekti.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Kültür Zaferiniz Çok Yakında</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_MY_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>Kültürünüz, sadece bir yabancı uygarlık dışında tüm uygarlıklara üstün geldi. Kültür Zaferi artık parmaklarınızın ucunda.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_MESSAGE">
+			<Text>Yabancı Kültür Zaferi Çok Yakında</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_OTHER_CULTURE_VICTORY_SOON_SUMMARY">
+			<Text>{1_CivName}'in Kültür Zaferine ulaşması için kültürünün yalnızca bir oyuncununkine daha üstün gelmesi gerekiyor.</Text>
+		</Row>
+		<!--Future Notifications (not yet implemented)-->
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_MESSAGE">
+			<Text>Yeni Savaş Gerekçesi Mevcut</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CASUS_BELLI_AVAILABLE_SUMMARY">
+			<Text>{2_CivName}'e karşı {1_WarType} ilan etmek için artık gerekçemiz var.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_MESSAGE">
+			<Text>Şehir Menzilli Saldırısı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_RANGED_ATTACK_SUMMARY">
+			<Text>{1_CityName} şehri düşman kuvvetlerine saldırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_MESSAGE">
+			<Text>Ordugâh Menzilli Saldırısı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENCAMPMENT_RANGED_ATTACK_SUMMARY">
+			<Text>{1_CityName} şehri dışındaki Ordugâh düşman kuvvetlerine saldırabilir.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NUKE_DROPPED_MESSAGE">
+			<Text>Nükleer Cihaz Patlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NUKE_DROPPED_SUMMARY">
+			<Text>{2_CityName} şehri yakınlarında {1_CivName} tarafından bir nükleer cihaz patlatıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_MESSAGE">
+			<Text>Termonükleer Silah Patlatıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_THERMONUKE_DROPPED_SUMMARY">
+			<Text>{2_CityName} şehri yakınlarında {1_CivName} tarafından yıkıcı bir termonükleer silah patlatıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_MESSAGE">
+			<Text>Casus Eğitilebilir</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_SPY_NEW_AGENT_SUMMARY">
+			<Text>Artık ek bir Casus eğitebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_CAPTURED_MESSAGE">
+			<Text>Birim Ele Geçirildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_CAPTURED_SUMMARY">
+			<Text>{1_UnitType} biriminiz, {3_CivName}'den bir {2_EnemyUnitType} tarafından ele geçirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_ATTACKED_MESSAGE">
+			<Text>Birim Saldırıya Uğradı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_UNIT_ATTACKED_SUMMARY">
+			<Text>{1_UnitType} biriminiz {2_CivName} tarafından saldırıya uğradı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_MESSAGE">
+			<Text>Harika Tamamlandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_SUMMARY">
+			<Text>{1_CivName} uygarlığı, {2_WonderName} dünya harikasını inşa etmeyi tamamladı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_HOTSEAT_CURRENT_PLAYER_SUMMARY">
+			<Text>{1_WonderName} dünya harikasının inşasını tamamladınız.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_WONDER_COMPLETED_UNMET_PLAYER_SUMMARY">
+			<Text>Tanımadığınız bir oyuncu, {1_WonderName} dünya harikasını inşa etmeyi tamamladı.</Text>
+		</Row>
+    <Row Tag="LOC_NOTIFICATION_WONDER_FAILED_MESSAGE">
+      <Text>Üretim Kurtarıldı</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
+      <Text>{1_WonderName} dünya harikasını zamanında tamamlayamadınız. Ancak bu girişimden {2_Production} [ICON_Production] Üretim kurtarılmış ve {3_CityName} şehrine verilmiştir.</Text>
+    </Row>
+    <Row Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
+			<Text>Şehir Ele Geçirildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_LOST_SUMMARY">
+			<Text>{1_CityName} şehri, {2_CivName} tarafından ele geçirildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_MESSAGE">
+			<Text>Şehir Surları Aşıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_WALLS_BREACHED_SUMMARY">
+			<Text>{1_CityName} şehrinin surları, {2_CivName} kuvvetleri tarafından aşıldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_MESSAGE">
+			<Text>Başkent Ele Geçirildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_LOST_SUMMARY">
+			<Text>{1_CivName} uygarlığının [ICON_Capital] Başkenti, {2_CivName} tarafından ele geçirildi!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_MESSAGE">
+			<Text>Başkent Geri Alındı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CAPITAL_RECLAIMED_SUMMARY">
+			<Text>{1_CivName} uygarlığı, başkentini geri aldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_MESSAGE">
+			<Text>Sınırlar İçinde Düşman</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ENEMY_IN_TERRITORY_SUMMARY">
+			<Text>Sınırlarımız içinde, {1_CityName} şehri yakınlarında düşman birlikleri tespit edildi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_MESSAGE">
+			<Text>Antik Sit Alanı Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_ANTIQUITY_SITE_SUMMARY">
+			<Text>Yeni bir Antik Sit Alanı keşfettiniz. Eseri çıkarmak için bir Arkeolog gönderin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_MESSAGE">
+			<Text>Gemi Batığı Keşfedildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_SHIPWRECK_SUMMARY">
+			<Text>Antik bir Gemi Batığı'nın bulunduğu yeri keşfettiniz. Kültürel Miras yönetim bilimine ulaştığınızda, batık tarihi eseri çıkarmak üzere bir Arkeolog gönderin.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_MESSAGE">
+			<Text>Karşı Teklif Alındı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_COUNTERDEAL_RECEIVED_SUMMARY">
+			<Text>{1_CivName}, teklifinize karşı bir teklif gönderdi.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_MESSAGE">
+			<Text>Teklif Sunuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_RECEIVED_SUMMARY">
+			<Text>{1_CivName}'den bir teklif aldınız.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_MESSAGE">
+			<Text>Size Yönelik Kınama Süresi Doldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_AI_EXPIRED_SUMMARY">
+			<Text>{1_CivName} tarafından yapılan kınama süresi doldu. Resmî savaş ilan etmek istiyorlarsa bunu yeniden yapmaları gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_MESSAGE">
+			<Text>Kınama Süreniz Doldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DENUNCIATION_BY_HUMAN_EXPIRED_SUMMARY">
+			<Text>{1_CivName}'e yönelik kınama süreniz doldu. Resmî savaş ilan etmek istiyorsanız bunu yeniden yapmanız gerekecek.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_MESSAGE">
+			<Text>Size Verilen Söz Tutuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_KEPT_SUMMARY">
+			<Text>{1_CivName}'in {2_PromiseType} konusunda size verdiği söz tutuldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_MESSAGE">
+			<Text>Sözünüz Tutuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_KEPT_SUMMARY">
+			<Text>{1_CivName}'e {2_PromiseType} konusunda verdiğiniz söz tutuldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_MESSAGE">
+			<Text>Size Verilen Söz Bozuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>{1_CivName}'in {2_PromiseType} konusunda size verdiği söz bozuldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_MESSAGE">
+			<Text>Sözünüz Bozuldu</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>{1_CivName}'e {2_PromiseType} konusunda verdiğiniz söz bozuldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_ARTIFACTS">
+			<Text>tarihi eser kazmayı durdur</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_ON_BORDER">
+			<Text>sınırdaki birlikleri geri çek</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_RELIGIOUS">
+			<Text>şehirleri din değiştirmeyi durdur</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SETTLING">
+			<Text>Yakına yerleşmeyi durdur</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PROMISE_TYPE_SPYING">
+			<Text>Casusluğu durdur</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_MESSAGE">
+			<Text>Anlaşma Sona Erdi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DIPLO_DEAL_EXPIRED_SUMMARY">
+			<Text>{1_CivName} ile yaptığınız bir anlaşmanın süresi doldu.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_MESSAGE">
+			<Text>Bölge Yağmalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISTRICT_PILLAGED_SUMMARY">
+			<Text>{2_CityName} şehrindeki {1_DistrictName} bölgeniz, {3_CivName} tarafından yağmalandı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_MESSAGE">
+			<Text>İyileştirme Yağmalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_IMPROVEMENT_PILLAGED_SUMMARY">
+			<Text>{2_CityName} şehrindeki {1_ImprovementName} iyileştirmeniz, {3_CivName} tarafından yağmalandı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_MESSAGE">
+			<Text>Bina Yağmalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_BUILDING_PILLAGED_SUMMARY">
+			<Text>{2_CityName} şehrindeki {1_BuildingName} binanız, {3_CivName} tarafından yağmalandı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_MESSAGE">
+			<Text>Yol Yağmalandı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROUTE_PILLAGED_SUMMARY">
+			<Text>{2_CityName} yakınlarındaki {1_RoadName} yolunun bir bölümü, {3_CivName} tarafından yağmalandı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_MESSAGE">
+			<Text>Oyuncu Yeniden Hayata Döndü</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_RESURRECTED_SUMMARY">
+			<Text>{1_civName} bir şehir ele geçirerek yeniden hayata döndü.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_MESSAGE">
+			<Text>Oyuncu Elendi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_PLAYER_ELIMINATED_SUMMARY">
+			<Text>{1_civName} tarihe karıştı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROADS_UPGRADED_MESSAGE">
+			<Text>Yollar İyileştirildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_ROADS_UPGRADED_SUMMARY">
+			<Text>{1_RoadName} kullanıma açıldı ve topraklarınızdaki tüm yollar yükseltildi. ({2_MovementCost} [ICON_Movement] Hareket {2_MovementCost : plural 1?nokta; other?nokta;} - arazi koşullarına bakılmaksızın).</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_MESSAGE">
+			<Text>İlk Dinî Birlik</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_RELIGIOUS_UNIT_SUMMARY">
+			<Text>Yeni bir dinin kuruluşu sırasında halkınızı saran coşku sayesinde ilk {1_UnitName} biriminizi ücretsiz olarak aldınız. Gelecekte daha fazlasını satın almak için [ICON_Faith] İnanç kullanın.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_MESSAGE">
+			<Text>İlk Casus</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_FREE_ESPIONAGE_UNIT_SUMMARY">
+			<Text>Yeni casus ağınızın yarattığı heyecan sayesinde ilk {1_UnitName}'nizi ücretsiz olarak aldınız. Daha fazla inşa etme yeteneğini açtığınızda, onları şehirlerinizde eğitebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_MESSAGE">
+			<Text>Şehir Kuşatıldı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_CITY_BESIEGED_BY_OTHER_PLAYER_SUMMARY">
+			<Text>{1_CityName} şehri kuşatma altında. Düşman birimleri şehrin etrafındaki tüm bölgeler üzerinde Kontrol Bölgesine sahip olana kadar şehir iyileşemez.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_MESSAGE">
+			<Text>Toprak Kaybı</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_TILE_LOST_CULTURE_BOMB_SUMMARY">
+			<Text>{1_CivName} tarafından başlatılan bir Kültür Bombası nedeniyle toprak kaybettik.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_MESSAGE">
+			<Text>Hava Aracı Zorunlu Üs Değişimi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_FORCED_REBASE_SUMMARY">
+			<Text>{1_AirUnit}'nin konumu tehlikeye girdi ve yeniden konuşlanmak zorunda kaldı.</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_MESSAGE">
+			<Text>Hava Üssü Ele Geçirildi</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_AIRCRAFT_BASE_OVERRUN_SUMMARY">
+			<Text>{1_AirUnit} kendini yeniden konuşlandıramadı ve imha edildi.</Text>
+		</Row>
+  </BaseGameText>
+</GameData>

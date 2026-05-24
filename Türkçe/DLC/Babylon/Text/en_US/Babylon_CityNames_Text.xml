@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_CITY_NAME_BABYLON_STK">
+			<Text>Babil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BORSIPPA">
+			<Text>Borsippa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MASHKAN_SHAPIR">
+			<Text>Maşkan-Şapir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESHNUNNA">
+			<Text>Eşnunna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALGIUM">
+			<Text>Malgium</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUR_KURIGALZU">
+			<Text>Dur-Kurigalzu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARI">
+			<Text>Mari</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARKAR">
+			<Text>Karkar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAPIQUM">
+			<Text>Rapiqum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DURMUTI">
+			<Text>Durmuti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUTTUL">
+			<Text>Tuttul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAR_SHAMASH">
+			<Text>Kar-Şamaş</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OPIS">
+			<Text>Opis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHADUPPUM">
+			<Text>Şaduppum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NERIBTUM">
+			<Text>Neribtum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARADUM">
+			<Text>Haradum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANA">
+			<Text>Ana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUTUB">
+			<Text>Tutub</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIT">
+			<Text>Hit</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAZALLU">
+			<Text>Kazallu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DINIKTUM">
+			<Text>Diniktum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DER">
+			<Text>Der</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAMSUM">
+			<Text>Namsum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TERQA">
+			<Text>Terqa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARBU">
+			<Text>Harbu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAKKULATUM">
+			<Text>Kakkulatum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELIP">
+			<Text>Elip</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YABLIYA">
+			<Text>Yabliya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIRITUM">
+			<Text>Hiritum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELL_WILAYA">
+			<Text>Tell Wilaya</Text>
+		</Row>
+		<!-- City-States-->
+		<Row Tag="LOC_CITY_NAME_AYUTTHAYA">
+			<Text>Ayutthaya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHINGUETTI">
+			<Text>Chinguetti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JOHANNESBURG">
+			<Text>Johannesburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NALANDA">
+			<Text>Nalanda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAMARKAND">
+			<Text>Semerkant</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WOLIN">
+			<Text>Wolin</Text>
+		</Row>
+		<!-- AI Agenda Text -->
+		<Row Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_NAME">
+			<Text>Uygarlığın Beşiği</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HAMMURABI_DISTRICTS_DESCRIPTION">
+			<Text>Hammurabi her farklı Bölge türünden inşa etmeyi tercih eder ve aynısını yapan diğer Uygarlıkları takdir eder. Tek bir Bölge türüne aşırı odaklanan veya mevcut tüm türleri inşa etmeyenleri ise hoş karşılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_POSITIVE">
+			<Text>Hammurabi, farklı türlerde çok sayıda Bölgeye sahip uygarlıkları takdir eder.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT_NEGATIVE">
+			<Text>Hammurabi, çok fazla Bölgesi olmayan veya yalnızca tek bir türde uzmanlaşan uygarlıkları hoş karşılamaz.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HAMMURABI_DISTRICT">
+			<Text>Hammurabi, topraklarında pek çok farklı bölge türü barındıran uygarlıklardan hoşlanır.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_KUDO_EXIT_HAMMURABI_ANY">
+			<Text>Uygarlığınız, yapılarının çeşitliliği sayesinde yükselmektedir.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_WARNING_EXIT_HAMMURABI_ANY">
+			<Text>Aşırı uzmanlaşma, tüm insanlığın üzerinde bir lanettir.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

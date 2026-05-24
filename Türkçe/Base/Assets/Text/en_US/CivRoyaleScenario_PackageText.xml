@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>	
+		<!-- Scenario Package -->
+		<Row Tag="LOC_CIV_ROYALE_MOD_TITLE">
+			<Text>Çok Oyunculu Senaryo: Kızıl Ölüm (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_MOD_TEASER">
+			<Text>Bu çok oyunculu senaryoda, son koloni gemisinde yer kapmak için savaşan diğer hiziplere ve gezegenin kendisine karşı hayatta kalmalısınız. Turlar genellikle oyun boyutuna bağlı olarak 20 ila 45 dakika sürer.</Text>
+		</Row>	
+		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION_BASIC">
+			<Text>Liderlerimiz bizi yüzüstü bıraktı. Kızıl Ölüm hepimizin peşinde. Eski uygarlığımız zamanın sınavına dayanamadı.[NEWLINE][NEWLINE]Tek umudumuz, bu dünyanın son kurtulanlarını yörüngede bekleyen tek bir koloni gemisinde saklı. Arazi aracını uzaktan yönlendirebiliyoruz, ancak diğer hizipler sinyalimizi bozuyor. Hayatta kalabilmemizin tek yolu, diğer hizipleri ortadan kaldırmaktır.[NEWLINE][NEWLINE]Bu dünyanın son uygarlığına hoş geldiniz.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL">
+			<Text>Liderlerimiz bizi yüzüstü bıraktı. Kızıl Ölüm hepimizin peşinde. Eski uygarlığımız zamanın sınavına dayanamadı.[NEWLINE][NEWLINE]Tek umudumuz, bu dünyanın son kurtulanlarını yörüngede bekleyen tek bir koloni gemisinde saklı. Arazi aracını uzaktan yönlendirebiliyoruz, ancak diğer hizipler sinyalimizi bozuyor. Hayatta kalabilmemizin tek yolu, diğer hizipleri ortadan kaldırmaktır.[NEWLINE][NEWLINE]Bu dünyanın son uygarlığına hoş geldiniz.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

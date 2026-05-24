@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Apocalypse Mode -->
+		<Row Tag="LOC_GAMEMODE_APOCALYPSE_NAME">
+			<Text>Kıyamet Modu</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION">
+			<Text>Bu oyun modu, yeni doğal afetler, mevcut afetlerin daha büyük ve daha etkili versiyonlarını ekler ve tüm doğal afetlerin olasılığını artırır. Kıyamet Modu ayrıca oyuna Kahin birimini ekler; eğer iklim değişikliğin son seviyesine ulaşırsa, kuyruklu yıldızlar yeryüzünü döverek insanlığı yok eder.</Text>
+		</Row>
+		<!-- Gran Colombia: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME">
+			<Text>Büyük Kolombiya</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION">
+			<Text>Büyük Kolombiya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE">
+			<Text>Büyük Kolombiyalı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME">
+			<Text>Ejército Patriota</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket tüm birimlere. Bir birimi terfi ettirmek o birimin turunu sona erdirmez.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME">
+			<Text>Ejército Patriota</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Hareket tüm birimlere (Ejército Patriota)</Text>
+		</Row>
+		<!-- Feature Info -->
+		<Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_NAME">
+			<Text>Bermuda Üçgeni</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION">
+			<Text>Üç bölgelik doğa harikası. Komşu bölgelere +5 [ICON_Science] Bilim sağlar. İçine giren birimler uzaktaki bir okyanusa ışınlanır, ancak bunu yapan deniz birimleri 'Gizemli Akıntılar' yeteneği kazanır (+1 [ICON_Movement] Hareket).</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_NAME">
+			<Text>Gençlik Pınarı</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_DESCRIPTION">
+			<Text>Tek bölgelik doğa harikası. +4 [ICON_Science] Bilim, +4 [ICON_Faith] İnanç ve Tatlı Su sağlar. İçine giren kara muharebe birimleri 'Yaşam Suyu' yeteneği kazanır (herhangi bir bölgede +10 HP iyileşme).</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAITITI_NAME">
+			<Text>Païtiti</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAITITI_DESCRIPTION">
+			<Text>Üç bölgelik geçilmez doğa harikası. Komşu bölgelere +3 [ICON_Gold] Altın ve +2 [ICON_Culture] Kültür sağlar. Bu bölgeye sahip olan şehir, giden uluslararası [ICON_TradeRoute] Ticaret Yollarında +4 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<!-- Gran Colombia: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_HACIENDA_NAME">
+			<Text>Hacienda</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION">
+			<Text>İşçi'nin, Büyük Kolombiya'ya özgü Hacienda inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Altın, +1 [ICON_PRODUCTION] Üretim ve +0.5 [Icon_Housing] Konut. Her iki komşu Plantasyon için +1 [ICON_Food] Besin (Değiştirilebilir Parçalar ile her Plantasyon için artar). Plantasyonlar ve Haciendalar, her iki komşu Hacienda için +1 [ICON_Production] Üretim kazanır (Hızlı Konuşlandırma ile her Hacienda için artar). Yalnızca Düzlük, Düzlük Tepeler, Otlak ve Otlak Tepeler üzerine inşa edilebilir.</Text>
+		</Row>
+		<!-- Gran Colombia: Leader Info -->
+		<Row Tag="LOC_LEADER_SIMON_BOLIVAR_NAME">
+			<Text>Simón Bolívar</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR">
+			<Text>Meslektaşlarının kaprislerine uyabilirdin Simón Bolívar, ama sen bunun yerine Kurtarıcı olmayı seçtin. Zorluklar seni asla caydırmadı, bu yüzden ideallerine sıkı sıkıya bağlı kal ve cumhuriyetini yeni bir refah çağına taşı.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME">
+			<Text>Campaña Admirable</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION">
+			<Text>Yeni bir çağa girildiğinde bir Comandante General kazanın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1">
+			<Text>Oyun yeni bir çağa girdiğinde bir Comandante General kazanın.</Text>
+		</Row>
+		<!-- Gran Colombia: Unit Info -->
+		<Row Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME">
+			<Text>Comandante General</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION">
+			<Text>Yalnızca Simón Bolívar'a özel bir Büyük Kişi türü. Her birinin pasif bir etki ve Emekli Olma etkisi dahil olmak üzere benzersiz yetenekleri vardır.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME">
+			<Text>Llanero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION">
+			<Text>Büyük Kolombiya'nın Sanayi Çağı'na özgü, Süvari'nin yerini alan eşsiz birimi. Düşük bakım maliyeti. Yanındaki her Llanero için +2 [ICON_Strength] Muharebe Gücü. Emekli olma yeteneğini etkinleştiren bir Comandante General menzilindeyken tamamen iyileşir.</Text>
+		</Row>
+		<!-- Maya: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_MAYA_NAME">
+			<Text>Maya</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION">
+			<Text>Maya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE">
+			<Text>Maya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME">
+			<Text>Mayab</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION">
+			<Text>Tatlı Su ve Kıyıya bitişik yerleşim ekstra [ICON_HOUSING] Konut sağlamaz; bunun yerine her Çiftlik ek +1 [ICON_HOUSING] Konut, yanındaki her Gözlemevi için +1 [ICON_Production] Üretim ve +1 [ICON_GOLD] Altın sağlar. Şehir Merkezi'ne bitişik her Lüks Mal için +1 [ICON_AMENITIES] Olanak sağlar.</Text>
+		</Row>
+		<!-- Maya: District Info -->
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_NAME">
+			<Text>Gözlemevi</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION">
+			<Text>Bilimsel çalışmalar için Maya'ya özel bir bölge. Kampüs bölgesinin yerini alır ve inşası daha ucuzdur.[NEWLINE][NEWLINE]Yanındaki Plantasyonlar için +2 [ICON_Science] Bilim bonusu. Yanındaki her iki Çiftlik veya bölge parseli için +1 [ICON_Science] Bilim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY">
+			<Text>Komşuluk: Her bir yan Plantasyon için Büyük [ICON_Science] Bilim bonusu. Yan Çiftlik veya bölge parseli için Küçük [ICON_Science] Bilim bonusu.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PLANTATION_SCIENCE">
+			<Text>+{1_num} [ICON_Science] yan Plantasyon {1_Num : plural 1?parselinden; other?parsellerinden;} Bilim.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FARM_SCIENCE">
+			<Text>+{1_num} [ICON_Science] yan Çiftlik {1_Num : plural 1?parselinden; other?parsellerinden;} Bilim.</Text>
+		</Row>
+		<!-- Maya: Leader Info -->
+		<Row Tag="LOC_LEADER_LADY_SIX_SKY_NAME">
+			<Text>Lady Six Sky</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY">
+			<Text>Lady Six Sky, Dos Pilas ve Wak Kab’nal'ın büyük savaşçı anası, halkını yeni bir hanedana yönlendir. Nüfuzun genişlesin ki yakın ve uzaktaki düşmanlarını fethedebilesin. Tanrılar sana yol gösterecek ve sen de sadık vatandaşlarını zafere ulaştıracaksın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MUTAL_NAME">
+			<Text>Ix Mutal Ajaw</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION">
+			<Text>Başkente 6 parsel mesafedeki başkent olmayan şehirler tüm getirilerde +10% kazanır ve kurulduklarında bir İşçi alır. Diğer başkent olmayan şehirler tüm getirilerde -15% alır. Başkente 6 parsel mesafedeki birimlere +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME">
+			<Text>Mutal</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Muharebe Gücü, [ICON_Capital] Başkent'e (Ix Mutal Ajaw) 6 bölge mesafesindeki birimlere.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Muharebe Gücü (Mutal özelliğinden)</Text>
+		</Row>
+		<!-- Maya: Unit Info -->
+		<Row Tag="LOC_UNIT_MAYAN_HULCHE_NAME">
+			<Text>Hul'che</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION">
+			<Text>Maya uygarlığına özgü Antik Çağ menzilli birimi. Okçu'nun yerini alır. Güçlü menzilli saldırı. Yaralı bir rakiple savaşırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HULCHE_DESCRIPTION">
+			<Text>Yaralı bir rakiple savaşırken +5 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LAHORE_NIHANG_NAME">
+			<Text>Nihang</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION">
+			<Text>Lahor Şehir Devleti'ne özgü, eşsiz bir Terfi ağacına sahip birim. [ICON_Faith] İnanç ile satın alınabilir. Kışla, Cephanelik ve Askeri Akademi binaları ilk kez inşa edildiğinde [ICON_Strength] Muharebe Gücü artar.</Text>
+		</Row>
+		<!--Apocalypse: Unit Info-->
+		<Row Tag="LOC_UNIT_SOOTHSAYER_NAME">
+			<Text>Kahin</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION">
+			<Text>Kıyamet moduna özgü bir destek birimi. Felaket Başlatma eylemini kullanarak birimin yakınındaki bölgelerde rastgele bir felaket başlatabilir. Bu eylem, Kahin'in kullanım hakkı kalmamışsa onu yok eder.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FOREST_FIRE">
+			<Text>Orman Yangınları</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FOREST_FIRE_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>ORMAN YANGINI OLAYI[NEWLINE][NEWLINE]Olay gerçekleştiğinde:[NEWLINE]- Rastgele bir Orman veya Yağmur Ormanı bölgesinde başlar.[NEWLINE]- Bitişik Orman veya Yağmur Ormanı bölgelerine yayılır.[NEWLINE][NEWLINE]Yanan bölgeler birimlere hasar verir ve iyileştirmeleri yağmalar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

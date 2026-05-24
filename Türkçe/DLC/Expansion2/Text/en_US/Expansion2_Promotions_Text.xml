@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!--Rock Band-->
+		<Row Tag="LOC_PROMOTION_CLASS_ROCK_BAND_NAME">
+			<Text>Rock Grubu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ALBUM_COVER_ART_NAME">
+			<Text>Albüm Kapak Sanatı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARENA_ROCK_NAME">
+			<Text>Arena Rock</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GLAM_ROCK_NAME">
+			<Text>Glam Rock</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GOES_TO_NAME">
+			<Text>11'e Kadar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INDIE_NAME">
+			<Text>Indie</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MUSIC_FESTIVAL_NAME">
+			<Text>Müzik Festivali</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_POP_NAME">
+			<Text>Pop Yıldızı</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REGGAE_ROCK_NAME">
+			<Text>Reggae Rock</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RELIGIOUS_ROCK_NAME">
+			<Text>Dinî Rock</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROADIES_NAME">
+			<Text>Roadie</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPACE_ROCK_NAME">
+			<Text>Space Rock</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SURF_ROCK_NAME">
+			<Text>Sörf Grubu</Text>
+		</Row>
+		<!--Spy-->
+		<Row Tag="LOC_PROMOTION_SPY_SATCHEL_CHARGES_NAME">
+			<Text>Patlayıcı Çantalar</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SURVEILLANCE_NAME">
+			<Text>Gözetleme</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_POLYGRAPH_NAME">
+			<Text>Poligraf</Text>
+		</Row>
+		<!--Rock Band Description-->
+		<Row Tag="LOC_PROMOTION_ALBUM_COVER_ART_DESCRIPTION">
+			<Text>Harika bölgelerinde 1 seviye daha deneyimliymiş gibi performans gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ARENA_ROCK_DESCRIPTION">
+			<Text>Eğlence Kompleksi bölgesindeki bölgelerde 2 seviye daha deneyimliymiş gibi performans gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GLAM_ROCK_DESCRIPTION">
+			<Text>Tiyatro Meydanı bölgesindeki bölgelerde 2 seviye daha deneyimliymiş gibi performans gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GOES_TO_DESCRIPTION">
+			<Text>10 bölge içindeki uygarlıklar, bu konserden sağlanan [ICON_TOURISM] Turizm'in %50'sini alır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_INDIE_DESCRIPTION">
+			<Text>Bir konser vermek, o şehrin 40 Bağlılık kaybetmesine neden olur.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MUSIC_FESTIVAL_DESCRIPTION">
+			<Text>Milli Parklar ve Doğa Harikaları'nda sahne alır, beklenen 1000 [ICON_TOURISM] Turizm getirisi sağlar ve 1 seviye daha tecrübe kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_POP_DESCRIPTION">
+			<Text>Üretilen [ICON_Tourism] Turizm'in %25'i kadar [ICON_GOLD] Altın kazanılır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REGGAE_ROCK_DESCRIPTION">
+			<Text>Su Parkı bölgesi hücrelerinde, sanki 2 seviye daha tecrübeliymiş gibi sahne alır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_RELIGIOUS_ROCK_DESCRIPTION">
+			<Text>Şehrin çoğunluk dinini, oyuncunun kurduğu dine dönüştüren bir konser verir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_ROADIES_DESCRIPTION">
+			<Text>+4 [ICON_Movement] Hareket.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPACE_ROCK_DESCRIPTION">
+			<Text>Uzay Limanları ve Kampüslerde sahne alır, +500 [ICON_TOURISM] Turizm kazandırır (Kampüste bir Üniversite varsa +1000 [ICON_TOURISM] Turizm) ve 1 seviye daha tecrübe kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SURF_ROCK_DESCRIPTION">
+			<Text>Sahil Tatil Beldeleri ve Limanlarda sahne alır, +500 [ICON_TOURISM] Turizm kazandırır (Liman'da bir Tersane varsa +1000 [ICON_TOURISM] Turizm) ve 1 seviye daha tecrübe kazanır.</Text>
+		</Row>
+		<!--Spy-->
+		<Row Tag="LOC_PROMOTION_SPY_SATCHEL_CHARGES_DESCRIPTION">
+			<Text>Sanki 2 seviye daha tecrübeliymiş gibi Baraj İhlali yapabilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SURVEILLANCE_DESCRIPTION">
+			<Text>Karşı Casusluk sırasında şehrin tüm bölgeleri savunulur (ve 1 kare içindeki bölgelerde +1 seviye).</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_POLYGRAPH_DESCRIPTION">
+			<Text>Bu Casus kendi topraklarındayken, topraklarınızdaki düşman Casuslar normalden 1 seviye daha düşük seviyede faaliyet gösterir.</Text>
+		</Row>
+		<!--Giant Death Robot-->
+		<Row Tag="LOC_PROMOTION_CLASS_GIANT_DEATH_ROBOT_NAME">
+			<Text>GDR</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_AA_DEFENSE_NAME">
+			<Text>Drone Hava Savunması</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_AA_DEFENSE_DESCRIPTION">
+			<Text>[ICON_AntiAir_Large] Hava Savunma Gücü 130'a yükselir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_SIEGE_LASER_NAME">
+			<Text>Parçacık Işını Kuşatma Topu</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_SIEGE_LASER_DESCRIPTION">
+			<Text>Şehirlere ve Ordugâhlara karşı menzilli saldırılar %100 etkilidir ve +30 [ICON_Ranged] Menzil Gücü kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_BONUS_MOVEMENT_NAME">
+			<Text>Gelişmiş Hareket Kabiliyeti</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_BONUS_MOVEMENT_DESCRIPTION">
+			<Text>+3 [ICON_Movement] Hareket. Dağ arazisini aşmak için Sıçrama eylemi gerçekleştirebilir.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ARMOR_UPGRADE_NAME">
+			<Text>Güçlendirilmiş Zırh Kaplaması</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_GDR_ARMOR_UPGRADE_DESCRIPTION">
+			<Text>Kara ve deniz birimlerine karşı savunma yaparken +10 [ICON_Strength] Muharebe Gücü.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

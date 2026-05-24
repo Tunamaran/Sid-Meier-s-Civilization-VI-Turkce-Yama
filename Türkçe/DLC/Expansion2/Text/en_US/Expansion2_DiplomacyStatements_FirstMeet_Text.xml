@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- First AI line -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DIDO_ANY">
+			<Text>Ben, Dido, Kartaca'nın kraliçesi ve anası, Fenikeliler adına sizi selamlıyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Aquitaine Düşesi, Fransa ve İngiltere Kraliçesi, aşkın hakimi Eleanor'un sarayına hoş geldiniz. Ne haberler getirdiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Aquitaine Düşesi, Fransa ve İngiltere Kraliçesi, aşkın hakimi Eleanor'un sarayına hoş geldiniz. Ne haberler getirdiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KRISTINA_ANY">
+			<Text>Ben Kristina, İsveç kraliçesi, sanatın ve edebiyatın hamisi. Bir ilim dostunu mu selamlıyorum?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_KUPE_ANY">
+			<Text>Ben denizci Kupe, ve siz Māori diyarına yaklaşıyorsunuz. Bana kendinizden bahseder misiniz?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LAURIER_ANY">
+			<Text>Kanada halkı adına hoş geldiniz. Ben Başbakan Laurier.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MANSA_MUSA_ANY">
+			<Text>Ben Sultan Musa, Mali'nin efendisi ve—Tanrı'ya şükür—çok ama çok zengin bir adamım. Sizinle tanıştığıma memnun oldum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Ben Matthias. Macaristan Kralı, düşmanlarımın belası ve inananların koruyucusuyum. Selamlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PACHACUTI_ANY">
+			<Text>Pachacuti Inca Yupanqui'nin huzurunda duruyorsunuz. Selamınızı ve İnkalara sunabileceğiniz hizmeti kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SULEIMAN_ANY">
+			<Text>Topkapı'nın ihtişamından, ben Süleyman, Kayser-i Rum, size hoş geldinizi bahşediyorum.</Text>
+		</Row>
+		<!-- AI invitation to visit nearby City -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DIDO_ANY">
+			<Text>Gelin ve büyük Fenike şehirlerini görün. Bunun haberini ülkenize ve dünyanın geri kalanına götürün.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Ülkenizden gelen ziyaretçileri güzel sarayımı görmeye davet ettim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Ülkenizden gelen ziyaretçileri güzel sarayımı görmeye davet ettim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KRISTINA_ANY">
+			<Text>Temsilcileriniz, koleksiyonlarımı bizzat görmek için son derece memnuniyetle karşılanacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KUPE_ANY">
+			<Text>Halkınızı, kendilerine onur veren marae'me getirdim. Umarım siz de aynı şekilde saygı gösterirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LAURIER_ANY">
+			<Text>Lütfen Kanada'nın başkentini ziyarete gelin. Halkımız ziyaretinizden onur duyacaktır.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MANSA_MUSA_ANY">
+			<Text>Lütfen, gelin Mali'nin başkentini ziyaret edin! Burası büyük bir bilim yuvası—hem de kârlı bir yer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Temsilcilerinizi başkentimde bizzat gezdireceğim ki Macaristan'ın gücünü daha iyi anlasınlar.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_PACHACUTI_ANY">
+			<Text>Gelin ve İnkaların rehberliğim altında neler başardığına tanık olun.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SULEIMAN_ANY">
+			<Text>Temsilcilerinizi sarayımın ve başkentimin görkemini görmeleri için memnuniyetle karşılarım ki ihtişamı karşısında hayrete düşsünler.</Text>
+		</Row>
+		<!-- AI accepts Human invitation -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DIDO_ANY">
+			<Text>Güzel. Bu teklif iki halkımıza da fayda sağlayacak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Şartlarınız uygun. Şansölyeliklerimiz ayrıntıları halletsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Şartlarınız uygun. Şansölyeliklerimiz ayrıntıları halletsin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KRISTINA_ANY">
+			<Text>İsveç de ben de size teşekkür ederiz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_KUPE_ANY">
+			<Text>Evet. Ama yalnızca bu kadar cömert bir adam olduğum için.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LAURIER_ANY">
+			<Text>Kanada, adil bir değişim için size teşekkür eder.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MANSA_MUSA_ANY">
+			<Text>Refah ikimizi de kutsasın.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Evet. Macaristan adına şartlarınızı kabul ediyorum.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_PACHACUTI_ANY">
+			<Text>Evet, İnkalar size bunu bahşedecek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SULEIMAN_ANY">
+			<Text>Keremim ne büyüktür! Ol dedim, oldu.</Text>
+		</Row>
+		<!-- AI invitation to exchange Capital Information -->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_DIDO_ANY">
+			<Text>Haritalarımız tamamlansın diye başkentinizin yerini bana söyleyin. Karşılığında ben de başkentimizin yerini paylaşırım.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELEANOR_ENGLAND_ANY">
+			<Text>Uzak diyarlar hakkında haber almak beni mest eder. Başkentinizin yerini söylerseniz, ben de kendi başkentimin yerini bildireyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ELEANOR_FRANCE_ANY">
+			<Text>Uzak diyarlar hakkında haber almak beni mest eder. Başkentinizin yerini söylerseniz, ben de kendi başkentimin yerini bildireyim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KRISTINA_ANY">
+			<Text>Temsilcilerinize başkentimizin yerini bildireceğim, ancak sizin de bize aynı iyiliği göstermenizi beklerim.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_KUPE_ANY">
+			<Text>Sizden misafirleri marae'mde ağırlamak isterim, ama karşılığında başkentinizin nerede olduğunu söylemelisiniz.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LAURIER_ANY">
+			<Text>Başkentimizi öğrenmek üzere temsilcileri ağırlamaktan onur duyarız. Dilerseniz siz de aynı nezaketi bize gösterin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MANSA_MUSA_ANY">
+			<Text>Haritalarımızdaki boş yerleri, karşılıklı başkentlerimizin konumlarıyla dolduralım mı?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MATTHIAS_CORVINUS_ANY">
+			<Text>Halkınızı Macaristan'ın başkentini öğrenmeye davet ediyorum, ancak siz de bana aynı hakkı tanımalısınız.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_PACHACUTI_ANY">
+			<Text>İzcileriniz sarayım kadar yükseğe tırmanabilirse yerini öğrenebilirler. Ama karşılığında başkentinizin yerini sormam gerek.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SULEIMAN_ANY">
+			<Text>Başkentinizin yerini bana bildirirseniz, cömert niyetimin bir işareti olarak başkentimin yerini size hediye edeyim.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

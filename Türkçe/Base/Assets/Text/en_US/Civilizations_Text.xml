@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+			<Text>Amerikan İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+			<Text>Arap İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Barbarlar</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+			<Text>Brezilya İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+			<Text>Çin İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EGYPT_DESCRIPTION">
+			<Text>Mısır İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENGLAND_DESCRIPTION">
+			<Text>İngiltere İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FRANCE_DESCRIPTION">
+			<Text>Fransa İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GERMANY_DESCRIPTION">
+			<Text>Alman İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GREECE_DESCRIPTION">
+			<Text>Yunan İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDIA_DESCRIPTION">
+			<Text>Hint İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAPAN_DESCRIPTION">
+			<Text>Japon İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KONGO_DESCRIPTION">
+			<Text>Kongo İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NORWAY_DESCRIPTION">
+			<Text>Norveç İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+			<Text>Roma İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+			<Text>Rus İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+			<Text>İskit İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+			<Text>İspanyol İmparatorluğu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SUMERIA_DESCRIPTION">
+			<Text>Sümer İmparatorluğu</Text>
+		</Row>
+		<!-- City-State Empire Names-->
+		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_DESCRIPTION">
+			<Text>Amsterdam Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_DESCRIPTION">
+			<Text>Bandar Brunei Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRUSSELS_DESCRIPTION">
+			<Text>Brüksel Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_DESCRIPTION">
+			<Text>Buenos Aires Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARTHAGE_DESCRIPTION">
+			<Text>Kartaca Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GENEVA_DESCRIPTION">
+			<Text>Cenevre Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HATTUSA_DESCRIPTION">
+			<Text>Hattuşa Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
+			<Text>Hong Kong Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
+			<Text>Cakarta Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION">
+			<Text>Kudüs Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KABUL_DESCRIPTION">
+			<Text>Kabil Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KANDY_DESCRIPTION">
+			<Text>Kandy Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KUMASI_DESCRIPTION">
+			<Text>Kumasi Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LA_VENTA_DESCRIPTION">
+			<Text>La Venta Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LISBON_DESCRIPTION">
+			<Text>Mogadişu Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_DESCRIPTION">
+			<Text>Mohenjo-Daro Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRESLAV_DESCRIPTION">
+			<Text>Preslav Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAN_MADOL_DESCRIPTION">
+			<Text>Nan Madol Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SEOUL_DESCRIPTION">
+			<Text>Seul Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_STOCKHOLM_DESCRIPTION">
+			<Text>Stokholm Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TORONTO_DESCRIPTION">
+			<Text>Toronto Şehir Devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VALLETTA_DESCRIPTION">
+			<Text>Valletta şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VILNIUS_DESCRIPTION">
+			<Text>Vilnius şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YEREVAN_DESCRIPTION">
+			<Text>Erivan şehir devleti</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANZIBAR_DESCRIPTION">
+			<Text>Zanzibar şehir devleti</Text>
+		</Row>
+		<!-- Adjectives -->
+		<Row Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
+			<Text>Amerikan</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
+			<Text>Arap</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
+			<Text>Barbar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
+			<Text>Brezilyalı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
+			<Text>Çinli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
+			<Text>Mısırlı</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
+			<Text>İngiliz</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
+			<Text>Fransız</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
+			<Text>Alman</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
+			<Text>Yunan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
+			<Text>Hint</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
+			<Text>Japon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
+			<Text>Kongolu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
+			<Text>Norveçli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
+			<Text>Rus</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
+			<Text>İskit</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
+			<Text>İspanyol</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
+			<Text>Sümer</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
+			<Text>Amsterdamlı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
+			<Text>Bandar Bruneyli</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
+			<Text>Brükselli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
+			<Text>Buenos Airesli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
+			<Text>Kartacalı</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
+			<Text>Cenevreli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HATTUSA_ADJECTIVE">
+			<Text>Hattuşalı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
+			<Text>Hong Konglu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
+			<Text>Cakartalı</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
+			<Text>Kudüslü</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
+			<Text>Kâbilli</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
+			<Text>Kandylı</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">
+			<Text>Kumasili</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LA_VENTA_ADJECTIVE">
+			<Text>La Ventalı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LISBON_ADJECTIVE">
+			<Text>Mogadişulu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MOHENJO_DARO_ADJECTIVE">
+			<Text>Mohenjo-Darolu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PRESLAV_ADJECTIVE">
+			<Text>Preslavlı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAN_MADOL_ADJECTIVE">
+			<Text>Nan Madollu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SEOUL_ADJECTIVE">
+			<Text>Seullu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_STOCKHOLM_ADJECTIVE">
+			<Text>Stokholmlu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TORONTO_ADJECTIVE">
+			<Text>Torontolu</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VALLETTA_ADJECTIVE">
+			<Text>Valletta</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VILNIUS_ADJECTIVE">
+			<Text>Vilnyalı</Text>
+			<Gender>Masculine:an</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_YEREVAN_ADJECTIVE">
+			<Text>Yerevanlı</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ZANZIBAR_ADJECTIVE">
+			<Text>Zanzibarlı</Text>
+		</Row>
+		<!-- Civ Traits-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
+			<Text>Amazon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
+			<Text>Yağmur Ormanı bölgeleri, Kampüs, Ticaret Merkezi, Kutsal Alan ve Tiyatro Meydanı bölgelerine +1 komşuluk bonusu sağlar ve olağan -1 yerine, komşu bölgelere +1 Çekicilik kazandırır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
+			<Text>Hanedan Döngüsü</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
+			<Text>[ICON_TechBoosted] Buluşlar ve [ICON_CivicBoosted] İlhamlar, yönetim bilimleri ve teknolojilerin %50'si yerine %60'ını sağlar. Bir Harika tamamlandığında, eğer varsa, o Harikanın çağından rastgele bir [ICON_TechBoosted] Buluş ve [ICON_CivicBoosted] İlham kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_NAME">
+			<Text>Ucuz İşçiler</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_INEXPENSIVE_BUILDERS_DESCRIPTION">
+			<Text>İşçileri normal sürenin yarısında eğitebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
+			<Text>Meiji Restorasyonu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
+			<Text>Tüm bölgeler, başka bir bölgeye komşu olduklarında fazladan bir standart komşuluk bonusu kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_NAME">
+			<Text>Britanya Müzesi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DOUBLE_ARCHAEOLOGY_SLOTS_DESCRIPTION">
+			<Text>Her Arkeoloji Müzesi, 3 yerine 6 [ICON_GreatWork_Artifact] Tarihi Eser barındırabilir ve aynı anda 2 Arkeolog destekleyebilir. Arkeoloji Müzeleri, 6 [ICON_GreatWork_Artifact] Tarihi Eser'e sahip olduklarında otomatik olarak temalanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
+			<Text>Bozkır Halkı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
+			<Text>Her hafif süvari birliği veya Saka Atlı Okçusu eğittiğinizde, ikinci bir hafif süvari birliği veya Saka Atlı Okçusu kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_BONUS_AGAINST_BARBS_NAME">
+			<Text>Vahşi</Text>
+		</Row>
+		<Row Tag="LOC_BONUS_AGAINST_BARBS_DESCRIPTION">
+			<Text>Barbarlara karşı bonus.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
+			<Text>Destansı Görevler</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
+			<Text>Bir Barbar Karakolu'nu ele geçirdiğinde, olağan [ICON_Gold] Altın'a ek olarak bir Kabile Köyü ödülü alırsın. Şehir devleti birliklerini kiralamanın maliyeti yarıya iner.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+			<Text>Iteru</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ITERU_DESCRIPTION">
+			<Text>Bir nehrin yanına inşa edilen bölge ve harikalar için %15 [ICON_Production] Üretim bonusu. Taşkın Yatakları, bölge ve harika inşasını engellemez.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
+			<Text>Platon'un Cumhuriyeti</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
+			<Text>Her hükümette fazladan bir Joker politika yuvası sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
+			<Text>Anavatan Rusya</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
+			<Text>Şehir kurarken fazladan toprak kazandırır. Tundra'dan +1 [ICON_Faith] İnanç ve +1 [ICON_Production] Üretim sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
+			<Text>Son Peygamber</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
+			<Text>Henüz bir [ICON_GreatProphet] Büyük Peygamber kazanmadıysan, sondan bir önceki peygamber alındığında son [ICON_GreatProphet] Büyük Peygamber'i otomatik olarak alırsın. Arabistan'ın dinini benimseyen her yabancı şehir için +1 [ICON_Science] Bilim kazanırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
+			<Text>Nkisi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
+			<Text>Her [ICON_GreatWork_Relic] Kutsal Emanet, [ICON_GreatWork_Artifact] Tarihi Eser ve Heykel [ICON_GreatWork_Sculpture] Sanat Büyük Eseri, olağan [ICON_Culture] Kültür'e ek olarak +2 [ICON_Food] Besin, +2 [ICON_Production] Üretim, +1 [ICON_Faith] İnanç ve +4 [ICON_Gold] Altın sağlar. [ICON_GreatArtist] Büyük Sanatçı, [ICON_GreatMusician] Büyük Müzisyen ve [ICON_GreatMerchant] Büyük Tüccar puanları %50 daha hızlı kazanılır. Sarayda 5 Büyük Eser yuvası bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
+			<Text>Hazine Filosu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
+			<Text>Milliyetçilik ve Seferberlik yerine Merkantilizm ile Filolar ve Armadalar oluşturabilirsin. [ICON_TradeRoute] Ticaret Yolları +3 [ICON_Gold] Altın, +2 [ICON_Faith] İnanç ve +1 [ICON_Production] Üretim kazanır. Farklı kıtalar arasındaki [ICON_TradeRoute] Ticaret Yolları bu değerlerin üç katını alır. Kurulduklarında, orijinal başkentinin kıtasında olmayan şehirler, bölgelere ve bir İşçi'ye %25 [ICON_Production] Üretim bonusu kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
+			<Text>Kurucu Babalar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_DESCRIPTION">
+			<Text>Tüm hükümet miras bonuslarını normal sürenin yarısında kazanırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+			<Text>Dharma</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DHARMA_DESCRIPTION">
+			<Text>En az 1 takipçisi olan her dinden, şehirde Takipçi İnancı bonusları alırsın.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+			<Text>Büyük Tur</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+			<Text>+%20 [ICON_Production] Orta Çağ, Rönesans ve Sanayi Çağı harikalarına yönelik Üretim. Herhangi bir çağdaki harikalardan gelen [ICON_Tourism] Turizm +%100.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_NAME">
+			<Text>Özgür İmparatorluk Şehirleri</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION">
+			<Text>Her şehir normalden bir tane daha fazla bölge inşa edebilir ([ICON_Citizen] Nüfus'a dayalı normal sınırı aşarak).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
+			<Text>Tüm Yollar Roma'ya Çıkar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
+			<Text>Kurduğunuz veya fethettiğiniz tüm şehirler bir Ticaret Karakolu ile başlar. Eğer [ICON_Capital] Başkentinizin [ICON_TradeRoute] Ticaret Yolu menzilindeyseler, ayrıca ona bir yolla başlarlar. [ICON_TradeRoute] Ticaret Yollarınız, kendi şehirlerinizdeki Ticaret Karakollarından geçerken +1 [ICON_Gold] Altın kazanır.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
+			<Text>Knarr</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
+			<Text>Birimler, Gemi İnşası teknolojisini araştırdıktan sonra Okyanus bölgelerine girme yeteneği kazanır. Deniz yakın dövüş birimleri tarafsız bölgede iyileşir. Birimler, gemiye binme ve gemiden inme ek [ICON_Movement] Hareket maliyetlerini görmezden gelir.</Text>
+		</Row>
+		<!-- Civilization Info -->
+		<Row Tag="LOC_CIVINFO_LOCATION">
+			<Text>Konum</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SIZE">
+			<Text>Büyüklük</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_POPULATION">
+			<Text>Nüfus</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAPITAL">
+			<Text>Başkent</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_LOCATION">
+			<Text>Kuzey Amerika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_SIZE">
+			<Text>Yaklaşık 3,8 milyon mil kare (9,6 milyon kilometre kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_POPULATION">
+			<Text>Yaklaşık 318 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AMERICA_CAPITAL">
+			<Text>Çeşitli (Philadelphia, New York, şu anda Washington)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_LOCATION">
+			<Text>Asya-Afrika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_SIZE">
+			<Text>Emevi Halifeliği döneminde, Yaklaşık 5,79 milyon mil kare (15 milyon km kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_POPULATION">
+			<Text>Emeviler döneminde, yaklaşık 34 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ARABIA_CAPITAL">
+			<Text>Birçoğu (Medine, Kufe, Şam, Bağdat, Kahire)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_LOCATION">
+			<Text>Güney Amerika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_SIZE">
+			<Text>Yaklaşık 3,29 milyon mil kare (8,5 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_POPULATION">
+			<Text>Tahmini 193 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_BRAZIL_CAPITAL">
+			<Text>Çeşitli (Salvador, Rio de Janeiro, günümüzde Brasília)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_LOCATION">
+			<Text>Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_SIZE">
+			<Text>Yaklaşık 3,7 milyon mil kare (9,6 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_POPULATION">
+			<Text>1990'da 1,1 milyar</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CHINA_CAPITAL">
+			<Text>Birçok (dört ana başkent: Nanjing, Luoyang, Chang'an ve günümüzde Pekin)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_LOCATION">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_SIZE">
+			<Text>Yaklaşık 94 bin mil kare (243.458,88 km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_POPULATION">
+			<Text>Tahmini 64,1 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ENGLAND_CAPITAL">
+			<Text>Londra (genellikle)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_LOCATION">
+			<Text>Afrika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_SIZE">
+			<Text>Yaklaşık 390 bin mil kare (1 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_POPULATION">
+			<Text>Tahmini 7,5 milyon (Ptolemaios Hanedanı)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_EGYPT_CAPITAL">
+			<Text>Çeşitli (Memfis, Teb, İskenderiye ve günümüzde Kahire)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_LOCATION">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_SIZE">
+			<Text>Yaklaşık 246,2 bin mil kare (640,6 bin km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_POPULATION">
+			<Text>Tahmini 66,6 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_FRANCE_CAPITAL">
+			<Text>Çeşitli (Orléans, Tours, Versailles, Vichy, çoğunlukla Paris)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_LOCATION">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_SIZE">
+			<Text>Tah. 390 bin mil kare (1050 MS'de 1 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_POPULATION">
+			<Text>Tah. 26,3 milyon (1780 MS'de)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GERMANY_CAPITAL">
+			<Text>Günümüzde Berlin</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_LOCATION">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_SIZE">
+			<Text>Yaklaşık (oldukça) 50,9 bin mil kare (131,9 bin km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_POPULATION">
+			<Text>Tah. 667,5 bin (Peloponez Savaşı sırasında)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_GREECE_CAPITAL">
+			<Text>Bütün şehirler, fakat ağırlıklı olarak Sparta ve Atina; günümüzde ise Atina</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_LOCATION">
+			<Text>Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_SIZE">
+			<Text>Tah. 1,3 milyon mil kare (3,3 milyon km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_POPULATION">
+			<Text>Tah. 1,2 milyar (günden güne artıyor)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_INDIA_CAPITAL">
+			<Text>Çeşitli (Kalküta, Delhi, şimdi Yeni Delhi)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_LOCATION">
+			<Text>Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_SIZE">
+			<Text>Tah. 146 bin mil kare (378 bin km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_POPULATION">
+			<Text>En son 126,4 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_JAPAN_CAPITAL">
+			<Text>Çeşitli (Kyoto'ya kadar saymakla bitmez; günümüzde Tokyo)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_LOCATION">
+			<Text>Afrika</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_SIZE">
+			<Text>En geniş haliyle 49,9 bin mil kare (129,4 bin km²)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_POPULATION">
+			<Text>Tah. 509 bin (1650 MS'de)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_KONGO_CAPITAL">
+			<Text>M'banza Kongo</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_LOCATION">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_SIZE">
+			<Text>Tahmini 148,7 bin mil kare (385,2 bin km kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_POPULATION">
+			<Text>En son tahmini 5,1 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NORWAY_CAPITAL">
+			<Text>Çeşitli (Trondheim, Bergen ve günümüzde Oslo)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_LOCATION">
+			<Text>Avrupa (ve Küçük Asya, Afrika, Orta Doğu ile diğer kısımlar)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_SIZE">
+			<Text>Trajan döneminde yaklaşık 2,5 milyon mil kare (6,5 milyon km kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_POPULATION">
+			<Text>Tahmini 88 milyon (zirve döneminde)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_ROME_CAPITAL">
+			<Text>Roma</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_LOCATION">
+			<Text>Avrupa-Asya (ve kısa süreliğine Kuzey Amerika'nın bir parçası)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_SIZE">
+			<Text>Yaklaşık 8,4 milyon mil kare (21,8 milyon km kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_POPULATION">
+			<Text>Tahmini 181,5 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_RUSSIA_CAPITAL">
+			<Text>Moskova, ardından Sankt Petersburg</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_LOCATION">
+			<Text>Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_SIZE">
+			<Text>Kabaca 384 bin mil kare (994 bin km kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_POPULATION">
+			<Text>Bilinmiyor, en iyi tahmin zirvede 40-50 bin</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SCYTHIA_CAPITAL">
+			<Text>Yok (tarihte adı geçen tek şehir, MS 3. yüzyılda Gotlar tarafından yıkılan 'İskit Neapolis'idir)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_LOCATION">
+			<Text>Avrupa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_SIZE">
+			<Text>Tahmini 195 bin mil kare (504,4 bin km kare)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_POPULATION">
+			<Text>Tahmini 47,6 milyon</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SPAIN_CAPITAL">
+			<Text>Madrid (çoğunlukla)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_LOCATION">
+			<Text>Asya</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_SIZE">
+			<Text>Kesin bir şey söylemek mümkün değil</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_POPULATION">
+			<Text>Tahminen 1,1 ila 1,5 milyon arası</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_SUMERIA_CAPITAL">
+			<Text>Pek çok (Lagash, Eridu, Uruk, Kish, Ur ya da o dönemdeki hükümdarın doğduğu şehir)</Text>
+		</Row>
+		<!-- Uniques -->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_FILM_STUDIO_NAME">
+			<Text>Amerikan eşsiz binası: Film Stüdyosu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_MADRASA_NAME">
+			<Text>Arabistan eşsiz binası: Medrese</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_GREAT_WALL_NAME">
+			<Text>Çin eşsiz geliştirmesi: Büyük Duvar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_SPHINX_NAME">
+			<Text>Mısır eşsiz geliştirmesi: Sfenks</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>Mısır eşsiz birimi: Maryannu Savaş Arabası Okçusu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_CHINESE_CROUCHING_TIGER_NAME">
+			<Text>Çin eşsiz birimi: Pusuya Yatmış Kaplan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_CHATEAU_NAME">
+			<Text>Fransız eşsiz geliştirmesi: Şato</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_HANSA_NAME">
+			<Text>Alman eşsiz bölgesi: Hansa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_ACROPOLIS_NAME">
+			<Text>Yunanistan eşsiz bölgesi: Akropolis</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GREEK_HOPLITE_NAME">
+			<Text>Yunan eşsiz birimi: Hoplit</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_STEPWELL_NAME">
+			<Text>Hindistan eşsiz geliştirmesi: Basamaklı Kuyu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_ELECTRONICS_FACTORY_NAME">
+			<Text>Japon eşsiz binası: Elektronik Fabrikası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI_NAME">
+			<Text>Japon eşsiz birimi: Samuray</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MBANZA_NAME">
+			<Text>Kongolu eşsiz bölgesi: Mbanza</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_STAVE_CHURCH_NAME">
+			<Text>Norveç eşsiz binası: Çivisiz Kilise</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_BATH_NAME">
+			<Text>Roma eşsiz bölgesi: Hamam</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_ROMAN_LEGION_NAME">
+			<Text>Roma eşsiz birimi: Lejyon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KONGO_SHIELD_BEARER_NAME">
+			<Text>Kongo eşsiz birimi: Ngao Mbeba</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_DISTRICT_LAVRA_NAME">
+			<Text>Rusya eşsiz bölgesi: Lavra</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KURGAN_NAME">
+			<Text>İskitya eşsiz geliştirmesi: Kurgan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
+			<Text>İskitya eşsiz birimi: Saka Atlı Okçusu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
+			<Text>İspanya eşsiz geliştirmesi: Misyon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
+			<Text>İspanya eşsiz birimi: Konkistador</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_RUSSIAN_COSSACK_NAME">
+			<Text>Rusya eşsiz birimi: Kazak</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_ZIGGURAT_NAME">
+			<Text>Sümer eşsiz geliştirmesi: Ziggurat</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_SUMERIAN_WAR_CART_NAME">
+			<Text>Sümer eşsiz birimi: Savaş Arabası</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDIAN_VARU_NAME">
+			<Text>Hindistan eşsiz birimi: Varu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>İngiltere eşsiz birimi: Deniz Kurdu</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_ARABIAN_MAMLUK">
+			<Text>Arabistan eşsiz birimi: Memluk</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>Fransa eşsiz birimi: İmparatorluk Muhafızları</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_GERMAN_UBOAT_NAME">
+			<Text>Almanya eşsiz birimi: U-Bot</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_AMERICAN_P51_NAME">
+			<Text>Amerika eşsiz birimi: P-51 Mustang</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
+			<Text>Brezilya eşsiz birimi: Minas Geraes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_NORWEGIAN_BERSERKER_NAME">
+			<Text>Norveç eşsiz birimi: Berserker</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_STREET_CARNIVAL_NAME">
+			<Text>Brezilya eşsiz bölgesi: Sokak Karnavalı</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>İngiltere eşsiz bölgesi: Kraliyet Donanma Tersanesi</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Diplomatic rationales for denouncement -->
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_WARMONGER">
+			<Text>(Bana şikâyetler yaşattın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_STANDARD_DIPLOMATIC_THIRD_PARTY_WARMONGER">
+			<Text>(Başkalarına şikâyetler yaşattın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_ANGEVIN_EMPIRE">
+			<Text>(Komşu şehirlerinin nüfusu düşük.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CANADIAN_EXPEDITIONARY">
+			<Text>(Acil Durumlara katılmadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_KAITIAKITANGA">
+			<Text>(Çevreye iyi davranmıyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LAWGIVER">
+			<Text>(Halkın mutsuz ve sadakatsiz.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LORD_OF_MINES">
+			<Text>(Şehirlerin ve ticaret yolların pek kârlı değil.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_RAVEN_BANNER">
+			<Text>(Şehir devletlerinden fazla asker toplamadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_PATRON_OF_ARTS">
+			<Text>(Çok fazla Büyük Eserin var.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
+			<Text>(Dağların yakınında çok fazla şehir kuruyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SICILIAN_WARS_HIGH_COASTAL_CITIES">
+			<Text>(Sahil boyunca çok fazla şehir kuruyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
+			<Text>(Çok fazla Diplomatik Zafer Puanın var.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
+			<Text>(Çok fazla Diplomatik Destek kazandın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
+			<Text>(Turizmin çok yüksek.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
+			<Text>(Yeterince bölge yağmalamadın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+			<Text>(Dünyanın çevresini dolaştın ya da uzaya çıkmak için çalıştın.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+			<Text>(İmparatorluklarına dinini yayıyorsun.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_TURTLER">
+			<Text>(Diğer başkentleri fethettin.)</Text>
+		</Row>
+	</BaseGameText>
+</GameData>
