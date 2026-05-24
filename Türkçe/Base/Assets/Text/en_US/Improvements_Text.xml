@@ -47,7 +47,7 @@
 		</Row>
 		<!--Unique Improvements Description-->
 		<Row Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
-			<Text>Fransa'ya özgü Şato inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın. +1 Çekicilik. Bitişikteki her Harika için +1 [ICON_Culture] Kültür (Uçuş araştırıldıktan sonra +2 olur). Nehir kenarı içeren bir bölgedeyse +2 [ICON_Gold] Altın. Uçuş araştırıldıktan sonra [ICON_CULTURE] Kültür'den [ICON_TOURISM] Turizm sağlar. Bir Bonus veya Lüks Kaynağa bitişik olarak yerleştirilmelidir. Başka bir Şato'nun bitişiğine inşa edilemez.</Text>
+			<Text>Fransa'ya özgü Şato inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın. +1 Çekicilik. Bitişikteki her Harika için +1 [ICON_Culture] Kültür (Uçuş araştırıldıktan sonra +2 olur). Nehir kenarı içeren bir bölgedeyse +2 [ICON_Gold] Altın. Uçuş araştırıldıktan sonra [ICON_CULTURE] Kültür'den [ICON_TOURISM] Turizm sağlar. Bir bonus veya Lüks Kaynağa bitişik olarak yerleştirilmelidir. Başka bir Şato'nun bitişiğine inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
 			<Text>İşçi'nin Dev Kafa inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+2 [ICON_Faith] İnanç. Bitişikteki her 2 Yağmur Ormanı için +1 [ICON_Faith] İnanç. Bitişikteki her 2 Orman için +1 [ICON_Faith] İnanç. Karlı veya Karlı Tepe bölgelerine inşa edilemez.</Text>

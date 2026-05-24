@@ -31,7 +31,7 @@
 			<Text>Saldıramaz</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_COMBAT">
-			<Text>Dost Bölge Avantajı</Text>
+			<Text>Dost Karo Avantajı</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ENABLE_WALL_ATTACK_NAME">
 			<Text>Sur Saldırısı Sağlar</Text>
@@ -49,16 +49,16 @@
 			<Text>Engelsiz Görüş</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_NAME">
-			<Text>Oligarşi Yakın Dövüş Bonusu</Text>
+			<Text>Oligarşi Yakın Dövüş bonusu</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_THEOCRACY_RELIGIOUS_BUFF_NAME">
-			<Text>Teokrasi Dini Bonusu</Text>
+			<Text>Teokrasi Dini bonusu</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ORDERS_BUFF_NAME">
 			<Text>Dinî Tarikatlar</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FASCISM_ATTACK_BUFF_NAME">
-			<Text>Faşizm Saldırı Bonusu</Text>
+			<Text>Faşizm Saldırı bonusu</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_COMMUNISM_DEFENSE_BUFF_NAME">
 			<Text>Komünizm Kara Savunması</Text>
@@ -154,7 +154,7 @@
 			<Text>Barış Muhafızı</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_FRIENDLY_TERRITORY_RELIGIOUS_NAME">
-			<Text>Dost Bölge Avantajı</Text>
+			<Text>Dost Karo Avantajı</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_RELIGIOUS_ENTER_FOREIGN_LANDS_NAME">
 			<Text>Sınırları Yok Sayar</Text>
@@ -427,7 +427,7 @@
 		</Row>
 		<!-- Combat preview description -->
 		<Row Tag="LOC_COMBAT_DIFFICULTY_SCALING">
-			<Text>+{Amount} [ICON_Strength] Zorluk Seviyesine Bağlı Muharebe Gücü Bonusu.</Text>
+			<Text>+{Amount} [ICON_Strength] Zorluk Seviyesine Bağlı Muharebe Gücü bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Süvariye Karşı Muharebe Gücü</Text>

@@ -135,10 +135,10 @@
 			<Text>+{1_num} [ICON_Science] Bitişikteki Yağmur Ormanı {1_Num : plural 1?bölgesinden; other?bölgelerinden;} Bilim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Bitişikteki {1_Num : plural 1?bölgeden; other?bölgelerden;} Bilim.</Text>
+			<Text>+{1_num} [ICON_Science] Bitişikteki {1_Num : plural 1?karodan; other?karolardan;} Bilim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_SCIENCE">
-			<Text>+{1_num} [ICON_Science] Bitişikteki {1_Num : plural 1?bölgeden; other?bölgelerden;} Bilim.</Text>
+			<Text>+{1_num} [ICON_Science] Bitişikteki {1_Num : plural 1?karodan; other?karolardan;} Bilim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NATURALWONDER_FAITH">
 			<Text>+{1_num} [ICON_Faith] Bitişikteki {1_Num : plural 1?Doğa Harikasından; other?Doğa Harikalarından;} İnanç.</Text>
@@ -189,13 +189,13 @@
 			<Text>Komşu Kraliyet Donanma Tersanesi Bölgesi kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_GOLD">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CITY_CENTER_GOLD">
 			<Text>Komşu Şehir Merkezi Bölgesi kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_GOLD">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SEARESOURCE_GOLD">
 			<Text>Komşu deniz {1_Num : plural 1?kaynak; other?kaynaklar;} kaynaklı +{1_num} [ICON_Gold] Altın.</Text>
@@ -204,13 +204,13 @@
 			<Text>Komşu {1_Num : plural 1?harika; other?harikalar;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_CULTURE">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_CULTURE_STANDARD">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_CULTURE_CITY_CENTER">
 			<Text>Komşu Şehir Merkezi kaynaklı +{1_num} [ICON_Culture] Kültür.</Text>
@@ -222,10 +222,10 @@
 			<Text>Komşu {1_Num : plural 1?Taş Ocağı; other?Taş Ocakları;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_PRODUCTION">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_DISTRICT_1_PRODUCTION">
-			<Text>Komşu {1_Num : plural 1?bölge; other?bölgeler;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
+			<Text>Komşu {1_Num : plural 1?karo; other?karolar;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_PRODUCTION">
 			<Text>Komşu Ticaret Merkezi Bölgesi kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
@@ -234,13 +234,13 @@
 			<Text>Komşu {1_Num : plural 1?kaynak; other?kaynaklar;} kaynaklı +{1_num} [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_SCIENCE">
-			<Text>Bölgenin Çekiciliğinden gelen +{1_num} [ICON_Science] Bilim.</Text>
+			<Text>Karonun Çekiciliğinden gelen +{1_num} [ICON_Science] Bilim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_CULTURE">
-			<Text>Bölgenin Çekiciliğinden gelen +{1_num} [ICON_Culture] Kültür.</Text>
+			<Text>Karonun Çekiciliğinden gelen +{1_num} [ICON_Culture] Kültür.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_PRODUCTION">
-			<Text>Bölgenin Çekiciliğinden gelen +{1_num} [ICON_Production] Üretim.</Text>
+			<Text>Karonun Çekiciliğinden gelen +{1_num} [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_APPEAL_GOLD">
 			<Text>+{1_num} [ICON_Gold] Bölgenin çekiciliğinden kazanılan Altın.</Text>

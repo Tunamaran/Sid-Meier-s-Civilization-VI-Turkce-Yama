@@ -424,148 +424,148 @@
 			<Text>Harikalar, binalar ve bölgeler üretirken her Sanayi Bölgesi bölgesinde ek olarak +2 [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_NAME">
-			<Text>Amsterdam Süzeren Bonusu</Text>
+			<Text>Amsterdam Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AMSTERDAM_DESCRIPTION">
 			<Text>Yabancı şehirlere gönderdiğiniz [ICON_TradeRoute] Ticaret Yollarınız, varış şehrindeki her Lüks Kaynak için +1 [ICON_Gold] Altın kazandırır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BANDAR_BRUNEI_NAME">
-			<Text>Bandar Brunei Süzeren Bonusu</Text>
+			<Text>Bandar Brunei Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_NAME">
-			<Text>Brüksel Süzeren Bonusu</Text>
+			<Text>Brüksel Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BRUSSELS_DESCRIPTION">
 			<Text>Şehirleriniz Harikalar için +15% [ICON_Production] Üretim kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_NAME">
-			<Text>Buenos Aires Süzeren Bonusu</Text>
+			<Text>Buenos Aires Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BUENOS_AIRES_DESCRIPTION">
-			<Text>Bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi davranır.</Text>
+			<Text>bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi davranır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_NAME">
-			<Text>Kartaca Süzeren Bonusu</Text>
+			<Text>Kartaca Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
 			<Text>Ordugâh Bölgelerinizin her biri +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GENEVA_NAME">
-			<Text>Cenevre Süzeren Bonusu</Text>
+			<Text>Cenevre Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GENEVA_DESCRIPTION">
 			<Text>Herhangi bir uygarlıkla savaş halinde olmadığınızda şehirleriniz +15% [ICON_Science] Bilim kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_NAME">
-			<Text>Hattuşa Süzeren Bonusu</Text>
+			<Text>Hattuşa Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_DESCRIPTION">
 			<Text>Keşfettiğiniz ancak sahip olmadığınız her Stratejik Kaynaktan size 1 adet sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_NAME">
-			<Text>Hong Kong Süzeren Bonusu</Text>
+			<Text>Hong Kong Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_HONG_KONG_DESCRIPTION">
 			<Text>Şehirleriniz şehir projeleri için +20% [ICON_Production] Üretim kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_NAME">
-			<Text>Jakarta Süzeren Bonusu</Text>
+			<Text>Jakarta Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JAKARTA_DESCRIPTION">
 			<Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, o şehirden geçen veya o şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_Gold] Altın sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME">
-			<Text>Kudüs Süzeren Bonusu</Text>
+			<Text>Kudüs Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION">
 			<Text>Kurduğunuz Din'e otomatik olarak dönüşür ve sanki bir Kutsal Şehir'miş gibi o Din için baskı uygular.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KABUL_NAME">
-			<Text>Kabil Süzeren Bonusu</Text>
+			<Text>Kabil Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KABUL_DESCRIPTION">
 			<Text>Birimleriniz başlattıkları muharebelerden iki kat tecrübe kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KANDY_NAME">
-			<Text>Kandy Süzeren Bonusu</Text>
+			<Text>Kandy Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KANDY_DESCRIPTION">
 			<Text>Her yeni bir doğa harikası keşfettiğinizde bir [ICON_GreatWork_Relic] Kutsal Emanet kazanırsınız ve tüm [ICON_GreatWork_Relic] Kutsal Emanetlerden %50 fazla [ICON_Faith] İnanç elde edersiniz.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KUMASI_NAME">
-			<Text>Kumasi Süzeren Bonusu</Text>
+			<Text>Kumasi Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_KUMASI_DESCRIPTION">
 			<Text>Bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, çıkış şehrindeki her bir uzmanlık bölgesi için +2 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_NAME">
-			<Text>La Venta Süzeren Bonusu</Text>
+			<Text>La Venta Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_DESCRIPTION">
 			<Text>İşçileriniz artık Dev Baş geliştirmeleri inşa edebilir.[NEWLINE][NEWLINE]Dev Başlar +2 [ICON_Faith] İnanç sağlar. Her 2 bitişik Yağmur Ormanı için +1 [ICON_Faith] İnanç. Her 2 bitişik Orman için +1 [ICON_Faith] İnanç. Kar veya Karlı Tepeler üzerine inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LISBON_NAME">
-			<Text>Mogadişu Süzeren Bonusu</Text>
+			<Text>Mogadişu Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_LISBON_DESCRIPTION">
 			<Text>Tüccar birimleriniz su bölgelerinde yağmalanmaya karşı bağışıktır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_NAME">
-			<Text>Mohenjo-Daro Süzeren Bonusu</Text>
+			<Text>Mohenjo-Daro Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MOHENJO_DARO_DESCRIPTION">
 			<Text>Şehirleriniz, hepsi bir Nehir'in yanındaymış gibi sudan tam [ICON_Housing] Konut elde eder.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_NAME">
-			<Text>Nan Madol Süzeren Bonusu</Text>
+			<Text>Nan Madol Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NAN_MADOL_DESCRIPTION">
 			<Text>Kıyı veya Göl bölgelerinde ya da bitişiğinde bulunan bölgeleriniz +2 [ICON_Culture] Kültür sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_NAME">
-			<Text>Preslav Süzeren Bonusu</Text>
+			<Text>Preslav Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
-			<Text>Hafif ve ağır süvari birimleriniz, tepe bölgelerinde savaşırken +5 [ICON_Strength] Güç kazanır.</Text>
+			<Text>Hafif ve ağır süvari birimleriniz, tepe karolarında savaşırken +5 [ICON_Strength] Güç kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_SEOUL_NAME">
-			<Text>Seul Süzeren Bonusu</Text>
+			<Text>Seul Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_SEOUL_DESCRIPTION">
 			<Text>Yeni bir çağa girdiğinizde, o çağdan rastgele 1 [ICON_TechBoosted] Buluş kazanırsınız.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_NAME">
-			<Text>Stokholm Süzeren Bonusu</Text>
+			<Text>Stokholm Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
 			<Text>Bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar ([ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen - Tiyatro Meydanı bölgeleri için).</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_TORONTO_NAME">
-			<Text>Toronto Süzeren Bonusu</Text>
+			<Text>Toronto Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_TORONTO_DESCRIPTION">
 			<Text>Sanayi Bölgesi ve Eğlence Kompleksi bölgelerinizden gelen bölgesel etkiler 3 bölge daha uzağa ulaşır.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_NAME">
-			<Text>Valletta Süzeren Bonusu</Text>
+			<Text>Valletta Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VALLETTA_DESCRIPTION">
 			<Text>Şehir Merkezi binaları ve Ordugah Bölgesi binaları [ICON_Faith] İnanç ile satın alınabilir. Antik, Orta Çağ ve Rönesans Surlarının satın alma maliyeti düşer ancak yalnızca [ICON_Faith] İnanç ile satın alınabilirler.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_NAME">
-			<Text>Vilnius Süzeren Bonusu</Text>
+			<Text>Vilnius Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
 			<Text>Yeni bir çağa girdiğinde, o çağdan rastgele 1 [ICON_CivicBoosted] İlham kazanırsın.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_NAME">
-			<Text>Yerevan Süzeren Bonusu</Text>
+			<Text>Yerevan Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_YEREVAN_DESCRIPTION">
 			<Text>Havari birimlerin, rastgele bir terfi almak yerine olası tüm terfiler arasından seçim yapabilir.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_NAME">
-			<Text>Zanzibar Süzeren Bonusu</Text>
+			<Text>Zanzibar Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ZANZIBAR_DESCRIPTION">
 			<Text>[ICON_RESOURCE_CINNAMON] Tarçın ve [ICON_RESOURCE_CLOVES] Karanfil Lüks kaynaklarını alırsın. Bunlar oyunda başka hiçbir şekilde elde edilemez ve her biri 6 [ICON_Amenities] Olanak sağlar.</Text>
@@ -669,7 +669,7 @@
 			<Text>Kutsal Alan bölgeleri inşa edemez, Büyük Peygamber kazanamaz veya Din kuramaz. Şehirlerinin çoğunluğunda yerleşmiş olan herhangi bir Dinin tüm İnançlarını kazanır. Her bir M'banza veya Tiyatro Meydanı bölgesini tamamladığında (o şehrin çoğunluk Dinine ait) bir Havari alır.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
-			<Text>Birimler, kendi kıtalarında +5 [ICON_Strength] Muharebe Gücü kazanır. Millî Park bulunan bir şehirdeki tüm bölgelere +1 Çekicilik sağlanır. Yivli Tüfek teknolojisi araştırıldığında eşsiz Kaba Süvari birimi elde edilir.</Text>
+			<Text>Birimler, kendi kıtalarında +5 [ICON_Strength] Muharebe Gücü kazanır. Millî Park bulunan bir şehirdeki tüm karolara +1 Çekicilik sağlanır. Yivli Tüfek teknolojisi araştırıldığında eşsiz Kaba Süvari birimi elde edilir.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION">
 			<Text>Tanışılan ve savaş halinde olunmayan, din kurmuş her uygarlık (Hindistan dahil) başına +5 [ICON_Faith] İnanç sağlanır. Gandhi'ye karşı savaşan uygarlıklar iki kat savaş yorgunluğu yaşar.</Text>

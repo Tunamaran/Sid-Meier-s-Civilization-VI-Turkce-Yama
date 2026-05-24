@@ -74,7 +74,7 @@
 			<Text>Keşfedilen Kabile Köyleri</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_GREAT_PEOPLE">
-			<Text>Kazanılan Büyük Şahsiyetler</Text>
+			<Text>Kazanılan Büyük Kişiler</Text>
 		</Row>
 		<Row Tag="LOC_HOF_GRAPH_PLAYER_NATURAL_WONDERS">
 			<Text>Keşfedilen Doğa Harikaları</Text>
@@ -254,7 +254,7 @@
 			<Text>Hükümet</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_GREAT_PEOPLE">
-			<Text>Kazanılan Büyük Şahsiyetler</Text>
+			<Text>Kazanılan Büyük Kişiler</Text>
 		</Row>
 		<Row Tag="LOC_HOF_STAT_LARGEST_CITY">
 			<Text>En Büyük Şehir</Text>

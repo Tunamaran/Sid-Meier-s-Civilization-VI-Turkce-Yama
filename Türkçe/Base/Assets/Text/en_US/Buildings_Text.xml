@@ -15,10 +15,10 @@
 			<Text>Dış savunmalarınızın gücünü artırır. Koruma sosyal politikasına ilerledikten sonra 2 [ICON_TOURISM] Turizm sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
-			<Text>Japonya'ya özgü bir bina. 6 bölge mesafedeki tüm şehir merkezlerine +4 [ICON_Production] Üretim sağlar. Elektrik teknolojisi araştırıldıktan sonra bu bina, bulunduğu şehre ek olarak +4 [ICON_Culture] Kültür sağlar. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+			<Text>Japonya'ya özgü bir bina. 6 karo mesafedeki tüm şehir merkezlerine +4 [ICON_Production] Üretim sağlar. Elektrik teknolojisi araştırıldıktan sonra bu bina, bulunduğu şehre ek olarak +4 [ICON_Culture] Kültür sağlar. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
-			<Text>Bonus, 6 bölge mesafedeki tüm şehir merkezlerine uygulanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+			<Text>bonus, 6 karo mesafedeki tüm şehir merkezlerine uygulanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
 			<Text>Amerika'ya özgü bir bina. Bu şehirden diğer uygarlıklara yönelik Modern çağdaki [ICON_Tourism] Turizm baskısı +%100.</Text>
@@ -48,7 +48,7 @@
 			<Text>[ICON_GreatWork_Artifact] Tarihi Eserleri barındırır. Halihazırda bir Sanat Müzesi bulunan Tiyatro Meydanı bölgesinde inşa edilemez.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_POWER_PLANT_DESCRIPTION">
-			<Text>Bonus, 6 bölge mesafedeki her şehir merkezine uygulanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+			<Text>bonus, 6 karo mesafedeki her şehir merkezine uygulanır. Bu bonus bir şehre yalnızca bir kez uygulanır ve bir şehir merkezinin 6 bölgesi içinde bulunan bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_SEAPORT_DESCRIPTION">
 			<Text>Bu şehirde eğitilen tüm deniz birlikleri için +%25 muharebe tecrübesi. Donanma ve Armadaların doğrudan eğitilmesine olanak tanır. Donanma ve Armada eğitim maliyetleri %25 azalır. Bu şehirdeki tüm Kıyı bölgelerinde +2 [ICON_GOLD] Altın.</Text>
@@ -63,7 +63,7 @@
 			<Text>Bu şehirde eğitilen tüm deniz birlikleri için +%25 muharebe tecrübesi. Liman bölgesinin komşuluk bonusuna eşit miktarda bonus [ICON_Production] Üretim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STADIUM_DESCRIPTION">
-			<Text>Bonus, 6 kare içindeki her şehir merkezine uygulanır. Bu bonus bir şehre bir defa uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+			<Text>bonus, 6 kare içindeki her şehir merkezine uygulanır. Bu bonus bir şehre bir defa uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
 			<Text>Dış savunmalarınızın gücünü mümkün olan en yüksek seviyeye çıkarır. Koruma Sosyal Politikası'na ilerledikten sonra 3 [ICON_TOURISM] Turizm sağlar.</Text>
@@ -81,7 +81,7 @@
 			<Text>Çiftliklerle iyileştirilen bonus kaynakların her biri +1 [ICON_Food] Besin kazanır. Şehir bir Nehir'e bitişik olmalıdır.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ZOO_DESCRIPTION">
-			<Text>Bonus, 6 kare içindeki her şehir merkezine uygulanır. Bu bonus bir şehre bir defa uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
+			<Text>bonus, 6 kare içindeki her şehir merkezine uygulanır. Bu bonus bir şehre bir defa uygulanır ve bir şehir merkezinin 6 kare yakınındaki bu binanın birden fazla kopyası ek bonus sağlamaz.</Text>
 		</Row>
 		<!-- Wonders -->
 		<Row Tag="LOC_BUILDING_ALHAMBRA_DESCRIPTION">
@@ -124,7 +124,7 @@
 			<Text>Tüm deniz birimlerine +1 [ICON_Movement] Hareket[NEWLINE][NEWLINE]Kıyı üzerine, karaya ve bir Deniz Feneri bulunan Liman Bölgesi'ne bitişik olarak inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_GREAT_ZIMBABWE_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Ticaret Yolu kapasitesi[NEWLINE][NEWLINE]Bu şehirden başlayan [ICON_TradeRoute] Ticaret Yollarınız, şehrin 3 bölge içindeki ve şehir topraklarındaki her Bonus kaynağı için +2 [ICON_Gold] Altın kazandırır. Bir Ticaret Merkezi bölgesinin ve bu bölgedeki bir Pazarın bitişiğine, ayrıca [ICON_RESOURCE_CATTLE] Sığır kaynağının yanına inşa edilmelidir.</Text>
+			<Text>+1 [ICON_TradeRoute] Ticaret Yolu kapasitesi[NEWLINE][NEWLINE]Bu şehirden başlayan [ICON_TradeRoute] Ticaret Yollarınız, şehrin 3 karo içindeki ve şehir topraklarındaki her bonus kaynağı için +2 [ICON_Gold] Altın kazandırır. Bir Ticaret Merkezi bölgesinin ve bu karodaki bir Pazarın bitişiğine, ayrıca [ICON_RESOURCE_CATTLE] Sığır kaynağının yanına inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_HAGIA_SOPHIA_DESCRIPTION">
 			<Text>Misyonerler ve Havariler, Dini 1 kez daha yayabilir. Bir Kutsal Alan bölgesinin bitişiğindeki düz araziye inşa edilmelidir ve bir Din kurmuş olmalısınız.</Text>

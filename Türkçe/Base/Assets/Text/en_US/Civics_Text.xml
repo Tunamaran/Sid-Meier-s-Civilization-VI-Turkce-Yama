@@ -67,7 +67,7 @@
 			<Text>3 [ICON_Envoy] Elçi kazandırır. Milli Parklar inşa edilmesine ve [ICON_Faith] İnanç ile Doğa Bilimci satın alınmasına olanak tanır. İşçilerin Orman dikmesine (yeniden yetişmiş) izin verir. Bölgenizde hiç kesilmemiş ormanlar (bakir) +1 Çekicilik kazanır. Surlardan [ICON_TOURISM] Turizm elde edersiniz.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
-			<Text>Savunma Paktı oluşturulmasına olanak tanır. Aynı türden üç birimin Ordu veya Armada haline getirilmesine imkân verir. Savaşları haklı göstermek için kullanılabilecek yeni bir Savaş Gerekçesi (Casus Belli) sağlar: Toprak Genişletme Savaşı.</Text>
+			<Text>Savunma Paktı oluşturulmasına olanak tanır. Aynı türden üç birimin Ordu veya Armada haline getirilmesine imkân verir. Savaşları haklı göstermek için kullanılabilecek yeni bir Savaş Gerekçesi sağlar: Toprak Genişletme Savaşı.</Text>
 		</Row>
 		<Row Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
 			<Text>Ek bir Casus yetiştirme olanağı sağlar.</Text>
@@ -92,7 +92,7 @@
 		</Row>
 		<!-- Civic Boosts-->
 		<Row Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
-			<Text>3 bölgeyi iyileştir.</Text>
+			<Text>3 karoyu iyileştir.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
 			<Text>İkinci bir kıtayı keşfet.</Text>
@@ -167,7 +167,7 @@
 			<Text>Bir Büyük Tüccar kazan.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
-			<Text>3 Büyük Şahsiyet kazan.</Text>
+			<Text>3 Büyük Kişi kazan.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
 			<Text>7 farklı uzmanlık bölgesi inşa et.</Text>
@@ -422,7 +422,7 @@
 		</Row>
 		<!-- Government Effects-->
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
-			<Text>Bonus Yok.</Text>
+			<Text>bonus Yok.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
 			<Text>Başkent, tüm getirilere +1 artış alır.</Text>
@@ -449,10 +449,10 @@
 			<Text>Kara birimleri +4 [ICON_Strength] Savunma Gücü kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
-			<Text>Büyük Şahsiyet hamiliği %50 daha az Altın harcar.</Text>
+			<Text>Büyük Kişi hamiliği %50 daha az Altın harcar.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
-			<Text>Bonus Yok.</Text>
+			<Text>bonus Yok.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
 			<Text>Harika üretiminde bonus.</Text>
@@ -461,10 +461,10 @@
 			<Text>Muharebe birimleri için tecrübe.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
-			<Text>Bonus Büyük Şahsiyet puanı.</Text>
+			<Text>bonus Büyük Kişi puanı.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
-			<Text>Bonus Etki Puanı.</Text>
+			<Text>bonus Etki Puanı.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
 			<Text>İnanç ile satın almalarda indirim.</Text>
@@ -482,7 +482,7 @@
 			<Text>Bölge projelerinden bonus getiri.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
-			<Text>Bonus Yok.</Text>
+			<Text>bonus Yok.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
 			<Text>Harika [ICON_Production] Üretimine bonus (%10, artı Normal hızda her 20 turda %1).</Text>
@@ -491,7 +491,7 @@
 			<Text>Birimler için bonus muharebe tecrübesi (%20, Standart hızda her 5 turda %1 olmak üzere).</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
-			<Text>Büyük Şahsiyet puanları için bonus [ICON_GreatPerson] (%15, Standart hızda her 15 turda %1 olmak üzere).</Text>
+			<Text>Büyük Kişi puanları için bonus [ICON_GreatPerson] (%15, Standart hızda her 15 turda %1 olmak üzere).</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
 			<Text>Elçilere yönelik Etki puanlarında bonus (%20, Standart hızda her 10 turda %1 olmak üzere).</Text>
@@ -657,7 +657,7 @@
 			<Text>Tur başına +4 [ICON_GreatMerchant] Büyük Tüccar puanı.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
-			<Text>Bir bölge satın alma maliyetini %20 azaltır.</Text>
+			<Text>Bir karo satın alma maliyetini %20 azaltır.</Text>
 		</Row>
 		<Row Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
 			<Text>Birim başına tur başına bakım maliyeti 2 [ICON_Gold] Altın azalır.</Text>

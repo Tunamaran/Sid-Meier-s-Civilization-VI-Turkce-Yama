@@ -10,40 +10,40 @@
 			<Text>Bir doğa harikasının keşfi, İzcilere bonus tecrübe kazandırır. Doğa harikaları ayrıca Kutsal Alan bölgelerine komşuluk bonusu verir. Tüm bitişik bölgeler +2 Çekicilik kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_BARRIER_REEF_DESCRIPTION">
-			<Text>İki bölgelik doğa harikası. Kıyı arazilerinde bulunur ve +3 [ICON_Food] Besin, +2 [ICON_Science] Bilim sağlar. Kampüs bölgesine büyük komşuluk bonusu verir.</Text>
+			<Text>İki karolık doğa harikası. Kıyı arazilerinde bulunur ve +3 [ICON_Food] Besin, +2 [ICON_Science] Bilim sağlar. Kampüs bölgesine büyük komşuluk bonusu verir.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION">
-			<Text>İki bölgelik doğa harikası. Suya bitişik Kayalıklar olarak ortaya çıkar ve +3 [ICON_Culture] Kültür, +3 [ICON_Gold] Altın, +2 [ICON_Food] Besin sağlar. Üzerine iyileştirme yapılamaz.</Text>
+			<Text>İki karolık doğa harikası. Suya bitişik Kayalıklar olarak ortaya çıkar ve +3 [ICON_Culture] Kültür, +3 [ICON_Gold] Altın, +2 [ICON_Food] Besin sağlar. Üzerine iyileştirme yapılamaz.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION">
-			<Text>Tek bölgelik doğa harikası. Göl olarak ortaya çıkar ve +5 [ICON_Faith] İnanç, +1 [ICON_Science] Bilim ile Tatlı Su sağlar.</Text>
+			<Text>Tek karolık doğa harikası. Göl olarak ortaya çıkar ve +5 [ICON_Faith] İnanç, +1 [ICON_Science] Bilim ile Tatlı Su sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION">
-			<Text>İki bölgelik doğa harikası. Göl olarak ortaya çıkar ve +2 [ICON_Faith] İnanç, +2 [ICON_Culture] Kültür sağlar. Ölü Deniz'e bitişik bir tur iyileşme yapan birlikler tamamen iyileşir. Tatlı Su sağlamaz.</Text>
+			<Text>İki karolık doğa harikası. Göl olarak ortaya çıkar ve +2 [ICON_Faith] İnanç, +2 [ICON_Culture] Kültür sağlar. Ölü Deniz'e bitişik bir tur iyileşme yapan birlikler tamamen iyileşir. Tatlı Su sağlamaz.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_EVEREST_DESCRIPTION">
-			<Text>Üç bölgelik geçilmez doğa harikası. Bitişik bölgelere +1 [ICON_Faith] İnanç sağlar. Everest Dağı'nın yanına hareket eden dinî birlikler oyunun geri kalanında Tepeleri yok sayar.</Text>
+			<Text>Üç karolık geçilmez doğa harikası. Bitişik karolara +1 [ICON_Faith] İnanç sağlar. Everest Dağı'nın yanına hareket eden dinî birlikler oyunun geri kalanında Tepeleri yok sayar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION">
-			<Text>İki bölgelik geçilmez doğa harikası. Kıyı arazilerinde ortaya çıkar ve bitişik bölgelere +2 [ICON_Science] Bilim sağlar.</Text>
+			<Text>İki karolık geçilmez doğa harikası. Kıyı arazilerinde ortaya çıkar ve bitişik karolara +2 [ICON_Science] Bilim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_KILIMANJARO_DESCRIPTION">
-			<Text>Tek bölgelik geçilmez doğa harikası. Bitişik bölgelere +2 [ICON_Food] Besin sağlar.</Text>
+			<Text>Tek karolık geçilmez doğa harikası. Bitişik karolara +2 [ICON_Food] Besin sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_PANTANAL_DESCRIPTION">
-			<Text>Dört bölgelik doğa harikası. +2 [ICON_Food] Besin ve +2 [ICON_Culture] Kültür sağlar.</Text>
+			<Text>Dört karolık doğa harikası. +2 [ICON_Food] Besin ve +2 [ICON_Culture] Kültür sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_PIOPIOTAHI_DESCRIPTION">
-			<Text>Üç bölgelik geçilmez doğa harikası. Bitişik bölgelere +1 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın sağlar.</Text>
+			<Text>Üç karolık geçilmez doğa harikası. Bitişik karolara +1 [ICON_Culture] Kültür ve +1 [ICON_Gold] Altın sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_TORRES_DEL_PAINE_DESCRIPTION">
-			<Text>İki bölgelik geçilmez doğa harikası. Bitişik tüm bölgelerin arazi getirilerini ikiye katlar.</Text>
+			<Text>İki karolık geçilmez doğa harikası. Bitişik tüm bölgelerin arazi getirilerini ikiye katlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_TSINGY_DESCRIPTION">
-			<Text>Tek bölgelik geçilmez doğa harikası. Bitişik bölgelere +1 [ICON_Culture] Kültür ve +1 [ICON_Science] Bilim sağlar.</Text>
+			<Text>Tek karolık geçilmez doğa harikası. Bitişik karolara +1 [ICON_Culture] Kültür ve +1 [ICON_Science] Bilim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_YOSEMITE_DESCRIPTION">
-			<Text>İki bölgelik geçilmez doğa harikası. Bitişik bölgelere +1 [ICON_Gold] Altın ve +1 [ICON_Science] Bilim sağlar.</Text>
+			<Text>İki karolık geçilmez doğa harikası. Bitişik karolara +1 [ICON_Gold] Altın ve +1 [ICON_Science] Bilim sağlar.</Text>
 		</Row>
 	</BaseGameText>
 </GameData>

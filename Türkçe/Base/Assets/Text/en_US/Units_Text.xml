@@ -165,31 +165,31 @@
 		</Row>
 		<!-- Great People-->
 		<Row Tag="LOC_UNIT_GREAT_GENERAL_DESCRIPTION">
-			<Text>Her [ICON_GreatGeneral] Büyük General, pasif bir etki ve bir Emeklilik etkisi dahil olmak üzere benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatGeneral] Büyük General, pasif bir etki ve bir Emeklilik etkisi dahil olmak üzere benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ADMIRAL_DESCRIPTION">
-			<Text>Her [ICON_GreatAdmiral] Büyük Amiral, pasif bir etki ve bir Emeklilik etkisi dahil olmak üzere benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatAdmiral] Büyük Amiral, pasif bir etki ve bir Emeklilik etkisi dahil olmak üzere benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ENGINEER_DESCRIPTION">
-			<Text>Her [ICON_GreatEngineer] Büyük Mühendis, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatEngineer] Büyük Mühendis, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_MERCHANT_DESCRIPTION">
-			<Text>Her [ICON_GreatMerchant] Büyük Tüccar, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatMerchant] Büyük Tüccar, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_PROPHET_DESCRIPTION">
-			<Text>Büyük [ICON_GreatProphet] Peygamberler, etkinleştirildiklerinde bir Din kurabilirler. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Büyük [ICON_GreatProphet] Peygamberler, etkinleştirildiklerinde bir Din kurabilirler. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_SCIENTIST_DESCRIPTION">
-			<Text>Her [ICON_GreatScientist] Büyük Bilim İnsanı, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatScientist] Büyük Bilim İnsanı, etkinleştirildiğinde benzersiz yeteneklere sahiptir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_WRITER_DESCRIPTION">
-			<Text>Her [ICON_GreatWriter] Büyük Yazar, etkinleştirildiğinde bir [ICON_GreatWork_Writing] Yazın Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatWriter] Büyük Yazar, etkinleştirildiğinde bir [ICON_GreatWork_Writing] Yazın Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_ARTIST_DESCRIPTION">
-			<Text>Her [ICON_GreatArtist] Büyük Sanatçı, etkinleştirildiğinde bir [ICON_GreatWork_Landscape] Sanat Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatArtist] Büyük Sanatçı, etkinleştirildiğinde bir [ICON_GreatWork_Landscape] Sanat Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_GREAT_MUSICIAN_DESCRIPTION">
-			<Text>Her [ICON_GreatMusician] Büyük Müzisyen, etkinleştirildiğinde bir [ICON_GreatWork_Music] Müzik Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Şahsiyetler paneline göz atın.</Text>
+			<Text>Her [ICON_GreatMusician] Büyük Müzisyen, etkinleştirildiğinde bir [ICON_GreatWork_Music] Müzik Büyük Eseri üretir. Daha fazla bilgi edinmek ve ilerlemenizi takip etmek için Büyük Kişiler paneline göz atın.</Text>
 		</Row>
 		<!-- Recon-->
 		<Row Tag="LOC_UNIT_SCOUT_DESCRIPTION">
@@ -329,7 +329,7 @@
 			<Text>Atom Çağı yakın dövüş deniz birliği, hava birliklerini taşıyabilir.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_BATTLESHIP_DESCRIPTION">
-			<Text>Modern Çağ deniz menzilli birliği. 1 bölgeye kadar olan hava ve nükleer saldırılara karşı koruma sağlar.</Text>
+			<Text>Modern Çağ deniz menzilli birliği. 1 karoya kadar olan hava ve nükleer saldırılara karşı koruma sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MISSILE_CRUISER_DESCRIPTION">
 			<Text>En güçlü menzilli deniz birliği, Bilgi Çağı'nda kullanılabilir.</Text>

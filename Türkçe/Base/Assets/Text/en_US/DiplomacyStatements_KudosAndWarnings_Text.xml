@@ -91,7 +91,7 @@
 			<Text>(Bir Din kurdun ve onu Kongo'ya getirdin)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_ANY">
-			<Text>(Daha fazla Büyük Şahsiyet kazanma konusunda tehdit oluşturmuyorsun)</Text>
+			<Text>(Daha fazla Büyük Kişi kazanma konusunda tehdit oluşturmuyorsun)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_ANY">
 			<Text>(Şehir devletleri üzerinde rekabet etmiyorsun)</Text>
@@ -293,7 +293,7 @@
 			<Text>(Bir din kurdunuz ama onu Kongo'ya getirmediniz.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_ANY">
-			<Text>(Daha fazla Büyük Şahsiyet topladın.)</Text>
+			<Text>(Daha fazla Büyük Kişi topladın.)</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_ANY">
 			<Text>(Şehir devletleri üzerinde rekabet ediyorsun.)</Text>

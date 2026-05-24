@@ -158,7 +158,7 @@
 			<Text>Birim Paneli'nin yanındaki "İyileştirme İnşa Et: Çiftlik" düğmesine tıklayarak buraya bir Çiftlik iyileştirmesi inşa edin.</Text>
 		</Row>
 		<Row Tag="LOC_META_25_BODY">
-			<Text>Buraya bir Çiftlik inşa etmek, bu parselden elde edilen [ICON_Food] Besin getirisini tur başına 1 [ICON_Food] Besin'den 2'ye çıkardı. Şehrinizin ürettiği [ICON_Food] Besin miktarı, o şehrin Nüfusunun ne kadar hızlı büyüyeceğini belirler; size daha fazla bölge işlemek için yeni [ICON_Citizen] Vatandaşlar kazandırır. Daha fazla [ICON_Food] Besin, daha hızlı büyüme demektir.</Text>
+			<Text>Buraya bir Çiftlik inşa etmek, bu parselden elde edilen [ICON_Food] Besin getirisini tur başına 1 [ICON_Food] Besin'den 2'ye çıkardı. Şehrinizin ürettiği [ICON_Food] Besin miktarı, o şehrin Nüfusunun ne kadar hızlı büyüyeceğini belirler; size daha fazla karo işlemek için yeni [ICON_Citizen] Vatandaşlar kazandırır. Daha fazla [ICON_Food] Besin, daha hızlı büyüme demektir.</Text>
 		</Row>
 		<Row Tag="LOC_META_26_BODY">
 			<Text>İşçiler, iş güçlerini tüketmeden önce en fazla 3 iyileştirme inşa edebilir. Bu sayı Birim Paneli'nde belirtilir. Bu İşçi birliği, Çiftlik inşa ederek iş gücünden birini tüketti ve şimdi 2 kullanım hakkı kaldı.</Text>
@@ -212,7 +212,7 @@
 			<Text>Keşiflerimiz sayesinde dünyanın bir doğa harikasını bulduk. Kuşkusuz, etrafındaki topraklara yerleşen kişiye büyük faydalar sağlayabilir.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_2">
-			<Text>İzci gibi keşif birlikleri, dünyayı keşfederek ve yeni bölgeler bularak deneyim kazanabilmeleri açısından benzersizdir.</Text>
+			<Text>İzci gibi keşif birlikleri, dünyayı keşfederek ve yeni karolar bularak deneyim kazanabilmeleri açısından benzersizdir.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_3">
 			<Text>İşçi birliğimizin iş gücü tükendi. Şehirlerimizin etrafındaki arazilerde iyileştirmeler yapmaya devam etmek için daha fazla İşçi yetiştirmemiz gerekecek.</Text>
@@ -284,10 +284,10 @@
 			<Text>Komşularımızı yakından takip etmek önemlidir ve halkımız bu konuda bize yardımcı olabilir. Kulak kesilin, zira bazen bize kıyasla daha fazla bilgiye sahip olurlar.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_27">
-			<Text>Hükümdarım, dünyadaki Büyük Şahsiyetlerin dikkatini çekmeye başlıyoruz. Elbette, başka liderler de onların ilgisi için yarışıyor.</Text>
+			<Text>Hükümdarım, dünyadaki Büyük Kişilerin dikkatini çekmeye başlıyoruz. Elbette, başka liderler de onların ilgisi için yarışıyor.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_28">
-			<Text>Ne kadar çok uzmanlık bölgesi inşa edersek, o kadar fazla uzmanlaşmış Büyük Şahsiyeti uygarlığımıza çekip yeteneklerini paylaşmalarını sağlarız. Bunları inşa etmeye devam etmemizi tavsiye ederim.</Text>
+			<Text>Ne kadar çok uzmanlık bölgesi inşa edersek, o kadar fazla uzmanlaşmış Büyük Kişiyi uygarlığımıza çekip yeteneklerini paylaşmalarını sağlarız. Bunları inşa etmeye devam etmemizi tavsiye ederim.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_LISTENER_29">
 			<Text>Ünlü bir sanatçı uygarlığımızdan ilham aldı ve büyük sanat eserleri yaratmak için topraklarımıza geldi. Bu şaheserleri derhal sergileyebileceğimiz bir yer bulmamızı öneririm.</Text>
@@ -592,7 +592,7 @@
 			<Text>Çok turlu bir emir kullanıldığında, birimin izleyeceği yol haritada görüntülenecek ve hedefe ulaşana kadar geçecek tur sayısı belirtilecektir.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_22">
-			<Text>Majesteleri, İzcilerimiz çevredeki toprakları keşfetmek ve kıtanın yeni bölgelerini ortaya çıkarmak için can atıyor. Onları yola çıkarın!</Text>
+			<Text>Majesteleri, İzcilerimiz çevredeki toprakları keşfetmek ve kıtanın yeni karolarini ortaya çıkarmak için can atıyor. Onları yola çıkarın!</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_LINE_FTUE_23">
 			<Text>Şimdilik ele alınacak başka bir mesele kalmamıştır, Hükümdarım.</Text>
@@ -601,13 +601,13 @@
 			<Text>En parlak zihinlerimiz, değerli taşları ve metalleri topraktan çıkarmak için yeni ve dahiyane yöntemler keşfetti. Yakınlarda bol miktarda değerli Taş var; İşçilerimizi orada bir Taş Ocağı inşa etmeye göndermek akıllıca olacaktır.</Text>
 		</Row>
 		<Row Tag="LOC_META_30_BODY">
-			<Text>Haritaya dağılmış çeşitli kaynaklar bulunur. 3 kaynak kategorisi vardır:[NEWLINE][NEWLINE]Lüks: Vatandaşlarınızın genel mutluluğuna katkıda bulunur.[NEWLINE][NEWLINE]Stratejik: Çok güçlü askeri birimler oluşturmak için gereklidir.[NEWLINE][NEWLINE]Bonus: [ICON_Food] Besin, [ICON_Production] Üretim veya [ICON_Gold] Altın şeklinde ek getiri sağlar.</Text>
+			<Text>Haritaya dağılmış çeşitli kaynaklar bulunur. 3 kaynak kategorisi vardır:[NEWLINE][NEWLINE]Lüks: Vatandaşlarınızın genel mutluluğuna katkıda bulunur.[NEWLINE][NEWLINE]Stratejik: Çok güçlü askeri birimler oluşturmak için gereklidir.[NEWLINE][NEWLINE]bonus: [ICON_Food] Besin, [ICON_Production] Üretim veya [ICON_Gold] Altın şeklinde ek getiri sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_META_31a_HEAD">
 			<Text>TAŞ OCAĞI İNŞA ET</Text>
 		</Row>
 		<Row Tag="LOC_META_31a_BODY">
-			<Text>Bu Taş bir Bonus kaynağıdır. Şehrinize ek +1 [ICON_Production]Üretim sağlar.[NEWLINE][NEWLINE]Buraya bir Taş Ocağı geliştirmesi inşa ederseniz, getiriyi +2 [ICON_Production]Üretim'e yükseltecektir.</Text>
+			<Text>Bu Taş bir bonus kaynağıdır. Şehrinize ek +1 [ICON_Production]Üretim sağlar.[NEWLINE][NEWLINE]Buraya bir Taş Ocağı geliştirmesi inşa ederseniz, getiriyi +2 [ICON_Production]Üretim'e yükseltecektir.</Text>
 		</Row>
 		<Row Tag="LOC_META_31b_BODY">
 			<Text>İşçi birliğinizi Taş kaynağına taşıyın ve orada bir Taş Ocağı geliştirmesi inşa etmelerini sağlayın.</Text>
@@ -910,7 +910,7 @@
 			<Text>Başka bir uygarlıkla savaşa girdiğinizde, hem şehirlerinizi savunmak hem de dışarıda savaşmak için yeterli sayıda muharebe birliğine sahip olmak en iyisidir.</Text>
 		</Row>
 		<Row Tag="LOC_META_90_BODY">
-			<Text>Bazen savaşmak için birlikler eğitmek amacıyla bir bina veya bölge üzerindeki üretimi durdurmak gerekir. Bunu yapmak için, şehrin mevcut üretim görevini oluşturmak istediğiniz muharebe birliğine değiştirmeniz yeterlidir.</Text>
+			<Text>Bazen savaşmak için birlikler eğitmek amacıyla bir bina veya karo üzerindeki üretimi durdurmak gerekir. Bunu yapmak için, şehrin mevcut üretim görevini oluşturmak istediğiniz muharebe birliğine değiştirmeniz yeterlidir.</Text>
 		</Row>
 		<Row Tag="LOC_META_91_BODY">
 			<Text>Ordunuzun büyüklüğünden memnun olduğunuzda, daha önce inşa edilmekte olan şeyin üretimine, üzerinde yaptığınız ilerlemeyi kaybetmeden devam edebilirsiniz.</Text>
@@ -1006,7 +1006,7 @@
 			<Text>[ICON_Food] Besinin yanı sıra, halkınız şehirlerinde [ICON_Amenities] Olanaklara da ihtiyaç duyar. [ICON_Amenities] Olanakların bir kaynağı, [ICON_Capital] Başkentinizin yanındaki bu [ICON_Resource_Coffee] Kahve gibi Lüks Kaynaklardır. Çömlekçilik teknolojisi tamamlandığına göre, İşçilerinizin [ICON_Capital] Başkentimizin yanındaki [ICON_Resource_Coffee] Kahve gibi Lüks Kaynakları geliştirmesini sağlamak için Sulama araştırması yapmak iyi bir fikir olacaktır. Bu, şehrimize [ICON_Amenities] Olanak sağlayarak mutluluğunu artıracaktır.</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_6_COMPLETE">
-			<Text>İkinci şehrin menzili içinde bir bölgeyi iyileştirme hedefini tamamladınız!</Text>
+			<Text>İkinci şehrin menzili içinde bir karoyu iyileştirme hedefini tamamladınız!</Text>
 		</Row>
 		<Row Tag="LOC_META_GOAL_8_COMPLETE">
 			<Text>Başka bir kabile köyünü keşfetme hedefini tamamladınız!</Text>
@@ -1444,7 +1444,7 @@
 			<Text>Sınırlarımız içinde bu kadar bereketli topraklara sahip olduğumuz için bahtiyarız. Yine de bir uygarlık yalnızca topraktan değil, insanlardan oluşur.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_46_ALT">
-		   <Text>Böylesi topraklar, bu bölgeyi bela eden Barbar akıncılarının dikkatini mutlaka çekecektir. Hayatta kalacaksak karşı koymaya hazırlanmalıyız.</Text>
+		   <Text>Böylesi topraklar, bu karoyu bela eden Barbar akıncılarının dikkatini mutlaka çekecektir. Hayatta kalacaksak karşı koymaya hazırlanmalıyız.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_5_ALT_2">
 			<Text>Şehrimizin Savaşçılara ihtiyacı var.</Text>
@@ -1633,7 +1633,7 @@
 			<Text>Mükemmel, halkımız hazır olduğuna göre şimdi varacağımız yeri seçmeliyiz.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_302">
-			<Text>Başkentten uzak olmayan, kaynaklar bakımından zengin bir bölge var. Yerleşimcilerimizi oraya gönderelim.</Text>
+			<Text>Başkentten uzak olmayan, kaynaklar bakımından zengin bir karo var. Yerleşimcilerimizi oraya gönderelim.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_31_ALT">
 			<Text>Yerleşimcilerimiz Savaşçılarımızın koruması altında güvende olsa da, Başkentimiz artık savunmasız. Askeri koruma olmadan düşmanlarımız tarafından kesinlikle istila ediliriz.</Text>
@@ -1702,7 +1702,7 @@
 			<Text>Yazı ile halkımızı birleştiriyoruz. Ortak bir yazı dili, fikirlerin yeşermesine ve ortak bilgimizin büyümesine olanak tanır. Bu bilgiyi toplayıp paylaşabileceğimiz bir yer sağlasak, halkımız elbette refaha kavuşur...</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_391">
-			<Text>Benzer zihinleri ve kaynakları bölgelerde yoğunlaştırarak şehrimizin büyümesini uzmanlaştırıyoruz. En fazla faydayı sağlamak için bu bölgelerin yerini dikkatle seçmeliyiz.</Text>
+			<Text>Benzer zihinleri ve kaynakları bölgelerde yoğunlaştırarak şehrimizin büyümesini uzmanlaştırıyoruz. En fazla faydayı sağlamak için bu karolerin yerini dikkatle seçmeliyiz.</Text>
 		</Row>
 		<Row Tag="ADVISOR_LINE_FTUE_40_ALT">
 			<Text>Uygarlığımızın en büyük zihinleri şimdiden bu Kampüs'ün tamamlanmasını hevesle bekliyor...</Text>

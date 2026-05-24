@@ -2178,7 +2178,7 @@
 		</Row>
 		<!-- Resource class names -->
 		<Row Tag="LOC_RESOURCECLASS_BONUS_NAME">
-			<Text>Bonus</Text>
+			<Text>bonus</Text>
 		</Row>
 		<Row Tag="LOC_RESOURCECLASS_LUXURY_NAME">
 			<Text>Lüks</Text>

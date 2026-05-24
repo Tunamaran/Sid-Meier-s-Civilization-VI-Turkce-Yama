@@ -305,7 +305,7 @@
 			<Text>Taş Ocaklarından +2 [ICON_Faith] İnanç.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>Lüks ve Bonus kaynakların üzerindeki Maden Ocaklarından +2 [ICON_Faith] İnanç.</Text>
+			<Text>Lüks ve bonus kaynakların üzerindeki Maden Ocaklarından +2 [ICON_Faith] İnanç.</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
 			<Text>Stratejik kaynakların üzerindeki Maden Ocaklarından +1 [ICON_Production] Üretim.</Text>

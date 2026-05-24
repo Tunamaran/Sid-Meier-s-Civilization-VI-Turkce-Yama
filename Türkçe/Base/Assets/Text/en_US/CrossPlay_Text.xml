@@ -51,16 +51,16 @@
 			<Text>Davet İstendi</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EOS_PLAYER_INVITE_TEXT">
-			<Text>{1_PlayerName} sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?</Text>
+			<Text>{1_PlayerName} sizi çok oyunculu bir oyuna davet etti. Bu oyuna katılmak istiyor musunuz?</Text>
 		</Row>
 		<Row Tag="TXT_KEY_EOS_PLAYER_INVITE_TEXT_IN_GAME">
-			<Text>{1_PlayerName} sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?  Mevcut ilerlemeniz kaydedilmeyecektir.</Text>
+			<Text>{1_PlayerName} sizi çok oyunculu bir oyuna davet etti. Bu oyuna katılmak istiyor musunuz? Mevcut ilerlemeniz kaydedilmeyecektir.</Text>
 		</Row>
     <Row Tag="TXT_KEY_EOS_INVITE_TEXT">
-      <Text>Bir arkadaşınız sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?</Text>
+      <Text>Bir arkadaşınız sizi çok oyunculu bir oyuna davet etti. Bu oyuna katılmak istiyor musunuz?</Text>
     </Row>
     <Row Tag="TXT_KEY_EOS_INVITE_TEXT_IN_GAME">
-      <Text>Bir arkadaşınız sizi çok oyunculu bir oyuna davet etti.  Bu oyuna katılmak istiyor musunuz?  Mevcut ilerlemeniz kaydedilmeyecektir.</Text>
+      <Text>Bir arkadaşınız sizi çok oyunculu bir oyuna davet etti. Bu oyuna katılmak istiyor musunuz? Mevcut ilerlemeniz kaydedilmeyecektir.</Text>
     </Row>
 	</EnglishText>
 </GameData>

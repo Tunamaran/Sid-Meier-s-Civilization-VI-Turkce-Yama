@@ -614,7 +614,7 @@
 			<Text>+1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_AUXILIARY_SHIPS_DESCRIPTION">
-			<Text>Dost bölge dışında iyileşebilir.</Text>
+			<Text>Dost karo dışında iyileşebilir.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_CONVOY_DESCRIPTION">
 			<Text>Düzen halindeyken +10 [ICON_Strength] Muharebe Gücü.</Text>
@@ -624,7 +624,7 @@
 		</Row>
 		<!--Naval Ranged-->
 		<Row Tag="LOC_PROMOTION_SUPPLY_FLEET_DESCRIPTION">
-			<Text>Dost bölge dışında iyileşebilir.</Text>
+			<Text>Dost karo dışında iyileşebilir.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_LINE_OF_BATTLE_DESCRIPTION">
 			<Text>Deniz birliklerine karşı +7 [ICON_Strength] Muharebe Gücü.</Text>
@@ -664,7 +664,7 @@
 			<Text>Saldırdıktan sonra iyileşebilir.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_SUPER_CARRIER_DESCRIPTION">
-			<Text>Dost bölge dışında iyileşebilir.</Text>
+			<Text>Dost karo dışında iyileşebilir.</Text>
 		</Row>
 		<!--Naval Raider-->
 		<Row Tag="LOC_PROMOTION_LOOT_DESCRIPTION">
@@ -718,7 +718,7 @@
 		</Row>
 		<!--Warrior Monk-->
 		<Row Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_DESCRIPTION">
-			<Text>2x Kanatlama Bonusu.</Text>
+			<Text>2x Kanatlama bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_DESCRIPTION">
 			<Text>Bu birimi yalnızca bitişik düşman birimleri ortaya çıkarabilir.</Text>

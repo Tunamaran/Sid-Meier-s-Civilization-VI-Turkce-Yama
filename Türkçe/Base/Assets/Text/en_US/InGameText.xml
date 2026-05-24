@@ -470,7 +470,7 @@
 			<Text>Halkınız için bir Din seçmelisiniz.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CLAIM_GREAT_PERSON_TOOLTIP">
-			<Text>Bir Büyük Şahsiyet kazandınız ve onu kabul edip etmemeye karar vermelisiniz.</Text>
+			<Text>Bir Büyük Kişi kazandınız ve onu kabul edip etmemeye karar vermelisiniz.</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_CHOOSE_ESCAPE_ROUTE_TOOLTIP">
 			<Text>Casusunuz tespit edildi! Yerel polis güçleri peşinizde. Bir kaçış rotası seçin.</Text>
@@ -729,7 +729,7 @@
 			<Text>+{1_Value} Barbarlara Karşı Avantaj</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_FRIENDLY_TERRITORY_BONUS">
-			<Text>+{1_Value} Dost Bölge</Text>
+			<Text>+{1_Value} Dost Karo</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_FORTIFIED_DEFENSE_DESC">
 			<Text>+{1_Value} Tahkimli Savunma</Text>
@@ -741,10 +741,10 @@
 			<Text>-{1_Value} Tahkimatlara Karşı Daha Az Etkili</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_FLANKING_BONUS_DESC">
-			<Text>+{1_Value} Kanatlama Bonusu</Text>
+			<Text>+{1_Value} Kanatlama bonusu</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_LUXURY_ATTACK_BONUS_DESC">
-			<Text>+{1_Value} Lüks Başına Saldırı Bonusu</Text>
+			<Text>+{1_Value} Lüks Başına Saldırı bonusu</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_NUMBER_MILITARY_POLICIES_BONUS_DESC">
 			<Text>+{1_Value} Yerleşik Askeri Politikalardan</Text>
@@ -774,7 +774,7 @@
 			<Text>+{1_Value} Dış Etkilerden</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_SUPPORT_BONUS_DESC">
-			<Text>+{1_Value} Destek Bonusu</Text>
+			<Text>+{1_Value} Destek bonusu</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_AIR_SUPPORT_BONUS_DESC">
 			<Text>+{1_Value} Destekleyen Hava {2_UnitNum : plural 1?Birim; other?Birimler;}</Text>
@@ -810,7 +810,7 @@
 			<Text>Önerilen</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_TRAIT_KILLER_OF_CYRUS">
-			<Text>Yaralı birimlere karşı +{1_Value} Bonus.</Text>
+			<Text>Yaralı birimlere karşı +{1_Value} bonus.</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_PREVIEW_CAPTURE_CHANCE">
 			<Text>%{1_Amount} düşmanı ele geçirme şansı.</Text>
@@ -945,7 +945,7 @@
 			<Text>[COLOR_RED]Bu, Büyük Kişiyi tüketecektir.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_GREAT_PERSON_WILL_INVALIDATE_BUILDS">
-			<Text>[COLOR_RED]Bundan sonra, Büyük Kişi herhangi bir bölge iyileştirmesi inşa edemeyecektir.[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]Bundan sonra, Büyük Kişi herhangi bir karo iyileştirmesi inşa edemeyecektir.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_HUD_UNIT_ACTION_REQUIRES_NO_GREAT_PERSON_ACTIVATION">
 			<Text>Bu Büyük Kişi, Eylem Haklarından birini zaten kullandığı için herhangi bir şey inşa edemez.</Text>
@@ -1250,7 +1250,7 @@
 			<Text>Suyun Sağladığı Konut:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_GREAT_PEOPLE">
-			<Text>Büyük Şahsiyetlerden Konut:</Text>
+			<Text>Büyük Kişilerden Konut:</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_HOUSING_FROM_STARTING_ERA">
 			<Text>Başlangıç Çağından Konut:</Text>
@@ -1277,7 +1277,7 @@
 			<Text>Kaybedilme Süresi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_SPECIALISTS">
-			<Text>Şu anda bu bölgede {1_num} / {2_maxNum} uzman çalışmaktadır.</Text>
+			<Text>Şu anda bu karoda {1_num} / {2_maxNum} uzman çalışmaktadır.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_MAXIMIZE_SPECIFIC_YIELDS">
 			<Text>Şehirdeki Belirli Getirileri En Üst Düzeye Çıkar</Text>
@@ -1319,7 +1319,7 @@
 			<Text>Henüz hiçbir Harika inşa edilmemiştir.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OTHER_GROWTH_BONUSES">
-			<Text>Diğer Büyüme Bonusları</Text>
+			<Text>Diğer Büyüme bonusları</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_OWNER">
 			<Text>Sahip: {1_Owner}</Text>
@@ -1358,7 +1358,7 @@
 			<Text>Yeni parsel satın al: </Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_PURCHASE_TILE">
-			<Text>Bölge Satın Al</Text>
+			<Text>Karo Satın Al</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_QUEUE">
 			<Text>Sıra</Text>
@@ -1376,7 +1376,7 @@
 			<Text>Dindar Vatandaşlar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS_NUMBER">
-			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? Vatandaş; other? Vatandaşlar;}</Text>
+			<Text>[SIZE:22]{1_Amt}[SIZE:14] {2_ReligionName} {1_Amt : plural 1? Vatandaş; other? Vatandaşlar;}</Text>
 		</Row>
 		<Row Tag="LOC_HUD_CITY_REQUIRED">
 			<Text>Gerekli</Text>
@@ -1502,10 +1502,10 @@
 			<Text>Sahibi: {1_PlayerName}</Text>
 		</Row>
 		<Row Tag="LOC_MINIMAP_UNCLAIMED_TOOLTIP">
-			<Text>Sahipsiz Bölge</Text>
+			<Text>Sahipsiz Karo</Text>
 		</Row>
 		<Row Tag="LOC_MINIMAP_FOG_OF_WAR_TOOLTIP">
-			<Text>Keşfedilmemiş Bölge</Text>
+			<Text>Keşfedilmemiş Karo</Text>
 		</Row>
 		<Row Tag="LOC_ACTION_PANEL_NEEDS_BELIEF_TOOLTIP">
 			<Text>Din'iniz için yeni bir İnanç açtınız.</Text>
@@ -1626,7 +1626,7 @@
 			<Text>Buraya bir şehir kurmak istiyor musunuz?</Text>
 		</Row>
 		<Row Tag="LOC_FOUND_CITY_WILL_REMOVE_FEATURE">
-			<Text>Bu, bu bölgedeki {1_Feature} özelliğini kaldıracaktır.</Text>
+			<Text>Bu, bu karodaki {1_Feature} özelliğini kaldıracaktır.</Text>
 		</Row>
 		<!-- TODO: Add reason strings here -->
 		<Row Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">
@@ -2586,7 +2586,7 @@
 			<Text>Hükümet</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_HERITAGE_BONUSES">
-			<Text>Miras Bonusları</Text>
+			<Text>Miras bonusları</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_HERITAGE_BONUS_NEXT">
 			<Text>bir {2_Government} içinde {1_Turn} daha {1_Turn : plural 1?tur; other?tur;}</Text>
@@ -3225,10 +3225,10 @@
 			<Text>Değiştiricilerden +{1_Amount} hücre menzili</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_INHERENT_BONUS">
-			<Text>Doğal Bonus</Text>
+			<Text>Doğal bonus</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
-			<Text>Miras Bonusu</Text>
+			<Text>Miras bonusu</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_INFLUENCE_BONUS">
 			<Text>Etki Üretimi</Text>
@@ -3288,7 +3288,7 @@
 			<Text>Açar:</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BUILDING_CITIZEN_YIELDS_HEADER">
-			<Text>Vatandaş Getirileri (bu bölgedeki vatandaş başına):</Text>
+			<Text>Vatandaş Getirileri (bu karodaki vatandaş başına):</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_DISTRICT_CITIZEN_YIELDS_HEADER">
 			<Text>Vatandaş Getirileri (vatandaş başına):</Text>
@@ -3447,7 +3447,7 @@
 			<Text>Lüks Kaynak</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_BONUS_RESOURCE">
-			<Text>Bonus Kaynak</Text>
+			<Text>bonus Kaynak</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_STRATEGIC_RESOURCE">
 			<Text>Stratejik Kaynak</Text>
@@ -3833,7 +3833,7 @@
 			<Text>{1_CivName} için Din</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_MY_RELIGION">
-			<Text>[COLOR_LIGHTBLUE]DİNİM:[ENDCOLOR]   {1_ReligionName}</Text>
+			<Text>[COLOR_LIGHTBLUE]DİNİM:[ENDCOLOR] {1_ReligionName}</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NO_RELIGION">
 			<Text>Henüz bir din kurulmamış</Text>
@@ -3845,7 +3845,7 @@
 			<Text>[COLOR_LIGHTBLUE]TÜM DİN İNANÇLARI:[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_LABEL">
-			<Text>[COLOR_LIGHTBLUE]SONRAKİ ADIM:[ENDCOLOR]  {1_NextStepText}</Text>
+			<Text>[COLOR_LIGHTBLUE]SONRAKİ ADIM:[ENDCOLOR] {1_NextStepText}</Text>
 		</Row>
 		<Row Tag="LOC_RELIGIONPANEL_NEXT_STEP_FOUND_PANTHEON">
 			<Text>Bir Panteon kurmak için {1_Number} [ICON_Faith] İnanç biriktirin.</Text>
@@ -4433,7 +4433,7 @@
 			<Text>Keşif</Text>
 		</Row>
 		<Row Tag="LOC_CATEGORY_GREAT_PEOPLE_NAME">
-			<Text>Büyük Şahsiyet</Text>
+			<Text>Büyük Kişi</Text>
 		</Row>
 		<Row Tag="LOC_CATEGORY_MILITARY_NAME">
 			<Text>Askeri</Text>
@@ -4496,10 +4496,10 @@
 			<Text>Mevcut Görevler:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_BONUSES">
-			<Text>{1_CityStateName} Şehir Devletinin Bonusları</Text>
+			<Text>{1_CityStateName} Şehir Devletinin bonusları</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_BONUSES_EARNED">
-			<Text>Kazanılan Bonuslar:</Text>
+			<Text>Kazanılan bonuslar:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_CITY_STATE">
 			<Text>Şehir Devleti</Text>
@@ -4593,7 +4593,7 @@
 			<Text>Hami:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_PATRON_BONUS">
-			<Text>{1_CityStateName} şehir devletine Hamilik Bonusu:</Text>
+			<Text>{1_CityStateName} şehir devletine Hamilik bonusu:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_QUESTS">
 			<Text>Görevler:</Text>
@@ -4617,7 +4617,7 @@
 			<Text>Ödül:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SCIENCE_BONUS">
-			<Text>Bilim Bonusu {1_num}</Text>
+			<Text>Bilim bonusu {1_num}</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SCIENTIFIC_QUEST">
 			<Text>Bilimsel Görev</Text>
@@ -4635,16 +4635,16 @@
 			<Text>Süzeren</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_BONUSES">
-			<Text>Süzeren Bonusları</Text>
+			<Text>Süzeren bonusları</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_ENVOYS">
 			<Text>3 [ICON_Envoy] Elçi ve diğer tüm uygarlıklardan daha fazla:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_UNIQUE_BONUS">
-			<Text>{1_CityStateName} Eşsiz Bonusu:</Text>
+			<Text>{1_CityStateName} Eşsiz bonusu:</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
-			<Text>Süzeren Diplomasi Bonusu:[NEWLINE][ICON_Bolt]Şehir devleti, diğer oyuncularla savaşta ve barışta sizi takip eder.[NEWLINE][ICON_Bolt]Şehir devleti toprakları dost bölge haline gelir. Birimleriniz burada hareket edebilir, iyileşebilir ve yükseltme yapabilir.[NEWLINE][ICON_Bolt]İşçi birimleriniz şehir devleti bölgelerini iyileştirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin etrafındaki 3 bölgeyi görürsünüz.[NEWLINE][ICON_Bolt][ICON_Gold] Altın ödeyerek şehir devletinin ordusunun geçici kontrolünü ele geçirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin tüm kaynaklarının sahipliğini kazanırsınız.</Text>
+			<Text>Süzeren Diplomasi bonusu:[NEWLINE][ICON_Bolt]Şehir devleti, diğer oyuncularla savaşta ve barışta sizi takip eder.[NEWLINE][ICON_Bolt]Şehir devleti toprakları dost karo haline gelir. Birimleriniz burada hareket edebilir, iyileşebilir ve yükseltme yapabilir.[NEWLINE][ICON_Bolt]İşçi birimleriniz şehir devleti bölgelerini iyileştirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin etrafındaki 3 bölgeyi görürsünüz.[NEWLINE][ICON_Bolt][ICON_Gold] Altın ödeyerek şehir devletinin ordusunun geçici kontrolünü ele geçirebilir.[NEWLINE][ICON_Bolt]Şehir devletinin tüm kaynaklarının sahipliğini kazanırsınız.</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATES_SUZERAIN_NO_RESOURCES_AVAILABLE">
 			<Text>(Şu anda mevcut değil)</Text>
@@ -4711,7 +4711,7 @@
 			<Text>Biyografi</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CLAIMED">
-			<Text>Bu Büyük Şahsiyet zaten kazanıldı!</Text>
+			<Text>Bu Büyük Kişi zaten kazanıldı!</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_CONTRIBUTES_GREAT_WORK">
 			<Text>Büyük Eser Sunar:</Text>
@@ -4723,7 +4723,7 @@
 			<Text>Fazla Puanlar</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_GREAT_PERSON">
-			<Text>Büyük Şahsiyet:</Text>
+			<Text>Büyük Kişi:</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PEOPLE_NONE_AVAILABLE">
 			<Text>Mevcut Yok</Text>
@@ -5024,13 +5024,13 @@
 			<Text>Bu yuva, aşağıdaki türde Büyük Eserler sergileyebilir:[NEWLINE]{1_works}</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_MISMATCHED_THEME">
-			<Text>{1_type} türündeki eser bu Müze'nin temasıyla uyuşmuyor. Bonusu almak için farklı Büyük Sanatçılardan {2_type} türünde eser ekleyin.</Text>
+			<Text>{1_type} türündeki eser bu Müze'nin temasıyla uyuşmuyor. bonusu almak için farklı Büyük Sanatçılardan {2_type} türünde eser ekleyin.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_MISMATCHED_ERA">
-			<Text>{1_type} türündeki eser bu Müze'nin çağıyla uyuşmuyor. Bonusu almak için farklı uygarlıklardan {2_type} türünde eser ekleyin.</Text>
+			<Text>{1_type} türündeki eser bu Müze'nin çağıyla uyuşmuyor. bonusu almak için farklı uygarlıklardan {2_type} türünde eser ekleyin.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_DUPLICATE_ARTIFACT_CIVS">
-			<Text>Bu bina, {1_player} tarafından oluşturulmuş iki veya daha fazla Büyük Eser içeriyor. Bonusu almak için farklı uygarlıklardan {2_type} türünde eser ekleyin.</Text>
+			<Text>Bu bina, {1_player} tarafından oluşturulmuş iki veya daha fazla Büyük Eser içeriyor. bonusu almak için farklı uygarlıklardan {2_type} türünde eser ekleyin.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_THEME_SINGLE">
 			<Text>{1_type} türündeki eser bu müzenin temasını oluşturuyor.</Text>
@@ -5039,7 +5039,7 @@
 			<Text>{1_type} türü bu Müze'nin temasıyla uyumlu. Tema bonusunu almak için bu türden bir eser daha ekleyin.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_THEME_DUPLICATE_ARTIST">
-			<Text>Bu Müze'de bu sanatçıya ait bir Büyük Eser zaten bulunuyor. Bonusu almak için aynı temada ancak farklı sanatçılara ait Büyük Eserler ekleyin.</Text>
+			<Text>Bu Müze'de bu sanatçıya ait bir Büyük Eser zaten bulunuyor. bonusu almak için aynı temada ancak farklı sanatçılara ait Büyük Eserler ekleyin.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_WORKS_ART_MATCHED_THEME">
 			<Text>[COLOR:ResCultureLabelCS]{1_building} artık temalı. +%100 [ICON_Culture] Kültür ve [ICON_Tourism] Turizm.[ENDCOLOR]</Text>
@@ -5373,7 +5373,7 @@
 			<Text>Büyük Eserler[NEWLINE][NEWLINE]Oluşturduğunuz Büyük Eserleri Görüntüleyin veya Yönetin.</Text>
 		</Row>
 		<Row Tag="LOC_HUD_GREATPEOPLE_TOOLTIP">
-			<Text>Büyük Şahsiyetler[NEWLINE][NEWLINE]Mevcut [ICON_GreatPerson] Büyük Şahsiyetleri ve Bir [ICON_GreatPerson] Büyük Şahsiyet Edinme Yolundaki İlerlemenizi Görüntüleyin.</Text>
+			<Text>Büyük Kişiler[NEWLINE][NEWLINE]Mevcut [ICON_GreatPerson] Büyük Kişileri ve Bir [ICON_GreatPerson] Büyük Kişi Edinme Yolundaki İlerlemenizi Görüntüleyin.</Text>
 		</Row>
 		<!-- ==================== REPORTS =================== -->
 		<Row Tag="LOC_REPORTS_LIST_EMPIRE">
@@ -5410,7 +5410,7 @@
 			<Text>[ICON_GOSSIP_CULTURE] Kültür</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FILTER_GREATPERSON">
-			<Text>[ICON_GOSSIP_GREATPERSON] Büyük Şahsiyet</Text>
+			<Text>[ICON_GOSSIP_GREATPERSON] Büyük Kişi</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_FILTER_VICTORY">
 			<Text>[ICON_GOSSIP_VICTORY] Zafer</Text>
@@ -5458,13 +5458,13 @@
 			<Text>Miktar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_ADJACENCY_BONUS">
-			<Text>Komşuluk Bonusları</Text>
+			<Text>Komşuluk bonusları</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TITLE">
 			<Text>Raporlar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_CITY_STATE_BONUS">
-			<Text>Şehir Devleti Bonusu</Text>
+			<Text>Şehir Devleti bonusu</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_COLLAPSE">
 			<Text>Daralt</Text>
@@ -5602,16 +5602,16 @@
 			<Text>Açlık Çeken</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_BONUSES">
-			<Text>Bonuslar</Text>
+			<Text>bonuslar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURIES">
 			<Text>Lüks Mallar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURIES_AND_BONUSES">
-			<Text>Lüks Mallar ve Bonuslar</Text>
+			<Text>Lüks Mallar ve bonuslar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_LUXURY_RESOURCES_AND_BONUSES">
-			<Text>Lüks Kaynaklar ve Bonuslar</Text>
+			<Text>Lüks Kaynaklar ve bonuslar</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_NEEDED">
 			<Text>{1_amount} / {2_max} gerekli.</Text>
@@ -5689,7 +5689,7 @@
 			<Text>Şehir Devleti</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_MISC_RESOURCE_SOURCE">
-			<Text>Oynanış Bonusları</Text>
+			<Text>Oynanış bonusları</Text>
 		</Row>
 		<Row Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
 			<Text>İthal Edilen</Text>
@@ -5752,7 +5752,7 @@
 			<Text>Diğer Kaynaklar</Text>
 		</Row>
 		<Row Tag="LOC_REPORTS_BONUS_RESOURCES">
-			<Text>Bonus Kaynaklar</Text>
+			<Text>bonus Kaynaklar</Text>
 		</Row>
 		<Row Tag="LOC_REPORTS_SHOW_CITYSTATES">
 			<Text>Şehir devletlerini göster</Text>
@@ -5864,7 +5864,7 @@
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Süzereni olduğunuz şehir devletlerinden</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Toplanan Büyük Şahsiyetlerden</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Toplanan Büyük Kişilerden</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ANARCHY">
 			<Text>Anarşi nedeniyle kültür üretilemiyor.</Text>
@@ -5891,7 +5891,7 @@
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Süzereni olduğunuz şehir devletlerinden</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) İşe alınan Büyük Şahsiyetlerden</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) İşe alınan Büyük Kişilerden</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_FROM_ANARCHY">
 			<Text>Anarşi nedeniyle [ICON_Gold] Altın yok.</Text>
@@ -5936,7 +5936,7 @@
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) Süzereni olduğunuz şehir devletlerinden</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
-			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) İşe alınan Büyük Şahsiyetlerden</Text>
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) İşe alınan Büyük Kişilerden</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
 			<Text>Binalardan {Value : number -#.#;+#.#} (bakım maliyeti)</Text>
@@ -5954,7 +5954,7 @@
 			<Text>Bölgelerden {Value : number -#.#;+#.#}</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_DISTRICT">
-			<Text>{1_DistrictName} bölgesinden {Value : number -#.#;+#.#} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?bölge; other?bölge;})</Text>
+			<Text>{1_DistrictName} bölgesinden {Value : number -#.#;+#.#} ({2_Maintenance} [ICON_Gold] * {3_Count} {3_Count: plural 1?karo; other?karo;})</Text>
 		</Row>
 		<Row Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_UNITS">
 			<Text>Birliklerden {Value : number -#.#;+#.#}</Text>
@@ -6096,7 +6096,7 @@
 			<Text>(Yağmalandı)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_ADJACENCY_TEXT">
-			<Text>(Komşuluk Bonusu)</Text>
+			<Text>(Komşuluk bonusu)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_IMPASSABLE_TEXT">
 			<Text>Geçilemez</Text>
@@ -6114,10 +6114,10 @@
 			<Text>(genç orman)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY">
-			<Text>(Dost Bölge)</Text>
+			<Text>(Dost Karo)</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_2">
-			<Text>Dost Bölge</Text>
+			<Text>Dost Karo</Text>
 		</Row>
 		<Row Tag="LOC_TOOLTIP_PLOT_FRIENDLY_TERRITORY_3">
 			<Text>(Dost)</Text>
@@ -6195,7 +6195,7 @@
 			<Text>Diğer herkes mağlup oldu... Dolayısıyla siz galip geldiniz!</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_LEGACY_TOOLTIP">
-			<Text>Miras Bonusları, bir hükümetin imparatorluğunuzda ne kadar süre aktif kaldığına bağlıdır. Yeni bir hükümete geçtiğinizde, önceki hükümetten kazanılan Miras Bonusu uygarlığınızda kalır.</Text>
+			<Text>Miras bonusları, bir hükümetin imparatorluğunuzda ne kadar süre aktif kaldığına bağlıdır. Yeni bir hükümete geçtiğinizde, önceki hükümetten kazanılan Miras bonusu uygarlığınızda kalır.</Text>
 		</Row>
 		<!-- Tourism ToolTips -->
 		<Row Tag="LOC_TOURISM_LENS_TOOLTIP">
@@ -6208,13 +6208,13 @@
 			<Text>Uzak yakın demeden gezginler bu Harika'yı görmeye geliyor.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_DISTRICT_TOOLTIP">
-			<Text>Turistler bu bölgedeki görülmeye değer yerleri görmek için geliyor.[NEWLINE]</Text>
+			<Text>Turistler bu karodaki görülmeye değer yerleri görmek için geliyor.[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_HOLY_CITY_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}{2_ReligionName} dininin Kutsal Şehri, +{3_DistrictTourism} [ICON_Tourism] Turizm sağlıyor[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
-			<Text>{1_TourismInfo}Binalar veya Büyük Şahsiyetler tarafından eklenen Turizm: +{2_DistrictTourism} [ICON_Tourism] Turizm[NEWLINE]</Text>
+			<Text>{1_TourismInfo}Binalar veya Büyük Kişiler tarafından eklenen Turizm: +{2_DistrictTourism} [ICON_Tourism] Turizm[NEWLINE]</Text>
 		</Row>
 		<Row Tag="LOC_TOURISM_LENS_DISTRICT_YIELDS_TOOLTIP">
 			<Text>{1_TourismInfo}Bölge getirileri tarafından eklenen Turizm: +{2_DistrictTourism} [ICON_Tourism] Turizm[NEWLINE]</Text>
@@ -6381,7 +6381,7 @@
 		</Row>
 		<!-- Settlement recommendations tooltips - POOR-->
 		<Row Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_TOTAL_YIELD">
-			<Text>3 bölge içinde getiriler oldukça zayıf</Text>
+			<Text>3 karo içinde getiriler oldukça zayıf</Text>
 		</Row>
 		<Row Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_INNER_YIELD">
 			<Text>Bu bölgeye bitişik alanlardaki getiriler zayıf</Text>
@@ -6412,7 +6412,7 @@
 		</Row>
 		<!-- Settlement recommendations tooltips - GOOD-->
 		<Row Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_TOTAL_YIELD">
-			<Text>3 bölge içinde güçlü getiriler mevcut</Text>
+			<Text>3 karo içinde güçlü getiriler mevcut</Text>
 		</Row>
 		<Row Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_INNER_YIELD">
 			<Text>Bu bölgeye bitişik alanlarda güçlü getiriler var</Text>

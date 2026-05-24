@@ -707,7 +707,7 @@
 			<Text>Din Ekranını Aç/Kapat</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
-			<Text>Büyük Şahsiyetler Ekranını Aç/Kapat</Text>
+			<Text>Büyük Kişiler Ekranını Aç/Kapat</Text>
 		</Row>
 		<Row Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
 			<Text>Büyük Eserler Ekranını Aç/Kapat</Text>

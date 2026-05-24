@@ -102,13 +102,13 @@
 			<Text>{1_UnitName} biriminiz, bir düşman {2_Name} hedefine saldırarak {3_Num} hasar verdi!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_WAS_ATTACKED_BY_ENEMY">
-			<Text>{1_Name} bölgeniz, bir düşman {2_EnUName} tarafından saldırıya uğrayarak {3_Num} hasar aldı!</Text>
+			<Text>{1_Name} karonuz, bir düşman {2_EnUName} tarafından saldırıya uğrayarak {3_Num} hasar aldı!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT_DEFENSES">
 			<Text>{1_UnitName} biriminiz, bir düşman {2_Name} bölgesine saldırdı ({3_Num} {2_Name} hasarı, {4_Num} savunma hasarı)</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DEFENSE_WAS_ATTACKED_BY_ENEMY">
-			<Text>{1_Name} bölgeniz, bir düşman {2_EnUName} tarafından saldırıya uğradı ({3_Num} {2_Name} hasarı, {4_Num} savunma hasarı)</Text>
+			<Text>{1_Name} karonuz, bir düşman {2_EnUName} tarafından saldırıya uğradı ({3_Num} {2_Name} hasarı, {4_Num} savunma hasarı)</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_DISTRICT_DESTROYED_ENEMY">
 			<Text>{1_Name} bölgesi, bir düşman {2_EnUName} birimini bombardıman etti! ({3_Damage} hasar)</Text>

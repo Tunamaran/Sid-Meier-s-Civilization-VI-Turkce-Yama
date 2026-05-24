@@ -48,7 +48,7 @@
 			<Text>Kurulan Dinler</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_GREATPERSON_CREATED">
-			<Text>Kazanılan Büyük Şahsiyetler</Text>
+			<Text>Kazanılan Büyük Kişiler</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIPDESC_MAKE_DOW">
 			<Text>Savaş İlanları</Text>
@@ -123,7 +123,7 @@
 			<Text>{1_CityName} bir kuşatma ile karşı karşıya.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CITY_LIBERATED">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}}} {1_CivName : plural 1?az önce kurtarıp geri verdi; other?az önce kurtarıp geri verdiler;} {2_CityName} şehrini {LOC_GRAMMAR_CIVNAME &lt;&lt; {3_CivName}}'e.</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?az önce kurtarıp geri verdi; other?az önce kurtarıp geri verdiler;} {2_CityName} şehrini {LOC_GRAMMAR_CIVNAME &lt;&lt; {3_CivName}}'e.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_CITY_RAZED">
 			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?az önce yok etti; other?az önce yok ettiler;} {LOC_GRAMMAR_CIVNAME &lt;&lt; {2_CivName}}'den ele geçirdikleri bir şehri.</Text>

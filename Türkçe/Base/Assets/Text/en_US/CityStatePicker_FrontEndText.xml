@@ -14,7 +14,7 @@
       <Text>Şehirleriniz, harikalar inşa ederken +%15 [ICON_Production] Üretim kazanır.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_BUENOS_AIRES_BONUS">
-      <Text>Bonus Kaynaklarınız, her biri tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks Kaynaklar gibi davranır.</Text>
+      <Text>bonus Kaynaklarınız, her biri tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks Kaynaklar gibi davranır.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_CARTHAGE_BONUS">
       <Text>Ordugâh Bölgeleriniz, her biri +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
@@ -53,10 +53,10 @@
       <Text>Şehirleriniz, sanki hepsi bir Nehrin yanındaymış gibi sudan tam [ICON_Housing] Konut alır.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_NAN_MADOL_BONUS">
-      <Text>Kıyı veya Göl bölgelerindeki veya bu bölgelere bitişik bölgeleriniz +2 [ICON_Culture] Kültür sağlar.</Text>
+      <Text>Kıyı veya Göl bölgelerindeki veya bu karolere bitişik bölgeleriniz +2 [ICON_Culture] Kültür sağlar.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_PRESLAV_BONUS">
-      <Text>Hafif ve ağır süvari birimleriniz, tepe bölgelerinde savaşırken +5 [ICON_Strength] Güç kazanır.</Text>
+      <Text>Hafif ve ağır süvari birimleriniz, tepe karolarında savaşırken +5 [ICON_Strength] Güç kazanır.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_SEOUL_BONUS">
       <Text>Yeni bir çağa girdiğinizde, o çağdan rastgele 1 [ICON_TechBoosted] Buluş kazanırsınız.</Text>
@@ -103,7 +103,7 @@
       <Text>Her Ordugah Bölgesi binası için şehirlerde tur başına +2 Bağlılık kazanırsınız.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_STOCKHOLM_BONUS_XP1">
-      <Text>Bir binaya sahip bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
+      <Text>Bir binaya sahip bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_TORONTO_BONUS_XP1">
       <Text>Sanayi Bölgesi, Su Parkı ve Eğlence Kompleksi bölgelerinizin bölgesel etkileri 3 hücre daha uzağa ulaşır.</Text>
@@ -122,13 +122,13 @@
       <Text>Bologna</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_BOLOGNA_BONUS">
-      <Text>Bir binaya sahip bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Şahsiyet puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
+      <Text>Bir binaya sahip bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar (Tiyatro Meydanı bölgeleri için [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_CAHOKIA_FRONTEND_NAME">
       <Text>Cahokia</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_CAHOKIA_BONUS">
-      <Text>İşçileriniz artık Cahokia Höyükleri iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Cahokia Höyükleri +3 [ICON_GOLD] Altın sağlar. Şehirler, ilk Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Doğa Tarihi keşfedildiğinde şehirler, ikinci Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Feodalizm keşfedildiğinde her 2 bitişik Bölge için veya Değiştirilebilir Parçalar araştırıldığında her bitişik Bölge için +1 [ICON_FOOD] Besin sağlar. +1 [ICON_HOUSING] Konut sağlar. Kültürel Miras keşfedildiğinde fazladan bir [ICON_HOUSING] Konut kazanılır. Diğer Cahokia Höyüklerine bitişik inşa edilemez.</Text>
+      <Text>İşçileriniz artık Cahokia Höyükleri iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Cahokia Höyükleri +3 [ICON_GOLD] Altın sağlar. Şehirler, ilk Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Doğa Tarihi keşfedildiğinde şehirler, ikinci Cahokia Höyüğü iyileştirmesinden +1 [ICON_AMENITIES] Olanak kazanır. Feodalizm keşfedildiğinde her 2 bitişik Karo için veya Değiştirilebilir Parçalar araştırıldığında her bitişik Bölge için +1 [ICON_FOOD] Besin sağlar. +1 [ICON_HOUSING] Konut sağlar. Kültürel Miras keşfedildiğinde fazladan bir [ICON_HOUSING] Konut kazanılır. Diğer Cahokia Höyüklerine bitişik inşa edilemez.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_CARDIFF_FRONTEND_NAME">
       <Text>Cardiff</Text>
@@ -171,7 +171,7 @@
       <Text>Size, keşfettiğiniz ancak iyileştirmediğiniz her Stratejik kaynaktan tur başına 2 adet sağlar.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_ARMAGH_BONUS_XP2">
-      <Text>İşçileriniz artık Manastır iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] İnanç sağlar. Bu karoda, aynı turda saldırmamış dost dinî birime +15 can yenileme sağlar. Her 2 bitişik Bölge için +1 [ICON_Faith] İnanç sağlar. +1 [ICON_HOUSING] Konut sağlar. Sömürgecilik keşfedildiğinde fazladan bir [ICON_HOUSING] Konut kazanılır. Başka bir Manastırın yanına inşa edilemez.</Text>
+      <Text>İşçileriniz artık Manastır iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Manastırlar +2 [ICON_Faith] İnanç sağlar. Bu karoda, aynı turda saldırmamış dost dinî birime +15 can yenileme sağlar. Her 2 bitişik Karo için +1 [ICON_Faith] İnanç sağlar. +1 [ICON_HOUSING] Konut sağlar. Sömürgecilik keşfedildiğinde fazladan bir [ICON_HOUSING] Konut kazanılır. Başka bir Manastırın yanına inşa edilemez.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_LA_VENTA_BONUS_XP2">
       <Text>İşçileriniz artık Dev Kafa iyileştirmesi inşa edebilir.[NEWLINE][NEWLINE]Dev Kafalar +2 [ICON_Faith] İnanç sağlar. Her 2 bitişik Yağmur Ormanı için veya Hümanizm keşfedildiğinde her bitişik Yağmur Ormanı için +1 [ICON_Faith] İnanç sağlar. Her 2 bitişik Orman için veya Hümanizm keşfedildiğinde her bitişik Orman için +1 [ICON_Faith] İnanç sağlar. Uçuş keşfedildiğinde [ICON_Faith] İnançtan [ICON_TOURISM] Turizm kazanılır. Kar veya Kar Tepe üzerine inşa edilemez.</Text>
@@ -258,13 +258,13 @@
       <Text>Caguana</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_CAGUANA_BONUS">
-      <Text>İşçileriniz artık Batey iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kültür. Bitişik her Bonus kaynağı ve Eğlence Kompleksi başına +1 [ICON_Culture] Kültür (Keşif keşfedildiğinde +2 [Icon_Culture] Kültür'e yükselir). Uçuş araştırıldıktan sonra [Icon_Tourism] Turizm sağlar. Başka bir Batey'in bitişiğine inşa edilemez.</Text>
+      <Text>İşçileriniz artık Batey iyileştirmeleri inşa edebilir.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kültür. Bitişik her bonus kaynağı ve Eğlence Kompleksi başına +1 [ICON_Culture] Kültür (Keşif keşfedildiğinde +2 [Icon_Culture] Kültür'e yükselir). Uçuş araştırıldıktan sonra [Icon_Tourism] Turizm sağlar. Başka bir Batey'in bitişiğine inşa edilemez.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_HUNZA_FRONTEND_NAME">
       <Text>Hunza</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_HUNZA_BONUS">
-      <Text>[ICON_TradeRoute] Ticaret Yollarınız, kat ettikleri her 5 bölge başına +1 [ICON_Gold] Altın kazandırır.</Text>
+      <Text>[ICON_TradeRoute] Ticaret Yollarınız, kat ettikleri her 5 karo başına +1 [ICON_Gold] Altın kazandırır.</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_LAHORE_FRONTEND_NAME">
       <Text>Lahor</Text>
@@ -288,7 +288,7 @@
       <Text>Vatikan Şehri</Text>
     </Row>
     <Row Tag="LOC_CIVILIZATION_VATICAN_CITY_BONUS">
-      <Text>[ICON_GreatPerson] Büyük Kişi'yi etkinleştirdiğinizde, bu kişi kurduğunuz (veya çoğunlukta olan) dinin 400 birim Dini Baskısını 10 bölge içindeki şehirlere yayar.</Text>
+      <Text>[ICON_GreatPerson] Büyük Kişi'yi etkinleştirdiğinizde, bu kişi kurduğunuz (veya çoğunlukta olan) dinin 400 birim Dini Baskısını 10 karo içindeki şehirlere yayar.</Text>
     </Row>
 	</FrontEndText>
 </GameData>

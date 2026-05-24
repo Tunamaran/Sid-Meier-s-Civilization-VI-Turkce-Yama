@@ -82,7 +82,7 @@
 			<Text>{1_Distance} bölge mesafesindeki bir kara askerî birliği üzerinde etkinleştir.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
-			<Text>{1_FeatureName} özelliğine sahip bir bölge veya bitişiğinde etkinleştir.</Text>
+			<Text>{1_FeatureName} özelliğine sahip bir karo veya bitişiğinde etkinleştir.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_NATURAL_WONDER">
 			<Text>Bir Doğa Harikası veya bitişiğinde etkinleştir.</Text>
@@ -141,10 +141,10 @@
 		</Row>
 		<!-- Generals -->
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>Büyük General'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük General'den +5 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
-			<Text>Büyük Amiral'den +5 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük Amiral'den +5 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_MOVEMENT_DESCRIPTION">
 			<Text>Büyük General'den +1 [ICON_Movement] Hareket.</Text>
@@ -153,25 +153,25 @@
 			<Text>Büyük Amiral'den +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
-			<Text>Klasik ve Orta Çağ kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Klasik ve Orta Çağ kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_LAND">
-			<Text>Orta Çağ ve Rönesans kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Orta Çağ ve Rönesans kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_LAND">
-			<Text>Rönesans ve Sanayi Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Rönesans ve Sanayi Çağı kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_LAND">
-			<Text>Sanayi Çağı ve Modern Çağ kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Sanayi Çağı ve Modern Çağ kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_LAND">
-			<Text>Modern Çağ ve Atom Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Modern Çağ ve Atom Çağı kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_LAND">
-			<Text>Atom Çağı ve Enformasyon Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Atom Çağı ve Enformasyon Çağı kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_LAND">
-			<Text>Enformasyon Çağı kara birimlerine 2 bölge içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>Enformasyon Çağı kara birimlerine 2 karo içinde +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_BOUDICA_ACTIVE">
 			<Text>Yakındaki Barbar birimlerini kontrolünüze geçirir.</Text>
@@ -210,7 +210,7 @@
 			<Text>Bir askeri kara birimine 1 terfi seviyesi ve +%75 muharebe deneyimi kazandırır.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MARINA_RASKOVA_ACTIVE">
-			<Text>Bu bölgedeki bölge +1 hava birimi yuvası kazanır.</Text>
+			<Text>Bu bölgedeki karo +1 hava birimi yuvası kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
 			<Text>Anında 1 terfi seviyesine sahip bir Piyade birimi oluşturur.</Text>
@@ -235,25 +235,25 @@
 		</Row>
 		<!-- Admirals -->
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_SEA">
-			<Text>2 bölge içindeki Klasik ve Orta Çağ deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Klasik ve Orta Çağ deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MEDIEVAL_SEA">
-			<Text>2 bölge içindeki Orta Çağ ve Rönesans dönemi deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Orta Çağ ve Rönesans dönemi deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_RENAISSANCE_SEA">
-			<Text>2 bölge içindeki Rönesans ve Sanayi Çağı deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Rönesans ve Sanayi Çağı deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INDUSTRIAL_SEA">
-			<Text>2 bölge içindeki Sanayi ve Modern Çağ deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Sanayi ve Modern Çağ deniz birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_MODERN_SEA">
-			<Text>2 bölge içindeki Modern ve Atom çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Modern ve Atom çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_ATOMIC_SEA">
-			<Text>2 bölge içindeki Atom ve Bilgi çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Atom ve Bilgi çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_INFORMATION_SEA">
-			<Text>2 bölge içindeki Bilgi çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
+			<Text>2 karo içindeki Bilgi çağı donanma birimlerine +5 [ICON_Strength] Muharebe Gücü ve +1 [ICON_Movement] Hareket.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_ARTEMISIA_ACTIVE">
 			<Text>Bir askeri donanma birimine 1 terfi seviyesi kazandırır.</Text>
@@ -265,7 +265,7 @@
 			<Text>Anında bir Dört Kürekli birimi yaratır.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LEIF_ERIKSON_ACTIVE">
-			<Text>Tüm donanma birimlerinin normal teknoloji gereksinimi olmadan okyanus bölgelerinde hareket etmesini sağlar.</Text>
+			<Text>Tüm donanma birimlerinin normal teknoloji gereksinimi olmadan okyanus karolarında hareket etmesini sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_ACTIVE">
 			<Text>50 [ICON_Gold] Altın kazandırır (Standart hızda). Askeri birimler deniz [ICON_TradeRoute] Ticaret Yollarını yağmalarken +%40 daha fazla ödül alır.</Text>
@@ -344,10 +344,10 @@
 			<Text>Bu bölgede bir Fabrika ve Atölye inşa eder. Fabrikalar +2 [ICON_Production] Üretim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_SMALL">
-			<Text>Bu şehir, sahip olduğu tüm bölgelere +{Amount} Çekicilik sağlar.</Text>
+			<Text>Bu şehir, sahip olduğu tüm karolara +{Amount} Çekicilik sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
-			<Text>Bu bölgenin bölgesel binaları {Amount} {Amount : plural 1?bölge; other?bölgeler;} daha uzağa erişir.</Text>
+			<Text>Bu bölgenin bölgesel binaları {Amount} {Amount : plural 1?karo; other?karolar;} daha uzağa erişir.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
 			<Text>Bu bölgenin bölgesel binaları +{Amount} [ICON_Production] Üretim sağlar.</Text>
@@ -371,7 +371,7 @@
 			<Text>Uzay Yarışı projesi inşasına {Amount} [ICON_Production] Üretim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CITY_APPEAL_LARGE">
-			<Text>Bu şehir, sahip olduğu tüm bölgelere +{Amount} Çekicilik sağlar.</Text>
+			<Text>Bu şehir, sahip olduğu tüm karolara +{Amount} Çekicilik sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_ENTERTAINMENT">
 			<Text>Bu bölgenin bölgesel binaları +{Amount} [ICON_Amenities] {Amount : plural 1?Olanak; other?Olanaklar;} sağlar.</Text>
@@ -387,7 +387,7 @@
 			<Text>{Amount} [ICON_Faith] İnanç kazanırsınız.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PLOT">
-			<Text>En yakın şehriniz bu bölgeyi topraklarına katar.</Text>
+			<Text>En yakın şehriniz bu karoyu topraklarına katar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_TINY">
 			<Text>{Amount : number #} [ICON_Gold] Altın kazanırsınız.</Text>

@@ -32,7 +32,7 @@
 			<Text>Birim Terfileri</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_GREATPEOPLE_TITLE">
-			<Text>Büyük Şahsiyetler</Text>
+			<Text>Büyük Kişiler</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_TECHNOLOGIES_TITLE">
 			<Text>Teknolojiler</Text>
@@ -158,7 +158,7 @@
 		</Row>
 
 		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_BONUS_NAME">
-			<Text>Bonus</Text>
+			<Text>bonus</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_RESOURCES_PAGEGROUP_LUXURY_NAME">
 			<Text>Lüks</Text>

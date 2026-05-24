@@ -287,7 +287,7 @@
 			<Text>Amazon</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
-			<Text>Yağmur Ormanı bölgeleri, Kampüs, Ticaret Merkezi, Kutsal Alan ve Tiyatro Meydanı bölgelerine +1 komşuluk bonusu sağlar ve olağan -1 yerine, komşu bölgelere +1 Çekicilik kazandırır.</Text>
+			<Text>Yağmur Ormanı bölgeleri, Kampüs, Ticaret Merkezi, Kutsal Alan ve Tiyatro Meydanı bölgelerine +1 komşuluk bonusu sağlar ve olağan -1 yerine, komşu karolara +1 Çekicilik kazandırır.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
 			<Text>Hanedan Döngüsü</Text>

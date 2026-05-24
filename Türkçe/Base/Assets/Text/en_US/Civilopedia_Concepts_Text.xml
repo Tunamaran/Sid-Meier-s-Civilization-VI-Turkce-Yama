@@ -30,7 +30,7 @@
 			<Text>Şehir Nereye Kurulmalı?</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Şehirler, bol miktarda [ICON_Food] Besin ve [ICON_Production] Üretim sunan, ayrıca Stratejik, Lüks ve Bonus kaynaklara erişimi olan konumlara kurulmalıdır. Bir şehri Nehir veya kıyı bölgesine inşa etmek genellikle iyi bir fikirdir; zira su kaynakları büyüyen bir [ICON_Citizen] Nüfus için hayati önem taşır. Tepeler üzerine kurulan şehirler savunma bonusu kazanır, bu da düşmanların onları ele geçirmesini zorlaştırır.</Text>
+			<Text>Şehirler, bol miktarda [ICON_Food] Besin ve [ICON_Production] Üretim sunan, ayrıca Stratejik, Lüks ve bonus kaynaklara erişimi olan konumlara kurulmalıdır. Bir şehri Nehir veya kıyı bölgesine inşa etmek genellikle iyi bir fikirdir; zira su kaynakları büyüyen bir [ICON_Citizen] Nüfus için hayati önem taşır. Tepeler üzerine kurulan şehirler savunma bonusu kazanır, bu da düşmanların onları ele geçirmesini zorlaştırır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
 			<Text>Bir Yerleşimci seçiliyken, ideal şehir konumları haritada bir simgeyle gösterilir. Ayrıca, ilk şehrinizden sonraki her Yerleşimci, size şehir için en iyi su kaynağının nerede olduğunu ve hangi bölgelerin kullanılamaz olduğunu gösteren Yerleşimci Merceği'ni görüntüleyecektir.</Text>
@@ -51,7 +51,7 @@
 			<Text>Besin</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_1">
-			<Text>Bir şehrin açlıktan ölmemek için her [ICON_Citizen] Vatandaş başına (başka bir deyişle "[ICON_Citizen] Nüfus" başına) tur başına 2 [ICON_Food] Besin üretmesi gerekir. Bir şehir [ICON_Food] Besini (ve diğer getirileri), [ICON_Citizen] Vatandaşlarını şehir çevresindeki toprakları "işlemek" üzere atayarak elde eder. Şehir, kendi sınırları içinde, şehre 3 kare mesafedeki ve başka bir şehir tarafından işlenmeyen her türlü bölgeyi işleyebilir. Şehirler, harikaların bulunduğu bölgeleri işleyemez.</Text>
+			<Text>Bir şehrin açlıktan ölmemek için her [ICON_Citizen] Vatandaş başına (başka bir deyişle "[ICON_Citizen] Nüfus" başına) tur başına 2 [ICON_Food] Besin üretmesi gerekir. Bir şehir [ICON_Food] Besini (ve diğer getirileri), [ICON_Citizen] Vatandaşlarını şehir çevresindeki toprakları "işlemek" üzere atayarak elde eder. Şehir, kendi sınırları içinde, şehre 3 kare mesafedeki ve başka bir şehir tarafından işlenmeyen her türlü karoyu işleyebilir. Şehirler, harikaların bulunduğu bölgeleri işleyemez.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_13_CHAPTER_CONTENT_PARA_2">
 			<Text>Kendi haline bırakıldığında şehir, [ICON_Food] Besin ihtiyacını karşılamak için gerektiği kadar [ICON_Citizen] Vatandaş atayacaktır.</Text>
@@ -159,7 +159,7 @@
 			<Text>Harikalar</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_1">
-			<Text>Harikalar, bir hücrenin tamamını kaplayan ve oynanış üzerinde önemli etkisi olan özel bir bina türüdür. Üretim Menüsü'nden birini inşa etmek üzere seçtiğinizde, tıpkı bir bölge inşa ederken olduğu gibi yerleştirme merceğine girersiniz. Çoğu harikanın belirli yerleştirme gereksinimleri vardır ve mercek hangi bölgelerin mevcut olduğunu vurgular. Tüm harikalar, bir Şehir Merkezi'ne 3 bölge mesafe içinde inşa edilmelidir. Bir şehirde bir harikayı tamamlarsanız, o şehir sınırlarını derhal iki bölge genişletecektir.</Text>
+			<Text>Harikalar, bir hücrenin tamamını kaplayan ve oynanış üzerinde önemli etkisi olan özel bir bina türüdür. Üretim Menüsü'nden birini inşa etmek üzere seçtiğinizde, tıpkı bir bölge inşa ederken olduğu gibi yerleştirme merceğine girersiniz. Çoğu harikanın belirli yerleştirme gereksinimleri vardır ve mercek hangi bölgelerin mevcut olduğunu vurgular. Tüm harikalar, bir Şehir Merkezi'ne 3 karo mesafe içinde inşa edilmelidir. Bir şehirde bir harikayı tamamlarsanız, o şehir sınırlarını derhal iki karo genişletecektir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_6_CHAPTER_CONTENT_PARA_2">
 			<Text>Her harika benzersizdir. Birçok uygarlık aynı harikayı inşa etmeye kalkışsa da, sadece onu ilk tamamlayan uygarlık faydalarından yararlanabilir. Harikayı zamanında tamamlayamayan uygarlıklara, [ICON_Production] Üretim'in bir kısmı ve bir miktar [ICON_Gold] Altın iade edilir.</Text>
@@ -237,10 +237,10 @@
 			<Text>Kaynaklar</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Kaynaklar, [ICON_Food] Besin, [ICON_Production] Üretim vb. gibi çeşitli getirilerin kaynaklarıdır ve bazıları bir uygarlığa başka özel bonuslar da sağlar. Belirli altıgenlerde ortaya çıkarlar. Bazıları oyunun başında görünürken, diğerlerini görmek için belirli teknolojilerin elde edilmesi gerekir. Bir kaynağı kullanmak için, uygarlığınızın sınırları içinde olmalı ve o altıgende uygun "iyileştirmeyi" inşa etmelisiniz. Üç tür kaynak vardır: Bonus, Lüks ve Stratejik.</Text>
+			<Text>Kaynaklar, [ICON_Food] Besin, [ICON_Production] Üretim vb. gibi çeşitli getirilerin kaynaklarıdır ve bazıları bir uygarlığa başka özel bonuslar da sağlar. Belirli altıgenlerde ortaya çıkarlar. Bazıları oyunun başında görünürken, diğerlerini görmek için belirli teknolojilerin elde edilmesi gerekir. Bir kaynağı kullanmak için, uygarlığınızın sınırları içinde olmalı ve o altıgende uygun "iyileştirmeyi" inşa etmelisiniz. Üç tür kaynak vardır: bonus, Lüks ve Stratejik.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_2">
-			<Text>Bonus kaynaklar, bir altıgenin [ICON_Food] Besin, [ICON_Gold] Altın veya [ICON_Production] Üretim çıktısını artırabilir. Bonus kaynaklar diğer uygarlıklarla ticarete konu olamaz. Bu kaynaklar İşçiler tarafından "hasat edilerek" kaynak kaldırılabilir ve altıgene sahip olan şehre anında, tek seferlik bir [ICON_Food] Besin veya [ICON_Production] Üretim miktarı sağlanabilir.</Text>
+			<Text>bonus kaynaklar, bir altıgenin [ICON_Food] Besin, [ICON_Gold] Altın veya [ICON_Production] Üretim çıktısını artırabilir. bonus kaynaklar diğer uygarlıklarla ticarete konu olamaz. Bu kaynaklar İşçiler tarafından "hasat edilerek" kaynak kaldırılabilir ve altıgene sahip olan şehre anında, tek seferlik bir [ICON_Food] Besin veya [ICON_Production] Üretim miktarı sağlanabilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_2_CHAPTER_CONTENT_PARA_3">
 			<Text>Lüks kaynaklar, medeniyetinize [ICON_Amenities] Olanaklar sağlayarak mutluluğu artırır ve bölgenin getiri çıktısına küçük bir bonus verir. Belirli bir lüks kaynağın yalnızca bir kaynağı [ICON_Amenities] Olanak sağlar.</Text>
@@ -375,7 +375,7 @@
 			<Text>Genel olarak, menzilli bir birim ile hedefi arasında Dağ gibi engeller bulunmamalıdır. Tepeler üzerindeki veya uçan birimler genellikle engel oluşturan arazinin üzerinden görebilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_TITLE">
-			<Text>Muharebe Bonusları</Text>
+			<Text>Muharebe bonusları</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_1">
 			<Text>Savaş yalnızca deneyimli ve iyi teçhizatlanmış olanların işi değildir. Askeri tarih, üstün taktikler, liderlik ve arazi avantajlarını kullanan savaşçının, sayıca üstün ve daha iyi donanımlı bir kuvveti defalarca mağlup edebileceğini göstermiştir. Civilization VI'da da durum farklı değildir.</Text>
@@ -450,7 +450,7 @@
 			<Text>Yollar</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Yollar, dünyada dolaşmanın önemli bir parçasıdır. Antik Çağ'dan itibaren Tüccar birimleri tarafından inşa edilen yollar, bir yol bölgesinden diğerine giderken bir bölgenin [ICON_Movement] Hareket maliyetini 1'e düşürerek işe başlar. Teknoloji ilerledikçe, daha iyi ve daha iyi yollar, hatta köprüler inşa etme yeteneğinin kilidini açacaksınız. Modern yollar, örneğin, bir yol bölgesinden diğerine giderken [ICON_Movement] Hareketi bölge başına yarım [ICON_Movement] Hareket puanına düşürür. Tüm yollar, birimlerin arazi kaynaklı hareket cezalarını görmezden gelmesini sağlar.</Text>
+			<Text>Yollar, dünyada dolaşmanın önemli bir parçasıdır. Antik Çağ'dan itibaren Tüccar birimleri tarafından inşa edilen yollar, bir yol bölgesinden diğerine giderken bir bölgenin [ICON_Movement] Hareket maliyetini 1'e düşürerek işe başlar. Teknoloji ilerledikçe, daha iyi ve daha iyi yollar, hatta köprüler inşa etme yeteneğinin kilidini açacaksınız. Modern yollar, örneğin, bir yol bölgesinden diğerine giderken [ICON_Movement] Hareketi karo başına yarım [ICON_Movement] Hareket puanına düşürür. Tüm yollar, birimlerin arazi kaynaklı hareket cezalarını görmezden gelmesini sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MOVEMENT_2_CHAPTER_CONTENT_PARA_2">
 			<Text>Yollar Tüccarlar tarafından inşa edilir, ancak Askeri Mühendisler tarafından manuel olarak da inşa edilebilir.</Text>
@@ -495,7 +495,7 @@
 			<Text>Buluş Anları</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Buluş anları, diğer adıyla "teknoloji sıçramaları", bir teknoloji üzerindeki araştırmanıza anında ve önemli bir ivme kazandırır. Bu sıçramaları oyunu doğal akışında oynarken elde edersiniz; yaptıklarınız ne tür Buluş anlarıyla karşılaşacağınızı belirler. Örneğin, kıyıya bir şehir kurmak Yelken Araştırması'nı, bir Mera oluşturmak ise At Biniciliği araştırmasını hızlandırır. Teknoloji Ağacı, her teknolojiyle ilişkili sıçramaları listeler ancak bu sıçramaları başka kaynaklardan da (Büyük Şahsiyetler, Araştırma Anlaşmaları veya takım için ortak araştırma gibi) elde edebilirsiniz.</Text>
+			<Text>Buluş anları, diğer adıyla "teknoloji sıçramaları", bir teknoloji üzerindeki araştırmanıza anında ve önemli bir ivme kazandırır. Bu sıçramaları oyunu doğal akışında oynarken elde edersiniz; yaptıklarınız ne tür Buluş anlarıyla karşılaşacağınızı belirler. Örneğin, kıyıya bir şehir kurmak Yelken Araştırması'nı, bir Mera oluşturmak ise At Biniciliği araştırmasını hızlandırır. Teknoloji Ağacı, her teknolojiyle ilişkili sıçramaları listeler ancak bu sıçramaları başka kaynaklardan da (Büyük Kişiler, Araştırma Anlaşmaları veya takım için ortak araştırma gibi) elde edebilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_SCIENCE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Teknoloji Ağacı</Text>
@@ -522,7 +522,7 @@
 			<Text>İlham Anları</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_3_CHAPTER_CONTENT_PARA_1">
-			<Text>İlham anları, diğer adıyla "yönetim bilimi sıçramaları", bir yönetim bilimi üzerindeki çalışmanıza anında ve önemli bir ivme kazandırır. Bu sıçramaları oyunu doğal akışında oynarken elde edersiniz; yaptıklarınız ne tür İlham anlarıyla karşılaşacağınızı belirler. Örneğin, bir harika inşa etmek Tiyatro ve Şiir araştırmanızı, herhangi bir bölge inşa etmek ise Devlet İş Gücü araştırmanızı hızlandırır. Yönetim Bilimleri Ağacı, her yönetim bilimiyle ilişkili sıçramaları listeler ancak bu sıçramaları başka kaynaklardan (Büyük Şahsiyetler veya takım için ortak araştırma gibi) da elde edebilirsiniz.</Text>
+			<Text>İlham anları, diğer adıyla "yönetim bilimi sıçramaları", bir yönetim bilimi üzerindeki çalışmanıza anında ve önemli bir ivme kazandırır. Bu sıçramaları oyunu doğal akışında oynarken elde edersiniz; yaptıklarınız ne tür İlham anlarıyla karşılaşacağınızı belirler. Örneğin, bir harika inşa etmek Tiyatro ve Şiir araştırmanızı, herhangi bir bölge inşa etmek ise Devlet İş Gücü araştırmanızı hızlandırır. Yönetim Bilimleri Ağacı, her yönetim bilimiyle ilişkili sıçramaları listeler ancak bu sıçramaları başka kaynaklardan (Büyük Kişiler veya takım için ortak araştırma gibi) da elde edebilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Yönetim Bilimleri Ağacı</Text>
@@ -534,7 +534,7 @@
 			<Text>Kültür Bombaları</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Kültür Bombası, bitişik bölgelerin kontrolünü ele geçirmenize ve bu bölgeleri başka bir oyuncuya ait olsa bile kendi imparatorluğunuza katmanıza olanak tanıyan bir eylemdir. Bu şekilde kazanılan bölgeler, genişleyen şehrinizin 3 kare yakınında olmalıdır. Halihazırda tamamlanmış bir bölge veya harika içeren bölgeler, Kültür Bombaları ile el değiştirmez. Tamamlanmamış bölge veya harika bölgeleri el değiştirecektir, ancak bu bölgelerdeki kısmen inşa edilmiş içerikler yok edilecektir.</Text>
+			<Text>Kültür Bombası, bitişik bölgelerin kontrolünü ele geçirmenize ve bu karoleri başka bir oyuncuya ait olsa bile kendi imparatorluğunuza katmanıza olanak tanıyan bir eylemdir. Bu şekilde kazanılan bölgeler, genişleyen şehrinizin 3 kare yakınında olmalıdır. Halihazırda tamamlanmış bir bölge veya harika içeren bölgeler, Kültür Bombaları ile el değiştirmez. Tamamlanmamış bölge veya harika bölgeleri el değiştirecektir, ancak bu karolerdeki kısmen inşa edilmiş içerikler yok edilecektir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Kültür Bombaları genellikle Avustralya veya Polonya gibi uygarlıkların eşsiz yetenekleriyle sınırlıdır. Kültür Bombalarını nasıl tetikleyeceğinize dair daha fazla ayrıntı için ilgili uygarlık girdilerine bakın.</Text>
@@ -834,7 +834,7 @@
 			<Text>Bir şehir devletinden elde ettiğiniz bonuslar, o şehir devletine kaç [ICON_Envoy] Elçi gönderdiğinize bağlıdır. [ICON_Envoy] Elçiler, zamanla etki puanlarıyla (Hükümet ve Politikalar'dan gelir) veya belirli Yönetim Bilimleri'ni tamamlayarak anında kazanılır. Kazanıldıktan sonra, hangi şehir devletlerine gönderileceklerini seçmeniz için bir seçenek sunulur. Birden fazla [ICON_Envoy] Elçiniz varsa, onları şehir devletleri arasında dilediğiniz gibi dağıtabilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Bir şehir devletine doğrudan savaş ilan etmek, orada bulunan tüm [ICON_Envoy] Elçilerinizi kaybetmenize neden olur. Aksi takdirde, [ICON_Envoy] Elçiler kalıcı olarak şehir devletinde kalır. Bir şehir devletindeki [ICON_Envoy] Elçiler tüm oyuncular tarafından görülür ve bunları yerleştirmek diplomatik sonuçlar doğurabilir. Kazanılan bonuslar, orada başka kimin [ICON_Envoy] Elçisi olduğuna bakılmaksızın, sahip olduğunuz [ICON_Envoy] Elçi sayısına göre belirlenir. Aynı türdeki şehir devletlerinin tümü aynı Tür Bonuslarını paylaşır. Bu bonuslar kümülatiftir; yani bir oyuncu bir şehir devletine daha fazla [ICON_Envoy] Elçi yerleştirdikçe, önceki bonusların üzerine eklenir. Bir şehir devletine yerleştirilen her [ICON_Envoy] Elçi, sınırlarını 1 karo genişletir.</Text>
+			<Text>Bir şehir devletine doğrudan savaş ilan etmek, orada bulunan tüm [ICON_Envoy] Elçilerinizi kaybetmenize neden olur. Aksi takdirde, [ICON_Envoy] Elçiler kalıcı olarak şehir devletinde kalır. Bir şehir devletindeki [ICON_Envoy] Elçiler tüm oyuncular tarafından görülür ve bunları yerleştirmek diplomatik sonuçlar doğurabilir. Kazanılan bonuslar, orada başka kimin [ICON_Envoy] Elçisi olduğuna bakılmaksızın, sahip olduğunuz [ICON_Envoy] Elçi sayısına göre belirlenir. Aynı türdeki şehir devletlerinin tümü aynı Tür bonuslarını paylaşır. Bu bonuslar kümülatiftir; yani bir oyuncu bir şehir devletine daha fazla [ICON_Envoy] Elçi yerleştirdikçe, önceki bonusların üzerine eklenir. Bir şehir devletine yerleştirilen her [ICON_Envoy] Elçi, sınırlarını 1 karo genişletir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_TITLE">
 			<Text>Süzeren</Text>
@@ -843,7 +843,7 @@
 			<Text>Bir şehir devletinde en fazla [ICON_Envoy] Elçiye sahip olan ve en az 3 [ICON_Envoy] Elçisi bulunan uygarlık, o şehir devletinin Süzeren'i olarak kabul edilir. En fazla bir Süzeren olabilir; eşitlik kabul edilmez. Bir şehir devletinde hiçbir uygarlığın [ICON_Envoy] Elçisi yoksa, Süzeren de yoktur. Süzeren, birkaç önemli avantaj elde eder:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_2">
-			<Text>Eşsiz Bonus: Süzeren'e verilen ve başka hiçbir şehir devletinin sağlamayacağı güçlü bir bonus.</Text>
+			<Text>Eşsiz bonus: Süzeren'e verilen ve başka hiçbir şehir devletinin sağlamayacağı güçlü bir bonus.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITYSTATES_5_CHAPTER_CONTENT_PARA_3">
 			<Text>{LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS}</Text>
@@ -921,7 +921,7 @@
 			<Text>Yönetim Bilimleri Ağacı aracılığıyla açılan hükümetler, çağlar ilerledikçe değişecektir. Başlangıçta yalnızca birkaç yuvaya sahip basit bir hükümetiniz olur. Ancak sonraki çağlara ulaştıkça farklı kombinasyonlarda daha fazla yuva açılır. Bunun da ötesinde, hükümetlerin kendilerine özgü özel bonusları vardır; örneğin Teokrasi hükümeti, kara birliklerini [ICON_Faith] İnanç ile satın almanıza olanak tanır ve aktifken [ICON_Faith] İnanç satın alımlarında indirim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Son olarak, tüm hükümetler, imparatorluğunuzda ne kadar süre aktif kaldıklarına bağlı olarak Miras Bonusları sağlar. Örneğin, Teokrasi hükümetini geride bırakmış olsanız bile, bu hükümetin imparatorluğunuzun tarihinde ne kadar süre aktif kaldığına bağlı olarak [ICON_Faith] İnanç indirimlerinden oluşan bir Miras Bonusu alırsınız. Hükümetinizi istediğiniz zaman değiştirebilirsiniz. Daha önce benimsenmiş bir hükümete geçerseniz, bir Anarşi durumuna girersiniz.</Text>
+			<Text>Son olarak, tüm hükümetler, imparatorluğunuzda ne kadar süre aktif kaldıklarına bağlı olarak Miras bonusları sağlar. Örneğin, Teokrasi hükümetini geride bırakmış olsanız bile, bu hükümetin imparatorluğunuzun tarihinde ne kadar süre aktif kaldığına bağlı olarak [ICON_Faith] İnanç indirimlerinden oluşan bir Miras bonusu alırsınız. Hükümetinizi istediğiniz zaman değiştirebilirsiniz. Daha önce benimsenmiş bir hükümete geçerseniz, bir Anarşi durumuna girersiniz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
 			<Text>Politikalar</Text>
@@ -954,7 +954,7 @@
 			<Text>Diplomatik: Bu politikalar, ilişki kurmaya güçlü bir ilgi duyan oyuncular için en iyisidir ve şehir devletleriyle bağları güçlendirmeye veya casusluk operasyonlarını iyileştirmeye yardımcı olabilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_5">
-			<Text>Joker: Bu politikalar, [ICON_GreatPerson] Büyük Şahsiyet üretim hızını artırır.</Text>
+			<Text>Joker: Bu politikalar, [ICON_GreatPerson] Büyük Kişi üretim hızını artırır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_5_CHAPTER_CONTENT_TITLE">
 			<Text>Anarşi</Text>
@@ -1065,16 +1065,16 @@
 			<Text>Nükleer Yıkım</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Bir atom silahı patlatıldığında, patlama yarıçapı içindeki tüm hücrelerde birden fazla olay meydana gelir. Etkilenen bölgelerde "çalışan" [ICON_Citizen] Vatandaşlar yok olur, etkilenen bölgeleri işgal eden birimler imha edilir ve tüm bölge iyileştirmeleri yağmalanır. Etkilenen bölgelerdeki tüm bölge ve binalar da yağmalanır ve yeniden kullanılmak üzere onarılmalıdır. Etkilenen tüm bölgeler radyoaktif serpinti ile kirlenir.</Text>
+			<Text>Bir atom silahı patlatıldığında, patlama yarıçapı içindeki tüm hücrelerde birden fazla olay meydana gelir. Etkilenen bölgelerde "çalışan" [ICON_Citizen] Vatandaşlar yok olur, etkilenen karolari işgal eden birimler imha edilir ve tüm karo iyileştirmeleri yağmalanır. Etkilenen bölgelerdeki tüm bölge ve binalar da yağmalanır ve yeniden kullanılmak üzere onarılmalıdır. Etkilenen tüm bölgeler radyoaktif serpinti ile kirlenir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_TITLE">
 			<Text>Nükleer Kirlenme</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Bir nükleer saldırıdan sonra, serpinti patlamadan etkilenen her bölgeyi kirletecektir. Turunu kirlenmiş bir bölgede bitiren herhangi bir birim, her tur 50 hasar alır. [ICON_Production] Üretim, binaları ve bölgeleri onarmak gibi kirlenme içeren bölgelerdeki hiçbir şeye uygulanamaz. Kirlenmiş bölgeler, kirlenme zamanlayıcısı dolana veya bölge "temizlenene" kadar şehir tarafından çalışılamaz.</Text>
+			<Text>Bir nükleer saldırıdan sonra, serpinti patlamadan etkilenen her karoyu kirletecektir. Turunu kirlenmiş bir bölgede bitiren herhangi bir birim, her tur 50 hasar alır. [ICON_Production] Üretim, binaları ve bölgeleri onarmak gibi kirlenme içeren bölgelerdeki hiçbir şeye uygulanamaz. Kirlenmiş bölgeler, kirlenme zamanlayıcısı dolana veya bölge "temizlenene" kadar şehir tarafından çalışılamaz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_NUKES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Nükleer kirlenme, etkilenen bölgelerden İşçi ve Askeri Mühendis birimleri tarafından "temizlenebilir". Kirlenmiş bir bölgeyi temizlemek 1 inşa hakkı tüketir. Kirlenmiş hücreleri temizleyebilen İşçi, Askeri Mühendis ve Roma Lejyonu birimleri, böyle bir hücrede turlarını bitirirlerse daha az hasar alırlar. Nükleer patlamadan doğrudan etkilenmeyen şehir bölgeleri normal şekilde çalışmaya devam edecek ve şehrin getirisine katkıda bulunacaktır.</Text>
+			<Text>Nükleer kirlenme, etkilenen karolarden İşçi ve Askeri Mühendis birimleri tarafından "temizlenebilir". Kirlenmiş bir bölgeyi temizlemek 1 inşa hakkı tüketir. Kirlenmiş hücreleri temizleyebilen İşçi, Askeri Mühendis ve Roma Lejyonu birimleri, böyle bir hücrede turlarını bitirirlerse daha az hasar alırlar. Nükleer patlamadan doğrudan etkilenmeyen şehir bölgeleri normal şekilde çalışmaya devam edecek ve şehrin getirisine katkıda bulunacaktır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TOURISM_NAME">
 			<Text>Turizm</Text>
@@ -1083,13 +1083,13 @@
 			<Text>Giriş</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_1_CHAPTER_CONTENT_PARA_1">
-			<Text>[ICON_Tourism] Turizm, bir Kültür Zaferi kazanmak için gereklidir. [ICON_Tourism] Turizm'i Büyük Eserler, Harikalar, Kutsal Şehirler, [ICON_GreatWork_Relic] Kutsal Emanetler, [ICON_GreatWork_Artifact] Tarihi Eserler, Sahil Tatil Beldeleri ve Milli Parklar aracılığıyla üretebilirsiniz. [ICON_Tourism] Turizm'inizi [ICON_TradeRoute] Ticaret Yolları, Açık Sınırlar, Büyük Şahsiyetler, Politikalar ve oyun sonundaki ortak (veya çatışan) hükümetlerle artırabilirsiniz.[NEWLINE][NEWLINE]Bir Harika inşa etmek, muhtemelen [ICON_Tourism] Turizm kazanmaya başlamanın ilk yollarından biri olacaktır. Her Harika, tur başına 2 [ICON_Tourism] Turizm sağlar; ayrıca, o Harikanın ilk kez kullanıma sunulduğu çağı geride bıraktığınız her çağ için fazladan 1 [ICON_Tourism] Turizm kazandırır. Öyle ki, Stonehenge gibi kadim bir Harika, oyunun sonlarına doğru tur başına 9 [ICON_Tourism] Turizm getirebilir.[NEWLINE][NEWLINE]Turizm, Dinî Turizm (Kutsal Bir Şehir oluşturmak ve Kutsal Emanetlerden gelen) ve Dinî Olmayan Turizm olarak ikiye ayrılır. Bazı Yönetim Bilimleri (Aydınlanma) ve Harikalar (Cristo Redentor), Dinî Turizm'inizin etkisini doğrudan etkiler.</Text>
+			<Text>[ICON_Tourism] Turizm, bir Kültür Zaferi kazanmak için gereklidir. [ICON_Tourism] Turizm'i Büyük Eserler, Harikalar, Kutsal Şehirler, [ICON_GreatWork_Relic] Kutsal Emanetler, [ICON_GreatWork_Artifact] Tarihi Eserler, Sahil Tatil Beldeleri ve Milli Parklar aracılığıyla üretebilirsiniz. [ICON_Tourism] Turizm'inizi [ICON_TradeRoute] Ticaret Yolları, Açık Sınırlar, Büyük Kişiler, Politikalar ve oyun sonundaki ortak (veya çatışan) hükümetlerle artırabilirsiniz.[NEWLINE][NEWLINE]Bir Harika inşa etmek, muhtemelen [ICON_Tourism] Turizm kazanmaya başlamanın ilk yollarından biri olacaktır. Her Harika, tur başına 2 [ICON_Tourism] Turizm sağlar; ayrıca, o Harikanın ilk kez kullanıma sunulduğu çağı geride bıraktığınız her çağ için fazladan 1 [ICON_Tourism] Turizm kazandırır. Öyle ki, Stonehenge gibi kadim bir Harika, oyunun sonlarına doğru tur başına 9 [ICON_Tourism] Turizm getirebilir.[NEWLINE][NEWLINE]Turizm, Dinî Turizm (Kutsal Bir Şehir oluşturmak ve Kutsal Emanetlerden gelen) ve Dinî Olmayan Turizm olarak ikiye ayrılır. Bazı Yönetim Bilimleri (Aydınlanma) ve Harikalar (Cristo Redentor), Dinî Turizm'inizin etkisini doğrudan etkiler.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_TITLE">
 			<Text>Büyük Eserler, Kutsal Emanetler ve Tarihi Eserler</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Büyük Eserler beş farklı türde gelir: [ICON_GreatWork_Writing] Yazı Eserleri, [ICON_GreatWork_Landscape] Sanat Eserleri ve [ICON_GreatWork_Music] Müzik Eserleri ([ICON_GreatPerson] Büyük Şahsiyetler tarafından üretilir), [ICON_GreatWork_Artifact] Tarihi Eserler (Arkeologlar tarafından Antik Sit Alanlarından çıkarılır) ve [ICON_GreatWork_Relic] Kutsal Emanetler (Şehit yeteneğine sahip Havariler, Teolojik Muharebede öldüklerinde bunları yaratır). (Kutsal Emanetler Kabile Köyleri, Kandy Şehir Devleti veya Jeanne D'Arc emekli olduğunda gibi diğer kaynaklardan da elde edilebilir.) Bir Büyük Eser elde edildiğinde, uygun binadaki veya Harikadaki bir Büyük Eser yuvasına yerleştirilebilir.</Text>
+			<Text>Büyük Eserler beş farklı türde gelir: [ICON_GreatWork_Writing] Yazı Eserleri, [ICON_GreatWork_Landscape] Sanat Eserleri ve [ICON_GreatWork_Music] Müzik Eserleri ([ICON_GreatPerson] Büyük Kişiler tarafından üretilir), [ICON_GreatWork_Artifact] Tarihi Eserler (Arkeologlar tarafından Antik Sit Alanlarından çıkarılır) ve [ICON_GreatWork_Relic] Kutsal Emanetler (Şehit yeteneğine sahip Havariler, Teolojik Muharebede öldüklerinde bunları yaratır). (Kutsal Emanetler Kabile Köyleri, Kandy Şehir Devleti veya Jeanne D'Arc emekli olduğunda gibi diğer kaynaklardan da elde edilebilir.) Bir Büyük Eser elde edildiğinde, uygun binadaki veya Harikadaki bir Büyük Eser yuvasına yerleştirilebilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_3_CHAPTER_CONTENT_TITLE">
 			<Text>Sahil Tatil Beldeleri</Text>
@@ -1122,7 +1122,7 @@
 			<Text>Uygarlığınız, başka bir uygarlıktan gelen ziyaretçi turistleri, o uygarlığın kendi yurt içi turistlerinden daha fazla çekiyorsa, o uygarlığa karşı kültürel olarak baskın durumdasınız demektir. Diğer tüm uygarlıklara karşı kültürel baskınlık elde eden ilk oyuncuya Kültür Zaferi verilir.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_5_CHAPTER_CONTENT_TITLE">
-			<Text>Temalar ve Tema Bonusu</Text>
+			<Text>Temalar ve Tema bonusu</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_TOURISM_5_CHAPTER_CONTENT_PARA_1">
 			<Text>Bazı binalar (Sanat Müzesi veya Arkeoloji Müzesi gibi), Büyük Eserleri temalandırarak [ICON_Culture] Kültür ve [ICON_Tourism] Turizm'de önemli bir artış elde etmenizi sağlar. Bir tema bonusu almak için, aynı türden [ICON_GreatWork_Landscape] Sanat Eserlerini farklı sanatçılardan veya aynı çağdan farklı uygarlıklara ait [ICON_GreatWork_Artifact] Tarihi Eserleri sergileyin.</Text>

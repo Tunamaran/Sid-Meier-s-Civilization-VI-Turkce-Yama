@@ -76,7 +76,7 @@
 			<Text>Elçi Gönder</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_SUMMARY">
-			<Text>Bir [ICON_Envoy] Elçi kazandınız. Bonuslar için bir şehir devletine gönderebilirsiniz.</Text>
+			<Text>Bir [ICON_Envoy] Elçi kazandınız. bonuslar için bir şehir devletine gönderebilirsiniz.</Text>
 		</Row>
 		<!-- Unit Notifications -->
 		<Row Tag="LOC_NOTIFICATION_UNIT_DIED">
@@ -371,7 +371,7 @@
 			<Text>{1_CityStateName} için bir görevi tamamladınız ve bir ödül kazandınız: {2_RewardText}.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_MESSAGE">
-			<Text>Şehir Devletiyle Tanışma Bonusu</Text>
+			<Text>Şehir Devletiyle Tanışma bonusu</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_CITYSTATE_MET_FIRST_SUMMARY">
 			<Text>{1_CityStateName} ile tanışan ilk büyük uygarlık olarak, orada {2_NumEnvoys} [ICON_Envoy] {2_NumEnvoys : plural 1?Elçi; other?Elçi;} kazandınız.</Text>

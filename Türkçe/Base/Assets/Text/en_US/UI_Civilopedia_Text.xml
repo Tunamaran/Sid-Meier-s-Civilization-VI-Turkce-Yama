@@ -176,7 +176,7 @@
 			<Text>Şehir Merkezi'ne bitişik olamaz</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
-			<Text>Komşuluk Bonusu</Text>
+			<Text>Komşuluk bonusu</Text>
 		</Row>
 		<Row Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
 			<Text>Vatandaş Getirileri (vatandaş başına)</Text>

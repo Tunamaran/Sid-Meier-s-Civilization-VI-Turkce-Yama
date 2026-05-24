@@ -3,7 +3,7 @@
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<BaseGameText>
 		<Row Tag="LOC_TECH_POTTERY_DESCRIPTION">
-			<Text>Çiftliklerle geliştirilmiş Bonus kaynakların hasat edilmesine olanak sağlar.</Text>
+			<Text>Çiftliklerle geliştirilmiş bonus kaynakların hasat edilmesine olanak sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
 			<Text>[ICON_RESOURCE_CATTLE] Sığır, [ICON_RESOURCE_SHEEP] Koyun ve [ICON_RESOURCE_DEER] Geyik hasat edilmesine olanak sağlar.</Text>
@@ -39,7 +39,7 @@
 			<Text>Mera iyileştirmeleri +1 [ICON_Food] Besin kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CASTLES_DESCRIPTION">
-			<Text>Bitişiklik nedeniyle Büyük Duvar iyileştirmesine Bonus [ICON_Culture] Kültür. Catherine de Medici (Kara Kraliçe) olarak oynarken ücretsiz bir Casus kazanın.</Text>
+			<Text>Bitişiklik nedeniyle Büyük Duvar iyileştirmesine bonus [ICON_Culture] Kültür. Catherine de Medici (Kara Kraliçe) olarak oynarken ücretsiz bir Casus kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
 			<Text>Balıkçı Teknesi iyileştirmesinden +2 [ICON_Gold] Altın. Tüm deniz ve denize açılmış birimler Okyanus bölgelerinde seyredebilir.</Text>
@@ -72,7 +72,7 @@
 			<Text>Kültür sağlayan tüm iyileştirmeler [ICON_Tourism] Turizm kazanır. Oluşan [ICON_Tourism] Turizm miktarı, iyileştirmenin [ICON_Culture] Kültür getirisine eşittir.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
-			<Text>Çiftlik iyileştirmelerini Mekanize Tarım'a yükseltir. Komşu olduğu her Çiftlik iyileştirmesi için +1 [ICON_Food] Besin Komşuluk Bonusu sağlar.</Text>
+			<Text>Çiftlik iyileştirmelerini Mekanize Tarım'a yükseltir. Komşu olduğu her Çiftlik iyileştirmesi için +1 [ICON_Food] Besin Komşuluk bonusu sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_STEEL_DESCRIPTION">
 			<Text>Kereste Fabrikası iyileştirmesinden +1 [ICON_Production] Üretim. Kentsel Savunma'yı açar, tüm şehirlerinize otomatik olarak 400 Tahkimat Gücü ve menzilli saldırı yeteneği verir. Önceki tüm sur iyileştirmeleri geçersiz hale gelir ve kuşatma destek birimleri artık etkili olmaz.</Text>
