@@ -32,7 +32,7 @@
 			<Text>Feitoria</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_FEITORIA_DESCRIPTION">
-			<Text>Portekiz'e özgü olan Nau'nun Feitoria inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+4 [ICON_Gold] Altın ve +1 [ICON_Production] Üretim sağlar. Portekiz'den bu şehre gönderilen ticaret yolları +4 [ICON_GOLD] Altın ve +1 [ICON_PRODUCTION] Üretim kazanır. Yalnızca Açık Sınırlara sahip olduğunuz diğer Uygarlıkların veya Şehir Devletlerinin topraklarındaki Lüks veya Bonus kaynaklarının yanına inşa edilebilir. Karaya bitişik bir Kıyı veya Göl bölgesine inşa edilmeli ve başka bir Feitoria'ya bitişik olmamalıdır. Feitorialar kaldırılamaz.</Text>
+			<Text>Portekiz'e özgü olan Nau'nun Feitoria inşa etme yeteneğinin kilidini açar.[NEWLINE][NEWLINE]+4 [ICON_Gold] Altın ve +1 [ICON_Production] Üretim sağlar. Portekiz'den bu şehre gönderilen ticaret yolları +4 [ICON_GOLD] Altın ve +1 [ICON_PRODUCTION] Üretim kazanır. Yalnızca Açık Sınırlara sahip olduğunuz diğer Uygarlıkların veya Şehir Devletlerinin topraklarındaki Lüks veya bonus kaynaklarının yanına inşa edilebilir. Karaya bitişik bir Kıyı veya Göl bölgesine inşa edilmeli ve başka bir Feitoria'ya bitişik olmamalıdır. Feitorialar kaldırılamaz.</Text>
 		</Row>
 		<!-- Portugal: Leader Info -->
 		<Row Tag="LOC_LEADER_JOAO_III_NAME">

@@ -65,7 +65,7 @@
 			<Text>Ölümsüz</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
-			<Text>Kılıç Ustası'nın yerini alan Makedon eşsiz yakın dövüş birimi. Bölgeleri kuşatırken +5 [ICON_Strength] Muharebe Gücü. %50 Ek Destek Bonusu.</Text>
+			<Text>Kılıç Ustası'nın yerini alan Makedon eşsiz yakın dövüş birimi. Bölgeleri kuşatırken +5 [ICON_Strength] Muharebe Gücü. %50 Ek Destek bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
 			<Text>Makedonya'ya özgü, Süvari'nin yerini alan ağır süvari birimi. Bir Büyük General'e komşu olduğunda fazladan +5 [ICON_Strength] Muharebe Gücü kazanır. Bir düşman birimini öldürdüğünde +5 Büyük General puanı verir. 1 adet ücretsiz Terfi ile başlar.</Text>
@@ -77,7 +77,7 @@
 			<Text>Bir bölgeyi kuşatırken +5</Text>
 		</Row>
 		<Row Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION">
-			<Text>Yakındaki Büyük General'den +5 Muharebe Bonusu</Text>
+			<Text>Yakındaki Büyük General'den +5 Muharebe bonusu</Text>
 		</Row>
 		<!-- Expansion 1 -->
 		<Row Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
@@ -87,7 +87,7 @@
 			<Text>Özgür Şehir olmayan bir şehri fethederken, fethedilen şehirdeki her Ordugâh veya Kampüs için bir [ICON_TechBoosted] Buluş ve her Kutsal Alan veya Tiyatro Meydanı için bir [ICON_CivicBoosted] İlham kazanırsınız.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
-			<Text>Bölgeleri kuşatırken +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet] +%50 Destek Bonusu.</Text>
+			<Text>Bölgeleri kuşatırken +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet] +%50 Destek bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
 			<Text>Bir Büyük General'e komşu olduğunda +5 [ICON_Strength] Muharebe Gücü.[NEWLINE][ICON_Bullet] Bir düşman birimini öldürdüğünde +5 Büyük General puanı.</Text>

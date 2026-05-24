@@ -302,76 +302,76 @@
 			<Text>Her Su Kemeri bölgesinde harikalar, binalar ve bölgeler üretirken ek +2 [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_NAME">
-			<Text>Dali Süzeren Bonusu</Text>
+			<Text>Dali Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_NAME">
-			<Text>Delhi Süzeren Bonusu</Text>
+			<Text>Delhi Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_NAME">
-			<Text>Gaochang Süzeren Bonusu</Text>
+			<Text>Gaochang Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_NAME">
-			<Text>Goa Süzeren Bonusu</Text>
+			<Text>Goa Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_NAME">
-			<Text>Heian Süzeren Bonusu</Text>
+			<Text>Heian Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_NAME">
-			<Text>Kaesong Süzeren Bonusu</Text>
+			<Text>Kaesong Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_NAME">
-			<Text>Kashgar Süzeren Bonusu</Text>
+			<Text>Kashgar Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_NAME">
-			<Text>Khotan Süzeren Bonusu</Text>
+			<Text>Khotan Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_NAME">
-			<Text>Kuça Süzeren Bonusu</Text>
+			<Text>Kuça Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_NAME">
-			<Text>Lamphun Süzeren Bonusu</Text>
+			<Text>Lamphun Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_NAME">
-			<Text>Lamuri Süzeren Bonusu</Text>
+			<Text>Lamuri Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_NAME">
-			<Text>Malabang Süzeren Bonusu</Text>
+			<Text>Malabang Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_NAME">
-			<Text>Pagan Süzeren Bonusu</Text>
+			<Text>Pagan Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_NAME">
-			<Text>Palembang Süzeren Bonusu</Text>
+			<Text>Palembang Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_NAME">
-			<Text>Semerkant Süzeren Bonusu</Text>
+			<Text>Semerkant Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_NAME">
-			<Text>Somnath Süzeren Bonusu</Text>
+			<Text>Somnath Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_NAME">
-			<Text>Thăng Long Süzeren Bonusu</Text>
+			<Text>Thăng Long Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_NAME">
-			<Text>Temasek Süzeren Bonusu</Text>
+			<Text>Temasek Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_NAME">
-			<Text>Tondo Süzeren Bonusu</Text>
+			<Text>Tondo Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_NAME">
-			<Text>Turfan Süzeren Bonusu</Text>
+			<Text>Turfan Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_NAME">
-			<Text>Ujjain Süzeren Bonusu</Text>
+			<Text>Ujjain Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_NAME">
-			<Text>Vijaya Süzeren Bonusu</Text>
+			<Text>Vijaya Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_NAME">
-			<Text>Xingqing Süzeren Bonusu</Text>
+			<Text>Xingqing Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_NAME">
-			<Text>Zhongjing Süzeren Bonusu</Text>
+			<Text>Zhongjing Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_BANDAR_BRUNEI_TRAIT_DESCRIPTION">
 			<Text>Kıyıdaki veya kıyıya bitişik bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
@@ -404,7 +404,7 @@
 			<Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, o şehirden geçen veya o şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_CULTURE] Kültür sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_DESCRIPTION">
-			<Text>Bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi işlev görür.</Text>
+			<Text>bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi işlev görür.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_DESCRIPTION">
 			<Text>Herhangi bir şehir devletine giden [ICON_TradeRoute] Ticaret Yollarınız, başlangıç şehrindeki her uzmanlık bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
@@ -428,7 +428,7 @@
 			<Text>Kıyıdaki veya kıyıya bitişik bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_DESCRIPTION">
-			<Text>Bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi işlev görür.</Text>
+			<Text>bonus Kaynaklarınız, her tür için 1 [ICON_Amenities] Olanak sağlayarak Lüks Kaynaklar gibi işlev görür.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_DESCRIPTION">
 			<Text>Kıyı bölgelerinin üzerinde veya bitişiğinde bulunan bölgeleriniz +2 [ICON_FAITH] İnanç sağlar.</Text>
@@ -437,13 +437,13 @@
 			<Text>Herhangi bir Şehir Devleti'ne giden [ICON_TradeRoute] Ticaret Yollarınız, çıkış şehrindeki her Uzmanlık Bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_DESCRIPTION">
-			<Text>Bonus kaynaklarınız, her tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks kaynaklar gibi davranır.</Text>
+			<Text>bonus kaynaklarınız, her tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks kaynaklar gibi davranır.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_DESCRIPTION">
 			<Text>Herhangi bir Şehir Devleti'ne giden [ICON_TradeRoute] Ticaret Yollarınız, çıkış şehrindeki her Uzmanlık Bölgesi için +2 [ICON_FAITH] İnanç sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_DESCRIPTION">
-			<Text>Bonus kaynaklarınız, her tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks kaynaklar gibi davranır.</Text>
+			<Text>bonus kaynaklarınız, her tür başına 1 [ICON_Amenities] Olanak sağlayan Lüks kaynaklar gibi davranır.</Text>
 		</Row>
 		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_DESCRIPTION">
 			<Text>Yabancı şehirlerdeki [ICON_TradingPost] Ticaret Karakollarınız, şehirden geçen veya şehre giden [ICON_TradeRoute] Ticaret Yollarınıza +1 [ICON_CULTURE] Kültür sağlar.</Text>
@@ -532,7 +532,7 @@
 			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu Şehir Merkezi Bölgesi'nden.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SCENARIO_DISTRICT_CULTURE">
-			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu {1_Num : plural 1?bölgeden; other?bölgelerden;}.</Text>
+			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu {1_Num : plural 1?karodan; other?karolardan;}.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_SCENARIO_SEARESOURCE_CULTURE">
 			<Text>+{1_num} [ICON_CULTURE] Kültür, komşu deniz {1_Num : plural 1?kaynağından; other?kaynaklarından;}.</Text>
@@ -728,7 +728,7 @@
 			<Text>Tüm Dinî birlikler 1 terfi ile başlar ve eğitilebilir.</Text>
 		</Row>
 		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_4">
-			<Text>Her Şehir Devleti türü için yalnızca bir Şehir Devleti Süzeren Bonusu ek Getiri veya [ICON_Amenities] Olanak sağlar.</Text>
+			<Text>Her Şehir Devleti türü için yalnızca bir Şehir Devleti Süzeren bonusu ek Getiri veya [ICON_Amenities] Olanak sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_5">
 			<Text>Tüccarlar yol oluşturmaz.</Text>
@@ -831,7 +831,7 @@
 			<Text>Sangha</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_DESCRIPTION">
-			<Text>2x Kanatlama Bonusu.</Text>
+			<Text>2x Kanatlama bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_NAME">
 			<Text>Rehber</Text>

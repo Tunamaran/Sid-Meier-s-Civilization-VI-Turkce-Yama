@@ -95,22 +95,22 @@
 			<Text>Palenque</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_NAME">
-			<Text>Auckland Süzeren Bonusu</Text>
+			<Text>Auckland Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ANTANANARIVO_NAME">
-			<Text>Antananarivo Süzeren Bonusu</Text>
+			<Text>Antananarivo Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_NAME">
-			<Text>Armagh Süzeren Bonusu</Text>
+			<Text>Armagh Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GRANADA_NAME">
-			<Text>Granada Süzeren Bonusu</Text>
+			<Text>Granada Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MUSCAT_NAME">
-			<Text>Muscat Süzeren Bonusu</Text>
+			<Text>Muscat Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_MITLA_NAME">
-			<Text>Mitla Süzeren Bonusu</Text>
+			<Text>Mitla Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_AUCKLAND_DESCRIPTION">
 			<Text>Size ait sığ su bölgeleri +1 [ICON_Production] Üretim sağlar. Sanayi Çağı'na ulaştığınızda ek +1 [ICON_Production] Üretim kazanırsınız.</Text>

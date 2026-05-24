@@ -242,19 +242,19 @@
 		</Row>
 		<!-- City State Bonuses-->
 		<Row Tag="LOC_LEADER_TRAIT_GDANSK_NAME">
-			<Text>Gdańsk Süzeren Bonusu</Text>
+			<Text>Gdańsk Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_GDANSK_DESCRIPTION">
 			<Text>Herhangi bir Şehir Devleti'ne yapılan ticaret yolları, kaynak şehirdeki her bir uzmanlık bölgesi için 5 Altın sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VIENNA_NAME">
-			<Text>Viyana Süzeren Bonusu</Text>
+			<Text>Viyana Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_VIENNA_DESCRIPTION">
 			<Text>Şehir devleti birliklerini kiralamak için gereken normal maliyetin yarısını ödersiniz.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRAGUE_NAME">
-			<Text>Prag Süzeren Bonusu</Text>
+			<Text>Prag Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_PRAGUE_DESCRIPTION">
 			<Text>Bölgeleriniz, kendi türlerinde +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar (Tiyatro Meydanı bölgeleri için hem [ICON_GreatWriter] Büyük Yazar hem de [ICON_GreatArtist] Büyük Sanatçı puanı).</Text>

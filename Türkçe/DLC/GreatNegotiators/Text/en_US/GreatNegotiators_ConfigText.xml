@@ -41,7 +41,7 @@
 			<Text>Muzaffer</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_SALADIN_ALT_DESCRIPTION">
-			<Text>Tüm Muharebe ve Dinî birliklere +%100 Kanatlama ve Destek Bonusu sağlar.</Text>
+			<Text>Tüm Muharebe ve Dinî birliklere +%100 Kanatlama ve Destek bonusu sağlar.</Text>
 		</Row>
 	</EnglishText>
 </GameData>

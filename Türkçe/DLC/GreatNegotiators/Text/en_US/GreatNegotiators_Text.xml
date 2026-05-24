@@ -219,7 +219,7 @@
 		</Row>
 		<!-- Saladin-->
 		<Row Tag="LOC_ABILITY_SALADIN_FLANKING_UNITS_DESCRIPTION">
-			<Text>+%100 Kanatlama ve Destek Bonusu. (Selahaddin (Sultan))</Text>
+			<Text>+%100 Kanatlama ve Destek bonusu. (Selahaddin (Sultan))</Text>
 		</Row>
 		<Row Tag="LOC_AGENDA_SULTAN_NAME">
 			<Text>Mısır ve Suriye Sultanı</Text>

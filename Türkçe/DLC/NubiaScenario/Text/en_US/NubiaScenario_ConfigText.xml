@@ -44,7 +44,7 @@
 			<Text>Şehir bir su bölgesine bitişikse bölgelere ve harikalara +%15 [ICON_Production] Üretim bonusu. Taşkın yatakları bölge ve harika yerleşimini engellemez. Balıkçılık ve Yelken teknolojileriyle başlanır.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION">
-			<Text>Menzilli birliklere +%50 [ICON_Production] Üretim bonusu. Tüm menzilli birlikler +%50 muharebe deneyimi kazanır. Madencilik teknolojisiyle başlanır. Stratejik kaynaklar üzerindeki maden ocakları +1 [ICON_Production] Üretim sağlar. Bonus ve lüks kaynaklar üzerindeki maden ocakları +2 [ICON_Gold] Altın sağlar.</Text>
+			<Text>Menzilli birliklere +%50 [ICON_Production] Üretim bonusu. Tüm menzilli birlikler +%50 muharebe deneyimi kazanır. Madencilik teknolojisiyle başlanır. Stratejik kaynaklar üzerindeki maden ocakları +1 [ICON_Production] Üretim sağlar. bonus ve lüks kaynaklar üzerindeki maden ocakları +2 [ICON_Gold] Altın sağlar.</Text>
 		</Row>
 		<!-- Leaders-->
 		<Row Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME">

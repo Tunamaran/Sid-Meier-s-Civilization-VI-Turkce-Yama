@@ -37,7 +37,7 @@
 			<Text>2 kare mesafedeki kara birimlerine +3 [ICON_Strength] Muharebe Gücü.</Text>
 		</Row>
 		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH_MODIFIER">
-			<Text>Büyük General'den +3 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük General'den +3 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<!--Buildings-->
 		<Row Tag="LOC_BUILDING_HEADQUARTERS_NAME">

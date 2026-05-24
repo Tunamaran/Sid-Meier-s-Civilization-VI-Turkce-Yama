@@ -170,7 +170,7 @@
 		</Row>
 		<!--District Description-->
 		<Row Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION">
-			<Text>Şehrinde deniz faaliyetleri için Vikinglere özel bir bölge. Ayrıca bu bölgeye asker çıkarma ve bindirme sırasındaki [ICON_Movement] Hareket cezasını kaldırır. Kara bölgesine bitişik Kıyı veya Göl Arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi.[NEWLINE][NEWLINE]Komşuluk: Bitişikteki her kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Bitişik bölge hücreleri için Küçük [ICON_Gold] Altın bonusu.</Text>
+			<Text>Şehrinde deniz faaliyetleri için Vikinglere özel bir bölge. Ayrıca bu karoya asker çıkarma ve bindirme sırasındaki [ICON_Movement] Hareket cezasını kaldırır. Kara bölgesine bitişik Kıyı veya Göl Arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi.[NEWLINE][NEWLINE]Komşuluk: Bitişikteki her kıyı kaynağı için Standart [ICON_Gold] Altın bonusu. Bitişik bölge hücreleri için Küçük [ICON_Gold] Altın bonusu.</Text>
 		</Row>
 		<!--Improvements Name-->
 		<Row Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME">

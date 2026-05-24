@@ -93,10 +93,10 @@
 			<Text>Kutsal Alanlar, bir nehir üzerine inşa edilmişlerse +2 [ICON_FOOD] Besin ve +1 [ICON_HOUSING] Konut sağlar. Kutsal Alanlar bir Kültür Bombası tetikler.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
-			<Text>Kutsal Alanlar, Nehirlerle Büyük bir Komşuluk Bonusu, bir Kültür Bombası, komşuluk bonusuna eşit miktarda [ICON_FOOD] Besin ve eğer bir Nehir üzerindeyse +2 [ICON_HOUSING] Konut kazanır.</Text>
+			<Text>Kutsal Alanlar, Nehirlerle Büyük bir Komşuluk bonusu, bir Kültür Bombası, komşuluk bonusuna eşit miktarda [ICON_FOOD] Besin ve eğer bir Nehir üzerindeyse +2 [ICON_HOUSING] Konut kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
-			<Text>Kutsal Alanlar, Nehirlerle Büyük bir Komşuluk Bonusu, bir Kültür Bombası, komşuluk bonusuna eşit miktarda [ICON_FOOD] Besin ve eğer bir Nehir üzerindeyse +2 [ICON_HOUSING] Konut kazanır.</Text>
+			<Text>Kutsal Alanlar, Nehirlerle Büyük bir Komşuluk bonusu, bir Kültür Bombası, komşuluk bonusuna eşit miktarda [ICON_FOOD] Besin ve eğer bir Nehir üzerindeyse +2 [ICON_HOUSING] Konut kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_KHMER_DOMREY_NAME">
 			<Text>Domrey</Text>

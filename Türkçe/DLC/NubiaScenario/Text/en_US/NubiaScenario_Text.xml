@@ -196,22 +196,22 @@
 			<Text>Thinis Şehir Devleti</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_IREM_NAME">
-			<Text>Irem Süzeren Bonusu</Text>
+			<Text>Irem Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_BYBLOS_NAME">
-			<Text>Byblos Süzeren Bonusu</Text>
+			<Text>Byblos Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_SERABIT_NAME">
-			<Text>Serabit el-Khadim Süzeren Bonusu</Text>
+			<Text>Serabit el-Khadim Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_OASES_NAME">
-			<Text>Çöl Vahası Süzeren Bonusu</Text>
+			<Text>Çöl Vahası Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_NUBIA_SCENARIO_PUNT_NAME">
-			<Text>Punt Süzeren Bonusu</Text>
+			<Text>Punt Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NONE_NAME">
-			<Text>Süzeren Bonusu Yok</Text>
+			<Text>Süzeren bonusu Yok</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_NONE_DESCRIPTION">
 			<Text>Bu şehir devletinin süzereni olmanın herhangi bir eşsiz bonusu bulunmamaktadır.</Text>
@@ -313,7 +313,7 @@
 		</Row>
 		<!-- Districts-->
 		<Row Tag="LOC_DISTRICT_NUBIA_SCENARIO_HARBOR_DESCRIPTION">
-			<Text>Şehrinde deniz faaliyetleri için bir bölge. Bu bölgeye çıkarma ve bu bölgeden denize açılma sırasında [ICON_Movement] Hareket cezasını kaldırır. Kıyı, Nil Nehri veya Göl Arazisi üzerine ve karaya bitişik inşa edilmelidir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
+			<Text>Şehrinde deniz faaliyetleri için bir bölge. Bu bölgeye çıkarma ve bu karodan denize açılma sırasında [ICON_Movement] Hareket cezasını kaldırır. Kıyı, Nil Nehri veya Göl Arazisi üzerine ve karaya bitişik inşa edilmelidir.[NEWLINE][NEWLINE]Eğer bu şehirde henüz bir Ticaret Merkezi bölgesi yoksa +1 [ICON_TradeRoute] Ticaret Yolu kapasitesi sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_NILE_RIVER_FAITH">
 			<Text>+{1_num} [ICON_Faith] İnanç, bitişik Nil Nehri {1_Num : plural 1?bölgesinden; other?bölgelerinden;}.</Text>
@@ -342,10 +342,10 @@
 		</Row>
 		<!-- Great People-->
 		<Row Tag="LOC_NUBIA_SCENARIO_DOUBLE_COMBAT_STRENGTH_AOE_LAND">
-			<Text>2 bölge içindeki tüm birimlere +10 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>2 karo içindeki tüm birimlere +10 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_NUBIA_SCENARIO_DOUBLE_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
-			<Text>[ICON_GreatGeneral] Büyük General'den +10 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>[ICON_GreatGeneral] Büyük General'den +10 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MONTUHOTEP_NAME">
 			<Text>Mentuhotep II</Text>
@@ -526,14 +526,14 @@
 			<Text>Yakındaki Büyük General</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_GREAT_GENERAL_DOUBLE_STRENGTH_DESCRIPTION">
-			<Text>Büyük General'den +10 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Büyük General'den +10 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_MEDJAY_DESCRIPTION">
-			<Text>Kutsal Alan Mabet'ine bitişikken +20 [ICON_Strength] Muharebe Bonusu.</Text>
+			<Text>Kutsal Alan Mabet'ine bitişikken +20 [ICON_Strength] Muharebe bonusu.</Text>
 		</Row>
 		<!-- Civic Boosts-->
 		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_STATE_WORKFORCE">
-			<Text>8 bölgeyi iyileştir.</Text>
+			<Text>8 karoyu iyileştir.</Text>
 		</Row>
 		<Row Tag="LOC_BOOST_NUBIA_SCENARIO_TRIGGER_FOREIGN_TRADE">
 			<Text>6 şehir devletiyle tanış.</Text>

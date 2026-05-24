@@ -9,10 +9,10 @@
 			<Text>Bakuhan</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_DESCRIPTION">
-			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları -%25 Getiri ve [ICON_Tourism] Turizm alır, ancak Yurt İçi [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her bir Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür, +1 [ICON_Science] Bilim ve +2 [ICON_Gold] Altın sağlar. Japonya'nın [ICON_Capital] Başkenti'ne 6 bölge mesafedeki şehirler +4 [ICON_Amenities] Olanak kazanır ve Flight teknolojisi araştırıldıktan sonra her Bölge için +1 [ICON_Tourism] Turizm kazanır.</Text>
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları -%25 Getiri ve [ICON_Tourism] Turizm alır, ancak Yurt İçi [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her bir Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür, +1 [ICON_Science] Bilim ve +2 [ICON_Gold] Altın sağlar. Japonya'nın [ICON_Capital] Başkenti'ne 6 karo mesafedeki şehirler +4 [ICON_Amenities] Olanak kazanır ve Flight teknolojisi araştırıldıktan sonra her Bölge için +1 [ICON_Tourism] Turizm kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_TOKUGAWA_XP_DESCRIPTION">
-			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları -%25 Getiri ve [ICON_Tourism] Turizm alır, ancak Yurt İçi [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her bir Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür, +1 [ICON_Science] Bilim ve +2 [ICON_Gold] Altın sağlar. Japonya'nın [ICON_Capital] Başkenti'ne 6 bölge mesafedeki şehirler %100 bağlıdır ve Flight teknolojisi araştırıldıktan sonra her Bölge için +1 [ICON_Tourism] Turizm kazanır.</Text>
+			<Text>Uluslararası [ICON_TradeRoute] Ticaret Yolları -%25 Getiri ve [ICON_Tourism] Turizm alır, ancak Yurt İçi [ICON_TradeRoute] Ticaret Yolları, varış noktasındaki her bir Uzmanlık Bölgesi için +1 [ICON_Culture] Kültür, +1 [ICON_Science] Bilim ve +2 [ICON_Gold] Altın sağlar. Japonya'nın [ICON_Capital] Başkenti'ne 6 karo mesafedeki şehirler %100 bağlıdır ve Flight teknolojisi araştırıldıktan sonra her Bölge için +1 [ICON_Tourism] Turizm kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_LOADING_INFO_LEADER_TOKUGAWA">
 			<Text>Büyük Şogun Tokugawa Ieyasu, bilirsin ki sabrın kılıcı hedefi tam on ikiden vurur. Topraklarını içten ve dıştan gelen gasıplara karşı dikkatle koru; halkının becerisine ve gayretine güven, çünkü güvenilebilecek yegâne güç onlardır. Hükmetmek uzun bir yoldur, yükü ağırdır; ancak kılıcın elinde olduğu sürece ne hoşnutsuzluğa ne de umutsuzluğa yer vardır.</Text>

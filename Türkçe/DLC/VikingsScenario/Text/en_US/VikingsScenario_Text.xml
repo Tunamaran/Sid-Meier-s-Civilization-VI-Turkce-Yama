@@ -654,13 +654,13 @@
 			<Text>Senaryoda [ICON_Faith] İnanç kazanacaksınız, başlıca Kutsal Alanları, Alkazarları, Manastırları ve Plantasyonları yağmalayarak. Her [ICON_Faith] İnanç kazandığınızda şehirleriniz Katolikliği benimseme yönünde daha fazla baskı kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION1">
-			<Text>Şehirler yerle bir edilemez. Tüccarlar ve Amiraller şehirler arasında transfer edilemez. Zafer Puanları şu şekilde kazanılır:[NEWLINE][ICON_Bullet]İmparatorluk: Şehir başına {1_CityVP} VP. Nüfus başına {2_PopVP} VP.[NEWLINE][ICON_Bullet]Prestij: Kazanılan her [ICON_GreatPerson] Büyük Kişi için {3_GPVP} VP.[NEWLINE][ICON_Bullet]Ticaret: [ICON_TradeRoute] Ticaret Yolu kapasitesi başına {4_TradeVP} VP.[NEWLINE][ICON_Bullet]Yağma: Yağmalanan her bölge başına {5_PillageVP} VP.</Text>
+			<Text>Şehirler yerle bir edilemez. Tüccarlar ve Amiraller şehirler arasında transfer edilemez. Zafer Puanları şu şekilde kazanılır:[NEWLINE][ICON_Bullet]İmparatorluk: Şehir başına {1_CityVP} VP. Nüfus başına {2_PopVP} VP.[NEWLINE][ICON_Bullet]Prestij: Kazanılan her [ICON_GreatPerson] Büyük Kişi için {3_GPVP} VP.[NEWLINE][ICON_Bullet]Ticaret: [ICON_TradeRoute] Ticaret Yolu kapasitesi başına {4_TradeVP} VP.[NEWLINE][ICON_Bullet]Yağma: Yağmalanan her karo başına {5_PillageVP} VP.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION2">
 			<Text>[NEWLINE][ICON_Bullet]Vinland: Vinland'a bitişik bir [ICON_GreatAdmiral] Büyük Amiral etkinleştiren ilk oyuncuya {1_VinlandA} VP, ikinciye {2_VinlandB} VP, üçüncüye {3_VinlandC} VP, daha sonraki oyunculara {4_VinlandD} VP.</Text>
 		</Row>
 		<Row Tag="LOC_VIKING_SCENARIO_SCORING_DESCRIPTION3">
-			<Text>[NEWLINE][ICON_Bullet]Din: Şehirlerinizin yarısından azı aynı dine sahipken bir bölgeyi yağmalayarak kazanılan her [ICON_Faith] İnanç başına {1_PillageEarly} VP. Şehirlerinizin yarısı veya daha fazlası aynı dine sahip olduğunda eklenen nüfus başına {2_PopLate} VP.[NEWLINE][ICON_Bullet]Bonus: Son turda, bir Viking oyuncusunun hazinesindeki her {4_GoldPer} [ICON_Gold] Altın için {3_GoldEnd} VP ve bir Viking oyuncusunun sahip olduğu her {6_FaithPer} [ICON_Faith] İnanç için {5_FaithEnd} VP.</Text>
+			<Text>[NEWLINE][ICON_Bullet]Din: Şehirlerinizin yarısından azı aynı dine sahipken bir bölgeyi yağmalayarak kazanılan her [ICON_Faith] İnanç başına {1_PillageEarly} VP. Şehirlerinizin yarısı veya daha fazlası aynı dine sahip olduğunda eklenen nüfus başına {2_PopLate} VP.[NEWLINE][ICON_Bullet]bonus: Son turda, bir Viking oyuncusunun hazinesindeki her {4_GoldPer} [ICON_Gold] Altın için {3_GoldEnd} VP ve bir Viking oyuncusunun sahip olduğu her {6_FaithPer} [ICON_Faith] İnanç için {5_FaithEnd} VP.</Text>
 		</Row>
 		<!--Features-->
 		<Row Tag="LOC_FEATURE_SCENARIO_VINLAND_NAME">

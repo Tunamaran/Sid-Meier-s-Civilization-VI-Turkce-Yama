@@ -612,13 +612,13 @@
 			<Text>Saldırılar, hedef birimin sonraki turdaki [ICON_Movement] Hareketine -2 cezası uygular.</Text>
 		</Row>
 		<Row Tag="LOC_KRAKANNONS_RANGE_BONUS_NAME">
-			<Text>Krakannon Menzil Bonusu</Text>
+			<Text>Krakannon Menzil bonusu</Text>
 		</Row>
 		<Row Tag="LOC_KRAKANNONS_RANGE_BONUS_DESCRIPTION">
 			<Text>+1 [ICON_range] Menzil</Text>
 		</Row>
 		<Row Tag="LOC_KRAKANNONS_COMBAT_BONUS_NAME">
-			<Text>Krakannon Muharebe Bonusu</Text>
+			<Text>Krakannon Muharebe bonusu</Text>
 		</Row>
 		<Row Tag="LOC_KRAKANNONS_COMBAT_BONUS_DESCRIPTION">
 			<Text>+5 [ICON_Strength] Muharebe Gücü</Text>
