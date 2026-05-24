@@ -45,7 +45,7 @@
 			<Text>Venedik şehir devleti</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
-			<Text>Venedik Süzeren Bonusu</Text>
+			<Text>Venedik Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
 			<Text>[ICON_TradeRoute] Ticaret Yollarınız, hedef şehirdeki her Lüks Kaynak için +1 [ICON_Gold] Altın kazandırır.</Text>
@@ -60,7 +60,7 @@
 			<Text>Anshan şehir devleti</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
-			<Text>Anshan Süzeren Bonusu</Text>
+			<Text>Anshan Süzeren bonusu</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
 			<Text>Her bir [ICON_GreatWork_WRITING] Yazın Büyük Eseri'nden +2 [ICON_SCIENCE] Bilim. Her bir [ICON_GreatWork_RELIC] Kutsal Emanet ve [ICON_GreatWork_Artifact] Tarihi Eser'den +1 [ICON_SCIENCE] Bilim.</Text>

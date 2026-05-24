@@ -107,7 +107,7 @@
 			<Text>Bu binanın inşaatını tamamlamak, politika yapıcılarımıza ilham verdi! Bu yeni politikayı hükümetimizde uygulamaya koyarsak halkımıza büyük fayda sağlayabilir.</Text>
 		</Row>
 		<Row Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
-			<Text>Yeni bir şehir kurmak uygarlığımızı genişletti! Birden fazla şehre sahip bir imparatorlukta, vatandaşlarımızın Bağlılığını izlemek önemlidir. Bağlılık azalırsa şehir daha az verimli olur. Bağlılık 0'a düşerse şehir bağımsızlığını ilan eder ve bir Özgür Şehir haline gelir. Aynı durum diğer uygarlıkların başına da gelebilir; bu nedenle başkalarını istikrarsızlaştırma fırsatlarını kollayın ve hatta bir Özgür Şehir'i kendi imparatorluğunuza katmayı deneyin![NEWLINE][NEWLINE]Bağlılık, esas olarak şehirdeki ve şehir çevresindeki vatandaşların sayısı ve uyruğundan etkilenir. 9 bölge içinde kendi nüfusunuzdan çok sayıda varsa her tur Bağlılığınız artar. 9 bölge içinde başka uygarlıklara ait nüfuslar varsa bu Bağlılığı azaltır. Şehirler birbirine ne kadar yakınsa etki o kadar büyük olur. Ayrıca, Altın Çağ'daki uygarlıklar için bu etki büyük ölçüde güçlenir, Karanlık Çağ'dakiler için ise zayıflar.[NEWLINE][NEWLINE]Bir şehre Vali atamak ve yeterli Olanaklara sahip olduğundan emin olmak, kendi şehirlerinizin Bağlılığını sağlamanın diğer yollarıdır.</Text>
+			<Text>Yeni bir şehir kurmak uygarlığımızı genişletti! Birden fazla şehre sahip bir imparatorlukta, vatandaşlarımızın Bağlılığını izlemek önemlidir. Bağlılık azalırsa şehir daha az verimli olur. Bağlılık 0'a düşerse şehir bağımsızlığını ilan eder ve bir Özgür Şehir haline gelir. Aynı durum diğer uygarlıkların başına da gelebilir; bu nedenle başkalarını istikrarsızlaştırma fırsatlarını kollayın ve hatta bir Özgür Şehir'i kendi imparatorluğunuza katmayı deneyin![NEWLINE][NEWLINE]Bağlılık, esas olarak şehirdeki ve şehir çevresindeki vatandaşların sayısı ve uyruğundan etkilenir. 9 karo içinde kendi nüfusunuzdan çok sayıda varsa her tur Bağlılığınız artar. 9 karo içinde başka uygarlıklara ait nüfuslar varsa bu Bağlılığı azaltır. Şehirler birbirine ne kadar yakınsa etki o kadar büyük olur. Ayrıca, Altın Çağ'daki uygarlıklar için bu etki büyük ölçüde güçlenir, Karanlık Çağ'dakiler için ise zayıflar.[NEWLINE][NEWLINE]Bir şehre Vali atamak ve yeterli Olanaklara sahip olduğundan emin olmak, kendi şehirlerinizin Bağlılığını sağlamanın diğer yollarıdır.</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
 			<Text>BAĞLILIĞI ARTIRMAK İÇİN:</Text>
@@ -119,7 +119,7 @@
 			<Text>[NEWLINE][NEWLINE]Buraya bir [ICON_Governor] Vali atayın</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_AMBASSADOR">
-			<Text>[NEWLINE][NEWLINE]9 bölge içindeki bir şehre terfi ettirilmiş bir Diplomat [ICON_Governor] Vali atayın</Text>
+			<Text>[NEWLINE][NEWLINE]9 karo içindeki bir şehre terfi ettirilmiş bir Diplomat [ICON_Governor] Vali atayın</Text>
 		</Row>
 		<Row Tag="LOC_ADVISOR_CITYPANEL_DARK_AGE">
 			<Text>[NEWLINE][NEWLINE]Gelecek oyun çağında Karanlık Çağ'a düşmekten kaçının, böylece [ICON_Citizen] Vatandaşlarınız daha fazla Bağlılık sağlar.</Text>

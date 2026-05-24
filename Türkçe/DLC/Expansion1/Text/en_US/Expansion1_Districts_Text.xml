@@ -9,7 +9,7 @@
 			<Text>Su Parkı</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
-			<Text>İmparatorluğunuzda hükümet tercihlerinizi onurlandırmak için bir defa inşa edilen bölge. Bu şehre tur başına +8 Bağlılık sağlar ve komşu bölgelerin kazandığı Komşuluk Bonuslarını +1 artırır. +1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
+			<Text>İmparatorluğunuzda hükümet tercihlerinizi onurlandırmak için bir defa inşa edilen bölge. Bu şehre tur başına +8 Bağlılık sağlar ve komşu bölgelerin kazandığı Komşuluk bonuslarını +1 artırır. +1 [Icon_Governor] Vali Unvanı kazandırır.</Text>
 		</Row>
 		<Row Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
 			<Text>Halkınızı mutlu etmek için [ICON_Amenities] Olanakları artırmaya adanmış, kıyı bölgesine inşa edilen bir bölge. Eğlence Kompleksi olan bir şehirde inşa edilemez. Resif üzerine inşa edilemez.</Text>

@@ -75,7 +75,7 @@
 			<Text>[COLOR_RED]Mevcut politikalarınızdan biri nedeniyle, [ICON_Gold] altın harcayarak hamilik yapmak devre dışı bırakılmıştır.[ENDCOLOR]</Text>
 		</Row>
 		<Row Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
-			<Text>Seçilen politika nedeniyle bu bölgede iyileşme yapılamaz.</Text>
+			<Text>Seçilen politika nedeniyle bu karoda iyileşme yapılamaz.</Text>
 		</Row>
 		<!-- Alliance Text -->
 		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
@@ -302,7 +302,7 @@
 			<Text>[ICON_Governor] Vali bulunan şehirlerde [ICON_Citizen] Vatandaş başına +0.6 [ICON_Production] Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
-			<Text>Bölge başına +1 [ICON_Production] Üretim, +1 [ICON_Housing] Konut.</Text>
+			<Text>Karo başına +1 [ICON_Production] Üretim, +1 [ICON_Housing] Konut.</Text>
 		</Row>
 		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
 			<Text>+10% Harikalar için Üretim.</Text>
@@ -665,7 +665,7 @@
 			<Text>Dikey Entegrasyon</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
-			<Text>Bu şehir, 6 bölge içindeki tüm Sanayi Bölgelerinden (sadece ilkinden değil) [ICON_Production] Üretim alır.</Text>
+			<Text>Bu şehir, 6 karo içindeki tüm Sanayi Bölgelerinden (sadece ilkinden değil) [ICON_Production] Üretim alır.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
 			<Text>Lonca Başkanı</Text>
@@ -749,7 +749,7 @@
 			<Text>Liman Başkanı</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
-			<Text>Şehirdeki Ticaret Merkezleri ve Limanların Komşuluk Bonuslarını iki katına çıkarır.</Text>
+			<Text>Şehirdeki Ticaret Merkezleri ve Limanların Komşuluk bonuslarını iki katına çıkarır.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
 			<Text>Döviz</Text>
@@ -990,7 +990,7 @@
 			<Text>{1_IdentityPressureAmount} Diğer etkilerden</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
-			<Text>9 bölge içindeki [ICON_Citizen] Vatandaşlarınız</Text>
+			<Text>9 karo içindeki [ICON_Citizen] Vatandaşlarınız</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
 			<Text>Sıkıyönetim</Text>
@@ -1023,7 +1023,7 @@
 			<Text>[COLOR_RED]Genel huzursuzluk</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
-			<Text>[COLOR_RED]9 bölge içindeki diğer uygarlıkların [ICON_Citizen] Vatandaşları</Text>
+			<Text>[COLOR_RED]9 karo içindeki diğer uygarlıkların [ICON_Citizen] Vatandaşları</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
 			<Text>[COLOR_RED]Şehir açlık çekiyor</Text>
@@ -1651,10 +1651,10 @@
 			<Text>{1_PlayerCiv} Tarihe Geçiyor</Text>
 		</Row>
 		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS">
-			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}    \|    {3_MomentScore} Çağ Puanı</Text>
+			<Text>{1_MomentDate} \| Tur {2_MomentTurn} \| {3_MomentScore} Çağ Puanı</Text>
 		</Row>
 		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
-			<Text>{1_MomentDate}    \|    Tur {2_MomentTurn}</Text>
+			<Text>{1_MomentDate} \| Tur {2_MomentTurn}</Text>
 		</Row>
 		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
 			<Text>Bağlılık: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
@@ -1770,10 +1770,10 @@
 			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName}) - {3_EstablishInfo}</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_INHERENT_BONUS">
-			<Text>Büyük Bonus</Text>
+			<Text>Büyük bonus</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
-			<Text>Küçük Bonus</Text>
+			<Text>Küçük bonus</Text>
 		</Row>
 		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
 			<Text>Plantasyon iyileştirmesinden +1 [ICON_Food] Besin.</Text>
@@ -1824,7 +1824,7 @@
 			<Text>Araştırma Müttefikinizle aynı Teknolojiyi aktif olarak araştırarak tur başına [ICON_Science] Bilim bonusu elde edin.</Text>
 		</Row>
 		<Row Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
-			<Text>Seviye 3 Araştırma İttifakı Bilim Bonusu alınıyor.[NEWLINE]Araştırma Müttefikinizle aynı Teknolojiyi araştırmak, tur başına [ICON_Science] Bilim bonusu sağlar.</Text>
+			<Text>Seviye 3 Araştırma İttifakı Bilim bonusu alınıyor.[NEWLINE]Araştırma Müttefikinizle aynı Teknolojiyi araştırmak, tur başına [ICON_Science] Bilim bonusu sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
 			<Text>Şehir tamamen sadık ve tur başına bağlılık kazanıyor</Text>

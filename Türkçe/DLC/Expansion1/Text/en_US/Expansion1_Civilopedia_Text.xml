@@ -65,7 +65,7 @@
 			<Text>Her bir uygarlık için ayrı ayrı Diplomatik Görünürlük seviyeleri biriktirmelisiniz. Rakibinizin sizin üzerinizdekinden daha yüksek bir görünürlük seviyesine sahip olmanız durumunda bir muharebe bonusu kazanırsınız. Seviyeler, çeşitli Dedikodu kaynaklarını biriktirerek elde edilebilir. Bu kaynaklar şunları içerir:</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Bir Yerleşimci seçiliyken, ideal şehir konumları haritada bir simgeyle gösterilir. Ayrıca ilk Yerleşimcinizden sonraki her bir Yerleşimci, Yerleşimci Merceği'ni etkinleştirerek haritada şehriniz için en iyi su kaynağını sağlayacak bölgeleri ve kullanılamayan bölgeleri işaretler. Negatif Bağlılık işareti taşıyan konumlara karşı dikkatli olun; bu bölgeler diğer uygarlıklara sadıktır.</Text>
+			<Text>Bir Yerleşimci seçiliyken, ideal şehir konumları haritada bir simgeyle gösterilir. Ayrıca ilk Yerleşimcinizden sonraki her bir Yerleşimci, Yerleşimci Merceği'ni etkinleştirerek haritada şehriniz için en iyi su kaynağını sağlayacak bölgeleri ve kullanılamayan bölgeleri işaretler. Negatif Bağlılık işareti taşıyan konumlara karşı dikkatli olun; bu karoler diğer uygarlıklara sadıktır.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_WORLD_7_CHAPTER_CONTENT_PARA_2">
 			<Text>Çekicilik. Her karenin çekicilik seviyesini gösterir.[NEWLINE][NEWLINE]Kıta. Her kıtanın coğrafi sınırlarını gösterir.[NEWLINE][NEWLINE]Bölge Yerleşimi. Harikalar ve bölgeler için geçerli yerleşim konumlarını ve bölgeler için mevcut komşuluk bonuslarını gösterir. Bu, yalnızca bir bölge veya harika inşa etmeye çalışırken görünecektir.[NEWLINE][NEWLINE]Hükümet. Haritadaki hükümetlerin dağılımını gösterir.[NEWLINE][NEWLINE]Politik. Her karenin sahibini gösterir.[NEWLINE][NEWLINE]Din. Haritadaki çoğunluk dinini ve dini takipçi dağılımını gösterir. Bu, bir dini birlik seçildiğinde görünür.[NEWLINE][NEWLINE]Yerleşimci. Önerilen şehir alanlarını ve su mevcudiyetini, ayrıca her karedeki Bağlılık cezalarını gösterir.[NEWLINE][NEWLINE]Turizm. Bir karenin çektiği [ICON_Tourism] Turist sayısını gösterir.[NEWLINE][NEWLINE]İmparatorluk. Şehir sınırlarınızı ve komşuluk bonuslarıyla birlikte bölge konumlarını gösterir.</Text>
@@ -74,10 +74,10 @@
 			<Text>Ayrıca, Askeri Acil Durum, Şehir Devleti Acil Durumu, Nükleer Acil Durum ve İhanet Acil Durumu hedefine karşı, bu Acil Duruma katılırsanız savaş ilan edersiniz.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
-			<Text>+2: Each adjacent Natural Wonder and City Park</Text>
+			<Text>+2: Her bitişik Doğa Harikası ve Şehir Parkı</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
-			<Text>+1: Each adjacent Golf Course, Château and Sphinx.</Text>
+			<Text>+1: Her bitişik Golf Sahası, Şato ve Sfenks.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_4">
 			<Text>Hükümet Meydanı'nda inşa edilen İstihbarat Teşkilatı binası, ayrıca bir ek Casus ve Casus kapasitesi ekler.</Text>
@@ -180,7 +180,7 @@
 			<Text>Valiler [ICON_GOVERNOR] oyuncuların uygarlıklarındaki şehirleri aşağıdaki şekillerde yönetmelerine olanak tanır:[NEWLINE][ICON_BULLET] Eşsiz güç ve yeteneklere sahip Valileri uygarlıklarında hizmet etmek üzere atamak.[NEWLINE][ICON_BULLET] Atanmış Valileri yeni yetenekler ve etkiler açmak için terfi ettirmek.[NEWLINE][ICON_BULLET] Atanmış bir Valiyi uygarlıklarındaki belirli bir şehre atamak.[NEWLINE][ICON_BULLET] Atanmış Valilerin özel yeteneklerini kullanarak o şehirde çeşitli eşsiz etkiler elde etmek.[NEWLINE][ICON_BULLET] Atanmış Valileri şehirde daha güçlü bir Bağlılık oluşturma sürecini hızlandırmak için kullanmak.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_2">
-			<Text>İşe alınıp terfi ettirilebilecek 7 farklı Vali vardır:[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_AMBASSADOR_NAME}  '{LOC_GOVERNOR_THE_AMBASSADOR_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_BUILDER_NAME}  '{LOC_GOVERNOR_THE_BUILDER_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME}  '{LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_CARDINAL_NAME}  '{LOC_GOVERNOR_THE_CARDINAL_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_EDUCATOR_NAME}  '{LOC_GOVERNOR_THE_EDUCATOR_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_MERCHANT_NAME}  '{LOC_GOVERNOR_THE_MERCHANT_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_DEFENDER_NAME}  '{LOC_GOVERNOR_THE_DEFENDER_TITLE}'</Text>
+			<Text>İşe alınıp terfi ettirilebilecek 7 farklı Vali vardır:[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_AMBASSADOR_NAME} '{LOC_GOVERNOR_THE_AMBASSADOR_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_BUILDER_NAME} '{LOC_GOVERNOR_THE_BUILDER_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME} '{LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_CARDINAL_NAME} '{LOC_GOVERNOR_THE_CARDINAL_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_EDUCATOR_NAME} '{LOC_GOVERNOR_THE_EDUCATOR_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_MERCHANT_NAME} '{LOC_GOVERNOR_THE_MERCHANT_TITLE}'[NEWLINE][ICON_BULLET] {LOC_GOVERNOR_THE_DEFENDER_NAME} '{LOC_GOVERNOR_THE_DEFENDER_TITLE}'</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVERNORS_1_CHAPTER_CONTENT_PARA_3">
 			<Text>Bir Vali Atamak:[NEWLINE] Valiler ve terfileri, Vali Unvanları kullanılarak elde edilir. Vali Unvanları, oyun boyunca başta Yönetim Bilimleri ağacı olmak üzere, Hükümet Meydanı bölgesi ve binalarının inşa edilmesiyle ve Casa de Contratación Harikası'nın inşa edilmesiyle açılır. Bir Vali atandıktan sonra, görevlerini yerine getirmek üzere bir şehre atanabilir. Oyuncular, uygarlıklarında her türden yalnızca bir Valiye sahip olabilir ve bir şehre aynı anda yalnızca bir Vali atanabilir.</Text>
@@ -255,7 +255,7 @@
 			<Text>Özgür Araştırma: Her [ICON_TechBoosted] Buluş tetiklediğinizde +1 Çağ Puanı kazanın. Temel getiri olarak Bilim sağlayan bir bina inşa etmek için +1 Çağ Puanı. Altın Bir Çağ'ın başında seçilirse, [ICON_TechBoosted] Buluşlar teknoloji maliyetlerinin ek %10'unu sağlar. Ticaret Merkezi ve Liman bölgesinin [ICON_Gold] Altın komşuluk bonusu ayrıca [ICON_Science] Bilim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_10">
-			<Text>Gök ve Yıldızlar: Her inşa edilen Hava Meydanı binası için +1 Çağ Puanı kazanın. Her [ICON_GreatPerson] Büyük Şahsiyet kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Atom Çağı'nda ise Gelişmiş Uçuş, Nükleer Fisyon ve Roket Bilimi için [ICON_TechBoosted] Buluşların kilidini açar. Bilgi Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji için Buluşların kilidi açılır. Tüm Hava Birlikleri için kazanılan +%100 Tecrübe.</Text>
+			<Text>Gök ve Yıldızlar: Her inşa edilen Hava Meydanı binası için +1 Çağ Puanı kazanın. Her [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Atom Çağı'nda ise Gelişmiş Uçuş, Nükleer Fisyon ve Roket Bilimi için [ICON_TechBoosted] Buluşların kilidini açar. Bilgi Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji için Buluşların kilidi açılır. Tüm Hava Birlikleri için kazanılan +%100 Tecrübe.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_11">
 			<Text>Yalanların Muhafızı: Her başarılı saldırgan Casus operasyonu için +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, Casuslar düşman bir şehirde varlık göstermek için zaman harcamaz. Tüm saldırı görevlerini tamamlama süresi %25 azalır.</Text>
@@ -264,7 +264,7 @@
 			<Text>Keşke Burada Olsaydınız: Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, [ICON_Governor] Valiye sahip şehirler, Dünya Harikalarından +%50 [ICON_Tourism] Turizm alır. Tüm Milli Parklara +%100 [ICON_Tourism] Turizm.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_13">
-			<Text>Automaton Warfare: Gain +1 Era Score each time you kill a non-Barbarian unit with a Giant Death Robot. If chosen at the start of a Golden Age, gain a Giant Death Robot in your capital. Receive 3 [ICON_Resource_Uranium] Uranium per turn. [ICON_Resource_Uranium] Uranium mines accumulate +1 more resource per turn. Information and Future Era.</Text>
+			<Text>Otomasyon Savaşı: Bir Dev Ölüm Robotu ile Barbar olmayan her birliği öldürdüğünüzde +1 Çağ Puanı kazanın. Bir Altın Çağ'ın başlangıcında seçilirse, başkentinizde bir Dev Ölüm Robotu kazanın. Tur başına 3 [ICON_Resource_Uranium] Uranyum alın. [ICON_Resource_Uranium] Uranyum madenleri tur başına 1 fazla kaynak biriktirir. Bilgi ve Gelecek Çağı'nda geçerlidir.</Text>
 		</Row>
 		<!-- Features -->
 		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_REEF_CHAPTER_HISTORY_PARA_1">

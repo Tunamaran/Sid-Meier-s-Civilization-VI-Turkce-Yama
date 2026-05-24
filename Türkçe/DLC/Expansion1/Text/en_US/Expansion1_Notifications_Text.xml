@@ -98,7 +98,7 @@
 			<Text>Bağlılık 0'a düştüğü için {1_CityName} şehri isyan etti ve bir Özgür Şehir haline geldi. Şehri yeniden kontrol altına almak için ya bağlılığınızı yeniden tesis etmeli ya da askerî güç kullanmalısınız.</Text>
 		</Row>
     <Row Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
-      <Text>Because Loyalty dropped to 0, {1_CityName} has rebelled and joined {2_CivName}. To gain control of it again, you must once again exert your Loyalty there or use military force. </Text>
+      <Text>Bağlılık 0'a düştüğü için {1_CityName} şehri isyan ederek {2_CivName}'ye katıldı. Şehri yeniden kontrol altına almak için burada tekrar bağlılık göstermeli veya askeri güç kullanmalısınız.</Text>
     </Row>
 		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
 			<Text>Yabancı Şehir Bağımsızlık Kazandı</Text>
@@ -266,7 +266,7 @@
 			<Text>Oyun yeni bir çağa girdiği için, halkınızı uygarlığınız için arzulanan geleceğe yönlendirecek bir Adanma yapabilirsiniz.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
-			<Text>Adanma Bonusu Tetiklendi</Text>
+			<Text>Adanma bonusu Tetiklendi</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
 			<Text>{1_DedicationBonusTriggerSentence} Bu nedenle, Adanma bonusunuzdan Çağ Puanı kazanırsınız!</Text>

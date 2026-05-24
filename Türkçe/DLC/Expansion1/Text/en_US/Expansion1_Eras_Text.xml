@@ -71,7 +71,7 @@
 			<Text>Normal Çağ</Text>
 		</Row>
 		<Row Tag="LOC_ERA_PROGRESS_ACTIVE_BONUSES">
-			<Text>Aktif Bonuslar:</Text>
+			<Text>Aktif bonuslar:</Text>
 		</Row>
 		<Row Tag="LOC_ERA_PROGRESS_ERA_SCORE">
 			<Text>Çağ Puanı:</Text>
@@ -188,52 +188,52 @@
 			<Text>ÇAĞ ETKİLERİ</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TECH_BOOSTS">
-			<Text>Adanma Bonusu: Buluşlar tetiklendi (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Buluşlar tetiklendi (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CIVIC_BOOSTS">
-			<Text>Adanma Bonusu: İlhamlar tetiklendi (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: İlhamlar tetiklendi (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CITY_RELIGION_CONVERSIONS">
-			<Text>Adanma Bonusu: Dininize dönüştürülen şehirler (her dönüşüm için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Dininize dönüştürülen şehirler (her dönüşüm için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_DISTRICT_CONSTRUCTIONS">
-			<Text>Adanma Bonusu: İnşa edilen bölgeler (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: İnşa edilen bölgeler (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CORPS_KILLS">
-			<Text>Adanma Bonusu: Öldürülen Kolordular (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Öldürülen Kolordular (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARMY_KILLS">
-			<Text>Adanma Bonusu: Öldürülen Ordular (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Öldürülen Ordular (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TRADE_ROUTE_COMPLETIONS">
-			<Text>Adanma Bonusu: Tamamlanan Ticaret Yolları (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Tamamlanan Ticaret Yolları (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_MAP_DISCOVERIES">
-			<Text>Adanma Bonusu: Keşfedilen yeni simge yapılar (Kıtalar için +{1_ContinentScoreIncrement}, Doğa Harikaları için +{2_NaturalWonderScoreIncrement})</Text>
+			<Text>Adanma bonusu: Keşfedilen yeni simge yapılar (Kıtalar için +{1_ContinentScoreIncrement}, Doğa Harikaları için +{2_NaturalWonderScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNIT_SEA_KILLS">
-			<Text>Adanma Bonusu: Öldürülen Barbar olmayan deniz birlikleri (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Öldürülen Barbar olmayan deniz birlikleri (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SCIENCE_BUILDING_CONSTRUCTIONS">
-			<Text>Adanma Bonusu: Temel getiri olarak Bilim sağlayan binalar inşa edildi (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Temel getiri olarak Bilim sağlayan binalar inşa edildi (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CULTURE_BUILDING_CONSTRUCTIONS">
-			<Text>Adanma Bonusu: Büyük Eser yuvasına sahip binalar inşa edildi (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Büyük Eser yuvasına sahip binalar inşa edildi (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_AERODROME_BUILDING_CONSTRUCTIONS">
-			<Text>Adanma Bonusu: Hava Meydanı bölgesinden inşa edilen binalar (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Hava Meydanı bölgesinden inşa edilen binalar (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_INDUSTRIAL_BUILDING_CONSTRUCTIONS">
-			<Text>Adanma Bonusu: Sanayi veya daha sonraki dönem binaları inşa edildi (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Sanayi veya daha sonraki dönem binaları inşa edildi (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SPY_MISSIONS">
-			<Text>Adanma Bonusu: Her başarılı saldırgan Casus operasyonu (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Her başarılı saldırgan Casus operasyonu (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARTIFACT_EXTRACTIONS">
-			<Text>Adanma Bonusu: Çıkarılan her tarihi eser (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Çıkarılan her tarihi eser (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_GREAT_PEOPLE_EARNED">
-			<Text>Adanma Bonusu: Elde edilen her Büyük Kişi (her biri için +{1_ScoreIncrement})</Text>
+			<Text>Adanma bonusu: Elde edilen her Büyük Kişi (her biri için +{1_ScoreIncrement})</Text>
 		</Row>
 		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CURRENT_TECH_COMPLETIONS">
 			<Text>Mevcut çağdan veya daha sonraki bir çağdan tamamlanan teknolojiler (her biri için +{1_ScoreIncrement})</Text>

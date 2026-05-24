@@ -73,13 +73,13 @@
 			<Text>Akvaryum</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanak, 9 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 9 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Bu şehirdeki her kıyı kaynağı, Gemi Batığı ve Resif bölgesine +1 [ICON_SCIENCE] Bilim.</Text>
+			<Text>bonus [ICON_Amenities] Olanak, 9 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 9 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Bu şehirdeki her kıyı kaynağı, Gemi Batığı ve Resif bölgesine +1 [ICON_SCIENCE] Bilim.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
 			<Text>Su Sporları Merkezi</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanaklar, 9 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 9 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Bu şehirde veya Kıyı bölgesine bitişik olarak inşa edilen her Harika için +2 [ICON_Tourism] Turizm.</Text>
+			<Text>bonus [ICON_Amenities] Olanaklar, 9 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 9 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Bu şehirde veya Kıyı bölgesine bitişik olarak inşa edilen her Harika için +2 [ICON_Tourism] Turizm.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
 			<Text>Koruma Sosyal Politikası'na ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
@@ -88,10 +88,10 @@
 			<Text>Koruma Sosyal Politikası'na ilerledikten sonra 1 [ICON_TOURISM] Turizm sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanak, 6 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 6 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Bu şehirdeki her Yağmur Ormanı ve Bataklık bölgesine +1 [ICON_SCIENCE] Bilim.</Text>
+			<Text>bonus [ICON_Amenities] Olanak, 6 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 6 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Bu şehirdeki her Yağmur Ormanı ve Bataklık bölgesine +1 [ICON_SCIENCE] Bilim.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
-			<Text>Bonus [ICON_Amenities] Olanaklar, 6 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 6 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse +2 [ICON_Tourism] Turizm, 20 veya daha yüksekse +5 [ICON_Tourism] Turizm.</Text>
+			<Text>bonus [ICON_Amenities] Olanaklar, 6 kare içindeki her şehir merkezine uzanır. Bu bonus bir şehre bir kez uygulanır ve bir şehir merkezinin 6 kare içinde bu binanın birden fazla kopyası olması ek bonus sağlamaz. Şehrin [ICON_CITIZEN] nüfusu 10 veya daha yüksekse +2 [ICON_Tourism] Turizm, 20 veya daha yüksekse +5 [ICON_Tourism] Turizm.</Text>
 		</Row>
 		<!-- Neighborhood Buildings -->
 		<Row Tag="LOC_BUILDING_FOOD_MARKET_NAME">
@@ -147,7 +147,7 @@
 			<Text>Özgürlük Heykeli</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
-			<Text>2 Yerleşimci verir. 6 bölge mesafesindeki tüm şehirleriniz her zaman %100 Bağlılık sağlar. Kıyıda, karaya ve bir Liman bölgesine bitişik inşa edilmelidir.</Text>
+			<Text>2 Yerleşimci verir. 6 karo mesafesindeki tüm şehirleriniz her zaman %100 Bağlılık sağlar. Kıyıda, karaya ve bir Liman bölgesine bitişik inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
 			<Text>Tac Mahal</Text>

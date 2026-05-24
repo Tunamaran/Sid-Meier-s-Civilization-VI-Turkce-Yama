@@ -29,7 +29,7 @@
 			<Text>Narin Kemeri</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_DELICATE_ARCH_DESCRIPTION">
-			<Text>Tek bölmeli, geçilemez bir doğa harikası. Komşu bölgelere +2 [ICON_FAITH] İnanç ve +1 [ICON_GOLD] Altın sağlar.</Text>
+			<Text>Tek bölmeli, geçilemez bir doğa harikası. Komşu karolara +2 [ICON_FAITH] İnanç ve +1 [ICON_GOLD] Altın sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_NAME">
 			<Text>Sahra'nın Gözü</Text>
@@ -41,13 +41,13 @@
 			<Text>Matterhorn</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_MATTERHORN_DESCRIPTION">
-			<Text>Tek bölmeli, geçilemez bir doğa harikası. Komşu bölgelere +1 [ICON_CULTURE] Kültür sağlar. Matterhorn'un yanına hareket eden kara muharebe birimleri, oyunun geri kalanında Tepeleri yok sayar ve tepelerde savaşırken +3 [ICON_Strength] Muharebe Gücü kazanır.</Text>
+			<Text>Tek bölmeli, geçilemez bir doğa harikası. Komşu karolara +1 [ICON_CULTURE] Kültür sağlar. Matterhorn'un yanına hareket eden kara muharebe birimleri, oyunun geri kalanında Tepeleri yok sayar ve tepelerde savaşırken +3 [ICON_Strength] Muharebe Gücü kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_RORAIMA_NAME">
 			<Text>Roraima Dağı</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_RORAIMA_DESCRIPTION">
-			<Text>Dört bölgeli, geçilemez bir doğa harikası. Komşu bölgelere +1 [ICON_FAITH] İnanç ve +1 [ICON_SCIENCE] Bilim sağlar.</Text>
+			<Text>Dört bölgeli, geçilemez bir doğa harikası. Komşu karolara +1 [ICON_FAITH] İnanç ve +1 [ICON_SCIENCE] Bilim sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_FEATURE_UBSUNUR_HOLLOW_NAME">
 			<Text>Ubsunur Çukuru</Text>
@@ -154,7 +154,7 @@
 		</Row>
 		<!-- England -->
 		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
-			<Text>İngiltere'ye özgü, şehrinizdeki deniz faaliyetleri için bir bölge. Liman Bölgesi'nin yerini alır. Ayrıca bu bölgeye çıkarma ve bu bölgeden denize açılma [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl Arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Tersanede inşa edilen tüm deniz birimlerine +1 [ICON_Movement] Hareket[NEWLINE]Yabancı bir kıtada inşa edildiğinde tur başına +2 [ICON_Gold] Altın ve +4 Bağlılık. Resif üzerine inşa edilemez.</Text>
+			<Text>İngiltere'ye özgü, şehrinizdeki deniz faaliyetleri için bir bölge. Liman Bölgesi'nin yerini alır. Ayrıca bu karoya çıkarma ve bu karodan denize açılma [ICON_Movement] Hareket cezasını kaldırır. Karaya bitişik Kıyı veya Göl Arazisine inşa edilmelidir.[NEWLINE][NEWLINE]Tersanede inşa edilen tüm deniz birimlerine +1 [ICON_Movement] Hareket[NEWLINE]Yabancı bir kıtada inşa edildiğinde tur başına +2 [ICON_Gold] Altın ve +4 Bağlılık. Resif üzerine inşa edilemez.</Text>
 		</Row>
 		<!-- Lautaro-->
 		<Row Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
@@ -228,7 +228,7 @@
 			<Text>Mekewap</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
-			<Text>İşçi'nin, Kri'ye özgü bir Mekewap inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Üretim ve +1 [ICON_Housing] Konut sağlar. Bir Lüks Kaynağa bitişikse +1 [ICON_Gold] Altın sağlar. Bitişikteki her 2 Bonus Kaynak için +1 [ICON_FOOD] Besin sağlar. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_PRODUCTION] Üretim, [ICON_Gold] Altın, [ICON_FOOD] Besin ve [ICON_HOUSING] Konut kazandırır. Bir Bonus veya Lüks Kaynağa bitişik olarak inşa edilmelidir. Başka bir Mekewap'ın bitişiğine inşa edilemez.</Text>
+			<Text>İşçi'nin, Kri'ye özgü bir Mekewap inşa etme yeteneğini açar.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Üretim ve +1 [ICON_Housing] Konut sağlar. Bir Lüks Kaynağa bitişikse +1 [ICON_Gold] Altın sağlar. Bitişikteki her 2 bonus Kaynak için +1 [ICON_FOOD] Besin sağlar. Yönetim Bilimleri ve Teknoloji Ağacında ilerledikçe ek [ICON_PRODUCTION] Üretim, [ICON_Gold] Altın, [ICON_FOOD] Besin ve [ICON_HOUSING] Konut kazandırır. Bir bonus veya Lüks Kaynağa bitişik olarak inşa edilmelidir. Başka bir Mekewap'ın bitişiğine inşa edilemez.</Text>
 		</Row>
 		<!-- Robert the Bruce -->
 		<Row Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
@@ -309,7 +309,7 @@
 			<Text>Örtöö</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
-			<Text>Bir [ICON_TradeRoute] Ticaret Yolu başlatmak, varış şehrinde hemen bir [ICON_TradingPost] Ticaret Karakolu oluşturur. Bir uygarlığın herhangi bir şehrinde bir [ICON_TradingPost] Ticaret Karakoluna sahip olmak için fazladan bir seviye [ICON_VisLimited] Diplomatik Görünürlük kazanın. Tüm Moğol birimleri, rakiplerinden daha yüksek bir [ICON_VisLimited] Diplomatik Görünürlük seviyesine sahip oldukları için olağan [ICON_Strength] Muharebe Bonusunu ikiye katlar.</Text>
+			<Text>Bir [ICON_TradeRoute] Ticaret Yolu başlatmak, varış şehrinde hemen bir [ICON_TradingPost] Ticaret Karakolu oluşturur. Bir uygarlığın herhangi bir şehrinde bir [ICON_TradingPost] Ticaret Karakoluna sahip olmak için fazladan bir seviye [ICON_VisLimited] Diplomatik Görünürlük kazanın. Tüm Moğol birimleri, rakiplerinden daha yüksek bir [ICON_VisLimited] Diplomatik Görünürlük seviyesine sahip oldukları için olağan [ICON_Strength] Muharebe bonusunu ikiye katlar.</Text>
 		</Row>
 		<Row Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
 			<Text>Cengiz Han</Text>
