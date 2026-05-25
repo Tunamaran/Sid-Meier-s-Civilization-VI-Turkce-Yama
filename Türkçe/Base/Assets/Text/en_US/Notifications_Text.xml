@@ -135,13 +135,13 @@
 			<Text>Savaş İlanı</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_DECLARE_WAR_SUMMARY">
-			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?has; other?have;} {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}'e savaş ilan etti.</Text>
+			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?; other?ler;} {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}}'e savaş ilan etti.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_MESSAGE">
 			<Text>Barış Sağlandı</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_MAKE_PEACE_SUMMARY">
-			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?has; other?have;} {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}} ile barış imzaladı.</Text>
+			<Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?; other?ler;} {LOC_GRAMMAR_LEADER &lt;&lt; {2_leader}} ile barış imzaladı.</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_PLAYER_MET_MESSAGE_CIV">
 			<Text>Yeni bir uygarlıkla tanıştınız</Text>

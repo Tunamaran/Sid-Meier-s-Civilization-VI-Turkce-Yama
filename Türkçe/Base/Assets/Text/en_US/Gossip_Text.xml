@@ -186,31 +186,31 @@
 			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?is; other?are;} {LOC_GRAMMAR_CIVNAME &lt;&lt; {2_CivName}} uygarlığına karşı bir savaşı değerlendiriyor.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_INQUISITION_LAUNCHED">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} {2_ReligionName} dinine karşı çıkan sapkınları temizlemek için bir engizisyon başlattı.</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?lar;} {2_ReligionName} dinine karşı çıkan sapkınları temizlemek için bir engizisyon başlattı.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_LAND_UNIT_LEVEL">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} bir {2_UnitName} birimi az önce {3_PromotionName} terfisini kazandı.</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?lar;} bir {2_UnitName} birimi az önce {3_PromotionName} terfisini kazandı.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_MAKE_DOW">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} az önce {2_OtherPlayer} uygarlığına savaş ilan etti!</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?ler;} az önce {2_OtherPlayer} uygarlığına savaş ilan etti!</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_NATIONAL_PARK_CREATED">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} az önce {2_NationalParkName} adlı milli parkı oluşturdu.</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?lar;} az önce {2_NationalParkName} adlı milli parkı oluşturdu.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_NAVAL_UNIT_LEVEL">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} bir {2_UnitName} deniz birimi az önce {3_PromotionName} terfisini kazandı.</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?lar;} bir {2_UnitName} deniz birimi az önce {3_PromotionName} terfisini kazandı.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_NEW_RELIGIOUS_MAJORITY">
 			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} uygarlığındaki şehirlerin çoğu artık {2_ReligionName} dinini takip ediyor.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_PILLAGE">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} {LOC_GRAMMAR_A_AN &lt;&lt; {3_UnitName}} birimiyle düşman {2_TargetName}'i yağmaladı.</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?lar;} {LOC_GRAMMAR_A_AN &lt;&lt; {3_UnitName}} birimiyle düşman {2_TargetName}'i yağmaladı.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_POLICY_ENACTED">
 			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {2_SlotName} politikası olarak {3_PolicyName}'i benimsedi.</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_RECEIVE_DOW">
-			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} {2_OtherPlayer} tarafından savaş ilanı hedefi oldu!</Text>
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?; other?lar;} {2_OtherPlayer} tarafından savaş ilanı hedefi oldu!</Text>
 		</Row>
 		<Row Tag="LOC_GOSSIP_RELIC_RECEIVED">
 			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} uygarlığından hacılar, {2_RelicName} adlı kutsal emaneti görmek için akın ediyor.</Text>
