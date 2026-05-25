@@ -3756,7 +3756,7 @@
 			<Text>Son nefese kadar seninle boğuşurum;[NEWLINE]Cehennemin ta kalbinden sana saplarım;[NEWLINE]Nefret adına son soluğumu yüzüne tükürürüm.[NEWLINE]Yani, hayır.</Text>
 		</Row>
 		<Row Tag="LOC_ACCEPT_WAR">
-			<Text>Molon Labe.</Text>
+			<Text>Cesaretin varsa gel de al.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOPANEL_PANEL_HEADER">
 			<Text>{1_CivName} için Dış İlişkiler</Text>
