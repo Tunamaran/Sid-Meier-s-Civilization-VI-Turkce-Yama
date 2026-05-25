@@ -677,7 +677,7 @@
 			<Text>Altyapı</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
-			<Text>+%30 [ICON_Üretim] Şehir Merkezi ve Hükümet Meydanı binalarına yönelik Üretim.</Text>
+			<Text>+%30 [ICON_Production] Şehir Merkezi ve Hükümet Meydanı binalarına yönelik Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
 			<Text>Su Ürünleri Yetiştiriciliği</Text>
@@ -689,43 +689,43 @@
 			<Text>Parklar ve Rekreasyon</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
-			<Text>Şehir Parkı eşsiz iyileştirmesi şehirde inşa edilebilir. 2 Çekicilik ve 1 [ICON_Kültür] Kültür sağlar. Suya komşuysa +1 [ICON_Olanak] Olanak.</Text>
+			<Text>Şehir Parkı eşsiz iyileştirmesi şehirde inşa edilebilir. 2 Çekicilik ve 1 [ICON_Culture] Kültür sağlar. Suya komşuysa +1 [ICON_Amenities] Olanak.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
 			<Text>İmar Komiseri</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
-			<Text>+%20 [ICON_Üretim] şehirde bölge inşasına yönelik Üretim.</Text>
+			<Text>+%20 [ICON_Production] şehirde bölge inşasına yönelik Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
 			<Text>Eğlence</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
-			<Text>+%30 [ICON_Üretim] şehirdeki Eğlence Kompleksi ve Su Parkı binalarına yönelik Üretim.</Text>
+			<Text>+%30 [ICON_Production] şehirdeki Eğlence Kompleksi ve Su Parkı binalarına yönelik Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
 			<Text>Kütüphaneci</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
-			<Text>Şehir tarafından üretilen [ICON_Bilim] Bilim ve [ICON_Kültür] Kültürde %15 artış.</Text>
+			<Text>Şehir tarafından üretilen [ICON_Science] Bilim ve [ICON_Culture] Kültürde %15 artış.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
 			<Text>Uzman</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
-			<Text>+%20 [ICON_Üretim] şehirdeki Tiyatro Meydanı binalarına yönelik Üretim.</Text>
+			<Text>+%20 [ICON_Production] şehirdeki Tiyatro Meydanı binalarına yönelik Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
 			<Text>Araştırmacı</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
-			<Text>+%20 [ICON_Üretim] şehirdeki Kampüs binalarına yönelik Üretim.</Text>
+			<Text>+%20 [ICON_Production] şehirdeki Kampüs binalarına yönelik Üretim.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
 			<Text>Hibeler</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
-			<Text>Şehirde tur başına üretilen [ICON_BüyükKişi] Büyük Kişi puanlarında %100 artış.</Text>
+			<Text>Şehirde tur başına üretilen [ICON_GreatPerson] Büyük Kişi puanlarında %100 artış.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
 			<Text>Silahlanma Yarışı Savunucusu</Text>

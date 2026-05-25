@@ -2,7 +2,7 @@
 <GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<BaseGameText>
     <Row Tag="LOC_PEDIA_CIVICS_PAGE_INTRO_CHAPTER_CONTENT_PARA_1">
-      <Text>[ICON_Kültür] Kültürden edinilen her Yönetim Bilimi, yeni sosyal politikaların, hükümetlerin, binaların, bölgelerin veya harikaların kilidini açar. Yönetim Bilimleri Ağacı'nda ilerlemek, uygarlığınızı zaman içinde ilerletmenin güçlü bir yoludur.</Text>
+      <Text>[ICON_Culture] Kültürden edinilen her Yönetim Bilimi, yeni sosyal politikaların, hükümetlerin, binaların, bölgelerin veya harikaların kilidini açar. Yönetim Bilimleri Ağacı'nda ilerlemek, uygarlığınızı zaman içinde ilerletmenin güçlü bir yoludur.</Text>
     </Row>
 		<Row Tag="LOC_PEDIA_CIVICS_PAGE_CIVIC_CAPITALISM_CHAPTER_HISTORY_PARA_1">
 			<Text>Tarihin kara deliğinde (yani yazılı kayıtlardan önce) insanlar, emek, ticaret ve yatırım unsurlarını içeren çeşitli karmaşık ekonomiler kurmuşlardı. Ekonomik durumlar, 14. yüzyıla, Büyük Kıtlık (1315-1317) ve Kara Veba'nın (1348-1350) önce İngiltere'de, ardından tüm Avrupa'da işgücü kıtlığı nedeniyle malikâne sisteminin çöküşüne yol açtığı ana kadar oldukça ilkel kaldı. Feodal beyler, mülklerini işletmek için serflere ihtiyaç duyuyorlardı ve bu nedenle işçi kiralamaya başladılar; bu arada, loncalarının tamamen yok olduğu kasaba ve şehirlerde, ücretlerin ortaya çıkışı, zanaatkârları sadece geçimlik için değil, para karşılığında çalışmak üzere buralara taşınmaya teşvik etti. Tüm bunlar, kapitalizmin öncülleri olan sömürgecilik ve merkantilizmin temellerini attı. Merkantilizmin bir ekonomik ilerleme gücü olmadığını, aksine emeğin en önemli değişim para birimi olduğu bir uygarlıkta bir engel olduğunu ilk savunan Adam Smith oldu.</Text>
