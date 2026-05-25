@@ -157,10 +157,10 @@
 			<Text>Hoş geldiniz yeniden.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SIMON_BOLIVAR_ANY">
-			<Text>Görünen o ki, hem tarihi hem de devlet yönetimini iyi terfi ettirilmiş bir orduyla anlıyorsunuz. Halkınız liderliğinizden faydalanıyor.</Text>
+			<Text>Görünen o ki, deneyimli bir orduyla beraber hem tarihe hem de devlet idaresine oldukça vakıfsınız. Halkınız liderliğinizin meyvelerini topluyor.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SIMON_BOLIVAR_ANY">
-			<Text>Dostane bir uyarı sözü sunabilir miyim? Yöntemlerinizi değiştirin dostum, yoksa terfi ettirilmiş ordulara liderlik edenler onları sizin için değiştirir.</Text>
+			<Text>Size dostça bir tavsiye vermeme izin verin: Tavırlarınızı değiştirin dostum, yoksa deneyimli ordulara hükmedenler o tavırları sizin yerinize zorla değiştirmesini bilir.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
 			<Text>Özgürlük mücadeleme katılır mısınız?</Text>
