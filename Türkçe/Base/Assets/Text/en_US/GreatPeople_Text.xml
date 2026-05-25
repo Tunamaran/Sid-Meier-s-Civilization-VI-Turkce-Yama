@@ -441,53 +441,53 @@
 			<Text>Herhangi bir hükümette +1 Ekonomik Politika Yuvası.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_JEANS">
-			<Text>{Amount} [ICON_RESOURCE_JEANS] Kot, eşsiz bir şekilde üretilmiş ve +4 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+			<Text>{Amount} [ICON_RESOURCE_JEANS] Kot, eşsiz bir şekilde üretilmiş ve +4 [ICON_Amenities] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GOLD_LARGE">
 			<Text>{Amount : number #} [ICON_Gold] Altın kazanın.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_PERFUME">
-			<Text>{Amount} [ICON_KAYNAK_PARFÜM] Parfüm, eşsiz bir şekilde üretilmiş ve +6 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+			<Text>{Amount} [ICON_RESOURCE_PERFUME] Parfüm, eşsiz bir şekilde üretilmiş ve +6 [ICON_Amenities] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_ACTIVE">
-			<Text>1 [ICON_KAYNAK_PETROL] Petrol, bir Stratejik Kaynak bahşeder. [ICON_TicaretYolu] Ticaret Yollarınız, varış şehrindeki her Stratejik Kaynak için +2 [ICON_Gold] Altın kazanır.</Text>
+			<Text>1 [ICON_RESOURCE_OIL] Petrol, bir Stratejik Kaynak bahşeder. [ICON_TradeRoute] Ticaret Yollarınız, varış şehrindeki her Stratejik Kaynak için +2 [ICON_Gold] Altın kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_OIL">
-			<Text>{Amount} [ICON_KAYNAK_PETROL] Petrol, bir Stratejik Kaynak bahşeder.</Text>
+			<Text>{Amount} [ICON_RESOURCE_OIL] Petrol, bir Stratejik Kaynak bahşeder.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DOMESTIC_ROUTE_GOLD_PER_STRATEGIC">
-			<Text>[ICON_TicaretYolu] Ticaret Yollarınız, varış şehri tarafından geliştirilmiş her Stratejik Kaynak için +{Amount} [ICON_Gold] Altın kazanır.</Text>
+			<Text>[ICON_TradeRoute] Ticaret Yollarınız, varış şehri tarafından geliştirilmiş her Stratejik Kaynak için +{Amount} [ICON_Gold] Altın kazanır.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_TRADE_ROUTE_TOURISM_MODIFIER">
-			<Text>[ICON_TicaretYolu] Ticaret Yolu sahibi olduğunuz diğer uygarlıklara karşı +{Amount}% [ICON_Turizm] Turizm oranı.</Text>
+			<Text>[ICON_TradeRoute] Ticaret Yolu sahibi olduğunuz diğer uygarlıklara karşı +{Amount}% [ICON_Tourism] Turizm oranı.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_COSMETICS">
-			<Text>{Amount} [ICON_KAYNAK_KOZMETİK] Kozmetik, eşsiz bir şekilde üretilmiş ve +4 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+			<Text>{Amount} [ICON_RESOURCE_COSMETICS] Kozmetik, eşsiz bir şekilde üretilmiş ve +4 [ICON_Amenities] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_DIPLO_VISIBILITY">
 			<Text>Diğer tüm uygarlıklarla +{Amount} {Amount : plural 1?seviye; other?seviye;} diplomatik görünürlük.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_GRANT_TOYS">
-			<Text>{Amount} [ICON_KAYNAK_OYUNCAK] Oyuncak, eşsiz bir şekilde üretilmiş ve +4 [ICON_Olanak] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
+			<Text>{Amount} [ICON_RESOURCE_TOYS] Oyuncak, eşsiz bir şekilde üretilmiş ve +4 [ICON_Amenities] Olanak sağlayan bir Lüks Kaynak bahşeder.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_INDUSTRIAL_ZONE_TOURISM">
-			<Text>Sanayi Bölgesi bölgeleri +{Amount} [ICON_Turizm] Turizm sağlar.</Text>
+			<Text>Sanayi Bölgesi bölgeleri +{Amount} [ICON_Tourism] Turizm sağlar.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_CAMPUS_TOURISM">
-			<Text>Kampüs bölgeleri +{Amount} [ICON_Turizm] Turizm sağlar.</Text>
+			<Text>Kampüs bölgeleri +{Amount} [ICON_Tourism] Turizm sağlar.</Text>
 		</Row>
 		<!-- Scientists -->
 		<Row Tag="LOC_GREATPERSON_3CLASSICALMEDIEVALTECHBOOSTS">
-			<Text>Klasik veya Orta Çağ'dan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+			<Text>Klasik veya Orta Çağ'dan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş Anı'nı tetikler.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_EUCLID_ACTIVE">
-			<Text>Matematik ve Orta Çağ'dan 1 rastgele teknoloji için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+			<Text>Matematik ve Orta Çağ'dan 1 rastgele teknoloji için [ICON_TechBoosted] Buluş Anı'nı tetikler.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_1MEDIEVALTECHBOOST">
-			<Text>Orta Çağ'dan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+			<Text>Orta Çağ'dan {Amount} rastgele {Amount : plural 1?teknoloji; other?teknoloji;} için [ICON_TechBoosted] Buluş Anı'nı tetikler.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_MATHTECHBOOST">
-			<Text>Matematik teknolojisi için [ICON_TeknolojiHızlandırıldı] Buluş Anı'nı tetikler.</Text>
+			<Text>Matematik teknolojisi için [ICON_TechBoosted] Buluş Anı'nı tetikler.</Text>
 		</Row>
 		<Row Tag="LOC_GREATPERSON_LIBRARY">
 			<Text>Bu bölgede anında bir Kütüphane inşa eder.</Text>
