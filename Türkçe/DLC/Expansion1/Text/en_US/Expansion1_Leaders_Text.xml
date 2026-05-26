@@ -77,6 +77,9 @@
 		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
 			<Text>Binası olan bölgeleriniz, türlerine göre +1 [ICON_GreatPerson] Büyük Kişi puanı sağlar (Tiyatro Meydanı bölgeleri için binası varsa [ICON_GreatWriter] Büyük Yazar, [ICON_GreatArtist] Büyük Sanatçı ve [ICON_GreatMusician] Büyük Müzisyen).</Text>
 		</Row>
+    <Row Tag="LOC_LEADER_TRAIT_TORONTO_XP1_DESCRIPTION">
+      <Text>Sanayi Bölgesi, Su Parkı ve Eğlence Kompleksi bölgelerinizden gelen bölgesel etkiler 3 karo daha uzağa ulaşır.</Text>
+    </Row>
 		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
 			<Text>En yüksek aktif İttifak Seviyesi için, tüm Tiyatro Meydanı bölgeleriniz %50 daha fazla komşuluk bonusu alır.</Text>
 		</Row>

@@ -13,6 +13,9 @@ Desktop.ini
 # Git
 .git/
 
+# Reasonix
+.reasonix/
+
 # Temp
 *.bak
 *.tmp

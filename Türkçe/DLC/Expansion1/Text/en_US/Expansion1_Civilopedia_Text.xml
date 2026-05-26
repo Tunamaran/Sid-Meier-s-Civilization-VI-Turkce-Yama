@@ -118,6 +118,48 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_PARA_7">
 			<Text>Karanlık Çağ: Bir Karanlık Çağ'a girerseniz, yalnızca Karanlık Çağ'da geçerli olan özel Politikalara erişim kazanabilirsiniz. Karanlık Çağ Politikalarının seçimi, Çağlar ilerledikçe değişecektir. Bu politikalar size yardımcı olabilecek özel bir avantaj sağlayabilir, ancak sizi başka yönlerden kısıtlayabilecek bir maliyeti vardır.</Text>
 		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_1">
+			<Text>Casus Belli, Latince "savaş gerekçesi" anlamına gelen bir ifadedir. Hukukta bunlar, ulusların birbirleriyle savaşa girmeleri için yasal olarak tanınan sebeplerdir. Medeniyet VI'da ise başka bir uygarlıkla savaşa girmek için belirttiğiniz gerekçelerdir ve diplomasideki savaş kışkırtıcılığı cezasına yansıdığı üzere diğer uygarlıkların size karşı tutumunu etkiler (ayrıca Muharebe bölümündeki Savaş Kışkırtıcılığı kısmına da bakın).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_2">
+			<Text>Casus Belli'ler, savaş ilanı veya şehir ele geçirme için normal savaş kışkırtıcılığı cezasının azaltıldığı veya ortadan kaldırıldığı savaş gerekçelerini temsil eder. İlk Casus Belli, Erken İmparatorluk'u araştırdıktan sonra kullanılabilir hale gelir ve diğerleri diğer yönetim bilimlerini araştırdıkça kullanıma açılır. Birine karşı Casus Belli kullanabilmek için o gücü kınamanız gerekir. Her biri, savaş kışkırtıcılığı cezalarının ayrıntılarıyla birlikte aşağıda açıklanmıştır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_3">
+			<Text>Resmî Savaş: Bir düşmanı kınadıktan ve 5 tur bekledikten sonra Resmî Savaş ilan edebilirsiniz; ardından hedefinizle olan diplomasi ekranında Resmî Savaş seçeneği kullanılabilir olacaktır. Resmî Savaş, savaş ilanı veya düşman şehirlerini ele geçirme için mevcut çağın standart diplomatik cezasını taşır (bu diplomatik cezanın oyun ilerledikçe arttığını unutmayın). Bir düşman şehrini yerle bir etmek, şehri sadece ele geçirmenin üç katı ceza taşır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_4">
+			<Text>Sürpriz Savaş: Hemen hemen her zaman Sürpriz Savaş ilan edebilirsiniz, ancak bunu yapmak ağır savaş kışkırtıcılığı cezaları taşır; genellikle mevcut çağdaki bir Resmî Savaş'ın savaş kışkırtıcılığı cezasının ek %50'si kadar. Şehir ele geçirmek de benzer şekilde ek %50 ceza alır ve bir Sürpriz Savaş sırasında bir düşman şehrini yerle bir etmek özellikle ağırdır — çağ için %450 savaş kışkırtıcılığı cezası taşır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_5">
+			<Text>Kutsal Savaş: Dininiz hedefinizinkinden farklıysa, Diplomatik Hizmetler sosyal politikasını araştırdıysanız ve hedefinizi kınayıp 5 tur beklediyseniz Kutsal Savaş ilan edebilirsiniz. Kutsal Savaş sırasında, savaş ilanı, şehir ele geçirme veya şehirleri yerle bir etme için mevcut çağın savaş kışkırtıcılığı cezasının yalnızca %50'si uygulanır. Düşman şehirlerini yerle bir etmek istiyorsanız, Kutsal Savaş bunu yapmanın diplomatik açıdan en az maliyetli yollarından biridir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_6">
+			<Text>Ortak Savaş: Başka bir uygarlıkla bir hedefe karşı Ortak Savaş ilan edebilirsiniz. Ortak Savaş'taki her iki ortağın da Dış Ticaret sosyal politikasını araştırmış olması gerekir. Ortak Savaş anlaşması 30 tur sürer ve çağdaki bir Resmî Savaş ile aynı savaş kışkırtıcılığı cezalarını taşır.</Text>
+		</row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_7">
+			<Text>Yeniden Fetih Savaşı: Başka bir uygarlık sizin kurduğunuz bir şehri ele geçirdiyse ve Savunma Taktikleri sosyal politikasını araştırdıysanız Yeniden Fetih Savaşı ilan edebilirsiniz. Savaş ilan etmeden önce hedefinizi kınamanız ve 5 tur beklemeniz gerekir. Bu Casus Belli, hiçbir savaş kışkırtıcılığı cezası taşımaması bakımından benzersizdir. Ayrıca başarıyla ele geçirmeniz halinde yeniden fetih hedefinizi cezasız olarak yerle bir etmeyi seçebilirsiniz. Belki geri aldığınız şehrin görüntüsüne dayanamıyorsunuzdur? Siz amansız tiran; canınız ne istiyorsa onu yapın.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_8">
+			<Text>Koruma Savaşı: Müttefik şehir devletlerinizden biri büyük bir uygarlık tarafından savaş hedefi seçilmişse ve Savunma Taktikleri sosyal politikasını araştırdıysanız Koruma Savaşı ilan edebilirsiniz. Savaş ilan etmeden önce hedefinizi kınamanız ve 5 tur beklemeniz gerekir. Hedefinize savaş ilan etmenin savaş kışkırtıcılığı cezası yoktur, ancak bir düşman şehrini ele geçirirseniz çağın bir Resmî Savaş'a eşit savaş kışkırtıcılığı cezasına maruz kalırsınız. Bir Koruma Savaşı sırasında düşman şehrini yerle bir etmek, çağın savaş kışkırtıcılığı cezasının üç katını taşır. Başka bir uygarlığın üçüncü bir tarafa karşı saldırganlığını toprak kapmak için gerekçe olarak kullanamazsınız.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_9">
+			<Text>Kurtuluş Savaşı: Bir dostun veya müttefikin şehirleri fethedilmişse ve Diplomatik Hizmetler sosyal politikasını araştırdıysanız Kurtuluş Savaşı ilan edebilirsiniz. Savaş ilan etmeden önce hedefinizi kınamanız ve 5 tur beklemeniz gerekir. Hedefinize savaş ilan etmenin savaş kışkırtıcılığı cezası yoktur. Başka, farklı bir düşman şehrini ele geçirirseniz çağın bir Resmî Savaş'a eşit savaş kışkırtıcılığı cezasına maruz kalırsınız ve bir düşman şehrini yerle bir ederseniz çağın savaş kışkırtıcılığı cezasının %600'üne maruz kalırsınız! Bu, diplomatik açıdan en maliyetli savaş kışkırtıcılığı cezasıdır; çünkü özgürlük adına şehirleri yakmak, dünyanın diğer uygarlıklarına özellikle korkunç gelir.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_10">
+			<Text>Sömürge Savaşı: Sizden 2 teknoloji geride olan bir uygarlığa karşı ve Milliyetçilik sosyal politikasını araştırdıysanız Sömürge Savaşı ilan edebilirsiniz. Savaş ilan etmeden önce hedefinizi kınamanız ve 5 tur beklemeniz gerekir. Bu Casus Belli, savaş ilanı ve şehir ele geçirme için çağın savaş kışkırtıcılığı cezasının yalnızca %50'sine sahiptir. Bir şehri yerle bir ederseniz, çağ için bir Resmî Savaş kadar tam savaş kışkırtıcılığı cezası alırsınız; çünkü dünya artık hedefinize "aydınlanma getirme" bahanelerinize inanmaz.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_11">
+			<Text>Toprak Savaşı: Seferberlik sosyal politikasını araştırdıysanız bir uygarlığa karşı Toprak Savaşı ilan edebilirsiniz. Hedefin, sizin 2 şehrinizin 10 karo yakınında 2 şehri bulunmalıdır. Hedefinizi kınamanız ve 5 tur beklemeniz gerekir. Bu Casus Belli, savaş ilanı ve şehir ele geçirme için çağın Resmî Savaş savaş kışkırtıcılığı cezasını %25 azaltır. Şehirleri yerle bir etmek, bir Resmî Savaş altında bunu yapmanın savaş kışkırtıcılığı cezalarının %50'si kadar ceza taşır. Bu Casus Belli, genişlemek istediğiniz bölgelerde bulunan düşman şehirlerini ortadan kaldırmak istiyorsanız kullanışlıdır.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_12">
+			<Text>Altın Çağ Savaşı: Silah Başına! Adanmasını seçtiyseniz ve hedefinizi kınadıysanız Altın Çağ Savaşı ilan edebilirsiniz. Bu Casus Belli'ye erişmek için hedefinizi kınadıktan sonra beklemeniz gerekmez. Bu süre zarfında savaş kışkırtıcılığı ve şehir ele geçirme cezalarınız çağın savaş kışkırtıcılığı cezasının yalnızca %25'i kadardır; bu da bunu rakiplerinizden toprak kapmanın diplomatik açıdan en az maliyetli yollarından biri haline getirir. Bir şehri yerle bir etmenin savaş kışkırtıcılığı cezası, bir Resmî Savaş'taki ile aynıdır — çağın normal savaş kışkırtıcılığı cezasının %300'ü. Bir Altın Çağ'a sahip olmak size diğer ulusların saygısını kazandırır, ancak cezasız hareket etme lisansı vermez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_13">
+			<Text>İntikam Savaşı: Erken İmparatorluk sosyal politikasını araştırdıysanız ve başka bir uygarlık son 30 tur içinde size verdiği bir sözü bozduysa İntikam Savaşı ilan edebilirsiniz. Savaş ilan etmeden önce hedefinizi kınamanız ve 5 tur beklemeniz gerekir. İntikam Savaşı sırasında, savaş ilanı ve şehir ele geçirme için mevcut çağın Resmî Savaş savaş kışkırtıcılığı cezalarında %50 azalma olur, ancak şehirleri yerle bir etmek size mevcut çağın savaş kışkırtıcılığı cezası için %200 ceza verir. Bir düşman size verdiği sözü bozmuş olsa da, bu onun şehirlerini intikam için yakıp yıkmanıza izin vermez.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_14">
+			<Text>İdeolojik Savaş: İdeoloji sosyal politikasını araştırdıysanız ve hedefinizden farklı bir 3. Kademe hükümete sahipseniz İdeolojik Savaş ilan edebilirsiniz. Hedefinizi kınamanız ve 5 tur beklemeniz gerekir. İdeolojik Savaş sırasında, savaş ilanı, şehir ele geçirme ve şehirleri yerle bir etme için çağın savaş kışkırtıcılığı cezalarında %50 azalma olur.</Text>
+		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_T_ROOSEVELT_CHAPTER_DETAILED_BODY">
 			<Text>Oyunun başlarında, Amerika'nın tek avantajı kendi kıtasında +5 [ICON_Strength] Muharebe Gücü'dür. Kıtaları boyunca hızla genişlemek ve yakınlardaki şehir devletlerinin desteğini kazanmak isteyeceklerdir. Diplomatik politika yuvalarının joker yuvalara dönüşmesiyle hükümet seçimleri önem kazanır; ancak Klasik Cumhuriyet ve Tüccar Cumhuriyeti, Amerika'nın tercihi olan Kültür Zaferi için en faydalı olanlardır. Ayrıca Hükümet Meydanları'nda Ulusal Tarih Müzesi inşa etmeyi düşünmelidirler. Film Stüdyoları, Milli Park bonusu ve Sanayi sonrası iki eşsiz birimleriyle 20. yüzyıldan itibaren parlamaya başlarlar.</Text>
 		</Row>

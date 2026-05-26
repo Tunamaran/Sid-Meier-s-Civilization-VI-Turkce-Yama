@@ -148,5 +148,78 @@
 		<Row Tag="ADVISOR_LINE_LISTENER_81">
 			<Text>Kendi halkımız oldukça yetenekli olsa da, başkalarından öğrenmekten her zaman fayda sağlayabiliriz. Belki de komşularımızdan biriyle bir Araştırma İttifakı başlatmayı düşünmeliyiz.</Text>
 		</Row>
+		<!-- Super Advisor Lines -->
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_WELCOME">
+			<Text>Medeniyet VI: Yükseliş ve Çöküş'e hoş geldiniz! Bu rehber sizi bu genişletme paketindeki yeni özelliklerle tanıştıracak. Ek bilgileri Civilopedia ve Danışman'da bulabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_ERAS">
+			<Text>Oyunda büyük başarılar elde ederek Tarihi Anlar kazanın. Her An, Çağ Puanınıza katkı sağlar ve Zaman Çizelgenizde incelenebilir. Çağ Puanı, uygarlığınızın mevcut Çağ'daki performansını gösterir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_ERAS_DETAILS_1">
+			<Text>Tarihi Anlar, oyundaki önemli anları kayıt altına alır. Barbar Kampı yok etmek, yeni şehirler kurmak, yeni kıtalar keşfetmek, ilk Eşsiz Biriminizi oluşturmak veya dünyayı dolaşmak gibi olaylar için oyunun her Çağı'nda Tarihi Anlar bulunur.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES">
+			<Text>Bir sonraki oyun çağında Karanlık Çağ'dan kaçınmak veya Altın Çağ kazanmak için Çağ Puanınızın ilerleyişini takip edin. Mavi çubuğu doldurursanız Karanlık Çağ'dan kaçınırsınız. Altın çubuğu doldurursanız bir Altın Çağ kazanırsınız. Altın ve Karanlık Çağlar size bonuslar verir ve şehirlerinizin vatandaşlarının Bağlılığını etkileyebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_1">
+			<Text>Bir sonraki oyun çağında Karanlık Çağ'dan kaçınmak veya Altın Çağ kazanmak için Çağ Puanınızın ilerleyişini takip edin. Mavi çubuğu doldurursanız Karanlık Çağ'dan kaçınırsınız. Altın çubuğu doldurursanız bir Altın Çağ kazanırsınız. Altın ve Karanlık Çağlar size bonuslar verir ve şehirlerinizin vatandaşlarının Bağlılığını etkileyebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2">
+			<Text>Karanlık Çağlar, halkınız için zorlu dönemlerdir. Düşen Bağlılık, uygarlığınızın sınırındaki şehirlerin ayrılarak bağımsız şehirler haline gelmesine veya diğer oyuncular tarafından fethedilip uygarlıklarına katılmasına yol açabilir. Bir Karanlık Çağ'a düşerseniz endişelenmeyin veya çok üzülmeyin, çünkü bir Kahramanlık Çağı'na girme şansınız vardır. Karanlık Çağ'dayken Altın Çağ'a girme eşiğiniz daha düşük olacaktır ve bu Altın Çağ eşiğini geçerseniz bir Kahramanlık Çağı'na girersiniz. Ayrıca özel, güçlü Sosyal Politikalara erişim kazanırsınız.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3">
+			<Text>Altın Çağ, halkınız için büyük bir refah dönemidir. Şehirlerinizin uygarlığınızda kalma olasılığı artmakla kalmaz, aynı zamanda yakındaki şehirleri de uygarlığınıza katabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY">
+			<Text>Bağlılık, şehrinizin [ICON_Citizen] Vatandaşlarının uygarlığınıza ne kadar bağlı olduğunun bir ölçüsüdür. Bağlılık 0'a ulaşırsa şehir isyan eder ve askerî güçlerin veya Bağlılık baskısının taleplerine açık bir Özgür Şehir haline gelir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1">
+			<Text>Bir şehrin Bağlılığını birçok faktör etkiler. Valiler, Altın veya Karanlık Çağlar ve yakındaki şehirlerden gelen Bağlılık baskısı en büyük faktörlerdir, ancak Bağlılık ayrıca sosyal politika seçimlerinizden, casus operasyonlarından ve askerî birliklerin varlığından da etkilenebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2">
+			<Text>Şehirlerinizin Bağlılığını yakındaki uygarlıklarınkinden daha yüksek tutabilirseniz, bu şehirleri rakiplerinizden koparıp kendi uygarlığınıza çekme olasılığınız vardır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS">
+			<Text>[ICON_Governor] Valiler bir şehrin Bağlılığını istikrara kavuşturabilir. [ICON_Governor] Valiler ayrıca unvanlarla açılan benzersiz yeteneklere sahiptir. Bunlar, [ICON_Governor] Valinin atandığı şehirde özel avantajlar sağlar.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1">
+			<Text>Bir [ICON_Governor] Vali, bir şehrin Bağlılığını artırmaktan çok daha fazlasını yapabilir! Her [ICON_Governor] Vali, atandığı şehre bölgeleri Altınla satın alma, şehrin kuşatılmasını önleme veya benzersiz arazi iyileştirmeleri inşa etme gibi yetenekler kazandıran benzersiz terfilere erişebilir.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2">
+			<Text>Her Vali Unvanı aldığınızda, mevcut valilerinizden birini terfi ettirmek veya yeni bir [ICON_Governor] Vali atamak arasında seçim yapmanız gerekecek. [ICON_Governor] Valilerinizi oyun boyunca nasıl kullanacağınızı önceden düşünün ve [ICON_Governor] Valilerinizi yeni şehirlere yeniden atamaktan çekinmeyin!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_ALLIANCES">
+			<Text>İttifaklar artık uzmanlaşmıştır ve her tür belirgin bir avantaj sağlar. Zaman içinde bir İttifakı geliştirerek daha da güçlü avantajlar elde edebilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES">
+			<Text>Nükleer Saldırı gibi kritik olaylar gerçekleştiğinde uygarlıklar bir araya gelip Acil Durum ilan edebilir. Acil Durum, diğer uygarlıklar tarafından saldırgan oyuncuya karşı ilan edilir. Bir Acil Durum'da hangi taraf galip gelirse onun için ödüller vardır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1">
+			<Text>İttifaklar, uygarlığınızın belirli bir yönüne odaklanır; [Icon_Science] Bilim, [Icon_Culture] Kültür, [Icon_Faith] İnanç veya Ticaret gibi. Her İttifak Seviye 1'de başlar ve Seviye 3'e kadar geliştirilebilir. Bir uygarlıkla aynı anda yalnızca bir tür İttifak kurabilirsiniz.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2">
+			<Text>Seviye 3 İttifaklar çok güçlüdür. Örneğin, Seviye 3 Kültürel İttifak, müttefikinizin ürettiği [Icon_Tourism] Turizm ve [Icon_Culture] Kültür'ün bir kısmını size verir ve Seviye 3 Ekonomik İttifak, müttefiklerin sahip olduğu Süzeren bonuslarını paylaşmalarına olanak tanır.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_CITYBANNER">
+			<Text>Şehir başlığı, kritik bilgilere daha net ve kolay erişim sağlamak üzere güncellendi. Bağlılık hakkında daha fazla bilgi görmek için uygarlığınızın simgesine veya [ICON_Governor] Valilerinizi yönetmek için Vali portresine tıklayın.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_END">
+			<Text>Uygarlığınız yükselecek mi yoksa çökecek mi? Sid Meier'in Medeniyet VI'sında nasıl hüküm süreceksiniz?</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_END_DETAILS_1">
+			<Text>Bu bilgileri her zaman danışmana danışarak, Civilopedia'ya bakarak veya Oynanış Seçenekleri menüsünde bu öğreticiyi yeniden açarak gözden geçirebilirsiniz.</Text>
+		</Row>
 	</EnglishText>
 </GameData>

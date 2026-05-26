@@ -11,11 +11,20 @@
 		<Row Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_NAME">
 			<Text>Altın Çağ Savaşı İlan Et</Text>
 		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>"To Arms!" Adanması ile Altın Çağ'dayken bir oyuncuya savaş ilan etmek için kullanılır. Bir uygarlığı kınadıktan hemen sonra, normal bekleme süresi olmadan kullanılabilir. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur. Savaş kışkırtıcılığı cezaları %75 azaltılır.</Text>
+		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_NAME">
 			<Text>İntikam Savaşı İlan Et</Text>
 		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Son 30 tur içinde size verdiği sözü bozan bir oyuncuya savaş ilan etmek için kullanılır. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur. Savaş kışkırtıcılığı cezaları %50 azaltılır.</Text>
+		</Row>
 		<Row Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_NAME">
 			<Text>İdeolojik Savaş İlan Et</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Farklı bir 3. Kademe hükümete sahip bir oyuncuya savaş ilan etmek için kullanılır. Hangi şehirleri ele geçirebileceğiniz konusunda herhangi bir kısıtlama yoktur. Savaş kışkırtıcılığı cezaları %50 azaltılır.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
 			<Text>Bir Dostluk İlan Edilen ile İttifak kurun. Müttefikler savaşa giremez, otomatik olarak Açık Sınırlar'a sahip olur, otomatik olarak bir Savunma Paktı oluşturur ve müttefiklerden biri bir şehir kaybederse her biri saldırgan uygarlığa karşı bir Savaş Gerekçesi kazanır.</Text>
