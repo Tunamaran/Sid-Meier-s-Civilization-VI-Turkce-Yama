@@ -1,6 +1,6 @@
 # Sid Meier's Civilization VI — Türkçe Yama
 
-Medeniyet VI oyunu için topluluk Türkçe çeviri yaması.
+Sid Meier's Civilization VI oyunu için topluluk Türkçe çeviri yaması.
 
 ## İçerik
 
