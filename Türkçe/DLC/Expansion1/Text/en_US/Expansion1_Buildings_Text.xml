@@ -135,7 +135,7 @@
 			<Text>Kotoku-in</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
-			<Text>Bu şehirde %20 [ICON_Faith] İnanç sağlar. 4 Savaşçı Keşiş verir. Tapınak bulunan bir Kutsal Alan bölgesine bitişik inşa edilmelidir. Savaşçı Keşişler ancak oyuncu bir din kurmuşsa veya bu oyuncu ya da şehir için çoğunluk dini mevcutsa alınabilir.</Text>
+			<Text>Bu şehirde %20 [ICON_Faith] İnanç sağlar. 4 Savaşçı Keşiş verir.[NEWLINE][NEWLINE]Tapınak bulunan bir Kutsal Alan bölgesine bitişik inşa edilmelidir. Savaşçı Keşişler ancak oyuncu bir din kurmuşsa veya bu oyuncu ya da şehir için çoğunluk dini mevcutsa alınabilir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
 			<Text>Aziz Basil Katedrali</Text>

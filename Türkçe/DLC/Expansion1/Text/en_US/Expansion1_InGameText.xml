@@ -683,7 +683,7 @@
 			<Text>Su Ürünleri Yetiştiriciliği</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
-			<Text>Balıkçılık eşsiz iyileştirmesi şehirdeki kıyı bölgelerine inşa edilebilir. 1 [ICON_Besin] Besin sağlar, bir deniz kaynağına komşuysa +1 [ICON_Besin] Besin.</Text>
+			<Text>Balıkçılık eşsiz iyileştirmesi şehirdeki kıyı bölgelerine inşa edilebilir. 1 [ICON_Food] Besin sağlar, bir deniz kaynağına komşuysa +1 [ICON_Food] Besin.</Text>
 		</Row>
 		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
 			<Text>Parklar ve Rekreasyon</Text>

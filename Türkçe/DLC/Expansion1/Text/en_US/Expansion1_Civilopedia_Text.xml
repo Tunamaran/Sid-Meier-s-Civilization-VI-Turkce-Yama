@@ -73,10 +73,10 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_2_CHAPTER_CONTENT_PARA_2">
 			<Text>Ayrıca, Askeri Acil Durum, Şehir Devleti Acil Durumu, Nükleer Acil Durum ve İhanet Acil Durumu hedefine karşı, bu Acil Duruma katılırsanız savaş ilan edersiniz.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_9">
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_10">
 			<Text>+2: Her bitişik Doğa Harikası ve Şehir Parkı</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_13">
+		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_11_CHAPTER_CONTENT_PARA_14">
 			<Text>+1: Her bitişik Golf Sahası, Şato ve Sfenks.</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_4">
@@ -135,7 +135,7 @@
 		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_6">
 			<Text>Ortak Savaş: Başka bir uygarlıkla bir hedefe karşı Ortak Savaş ilan edebilirsiniz. Ortak Savaş'taki her iki ortağın da Dış Ticaret sosyal politikasını araştırmış olması gerekir. Ortak Savaş anlaşması 30 tur sürer ve çağdaki bir Resmî Savaş ile aynı savaş kışkırtıcılığı cezalarını taşır.</Text>
-		</row>
+		</Row>
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_PARA_7">
 			<Text>Yeniden Fetih Savaşı: Başka bir uygarlık sizin kurduğunuz bir şehri ele geçirdiyse ve Savunma Taktikleri sosyal politikasını araştırdıysanız Yeniden Fetih Savaşı ilan edebilirsiniz. Savaş ilan etmeden önce hedefinizi kınamanız ve 5 tur beklemeniz gerekir. Bu Casus Belli, hiçbir savaş kışkırtıcılığı cezası taşımaması bakımından benzersizdir. Ayrıca başarıyla ele geçirmeniz halinde yeniden fetih hedefinizi cezasız olarak yerle bir etmeyi seçebilirsiniz. Belki geri aldığınız şehrin görüntüsüne dayanamıyorsunuzdur? Siz amansız tiran; canınız ne istiyorsa onu yapın.</Text>
 		</Row>

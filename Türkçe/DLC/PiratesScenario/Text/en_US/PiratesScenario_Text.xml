@@ -678,12 +678,12 @@
 			<Text>Bu Meyhane Ziyaret Edilebilir!</Text>
 		</Row>
 		<Row Tag="LOC_TAVERN_COOLDOWN">
-			<Text>Rom bitti! [NEWLINE]{1_Turns: plural 1?{1_Turns} tur; other?{1_Turns} tur;} sonra tekrar ziyaret edin!</Text>
+			<Text>Rom bitti! [NEWLINE]{1_Turns: plural 1?{1_turns} tur; other?{1_Turns} tur;} sonra tekrar ziyaret edin!</Text>
 		</Row>
 		
 		<!--City Banner Sacked Indicator-->
 		<Row Tag="LOC_PIRATES_CITY_SACKED">
-			<Text>Şehirden hâlâ dumanlar yükseliyor.[NEWLINE]{1_Turns: plural 1?{1_Turns} tur; other?{1_Turns} tur;} sonra tekrar yağmalanabilir.</Text>
+			<Text>Şehirden hâlâ dumanlar yükseliyor.[NEWLINE]{1_Turns: plural 1?{1_turns} tur; other?{1_Turns} tur;} sonra tekrar yağmalanabilir.</Text>
 		</Row>
 		<Row Tag="LOC_PIRATES_CITY_NOT_SACKED">
 			<Text>Bu şehir yağmaya hazır.</Text>
@@ -700,7 +700,7 @@
 			<Text>Tur Başına: {1_usagePerTurn}</Text>
 		</Row>
 		<Row Tag="LOC_PIRATES_MORALE_TRACKER_MUTINY_TURNS">
-			<Text>İsyan {1_Turns: plural 1?{1_Turns} tur; other?{1_Turns} tur;} içinde patlak verecek!</Text>
+			<Text>İsyan {1_Turns: plural 1?{1_turns} tur; other?{1_Turns} tur;} içinde patlak verecek!</Text>
 		</Row>
 		<Row Tag="LOC_PIRATES_MORALE_TRACKER_PROFIT">
 			<Text>Hazinemiz büyüyor!</Text>

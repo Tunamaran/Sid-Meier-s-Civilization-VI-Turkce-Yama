@@ -1341,7 +1341,7 @@
 			<Text>Gök ve Yıldızlar</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE">
-			<Text>Gök ve Yıldızlar Altın Çağı:[NEWLINE]Atom Çağı'nda iseniz Gelişmiş Uçuş, Nükleer Fisyon ve Roketçilik için [ICON_TechBoosted] Buluşlarının kilidini açar. Enformasyon Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji için Buluşların kilidi açılır. Tüm Hava Birimleri için kazanılan [ICON_XP] XP +100%.</Text>
+			<Text>Gök ve Yıldızlar Altın Çağı:[NEWLINE]Atom Çağı'nda iseniz Gelişmiş Uçuş, Nükleer Fisyon ve Roketçilik için [ICON_TechBoosted] Buluşlarının kilidini açar. Enformasyon Çağı'nda ise Uydular, Robotik, Nükleer Füzyon ve Nanoteknoloji için Buluşların kilidi açılır. Tüm Hava Birimleri için kazanılan XP +100%.</Text>
 		</Row>
 		<Row Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
 			<Text>Gök ve Yıldızlar Adanma bonusu:[NEWLINE]İnşa edilen her Hava Meydanı binası için +1 Çağ Puanı kazanın. Bir [ICON_GreatPerson] Büyük Kişi kazanıldığında veya satın alındığında her seferinde +1 Çağ Puanı kazanın.</Text>

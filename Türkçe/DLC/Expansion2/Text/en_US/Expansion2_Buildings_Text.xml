@@ -56,7 +56,7 @@
 			<Gender>Masculine:no_article</Gender>
 		</Row>
 		<Row Tag="LOC_BUILDING_MACHU_PICCHU_DESCRIPTION">
-			<Text>Dağ bölgeleri, tüm şehirlerdeki Ticaret Merkezi, Tiyatro Meydanı ve Sanayi Bölgesi bölgelerine standart bir komşuluk bonusu sağlar. Yanardağ içermeyen bir Dağ bölgesine inşa edilmelidir.</Text>
+			<Text>Dağ bölgeleri, tüm şehirlerdeki Ticaret Merkezi, Tiyatro Meydanı ve Sanayi Bölgesi bölgelerine standart bir komşuluk bonusu sağlar.[NEWLINE][NEWLINE]Yanardağ içermeyen bir Dağ bölgesine inşa edilmelidir.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_ORSZAGHAZ_NAME">
 			<Text>Országház</Text>
