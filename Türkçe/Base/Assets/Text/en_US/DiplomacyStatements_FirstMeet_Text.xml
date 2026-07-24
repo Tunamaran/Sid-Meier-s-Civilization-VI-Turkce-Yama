@@ -34,7 +34,7 @@
 			<Text>İyi günler. Sizinle şahsen tanışmak bir onur. Demek ki büyük zihinler gerçekten birbirini çekiyormuş.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PERICLES_ANY">
-			<Text>Merhaba, ben Atinalı Perikles ve sizi Demokrasi adına selamlıyorum. Bu tarafsız taraflarla işlerimi yürütmeme izin vereceğinizi umuyorum.</Text>
+			<Text>Merhaba, ben Atinalı Perikles ve sizi Demokrasi adına selamlıyorum. Bu tarafsız taraflarla işlerimi yürütmeme izin vereceğinizi umuyorum?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_PETER_GREAT_ANY">
 			<Text>Merhaba, ben Çar Peter. Sizin gibi kültürlü bir lider hayatın güzel şeylerinden keyif almalı. Sanata da düşkün müsünüz?</Text>
@@ -123,7 +123,7 @@
 			<Text>Yakınımızda bir şehrimiz var. Ziyaret etmek ister misiniz? Size sivri şapkalarımızdan birini uydurabiliriz.</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TRAJAN_ANY">
-			<Text>İmparatorluğun, elbette, yakınımızda bir şehri var. Gelin, görün ve güzelliği karşısında büyülenin.</Text>
+			<Text>İmparatorluğun, elbette, yakınımızda bir şehri var. Gelin, görün ve güzelliği karşısında büyülenmeye ne dersiniz?</Text>
 		</Row>
 		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_VICTORIA_ANY">
 			<Text>Sizi krallığımızı teşrif etmeye davet etmek bizim için büyük bir imtiyazdır; şüphesiz ki sayısız sömürgemiz sayesinde bu davet oldukça sade kalacaktır.</Text>

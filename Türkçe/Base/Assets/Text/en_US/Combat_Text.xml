@@ -63,7 +63,7 @@
 			<Text>Önleme yaparken, {2_UnitName} biriminiz, {LOC_GRAMMAR_A_AN &lt;&lt; {4_EnemyAdjective}} {5_EnemyUnitName} ({6_Num} hasar) tarafından yok edildi!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DIED_DEFENDING">
-			<Text>Savunma sırasında, {2_UnitName} biriminiz, {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} tarafından yok edildi! ({5_Num} hasar)</Text>
+			<Text>Savunma sırasında, {2_UnitName} biriminiz, {LOC_GRAMMAR_A_AN &lt;&lt; {3_EnemyAdjective}} {4_EnemyUnitName} tarafından yok edildi ({5_Num} hasar)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_STRAFED_ENEMY">
 			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimini tarayarak {3_Num} hasar verdi!</Text>
@@ -75,7 +75,7 @@
 			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimi tarafından taranarak {3_Num} hasar aldı!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_DAMAGED_ENEMY">
-			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimine hasar verdi! ({3_Num} hasar)</Text>
+			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimine hasar verdi ({3_Num} hasar)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_BOMBARDED_ENEMY">
 			<Text>{1_UnitName} biriminiz, bir düşman {2_EnUName} birimini bombardıman ederek {3_Num} hasar verdi!</Text>
@@ -96,7 +96,7 @@
 			<Text>Düşman {LOC_GRAMMAR_A_AN &lt;&lt; {1_EnemyAdjective}} {2_EnemyUnitName} biriminin WMD saldırısını {3_Num} hasar vererek başarıyla durdurdunuz!</Text>
 		</Row>
 		<Row Tag="LOC_MISC_YOUR_UNIT_DIED_BY_UNKNOWN">
-			<Text>Savunma sırasında, {1_UnitName} biriminiz, gizlenmiş bir {2_EnUName} tarafından yok edildi! ({3_Num} hasar)</Text>
+			<Text>Savunma sırasında, {1_UnitName} biriminiz, gizlenmiş bir {2_EnUName} tarafından yok edildi ({3_Num} hasar)!</Text>
 		</Row>
 		<Row Tag="LOC_COMBAT_YOUR_UNIT_ATTACKED_ENEMY_DISTRICT">
 			<Text>{1_UnitName} biriminiz, bir düşman {2_Name} hedefine saldırarak {3_Num} hasar verdi!</Text>
