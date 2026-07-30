@@ -97,10 +97,7 @@
 		<Row Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
 			<Text>Bağlılık 0'a düştüğü için {1_CityName} şehri isyan etti ve bir Özgür Şehir haline geldi. Şehri yeniden kontrol altına almak için ya bağlılığınızı yeniden tesis etmeli ya da askerî güç kullanmalısınız.</Text>
 		</Row>
-    <Row Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
-      <Text>Bağlılık 0'a düştüğü için {1_CityName} şehri isyan ederek {2_CivName}'ye katıldı. Şehri yeniden kontrol altına almak için burada tekrar bağlılık göstermeli veya askeri güç kullanmalısınız.</Text>
-    </Row>
-		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
+<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
 			<Text>Yabancı Şehir Bağımsızlık Kazandı</Text>
 		</Row>
 		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">

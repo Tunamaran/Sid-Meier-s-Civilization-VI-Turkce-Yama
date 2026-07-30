@@ -98,8 +98,5 @@
 		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
 			<Text>Özgür Şehirler</Text>
 		</Row>
-		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_ADJECTIVE">
-			<Text>Free Cities</Text>
-		</Row>
-	</EnglishText>
+</EnglishText>
 </GameData>

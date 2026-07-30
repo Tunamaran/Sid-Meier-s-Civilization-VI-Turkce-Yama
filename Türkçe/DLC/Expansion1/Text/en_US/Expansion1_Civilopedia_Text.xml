@@ -305,10 +305,7 @@
 		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_12">
 			<Text>Keşke Burada Olsaydınız: Çıkarılan her Tarihi Eser için +1 Çağ Puanı kazanın. Altın Bir Çağ'ın başında seçilirse, [ICON_Governor] Valiye sahip şehirler, Dünya Harikalarından +%50 [ICON_Tourism] Turizm alır. Tüm Milli Parklara +%100 [ICON_Tourism] Turizm.</Text>
 		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_13">
-			<Text>Otomasyon Savaşı: Bir Dev Ölüm Robotu ile Barbar olmayan her birliği öldürdüğünüzde +1 Çağ Puanı kazanın. Bir Altın Çağ'ın başlangıcında seçilirse, başkentinizde bir Dev Ölüm Robotu kazanın. Tur başına 3 [ICON_Resource_Uranium] Uranyum alın. [ICON_Resource_Uranium] Uranyum madenleri tur başına 1 fazla kaynak biriktirir. Bilgi ve Gelecek Çağı'nda geçerlidir.</Text>
-		</Row>
-		<!-- Features -->
+<!-- Features -->
 		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_REEF_CHAPTER_HISTORY_PARA_1">
 			<Text>Resifler, açık suların yüzeyinin altında oluşur ve gemiler için hız tümseği görevi görür. Bazıları kum, kaya gibi inorganik malzemelerden veya kum ve kayadan oluşan resiflerde birikmiş gemi batıklarından oluşsa da, en canlı olanları tropikal sularda bulunan mercan resifleridir.</Text>
 		</Row>

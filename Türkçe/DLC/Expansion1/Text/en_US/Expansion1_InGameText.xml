@@ -1751,10 +1751,7 @@
 		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
 			<Text>Diplomat [ICON_Governor] Valilerini bu şehir devletine atayan uygarlıklar:</Text>
 		</Row>
-		<Row Tag="LOC_CITY_STATE_PANEL_HAS_VISIER">
-			<Text>Ottoman Grand Visier assigned to this city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
+<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
 			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
 		</Row>
 		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY_UNMET">
